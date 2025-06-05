@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Verkkokauppa – Etusivu</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Tähän ulkoinen header ladataan -->
+  <div id="header-placeholder"></div>
+
+  <main>
+    <h1>Tervetuloa verkkokauppaamme!</h1>
+    <p>Esittelytekstiä</p>
+    <!-- muu sisältö -->
+  </main>
+
+  <script>
+    // Ladataan header.html ja asetetaan se placeholder‐diviin
+    fetch('/header.html')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Headerin lataus epäonnistui: ' + response.status);
+        }
+        return response.text();
+      })
+      .then(html => {
+        document.getElementById('header-placeholder').innerHTML = html;
+      })
+      .catch(err => {
+        console.error(err);
+        // Voit halutessasi näyttää virheviestin tai jättää headerin tyhjäksi
+      });
+  </script>
+</body>
+</html>
