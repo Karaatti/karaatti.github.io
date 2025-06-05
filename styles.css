@@ -1,0 +1,655 @@
+/* ====================
+   1. @font-face – Prenton rp Pro Bold
+   ==================== */
+@font-face {
+  font-family: "PrentonPro";
+  src: url("fonts/PrentonPro-Bold.woff2") format("woff2"),
+       url("fonts/PrentonPro-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ====================
+   2. Montserrat Bold (Google Fonts -linkki)
+   ==================== */
+/* @import täytyy olla aina CSS-tiedoston alussa */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+
+/* ====================
+   3. Väri-muuttujat (CSS Custom Properties)
+   ==================== */
+:root {
+  --color-light-beige: #F3E8E8;      /* CMYK 4 7 14 0, RGB 243 232 216 */
+  --color-taupe: #B6A5A2;            /* CMYK 30 33 31 0, RGB 182 165 162 */
+  --color-dark-charcoal: #3D3A36;    /* CMYK 65 61 64 53, RGB 61 58 54 */
+  --color-olive-green: #5E6D55;      /* CMYK 62 42 68 23, RGB 94 109 85 */
+
+  --text-primary: var(--color-dark-charcoal);
+  --text-secondary: var(--color-taupe);
+  --bg-primary: var(--color-light-beige);
+  --accent: var(--color-olive-green);
+}
+
+/* ====================
+   4. Resettaukset / perusasetukset
+   ==================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  min-height: 100%;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.6;
+}
+
+a {
+  text-decoration: none;
+  color: var(--accent);
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ====================
+   5. Typografia ja brändielementit
+   ==================== */
+h1 {
+  font-family: "PrentonPro", sans-serif;
+  font-weight: 700;
+  font-size: 2.5rem;
+  color: var(--text-primary);
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.5rem;
+}
+
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  color: var(--text-secondary);
+}
+
+p,
+li {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+}
+
+ul,
+ol {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+  list-style-position: inside;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid var(--text-secondary);
+  border-radius: 4px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  color: var(--text-primary);
+  background-color: #fff;
+  margin-bottom: 1rem;
+}
+
+button,
+input[type="submit"] {
+  background-color: var(--accent);
+  color: #fff;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.2s ease-in-out;
+}
+
+button:hover,
+input[type="submit"]:hover {
+  background-color: #4d5b4b; /* Tummentunut murretun vihreä hover-tilaan */
+}
+
+/* ====================
+   6. NAVIGATIO (Header & Hamburger)
+   ==================== */
+.navbar {
+  background-color: var(--color-dark-charcoal);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 2rem;
+  position: relative;
+  z-index: 1000;
+}
+
+/* Logo */
+.navbar .logo a {
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 1.25rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+}
+
+/* NAV-LINKS: oletuksena vaakasuora lista isolla näytöllä */
+.nav-links {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+/* Jokainen listan kohta */
+.nav-links li {
+  position: relative;
+}
+
+/* Linkit / napit navigaatiossa */
+.nav-links li a,
+.nav-links li .dropdown-toggle {
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+/* Hover-efekti pelkälle <a>-linkille */
+.nav-links li:hover > a {
+  opacity: 0.8;
+}
+
+/* ====================
+   Dropdown-kategoriat
+   ==================== */
+/* Alivalikko piilotetaan oletuksena */
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: var(--color-taupe);
+  padding: 0.5rem 0;
+  border-radius: 4px;
+  min-width: 180px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+}
+
+/* Lista alivalikossa */
+.dropdown-menu li {
+  padding: 0.5rem 1rem;
+}
+
+/* Linkin väri alivalikossa */
+.dropdown-menu li a {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+/* Hover-efekti alivalikon linkeille */
+.dropdown-menu li a:hover {
+  color: var(--accent);
+}
+
+/* Kun .dropdown-luokkaan lisätään .open, näytetään alivalikko */
+.dropdown.open .dropdown-menu {
+  display: block;
+}
+
+/* Pieni nuoli painikkeen vieressä */
+.dropdown-toggle .arrow {
+  margin-left: 0.25rem;
+  font-size: 0.8rem;
+}
+
+/* ====================
+   Hamburger-painike (piilotetaan isommilla näytöillä)
+   ==================== */
+.nav-toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 30px;
+  height: 25px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  z-index: 1100;
+}
+
+.hamburger {
+  width: 100%;
+  height: 3px;
+  background-color: #fff;
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+
+/* ====================
+   Footer-tyyli
+   ==================== */
+footer {
+  background-color: var(--color-dark-charcoal);
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.9rem;
+}
+
+/* ====================
+   7. Sivujen lohkot (Sections)
+   ==================== */
+#hero {
+  background-color: var(--color-olive-green);
+  color: #fff;
+  text-align: center;
+  padding: 4rem 1rem;
+}
+#hero h1 {
+  font-size: 3rem;
+  line-height: 1.2;
+}
+#hero p {
+  font-size: 1.25rem;
+  margin-top: 1rem;
+}
+
+section {
+  padding: 2rem 2rem;
+  max-width: 1000px;
+  margin: 0 auto 2rem auto;
+  background-color: #fff;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+#about h2,
+#collection h2,
+#solutions h2,
+#clients h2,
+#contact h2 {
+  border-bottom: 2px solid var(--color-taupe);
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+#about p,
+#collection p,
+#solutions p,
+#clients p {
+  margin-top: 1rem;
+  text-align: justify;
+  line-height: 1.7;
+}
+
+main section {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 2rem auto;
+}
+
+main h1 {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+main img {
+  margin: 0 auto 2rem auto;
+  border-radius: 4px;
+}
+
+/* ====================
+   8. Responsive-pointit
+   ==================== */
+@media (max-width: 768px) {
+  /* Hamburger näkyviin */
+  .nav-toggle {
+    display: flex;
+  }
+
+  /* Piilotetaan nav-links oletuksena pienellä näytöllä */
+  .nav-links {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: var(--color-dark-charcoal);
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem 0;
+    display: none;
+  }
+
+  /* Kun painetaan hamburge​ria, lisätään .active ja näytetään valikko */
+  .nav-links.active {
+    display: flex;
+  }
+
+  /* Kategorian alivalikko saa position: static ja kipataan vähän sisennystä pienellä näytöllä */
+  .dropdown-menu {
+    position: static;
+    box-shadow: none;
+    background-color: transparent;
+    padding: 0;
+  }
+
+  /* Popup-alivalikko pienellä näytöllä näytille vain, kun .open */
+  .dropdown.open .dropdown-menu {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--color-taupe);
+    border-radius: 4px;
+    width: 100%;
+  }
+
+  .dropdown-menu li {
+    width: 100%;
+    text-align: center;
+    padding: 0.5rem 0;
+  }
+
+  /* Hero-tekstin koko pienempi */
+  #hero h1 {
+    font-size: 2.5rem;
+  }
+  #hero p {
+    font-size: 1.1rem;
+  }
+
+  /* Sectionit tiiviimmäksi */
+  section {
+    padding: 1.5rem 1rem;
+  }
+
+  /* Typografian pienennys */
+  h1 {
+    font-size: 2rem;
+  }
+  h2 {
+    font-size: 1.75rem;
+  }
+  h3 {
+    font-size: 1.25rem;
+  }
+  p {
+    font-size: 0.95rem;
+  }
+
+/* ====================
+   1. RESET / PERUSASETUKSET
+   ==================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  min-height: 100%;
+  background-color: var(--bg-primary, #F3E8E8);
+  color: var(--text-primary, #3D3A36);
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.6;
+}
+
+a {
+  text-decoration: none;
+  color: var(--accent, #5E6D55);
+}
+a:hover {
+  opacity: 0.8;
+}
+
+ul {
+  list-style: none;
+}
+
+/* ====================
+   2. HEADER
+   ==================== */
+.header {
+  position: fixed;
+  inset: 0 0 auto 0;
+  background-color: var(--color-primary, #3D3A36);
+  transition: transform var(--transition-slow, 0.5s) var(--ease, ease-in-out);
+  z-index: 1000;
+}
+
+.header-container {
+  position: relative;
+  width: 100%;
+  height: var(--header-height, 60px);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-inline: var(--space-md, 1rem);
+  background-color: var(--color-primary, #3D3A36);
+  box-shadow: var(--shadow-default, 0 2px 6px rgba(0, 0, 0, 0.1));
+  z-index: 1;
+}
+
+/* Logo */
+.header .logo {
+  font-size: var(--font-size-logo, 1.25rem);
+  font-weight: var(--font-weight-bold, 700);
+  color: var(--color-white, #ffffff);
+  text-decoration: none;
+  text-shadow: var(--shadow-text, 0 1px 2px rgba(0, 0, 0, 0.2));
+}
+
+/* ====================
+   3. HAMPURILAISIKONI
+   ==================== */
+.hamburger {
+  --burger-line-h: 0.2rem;
+  --burger-size: 1.75rem;
+  display: none;
+  position: relative;
+  width: var(--burger-size);
+  height: var(--burger-size);
+  background: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  z-index: 1001;
+  -webkit-tap-highlight-color: transparent;
+}
+.hamburger:focus {
+  outline: none;
+}
+.hamburger span {
+  position: absolute;
+  left: 0;
+  width: var(--burger-size);
+  height: var(--burger-line-h);
+  background-color: var(--color-white, #ffffff);
+  border-radius: var(--radius-xs, 2px);
+  transition: transform var(--transition-fast, 0.2s) var(--ease, ease-in-out),
+              opacity var(--transition-fast, 0.2s) var(--ease, ease-in-out);
+  transform-origin: center;
+}
+.hamburger span:nth-child(1) {
+  top: 0;
+}
+.hamburger span:nth-child(2) {
+  top: calc(50% - (var(--burger-line-h)/2));
+}
+.hamburger span:nth-child(3) {
+  bottom: 0;
+}
+
+/* Kun ikonia klikattu (rana .open), muokataan rivejä ristiksi */
+.hamburger.open span:nth-child(1) {
+  transform: translateY(0.78rem) rotate(45deg);
+}
+.hamburger.open span:nth-child(2) {
+  opacity: 0;
+  transform: scaleX(0);
+}
+.hamburger.open span:nth-child(3) {
+  transform: translateY(-0.78rem) rotate(-45deg);
+}
+
+/* ====================
+   4. NAVIGATIO
+   ==================== */
+.nav {
+  display: flex;
+  align-items: center;
+  z-index: 1000;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.nav-links li {
+  position: relative;
+}
+
+.nav-links li a,
+.nav-links li .dropdown-toggle {
+  color: var(--color-white, #ffffff);
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.nav-links li:hover > a {
+  opacity: 0.8;
+}
+
+/* ====================
+   5. DROPDOWN-KATEGORIAT
+   ==================== */
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: var(--color-taupe, #B6A5A2);
+  padding: 0.5rem 0;
+  border-radius: 4px;
+  min-width: 180px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+}
+.dropdown-menu li {
+  padding: 0.5rem 1rem;
+}
+.dropdown-menu li a {
+  color: var(--text-primary, #3D3A36);
+  font-weight: 600;
+}
+.dropdown-menu li a:hover {
+  color: var(--accent, #5E6D55);
+}
+.dropdown.open .dropdown-menu {
+  display: block;
+}
+.dropdown-toggle .arrow {
+  margin-left: 0.25rem;
+  font-size: 0.8rem;
+}
+
+/* ====================
+   6. RESPONSIIVISUUS (max-width: 768px)
+   ==================== */
+@media (max-width: 768px) {
+  .hamburger {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+
+  .nav-links {
+    position: absolute;
+    top: var(--header-height, 60px);
+    left: 0;
+    right: 0;
+    background-color: var(--color-primary, #3D3A36);
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem 0;
+    display: none;
+  }
+  .nav-links.active {
+    display: flex;
+  }
+
+  .dropdown-menu {
+    position: static;
+    box-shadow: none;
+    background-color: transparent;
+    padding: 0;
+  }
+  .dropdown.open .dropdown-menu {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--color-taupe, #B6A5A2);
+    border-radius: 4px;
+    width: 100%;
+    margin-top: 0.5rem;
+  }
+  .dropdown-menu li {
+    width: 100%;
+    text-align: center;
+    padding: 0.5rem 0;
+  }
+}
