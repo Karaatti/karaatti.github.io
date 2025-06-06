@@ -49,24 +49,44 @@ document.addEventListener("DOMContentLoaded", function () {
     // ****************************************
     const hamburger = document.querySelector(".hamburger");
     const navLinks = document.querySelector(".nav-links");
-    if (hamburger && navLinks) {
-      hamburger.addEventListener("click", function (e) {
-        e.stopPropagation(); // estetään tämän klikkauksen kuuluminen dokumentin muuhun kuuntelijaan
-        this.classList.toggle("open");
-        navLinks.classList.toggle("active");
-      });
-    }
 
     // ****************************************
     // 3) Dropdown‐valikon toggle (Categories)
     // ****************************************
     const dropdowns = document.querySelectorAll(".dropdown");
+
+    // ****************************************
+    // Valmistelemme no-scroll -logiikan
+    // ****************************************
+    const body = document.body;
+    function updateNoScroll() {
+      const isNavOpen = navLinks && navLinks.classList.contains("active");
+      const isAnyDropdownOpen = Array.from(dropdowns).some((d) =>
+        d.classList.contains("open")
+      );
+      if (isNavOpen || isAnyDropdownOpen) {
+        body.classList.add("no-scroll");
+      } else {
+        body.classList.remove("no-scroll");
+      }
+    }
+
+    if (hamburger && navLinks) {
+      hamburger.addEventListener("click", function (e) {
+        e.stopPropagation(); // estetään tämän klikkauksen kuuluminen dokumentin muuhun kuuntelijaan
+        this.classList.toggle("open");
+        navLinks.classList.toggle("active");
+        updateNoScroll();
+      });
+    }
+
     dropdowns.forEach((dropdown) => {
       const toggleBtn = dropdown.querySelector(".dropdown-toggle");
       if (!toggleBtn) return;
       toggleBtn.addEventListener("click", function (e) {
         e.stopPropagation();
         dropdown.classList.toggle("open");
+        updateNoScroll();
       });
     });
 
@@ -98,6 +118,9 @@ document.addEventListener("DOMContentLoaded", function () {
           hamburger.classList.remove("open");
         }
       }
+
+      // Päivitetään no-scroll-staatia klikkauksen jälkeen
+      updateNoScroll();
     });
 
     // ****************************************
@@ -121,37 +144,45 @@ document.addEventListener("DOMContentLoaded", function () {
         // Muutoin ei kutsuta preventDefault(), jolloin <a href="index.html"> vie normaalisti etusivulle.
       });
     }
-  }
 
-  // ****************************************
-  // 6) Dynaaminen URL-hashin päivitys rullauksen mukaan
-  // ****************************************
-  // Haetaan kaikki section-elementit, joilla on id-atribuutti
-  const sections = document.querySelectorAll("section[id]");
-  if (sections.length > 0) {
-    let viimeisinHash = window.location.hash;
+    // ****************************************
+    // 6) Dynaaminen URL-hashin päivitys rullauksen mukaan (ylänurkan jälkeen)
+    // ****************************************
+    const sections = Array.from(document.querySelectorAll("section[id]"));
+    if (sections.length > 0) {
+      let viimeisinHash = window.location.hash;
+      const headerHeight = header.offsetHeight;
 
-    const observerOptions = {
-      root: null,
-      rootMargin: "-50% 0px -50% 0px",
-      threshold: 0,
-    };
-
-    const observerCallback = (entries) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting) {
-          const uusiHash = `#${entry.target.id}`;
-          if (viimeisinHash !== uusiHash) {
-            history.replaceState(null, "", uusiHash);
-            viimeisinHash = uusiHash;
+      function updateHash() {
+        let activeSection = null;
+        // Käydään läpi kaikki sectionit ja valitaan viimeinen, jonka top ≤ headerin alaosa
+        sections.forEach((section) => {
+          const rect = section.getBoundingClientRect();
+          if (rect.top <= headerHeight) {
+            activeSection = section;
           }
-        }
-      });
-    };
+        });
 
-    const observer = new IntersectionObserver(observerCallback, observerOptions);
-    sections.forEach((section) => {
-      observer.observe(section);
-    });
+        let uusiHash = "";
+        if (activeSection && activeSection.id !== "hero") {
+          uusiHash = `#${activeSection.id}`;
+        }
+        // Jos activeSection on hero tai ei löydy yhtään, uusiHash pysyy tyhjänä
+
+        if (viimeisinHash !== uusiHash) {
+          if (uusiHash === "") {
+            history.replaceState(null, "", window.location.pathname);
+          } else {
+            history.replaceState(null, "", uusiHash);
+          }
+          viimeisinHash = uusiHash;
+        }
+      }
+
+      // Lisää scroll‐kuuntelija hashin päivittämiseksi
+      window.addEventListener("scroll", updateHash);
+      // Kutsu kerran sivun latauduttua, jos asiakas on suoraan johonkin alempaan kohtaan
+      updateHash();
+    }
   }
 });

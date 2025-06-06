@@ -41,7 +41,6 @@
 
   /* ========== SHADOWS & BORDERS ========== */
   --box-shadow-default:    0 2px 6px rgba(0, 0, 0, 0.2);
-
   --border-radius:         4px;
 
   /* ========== TRANSITIONS ========== */
@@ -57,12 +56,25 @@
   --burger-size:   1.75rem;
   --burger-line-h: 0.2rem;
 
-      /* --- Tekstuuri ---*/
-    --texture-img: url("./images/paper.webp");
-    --texture-opacity: 1;
-    --texture-size: 512px;
-  
+  /* --- Tekstuuri --- */
+  --texture-img: url("./images/paper.webp");
+  --texture-opacity: 1;
+  --texture-size: 512px;
 }
+
+/* Kun body:ssä on luokka "no-scroll", ei sallita vieritystä */
+body.no-scroll {
+  overflow: hidden;
+  height: 100vh; /* varmista, että korkeus täsmää näkymän korkeuden kanssa */
+}
+
+/* Jos halutaan varmistaa, ettei taustasisältö hyppää ylös-auki-tilassa,
+   voidaan lisäksi lukita leveys (esim. estämään vaakavääristymät):
+*/
+body.no-scroll {
+  width: 100%;
+}
+
 
 /* ==============================
    RESET / BASE STYLES
@@ -73,6 +85,10 @@
   box-sizing: border-box;
   scrollbar-width: thin;
   scrollbar-color: var(--scrollbar-thumb-color) var(--color-taupe);
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 html,
@@ -202,7 +218,7 @@ input[type="submit"]:hover {
   box-shadow: var(--box-shadow-default);
 }
 .header.header-hidden {
-  transform: translateY(-50em);
+  transform: translateY(-80em);
 }
 
 .header-container {
@@ -356,6 +372,7 @@ input[type="submit"]:hover {
   display: block;
 }
 
+
 /* ==============================
    RESPONSIVE (max-width: 1182px)
    ============================== */
@@ -367,7 +384,7 @@ input[type="submit"]:hover {
     flex: 0 0 auto;
   }
   .nav-links {
-    position: absolute;
+    position: fixed;
     top: var(--header-height);
     left: 0;
     right: 0;
@@ -451,6 +468,7 @@ input[type="submit"]:hover {
   }
 }
 
+
 /* ==============================
    HERO SECTION
    ============================== */
@@ -465,7 +483,7 @@ input[type="submit"]:hover {
   background: 
     linear-gradient(
       rgba(255, 255, 255, 0.4), /* ylhäältä puoliläpinäkyvä valkoinen */
-      rgba(255, 255, 255, 0.4)  /* alhaalta sama */
+      rgba(255, 255, 255, 0.4)   /* alhaalta sama */
     ),
     url("images/MOON_GOLD_1.webp") no-repeat center/cover fixed;
 
@@ -473,7 +491,6 @@ input[type="submit"]:hover {
   color: var(--color-white);
   text-shadow: 0 0 2em rgba(255, 255, 255, 0.7);
 }
-
 
 #hero h1 {
   font-size: 3rem;
@@ -514,7 +531,6 @@ section::before {
   transform: translateX(-50%);
   width: var(--content-max-width);
   height: 100%;
-
   box-sizing: border-box;
   pointer-events: none;
 }
@@ -601,13 +617,31 @@ footer {
    TEHOSTEET JA KÄYTETTÄVYYS
    ================================================================== */
 
+.with-texture {
+  position: relative;
+  isolation: unset;      /* tai isolation: initial; */
+  overflow: visible;     /* dropdownit voivat levitä myös ulos tästä kontainerista */
+}
+
 .with-texture::before {
+  content: "";
   position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100vw;
+  height: 100%;
   background-image: var(--texture-img);
   background-repeat: repeat;
   background-size: var(--texture-size) var(--texture-size);
-  opacity: var(--texture-opacity);
   mix-blend-mode: multiply;
+  opacity: var(--texture-opacity);
   pointer-events: none;
-  width: 100vw;
+  z-index: 0;
+}
+
+.with-texture > *,
+.with-texture .sisalto {
+  position: relative;
+  z-index: 1;
 }
