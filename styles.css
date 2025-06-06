@@ -264,7 +264,7 @@ input[type="submit"]:hover {
                       rgba(0,0,0,0) 100%);
 
   pointer-events:none;
-  z-index:100;                  /* pysyy takana */
+  z-index:0;                  /* pysyy takana */
 }
 
 /* 2) VARSINAINEN LOGO – maskattu PNG + väri */
