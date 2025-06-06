@@ -53,16 +53,12 @@
   --texture-size: 512px;
 }
 
-/* Kun body:ssä on luokka "no-scroll", ei sallita vieritystä */
+/* ===== Päivitetty body.no-scroll ===== */
 body.no-scroll {
+  position: fixed;
+  left: 0;
+  right: 0;
   overflow: hidden;
-  height: 100vh; /* varmista, että korkeus täsmää näkymän korkeuden kanssa */
-}
-
-/* Jos halutaan varmistaa, ettei taustasisältö hyppää ylös-auki-tilassa,
-   voidaan lisäksi lukita leveys (esim. estämään vaakavääristymät):
-*/
-body.no-scroll {
   width: 100%;
 }
 
@@ -78,9 +74,6 @@ body.no-scroll {
   scrollbar-color: var(--scrollbar-thumb-color) var(--color-taupe);
 }
 
-html {
-  scroll-behavior: smooth;
-}
 
 html,
 body {
@@ -335,7 +328,7 @@ input[type="submit"]:hover {
 }
 
 .dropdown-menu {
-  display: none;
+  display: none; /* säilyy alkuperäisenä */
   position: absolute;
   top: 2em;
   right: 0;
@@ -346,7 +339,12 @@ input[type="submit"]:hover {
   box-shadow: var(--box-shadow-default);
   z-index: 1000;
   text-align: center;
+
+  /* Uudet lisäykset: maksimi-korkeus näkymän mukaan ja pystyrullaus */
+  max-height: calc(100vh - var(--header-height) - 2rem); /* headerin ja marginaalin verran tilaa yläpuolelle */
+  overflow-y: auto;
 }
+
 .dropdown-menu li {
   padding: 0.4rem 0;
 }
@@ -388,6 +386,10 @@ input[type="submit"]:hover {
     width: 100%;
     text-align: center;
     box-shadow: var(--box-shadow-default);
+
+    /* Uudet lisäykset: maksimi-korkeus ja pystysuuntainen vieritys */
+    max-height: calc(100vh - var(--header-height));
+    overflow-y: auto;
   }
   .nav-links.active {
     display: flex;
@@ -467,7 +469,7 @@ input[type="submit"]:hover {
   position: relative; /* Tarvitaan, jos haluat käyttää ::before-pseudoelementtiä */
   text-align: center;
   align-content: center;
-  min-height: 104vh;
+  min-height: 108vh;
   margin-top: calc(var(--header-height) * -1);
 
   /* Taustakuva + vaalea overlay */

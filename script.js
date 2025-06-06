@@ -58,7 +58,7 @@ function initPjaxNavigation() {
       // MUUTOS: jos hash on '#hero', jätetään se huomiotta
       if (href === "#hero") {
         e.preventDefault();
-        // Estetään #hero-scroll, mutta ei muuta muuta
+        // Halutaan vain estää #hero-näyttämisen, mutta emme scrollaa mihinkään
         return;
       }
 
@@ -164,7 +164,7 @@ function loadPageViaAjax(url, options = {}) {
 
       // Jos halutaan scrollata tiettyyn hash-osioon sisällön korvauksen jälkeen
       if (options.scrollToHash) {
-        // MUUTOS: jos scrollToHash on '#hero', skipataan scrollaaminen
+        // MUUTOS: jos scrollToastHash on '#hero', skipataan scrollaaminen
         if (options.scrollToHash === "#hero") {
           return;
         }
@@ -202,6 +202,28 @@ function updateActiveNavLink() {
     }
   });
 }
+let _lockedScrollPos = 0;
+
+/**
+ * Lukitsee taustasivun rullauksen siten, että nykyinen kohtaus säilyy.
+ * Lisätään bodylle top: -scrollPos ja .no-scroll.
+ */
+function lockScrollPreservePosition() {
+  _lockedScrollPos = window.pageYOffset || document.documentElement.scrollTop;
+  // Aseta bodylle inline-tyyli top, niin sisältö pysyy ruudulla paikallaan
+  document.body.style.top = `-${_lockedScrollPos}px`;
+  document.body.classList.add("no-scroll");
+}
+
+/**
+ * Palauttaa scrollauksen: poistetaan .no-scroll ja top-tyyli,
+ * ja rullataan takaisin lukittuun kohtaan.
+ */
+function unlockScrollRestorePosition() {
+  document.body.classList.remove("no-scroll");
+  document.body.style.top = "";
+  window.scrollTo(0, _lockedScrollPos);
+}
 
 function initHeaderToiminnot() {
   const header = document.querySelector(".header");
@@ -217,11 +239,6 @@ function initHeaderToiminnot() {
       header.classList.remove("header-hidden");
     }
     viimeisinScrollY = nykyinenScroll;
-
-    // MUUTOS: jos rullattu aivan ylös, poistetaan hash kokonaan URL:stä
-    if (window.scrollY === 0 && window.location.hash) {
-      history.replaceState(null, "", location.pathname);
-    }
   });
 
   // ===== 2) Hamburger-ikonin toggle mobiilissa =====
@@ -229,10 +246,19 @@ function initHeaderToiminnot() {
   const navLinks = document.querySelector(".nav-links");
   if (hamburger && navLinks) {
     hamburger.addEventListener("click", function (e) {
-      e.preventDefault();    // Estetään oletuskäyttäytyminen (jos jossain tapauksessa aiheuttaisi rullauksen)
-      e.stopPropagation();   // Estetään tapahtuman leviäminen
+      e.preventDefault();
+      e.stopPropagation();
+
       this.classList.toggle("open");
       navLinks.classList.toggle("active");
+
+      if (navLinks.classList.contains("active")) {
+        // Menu aukeaa → lukitse scroll, mutta säilytä nykyinen paikka
+        lockScrollPreservePosition();
+      } else {
+        // Menu sulkeutuu → palauta scroll
+        unlockScrollRestorePosition();
+      }
     });
   }
 
@@ -242,9 +268,17 @@ function initHeaderToiminnot() {
     const toggleBtn = dropdown.querySelector(".dropdown-toggle");
     if (!toggleBtn) return;
     toggleBtn.addEventListener("click", function (e) {
-      e.preventDefault();    // Estetään oletusrullaaminen (jos joskus on <a href="#">)
-      e.stopPropagation();   // Estetään tapahtuman leviäminen
-      dropdown.classList.toggle("open");
+      e.preventDefault();
+      e.stopPropagation();
+
+      const wasOpen = dropdown.classList.toggle("open");
+      if (wasOpen) {
+        // Dropdown aukeaa → lukitse scroll
+        lockScrollPreservePosition();
+      } else {
+        // Dropdown sulkeutuu → palauta scroll
+        unlockScrollRestorePosition();
+      }
     });
   });
 
@@ -257,6 +291,8 @@ function initHeaderToiminnot() {
         !dropdown.contains(e.target)
       ) {
         dropdown.classList.remove("open");
+        // Dropdown suljetaan → scroll pois lukituksesta
+        unlockScrollRestorePosition();
       }
     });
 
@@ -270,6 +306,8 @@ function initHeaderToiminnot() {
       ) {
         navLinks.classList.remove("active");
         hamburger.classList.remove("open");
+        // Menu suljetaan → scroll pois lukituksesta
+        unlockScrollRestorePosition();
       }
     }
   });
@@ -280,14 +318,11 @@ function initHeaderToiminnot() {
     logoLink.addEventListener("click", function (e) {
       const href = window.location.href.toLowerCase();
       const path = window.location.pathname;
-      // Tarkistetaan, ollaanko etusivulla:
-      //   - jos URL päättyy "index.html"
-      //   - tai jos path on "/" (juuripolku)
       if (href.endsWith("index.html") || path === "/") {
         e.preventDefault();
         window.scrollTo({ top: 0, behavior: "smooth" });
       }
-      // Muutoin antaa PJAX:n hoitaa navigoinnin
+      // Muutoin PJAX hoitaa navigoinnin
     });
   }
 }
@@ -329,5 +364,16 @@ function initDynamicHash() {
   const observer = new IntersectionObserver(observerCallback, observerOptions);
   sections.forEach((section) => {
     observer.observe(section);
+  });
+
+  // ADD: Kun ollaan sivun ylänurkassa (scrollY <= headerHeight), poistetaan hash kokonaan
+  window.addEventListener("scroll", function () {
+    const currentScroll = window.scrollY;
+    if (currentScroll <= header.offsetHeight) {
+      if (window.location.hash) {
+        history.replaceState(null, "", location.pathname + location.search);
+        viimeisinHash = "";
+      }
+    }
   });
 }
