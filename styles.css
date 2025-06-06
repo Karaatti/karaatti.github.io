@@ -1,6 +1,3 @@
-/* ====================
-   1. @font-face – Prenton rp Pro Bold
-   ==================== */
 @font-face {
   font-family: "PrentonPro";
   src: url("fonts/PrentonPro-Bold.woff2") format("woff2"),
@@ -10,34 +7,72 @@
   font-display: swap;
 }
 
-/* ====================
-   2. Montserrat Bold (Google Fonts -linkki)
-   ==================== */
-/* @import täytyy olla aina CSS-tiedoston alussa */
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
 
-/* ====================
-   3. Väri-muuttujat (CSS Custom Properties)
-   ==================== */
 :root {
-  --color-light-beige: #F3E8E8;      /* CMYK 4 7 14 0, RGB 243 232 216 */
-  --color-taupe: #B6A5A2;            /* CMYK 30 33 31 0, RGB 182 165 162 */
-  --color-dark-charcoal: #3D3A36;    /* CMYK 65 61 64 53, RGB 61 58 54 */
-  --color-olive-green: #5E6D55;      /* CMYK 62 42 68 23, RGB 94 109 85 */
+  /* ========== COLOR PALETTE ========== */
+  --color-light-beige:       #F3E8E8;
+  --color-taupe:             #B6A5A2;
+  --color-dark-charcoal:     #3D3A36;
+  --color-olive-green:       #5E6D55;
+  --color-white:             #FFFFFF;
+  --color-border:            #333333;
+  --color-section-bg:        #F9F9F9;
+  --color-hover-overlay:     rgba(255, 255, 255, 0.1);
+  --scrollbar-thumb-color:   var(--color-dark-charcoal);
 
-  --text-primary: var(--color-dark-charcoal);
+  /* ========== TEXT & BACKGROUND ========== */
+  --text-primary:   var(--color-dark-charcoal);
   --text-secondary: var(--color-taupe);
-  --bg-primary: var(--color-light-beige);
-  --accent: var(--color-olive-green);
+  --bg-primary:     var(--color-light-beige);
+  --accent:         var(--color-olive-green);
+  --color-primary:  var(--color-dark-charcoal);
+
+  /* ========== SPACING & SIZING ========== */
+  --header-height:            3em;
+  --spacing-base:             1rem;
+  --section-padding-vertical: 2rem;
+  --section-padding-horizontal: 1rem;
+  --content-max-width:        800px;
+
+  /* ========== TYPOGRAPHY ========== */
+  --font-base:     "Montserrat", sans-serif;
+  --font-heading:  "PrentonPro", sans-serif;
+
+  /* ========== SHADOWS & BORDERS ========== */
+  --box-shadow-default:    0 2px 6px rgba(0, 0, 0, 0.2);
+
+  --border-radius:         4px;
+
+  /* ========== TRANSITIONS ========== */
+  --transition-fast: 0.2s ease-in-out;
+  --transition-slow: 0.5s ease-in-out;
+
+  /* ========== FORM & BUTTON ========== */
+  --input-padding-vertical:   0.75rem;
+  --button-padding-vertical:  0.75rem;
+  --button-padding-horizontal: 1.5rem;
+
+  /* ========== HAMBURGER ICON ========== */
+  --burger-size:   1.75rem;
+  --burger-line-h: 0.2rem;
+
+      /* --- Tekstuuri ---*/
+    --texture-img: url("./images/paper.webp");
+    --texture-opacity: 1;
+    --texture-size: 512px;
+  
 }
 
-/* ====================
-   4. Resettaukset / perusasetukset
-   ==================== */
+/* ==============================
+   RESET / BASE STYLES
+   ============================== */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  scrollbar-width: thin;
+  scrollbar-color: var(--scrollbar-thumb-color) var(--color-taupe);
 }
 
 html,
@@ -46,15 +81,15 @@ body {
   min-height: 100%;
   background-color: var(--bg-primary);
   color: var(--text-primary);
-  font-family: "Montserrat", sans-serif;
+  font-family: var(--font-base);
   line-height: 1.6;
+  overflow-x: hidden;
 }
 
 a {
   text-decoration: none;
   color: var(--accent);
 }
-
 a:hover {
   opacity: 0.8;
 }
@@ -65,349 +100,343 @@ img {
   display: block;
 }
 
-/* ====================
-   5. Typografia ja brändielementit
-   ==================== */
+ul,
+ol {
+  margin-bottom: calc(var(--spacing-base) * -1);
+  list-style-position: inside;
+  list-style-type: none;
+}
+
+/* ==============================
+   TYPOGRAPHY
+   ============================== */
 h1 {
-  font-family: "PrentonPro", sans-serif;
+  font-family: var(--font-heading);
   font-weight: 700;
   font-size: 2.5rem;
   color: var(--text-primary);
 }
-
 h2 {
-  font-family: "Montserrat", sans-serif;
+  font-family: var(--font-base);
   font-weight: 700;
   font-size: 2rem;
   color: var(--text-primary);
   margin-bottom: 0.5rem;
+  text-align: center;
 }
-
 h3 {
-  font-family: "Montserrat", sans-serif;
+  font-family: var(--font-base);
   font-weight: 700;
   font-size: 1.5rem;
   color: var(--text-secondary);
   margin-bottom: 0.5rem;
+  text-align: center;
 }
-
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: var(--font-base);
   font-weight: 700;
   color: var(--text-secondary);
 }
 
 p,
 li {
-  font-family: "Montserrat", sans-serif;
+  font-family: var(--font-base);
   font-size: 1rem;
   color: var(--text-primary);
-  margin-bottom: 1rem;
+  margin-bottom: var(--spacing-base);
 }
 
-ul,
-ol {
-  margin-left: 1.5rem;
-  margin-bottom: 1rem;
-  list-style-position: inside;
-}
-
+/* ==============================
+   FORM ELEMENTS
+   ============================== */
 input[type="text"],
 input[type="email"],
 textarea {
   width: 100%;
-  padding: 0.75rem;
+  padding: var(--input-padding-vertical);
   border: 1px solid var(--text-secondary);
-  border-radius: 4px;
-  font-family: "Montserrat", sans-serif;
+  border-radius: var(--border-radius);
+  font-family: var(--font-base);
   font-size: 1rem;
   color: var(--text-primary);
-  background-color: #fff;
-  margin-bottom: 1rem;
+  background-color: var(--color-white);
+  margin-bottom: var(--spacing-base);
 }
 
+/* ==============================
+   BUTTONS
+   ============================== */
 button,
 input[type="submit"] {
   background-color: var(--accent);
-  color: #fff;
+  color: var(--color-white);
   border: none;
-  padding: 0.75rem 1.5rem;
-  font-family: "Montserrat", sans-serif;
+  padding: var(--button-padding-vertical) var(--button-padding-horizontal);
+  font-family: var(--font-base);
   font-weight: 700;
   font-size: 1rem;
   cursor: pointer;
-  border-radius: 4px;
-  transition: background-color 0.2s ease-in-out;
+  border-radius: var(--border-radius);
+  transition: background-color var(--transition-fast);
 }
-
 button:hover,
 input[type="submit"]:hover {
-  background-color: #4d5b4b; /* Tummentunut murretun vihreä hover-tilaan */
+  background-color: #4d5b4b;
 }
 
-/* ====================
-   6. NAVIGATIO (Header & Hamburger)
-   ==================== */
-.navbar {
+/* ==============================
+   HEADER (FIXED)
+   ============================== */
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: var(--header-height);
   background-color: var(--color-dark-charcoal);
+  transform: translateY(0);
+  transition: transform var(--transition-slow);
+  z-index: 1000;
+  box-shadow: var(--box-shadow-default);
+}
+.header.header-hidden {
+  transform: translateY(-50em);
+}
+
+.header-container {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0.75rem 2rem;
-  position: relative;
-  z-index: 1000;
+  width: 100%;
+  padding: 0 1rem;
+  height: 100%;
+  background-color: var(--color-dark-charcoal);
 }
 
-/* Logo */
-.navbar .logo a {
-  color: #fff;
-  font-family: "Montserrat", sans-serif;
+.header .logo {
+  order: 1;
+  flex: 0 0 auto;
+  font-family: var(--font-base);
   font-weight: 700;
   font-size: 1.25rem;
+  color: var(--color-white);
   text-transform: uppercase;
-  letter-spacing: 0.05rem;
+  text-decoration: none;
+  white-space: nowrap;
 }
 
-/* NAV-LINKS: oletuksena vaakasuora lista isolla näytöllä */
+/* ==============================
+   HAMBURGER ICON (MOBILE)
+   ============================== */
+.hamburger {
+  order: 3;
+  display: none;
+  position: relative;
+  width: var(--burger-size);
+  height: var(--burger-size);
+  background: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  z-index: 1001;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.hamburger:focus {
+  outline: none;
+}
+.hamburger span {
+  position: absolute;
+  left: 0;
+  width: var(--burger-size);
+  height: var(--burger-line-h);
+  background-color: var(--color-white);
+  border-radius: 2px;
+  transition: transform var(--transition-fast), opacity var(--transition-fast);
+  transform-origin: center;
+}
+.hamburger span:nth-child(1) {
+  top: 0;
+}
+.hamburger span:nth-child(2) {
+  top: calc(50% - (var(--burger-line-h) / 2));
+}
+.hamburger span:nth-child(3) {
+  bottom: 0;
+}
+.hamburger.open span:nth-child(1) {
+  transform: translateY(0.78rem) rotate(45deg);
+}
+.hamburger.open span:nth-child(2) {
+  opacity: 0;
+  transform: scaleX(0);
+}
+.hamburger.open span:nth-child(3) {
+  transform: translateY(-0.78rem) rotate(-45deg);
+}
+
+/* ==============================
+   NAVIGATION
+   ============================== */
+.nav {
+  order: 2;
+  display: flex;
+}
 .nav-links {
   list-style: none;
   display: flex;
+  justify-content: center;
   align-items: center;
+  flex-wrap: nowrap;
   gap: 1.5rem;
+  min-height: 3em;
 }
-
-/* Jokainen listan kohta */
 .nav-links li {
   position: relative;
 }
-
-/* Linkit / napit navigaatiossa */
 .nav-links li a,
 .nav-links li .dropdown-toggle {
-  color: #fff;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
+  color: var(--color-white);
+  font-family: var(--font-base);
+  font-weight: 600;
   font-size: 1rem;
   text-transform: uppercase;
   letter-spacing: 0.05rem;
   background: none;
   border: none;
   cursor: pointer;
+  white-space: nowrap;
 }
-
-/* Hover-efekti pelkälle <a>-linkille */
 .nav-links li:hover > a {
   opacity: 0.8;
 }
+.nav-links li a:hover,
+.nav-links li .dropdown-toggle:hover {
+  background-color: var(--color-hover-overlay);
+}
+.nav-links li .dropdown-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0;
+}
+.dropdown-toggle .arrow {
+  /*! font-size: 0.7rem; */
+  /*! line-height: 1; */
+}
 
-/* ====================
-   Dropdown-kategoriat
-   ==================== */
-/* Alivalikko piilotetaan oletuksena */
 .dropdown-menu {
   display: none;
   position: absolute;
-  top: 100%;
-  left: 0;
+  top: 2em;
+  right: 0;
   background-color: var(--color-taupe);
   padding: 0.5rem 0;
-  border-radius: 4px;
-  min-width: 180px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  border-radius: var(--border-radius);
+  min-width: 20em;
+  box-shadow: var(--box-shadow-default);
   z-index: 1000;
+  text-align: center;
 }
-
-/* Lista alivalikossa */
 .dropdown-menu li {
-  padding: 0.5rem 1rem;
+  padding: 0.4rem 0;
 }
-
-/* Linkin väri alivalikossa */
 .dropdown-menu li a {
   color: var(--text-primary);
   font-weight: 600;
+  display: block;
+  white-space: nowrap;
 }
-
-/* Hover-efekti alivalikon linkeille */
 .dropdown-menu li a:hover {
   color: var(--accent);
 }
-
-/* Kun .dropdown-luokkaan lisätään .open, näytetään alivalikko */
 .dropdown.open .dropdown-menu {
   display: block;
 }
 
-/* Pieni nuoli painikkeen vieressä */
-.dropdown-toggle .arrow {
-  margin-left: 0.25rem;
-  font-size: 0.8rem;
-}
-
-/* ====================
-   Hamburger-painike (piilotetaan isommilla näytöillä)
-   ==================== */
-.nav-toggle {
-  display: none;
-  flex-direction: column;
-  justify-content: space-around;
-  width: 30px;
-  height: 25px;
-  background: none;
-  border: none;
-  cursor: pointer;
-  z-index: 1100;
-}
-
-.hamburger {
-  width: 100%;
-  height: 3px;
-  background-color: #fff;
-  border-radius: 2px;
-  transition: all 0.3s ease;
-}
-
-/* ====================
-   Footer-tyyli
-   ==================== */
-footer {
-  background-color: var(--color-dark-charcoal);
-  color: #fff;
-  text-align: center;
-  padding: 1rem 0;
-  font-family: "Montserrat", sans-serif;
-  font-size: 0.9rem;
-}
-
-/* ====================
-   7. Sivujen lohkot (Sections)
-   ==================== */
-#hero {
-  background-color: var(--color-olive-green);
-  color: #fff;
-  text-align: center;
-  padding: 4rem 1rem;
-}
-#hero h1 {
-  font-size: 3rem;
-  line-height: 1.2;
-}
-#hero p {
-  font-size: 1.25rem;
-  margin-top: 1rem;
-}
-
-section {
-  padding: 2rem 2rem;
-  max-width: 1000px;
-  margin: 0 auto 2rem auto;
-  background-color: #fff;
-  border-radius: 6px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-}
-
-#about h2,
-#collection h2,
-#solutions h2,
-#clients h2,
-#contact h2 {
-  border-bottom: 2px solid var(--color-taupe);
-  display: inline-block;
-  margin-bottom: 1rem;
-}
-
-#about p,
-#collection p,
-#solutions p,
-#clients p {
-  margin-top: 1rem;
-  text-align: justify;
-  line-height: 1.7;
-}
-
-main section {
-  padding: 2rem;
-  max-width: 800px;
-  margin: 2rem auto;
-}
-
-main h1 {
-  margin-bottom: 1rem;
-  text-align: center;
-}
-
-main img {
-  margin: 0 auto 2rem auto;
-  border-radius: 4px;
-}
-
-/* ====================
-   8. Responsive-pointit
-   ==================== */
-@media (max-width: 768px) {
-  /* Hamburger näkyviin */
-  .nav-toggle {
+/* ==============================
+   RESPONSIVE (max-width: 1182px)
+   ============================== */
+@media (max-width: 1182px) {
+  .hamburger {
     display: flex;
   }
-
-  /* Piilotetaan nav-links oletuksena pienellä näytöllä */
+  .nav {
+    flex: 0 0 auto;
+  }
   .nav-links {
     position: absolute;
-    top: 100%;
+    top: var(--header-height);
     left: 0;
     right: 0;
     background-color: var(--color-dark-charcoal);
     flex-direction: column;
-    align-items: center;
-    gap: 1rem;
+    align-items: flex-start;
+    gap: 0;
     padding: 1rem 0;
     display: none;
+    width: 100%;
+    text-align: center;
+    box-shadow: var(--box-shadow-default);
   }
-
-  /* Kun painetaan hamburge​ria, lisätään .active ja näytetään valikko */
   .nav-links.active {
     display: flex;
   }
-
-  /* Kategorian alivalikko saa position: static ja kipataan vähän sisennystä pienellä näytöllä */
+  .nav-links li {
+    width: 100%;
+  }
+  .nav-links li a,
+  .nav-links li .dropdown-toggle {
+    display: block;
+    width: 100%;
+    padding: var(--input-padding-vertical) var(--button-padding-horizontal);
+    text-align: center;
+    color: var(--color-white);
+    font-size: 1rem;
+  }
+  .nav-links li a:hover,
+  .nav-links li .dropdown-toggle:hover {
+    background-color: var(--color-hover-overlay);
+  }
   .dropdown-menu {
     position: static;
     box-shadow: none;
-    background-color: transparent;
     padding: 0;
+    display: none;
+    flex-direction: column;
+    width: 100%;
   }
-
-  /* Popup-alivalikko pienellä näytöllä näytille vain, kun .open */
   .dropdown.open .dropdown-menu {
     display: flex;
-    flex-direction: column;
     background-color: var(--color-taupe);
-    border-radius: 4px;
-    width: 100%;
+    border-radius: 0;
+    margin-top: 0.25rem;
   }
-
   .dropdown-menu li {
     width: 100%;
-    text-align: center;
-    padding: 0.5rem 0;
+  }
+  .dropdown-menu li a {
+    display: block;
+    width: 100%;
+    font-weight: 600;
+    color: var(--text-primary);
+  }
+  .dropdown-menu li a:hover {
+    color: var(--accent);
   }
 
-  /* Hero-tekstin koko pienempi */
+  /* TYPOGRAPHY ADJUSTMENTS FOR MOBILE */
   #hero h1 {
     font-size: 2.5rem;
   }
   #hero p {
     font-size: 1.1rem;
   }
-
-  /* Sectionit tiiviimmäksi */
   section {
     padding: 1.5rem 1rem;
   }
-
-  /* Typografian pienennys */
   h1 {
     font-size: 2rem;
   }
@@ -420,236 +449,165 @@ main img {
   p {
     font-size: 0.95rem;
   }
+}
 
-/* ====================
-   1. RESET / PERUSASETUKSET
-   ==================== */
-* {
-  margin: 0;
-  padding: 0;
+/* ==============================
+   HERO SECTION
+   ============================== */
+#hero {
+  position: relative; /* Tarvitaan, jos haluat käyttää ::before-pseudoelementtiä */
+  text-align: center;
+  align-content: center;
+  min-height: 104vh;
+  margin-top: calc(var(--header-height) * -1);
+
+  /* Taustakuva + vaalea overlay */
+  background: 
+    linear-gradient(
+      rgba(255, 255, 255, 0.4), /* ylhäältä puoliläpinäkyvä valkoinen */
+      rgba(255, 255, 255, 0.4)  /* alhaalta sama */
+    ),
+    url("images/MOON_GOLD_1.webp") no-repeat center/cover fixed;
+
+  /* Tekstille valkoinen väri ja voimakas varjo */
+  color: var(--color-white);
+  text-shadow: 0 0 2em rgba(255, 255, 255, 0.7);
+}
+
+
+#hero h1 {
+  font-size: 3rem;
+  line-height: 1.2;
+}
+#hero p {
+  font-size: 1.25rem;
+  margin-top: 1rem;
+}
+
+/* ==============================
+   ABOUT SECTION OVERRIDES
+   ============================== */
+#about {
+  background-color: var(--color-olive-green);
+}
+#about h2,
+#about p {
+  color: var(--bg-primary);
+}
+
+/* ==============================
+   SECTIONS / PAGE CONTENT
+   ============================== */
+section {
+  position: relative;
+  width: 100%;
+  background: var(--color-section-bg);
   box-sizing: border-box;
+  padding: var(--section-padding-vertical) 0;
+  background-color: var(--color-white);
 }
-
-html,
-body {
-  width: 100%;
-  min-height: 100%;
-  background-color: var(--bg-primary, #F3E8E8);
-  color: var(--text-primary, #3D3A36);
-  font-family: "Montserrat", sans-serif;
-  line-height: 1.6;
-}
-
-a {
-  text-decoration: none;
-  color: var(--accent, #5E6D55);
-}
-a:hover {
-  opacity: 0.8;
-}
-
-ul {
-  list-style: none;
-}
-
-/* ====================
-   2. HEADER
-   ==================== */
-.header {
-  position: fixed;
-  inset: 0 0 auto 0;
-  background-color: var(--color-primary, #3D3A36);
-  transition: transform var(--transition-slow, 0.5s) var(--ease, ease-in-out);
-  z-index: 1000;
-}
-
-.header-container {
-  position: relative;
-  width: 100%;
-  height: var(--header-height, 60px);
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding-inline: var(--space-md, 1rem);
-  background-color: var(--color-primary, #3D3A36);
-  box-shadow: var(--shadow-default, 0 2px 6px rgba(0, 0, 0, 0.1));
-  z-index: 1;
-}
-
-/* Logo */
-.header .logo {
-  font-size: var(--font-size-logo, 1.25rem);
-  font-weight: var(--font-weight-bold, 700);
-  color: var(--color-white, #ffffff);
-  text-decoration: none;
-  text-shadow: var(--shadow-text, 0 1px 2px rgba(0, 0, 0, 0.2));
-}
-
-/* ====================
-   3. HAMPURILAISIKONI
-   ==================== */
-.hamburger {
-  --burger-line-h: 0.2rem;
-  --burger-size: 1.75rem;
-  display: none;
-  position: relative;
-  width: var(--burger-size);
-  height: var(--burger-size);
-  background: transparent;
-  border: none;
-  padding: 0;
-  cursor: pointer;
-  z-index: 1001;
-  -webkit-tap-highlight-color: transparent;
-}
-.hamburger:focus {
-  outline: none;
-}
-.hamburger span {
+section::before {
+  content: "";
   position: absolute;
-  left: 0;
-  width: var(--burger-size);
-  height: var(--burger-line-h);
-  background-color: var(--color-white, #ffffff);
-  border-radius: var(--radius-xs, 2px);
-  transition: transform var(--transition-fast, 0.2s) var(--ease, ease-in-out),
-              opacity var(--transition-fast, 0.2s) var(--ease, ease-in-out);
-  transform-origin: center;
-}
-.hamburger span:nth-child(1) {
   top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: var(--content-max-width);
+  height: 100%;
+
+  box-sizing: border-box;
+  pointer-events: none;
 }
-.hamburger span:nth-child(2) {
-  top: calc(50% - (var(--burger-line-h)/2));
-}
-.hamburger span:nth-child(3) {
-  bottom: 0;
+section > * {
+  max-width: var(--content-max-width);
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+  padding: 0 var(--section-padding-horizontal);
 }
 
-/* Kun ikonia klikattu (rana .open), muokataan rivejä ristiksi */
-.hamburger.open span:nth-child(1) {
-  transform: translateY(0.78rem) rotate(45deg);
+/* Specific section heading and paragraph styles */
+#about h2,
+#collection h2,
+#solutions h2,
+#clients h2,
+#contact h2 {
+  border-bottom: 2px solid var(--color-taupe);
+  margin-bottom: var(--spacing-base);
 }
-.hamburger.open span:nth-child(2) {
-  opacity: 0;
-  transform: scaleX(0);
-}
-.hamburger.open span:nth-child(3) {
-  transform: translateY(-0.78rem) rotate(-45deg);
-}
-
-/* ====================
-   4. NAVIGATIO
-   ==================== */
-.nav {
-  display: flex;
-  align-items: center;
-  z-index: 1000;
+#about p,
+#collection p,
+#solutions p,
+#clients p {
+  margin-top: var(--spacing-base);
+  text-align: justify;
+  line-height: 1.7;
 }
 
-.nav-links {
-  display: flex;
-  gap: 1.5rem;
-  align-items: center;
+/* MAIN CONTENT WRAPPER */
+main section {
+  padding: var(--section-padding-vertical) var(--section-padding-horizontal);
+  max-width: var(--content-max-width);
+  margin: 2rem auto;
+}
+main h1 {
+  margin-bottom: var(--spacing-base);
+  text-align: center;
+}
+main img {
+  margin: 0 auto 2rem auto;
+  border-radius: var(--border-radius);
 }
 
-.nav-links li {
-  position: relative;
+/* COLLECTION SECTION MIN HEIGHT */
+#collection {
+  min-height: 100vh;
 }
 
-.nav-links li a,
-.nav-links li .dropdown-toggle {
-  color: var(--color-white, #ffffff);
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
-  font-size: 1rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05rem;
-  background: none;
-  border: none;
-  cursor: pointer;
+/* ==============================
+   FOOTER
+   ============================== */
+footer {
+  background-color: var(--color-dark-charcoal);
+  color: var(--color-white);
+  text-align: center;
+  padding: 1rem 0;
+  font-family: var(--font-base);
+  font-size: 0.9rem;
 }
 
-.nav-links li:hover > a {
-  opacity: 0.8;
+/* ==============================
+   SCROLLBAR STYLING
+   ============================== */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-light-beige);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--scrollbar-thumb-color);
+  border-radius: 10px;
+  border: 2px solid var(--color-taupe);
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #4d5b4b;
 }
 
-/* ====================
-   5. DROPDOWN-KATEGORIAT
-   ==================== */
-.dropdown-menu {
-  display: none;
+/* ==================================================================
+   TEHOSTEET JA KÄYTETTÄVYYS
+   ================================================================== */
+
+.with-texture::before {
   position: absolute;
-  top: 100%;
-  left: 0;
-  background-color: var(--color-taupe, #B6A5A2);
-  padding: 0.5rem 0;
-  border-radius: 4px;
-  min-width: 180px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
-  z-index: 1000;
-}
-.dropdown-menu li {
-  padding: 0.5rem 1rem;
-}
-.dropdown-menu li a {
-  color: var(--text-primary, #3D3A36);
-  font-weight: 600;
-}
-.dropdown-menu li a:hover {
-  color: var(--accent, #5E6D55);
-}
-.dropdown.open .dropdown-menu {
-  display: block;
-}
-.dropdown-toggle .arrow {
-  margin-left: 0.25rem;
-  font-size: 0.8rem;
-}
-
-/* ====================
-   6. RESPONSIIVISUUS (max-width: 768px)
-   ==================== */
-@media (max-width: 768px) {
-  .hamburger {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-  }
-
-  .nav-links {
-    position: absolute;
-    top: var(--header-height, 60px);
-    left: 0;
-    right: 0;
-    background-color: var(--color-primary, #3D3A36);
-    flex-direction: column;
-    align-items: center;
-    gap: 1rem;
-    padding: 1rem 0;
-    display: none;
-  }
-  .nav-links.active {
-    display: flex;
-  }
-
-  .dropdown-menu {
-    position: static;
-    box-shadow: none;
-    background-color: transparent;
-    padding: 0;
-  }
-  .dropdown.open .dropdown-menu {
-    display: flex;
-    flex-direction: column;
-    background-color: var(--color-taupe, #B6A5A2);
-    border-radius: 4px;
-    width: 100%;
-    margin-top: 0.5rem;
-  }
-  .dropdown-menu li {
-    width: 100%;
-    text-align: center;
-    padding: 0.5rem 0;
-  }
+  background-image: var(--texture-img);
+  background-repeat: repeat;
+  background-size: var(--texture-size) var(--texture-size);
+  opacity: var(--texture-opacity);
+  mix-blend-mode: multiply;
+  pointer-events: none;
+  width: 100vw;
 }
