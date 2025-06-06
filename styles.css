@@ -1,64 +1,72 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
 
+/* ==================================================================
+   VARIABLES (ROOT)
+   ================================================================== */
 :root {
   /* ========== COLOR PALETTE ========== */
-  --color-light-beige:       #F3E8E8;
-  --color-taupe:             #B6A5A2;
-  --color-dark-charcoal:     #3D3A36;
-  --color-olive-green:       #5E6D55;
-  --color-white:             #FFFFFF;
-  --color-border:            #333333;
-  --color-section-bg:        #F9F9F9;
-  --color-hover-overlay:     rgba(255, 255, 255, 0.1);
-  --scrollbar-thumb-color:   var(--color-dark-charcoal);
+  --color-light-beige: #f3e8e8;
+  --color-taupe: #b6a5a2;
+  --color-dark-charcoal: #3d3a36;
+  --color-olive-green: #5e6d55;
+  --color-white: #ffffff;
+  --color-border: #333333;
+  --color-section-bg: #f9f9f9;
+  --color-hover-overlay: rgba(255, 255, 255, 0.1);
+  --scrollbar-thumb-color: var(--color-dark-charcoal);
 
   /* ========== TEXT & BACKGROUND ========== */
-  --text-primary:   var(--color-dark-charcoal);
+  --text-primary: var(--color-dark-charcoal);
   --text-secondary: var(--color-taupe);
-  --bg-primary:     var(--color-light-beige);
-  --accent:         var(--color-olive-green);
-  --color-primary:  var(--color-dark-charcoal);
+  --bg-primary: var(--color-light-beige);
+  --accent: var(--color-olive-green);
+  --color-primary: var(--color-dark-charcoal);
 
   /* ========== SPACING & SIZING ========== */
-  --header-height:            3em;
-  --spacing-base:             1rem;
+  --header-height: 3em;
+  --spacing-base: 1rem;
   --section-padding-vertical: 2rem;
   --section-padding-horizontal: 1rem;
-  --content-max-width:        800px;
+  --content-max-width: 800px;
 
   /* ========== LOGO ========== */
-  --logo-size:      clamp(140px, 28vw, 320px); /* responsiivinen halkaisija */
-  --logo-fill:      var(--color-dark-charcoal);                   /* logon väri (näkyy maskin läpi) */
-  --blur-strength:  18px;                      /* blur-määrä */
+  --logo-size: clamp(300px, 28vw, 320px);
+  --logo-fill: var(--color-dark-charcoal);
+  --blur-strength: 18px; /* blur amount */
 
   /* ========== TYPOGRAPHY ========== */
-  --font-base:     "Montserrat", sans-serif;
-  --font-heading:  "prenton", sans-serif;
+  --font-base: "Montserrat", sans-serif;
+  --font-heading: "prenton", sans-serif;
 
   /* ========== SHADOWS & BORDERS ========== */
-  --box-shadow-default:    0 2px 6px rgba(0, 0, 0, 0.2);
-  --border-radius:         4px;
+  --box-shadow-default: 0 2px 6px rgba(0, 0, 0, 0.2);
+  --border-radius: 4px;
 
   /* ========== TRANSITIONS ========== */
   --transition-fast: 0.1s ease-in-out;
   --transition-slow: 0.2s ease-in-out;
 
   /* ========== FORM & BUTTON ========== */
-  --input-padding-vertical:   0.75rem;
-  --button-padding-vertical:  0.75rem;
+  --input-padding-vertical: 0.75rem;
+  --button-padding-vertical: 0.75rem;
   --button-padding-horizontal: 1.5rem;
 
   /* ========== HAMBURGER ICON ========== */
-  --burger-size:   1.75rem;
+  --burger-size: 1.75rem;
   --burger-line-h: 0.2rem;
 
-  /* --- Tekstuuri --- */
+  /* --- TEXTURE --- */
   --texture-img: url("./images/paper.webp");
   --texture-opacity: 1;
   --texture-size: 512px;
+
+  /* ========== NEW COMMON VARIABLES ========== */
+  --spacing-small: 0.5rem;                  /* frequently-used small spacing */
+  --font-size-small: 1.25rem;               /* small heading / icon size */
+  --burger-open-translate: 0.78rem;         /* vertical offset for burger lines */
 }
 
-/* ===== Päivitetty body.no-scroll ===== */
+/* ===== Updated body.no-scroll ===== */
 body.no-scroll {
   position: fixed;
   left: 0;
@@ -67,10 +75,9 @@ body.no-scroll {
   width: 100%;
 }
 
-
-/* ==============================
-   RESET / BASE STYLES
-   ============================== */
+/* ==================================================================
+   RESET & BASE STYLES
+   ================================================================== */
 * {
   margin: 0;
   padding: 0;
@@ -82,17 +89,18 @@ body.no-scroll {
 html {
   scrollbar-gutter: stable;
   background-color: var(--color-taupe);
+
 }
 
 html,
 body {
   width: 100%;
   min-height: 100%;
-
   color: var(--text-primary);
   font-family: var(--font-base);
   line-height: 1.6;
   overflow-x: hidden;
+    min-width: 422px;
 }
 
 a {
@@ -116,31 +124,34 @@ ol {
   list-style-type: none;
 }
 
-/* ==============================
+/* ==================================================================
    TYPOGRAPHY
-   ============================== */
+   ================================================================== */
 h1 {
   font-family: var(--font-heading);
   font-weight: 700;
   font-size: 2.5rem;
   color: var(--text-primary);
 }
+
 h2 {
   font-family: var(--font-base);
   font-weight: 700;
   font-size: 2rem;
   color: var(--text-primary);
-  margin-bottom: 0.5rem;
+  margin-bottom: var(--spacing-small);
   text-align: center;
 }
+
 h3 {
   font-family: var(--font-base);
   font-weight: 700;
   font-size: 1.5rem;
   color: var(--text-secondary);
-  margin-bottom: 0.5rem;
+  margin-bottom: var(--spacing-small);
   text-align: center;
 }
+
 h4,
 h5,
 h6 {
@@ -157,9 +168,9 @@ li {
   margin-bottom: var(--spacing-base);
 }
 
-/* ==============================
+/* ==================================================================
    FORM ELEMENTS
-   ============================== */
+   ================================================================== */
 input[type="text"],
 input[type="email"],
 textarea {
@@ -174,9 +185,9 @@ textarea {
   margin-bottom: var(--spacing-base);
 }
 
-/* ==============================
+/* ==================================================================
    BUTTONS
-   ============================== */
+   ================================================================== */
 button,
 input[type="submit"] {
   background-color: var(--accent);
@@ -188,16 +199,16 @@ input[type="submit"] {
   font-size: 1rem;
   cursor: pointer;
   border-radius: var(--border-radius);
-  /*! transition: background-color var(--transition-fast); */
 }
+
 button:hover,
 input[type="submit"]:hover {
   background-color: #4d5b4b;
 }
 
-/* ==============================
-   HEADER (FIXED)
-   ============================== */
+/* ==================================================================
+   HEADER
+   ================================================================== */
 .header {
   position: fixed;
   top: 0;
@@ -210,8 +221,9 @@ input[type="submit"]:hover {
   z-index: 1000;
   box-shadow: var(--box-shadow-default);
 }
+
 .header.header-hidden {
-  transform: translateY(calc(var(--header-height)*-1));
+  transform: translateY(calc(var(--header-height) * -1));
 }
 
 .header-container {
@@ -229,62 +241,48 @@ input[type="submit"]:hover {
   flex: 0 0 auto;
   font-family: var(--font-base);
   font-weight: 700;
-  font-size: 1.25rem;
+  font-size: var(--font-size-small);
   color: var(--color-white);
   text-transform: uppercase;
   text-decoration: none;
   white-space: nowrap;
 }
 
-/* Yhteinen ankkuri kerroksille */
-.logo-wrapper{
-  position:relative;
-  width:var(--logo-size);
-  aspect-ratio:1 / 1;         /* ympyrä */
+.logo-wrapper {
+  position: relative;
+  width: var(--logo-size);
+  aspect-ratio: 1 / 1;
   align-content: center;
 }
 
-/* 1) SUMENNUS – pyöreä “lasi” taustalla */
-.logo-blur{
-  position:absolute;
-  inset:0;                    /* täyttää wrapperin */
-  border-radius:50%;
-  
-  /* pikkuriikkinen tausta aktivoi blurin Chromessa/Edgessä */
-  background:rgba(255,255,255,.001);
-
-  -webkit-backdrop-filter:blur(var(--blur-strength));
-          backdrop-filter:blur(var(--blur-strength));
-
-  /* häivytä reunoja radiaalisesti – valinnainen, mutta näyttää pehmeämmältä */
-  -webkit-mask-image:radial-gradient(circle,
-                      rgba(0,0,0,1) 60%,
-                      rgba(0,0,0,0) 100%);
-          mask-image:radial-gradient(circle,
-                      rgba(0,0,0,1) 60%,
-                      rgba(0,0,0,0) 100%);
-
-  pointer-events:none;
-  z-index:0;                  /* pysyy takana */
+.logo-blur {
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.001);
+  -webkit-backdrop-filter: blur(var(--blur-strength));
+  backdrop-filter: blur(var(--blur-strength));
+  -webkit-mask-image: radial-gradient(circle, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
+  mask-image: radial-gradient(circle, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 0) 100%);
+  pointer-events: none;
+  z-index: 0;
 }
 
-/* 2) VARSINAINEN LOGO – maskattu PNG + väri */
-.logo-main{
-  position:absolute;
-  inset:0;
-  border-radius:50%;
-  background:var(--logo-fill);
-
-  -webkit-mask:url("images/logo.png") center/contain no-repeat;
-          mask:url("images/logo.png")  center/contain no-repeat;
-  mask-type:alpha;
-
-  z-index:1;                  /* pysyy blurin päällä */
+/* 2) LOGO IMAGE */
+.logo-main {
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: var(--logo-fill);
+  -webkit-mask: url("images/logo.png") center/contain no-repeat;
+  mask: url("images/logo.png") center/contain no-repeat;
+  mask-type: alpha;
+  z-index: 1;
 }
 
-/* ==============================
+/* ==================================================================
    HAMBURGER ICON (MOBILE)
-   ============================== */
+   ================================================================== */
 .hamburger {
   order: 3;
   display: none;
@@ -299,9 +297,11 @@ input[type="submit"]:hover {
   flex-direction: column;
   justify-content: space-around;
 }
+
 .hamburger:focus {
   outline: none;
 }
+
 .hamburger span {
   position: absolute;
   left: 0;
@@ -312,46 +312,53 @@ input[type="submit"]:hover {
   transition: transform var(--transition-fast), opacity var(--transition-fast);
   transform-origin: center;
 }
+
 .hamburger span:nth-child(1) {
   top: 0;
 }
+
 .hamburger span:nth-child(2) {
   top: calc(50% - (var(--burger-line-h) / 2));
 }
+
 .hamburger span:nth-child(3) {
   bottom: 0;
 }
+
 .hamburger.open span:nth-child(1) {
-  transform: translateY(0.78rem) rotate(45deg);
+  transform: translateY(var(--burger-open-translate)) rotate(45deg);
 }
+
 .hamburger.open span:nth-child(2) {
   opacity: 0;
   transform: scaleX(0);
 }
+
 .hamburger.open span:nth-child(3) {
-  transform: translateY(-0.78rem) rotate(-45deg);
+  transform: translateY(calc(var(--burger-open-translate) * -1)) rotate(-45deg);
 }
 
-/* ==============================
+/* ==================================================================
    NAVIGATION
-   ============================== */
+   ================================================================== */
 .nav {
   order: 2;
   display: flex;
 }
+
 .nav-links {
   list-style: none;
   display: flex;
-
   align-items: center;
   flex-wrap: nowrap;
   gap: 1.5rem;
   min-height: 3em;
-
 }
+
 .nav-links li {
   position: relative;
 }
+
 .nav-links li a,
 .nav-links li .dropdown-toggle {
   color: var(--color-white);
@@ -365,26 +372,28 @@ input[type="submit"]:hover {
   cursor: pointer;
   white-space: nowrap;
 }
+
 .nav-links li:hover > a {
   opacity: 0.8;
 }
+
 .nav-links li a:hover,
 .nav-links li .dropdown-toggle:hover {
   background-color: var(--color-hover-overlay);
 }
+
 .nav-links li .dropdown-toggle {
   display: flex;
   align-items: center;
   gap: 0.25rem;
   padding: 0;
 }
+
 .dropdown-toggle .arrow {
-  /*! font-size: 0.7rem; */
-  /*! line-height: 1; */
 }
 
 .dropdown-menu {
-  display: none; /* säilyy alkuperäisenä */
+  display: none;
   position: absolute;
   top: 2em;
   right: 0;
@@ -395,32 +404,34 @@ input[type="submit"]:hover {
   box-shadow: var(--box-shadow-default);
   z-index: 1000;
   text-align: center;
-  max-height: calc(100vh - var(--header-height) - 2rem); /* headerin ja marginaalin verran tilaa yläpuolelle */
+  max-height: calc(100vh - var(--header-height) - 2rem);
   overflow-y: auto;
 }
 
 .dropdown-menu li {
   padding: 0.4rem 0;
 }
+
 .dropdown-menu li a {
   color: var(--text-primary);
   font-weight: 600;
   display: block;
   white-space: nowrap;
 }
+
 .dropdown-menu li a:hover {
   color: var(--accent);
 }
+
 .dropdown.open .dropdown-menu {
   display: block;
-  /*! padding-bottom: 2em; */
 }
 
 #scrollTopBtn {
   position: fixed;
   bottom: 1rem;
   right: 1rem;
-  display: none; 
+  display: none;
   background-color: var(--color-dark-charcoal);
   color: var(--color-white);
   border: none;
@@ -438,101 +449,79 @@ input[type="submit"]:hover {
 }
 
 .promo-banner {
-  /* Taustaväri noin sama kuin kuvassa (vaalea beige) */
   background-color: var(--color-light-beige);
   font-family: var(--font-heading);
-  /* Keskitetään tekstit vaakatasossa */
-
-  
-  /* Vähän tilaa ylä- ja sivureunoille */
   padding: var(--input-padding-vertical) var(--input-padding-vertical) 0;
-
   margin-bottom: 2em;
 }
 
 .promo-banner__title {
-  /* Isompi fontti otsikolle */
-
-  font-size: 4rem;           /* Suuri koko, esim. n. 40px jos root-font-size on 16px */
-  
-  text-transform: uppercase;    /* Kaikki isot kirjaimet */
-  letter-spacing: 1px;         /* Hieman väliä kirjaimille */
-  color: #000;                 /* Musta teksti */
-  margin: 0;                   /* Ei ylimääräisiä marginaaleja */
-  line-height: 1.2;            /* Hieman tiiviimpi rivikorkeus */
+  font-size: 4rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #000;
+  margin: 0;
+  line-height: 1.2;
 }
 
-/* Musta palkki alaosaan */
 .promo-banner__subtitle {
-  background-color: var(--color-dark-charcoal);      /* Musta tausta */
-  color: var(--color-white);                 /* Valkoinen teksti */
-
-  font-size: 1rem;             /* Pienempi fontti alaotsikolle */
+  background-color: var(--color-dark-charcoal);
+  color: var(--color-white);
+  font-size: 1rem;
   margin: var(--spacing-base) 0 0;
-  padding: var(--input-padding-vertical) 0;             /* 10px sisennys ylhäällä/alla, leveys täys leveys automaattisesti */
-  text-transform: none;        /* Säilyttää kirjainten normaalin muodon (Small caps) */
+  padding: var(--input-padding-vertical) 0;
+  text-transform: none;
   position: relative;
   top: 1em;
-  
-  /* Leveydeksi täysi leveys containerissa */
-  display: block;              /* Täyttää koko .promo-bannerin leveyden */
+  display: block;
 }
 
-/* ==============================
-   RESPONSIVE (max-width: 1182px)
-   ============================== */
+/* ==================================================================
+   RESPONSIVE (MAX-WIDTH: 1182px)
+   ================================================================== */
 @media (max-width: 1182px) {
   .dropdown.open .dropdown-menu {
-
     padding-bottom: 2em;
   }
-  /* 1) Näytä hamburger‐ikoni */
+
   .hamburger {
     display: flex;
   }
 
-  /* 2) Nav‐lohko ei veny vaan hakee tilansa sisällön mukaan */
   .nav {
     flex: 0 0 auto;
   }
 
-  /* 3) Nav‐links muuttuu kiinteäksi mobiilivalikoksi */
   .nav-links {
     position: fixed;
-    top: var(--header-height);  /* heti headerin alapuolelle */
+    top: var(--header-height);
     left: 0;
     right: 0;
     background-color: var(--color-dark-charcoal);
-    display: none;               /* näytetään vasta .active‐luokan myötä */
-    flex-direction: column;      /* linkit allekkain */
+    display: none;
+    flex-direction: column;
     align-items: flex-start;
     width: 100%;
     box-shadow: var(--box-shadow-default);
-    /* Koska nav-links kattaa koko näytön korkeuden headerin alapuolelta */
     padding-top: 1em;
-    overflow-y: auto;            /* skrollaus aukioloaikana */
-
-    overflow-anchor: none;   /* näin dropdownin avaaminen ei skrollaa ylös tai alas */
-  
+    overflow-y: auto;
+    overflow-anchor: none;
   }
 
-.nav-links:has(.dropdown.open) {
-  height: 99vh;
-}
+  .nav-links:has(.dropdown.open) {
+    height: 99vh;
+  }
 
-  /* 4) Kun hamburger avattu, lisätään .active ja valikko näkyy */
   .nav-links.active {
     display: flex;
     scrollbar-gutter: stable both-edges;
   }
 
-  /* 5) Jokainen <li> täyttää nav-links‐kontainerin leveyden */
   .nav-links li {
     width: 100%;
-    position: relative;          /* tarvitaan, jos dropdown‐menu absoluuttinen */
+    position: relative;
   }
 
-  /* 6) Linkit ja dropdown‐napit venyvät koko leveyden läpi */
   .nav-links li a,
   .nav-links li .dropdown-toggle {
     display: block;
@@ -543,47 +532,32 @@ input[type="submit"]:hover {
     font-size: 1rem;
   }
 
-  /* 7) Hover‐efekti mobiilissa (taustaväri) */
   .nav-links li a:hover,
   .nav-links li .dropdown-toggle:hover {
     background-color: var(--color-hover-overlay);
   }
 
-  /* =============================================
-     MOBIILI: D R O P D O W N - V A L I K K O
-     ============================================= */
-
-  /* A) Muutetaan dropdown‐menu absoluuttiseen asemaan, jotta se ei työntäisi
-        muuta sisältöä ja alkaisi suoraan toggle‐napin alta. */
+  /* ---------------------------------------------
+     MOBILE DROPDOWN MENU
+     --------------------------------------------- */
   .dropdown-menu {
     position: absolute;
-    top: 100%;      /* heti oman <li>-elementin alapuolella */
+    top: 100%;
     left: 0;
     right: 0;
-    /* bottom: 0;  POISTA TAI KOMMENTOI POIS! */
     background-color: var(--color-taupe);
     display: none;
     flex-direction: column;
-    overflow-y: auto;   /* tarvittaessa pystysuuntainen skrollaus */
+    overflow-y: auto;
     z-index: 1001;
     border-radius: 0;
-    
-    /* Asetetaan maksimi-korkeus niin, että dropdown ei ulotu headerin taakse */
     max-height: calc(100vh - var(--header-height) - 0.5rem);
   }
 
-  /* B) Kun .dropdown‐elementillä on .open, näytetään valikko */
-  .dropdown.open .dropdown-menu {
-    /*! display: flex; */
-      /*! height: 100vh; */
-    /*! padding-bottom: 2em; */
-  }
-
-  /* C) Jokainen dropdown‐kohde venyy koko leveydelle ja saa paddingin */
   .dropdown-menu li {
     width: 100%;
   }
-  
+
   .dropdown-menu li a {
     display: block;
     width: 100%;
@@ -593,66 +567,60 @@ input[type="submit"]:hover {
     font-weight: 600;
     white-space: nowrap;
   }
+
   .dropdown-menu li a:hover {
     color: var(--accent);
   }
 
-  /* ==============================
+  /* ---------------------------------------------
      TYPOGRAPHY ADJUSTMENTS FOR MOBILE
-     ============================== */
+     --------------------------------------------- */
   #hero h1 {
     font-size: 2.5rem;
+    
   }
+
   #hero p {
     font-size: 1.1rem;
   }
+
   section {
     padding: 1.5rem 1rem;
   }
+
   h1 {
     font-size: 2rem;
   }
+
   h2 {
     font-size: 1.75rem;
   }
+
   h3 {
     font-size: 1.25rem;
   }
+
   p {
     font-size: 0.95rem;
   }
-
 }
 
-
-/* ==============================
+/* ==================================================================
    HERO SECTION
-   ============================== */
+   ================================================================== */
 #hero {
-  position: relative; /* Tarvitaan, jos haluat käyttää ::before-pseudoelementtiä */
+  position: relative;
   text-align: center;
   align-content: center;
   min-height: 108vh;
   margin-top: calc(var(--header-height) * -1);
-
-  /* Taustakuva + vaalea overlay */
-  background: 
-    linear-gradient(
-      rgba(255, 255, 255, 0.4), /* ylhäältä puoliläpinäkyvä valkoinen */
-      rgba(255, 255, 255, 0.4)   /* alhaalta sama */
-    ),
-    url("images/MOON_GOLD_1.webp") no-repeat center/cover fixed;
-
-  /* Tekstille valkoinen väri ja voimakas varjo */
+  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("images/MOON_GOLD_1.webp") no-repeat center/cover fixed;
   color: var(--color-white);
   text-shadow: 0 0 2em rgba(255, 255, 255, 0.7);
 }
 
 .hero-wrapper {
-
-  top: -5em;
   position: relative;
-
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -664,26 +632,29 @@ input[type="submit"]:hover {
 #hero h1 {
   font-size: 3rem;
   line-height: 1.2;
+  margin-top: var(--spacing-small);
 }
+
 #hero p {
   font-size: 1.25rem;
   margin-top: 1rem;
 }
 
-/* ==============================
+/* ==================================================================
    ABOUT SECTION OVERRIDES
-   ============================== */
+   ================================================================== */
 #about {
   background-color: var(--color-olive-green);
 }
+
 #about h2,
 #about p {
   color: var(--bg-primary);
 }
 
-/* ==============================
+/* ==================================================================
    SECTIONS / PAGE CONTENT
-   ============================== */
+   ================================================================== */
 section {
   position: relative;
   /*! width: 100%; */
@@ -692,6 +663,7 @@ section {
   padding: var(--section-padding-vertical) 0;
   background-color: var(--color-white);
 }
+
 section::before {
   content: "";
   position: absolute;
@@ -703,6 +675,7 @@ section::before {
   box-sizing: border-box;
   pointer-events: none;
 }
+
 section > * {
   max-width: var(--content-max-width);
   width: 100%;
@@ -712,15 +685,14 @@ section > * {
   padding: 0 var(--section-padding-horizontal);
 }
 
-/* Specific section heading and paragraph styles */
 #about h2,
-
 #solutions h2,
 #clients h2,
 #contact h2 {
   border-bottom: 2px solid var(--color-taupe);
   margin-bottom: var(--spacing-base);
 }
+
 #about p,
 #collection p,
 #solutions p,
@@ -731,15 +703,11 @@ section > * {
 }
 
 /* MAIN CONTENT WRAPPER */
-main section {
-  /*! padding: var(--section-padding-vertical) var(--section-padding-horizontal); */
-  /*! max-width: var(--content-max-width); */
-  /*! margin: 2rem auto; */
-}
 main h1 {
   margin-bottom: var(--spacing-base);
   text-align: center;
 }
+
 main img {
   margin: 0 auto 2rem auto;
   border-radius: var(--border-radius);
@@ -751,9 +719,9 @@ main img {
   align-content: center;
 }
 
-/* ==============================
+/* ==================================================================
    FOOTER
-   ============================== */
+   ================================================================== */
 footer {
   background-color: var(--color-dark-charcoal);
   color: var(--color-white);
@@ -763,34 +731,36 @@ footer {
   font-size: 0.9rem;
 }
 
-/* ==============================
+/* ==================================================================
    SCROLLBAR STYLING
-   ============================== */
+   ================================================================== */
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
 }
+
 ::-webkit-scrollbar-track {
   background: var(--color-light-beige);
   border-radius: 10px;
 }
+
 ::-webkit-scrollbar-thumb {
   background-color: var(--scrollbar-thumb-color);
   border-radius: 10px;
   border: 2px solid var(--color-taupe);
 }
+
 ::-webkit-scrollbar-thumb:hover {
   background-color: #4d5b4b;
 }
 
 /* ==================================================================
-   TEHOSTEET JA KÄYTETTÄVYYS
+   EFFECTS & USABILITY
    ================================================================== */
-
 .with-texture {
   position: relative;
-  isolation: unset;      /* tai isolation: initial; */
-  overflow: visible;     /* dropdownit voivat levitä myös ulos tästä kontainerista */
+  isolation: unset;
+  overflow: visible;
 }
 
 .with-texture::before {
@@ -816,53 +786,68 @@ footer {
   z-index: 1;
 }
 
-/* ============================================
-   0) FONT & VARIABLIJA-OSIOT (vartalossa jo olemassa)
-   ============================================
-   /* @font-face-, @import- ja :root-osa olettaen, että ne ovat jo CSS:ssäsi. */
+#scrollTopBtn {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  display: none;
+  background-color: var(--color-dark-charcoal);
+  color: var(--color-white);
+  border: none;
+  border-radius: 50%;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  z-index: 1055500;
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+}
 
-/* ============================================
-   1) FOOTER (koko leveys + taustaväri)
-   ============================================ */
+#scrollTopBtn:hover {
+  opacity: 1;
+}
+
+/* ---------------------------------------------
+   1) FOOTER (full width + background color)
+   --------------------------------------------- */
 .footer {
   width: 100%;
   background-color: var(--color-dark-charcoal);
   color: var(--color-white);
-  padding: var(--spacing-base) 0;        /* ylhäällä ja alhaalla tilaa */
+  padding: var(--spacing-base) 0;
   font-family: var(--font-base);
   font-size: 0.9rem;
   line-height: 1.4;
 }
 
-/* ================================
-   2) FOOTER-INNER (sisällön wrapper)
-   ================================ */
+/* ---------------------------------------------
+   2) FOOTER-INNER
+   --------------------------------------------- */
 .footer-inner {
-  max-width: var(--content-max-width);  /* esim. 800px */
-  margin: 0 auto;                       /* keskitys vaakatasossa */
-  padding: 0 var(--section-padding-horizontal);  /* sivuttaispadding */
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  padding: 0 var(--section-padding-horizontal);
 }
 
-/* ============================================
-   3) FOOTER-COLUMNS (kolumnit vierekkäin)
-   ============================================ */
+/* ---------------------------------------------
+   3) FOOTER-COLUMNS
+   --------------------------------------------- */
 .footer-columns {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  gap: 2rem;    /* Tilaväli kolumnien välillä */
-  margin-bottom: var(--section-padding-vertical); /* Erotus yhteystiedoista */
+  gap: 2rem;
+  margin-bottom: var(--section-padding-vertical);
 }
 
-/* Jokainen sarake (Yritys | Tuki | Seuraa meitä) */
 .footer-column {
-  flex: 1 1 200px;   /* Kasvaa ja supistuu, mutta ei pienemmäksi kuin 200px */
+  flex: 1 1 200px;
   min-width: 200px;
 }
 
 .footer-column h4 {
   font-family: var(--font-heading);
-  font-size: 1.25rem;
+  font-size: var(--font-size-small);
   font-weight: 700;
   color: var(--color-white);
   margin-bottom: var(--spacing-base);
@@ -870,7 +855,6 @@ footer {
   letter-spacing: 0.05rem;
 }
 
-/* Sarakkeiden sisäiset listat */
 .footer-column ul {
   list-style: none;
   padding: 0;
@@ -878,7 +862,7 @@ footer {
 }
 
 .footer-column ul li {
-  margin-bottom: 0.5rem;
+  margin-bottom: var(--spacing-small);
 }
 
 .footer-column ul li a {
@@ -892,22 +876,20 @@ footer {
   transition: none;
 }
 
-/* ============================================
-   4) SOSIAALISEN MEDIAN IKONIT JA LINKIT
-   ============================================ */
+/* ---------------------------------------------
+   4) SOCIAL MEDIA ICONS AND LINKS
+   --------------------------------------------- */
 .social-media-list {
-
 }
 
 .social-media-list li {
   list-style: none;
 }
 
-/* Linkin rakenne: SVG-kuvake + teksti vierekkäin */
 .social-media-list li a {
   display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: var(--spacing-small);
   color: var(--color-white);
   font-weight: 600;
   font-size: 1rem;
@@ -918,22 +900,20 @@ footer {
   color: var(--accent);
 }
 
-/* SVG-kuvakkeen koko ja täyttöväri */
 .social-icon {
-  width: 1.25rem;   /* noin 20px */
-  height: 1.25rem;
+  width: var(--font-size-small);
+  height: var(--font-size-small);
   fill: var(--color-white);
   transition: fill var(--transition-fast);
 }
 
-/* Kun linkki hover-tilassa, kuvakkeen väri muuttuu accent-väriksi */
 .social-media-list li a:hover .social-icon {
   fill: var(--accent);
 }
 
-/* ============================================
-   5) YHTEYSTIEDOT JA COPYRIGHT (alle kolumneja)
-   ============================================ */
+/* ---------------------------------------------
+   5) CONTACT AND COPYRIGHT
+   --------------------------------------------- */
 .footer-contact {
   text-align: center;
   margin-bottom: var(--section-padding-vertical);
@@ -945,7 +925,7 @@ footer {
   color: var(--text-secondary);
 }
 
-/* Copyright-alaosa */
+/* Copyright area */
 .footer-bottom {
   border-top: 1px solid var(--color-border);
   padding-top: var(--spacing-base);
@@ -958,26 +938,27 @@ footer {
   color: var(--text-secondary);
 }
 
-/* ============================================
-   6) RESPONSIVE (pinoutuu päällekkäin kapeassa näkymässä)
-   ============================================ */
+/* ---------------------------------------------
+   6) RESPONSIVE
+   --------------------------------------------- */
 @media (max-width: 768px) {
-  /* Footer-inner pysyy centeroituna, mutta sisältö pinoutuu pystysuuntaan */
+  /* Footer-inner remains centered, content stacks vertically */
   .footer-columns {
     flex-direction: column;
     align-items: center;
     gap: 1.5rem;
   }
+
   .footer-column {
     width: 100%;
     text-align: center;
   }
+
   .social-media-list {
     justify-content: center;
   }
+
   .footer-contact {
     margin-bottom: var(--spacing-base);
   }
 }
-
-
