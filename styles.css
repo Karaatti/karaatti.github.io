@@ -1,12 +1,3 @@
-@font-face {
-  font-family: "PrentonPro";
-  src: url("fonts/PrentonPro-Bold.woff2") format("woff2"),
-       url("fonts/PrentonPro-Bold.woff") format("woff");
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
 
 :root {
@@ -37,7 +28,7 @@
 
   /* ========== TYPOGRAPHY ========== */
   --font-base:     "Montserrat", sans-serif;
-  --font-heading:  "PrentonPro", sans-serif;
+  --font-heading:  "prenton", sans-serif;
 
   /* ========== SHADOWS & BORDERS ========== */
   --box-shadow-default:    0 2px 6px rgba(0, 0, 0, 0.2);
@@ -564,8 +555,8 @@ section > * {
 /* MAIN CONTENT WRAPPER */
 main section {
   padding: var(--section-padding-vertical) var(--section-padding-horizontal);
-  max-width: var(--content-max-width);
-  margin: 2rem auto;
+  /*! max-width: var(--content-max-width); */
+  /*! margin: 2rem auto; */
 }
 main h1 {
   margin-bottom: var(--spacing-base);
@@ -644,4 +635,167 @@ footer {
 .with-texture .sisalto {
   position: relative;
   z-index: 1;
+}
+
+/* ============================================
+   0) FONT & VARIABLIJA-OSIOT (vartalossa jo olemassa)
+   ============================================
+   /* @font-face-, @import- ja :root-osa olettaen, että ne ovat jo CSS:ssäsi. */
+
+/* ============================================
+   1) FOOTER (koko leveys + taustaväri)
+   ============================================ */
+.footer {
+  width: 100%;
+  background-color: var(--color-dark-charcoal);
+  color: var(--color-white);
+  padding: var(--spacing-base) 0;        /* ylhäällä ja alhaalla tilaa */
+  font-family: var(--font-base);
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+/* ================================
+   2) FOOTER-INNER (sisällön wrapper)
+   ================================ */
+.footer-inner {
+  max-width: var(--content-max-width);  /* esim. 800px */
+  margin: 0 auto;                       /* keskitys vaakatasossa */
+  padding: 0 var(--section-padding-horizontal);  /* sivuttaispadding */
+}
+
+/* ============================================
+   3) FOOTER-COLUMNS (kolumnit vierekkäin)
+   ============================================ */
+.footer-columns {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 2rem;    /* Tilaväli kolumnien välillä */
+  margin-bottom: var(--section-padding-vertical); /* Erotus yhteystiedoista */
+}
+
+/* Jokainen sarake (Yritys | Tuki | Seuraa meitä) */
+.footer-column {
+  flex: 1 1 200px;   /* Kasvaa ja supistuu, mutta ei pienemmäksi kuin 200px */
+  min-width: 200px;
+}
+
+.footer-column h4 {
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--color-white);
+  margin-bottom: var(--spacing-base);
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+}
+
+/* Sarakkeiden sisäiset listat */
+.footer-column ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-column ul li {
+  margin-bottom: 0.5rem;
+}
+
+.footer-column ul li a {
+  color: var(--color-white);
+  font-weight: 400;
+  transition: opacity var(--transition-fast), color var(--transition-fast);
+}
+
+.footer-column ul li a:hover {
+  opacity: 0.8;
+}
+
+/* ============================================
+   4) SOSIAALISEN MEDIAN IKONIT JA LINKIT
+   ============================================ */
+.social-media-list {
+
+}
+
+.social-media-list li {
+  list-style: none;
+}
+
+/* Linkin rakenne: SVG-kuvake + teksti vierekkäin */
+.social-media-list li a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--color-white);
+  font-weight: 600;
+  font-size: 1rem;
+  transition: color var(--transition-fast);
+}
+
+.social-media-list li a:hover {
+  color: var(--accent);
+}
+
+/* SVG-kuvakkeen koko ja täyttöväri */
+.social-icon {
+  width: 1.25rem;   /* noin 20px */
+  height: 1.25rem;
+  fill: var(--color-white);
+  transition: fill var(--transition-fast);
+}
+
+/* Kun linkki hover-tilassa, kuvakkeen väri muuttuu accent-väriksi */
+.social-media-list li a:hover .social-icon {
+  fill: var(--accent);
+}
+
+/* ============================================
+   5) YHTEYSTIEDOT JA COPYRIGHT (alle kolumneja)
+   ============================================ */
+.footer-contact {
+  text-align: center;
+  margin-bottom: var(--section-padding-vertical);
+}
+
+.footer-contact p {
+  margin: 0.25rem 0;
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+}
+
+/* Copyright-alaosa */
+.footer-bottom {
+  border-top: 1px solid var(--color-border);
+  padding-top: var(--spacing-base);
+  text-align: center;
+}
+
+.footer-bottom p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+/* ============================================
+   6) RESPONSIVE (pinoutuu päällekkäin kapeassa näkymässä)
+   ============================================ */
+@media (max-width: 768px) {
+  /* Footer-inner pysyy centeroituna, mutta sisältö pinoutuu pystysuuntaan */
+  .footer-columns {
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+  }
+  .footer-column {
+    width: 100%;
+    text-align: center;
+  }
+  .social-media-list {
+    justify-content: center;
+  }
+  .footer-contact {
+    margin-bottom: var(--spacing-base);
+  }
 }
