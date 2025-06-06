@@ -241,6 +241,7 @@ input[type="submit"]:hover {
   position:relative;
   width:var(--logo-size);
   aspect-ratio:1 / 1;         /* ympyrä */
+  align-content: center;
 }
 
 /* 1) SUMENNUS – pyöreä “lasi” taustalla */
@@ -645,6 +646,19 @@ input[type="submit"]:hover {
   /* Tekstille valkoinen väri ja voimakas varjo */
   color: var(--color-white);
   text-shadow: 0 0 2em rgba(255, 255, 255, 0.7);
+}
+
+.hero-wrapper {
+
+  top: -5em;
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2rem;
 }
 
 #hero h1 {
