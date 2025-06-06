@@ -26,6 +26,11 @@
   --section-padding-horizontal: 1rem;
   --content-max-width:        800px;
 
+  /* ========== LOGO ========== */
+  --logo-size:      clamp(140px, 28vw, 320px); /* responsiivinen halkaisija */
+  --logo-fill:      var(--color-dark-charcoal);                   /* logon väri (näkyy maskin läpi) */
+  --blur-strength:  18px;                      /* blur-määrä */
+
   /* ========== TYPOGRAPHY ========== */
   --font-base:     "Montserrat", sans-serif;
   --font-heading:  "prenton", sans-serif;
@@ -35,8 +40,8 @@
   --border-radius:         4px;
 
   /* ========== TRANSITIONS ========== */
-  --transition-fast: 0.2s ease-in-out;
-  --transition-slow: 0.5s ease-in-out;
+  --transition-fast: 0.1s ease-in-out;
+  --transition-slow: 0.2s ease-in-out;
 
   /* ========== FORM & BUTTON ========== */
   --input-padding-vertical:   0.75rem;
@@ -74,12 +79,16 @@ body.no-scroll {
   scrollbar-color: var(--scrollbar-thumb-color) var(--color-taupe);
 }
 
+html {
+  scrollbar-gutter: stable;
+  background-color: var(--color-taupe);
+}
 
 html,
 body {
   width: 100%;
   min-height: 100%;
-  background-color: var(--bg-primary);
+
   color: var(--text-primary);
   font-family: var(--font-base);
   line-height: 1.6;
@@ -179,7 +188,7 @@ input[type="submit"] {
   font-size: 1rem;
   cursor: pointer;
   border-radius: var(--border-radius);
-  transition: background-color var(--transition-fast);
+  /*! transition: background-color var(--transition-fast); */
 }
 button:hover,
 input[type="submit"]:hover {
@@ -202,7 +211,7 @@ input[type="submit"]:hover {
   box-shadow: var(--box-shadow-default);
 }
 .header.header-hidden {
-  transform: translateY(-80em);
+  transform: translateY(calc(var(--header-height)*-1));
 }
 
 .header-container {
@@ -225,6 +234,51 @@ input[type="submit"]:hover {
   text-transform: uppercase;
   text-decoration: none;
   white-space: nowrap;
+}
+
+/* Yhteinen ankkuri kerroksille */
+.logo-wrapper{
+  position:relative;
+  width:var(--logo-size);
+  aspect-ratio:1 / 1;         /* ympyrä */
+}
+
+/* 1) SUMENNUS – pyöreä “lasi” taustalla */
+.logo-blur{
+  position:absolute;
+  inset:0;                    /* täyttää wrapperin */
+  border-radius:50%;
+  
+  /* pikkuriikkinen tausta aktivoi blurin Chromessa/Edgessä */
+  background:rgba(255,255,255,.001);
+
+  -webkit-backdrop-filter:blur(var(--blur-strength));
+          backdrop-filter:blur(var(--blur-strength));
+
+  /* häivytä reunoja radiaalisesti – valinnainen, mutta näyttää pehmeämmältä */
+  -webkit-mask-image:radial-gradient(circle,
+                      rgba(0,0,0,1) 60%,
+                      rgba(0,0,0,0) 100%);
+          mask-image:radial-gradient(circle,
+                      rgba(0,0,0,1) 60%,
+                      rgba(0,0,0,0) 100%);
+
+  pointer-events:none;
+  z-index:100;                  /* pysyy takana */
+}
+
+/* 2) VARSINAINEN LOGO – maskattu PNG + väri */
+.logo-main{
+  position:absolute;
+  inset:0;
+  border-radius:50%;
+  background:var(--logo-fill);
+
+  -webkit-mask:url("images/logo.png") center/contain no-repeat;
+          mask:url("images/logo.png")  center/contain no-repeat;
+  mask-type:alpha;
+
+  z-index:1;                  /* pysyy blurin päällä */
 }
 
 /* ==============================
@@ -340,9 +394,6 @@ input[type="submit"]:hover {
   box-shadow: var(--box-shadow-default);
   z-index: 1000;
   text-align: center;
-
-
-  /* Uudet lisäykset: maksimi-korkeus näkymän mukaan ja pystyrullaus */
   max-height: calc(100vh - var(--header-height) - 2rem); /* headerin ja marginaalin verran tilaa yläpuolelle */
   overflow-y: auto;
 }
@@ -361,14 +412,79 @@ input[type="submit"]:hover {
 }
 .dropdown.open .dropdown-menu {
   display: block;
+  /*! padding-bottom: 2em; */
 }
 
+#scrollTopBtn {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  display: none; 
+  background-color: var(--color-dark-charcoal);
+  color: var(--color-white);
+  border: none;
+  border-radius: 50%;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  z-index: 1055500;
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+}
+
+#scrollTopBtn:hover {
+  opacity: 1;
+}
+
+.promo-banner {
+  /* Taustaväri noin sama kuin kuvassa (vaalea beige) */
+  background-color: var(--color-light-beige);
+  font-family: var(--font-heading);
+  /* Keskitetään tekstit vaakatasossa */
+
+  
+  /* Vähän tilaa ylä- ja sivureunoille */
+  padding: var(--input-padding-vertical) var(--input-padding-vertical) 0;
+
+  margin-bottom: 2em;
+}
+
+.promo-banner__title {
+  /* Isompi fontti otsikolle */
+
+  font-size: 4rem;           /* Suuri koko, esim. n. 40px jos root-font-size on 16px */
+  
+  text-transform: uppercase;    /* Kaikki isot kirjaimet */
+  letter-spacing: 1px;         /* Hieman väliä kirjaimille */
+  color: #000;                 /* Musta teksti */
+  margin: 0;                   /* Ei ylimääräisiä marginaaleja */
+  line-height: 1.2;            /* Hieman tiiviimpi rivikorkeus */
+}
+
+/* Musta palkki alaosaan */
+.promo-banner__subtitle {
+  background-color: var(--color-dark-charcoal);      /* Musta tausta */
+  color: var(--color-white);                 /* Valkoinen teksti */
+
+  font-size: 1rem;             /* Pienempi fontti alaotsikolle */
+  margin: var(--spacing-base) 0 0;
+  padding: var(--input-padding-vertical) 0;             /* 10px sisennys ylhäällä/alla, leveys täys leveys automaattisesti */
+  text-transform: none;        /* Säilyttää kirjainten normaalin muodon (Small caps) */
+  position: relative;
+  top: 1em;
+  
+  /* Leveydeksi täysi leveys containerissa */
+  display: block;              /* Täyttää koko .promo-bannerin leveyden */
+}
 
 /* ==============================
    RESPONSIVE (max-width: 1182px)
    ============================== */
 @media (max-width: 1182px) {
+  .dropdown.open .dropdown-menu {
 
+    padding-bottom: 2em;
+  }
   /* 1) Näytä hamburger‐ikoni */
   .hamburger {
     display: flex;
@@ -400,12 +516,13 @@ input[type="submit"]:hover {
   }
 
 .nav-links:has(.dropdown.open) {
-  height: 100vh;
+  height: 99vh;
 }
 
   /* 4) Kun hamburger avattu, lisätään .active ja valikko näkyy */
   .nav-links.active {
     display: flex;
+    scrollbar-gutter: stable both-edges;
   }
 
   /* 5) Jokainen <li> täyttää nav-links‐kontainerin leveyden */
@@ -456,9 +573,9 @@ input[type="submit"]:hover {
 
   /* B) Kun .dropdown‐elementillä on .open, näytetään valikko */
   .dropdown.open .dropdown-menu {
-    display: flex;
-      height: 100vh;
-    padding-bottom: 2em;
+    /*! display: flex; */
+      /*! height: 100vh; */
+    /*! padding-bottom: 2em; */
   }
 
   /* C) Jokainen dropdown‐kohde venyy koko leveydelle ja saa paddingin */
@@ -503,6 +620,7 @@ input[type="submit"]:hover {
   p {
     font-size: 0.95rem;
   }
+
 }
 
 
@@ -554,7 +672,7 @@ input[type="submit"]:hover {
    ============================== */
 section {
   position: relative;
-  width: 100%;
+  /*! width: 100%; */
   background: var(--color-section-bg);
   box-sizing: border-box;
   padding: var(--section-padding-vertical) 0;
@@ -582,7 +700,7 @@ section > * {
 
 /* Specific section heading and paragraph styles */
 #about h2,
-#collection h2,
+
 #solutions h2,
 #clients h2,
 #contact h2 {
@@ -600,7 +718,7 @@ section > * {
 
 /* MAIN CONTENT WRAPPER */
 main section {
-  padding: var(--section-padding-vertical) var(--section-padding-horizontal);
+  /*! padding: var(--section-padding-vertical) var(--section-padding-horizontal); */
   /*! max-width: var(--content-max-width); */
   /*! margin: 2rem auto; */
 }
@@ -616,6 +734,7 @@ main img {
 /* COLLECTION SECTION MIN HEIGHT */
 #collection {
   min-height: 100vh;
+  align-content: center;
 }
 
 /* ==============================
@@ -756,6 +875,7 @@ footer {
 
 .footer-column ul li a:hover {
   opacity: 0.8;
+  transition: none;
 }
 
 /* ============================================
@@ -845,3 +965,5 @@ footer {
     margin-bottom: var(--spacing-base);
   }
 }
+
+

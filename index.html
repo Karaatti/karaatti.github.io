@@ -12,8 +12,15 @@
 
     <!-- ===================== PÄÄsisältö (WRAPPER) ===================== -->
     <main id="content">
+        <button id="scrollTopBtn" aria-label="Palaa sivun alkuun">
+          ↑
+        </button>
         <!-- ===================== HERO SECTION ===================== -->
         <section id="hero">
+        <div class="logo-wrapper">
+           <span class="logo-blur" aria-hidden="true"></span>   <!-- pelkkä blur -->
+           <span class="logo-main"></span>
+        </div>
             <h1>DISCOVER THE LUXURY OF<br />NEST &amp; LIVING</h1>
             <p>EXCLUSIVE BEDROOM SOLUTIONS</p>
         </section>
@@ -28,9 +35,11 @@
         </section>
 
         <!-- ===================== COLLECTION / NOW IN STORES ===================== -->
-        <section id="collection">
-            <h2>NOW IN STORES</h2>
-            <h3>Special prices!</h3>
+        <section id="promo">
+            <div class="promo-banner">
+                <h2 class="promo-banner__title">NOW IN STORES</h2>
+                <h3 class="promo-banner__subtitle">Special prices!</h3>
+            </div>
             <p>
                 At Nest &amp; Living, we believe that exceptional quality should be within reach for everyone. Our furniture is designed with both trend-conscious aesthetics and functionality in mind, seamlessly blending modern trends with classic sophistication. From sleek, minimal bed frames to ergonomic mattresses that support a healthy spine, our pieces offer more than just beauty—they enhance your comfort and well-being.
             </p>
@@ -73,8 +82,12 @@
                 <button type="submit">Send Message</button>
             </form>
         </section>
+
     </main>
     <!-- ===================== END PÄÄsisältö ===================== -->
+
+    <!-- Palaa ylös -nappi -->
+
 
     <!-- FOOTER lisätään AJAXilla (footer.html) -->
     <script src="script.js"></script>

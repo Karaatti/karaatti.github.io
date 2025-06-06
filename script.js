@@ -8,6 +8,89 @@ document.addEventListener("DOMContentLoaded", function () {
   initPjaxNavigation();
 });
 
+// Globaalimuuttuja, jolla estetään headerin piilottaminen automaattirullauksen aikana
+let disableHeaderAutoHide = false;
+
+/**
+ * Apufunktio: estää headerin piiloutumisen kunnes scrollaus loppuu.
+ * Kuuntelee scroll-eventejä ja poistaa eston, kun scroll-tapahtumia ei tule
+ * 100 ms sisään.
+ */
+function disableHeaderHideUntilScrollEnd() {
+  disableHeaderAutoHide = true;
+  let scrollEndTimeout;
+
+  function onScroll() {
+    clearTimeout(scrollEndTimeout);
+    // Odotetaan 100 ms siitä, kun viimeinen scroll-event tuli
+    scrollEndTimeout = setTimeout(() => {
+      disableHeaderAutoHide = false;
+      window.removeEventListener("scroll", onScroll);
+    }, 100);
+  }
+
+  window.addEventListener("scroll", onScroll);
+}
+
+(function() {
+  const btn = document.getElementById('scrollTopBtn');
+
+  // Näytä/piilota nappi, kun sivulla rullataan
+  window.addEventListener('scroll', function() {
+    if (window.pageYOffset > 200) {
+      btn.style.display = 'block';
+    } else {
+      btn.style.display = 'none';
+    }
+  });
+
+  // Kun nappia painetaan: suljetaan mahdollinen näppäimistö ja rullataan ylös
+  btn.addEventListener('click', function() {
+    // Jos fokus on syötekentässä, niin poistetaan fokus, jotta näppäimistö häviää
+    if (document.activeElement && ['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)) {
+      document.activeElement.blur();
+    }
+    // Rullataan ylös pehmeästi ja estetään headerin piiloutuminen automaattirullauksen ajan
+    disableHeaderHideUntilScrollEnd();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+})();
+
+// ======================================
+//  Hyödyllinen apufunktio: sulkee avatut mobiili-/dropdown-valikot
+// ======================================
+function closeAllMenus() {
+  const header = document.querySelector(".header");
+  if (!header) return;
+
+  const hamburger = header.querySelector(".hamburger");
+  const navLinks = header.querySelector(".nav-links");
+  const dropdowns = header.querySelectorAll(".dropdown");
+
+  // Sulje mobiili-nav (hamburger) jos auki
+  if (navLinks && navLinks.classList.contains("active")) {
+    navLinks.classList.remove("active");
+    if (hamburger) hamburger.classList.remove("open");
+    unlockScrollRestorePosition();
+    setTimeout(() => {
+      header.classList.remove("header-hidden");
+    }, 0);
+  }
+
+  // Sulje kaikki avoimet dropdown-valikot
+  dropdowns.forEach((dropdown) => {
+    if (dropdown.classList.contains("open")) {
+      dropdown.classList.remove("open");
+      if (!(navLinks && navLinks.classList.contains("active"))) {
+        unlockScrollRestorePosition();
+        setTimeout(() => {
+          header.classList.remove("header-hidden");
+        }, 0);
+      }
+    }
+  });
+}
+
 function loadHeaderFooter() {
   // ===== HEADER =====
   fetch("header.html")
@@ -18,11 +101,8 @@ function loadHeaderFooter() {
       return response.text();
     })
     .then((html) => {
-      // Lisätään ladattu header DOM:iin <body>-alkuun
       document.body.insertAdjacentHTML("afterbegin", html);
-      // Kun header on lisätty, alustetaan headerin toiminnot
       initHeaderToiminnot();
-      // Alusta hash-logiikka vasta sen jälkeen, kun header on olemassa
       initDynamicHash();
     })
     .catch((error) => {
@@ -55,24 +135,30 @@ function initPjaxNavigation() {
 
     // 1) Hash-linkki (esim. "#about")
     if (href && href.startsWith("#")) {
-      // MUUTOS: jos hash on '#hero', jätetään se huomiotta
       if (href === "#hero") {
+        // Jos hash on '#hero', jätetään huomiotta
         e.preventDefault();
-        // Halutaan vain estää #hero-näyttämisen, mutta emme scrollaa mihinkään
         return;
       }
 
       e.preventDefault();
       const targetId = href.slice(1);
       const section = document.getElementById(targetId);
+
+      // Ensin suljetaan mahdollisesti auki olevat valikot
+      closeAllMenus();
+
       if (section) {
-        // Jos osio löytyy nykyiseltä sivulta, rullataan sinne
+        // Jos osio löytyy nykyiseltä sivulta, rullataan sinne automaattisesti
         const header = document.querySelector(".header");
         const headerHeight = header ? header.offsetHeight : 0;
-        const y =
-          section.getBoundingClientRect().top + window.scrollY - headerHeight;
+        const y = section.getBoundingClientRect().top + window.scrollY - headerHeight;
+
+        disableHeaderHideUntilScrollEnd();
         window.scrollTo({ top: y, behavior: "smooth" });
-        // Päivitetään URL-hashi ilman reloadia
+        if (header) {
+          header.classList.remove("header-hidden");
+        }
         history.replaceState(null, "", href);
       } else {
         // Jos osio ei ole tässä sivussa, ladataan etusivu ja scrollataan sinne
@@ -84,10 +170,18 @@ function initPjaxNavigation() {
     // 2) .html-linkki (esim. "about.html" tai "adjustable-beds.html")
     if (href && href.endsWith(".html") && link.origin === location.origin) {
       e.preventDefault();
+
+      closeAllMenus();
+
       const currentPage = location.pathname.split("/").pop() || "index.html";
       if (href === currentPage) {
-        // Jos klikattiin samaan sivuun, scrollataan ylös
+        // Sama sivu: scrollataan ylös ilman vaihtoa
+        const header = document.querySelector(".header");
+        disableHeaderHideUntilScrollEnd();
         window.scrollTo({ top: 0, behavior: "smooth" });
+        if (header) {
+          header.classList.remove("header-hidden");
+        }
       } else {
         loadPageViaAjax(href);
       }
@@ -125,8 +219,7 @@ function loadPageViaAjax(url, options = {}) {
       }
 
       // Korvataan nykyinen sisältö uudella
-      const currentWrapper =
-        document.querySelector("#content") || document.querySelector("main");
+      const currentWrapper = document.querySelector("#content") || document.querySelector("main");
       if (!currentWrapper) {
         console.error("Paikallista #content tai <main> ei löytynyt");
         return;
@@ -139,11 +232,9 @@ function loadPageViaAjax(url, options = {}) {
         document.title = newTitle.textContent;
       }
 
-      // Jos halutaan asettaa hash loppuun URL:iin
-      const finalUrl =
-        options.scrollToHash !== undefined
-          ? url + options.scrollToHash
-          : url;
+      const finalUrl = options.scrollToHash !== undefined
+        ? url + options.scrollToHash
+        : url;
 
       if (!options.replaceState) {
         history.pushState({}, "", finalUrl);
@@ -151,20 +242,21 @@ function loadPageViaAjax(url, options = {}) {
         history.replaceState({}, "", finalUrl);
       }
 
-      // Scrollataan ylös välittömästi (täysin uusi sivu) tai odotetaan hash-selausta
+      // Jos ei ole scrollToHashia, rullataan ylös (uusi sivu)
       if (!options.scrollToHash) {
+        const header = document.querySelector(".header");
+        disableHeaderHideUntilScrollEnd();
         window.scrollTo({ top: 0, behavior: "instant" });
+        if (header) {
+          header.classList.remove("header-hidden");
+        }
       }
 
-      // Päivitä navin aktiivinen linkki
       updateActiveNavLink();
-
-      // Alusta hash-logiikka uudelleen, sillä on uudet section[id]
       initDynamicHash();
 
       // Jos halutaan scrollata tiettyyn hash-osioon sisällön korvauksen jälkeen
       if (options.scrollToHash) {
-        // MUUTOS: jos scrollToHash on '#hero', skipataan scrollaaminen
         if (options.scrollToHash === "#hero") {
           return;
         }
@@ -174,17 +266,18 @@ function loadPageViaAjax(url, options = {}) {
         if (section) {
           const header = document.querySelector(".header");
           const headerHeight = header ? header.offsetHeight : 0;
-          const y =
-            section.getBoundingClientRect().top + window.scrollY - headerHeight;
+          const y = section.getBoundingClientRect().top + window.scrollY - headerHeight;
+
+          disableHeaderHideUntilScrollEnd();
           // Viive, jotta uusi sisältö on varmasti renderöity
           setTimeout(() => {
             window.scrollTo({ top: y, behavior: "smooth" });
+            if (header) {
+              header.classList.remove("header-hidden");
+            }
           }, 50);
         }
       }
-
-      // HUOM: Mahdolliset sivukohtaiset init-kutsut (esim. lomakkeet) voidaan
-      // kutsua tässä kohdassa tarpeen mukaan.
     })
     .catch((error) => {
       console.error(error);
@@ -192,7 +285,6 @@ function loadPageViaAjax(url, options = {}) {
 }
 
 function updateActiveNavLink() {
-  // Korostetaan navin linkkejä, jotka vastaavat nykyistä polkua
   const path = location.pathname.split("/").pop() || "index.html";
   document.querySelectorAll(".nav-links a").forEach((a) => {
     if (a.getAttribute("href") === path) {
@@ -202,6 +294,7 @@ function updateActiveNavLink() {
     }
   });
 }
+
 let _lockedScrollPos = 0;
 
 /**
@@ -210,7 +303,6 @@ let _lockedScrollPos = 0;
  */
 function lockScrollPreservePosition() {
   _lockedScrollPos = window.pageYOffset || document.documentElement.scrollTop;
-  // Aseta bodylle inline-tyyli top, niin sisältö pysyy ruudulla paikallaan
   document.body.style.top = `-${_lockedScrollPos}px`;
   document.body.classList.add("no-scroll");
 }
@@ -232,6 +324,13 @@ function initHeaderToiminnot() {
   // ===== 1) Scroll-piilotus ja näyttö ylös scrollattaessa =====
   let viimeisinScrollY = window.scrollY;
   window.addEventListener("scroll", function () {
+    // Jos estolippu päällä, varmistetaan, ettei header-piilotus aktivoidu
+    if (disableHeaderAutoHide) {
+      header.classList.remove("header-hidden");
+      viimeisinScrollY = window.scrollY;
+      return;
+    }
+
     const nykyinenScroll = window.scrollY;
     if (nykyinenScroll > viimeisinScrollY && nykyinenScroll > 100) {
       header.classList.add("header-hidden");
@@ -253,10 +352,8 @@ function initHeaderToiminnot() {
       navLinks.classList.toggle("active");
 
       if (navLinks.classList.contains("active")) {
-        // Menu aukeaa → lukitse scroll
         lockScrollPreservePosition();
       } else {
-        // Menu sulkeutuu → palauta scroll (vain jos ei muita valikkoja auki)
         unlockScrollRestorePosition();
         setTimeout(() => {
           header.classList.remove("header-hidden");
@@ -278,11 +375,8 @@ function initHeaderToiminnot() {
       const wasOpen = dropdown.classList.toggle("open");
 
       if (wasOpen) {
-        // Dropdown aukeaa → lukitse scroll
         lockScrollPreservePosition();
       } else {
-        // Dropdown sulkeutuu → PALAA vain jos hamburger‐menu ei ole auki
-        // eli jos navLinks ei sisällä .active-luokkaa
         if (!(navLinks && navLinks.classList.contains("active"))) {
           unlockScrollRestorePosition();
           setTimeout(() => {
@@ -295,14 +389,12 @@ function initHeaderToiminnot() {
 
   // ===== 4) Suljetaan avoimet dropdownit ja hamburger-menu klikkauksen muualle =====
   document.addEventListener("click", function (e) {
-    // 4.1) Dropdownien käsittely
     dropdowns.forEach((dropdown) => {
       if (
         dropdown.classList.contains("open") &&
         !dropdown.contains(e.target)
       ) {
         dropdown.classList.remove("open");
-        // Sulje dropdown → lukituksen palautus vain, jos EI ole mobiilimenua auki
         if (!(navLinks && navLinks.classList.contains("active"))) {
           unlockScrollRestorePosition();
           setTimeout(() => {
@@ -312,7 +404,6 @@ function initHeaderToiminnot() {
       }
     });
 
-    // 4.2) Hamburger-menu (mobiili) suljetaan, jos klikataan muualla
     if (hamburger && navLinks) {
       const isMenuAuki = navLinks.classList.contains("active");
       if (
@@ -322,7 +413,6 @@ function initHeaderToiminnot() {
       ) {
         navLinks.classList.remove("active");
         hamburger.classList.remove("open");
-        // Menu sulkeutuu → palauta scroll
         unlockScrollRestorePosition();
         setTimeout(() => {
           header.classList.remove("header-hidden");
@@ -331,7 +421,18 @@ function initHeaderToiminnot() {
     }
   });
 
-  // ===== 5) Logo-klikki: etusivulla scrollaa ylös, muilla PJAX-navigoi =====
+  // ===== 5) Suljetaan valikot, kun painetaan linkkiä navissa =====
+  const navAndDropdownLinks = header.querySelectorAll(
+    ".nav-links a, .dropdown a"
+  );
+  navAndDropdownLinks.forEach((link) => {
+    link.addEventListener("click", function () {
+      closeAllMenus();
+      header.classList.remove("header-hidden");
+    });
+  });
+
+  // ===== 6) Logo-klikki: etusivulla scrollaa ylös, muilla PJAX-navigoi =====
   const logoLink = document.querySelector(".logo");
   if (logoLink) {
     logoLink.addEventListener("click", function (e) {
@@ -339,30 +440,31 @@ function initHeaderToiminnot() {
       const path = window.location.pathname;
       if (href.endsWith("index.html") || path === "/") {
         e.preventDefault();
+        disableHeaderHideUntilScrollEnd();
         window.scrollTo({ top: 0, behavior: "smooth" });
+        if (header) {
+          header.classList.remove("header-hidden");
+        }
       }
       // Muutoin PJAX hoitaa navigoinnin
     });
   }
 }
 
-
 function initFooterToiminnot() {
-  // Jos haluat lisätä footerille jotain JS-toiminnallisuutta, toteuta täällä.
+  // Mahdollisia JS-toimintoja footerille
 }
 
-// ===== 6) Dynaaminen URL-hashin päivitys rullauksen mukaan =====
+// ===== 7) Dynaaminen URL-hashin päivitys rullauksen mukaan =====
 function initDynamicHash() {
   const header = document.querySelector(".header");
   if (!header) return;
 
-  // Haetaan kaikki section-elementit, joilla on id-atribuutti (POIS LUKIEN #hero)
-  const sections = document.querySelectorAll("section[id]:not([id='hero'])"); // MUUTOS: suodatetaan pois id="hero"
+  const sections = document.querySelectorAll("section[id]:not([id='hero'])");
   if (sections.length === 0) return;
 
   let viimeisinHash = window.location.hash;
 
-  // Käytetään IntersectionObserveria, jotta hash päivittyy, kun sektion keskikohta tulee näytölle
   const observerOptions = {
     root: null,
     rootMargin: `-${header.offsetHeight}px 0px -50% 0px`,
@@ -386,7 +488,6 @@ function initDynamicHash() {
     observer.observe(section);
   });
 
-  // Lisätään skrolli-event, jotta poistetaan hash, kun ollaan sivun ylälaidassa
   window.addEventListener("scroll", function () {
     const currentScroll = window.scrollY;
     if (currentScroll <= header.offsetHeight) {
