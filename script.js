@@ -164,7 +164,7 @@ function loadPageViaAjax(url, options = {}) {
 
       // Jos halutaan scrollata tiettyyn hash-osioon sisällön korvauksen jälkeen
       if (options.scrollToHash) {
-        // MUUTOS: jos scrollToastHash on '#hero', skipataan scrollaaminen
+        // MUUTOS: jos scrollToHash on '#hero', skipataan scrollaaminen
         if (options.scrollToHash === "#hero") {
           return;
         }
@@ -253,11 +253,14 @@ function initHeaderToiminnot() {
       navLinks.classList.toggle("active");
 
       if (navLinks.classList.contains("active")) {
-        // Menu aukeaa → lukitse scroll, mutta säilytä nykyinen paikka
+        // Menu aukeaa → lukitse scroll
         lockScrollPreservePosition();
       } else {
-        // Menu sulkeutuu → palauta scroll
+        // Menu sulkeutuu → palauta scroll (vain jos ei muita valikkoja auki)
         unlockScrollRestorePosition();
+        setTimeout(() => {
+          header.classList.remove("header-hidden");
+        }, 0);
       }
     });
   }
@@ -267,36 +270,49 @@ function initHeaderToiminnot() {
   dropdowns.forEach((dropdown) => {
     const toggleBtn = dropdown.querySelector(".dropdown-toggle");
     if (!toggleBtn) return;
+
     toggleBtn.addEventListener("click", function (e) {
       e.preventDefault();
       e.stopPropagation();
 
       const wasOpen = dropdown.classList.toggle("open");
+
       if (wasOpen) {
         // Dropdown aukeaa → lukitse scroll
         lockScrollPreservePosition();
       } else {
-        // Dropdown sulkeutuu → palauta scroll
-        unlockScrollRestorePosition();
+        // Dropdown sulkeutuu → PALAA vain jos hamburger‐menu ei ole auki
+        // eli jos navLinks ei sisällä .active-luokkaa
+        if (!(navLinks && navLinks.classList.contains("active"))) {
+          unlockScrollRestorePosition();
+          setTimeout(() => {
+            header.classList.remove("header-hidden");
+          }, 0);
+        }
       }
     });
   });
 
   // ===== 4) Suljetaan avoimet dropdownit ja hamburger-menu klikkauksen muualle =====
   document.addEventListener("click", function (e) {
-    // Suljetaan kaikki avoinna olevat dropdownit, jos klikataan muualla
+    // 4.1) Dropdownien käsittely
     dropdowns.forEach((dropdown) => {
       if (
         dropdown.classList.contains("open") &&
         !dropdown.contains(e.target)
       ) {
         dropdown.classList.remove("open");
-        // Dropdown suljetaan → scroll pois lukituksesta
-        unlockScrollRestorePosition();
+        // Sulje dropdown → lukituksen palautus vain, jos EI ole mobiilimenua auki
+        if (!(navLinks && navLinks.classList.contains("active"))) {
+          unlockScrollRestorePosition();
+          setTimeout(() => {
+            header.classList.remove("header-hidden");
+          }, 0);
+        }
       }
     });
 
-    // Suljetaan hamburger-menu, jos klikattu muualla
+    // 4.2) Hamburger-menu (mobiili) suljetaan, jos klikataan muualla
     if (hamburger && navLinks) {
       const isMenuAuki = navLinks.classList.contains("active");
       if (
@@ -306,8 +322,11 @@ function initHeaderToiminnot() {
       ) {
         navLinks.classList.remove("active");
         hamburger.classList.remove("open");
-        // Menu suljetaan → scroll pois lukituksesta
+        // Menu sulkeutuu → palauta scroll
         unlockScrollRestorePosition();
+        setTimeout(() => {
+          header.classList.remove("header-hidden");
+        }, 0);
       }
     }
   });
@@ -326,6 +345,7 @@ function initHeaderToiminnot() {
     });
   }
 }
+
 
 function initFooterToiminnot() {
   // Jos haluat lisätä footerille jotain JS-toiminnallisuutta, toteuta täällä.
@@ -366,7 +386,7 @@ function initDynamicHash() {
     observer.observe(section);
   });
 
-  // ADD: Kun ollaan sivun ylänurkassa (scrollY <= headerHeight), poistetaan hash kokonaan
+  // Lisätään skrolli-event, jotta poistetaan hash, kun ollaan sivun ylälaidassa
   window.addEventListener("scroll", function () {
     const currentScroll = window.scrollY;
     if (currentScroll <= header.offsetHeight) {

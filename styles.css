@@ -287,11 +287,12 @@ input[type="submit"]:hover {
 .nav-links {
   list-style: none;
   display: flex;
-  justify-content: center;
+
   align-items: center;
   flex-wrap: nowrap;
   gap: 1.5rem;
   min-height: 3em;
+
 }
 .nav-links li {
   position: relative;
@@ -340,6 +341,7 @@ input[type="submit"]:hover {
   z-index: 1000;
   text-align: center;
 
+
   /* Uudet lisäykset: maksimi-korkeus näkymän mukaan ja pystyrullaus */
   max-height: calc(100vh - var(--header-height) - 2rem); /* headerin ja marginaalin verran tilaa yläpuolelle */
   overflow-y: auto;
@@ -366,37 +368,53 @@ input[type="submit"]:hover {
    RESPONSIVE (max-width: 1182px)
    ============================== */
 @media (max-width: 1182px) {
+
+  /* 1) Näytä hamburger‐ikoni */
   .hamburger {
     display: flex;
   }
+
+  /* 2) Nav‐lohko ei veny vaan hakee tilansa sisällön mukaan */
   .nav {
     flex: 0 0 auto;
   }
+
+  /* 3) Nav‐links muuttuu kiinteäksi mobiilivalikoksi */
   .nav-links {
     position: fixed;
-    top: var(--header-height);
+    top: var(--header-height);  /* heti headerin alapuolelle */
     left: 0;
     right: 0;
     background-color: var(--color-dark-charcoal);
-    flex-direction: column;
+    display: none;               /* näytetään vasta .active‐luokan myötä */
+    flex-direction: column;      /* linkit allekkain */
     align-items: flex-start;
-    gap: 0;
-    padding: 1rem 0;
-    display: none;
     width: 100%;
-    text-align: center;
     box-shadow: var(--box-shadow-default);
+    /* Koska nav-links kattaa koko näytön korkeuden headerin alapuolelta */
+    padding-top: 1em;
+    overflow-y: auto;            /* skrollaus aukioloaikana */
 
-    /* Uudet lisäykset: maksimi-korkeus ja pystysuuntainen vieritys */
-    max-height: calc(100vh - var(--header-height));
-    overflow-y: auto;
+    overflow-anchor: none;   /* näin dropdownin avaaminen ei skrollaa ylös tai alas */
+  
   }
+
+.nav-links:has(.dropdown.open) {
+  height: 100vh;
+}
+
+  /* 4) Kun hamburger avattu, lisätään .active ja valikko näkyy */
   .nav-links.active {
     display: flex;
   }
+
+  /* 5) Jokainen <li> täyttää nav-links‐kontainerin leveyden */
   .nav-links li {
     width: 100%;
+    position: relative;          /* tarvitaan, jos dropdown‐menu absoluuttinen */
   }
+
+  /* 6) Linkit ja dropdown‐napit venyvät koko leveyden läpi */
   .nav-links li a,
   .nav-links li .dropdown-toggle {
     display: block;
@@ -406,38 +424,64 @@ input[type="submit"]:hover {
     color: var(--color-white);
     font-size: 1rem;
   }
+
+  /* 7) Hover‐efekti mobiilissa (taustaväri) */
   .nav-links li a:hover,
   .nav-links li .dropdown-toggle:hover {
     background-color: var(--color-hover-overlay);
   }
+
+  /* =============================================
+     MOBIILI: D R O P D O W N - V A L I K K O
+     ============================================= */
+
+  /* A) Muutetaan dropdown‐menu absoluuttiseen asemaan, jotta se ei työntäisi
+        muuta sisältöä ja alkaisi suoraan toggle‐napin alta. */
   .dropdown-menu {
-    position: static;
-    box-shadow: none;
-    padding: 0;
+    position: absolute;
+    top: 100%;      /* heti oman <li>-elementin alapuolella */
+    left: 0;
+    right: 0;
+    /* bottom: 0;  POISTA TAI KOMMENTOI POIS! */
+    background-color: var(--color-taupe);
     display: none;
     flex-direction: column;
-    width: 100%;
+    overflow-y: auto;   /* tarvittaessa pystysuuntainen skrollaus */
+    z-index: 1001;
+    border-radius: 0;
+    
+    /* Asetetaan maksimi-korkeus niin, että dropdown ei ulotu headerin taakse */
+    max-height: calc(100vh - var(--header-height) - 0.5rem);
   }
+
+  /* B) Kun .dropdown‐elementillä on .open, näytetään valikko */
   .dropdown.open .dropdown-menu {
     display: flex;
-    background-color: var(--color-taupe);
-    border-radius: 0;
-    margin-top: 0.25rem;
+      height: 100vh;
+    padding-bottom: 2em;
   }
+
+  /* C) Jokainen dropdown‐kohde venyy koko leveydelle ja saa paddingin */
   .dropdown-menu li {
     width: 100%;
   }
+  
   .dropdown-menu li a {
     display: block;
     width: 100%;
-    font-weight: 600;
+    padding: var(--input-padding-vertical) var(--button-padding-horizontal);
+    text-align: center;
     color: var(--text-primary);
+    font-weight: 600;
+    white-space: nowrap;
   }
   .dropdown-menu li a:hover {
     color: var(--accent);
   }
 
-  /* TYPOGRAPHY ADJUSTMENTS FOR MOBILE */
+  /* ==============================
+     TYPOGRAPHY ADJUSTMENTS FOR MOBILE
+     ============================== */
   #hero h1 {
     font-size: 2.5rem;
   }
