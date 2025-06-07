@@ -32,29 +32,7 @@ function disableHeaderHideUntilScrollEnd() {
   window.addEventListener("scroll", onScroll);
 }
 
-(function() {
-  const btn = document.getElementById('scrollTopBtn');
 
-  // Näytä/piilota nappi, kun sivulla rullataan
-  window.addEventListener('scroll', function() {
-    if (window.pageYOffset > 200) {
-      btn.style.display = 'block';
-    } else {
-      btn.style.display = 'none';
-    }
-  });
-
-  // Kun nappia painetaan: suljetaan mahdollinen näppäimistö ja rullataan ylös
-  btn.addEventListener('click', function() {
-    // Jos fokus on syötekentässä, niin poistetaan fokus, jotta näppäimistö häviää
-    if (document.activeElement && ['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)) {
-      document.activeElement.blur();
-    }
-    // Rullataan ylös pehmeästi ja estetään headerin piiloutuminen automaattirullauksen ajan
-    disableHeaderHideUntilScrollEnd();
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  });
-})();
 
 // ======================================
 //  Hyödyllinen apufunktio: sulkee avatut mobiili-/dropdown-valikot
@@ -124,6 +102,8 @@ function loadHeaderFooter() {
     .catch((error) => {
       console.error(error);
     });
+
+    
 }
 
 function initPjaxNavigation() {
@@ -452,8 +432,30 @@ function initHeaderToiminnot() {
 }
 
 function initFooterToiminnot() {
-  // Mahdollisia JS-toimintoja footerille
+  const btn = document.getElementById('scroll-btn');
+
+  if (!btn) return; // tarkistus, että nappi varmasti löytyy
+
+  // Näytä/piilota nappi, kun sivulla rullataan
+  window.addEventListener('scroll', function() {
+    if (window.pageYOffset > 200) {
+      btn.style.display = 'block';
+    } else {
+      btn.style.display = 'none';
+    }
+  });
+
+  // Nappia painettaessa toiminnallisuus
+  btn.addEventListener('click', function() {
+    if (document.activeElement && ['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement.tagName)) {
+      document.activeElement.blur();
+    }
+
+    disableHeaderHideUntilScrollEnd();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
 }
+
 
 // ===== 7) Dynaaminen URL-hashin päivitys rullauksen mukaan =====
 function initDynamicHash() {
