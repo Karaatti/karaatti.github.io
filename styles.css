@@ -34,7 +34,8 @@
   /* ========== LOGO ========== */
   --logo-size: clamp(300px, 28vw, 320px);
   --logo-fill: var(--color-dark-charcoal);
-  --blur-strength: 18px; /* blur amount */
+  --blur-strength: 18px;
+  /* blur amount */
 
   /* ========== TYPOGRAPHY ========== */
   --font-base: "Montserrat", sans-serif;
@@ -63,9 +64,12 @@
   --texture-size: 512px;
 
   /* ========== NEW COMMON VARIABLES ========== */
-  --spacing-small: 0.5rem;                  /* frequently-used small spacing */
-  --font-size-small: 1.25rem;               /* small heading / icon size */
-  --burger-open-translate: 0.78rem;         /* vertical offset for burger lines */
+  --spacing-small: 0.5rem;
+  /* frequently-used small spacing */
+  --font-size-small: 1.25rem;
+  /* small heading / icon size */
+  --burger-open-translate: 0.78rem;
+  /* vertical offset for burger lines */
 }
 
 /* ===== Updated body.no-scroll ===== */
@@ -101,7 +105,7 @@ body {
   color: var(--text-primary);
   font-family: var(--font-base);
   line-height: 1.6;
-  overflow-x:hidden;
+  overflow-x: hidden;
 
 }
 
@@ -109,6 +113,7 @@ a {
   text-decoration: none;
   color: var(--accent);
 }
+
 a:hover {
   opacity: 0.8;
 }
@@ -372,7 +377,7 @@ input[type="submit"]:hover {
   white-space: nowrap;
 }
 
-.nav-links li:hover > a {
+.nav-links li:hover>a {
   opacity: 0.8;
 }
 
@@ -388,8 +393,7 @@ input[type="submit"]:hover {
   padding: 0;
 }
 
-.dropdown-toggle .arrow {
-}
+.dropdown-toggle .arrow {}
 
 .dropdown-menu {
   display: none;
@@ -458,7 +462,7 @@ input[type="submit"]:hover {
   margin-bottom: 2em;
   box-shadow: var(--box-shadow-default);
   max-width: var(--content-max-width);
-  width: 98%;
+  width: 95%;
 }
 
 .promo-banner__title {
@@ -479,7 +483,7 @@ input[type="submit"]:hover {
   text-transform: none;
   position: relative;
   top: 1em;
-  display: block;
+  /*! display: block; */
   box-shadow: var(--box-shadow-default);
 }
 
@@ -621,10 +625,10 @@ input[type="submit"]:hover {
   align-content: center;
   min-height: 108vh;
   margin-top: calc(var(--header-height) * -1);
-    background-image:
-    linear-gradient(rgba(255,255,255,0.4), rgba(255,255,255,0.4)),
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)),
     url("images/MOON_GOLD_1.webp");
-  background-position: center bottom;
+  background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -661,6 +665,8 @@ input[type="submit"]:hover {
   background-color: var(--color-olive-green);
   box-shadow: var(--box-shadow-default);
   z-index: 1;
+  margin-top: -2em;
+  margin-bottom: -2em;
 }
 
 #about h2,
@@ -673,7 +679,6 @@ input[type="submit"]:hover {
    ================================================================== */
 section {
   position: relative;
-  /*! width: 100%; */
   background: var(--color-section-bg);
   box-sizing: border-box;
   padding: var(--section-padding-vertical) 0;
@@ -692,7 +697,7 @@ section::before {
   pointer-events: none;
 }
 
-section > * {
+section>* {
   max-width: var(--content-max-width);
   width: 100%;
   margin-left: auto;
@@ -707,8 +712,10 @@ section > * {
 #clients h2,
 #contact h2 {
   display: flex;
-  align-items: center;        /* Keskittää viivan pystysuunnassa tekstin keskelle */
-  justify-content: center;    /* Keskittää kokonaisuuden vaakasuunnassa (valinnainen) */
+  align-items: center;
+  /* Keskittää viivan pystysuunnassa tekstin keskelle */
+  justify-content: center;
+  /* Keskittää kokonaisuuden vaakasuunnassa (valinnainen) */
   margin-bottom: var(--spacing-base);
 }
 
@@ -717,11 +724,13 @@ section > * {
 #solutions h2::after,
 #clients h2::after,
 #contact h2::after,
+#promo h3::after,
 #about h2::before,
 #collection h2::before,
 #solutions h2::before,
 #clients h2::before,
-#contact h2::before {
+#contact h2::before,
+#promo h3::before {
   content: "";
   flex: 1;
   margin-top: 0.15em;
@@ -734,20 +743,24 @@ section > * {
 #collection h2::before,
 #solutions h2::before,
 #clients h2::before,
-#contact h2::before  {
+#contact h2::before,
+#promo h3::before {
   margin-right: 0.5em;
 }
+
 #about h2::after,
 #collection h2::after,
 #solutions h2::after,
 #clients h2::after,
-#contact h2::after {
+#contact h2::after,
+#promo h3::after {
   margin-left: 0.5em;
 }
 
 #solutions h2,
 #solutions p {
   color: var(--color-light-beige);
+  margin-top: var(--spacing-base);
 }
 
 #about p,
@@ -784,8 +797,16 @@ main img {
 .collection-buttons {
   display: grid;
   gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  /* oletuksena 4 saraketta */
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   margin-top: 1.5rem;
+}
+
+/* 542 px ja sitä kapeammat näytöt → 2 saraketta */
+@media (max-width: 542px) {
+  .collection-buttons {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 .collection-btn {
@@ -802,15 +823,18 @@ main img {
 }
 
 .collection-btn:hover,
-.collection-btn:focus {
+.collection-btn.active {
   background-color: var(--color-olive-green-dark);
   opacity: 1;
 }
+
+
 
 #solutions {
   min-height: 104svh;
   align-content: center;
   background-color: var(--color-olive-green);
+  padding-top: 0em;
 }
 
 .solution-buttons {
@@ -838,6 +862,7 @@ main img {
   background-color: var(--color-taupe-light);
   opacity: 1;
 }
+
 /* ==================================================================
    FOOTER
    ================================================================== */
@@ -899,7 +924,7 @@ footer {
   z-index: 0;
 }
 
-.with-texture > *,
+.with-texture>*,
 .with-texture .sisalto {
   position: relative;
   z-index: 1;
@@ -998,8 +1023,7 @@ footer {
 /* ---------------------------------------------
    4) SOCIAL MEDIA ICONS AND LINKS
    --------------------------------------------- */
-.social-media-list {
-}
+.social-media-list {}
 
 .social-media-list li {
   list-style: none;
@@ -1065,6 +1089,7 @@ footer {
    6) RESPONSIVE
    --------------------------------------------- */
 @media (max-width: 768px) {
+
   /* Footer-inner remains centered, content stacks vertically */
   .footer-columns {
     flex-direction: column;
@@ -1079,7 +1104,7 @@ footer {
   }
 
   .social-media-list li {
-    width:100%;
+    width: 100%;
     justify-content: center;
     left: 0;
   }
@@ -1087,4 +1112,14 @@ footer {
   .footer-contact {
     margin-bottom: var(--spacing-base);
   }
+}
+
+#collection-content {
+}
+
+/* Paneelin korkeus siirtyy sulavasti kumpaankin suuntaan */
+#collection-content {
+  overflow: hidden;
+  transition: height .35s ease;
+  margin-top: var(--spacing-base);
 }

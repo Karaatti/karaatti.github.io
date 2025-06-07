@@ -1,21 +1,14 @@
 // script.js
 
 document.addEventListener("DOMContentLoaded", function () {
-  // 1) Ladataan header ja footer vain kerran sivulatauksen yhteydessä
   loadHeaderFooter();
-
-  // 2) Alustetaan PJAX-navigaatio ja hash/link-toiminnallisuudet
+  initCollectionLoader('.collection-btn', '#collection-content');
   initPjaxNavigation();
 });
 
-// Globaalimuuttuja, jolla estetään headerin piilottaminen automaattirullauksen aikana
+
 let disableHeaderAutoHide = false;
 
-/**
- * Apufunktio: estää headerin piiloutumisen kunnes scrollaus loppuu.
- * Kuuntelee scroll-eventejä ja poistaa eston, kun scroll-tapahtumia ei tule
- * 100 ms sisään.
- */
 function disableHeaderHideUntilScrollEnd() {
   disableHeaderAutoHide = true;
   let scrollEndTimeout;
@@ -32,11 +25,6 @@ function disableHeaderHideUntilScrollEnd() {
   window.addEventListener("scroll", onScroll);
 }
 
-
-
-// ======================================
-//  Hyödyllinen apufunktio: sulkee avatut mobiili-/dropdown-valikot
-// ======================================
 function closeAllMenus() {
   const header = document.querySelector(".header");
   if (!header) return;
@@ -103,7 +91,7 @@ function loadHeaderFooter() {
       console.error(error);
     });
 
-    
+
 }
 
 function initPjaxNavigation() {
@@ -201,7 +189,6 @@ function loadPageViaAjax(url, options = {}) {
       // Korvataan nykyinen sisältö uudella
       const currentWrapper = document.querySelector("#content") || document.querySelector("main");
       if (!currentWrapper) {
-        console.error("Paikallista #content tai <main> ei löytynyt");
         return;
       }
       currentWrapper.replaceWith(newContent);
@@ -286,6 +273,99 @@ function lockScrollPreservePosition() {
   document.body.style.top = `-${_lockedScrollPos}px`;
   document.body.classList.add("no-scroll");
 }
+
+function initCollectionLoader(buttonSelector, targetSelector) {
+  const buttons = document.querySelectorAll(buttonSelector);
+  const target  = document.querySelector(targetSelector);
+  if (!target) return;
+
+  let currentURL = null;        // mikä sisältö näkyy
+  let activeBtn  = null;        // tummentunut painike
+
+  /* 1) Varmista, että height palaa 'auto'-tilaan kun paneeli jää auki */
+  target.addEventListener('transitionend', e => {
+    if (e.propertyName === 'height' && parseInt(target.style.height) !== 0) {
+      target.style.height = 'auto';
+    }
+  });
+
+  /* 2) Apufunktio: animaatio FLIP-tekniikalla fromPx → toPx */
+  function animateHeight(fromPx, toPx) {
+    target.style.height = `${fromPx}px`;
+    target.getBoundingClientRect();              // force reflow
+    requestAnimationFrame(() => {
+      target.style.height = `${toPx}px`;
+    });
+  }
+
+  /* 3) Painikkeiden kuuntelija */
+  buttons.forEach(btn => btn.addEventListener('click', async e => {
+    e.preventDefault();
+    const url = btn.href;
+
+    /* --- Päivitä napin active-korostus --- */
+    if (activeBtn && activeBtn !== btn) activeBtn.classList.remove('active');
+
+    /* === A) SAMA nappi → toggle === */
+    if (currentURL === url) {
+      const open = target.getBoundingClientRect().height > 0;
+
+      if (open) {                              // SULJE
+        const hNow = target.getBoundingClientRect().height;
+        animateHeight(hNow, 0);
+        currentURL = null;
+        btn.classList.remove('active');
+        activeBtn = null;
+      } else {                                // AVAA uudelleen ilman latausta
+        /* mitataan luonnollinen korkeus */
+        target.style.height = 'auto';
+        const hAuto = target.scrollHeight;
+        animateHeight(0, hAuto);
+        currentURL = url;
+        btn.classList.add('active');
+        activeBtn = btn;
+      }
+      return;
+    }
+
+    /* === B) ERI nappi → lataa uusi sisältö ja skaalaa === */
+    btn.classList.add('active');
+    activeBtn = btn;
+
+    const startH = target.getBoundingClientRect().height;
+    target.style.height = `${startH}px`;
+    target.getBoundingClientRect();            // reflow
+
+    /* --- AJAX-haku --- */
+    let html = '';
+    try {
+      const res = await fetch(url);
+      if (!res.ok) throw new Error(res.statusText);
+      html = await res.text();
+    } catch (err) {
+      console.error(err);
+      html = '<p>Sorry, could not load content.</p>';
+    }
+
+    if (html) {
+      const doc = new DOMParser().parseFromString(html, 'text/html');
+      const mainEl = doc.querySelector('main');
+      target.innerHTML = mainEl
+        ? mainEl.innerHTML
+        : '<p>Error: no &lt;main&gt; found</p>';
+    }
+
+    /* --- mitataan uusi luonnollinen korkeus --- */
+    target.style.height = 'auto';
+    await new Promise(requestAnimationFrame);   // anna selaimelle 1 frame
+    const endH = target.scrollHeight;
+
+    /* --- animoi vanhasta uuteen --- */
+    animateHeight(startH, endH);
+    currentURL = url;
+  }));
+}
+
 
 /**
  * Palauttaa scrollauksen: poistetaan .no-scroll ja top-tyyli,
@@ -437,7 +517,7 @@ function initFooterToiminnot() {
   if (!btn) return; // tarkistus, että nappi varmasti löytyy
 
   // Näytä/piilota nappi, kun sivulla rullataan
-  window.addEventListener('scroll', function() {
+  window.addEventListener('scroll', function () {
     if (window.pageYOffset > 200) {
       btn.style.display = 'block';
     } else {
@@ -446,7 +526,7 @@ function initFooterToiminnot() {
   });
 
   // Nappia painettaessa toiminnallisuus
-  btn.addEventListener('click', function() {
+  btn.addEventListener('click', function () {
     if (document.activeElement && ['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement.tagName)) {
       document.activeElement.blur();
     }
