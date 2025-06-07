@@ -427,7 +427,9 @@ function initHeaderToiminnot() {
   }
 
   // ===== 3) Dropdown-valikon toggle (Categories) =====
+
   const dropdowns = document.querySelectorAll(".dropdown");
+
   dropdowns.forEach((dropdown) => {
     const toggleBtn = dropdown.querySelector(".dropdown-toggle");
     if (!toggleBtn) return;
@@ -436,19 +438,23 @@ function initHeaderToiminnot() {
       e.preventDefault();
       e.stopPropagation();
 
-      const wasOpen = dropdown.classList.toggle("open");
+      const isOpenNow = dropdown.classList.toggle("open");
 
-      if (wasOpen) {
+      if (isOpenNow) {
+        /* aina yksi lukko lisää */
         lockScrollPreservePosition();
       } else {
+        /* vähennä lukko joka sulkemisella – riippumatta muista valikoista */
+        unlockScrollRestorePosition();
+
+        /* header näkyy heti kun *mikään* valikko ei ole auki */
         if (!(navLinks && navLinks.classList.contains("active"))) {
-          unlockScrollRestorePosition();
-          setTimeout(() => {
-            header.classList.remove("header-hidden");
-          }, 0);
+          setTimeout(() => header.classList.remove("header-hidden"), 0);
         }
       }
     });
+
+
   });
 
   // ===== 4) Suljetaan avoimet dropdownit ja hamburger-menu klikkauksen muualle =====

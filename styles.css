@@ -74,13 +74,19 @@
 
 /* ===== Updated body.no-scroll ===== */
 /* säilytä leveys, korkeudet & turva-alueet */
-body.no-scroll{
-  position: fixed;          /* pitää näkymän paikoillaan */
-  inset: 0;                 /* == top,right,bottom,left:0  */
-  overflow: hidden;         /* estä taustan rullaus        */
-  width: 100%;              /* varmuuden vuoksi            */
-  overscroll-behavior: contain; /* estä scroll-ketjut       */
-  overflow-anchor: none;    /* opt-out scroll anchoring → ei sivun “pomppua”  :contentReference[oaicite:1]{index=1} */
+body.no-scroll {
+  position: fixed;
+  /* pitää näkymän paikoillaan */
+  inset: 0;
+  /* == top,right,bottom,left:0  */
+  overflow: hidden;
+  /* estä taustan rullaus        */
+  width: 100%;
+  /* varmuuden vuoksi            */
+  overscroll-behavior: contain;
+  /* estä scroll-ketjut       */
+  overflow-anchor: none;
+  /* opt-out scroll anchoring → ei sivun “pomppua”  :contentReference[oaicite:1]{index=1} */
 }
 
 
@@ -525,7 +531,7 @@ input[type="submit"]:hover {
   }
 
   .nav-links:has(.dropdown.open) {
-    height: 99vh;
+    height: 99svh;
   }
 
   .nav-links.active {
@@ -628,7 +634,7 @@ input[type="submit"]:hover {
   position: relative;
   text-align: center;
   align-content: center;
-  min-height: 108vh;
+  min-height: 109svh;
   margin-top: calc(var(--header-height) * -1);
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)),
@@ -670,7 +676,7 @@ input[type="submit"]:hover {
   background-color: var(--color-olive-green);
   box-shadow: var(--box-shadow-default);
   z-index: 3;
-  margin-top: -1em;
+  margin-top: -2em;
   margin-bottom: -2em;
   box-shadow: var(--box-shadow-default);
 }
@@ -1122,8 +1128,7 @@ footer {
   }
 }
 
-#collection-content {
-}
+#collection-content {}
 
 /* Paneelin korkeus siirtyy sulavasti kumpaankin suuntaan */
 #collection-content {
