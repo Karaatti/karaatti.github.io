@@ -286,7 +286,9 @@ function lockScrollPreservePosition() {
   document.body.style.top = `-${_lockedScrollPos}px`;
   document.body.classList.add("no-scroll");
 }
-
+  window.addEventListener('DOMContentLoaded', () =>
+    document.querySelectorAll('#hero,#promo')
+            .forEach(el => el.classList.add('bg-ready')));
 /**
  * Palauttaa scrollauksen: poistetaan .no-scroll ja top-tyyli,
  * ja rullataan takaisin lukittuun kohtaan.
