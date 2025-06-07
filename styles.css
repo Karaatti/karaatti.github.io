@@ -73,13 +73,16 @@
 }
 
 /* ===== Updated body.no-scroll ===== */
-body.no-scroll {
-  position: fixed;
-  left: 0;
-  right: 0;
-  overflow: hidden;
-  width: 100%;
+/* säilytä leveys, korkeudet & turva-alueet */
+body.no-scroll{
+  position: fixed;          /* pitää näkymän paikoillaan */
+  inset: 0;                 /* == top,right,bottom,left:0  */
+  overflow: hidden;         /* estä taustan rullaus        */
+  width: 100%;              /* varmuuden vuoksi            */
+  overscroll-behavior: contain; /* estä scroll-ketjut       */
+  overflow-anchor: none;    /* opt-out scroll anchoring → ei sivun “pomppua”  :contentReference[oaicite:1]{index=1} */
 }
+
 
 /* ==================================================================
    RESET & BASE STYLES
@@ -452,7 +455,9 @@ input[type="submit"]:hover {
 }
 
 #promo {
-  background-color: var(--color-border);
+  background-color: var(--color-taupe);
+  box-shadow: var(--box-shadow-default);
+  z-index: 1;
 }
 
 .promo-banner {
@@ -664,9 +669,10 @@ input[type="submit"]:hover {
 #about {
   background-color: var(--color-olive-green);
   box-shadow: var(--box-shadow-default);
-  z-index: 1;
-  margin-top: -2em;
+  z-index: 3;
+  margin-top: -1em;
   margin-bottom: -2em;
+  box-shadow: var(--box-shadow-default);
 }
 
 #about h2,
@@ -678,11 +684,8 @@ input[type="submit"]:hover {
    SECTIONS / PAGE CONTENT
    ================================================================== */
 section {
-  position: relative;
-  background: var(--color-section-bg);
   box-sizing: border-box;
   padding: var(--section-padding-vertical) 0;
-  background-color: var(--color-light-beige);
 }
 
 section::before {
@@ -717,6 +720,7 @@ section>* {
   justify-content: center;
   /* Keskittää kokonaisuuden vaakasuunnassa (valinnainen) */
   margin-bottom: var(--spacing-base);
+  /*! color: var(--color-light-beige); */
 }
 
 #about h2::after,
@@ -771,11 +775,12 @@ section>* {
   margin-top: var(--spacing-base);
   text-align: justify;
   line-height: 1.7;
+  /*! color: var(--color-light-beige); */
 }
 
 #promo p {
-  /*! text-shadow: 0 0 2em rgba(255, 255, 255, 0.7); */
-  color: var(--color-light-beige);
+  text-shadow: 0 0 2em rgba(255, 255, 255, 0.7);
+  /*! color: var(--color-light-beige); */
 }
 
 /* MAIN CONTENT WRAPPER */
@@ -792,6 +797,8 @@ main img {
 #collection {
   min-height: 104svh;
   align-content: center;
+  box-shadow: var(--box-shadow-default);
+  z-index: 2;
 }
 
 .collection-buttons {
@@ -835,6 +842,7 @@ main img {
   align-content: center;
   background-color: var(--color-olive-green);
   padding-top: 0em;
+  box-shadow: var(--box-shadow-default);
 }
 
 .solution-buttons {

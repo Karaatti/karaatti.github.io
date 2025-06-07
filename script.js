@@ -276,67 +276,36 @@ function lockScrollPreservePosition() {
 
 function initCollectionLoader(buttonSelector, targetSelector) {
   const buttons = document.querySelectorAll(buttonSelector);
-  const target  = document.querySelector(targetSelector);
+  const target = document.querySelector(targetSelector);
   if (!target) return;
 
-  let currentURL = null;        // mikä sisältö näkyy
-  let activeBtn  = null;        // tummentunut painike
+  let currentURL = null;
 
-  /* 1) Varmista, että height palaa 'auto'-tilaan kun paneeli jää auki */
+  // Ajetaan aina kun height-siirtymä päättyy
   target.addEventListener('transitionend', e => {
-    if (e.propertyName === 'height' && parseInt(target.style.height) !== 0) {
-      target.style.height = 'auto';
+    if (e.propertyName === 'height' && currentURL) {
+      target.style.height = 'auto';         // paluu automaattiin
     }
   });
 
-  /* 2) Apufunktio: animaatio FLIP-tekniikalla fromPx → toPx */
-  function animateHeight(fromPx, toPx) {
-    target.style.height = `${fromPx}px`;
-    target.getBoundingClientRect();              // force reflow
-    requestAnimationFrame(() => {
-      target.style.height = `${toPx}px`;
-    });
-  }
-
-  /* 3) Painikkeiden kuuntelija */
   buttons.forEach(btn => btn.addEventListener('click', async e => {
     e.preventDefault();
     const url = btn.href;
 
-    /* --- Päivitä napin active-korostus --- */
-    if (activeBtn && activeBtn !== btn) activeBtn.classList.remove('active');
-
-    /* === A) SAMA nappi → toggle === */
+    /* 1) Sama painike ⇒ toggle */
     if (currentURL === url) {
       const open = target.getBoundingClientRect().height > 0;
-
-      if (open) {                              // SULJE
-        const hNow = target.getBoundingClientRect().height;
-        animateHeight(hNow, 0);
-        currentURL = null;
-        btn.classList.remove('active');
-        activeBtn = null;
-      } else {                                // AVAA uudelleen ilman latausta
-        /* mitataan luonnollinen korkeus */
-        target.style.height = 'auto';
-        const hAuto = target.scrollHeight;
-        animateHeight(0, hAuto);
-        currentURL = url;
-        btn.classList.add('active');
-        activeBtn = btn;
-      }
+      toggleHeight(open ? 0 : target.scrollHeight);
+      currentURL = open ? null : url;
       return;
     }
 
-    /* === B) ERI nappi → lataa uusi sisältö ja skaalaa === */
-    btn.classList.add('active');
-    activeBtn = btn;
+    /* 2) Eri painike ⇒ sulava resize */
+    const oldH = target.getBoundingClientRect().height;
+    target.style.height = `${oldH}px`;      // lukitaan lähtökorkeus
+    target.getBoundingClientRect();         // force reflow
 
-    const startH = target.getBoundingClientRect().height;
-    target.style.height = `${startH}px`;
-    target.getBoundingClientRect();            // reflow
-
-    /* --- AJAX-haku --- */
+    /* 2b) ladataan uusi sisältö */
     let html = '';
     try {
       const res = await fetch(url);
@@ -344,7 +313,7 @@ function initCollectionLoader(buttonSelector, targetSelector) {
       html = await res.text();
     } catch (err) {
       console.error(err);
-      html = '<p>Sorry, could not load content.</p>';
+      target.innerHTML = '<p>Sorry, could not load content.</p>';
     }
 
     if (html) {
@@ -355,17 +324,23 @@ function initCollectionLoader(buttonSelector, targetSelector) {
         : '<p>Error: no &lt;main&gt; found</p>';
     }
 
-    /* --- mitataan uusi luonnollinen korkeus --- */
-    target.style.height = 'auto';
+    /* 2c) mitataan *todellinen* uusi korkeus */
     await new Promise(requestAnimationFrame);   // anna selaimelle 1 frame
-    const endH = target.scrollHeight;
-
-    /* --- animoi vanhasta uuteen --- */
-    animateHeight(startH, endH);
+    target.style.height = 'auto';
+    const newH = target.scrollHeight;           // oikea arvo pieniinkin suuntiin
+    target.style.height = `${oldH}px`;          // palauta lähtö
+    toggleHeight(newH);                         // ja animoi ➜ newH
     currentURL = url;
   }));
-}
 
+  /* Yhteinen animaattori */
+  function toggleHeight(toPx) {
+    target.getBoundingClientRect();             // flush
+    requestAnimationFrame(() => {
+      target.style.height = `${toPx}px`;
+    });
+  }
+}
 
 /**
  * Palauttaa scrollauksen: poistetaan .no-scroll ja top-tyyli,
