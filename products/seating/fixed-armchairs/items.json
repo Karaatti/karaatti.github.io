@@ -1,0 +1,22 @@
+[
+  {
+    "name": "bay",
+    "href": "bay/",
+    "type": "dir"
+  },
+  {
+    "name": "dove",
+    "href": "dove/",
+    "type": "dir"
+  },
+  {
+    "name": "eagle",
+    "href": "eagle/",
+    "type": "dir"
+  },
+  {
+    "name": "swan",
+    "href": "swan/",
+    "type": "dir"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "bronze",
+    "href": "bronze/",
+    "type": "dir"
+  },
+  {
+    "name": "gold",
+    "href": "gold/",
+    "type": "dir"
+  },
+  {
+    "name": "silver",
+    "href": "silver/",
+    "type": "dir"
+  }
+]

@@ -167,11 +167,28 @@ function closeAllMenus() {
   setTimeout(() => header.classList.remove('header-hidden'), 0);
 }
 
+/**
+ * Laskee URL-polun syvyyden perusteella moniko "../" tarvitaan,
+ * jotta päästään projektin juureen.
+ */
+function computePrefix() {
+  // esim. "/products/beds/headboards.html" → ["products","beds","headboards.html"] → depth=3
+  const parts = window.location.pathname
+    .split('/')       // ["","products","beds","headboards.html"]
+    .filter(Boolean); // ["products","beds","headboards.html"]
+  // jokaista polkiosaa (myös itse tiedostoa) kohti yksi "../"
+  return parts.map(_ => '../').join('');
+}
 
-
+/**
+ * Lataa header.html ja footer.html oikein riippumatta siitä, oletko
+ * juurihakemistossa vai syvemmällä products-kansiorakenteessa.
+ */
 function loadHeaderFooter() {
+  const prefix = computePrefix();
+
   // ===== HEADER =====
-  fetch("header.html")
+  fetch(prefix + "header.html")
     .then(r => {
       if (!r.ok) throw new Error("Headeriä ei voitu ladata: " + r.status);
       return r.text();
@@ -181,10 +198,10 @@ function loadHeaderFooter() {
       initHeaderToiminnot();
       initDynamicHash();
     })
-    .catch(console.error);
+    .catch(err => console.error(err));
 
   // ===== FOOTER =====
-  fetch("footer.html")
+  fetch(prefix + "footer.html")
     .then(r => {
       if (!r.ok) throw new Error("Footeriä ei voitu ladata: " + r.status);
       return r.text();
@@ -193,7 +210,7 @@ function loadHeaderFooter() {
       document.body.insertAdjacentHTML("beforeend", html);
       initFooterToiminnot();
     })
-    .catch(console.error);
+    .catch(err => console.error(err));
 }
 
 
@@ -542,6 +559,67 @@ function initFooterToiminnot() {
   });
 }
 
+/**
+ * Hakee automaattisesti nykyisestä kansion URL-polusta
+ * items.json-tiedoston ja generoi linkit.
+ */
+function loadItems() {
+  // 1) Määritellään kansiopolku, jossa ollaan
+  let path = window.location.pathname;
+  // Jos URL on esim. '/products/bedroom-furniture/index.html', leikataan pois tiedostonimi
+  if (path.endsWith('.html')) {
+    path = path.substring(0, path.lastIndexOf('/') + 1);
+  }
+  // Jos URL on '/products/bedroom-furniture' (ei trailing slash), lisätään slash
+  else if (!path.endsWith('/')) {
+    path += '/';
+  }
+  // Nyt path on aina lopussa '/'
+  const jsonUrl = path + 'items.json';
+
+  // 2) Haetaan items.json
+  fetch(jsonUrl)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Ei löytynyt items.json: ' + response.status);
+      }
+      return response.json();
+    })
+    .then(items => {
+      const container = document.getElementById('items-container');
+      if (!container) {
+        console.error('#items-container ei löydy.');
+        return;
+      }
+      container.innerHTML = '';
+
+      // 3) Rakennetaan napit subdirille ja tuotteille
+      items.forEach(item => {
+        const card = document.createElement('div');
+        card.classList.add('item-card', item.type === 'dir' ? 'item-dir' : 'item-file');
+
+        const link = document.createElement('a');
+        // item.href on jo muotoa 'subdir/index.html' tai '197642.html'
+        link.href = item.href;
+        link.textContent = item.name;
+
+        card.appendChild(link);
+        container.appendChild(card);
+      });
+    })
+    .catch(err => {
+      console.error('loadItems: virhe ladattaessa', jsonUrl, err);
+    });
+}
+
+
+
+document.addEventListener('DOMContentLoaded', function() {
+  var listContainer = document.getElementById('items-container');
+  if (listContainer && window.initialItemsJson) {
+    loadItems(window.initialItemsJson);
+  }
+});
 
 
 // ===== 7) Dynaaminen URL-hashin päivitys rullauksen mukaan =====

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "bow",
+    "href": "bow/",
+    "type": "dir"
+  },
+  {
+    "name": "merida",
+    "href": "merida/",
+    "type": "dir"
+  }
+]

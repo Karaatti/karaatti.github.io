@@ -1,0 +1,42 @@
+[
+  {
+    "name": "bedroom-furniture",
+    "href": "bedroom-furniture/",
+    "type": "dir"
+  },
+  {
+    "name": "beds",
+    "href": "beds/",
+    "type": "dir"
+  },
+  {
+    "name": "beds-mattresses",
+    "href": "beds-mattresses/",
+    "type": "dir"
+  },
+  {
+    "name": "cabinets-storage",
+    "href": "cabinets-storage/",
+    "type": "dir"
+  },
+  {
+    "name": "seating",
+    "href": "seating/",
+    "type": "dir"
+  },
+  {
+    "name": "sofas",
+    "href": "sofas/",
+    "type": "dir"
+  },
+  {
+    "name": "tables",
+    "href": "tables/",
+    "type": "dir"
+  },
+  {
+    "name": "textiles",
+    "href": "textiles/",
+    "type": "dir"
+  }
+]

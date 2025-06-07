@@ -1,0 +1,22 @@
+[
+  {
+    "name": "3-seater",
+    "href": "3-seater/",
+    "type": "dir"
+  },
+  {
+    "name": "4-seater",
+    "href": "4-seater/",
+    "type": "dir"
+  },
+  {
+    "name": "chaise",
+    "href": "chaise/",
+    "type": "dir"
+  },
+  {
+    "name": "corner",
+    "href": "corner/",
+    "type": "dir"
+  }
+]

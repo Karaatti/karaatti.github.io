@@ -1,0 +1,17 @@
+[
+  {
+    "name": "beds",
+    "href": "../beds/",
+    "type": "dir"
+  },
+  {
+    "name": "mattresses",
+    "href": "mattresses/",
+    "type": "dir"
+  },
+  {
+    "name": "toppers",
+    "href": "toppers/",
+    "type": "dir"
+  }
+]

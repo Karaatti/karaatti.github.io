@@ -807,7 +807,7 @@ main img {
 }
 
 #collection {
-  min-height: 100svh;
+  min-height: 104svh;
   align-content: center;
   box-shadow: var(--box-shadow-default);
   z-index: 5;
@@ -1196,3 +1196,39 @@ footer {
 #contact h2 {
   color: var(--color-dark-charcoal);
 }
+/* Container styling for category items */
+#category-list {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#items-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 16px;
+}
+
+#items-container div {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-align: center;
+}
+
+#items-container a {
+  text-decoration: none;
+  font-weight: 500;
+  color: #333;
+  display: block;
+  margin: 4px 0;
+}
+
+
+.product-identifier {
+  font-family: monospace;
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 8px;
+}
+
