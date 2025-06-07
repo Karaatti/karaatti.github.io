@@ -1150,3 +1150,13 @@ footer {
 #collection h2 {
   margin-top: var(--spacing-base);
 }
+
+#clients {
+  background-color: var(--color-dark-charcoal);
+  box-shadow: var(--box-shadow-default);
+}
+
+#clients h2, #clients p {
+    color: white; 
+  
+}
