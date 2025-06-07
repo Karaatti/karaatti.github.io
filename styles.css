@@ -406,7 +406,7 @@ input[type="submit"]:hover {
   box-shadow: var(--box-shadow-default);
   z-index: 1000;
   text-align: center;
-  max-height: calc(100vh - var(--header-height) - 2rem);
+  max-height: calc(100svh - var(--header-height) - 2rem);
   overflow-y: auto;
 }
 
@@ -452,6 +452,8 @@ input[type="submit"]:hover {
 
 #promo {
     background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("images/MOON_BASIC_1.webp") no-repeat center/cover fixed;
+    height: 50vh;
+    align-content: center;
 }
 
 .promo-banner {
@@ -460,7 +462,8 @@ input[type="submit"]:hover {
   padding: var(--input-padding-vertical) var(--input-padding-vertical) 0;
   margin-bottom: 2em;
   box-shadow: var(--box-shadow-default);
-  max-width: 98%;
+  max-width: var(--content-max-width);
+  width: 98%;
 }
 
 .promo-banner__title {
@@ -560,7 +563,7 @@ input[type="submit"]:hover {
     overflow-y: auto;
     z-index: 1001;
     border-radius: 0;
-    max-height: calc(100vh - var(--header-height) - 0.5rem);
+    max-height: calc(100svh - var(--header-height) - 0.5rem);
   }
 
   .dropdown-menu li {
@@ -636,6 +639,7 @@ input[type="submit"]:hover {
   align-items: center;
   text-align: center;
   padding: 2rem;
+  margin-top: var(--header-height);
 }
 
 #hero h1 {
@@ -736,7 +740,7 @@ main img {
 }
 
 #collection {
-  min-height: 104vh;
+  min-height: 104svh;
   align-content: center;
 }
 
@@ -767,7 +771,7 @@ main img {
 }
 
 #solutions {
-  min-height: 104vh;
+  min-height: 104svh;
   align-content: center;
   background-color: var(--color-olive-green);
 }
