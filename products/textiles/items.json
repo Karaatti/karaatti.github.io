@@ -1,17 +1,12 @@
 [
   {
     "name": "home-textiles",
-    "href": "home-textiles/",
+    "href": "/products/textiles/home-textiles/",
     "type": "dir"
   },
   {
     "name": "other-bedroom-textiles",
-    "href": "other-bedroom-textiles/",
-    "type": "dir"
-  },
-  {
-    "name": "pillows-duvets",
-    "href": "pillows-duvets/",
+    "href": "/products/textiles/other-bedroom-textiles/",
     "type": "dir"
   }
 ]

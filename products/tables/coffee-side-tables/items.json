@@ -1,27 +1,27 @@
 [
   {
     "name": "island",
-    "href": "island/",
+    "href": "/products/tables/coffee-side-tables/island/",
     "type": "dir"
   },
   {
     "name": "islet",
-    "href": "islet/",
+    "href": "/products/tables/coffee-side-tables/islet/",
     "type": "dir"
   },
   {
     "name": "oak",
-    "href": "oak/",
+    "href": "/products/tables/coffee-side-tables/oak/",
     "type": "dir"
   },
   {
     "name": "reef",
-    "href": "reef/",
+    "href": "/products/tables/coffee-side-tables/reef/",
     "type": "dir"
   },
   {
     "name": "swallow",
-    "href": "swallow/",
+    "href": "/products/tables/coffee-side-tables/swallow/",
     "type": "dir"
   }
 ]

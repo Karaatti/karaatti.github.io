@@ -1,17 +1,17 @@
 [
   {
     "name": "bronze",
-    "href": "bronze/",
+    "href": "/products/beds-mattresses/toppers/foam/moon/bronze/",
     "type": "dir"
   },
   {
     "name": "gold",
-    "href": "gold/",
+    "href": "/products/beds-mattresses/toppers/foam/moon/gold/",
     "type": "dir"
   },
   {
     "name": "silver",
-    "href": "silver/",
+    "href": "/products/beds-mattresses/toppers/foam/moon/silver/",
     "type": "dir"
   }
 ]

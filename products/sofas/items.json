@@ -1,22 +1,22 @@
 [
   {
     "name": "3-seater",
-    "href": "3-seater/",
+    "href": "/products/sofas/3-seater/",
     "type": "dir"
   },
   {
     "name": "4-seater",
-    "href": "4-seater/",
+    "href": "/products/sofas/4-seater/",
     "type": "dir"
   },
   {
     "name": "chaise",
-    "href": "chaise/",
+    "href": "/products/sofas/chaise/",
     "type": "dir"
   },
   {
     "name": "corner",
-    "href": "corner/",
+    "href": "/products/sofas/corner/",
     "type": "dir"
   }
 ]
