@@ -448,9 +448,7 @@ input[type="submit"]:hover {
 }
 
 #promo {
-    background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url("images/MOON_BASIC_1.webp") no-repeat center/cover fixed;
-    height: 50vh;
-    align-content: center;
+  background-color: var(--color-border);
 }
 
 .promo-banner {
@@ -757,7 +755,8 @@ section > * {
 }
 
 #promo p {
-  text-shadow: 0 0 2em rgba(255, 255, 255, 0.7);
+  /*! text-shadow: 0 0 2em rgba(255, 255, 255, 0.7); */
+  color: var(--color-light-beige);
 }
 
 /* MAIN CONTENT WRAPPER */
