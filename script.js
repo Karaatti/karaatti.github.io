@@ -262,17 +262,7 @@ function updateActiveNavLink() {
   });
 }
 
-let _lockedScrollPos = 0;
 
-/**
- * Lukitsee taustasivun rullauksen siten, että nykyinen kohtaus säilyy.
- * Lisätään bodylle top: -scrollPos ja .no-scroll.
- */
-function lockScrollPreservePosition() {
-  _lockedScrollPos = window.pageYOffset || document.documentElement.scrollTop;
-  document.body.style.top = `-${_lockedScrollPos}px`;
-  document.body.classList.add("no-scroll");
-}
 
 function initCollectionLoader(buttonSelector, targetSelector) {
   const buttons = document.querySelectorAll(buttonSelector);
@@ -292,11 +282,19 @@ function initCollectionLoader(buttonSelector, targetSelector) {
     e.preventDefault();
     const url = btn.href;
 
-    /* 1) Sama painike ⇒ toggle */
-    if (currentURL === url) {
-      const open = target.getBoundingClientRect().height > 0;
-      toggleHeight(open ? 0 : target.scrollHeight);
-      currentURL = open ? null : url;
+    if (currentURL === url) {                     // sama painike ⇒ toggle
+      const isOpen = target.getBoundingClientRect().height > 0;
+
+      if (isOpen) {                              // suljetaan
+        const startH = target.getBoundingClientRect().height;
+        target.style.height = `${startH}px`;     // lukitse nykyinen px-korkeus
+        target.getBoundingClientRect();          // force reflow
+        toggleHeight(0);                         // animoi 0-px:iin
+        currentURL = null;
+      } else {                                   // avataan uudelleen
+        toggleHeight(target.scrollHeight);       // animoi “auki”
+        currentURL = url;
+      }
       return;
     }
 
@@ -350,6 +348,37 @@ function unlockScrollRestorePosition() {
   document.body.classList.remove("no-scroll");
   document.body.style.top = "";
   window.scrollTo(0, _lockedScrollPos);
+}
+
+let _lockedScrollPos = 0;
+let _scrollLockDepth = 0;        // montako komponenttia on lukinnut scrollin
+
+function lockScrollPreservePosition() {
+  /* tallenna sijainti vain jos tämä on ensimmäinen lukitus */
+  if (_scrollLockDepth === 0) {
+    _lockedScrollPos = window.pageYOffset || document.documentElement.scrollTop;
+    document.body.style.top = `-${_lockedScrollPos}px`;
+    document.body.classList.add("no-scroll");
+  }
+  _scrollLockDepth++;            // syvennetään “pinottuna” lukituksena
+}
+
+/* Korvaa koko vanha funktio tällä */
+function unlockScrollRestorePosition() {
+  if (_scrollLockDepth === 0) return;      // turva
+  _scrollLockDepth--;
+
+  if (_scrollLockDepth === 0) {
+    const restorePos = _lockedScrollPos;   // talteen ennen asettelua
+    document.body.classList.remove("no-scroll");
+    document.body.style.top = "";
+
+    /* Odota yksi frame, että tyylit ehtivät päivittyä,
+       sitten palauta scroll-sijainti. */
+    requestAnimationFrame(() => {
+      window.scrollTo(0, restorePos);
+    });
+  }
 }
 
 function initHeaderToiminnot() {
