@@ -472,7 +472,7 @@ input[type="submit"]:hover {
   padding: var(--input-padding-vertical) var(--input-padding-vertical) 0;
   margin-bottom: 2em;
   box-shadow: var(--box-shadow-default);
-  max-width: var(--content-max-width);
+
   width: 95%;
 }
 
@@ -700,7 +700,7 @@ section::before {
   top: 0;
   left: 50%;
   transform: translateX(-50%);
-  width: var(--content-max-width);
+
   height: 100%;
   box-sizing: border-box;
   pointer-events: none;
@@ -982,7 +982,7 @@ footer {
    2) FOOTER-INNER
    --------------------------------------------- */
 .footer-inner {
-  max-width: var(--content-max-width);
+
   margin: 0 auto;
   padding: 0 var(--section-padding-horizontal);
 }
@@ -1128,11 +1128,25 @@ footer {
   }
 }
 
-#collection-content {}
-
 /* Paneelin korkeus siirtyy sulavasti kumpaankin suuntaan */
+#collection-content h1,
+#collection-content p,
+#collection-content ul li {
+  margin-top: var(--spacing-base);
+  color: var(--color-light-beige);
+}
+
 #collection-content {
+  background-color: var(--color-olive-green-dark);
+  max-width: 95%;
+  /*! border-radius: var(--border-radius); */
   overflow: hidden;
   transition: height .35s ease;
+  margin-top: var(--spacing-base);
+  box-shadow: var(--box-shadow-default);
+  max-width: var(--content-max-width);
+}
+
+#collection h2 {
   margin-top: var(--spacing-base);
 }

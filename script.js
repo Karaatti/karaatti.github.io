@@ -15,7 +15,6 @@ function disableHeaderHideUntilScrollEnd() {
 
   function onScroll() {
     clearTimeout(scrollEndTimeout);
-    // Odotetaan 100 ms siitä, kun viimeinen scroll-event tuli
     scrollEndTimeout = setTimeout(() => {
       disableHeaderAutoHide = false;
       window.removeEventListener("scroll", onScroll);
@@ -25,139 +24,222 @@ function disableHeaderHideUntilScrollEnd() {
   window.addEventListener("scroll", onScroll);
 }
 
-function closeAllMenus() {
-  const header = document.querySelector(".header");
+// =============================
+// Uudet: scroll‐lukon hallinta
+// =============================
+let _scrollLocked   = false;
+let _savedScrollPos = 0;
+
+/** Lukitse scroll ja tallenna nykyinen sijainti */
+function applyScrollLock(shouldLock) {
+  if (shouldLock && !_scrollLocked) {
+    _savedScrollPos = window.pageYOffset || document.documentElement.scrollTop;
+    document.body.style.top = `-${_savedScrollPos}px`;
+    document.body.classList.add('no-scroll');
+    _scrollLocked = true;
+  } else if (!shouldLock && _scrollLocked) {
+    document.body.classList.remove('no-scroll');
+    document.body.style.top = '';
+    window.scrollTo(0, _savedScrollPos);
+    _scrollLocked = false;
+  }
+}
+
+/** Synkkaa scroll‐lukko hamburgerin .open‐luokan mukaan */
+function syncScrollLockWithHamburger() {
+  const hb = document.querySelector('.hamburger');
+  if (!hb) return;
+  applyScrollLock(hb.classList.contains('open'));
+}
+
+// =============================
+// Nav + header‐toiminnot
+// =============================
+function initHeaderToiminnot() {
+  const header    = document.querySelector(".header");
   if (!header) return;
 
+  // — header‐piilotus scrollissa —
+  let viimeisinScrollY = window.scrollY;
+  window.addEventListener("scroll", () => {
+    if (disableHeaderAutoHide) {
+      header.classList.remove("header-hidden");
+      viimeisinScrollY = window.scrollY;
+      return;
+    }
+    const now = window.scrollY;
+    if (now > viimeisinScrollY && now > 1)   header.classList.add("header-hidden");
+    if (now < viimeisinScrollY)              header.classList.remove("header-hidden");
+    viimeisinScrollY = now;
+  });
+
   const hamburger = header.querySelector(".hamburger");
-  const navLinks = header.querySelector(".nav-links");
+  const navLinks  = header.querySelector(".nav-links");
   const dropdowns = header.querySelectorAll(".dropdown");
 
-  // Sulje mobiili-nav (hamburger) jos auki
-  if (navLinks && navLinks.classList.contains("active")) {
-    navLinks.classList.remove("active");
-    if (hamburger) hamburger.classList.remove("open");
-    unlockScrollRestorePosition();
-    setTimeout(() => {
-      header.classList.remove("header-hidden");
-    }, 0);
+  // — hamburger‐toggle —
+  if (hamburger && navLinks) {
+    hamburger.addEventListener("click", e => {
+      e.preventDefault();
+      e.stopPropagation();
+      hamburger.classList.toggle("open");
+      navLinks.classList.toggle("active");
+      syncScrollLockWithHamburger();
+    });
   }
 
-  // Sulje kaikki avoimet dropdown-valikot
-  dropdowns.forEach((dropdown) => {
-    if (dropdown.classList.contains("open")) {
-      dropdown.classList.remove("open");
-      if (!(navLinks && navLinks.classList.contains("active"))) {
-        unlockScrollRestorePosition();
-        setTimeout(() => {
-          header.classList.remove("header-hidden");
-        }, 0);
+  // — dropdown‐toggle (ei vaikuta scrolliin) —
+  dropdowns.forEach(dropdown => {
+    const btn = dropdown.querySelector(".dropdown-toggle");
+    if (!btn) return;
+    btn.addEventListener("click", e => {
+      e.preventDefault();
+      e.stopPropagation();
+      dropdown.classList.toggle("open");
+    });
+  });
+
+  // — klikkaus sivun muualle: sulje dropdownit ja nav, synkkaa lukko —
+  document.addEventListener("click", e => {
+    // dropdownit
+    dropdowns.forEach(dd => {
+      if (dd.classList.contains("open") && !dd.contains(e.target)) {
+        dd.classList.remove("open");
       }
+    });
+
+    // nav
+    if (
+      navLinks.classList.contains("active") &&
+      !navLinks.contains(e.target) &&
+      !hamburger.contains(e.target)
+    ) {
+      navLinks.classList.remove("active");
+      hamburger.classList.remove("open");
+      syncScrollLockWithHamburger();
     }
   });
+
+  // — nav/linkkien klikkaus: sulje kaikki, synkkaa lukko —
+  header.querySelectorAll(".nav-links a, .dropdown a").forEach(link => {
+    link.addEventListener("click", () => {
+      navLinks.classList.remove("active");
+      hamburger.classList.remove("open");
+      dropdowns.forEach(dd => dd.classList.remove("open"));
+      syncScrollLockWithHamburger();
+      header.classList.remove("header-hidden");
+    });
+  });
+
+  // — logo‐klik: scrollaa ylös etusivulla —
+  const logo = header.querySelector(".logo");
+  if (logo) {
+    logo.addEventListener("click", e => {
+      const path = window.location.pathname;
+      if (path === "/" || path.endsWith("index.html")) {
+        e.preventDefault();
+        disableHeaderHideUntilScrollEnd();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+        header.classList.remove("header-hidden");
+      }
+    });
+  }
 }
+
+
+function closeAllMenus() {
+  const header    = document.querySelector('.header');
+  if (!header) return;
+
+  const hamburger = header.querySelector('.hamburger');
+  const navLinks  = header.querySelector('.nav-links');
+  const dropdowns = header.querySelectorAll('.dropdown');
+
+  /* sulje kaikki valikot */
+  navLinks.classList.remove('active');
+  hamburger?.classList.remove('open');
+  dropdowns.forEach(dd => dd.classList.remove('open'));
+
+  /* synkkaa scroll-lukko hamburgerin tilaan */
+  syncScrollLockWithHamburger();
+
+  /* header takaisin näkyviin pienen viiveen jälkeen */
+  setTimeout(() => header.classList.remove('header-hidden'), 0);
+}
+
+
 
 function loadHeaderFooter() {
   // ===== HEADER =====
   fetch("header.html")
-    .then((response) => {
-      if (!response.ok) {
-        throw new Error("Headeriä ei voitu ladata: " + response.status);
-      }
-      return response.text();
+    .then(r => {
+      if (!r.ok) throw new Error("Headeriä ei voitu ladata: " + r.status);
+      return r.text();
     })
-    .then((html) => {
+    .then(html => {
       document.body.insertAdjacentHTML("afterbegin", html);
       initHeaderToiminnot();
       initDynamicHash();
     })
-    .catch((error) => {
-      console.error(error);
-    });
+    .catch(console.error);
 
   // ===== FOOTER =====
   fetch("footer.html")
-    .then((response) => {
-      if (!response.ok) {
-        throw new Error("Footeriä ei voitu ladata: " + response.status);
-      }
-      return response.text();
+    .then(r => {
+      if (!r.ok) throw new Error("Footeriä ei voitu ladata: " + r.status);
+      return r.text();
     })
-    .then((html) => {
+    .then(html => {
       document.body.insertAdjacentHTML("beforeend", html);
       initFooterToiminnot();
     })
-    .catch((error) => {
-      console.error(error);
-    });
-
-
+    .catch(console.error);
 }
 
+
 function initPjaxNavigation() {
-  document.body.addEventListener("click", function (e) {
+  document.body.addEventListener("click", e => {
     const link = e.target.closest("a");
     if (!link) return;
-
     const href = link.getAttribute("href");
 
-    // 1) Hash-linkki (esim. "#about")
+    // hash‐linkit
     if (href && href.startsWith("#")) {
-      if (href === "#hero") {
-        // Jos hash on '#hero', jätetään huomiotta
-        e.preventDefault();
-        return;
-      }
-
+      if (href === "#hero") { e.preventDefault(); return; }
       e.preventDefault();
-      const targetId = href.slice(1);
-      const section = document.getElementById(targetId);
-
-      // Ensin suljetaan mahdollisesti auki olevat valikot
       closeAllMenus();
-
+      const section = document.getElementById(href.slice(1));
       if (section) {
-        // Jos osio löytyy nykyiseltä sivulta, rullataan sinne automaattisesti
         const header = document.querySelector(".header");
-        const headerHeight = header ? header.offsetHeight : 0;
-        const y = section.getBoundingClientRect().top + window.scrollY - headerHeight;
-
+        const y = section.getBoundingClientRect().top + window.scrollY
+                - (header ? header.offsetHeight : 0);
         disableHeaderHideUntilScrollEnd();
         window.scrollTo({ top: y, behavior: "smooth" });
-        if (header) {
-          header.classList.remove("header-hidden");
-        }
+        if (header) header.classList.remove("header-hidden");
         history.replaceState(null, "", href);
       } else {
-        // Jos osio ei ole tässä sivussa, ladataan etusivu ja scrollataan sinne
         loadPageViaAjax("index.html", { scrollToHash: href });
       }
       return;
     }
 
-    // 2) .html-linkki (esim. "about.html" tai "adjustable-beds.html")
+    // .html‐linkit
     if (href && href.endsWith(".html") && link.origin === location.origin) {
       e.preventDefault();
-
       closeAllMenus();
-
-      const currentPage = location.pathname.split("/").pop() || "index.html";
-      if (href === currentPage) {
-        // Sama sivu: scrollataan ylös ilman vaihtoa
+      const current = location.pathname.split("/").pop() || "index.html";
+      if (href === current) {
         const header = document.querySelector(".header");
         disableHeaderHideUntilScrollEnd();
         window.scrollTo({ top: 0, behavior: "smooth" });
-        if (header) {
-          header.classList.remove("header-hidden");
-        }
+        if (header) header.classList.remove("header-hidden");
       } else {
         loadPageViaAjax(href);
       }
     }
   });
 
-  // Käsitellään back/forward -painikkeet
-  window.addEventListener("popstate", function () {
+  window.addEventListener("popstate", () => {
     const path = location.pathname.split("/").pop() || "index.html";
     const hash = window.location.hash;
     loadPageViaAjax(path, { replaceState: true, scrollToHash: hash });
@@ -166,144 +248,112 @@ function initPjaxNavigation() {
 
 function loadPageViaAjax(url, options = {}) {
   fetch(url)
-    .then((response) => {
-      if (!response.ok) {
-        throw new Error("Sivua ei voitu ladata: " + response.status);
-      }
-      return response.text();
+    .then(r => {
+      if (!r.ok) throw new Error("Sivua ei voitu ladata: " + r.status);
+      return r.text();
     })
-    .then((htmlText) => {
-      const parser = new DOMParser();
-      const doc = parser.parseFromString(htmlText, "text/html");
+    .then(htmlText => {
+      const doc = new DOMParser().parseFromString(htmlText, "text/html");
+      let newContent = doc.querySelector("#content") || doc.querySelector("main");
+      if (!newContent) return console.error("Uutta sisältöä ei löytynyt: ", url);
 
-      // Etsitään uusi sisältö: ensin #content, jos ei löydy niin <main>
-      let newContent = doc.querySelector("#content");
-      if (!newContent) {
-        newContent = doc.querySelector("main");
-      }
-      if (!newContent) {
-        console.error("Uutta sisältöä ei löytynyt sivusta: ", url);
-        return;
-      }
+      const current = document.querySelector("#content") || document.querySelector("main");
+      if (!current) return;
+      current.replaceWith(newContent);
 
-      // Korvataan nykyinen sisältö uudella
-      const currentWrapper = document.querySelector("#content") || document.querySelector("main");
-      if (!currentWrapper) {
-        return;
-      }
-      currentWrapper.replaceWith(newContent);
-
-      // Päivitetään <title> vastaamaan uutta sivua
       const newTitle = doc.querySelector("title");
-      if (newTitle) {
-        document.title = newTitle.textContent;
-      }
+      if (newTitle) document.title = newTitle.textContent;
 
-      const finalUrl = options.scrollToHash !== undefined
-        ? url + options.scrollToHash
-        : url;
+      const finalUrl = options.scrollToHash != null ? url + options.scrollToHash : url;
+      if (options.replaceState) history.replaceState({}, "", finalUrl);
+      else history.pushState({}, "", finalUrl);
 
-      if (!options.replaceState) {
-        history.pushState({}, "", finalUrl);
-      } else {
-        history.replaceState({}, "", finalUrl);
-      }
-
-      // Jos ei ole scrollToHashia, rullataan ylös (uusi sivu)
       if (!options.scrollToHash) {
         const header = document.querySelector(".header");
         disableHeaderHideUntilScrollEnd();
         window.scrollTo({ top: 0, behavior: "instant" });
-        if (header) {
-          header.classList.remove("header-hidden");
-        }
+        if (header) header.classList.remove("header-hidden");
       }
 
       updateActiveNavLink();
       initDynamicHash();
 
-      // Jos halutaan scrollata tiettyyn hash-osioon sisällön korvauksen jälkeen
-      if (options.scrollToHash) {
-        if (options.scrollToHash === "#hero") {
-          return;
-        }
-
-        const targetId = options.scrollToHash.slice(1);
-        const section = document.getElementById(targetId);
-        if (section) {
+      if (options.scrollToHash && options.scrollToHash !== "#hero") {
+        const target = document.getElementById(options.scrollToHash.slice(1));
+        if (target) {
           const header = document.querySelector(".header");
-          const headerHeight = header ? header.offsetHeight : 0;
-          const y = section.getBoundingClientRect().top + window.scrollY - headerHeight;
-
+          const y = target.getBoundingClientRect().top + window.scrollY
+                  - (header ? header.offsetHeight : 0);
           disableHeaderHideUntilScrollEnd();
-          // Viive, jotta uusi sisältö on varmasti renderöity
           setTimeout(() => {
             window.scrollTo({ top: y, behavior: "smooth" });
-            if (header) {
-              header.classList.remove("header-hidden");
-            }
+            if (header) header.classList.remove("header-hidden");
           }, 50);
         }
       }
     })
-    .catch((error) => {
-      console.error(error);
-    });
+    .catch(console.error);
 }
 
 function updateActiveNavLink() {
   const path = location.pathname.split("/").pop() || "index.html";
-  document.querySelectorAll(".nav-links a").forEach((a) => {
-    if (a.getAttribute("href") === path) {
-      a.classList.add("active");
-    } else {
-      a.classList.remove("active");
-    }
+  document.querySelectorAll(".nav-links a").forEach(a => {
+    a.classList.toggle("active", a.getAttribute("href") === path);
   });
 }
-
-
 
 function initCollectionLoader(buttonSelector, targetSelector) {
   const buttons = document.querySelectorAll(buttonSelector);
   const target = document.querySelector(targetSelector);
   if (!target) return;
 
-  let currentURL = null;
+  let currentURL = null;        // mikä collection on auki
+  let activeBtn = null;        // painike, jolla 'active' on päällä
 
-  // Ajetaan aina kun height-siirtymä päättyy
+  /* Palautetaan korkeus-attribuutti automaattiseksi, kun
+     siirtymä on päättynyt. */
   target.addEventListener('transitionend', e => {
     if (e.propertyName === 'height' && currentURL) {
-      target.style.height = 'auto';         // paluu automaattiin
+      target.style.height = 'auto';
     }
   });
 
+  /* --- PÄÄKÄSITTELIJÄ joka painaa collection-painiketta --- */
   buttons.forEach(btn => btn.addEventListener('click', async e => {
     e.preventDefault();
     const url = btn.href;
 
-    if (currentURL === url) {                     // sama painike ⇒ toggle
+    /* === 1) Klikataan jo auki olevaa samaa painiketta (TOGGLE) === */
+    if (currentURL === url) {
       const isOpen = target.getBoundingClientRect().height > 0;
 
-      if (isOpen) {                              // suljetaan
+      if (isOpen) {                           /* → SULJETAAN */
         const startH = target.getBoundingClientRect().height;
-        target.style.height = `${startH}px`;     // lukitse nykyinen px-korkeus
-        target.getBoundingClientRect();          // force reflow
-        toggleHeight(0);                         // animoi 0-px:iin
+        target.style.height = `${startH}px`;
+        target.getBoundingClientRect();       // force reflow
+        toggleHeight(0);                      // animaatio 0-px
         currentURL = null;
-      } else {                                   // avataan uudelleen
-        toggleHeight(target.scrollHeight);       // animoi “auki”
+
+        /* Poista aktiivisuus */
+        btn.classList.remove('active');
+        activeBtn = null;
+      } else {                                /* → AVATAAN UUDELLEEN */
+        toggleHeight(target.scrollHeight);
         currentURL = url;
+
+        /* Aktivoi painike */
+        btn.classList.add('active');
+        activeBtn = btn;
       }
       return;
     }
 
-    /* 2) Eri painike ⇒ sulava resize */
+    /* === 2) Klikataan ERI painiketta === */
     const oldH = target.getBoundingClientRect().height;
-    target.style.height = `${oldH}px`;      // lukitaan lähtökorkeus
-    target.getBoundingClientRect();         // force reflow
+    target.style.height = `${oldH}px`;
+    target.getBoundingClientRect();           // force reflow
 
-    /* 2b) ladataan uusi sisältö */
+    /* 2b -- Ladataan uusi sisältö */
     let html = '';
     try {
       const res = await fetch(url);
@@ -316,39 +366,39 @@ function initCollectionLoader(buttonSelector, targetSelector) {
 
     if (html) {
       const doc = new DOMParser().parseFromString(html, 'text/html');
-      const mainEl = doc.querySelector('main');
-      target.innerHTML = mainEl
-        ? mainEl.innerHTML
+      const main = doc.querySelector('main');
+      target.innerHTML = main
+        ? main.innerHTML
         : '<p>Error: no &lt;main&gt; found</p>';
     }
 
-    /* 2c) mitataan *todellinen* uusi korkeus */
-    await new Promise(requestAnimationFrame);   // anna selaimelle 1 frame
+    /* 2c -- Animoidaan uuteen kokoon */
+    await new Promise(requestAnimationFrame);
     target.style.height = 'auto';
-    const newH = target.scrollHeight;           // oikea arvo pieniinkin suuntiin
-    target.style.height = `${oldH}px`;          // palauta lähtö
-    toggleHeight(newH);                         // ja animoi ➜ newH
+    const newH = target.scrollHeight;
+    target.style.height = `${oldH}px`;
+    toggleHeight(newH);
+
+    /* Päivitä tilamuuttujat ja aktivoi oikea painike */
     currentURL = url;
+    if (activeBtn) activeBtn.classList.remove('active');
+    btn.classList.add('active');
+    activeBtn = btn;
   }));
 
   /* Yhteinen animaattori */
   function toggleHeight(toPx) {
-    target.getBoundingClientRect();             // flush
+    target.getBoundingClientRect();           // flush
     requestAnimationFrame(() => {
       target.style.height = `${toPx}px`;
     });
   }
 }
 
-/**
- * Palauttaa scrollauksen: poistetaan .no-scroll ja top-tyyli,
- * ja rullataan takaisin lukittuun kohtaan.
- */
-function unlockScrollRestorePosition() {
-  document.body.classList.remove("no-scroll");
-  document.body.style.top = "";
-  window.scrollTo(0, _lockedScrollPos);
-}
+/* ==== (ei muutoksia) ==== */
+function toggleHeight(toPx) { /* ... alkuperäinen sisällä initissä ... */ }
+
+
 
 let _lockedScrollPos = 0;
 let _scrollLockDepth = 0;        // montako komponenttia on lukinnut scrollin
@@ -381,166 +431,112 @@ function unlockScrollRestorePosition() {
   }
 }
 
+/* ==========================================================
+   Korvaa VANHA initHeaderToiminnot kokonaan tällä versiolla
+   ========================================================== */
 function initHeaderToiminnot() {
-  const header = document.querySelector(".header");
+  const header = document.querySelector('.header');
   if (!header) return;
 
-  // ===== 1) Scroll-piilotus ja näyttö ylös scrollattaessa =====
+  /* 1 — Headerin automaattinen piilotus scrollissa */
   let viimeisinScrollY = window.scrollY;
-  window.addEventListener("scroll", function () {
-    // Jos estolippu päällä, varmistetaan, ettei header-piilotus aktivoidu
+  window.addEventListener('scroll', () => {
     if (disableHeaderAutoHide) {
-      header.classList.remove("header-hidden");
+      header.classList.remove('header-hidden');
       viimeisinScrollY = window.scrollY;
       return;
     }
-
-    const nykyinenScroll = window.scrollY;
-    if (nykyinenScroll > viimeisinScrollY && nykyinenScroll > 1) {
-      header.classList.add("header-hidden");
-    } else if (nykyinenScroll < viimeisinScrollY) {
-      header.classList.remove("header-hidden");
-    }
-    viimeisinScrollY = nykyinenScroll;
+    const nyt = window.scrollY;
+    if (nyt > viimeisinScrollY && nyt > 1) header.classList.add('header-hidden');
+    if (nyt < viimeisinScrollY)            header.classList.remove('header-hidden');
+    viimeisinScrollY = nyt;
   });
 
-  // ===== 2) Hamburger-ikonin toggle mobiilissa =====
-  const hamburger = document.querySelector(".hamburger");
-  const navLinks = document.querySelector(".nav-links");
+  /* 2 — DOM-viittaukset */
+  const hamburger = header.querySelector('.hamburger');
+  const navLinks  = header.querySelector('.nav-links');
+  const dropdowns = header.querySelectorAll('.dropdown');
+
+  /* 3 — Hamburger-painike */
   if (hamburger && navLinks) {
-    hamburger.addEventListener("click", function (e) {
+    hamburger.addEventListener('click', e => {
       e.preventDefault();
       e.stopPropagation();
-
-      this.classList.toggle("open");
-      navLinks.classList.toggle("active");
-
-      if (navLinks.classList.contains("active")) {
-        lockScrollPreservePosition();
-      } else {
-        unlockScrollRestorePosition();
-        setTimeout(() => {
-          header.classList.remove("header-hidden");
-        }, 0);
-      }
+      hamburger.classList.toggle('open');
+      navLinks.classList.toggle('active');
+      syncScrollLockWithHamburger();                 // ← lukon synkkaus
     });
   }
 
-  // ===== 3) Dropdown-valikon toggle (Categories) =====
-
-  const dropdowns = document.querySelectorAll(".dropdown");
-
-  dropdowns.forEach((dropdown) => {
-    const toggleBtn = dropdown.querySelector(".dropdown-toggle");
-    if (!toggleBtn) return;
-
-    toggleBtn.addEventListener("click", function (e) {
+  /* 4 — Dropdown-painikkeet (ei scroll-lukkoa) */
+  dropdowns.forEach(dd => {
+    const btn = dd.querySelector('.dropdown-toggle');
+    if (!btn) return;
+    btn.addEventListener('click', e => {
       e.preventDefault();
       e.stopPropagation();
-
-      const isOpenNow = dropdown.classList.toggle("open");
-
-      if (isOpenNow) {
-        /* aina yksi lukko lisää */
-        lockScrollPreservePosition();
-      } else {
-        /* vähennä lukko joka sulkemisella – riippumatta muista valikoista */
-        unlockScrollRestorePosition();
-
-        /* header näkyy heti kun *mikään* valikko ei ole auki */
-        if (!(navLinks && navLinks.classList.contains("active"))) {
-          setTimeout(() => header.classList.remove("header-hidden"), 0);
-        }
-      }
+      dd.classList.toggle('open');
     });
-
-
   });
 
-  // ===== 4) Suljetaan avoimet dropdownit ja hamburger-menu klikkauksen muualle =====
-  document.addEventListener("click", function (e) {
-    dropdowns.forEach((dropdown) => {
-      if (
-        dropdown.classList.contains("open") &&
-        !dropdown.contains(e.target)
-      ) {
-        dropdown.classList.remove("open");
-        if (!(navLinks && navLinks.classList.contains("active"))) {
-          unlockScrollRestorePosition();
-          setTimeout(() => {
-            header.classList.remove("header-hidden");
-          }, 0);
-        }
+  /* 5 — Klikkaus muualle: sulje dropdownit + navi */
+  document.addEventListener('click', e => {
+    /* dropdownit */
+    dropdowns.forEach(dd => {
+      if (dd.classList.contains('open') && !dd.contains(e.target)) {
+        dd.classList.remove('open');
       }
     });
 
-    if (hamburger && navLinks) {
-      const isMenuAuki = navLinks.classList.contains("active");
-      if (
-        isMenuAuki &&
-        !hamburger.contains(e.target) &&
-        !navLinks.contains(e.target)
-      ) {
-        navLinks.classList.remove("active");
-        hamburger.classList.remove("open");
-        unlockScrollRestorePosition();
-        setTimeout(() => {
-          header.classList.remove("header-hidden");
-        }, 0);
-      }
+    /* navi */
+    if (
+      navLinks.classList.contains('active') &&
+      !navLinks.contains(e.target) &&
+      !hamburger.contains(e.target)
+    ) {
+      navLinks.classList.remove('active');
+      hamburger.classList.remove('open');
+      syncScrollLockWithHamburger();                 // ← vapauttaa rullan
+      setTimeout(() => header.classList.remove('header-hidden'), 0);
     }
   });
 
-  // ===== 5) Suljetaan valikot, kun painetaan linkkiä navissa =====
-  const navAndDropdownLinks = header.querySelectorAll(
-    ".nav-links a, .dropdown a"
-  );
-  navAndDropdownLinks.forEach((link) => {
-    link.addEventListener("click", function () {
-      closeAllMenus();
-      header.classList.remove("header-hidden");
+  /* 6 — Linkin klikkaus navissa / dropdownissa */
+  header.querySelectorAll('.nav-links a, .dropdown a').forEach(link => {
+    link.addEventListener('click', () => {
+      navLinks.classList.remove('active');
+      hamburger.classList.remove('open');
+      dropdowns.forEach(dd => dd.classList.remove('open'));
+      syncScrollLockWithHamburger();
+      header.classList.remove('header-hidden');
     });
   });
 
-  // ===== 6) Logo-klikki: etusivulla scrollaa ylös, muilla PJAX-navigoi =====
-  const logoLink = document.querySelector(".logo");
-  if (logoLink) {
-    logoLink.addEventListener("click", function (e) {
-      const href = window.location.href.toLowerCase();
+  /* 7 — Logo: scrollaa ylös etusivulla */
+  const logo = header.querySelector('.logo');
+  if (logo) {
+    logo.addEventListener('click', e => {
       const path = window.location.pathname;
-      if (href.endsWith("index.html") || path === "/") {
+      if (path === '/' || path.endsWith('index.html')) {
         e.preventDefault();
         disableHeaderHideUntilScrollEnd();
-        window.scrollTo({ top: 0, behavior: "smooth" });
-        if (header) {
-          header.classList.remove("header-hidden");
-        }
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        header.classList.remove('header-hidden');
       }
-      // Muutoin PJAX hoitaa navigoinnin
     });
   }
 }
 
 function initFooterToiminnot() {
   const btn = document.getElementById('scroll-btn');
-
-  if (!btn) return; // tarkistus, että nappi varmasti löytyy
-
-  // Näytä/piilota nappi, kun sivulla rullataan
-  window.addEventListener('scroll', function () {
-    if (window.pageYOffset > 200) {
-      btn.style.display = 'block';
-    } else {
-      btn.style.display = 'none';
-    }
+  if (!btn) return;
+  window.addEventListener('scroll', () => {
+    btn.style.display = window.pageYOffset > 100 ? 'block' : 'none';
   });
-
-  // Nappia painettaessa toiminnallisuus
-  btn.addEventListener('click', function () {
-    if (document.activeElement && ['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement.tagName)) {
+  btn.addEventListener('click', () => {
+    if (document.activeElement && ['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)) {
       document.activeElement.blur();
     }
-
     disableHeaderHideUntilScrollEnd();
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
