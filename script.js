@@ -543,6 +543,7 @@ function initFooterToiminnot() {
 }
 
 
+
 // ===== 7) Dynaaminen URL-hashin päivitys rullauksen mukaan =====
 function initDynamicHash() {
   const header = document.querySelector(".header");
