@@ -312,7 +312,7 @@ function initHeaderToiminnot() {
     }
 
     const nykyinenScroll = window.scrollY;
-    if (nykyinenScroll > viimeisinScrollY && nykyinenScroll > 100) {
+    if (nykyinenScroll > viimeisinScrollY && nykyinenScroll > 1) {
       header.classList.add("header-hidden");
     } else if (nykyinenScroll < viimeisinScrollY) {
       header.classList.remove("header-hidden");
