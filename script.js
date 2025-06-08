@@ -1,6 +1,8 @@
 let menuNavInProgress = false;
 
-// ==================== INITIALIZATION ====================
+/**
+ * Initialiserer header, footer og navigation ved DOMContentLoaded.
+ */
 document.addEventListener("DOMContentLoaded", function () {
   console.log("[INIT] DOMContentLoaded");
   document.documentElement.classList.add('ajax-loading');
@@ -17,7 +19,9 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
-// ==================== HEADER AUTO-HIDE ====================
+/**
+ * Deaktiverer header auto-hide indtil scroll slutter.
+ */
 let disableHeaderAutoHide = false;
 function disableHeaderHideUntilScrollEnd() {
   disableHeaderAutoHide = true;
@@ -34,7 +38,9 @@ function disableHeaderHideUntilScrollEnd() {
   window.addEventListener("scroll", onScroll);
 }
 
-// ==================== SCROLL LOCK ====================
+/**
+ * Låser eller frigiver scroll baseret på parameter.
+ */
 let _scrollLocked = false;
 let _savedScrollPos = 0;
 function applyScrollLock(shouldLock) {
@@ -52,6 +58,10 @@ function applyScrollLock(shouldLock) {
     console.log("[SCROLLLOCK] Scroll unlocked, restored to", _savedScrollPos);
   }
 }
+
+/**
+ * Synkroniserer scroll lock med hamburger-menu.
+ */
 function syncScrollLockWithHamburger() {
   const hb = document.querySelector('.hamburger');
   if (!hb) return;
@@ -59,6 +69,10 @@ function syncScrollLockWithHamburger() {
   else unlockScrollRestorePosition();
   console.log("[SCROLLLOCK] Sync with hamburger:", hb.classList.contains('open'));
 }
+
+/**
+ * Synkroniserer scroll lock med nav-links.
+ */
 function syncScrollLockWithNav() {
   const navLinks = document.querySelector('.nav-links');
   if (!navLinks) return;
@@ -66,8 +80,13 @@ function syncScrollLockWithNav() {
   else unlockScrollRestorePosition();
   console.log("[SCROLLLOCK] Sync with nav:", navLinks.classList.contains('active'));
 }
+
 let _lockedScrollPos = 0;
 let _scrollLockDepth = 0;
+
+/**
+ * Dybdebaseret lås af scroll med bevarelse af position.
+ */
 function lockScrollPreservePosition() {
   if (_scrollLockDepth === 0) {
     _lockedScrollPos = window.pageYOffset || document.documentElement.scrollTop;
@@ -78,6 +97,10 @@ function lockScrollPreservePosition() {
   _scrollLockDepth++;
   console.log("[SCROLLLOCK] lockScrollPreservePosition, depth", _scrollLockDepth);
 }
+
+/**
+ * Dybdebaseret frigivelse af scroll og genopret position.
+ */
 function unlockScrollRestorePosition() {
   if (_scrollLockDepth === 0) return;
   _scrollLockDepth--;
@@ -92,167 +115,152 @@ function unlockScrollRestorePosition() {
   }
 }
 
-
-// ==================== DROPDOWN SUBMENU ====================
+/**
+ * Initialiserer dropdown-menuer og håndterer åbn/lyt.
+ */
 const dropdownOriginalHtml = new Map();
 const menuStack = new Map();
+/**
+ * Alustaa kaikki .dropdown-elementit ilman cloneNode-kikkailuja.
+ * – Säilyttää alkuperäisen HTML:n
+ * – Yhden stackin per dropdown
+ * – Yhden attachMenuHandlers-funktion joka sitoo sekä back-napin että alavalikko-linkit
+ */
+function initDropdowns() {
+  document.querySelectorAll('.dropdown').forEach(dd => {
+    const toggle = dd.querySelector('.dropdown-toggle');
+    const menu   = dd.querySelector('.dropdown-menu');
+    if (!toggle || !menu) return;
 
-// korvaa tämä:
-function initDropdownItemClicks(menu) {
-  // luo pino jos puuttuu
-  if (!menuStack.has(menu)) {
-    menuStack.set(menu, []);
-  }
+    const originalHtml = menu.innerHTML;
+    let stack = [];
 
-  // BACK-painikkeen käsittely
-  const backBtn = menu.querySelector('.dropdown-back');
-  if (backBtn) {
-    backBtn.addEventListener('click', e => {
+    // Aukeamisen yhteydessä nollataan pino ja palautetaan alkuperäinen
+    toggle.addEventListener('click', e => {
       e.preventDefault();
       e.stopPropagation();
-      const stack = menuStack.get(menu);
-      if (!stack.length) return;
-      // nouda edellinen tila
-      const prev = stack.pop();
-      menu.innerHTML = prev.html;
-      initDropdownItemClicks(menu);
+      const isOpening = !dd.classList.contains('open');
+      if (isOpening) {
+        stack = [];
+        menu.innerHTML = originalHtml;
+        attachMenuHandlers(menu);
+      }
+      dd.classList.toggle('open');
     });
-  }
 
-  // alavalikon linkit
-  menu.querySelectorAll('a[data-submenu]').forEach(link => {
-    link.addEventListener('click', e => {
-      e.preventDefault();
-      e.stopPropagation();
-      const url   = link.getAttribute('data-submenu');
-      const title = link.textContent.trim();
-      // tallenna nykyinen näkymä pinon päälle
-      menuStack.get(menu).push({
-        html:  menu.innerHTML,
-        title
+    // Sulje dropdown klikkauksen ulkopuolella
+    document.addEventListener('click', e => {
+      if (!dd.contains(e.target) && dd.classList.contains('open')) {
+        dd.classList.remove('open');
+      }
+    });
+
+    // Ensimmäinen kerta: liitetään eventit
+    attachMenuHandlers(menu);
+
+    function attachMenuHandlers(currentMenu) {
+      // Back-nappi
+      const backBtn = currentMenu.querySelector('.dropdown-back');
+      if (backBtn) {
+        backBtn.addEventListener('click', e => {
+          e.preventDefault();
+          e.stopPropagation();
+          if (!stack.length) return;
+          const { html } = stack.pop();
+          currentMenu.innerHTML = html;
+          attachMenuHandlers(currentMenu);
+        });
+      }
+      // Submenu-linkit
+      currentMenu.querySelectorAll('a[data-submenu]').forEach(link => {
+        link.addEventListener('click', async e => {
+          e.preventDefault();
+          e.stopPropagation();
+
+          // tallenna nykyinen näkymä pinoon
+          stack.push({ html: currentMenu.innerHTML });
+
+          // näytä lataus
+          currentMenu.innerHTML = '<li class="loading">Loading…</li>';
+          try {
+            const url = link.getAttribute('data-submenu') + 'items.json';
+            const res = await fetch(url);
+            if (!res.ok) throw new Error(res.statusText);
+            const items = await res.json();
+
+            // rakenna takaisin-napin otsikko käyttäen linkin tekstiä
+            const title = link.textContent.trim().toUpperCase();
+
+            const backHtml = `
+              <li class="back">
+                <button type="button" class="dropdown-back">
+                  ← Return from ${title}
+                </button>
+              </li>`;
+
+            // listaa kansiot ja tiedostot
+            const itemsHtml = items
+              .filter(i => i.type === 'dir' || i.href.endsWith('.html'))
+              .map(i => {
+                const attrs = i.type === 'dir' ? `data-submenu="${i.href}"` : '';
+                return `<li><a href="${i.href}" ${attrs}>${i.name}</a></li>`;
+              })
+              .join('');
+
+            currentMenu.innerHTML = backHtml + itemsHtml;
+            attachMenuHandlers(currentMenu);
+          } catch (err) {
+            console.error('[DROPDOWN JSON] error:', err);
+            currentMenu.innerHTML = '<li class="error">Error loading categories</li>';
+          }
+        });
       });
-      // lataa seuraava taso
-      loadDropdownSubmenu(menu, url);
-    });
-  });
-}
-
-async function loadDropdownSubmenu(menu, url) {
-  try {
-    const res = await fetch(url);
-    if (!res.ok) throw new Error(res.statusText);
-    const text = await res.text();
-    const doc  = new DOMParser().parseFromString(text, 'text/html');
-    const newSub = doc.querySelector('.submenu');
-    const itemsHtml = newSub
-      ? newSub.innerHTML
-      : '<li>Ei vaihtoehtoja</li>';
-
-    // ota pinon ylin title (jos pino ei tyhjä)
-    const stack       = menuStack.get(menu) || [];
-    const parentTitle = stack.length
-      ? stack[stack.length - 1].title
-      : '';
-
-    // rakennetaan back-nappi vain, jos title löytyy
-    const backHtml = parentTitle
-      ? `<li class="back">
-           <button type="button" class="dropdown-back">
-             ← Back to ${parentTitle}
-           </button>
-         </li>`
-      : '';
-
-    menu.innerHTML = backHtml + itemsHtml;
-    initDropdownItemClicks(menu);
-  } catch (err) {
-    console.error('[DROPDOWN] loadDropdownSubmenu error:', err);
-    menu.innerHTML = '<li>Virhe</li>';
-  }
-}
-
-// ==================== NAV + HEADER FUNCTIONS ====================
-function initHeaderToiminnot() {
-  const header = document.querySelector('.header');
-  if (!header) return;
-  let viimeisinScrollY = window.scrollY;
-  window.addEventListener('scroll', () => {
-    if (disableHeaderAutoHide) {
-      header.classList.remove('header-hidden');
-      viimeisinScrollY = window.scrollY;
-      return;
     }
-    const nyt = window.scrollY;
-    if (nyt > viimeisinScrollY && nyt > 1) header.classList.add('header-hidden');
-    if (nyt < viimeisinScrollY) header.classList.remove('header-hidden');
-    viimeisinScrollY = nyt;
   });
+}
 
-  const hamburger = header.querySelector('.hamburger');
-  const navLinks = header.querySelector('.nav-links');
-  if (hamburger && navLinks) {
-    hamburger.addEventListener('click', e => {
-      e.preventDefault(); e.stopPropagation();
-      hamburger.classList.toggle('open');
-      navLinks.classList.toggle('active');
-      syncScrollLockWithHamburger();
-      console.log("[HEADER] Hamburger toggled. open:", hamburger.classList.contains('open'));
-    });
-  }
-// pino-map scriptin alkuun (vain kerran)
-const menuStack = new Map();
 
-// korvaa attachDropdownHandlers:
-function attachDropdownHandlers(menu) {
-  if (!menuStack.has(menu)) {
-    menuStack.set(menu, []);
-  }
-
-  // BACK-painike
+/**
+ * Vedhæfter handlers til dropdown-menu-indgange og tilbage-knap.
+ */
+function attachDropdownHandlers(menu, dd) {
+  const freshMenu = menu.cloneNode(true);
+  menu.parentNode.replaceChild(freshMenu, menu);
+  menu = freshMenu;
+  const stack = menuStack.get(menu);
   const backBtn = menu.querySelector('.dropdown-back');
   if (backBtn) {
     backBtn.addEventListener('click', e => {
-      e.preventDefault();
-      e.stopPropagation();
-      const stack = menuStack.get(menu);
-      if (!stack.length) return;
-      const prev = stack.pop();
-      menu.innerHTML = prev.html;
-      attachDropdownHandlers(menu);
+      e.preventDefault(); e.stopPropagation();
+      if (stack.length === 0) return;
+      const prevHtml = stack.pop();
+      menu.innerHTML = prevHtml;
+      attachDropdownHandlers(menu, dd);
     });
   }
-
-  // alavalikon linkit
   menu.querySelectorAll('a[data-submenu]').forEach(link => {
     link.addEventListener('click', e => {
-      e.preventDefault();
-      e.stopPropagation();
-      const url   = link.getAttribute('data-submenu');
-      const title = link.textContent.trim();
-      menuStack.get(menu).push({
-        html:  menu.innerHTML,
-        title
-      });
-      loadDropdownJson(menu, url);
+      e.preventDefault(); e.stopPropagation();
+      stack.push(menu.innerHTML);
+      loadDropdownJson(menu, link.getAttribute('data-submenu'), dd);
     });
   });
 }
 
-// korvaa loadDropdownJson:
-async function loadDropdownJson(menu, basePath) {
+/**
+ * Henter JSON for dropdown og gengiver indhold med tilbage-knap.
+ */
+async function loadDropdownJson(menu, basePath, dd) {
   menu.innerHTML = '<li class="loading">Loading…</li>';
   try {
-    const res   = await fetch(basePath + 'items.json');
+    const res = await fetch(basePath + 'items.json');
     if (!res.ok) throw new Error(res.statusText);
     const items = await res.json();
-
-    // haetaan pino ja ylin title
-    const stack       = menuStack.get(menu) || [];
+    const stack = menuStack.get(menu);
     const parentTitle = stack.length
-      ? stack[stack.length - 1].title
+      ? stack[stack.length - 1]
+        .match(/← Back to (.+)/)?.[1] || ''
       : '';
-
-    // back-nappin HTML
     const backHtml = parentTitle
       ? `<li class="back">
            <button type="button" class="dropdown-back">
@@ -260,94 +268,90 @@ async function loadDropdownJson(menu, basePath) {
            </button>
          </li>`
       : '';
-
-    // renderöidään itemit
     const itemsHtml = items
-      .filter(item => item.type === 'dir' || item.href.endsWith('.html'))
-      .map(item => {
-        const attrs = item.type === 'dir'
-          ? `data-submenu="${item.href}"`
-          : '';
+      .filter(i => i.type === 'dir' || i.href.endsWith('.html'))
+      .map(i => {
+        const attrs = i.type === 'dir' ? `data-submenu="${i.href}"` : '';
         return `<li>
-                  <a href="${item.href}" ${attrs}>
-                    ${item.name}
+                  <a href="${i.href}" ${attrs}>
+                    ${i.name}
                   </a>
                 </li>`;
       })
       .join('');
-
     menu.innerHTML = backHtml + itemsHtml;
-    attachDropdownHandlers(menu);
+    attachDropdownHandlers(menu, dd);
   } catch (err) {
     console.error('[DROPDOWN JSON] error:', err);
     menu.innerHTML = '<li class="error">Error loading categories</li>';
   }
 }
 
+/**
+ * Initialiserer header- og navigations-opførsel.
+ */
+/**
+ * Yksinkertaistettu headerin alustus:
+ * – scroll-hide / show -logiikka
+ * – hamburger-napin toggle + scroll-lock
+ * – yksi paikka dropdownien käsittelylle (initDropdowns)
+ */
+function initHeaderFunctions() {
+  const header = document.querySelector('.header');
+  if (!header) return;
 
-  const dropdowns = header.querySelectorAll('.dropdown');
-  dropdowns.forEach(dd => {
-    const btn = dd.querySelector('.dropdown-toggle');
-    const menu = dd.querySelector('.dropdown-menu');
-    if (!btn || !menu) return;
-
-    btn.addEventListener('click', e => {
-      e.preventDefault();
-      dd.classList.toggle('open');
-      console.log("[DROPDOWN] Dropdown toggle clicked, open:", dd.classList.contains('open'));
-      if (!dropdownOriginalHtml.has(menu)) {
-        dropdownOriginalHtml.set(menu, menu.innerHTML);
-        console.log("[DROPDOWN] Saved original menu HTML for", menu);
-      }
-      attachDropdownHandlers(menu);
-    });
+  // 1) Auto-hide header scrollatessa
+  let lastScrollY = window.scrollY;
+  window.addEventListener('scroll', () => {
+    if (disableHeaderAutoHide) {
+      header.classList.remove('header-hidden');
+      lastScrollY = window.scrollY;
+      return;
+    }
+    const now = window.scrollY;
+    if (now > lastScrollY && now > 1) header.classList.add('header-hidden');
+    if (now < lastScrollY) header.classList.remove('header-hidden');
+    lastScrollY = now;
   });
 
-  document.addEventListener('click', e => {
-    // Estetään sulkeminen jos navigoidaan menun sisällä
-    if (menuNavInProgress) {
-      console.log("[MENU] menuNavInProgress=true, NOT closing menus.");
-      return;
-    }
-    if (e.target.closest('.dropdown-menu')) {
-      console.log("[MENU] Clicked inside .dropdown-menu, NOT closing");
-      return;
-    }
-    dropdowns.forEach(dd => {
-      if (dd.classList.contains('open') && !dd.contains(e.target)) {
-        dd.classList.remove('open');
-        console.log("[MENU] Click outside, closing dropdown", dd);
-      }
+  // 2) Hamburger-napin toggle ja nav-linkit
+  const hamburger = header.querySelector('.hamburger');
+  const navLinks  = header.querySelector('.nav-links');
+  if (hamburger && navLinks) {
+    hamburger.addEventListener('click', e => {
+      e.preventDefault();
+      e.stopPropagation();
+      hamburger.classList.toggle('open');
+      navLinks.classList.toggle('active');
+      syncScrollLockWithHamburger();
     });
-    if (
-      navLinks.classList.contains('active') &&
-      !navLinks.contains(e.target) &&
-      !hamburger.contains(e.target)
-    ) {
+  }
+
+  // 3) Klikkaus muualla: sulje navLinks + hamburger
+  document.addEventListener('click', e => {
+    if (e.target.closest('.dropdown-menu')) return;
+    if (navLinks.classList.contains('active') &&
+        !navLinks.contains(e.target) &&
+        !hamburger.contains(e.target)) {
       navLinks.classList.remove('active');
       hamburger.classList.remove('open');
       syncScrollLockWithHamburger();
-      console.log("[MENU] Click outside, closing navLinks/hamburger");
     }
   });
 
-  // nav/link clicks close all
+  // 4) Kun klikataan tavallista linkkiä, sulje kaikki menut
   header.querySelectorAll('.nav-links a, .dropdown a').forEach(link => {
-    link.addEventListener('click', (e) => {
-      if (link.hasAttribute('data-submenu')) {
-        console.log("[MENU] data-submenu link clicked, NOT closing menu");
-        return;
-      }
+    link.addEventListener('click', () => {
+      if (link.hasAttribute('data-submenu')) return;
       navLinks.classList.remove('active');
       hamburger.classList.remove('open');
-      dropdowns.forEach(dd => dd.classList.remove('open'));
+      header.querySelectorAll('.dropdown.open').forEach(dd => dd.classList.remove('open'));
       syncScrollLockWithHamburger();
       header.classList.remove('header-hidden');
-      console.log("[MENU] Normal nav/dropdown link clicked, closing all menus");
     });
   });
 
-  // logo click: smooth scroll til top
+  // 5) Logo-scroll-to-top
   const logo = header.querySelector('.logo');
   if (logo) {
     logo.addEventListener('click', e => {
@@ -358,13 +362,19 @@ async function loadDropdownJson(menu, basePath) {
         disableHeaderHideUntilScrollEnd();
         window.scrollTo({ top: 0, behavior: 'smooth' });
         header.classList.remove('header-hidden');
-        console.log("[HEADER] Logo clicked, smooth scroll to top");
       }
     });
   }
+
+  // 6) Lopuksi: hoida kaikki dropdownit yhdestä paikasta
+  initDropdowns();
 }
 
-function initFooterToiminnot() {
+
+/**
+ * Initialiserer footer scroll-knap og scroll-top.
+ */
+function initFooterFunctions() {
   const btn = document.getElementById('scroll-btn');
   if (!btn) return;
   window.addEventListener('scroll', () => {
@@ -380,12 +390,11 @@ function initFooterToiminnot() {
   });
 }
 
-// ==================== CLOSE ALL MENUS ====================
+/**
+ * Lukker alle åbne menuer.
+ */
 function closeAllMenus() {
-  if (window.menuNavInProgress) {
-    console.log("[MENU] closeAllMenus: menuNavInProgress=true, NOT closing menus.");
-    return;
-  }
+  if (window.menuNavInProgress) return;
   const header = document.querySelector('.header');
   if (!header) return;
   const hamburger = header.querySelector('.hamburger');
@@ -399,22 +408,22 @@ function closeAllMenus() {
   console.log("[MENU] closeAllMenus called - all menus closed");
 }
 
-
-// ==================== HEADER & FOOTER LOAD ====================
+/**
+ * Beregner sti-prefix til header/footer inkluder.
+ */
 function computePrefix() {
   const parts = window.location.pathname.split('/').filter(Boolean);
   return parts.map(_ => '../').join('');
 }
 
-// ==================== UPDATED loadHeaderFooter() ====================
+/**
+ * Henter og indsætter header og footer via AJAX.
+ */
 function loadHeaderFooter() {
   const prefix = computePrefix();
   console.log("[LOAD] Header/Footer load with prefix", prefix);
   const headerPromise = fetch(prefix + 'header.html')
-    .then(r => {
-      if (!r.ok) throw new Error('Header load: ' + r.status);
-      return r.text();
-    })
+    .then(r => { if (!r.ok) throw new Error('Header load: ' + r.status); return r.text(); })
     .then(html => {
       let headerContainer = document.getElementById('site-header');
       if (!headerContainer) {
@@ -423,16 +432,12 @@ function loadHeaderFooter() {
         document.body.insertAdjacentElement('afterbegin', headerContainer);
       }
       headerContainer.innerHTML = html;
-      initHeaderToiminnot();
+      initHeaderFunctions();
       initDynamicHash();
       console.log("[LOAD] Header loaded and initialized");
     });
-
   const footerPromise = fetch(prefix + 'footer.html')
-    .then(r => {
-      if (!r.ok) throw new Error('Footer load: ' + r.status);
-      return r.text();
-    })
+    .then(r => { if (!r.ok) throw new Error('Footer load: ' + r.status); return r.text(); })
     .then(html => {
       let footerContainer = document.getElementById('site-footer');
       if (!footerContainer) {
@@ -441,48 +446,55 @@ function loadHeaderFooter() {
         document.body.insertAdjacentElement('beforeend', footerContainer);
       }
       footerContainer.innerHTML = html;
-      initFooterToiminnot();
+      initFooterFunctions();
       console.log("[LOAD] Footer loaded and initialized");
     });
   return Promise.all([headerPromise, footerPromise]);
 }
 
-// ==================== PJAX NAVIGATION ====================
+/**
+ * Initialiserer PJAX navigation for interne links.
+ */
 function initPjaxNavigation() {
+  // Kaikki body:n linkkiklikit käsitellään PJAX:na
   document.body.addEventListener('click', e => {
     const link = e.target.closest('a');
     if (!link) return;
-    const href = link.getAttribute('href');
-    if (!href || link.origin !== location.origin || href.startsWith('#')) return;
 
-    // ---- LISÄTÄÄN TÄMÄ: ----
-    if (link.hasAttribute('data-submenu')) {
-      // Jos kyseessä on submenu-linkki, EI tehdä PJAX:ia, eikä suljeta menuja
-      return;
-    }
-    // ------------------------
+    const href = link.getAttribute('href');
+    // Vain samasta originista tulevat html- tai hakemistolinkit
+    if (!href || link.origin !== location.origin || href.startsWith('#')) return;
+    if (link.hasAttribute('data-submenu')) return;
 
     const isHtml = href.endsWith('.html');
     const isDir  = href.endsWith('/');
 
     if (isHtml || isDir) {
       e.preventDefault();
-      closeAllMenus();
-      console.log("[PJAX] Navigating to", href, "Menus closed before navigation");
-      // You would loadPageViaAjax here
+      closeAllMenus();  // sulje kaikki auki olevat valikot
+      console.log("[PJAX] Navigating to", href);
+      // ladataan sivu AJAXilla; history.pushState, kun replaceState=false
+      loadPageViaAjax(href, { replaceState: false });
     }
+  });
+
+  // Selaimen back/forward -nappien tuki
+  window.addEventListener('popstate', () => {
+    console.log("[PJAX] popstate, loading", location.pathname);
+    // korvataan sisältö nykyisellä polulla; history.replaceState, kun replaceState=true
+    loadPageViaAjax(location.pathname, { replaceState: true });
   });
 }
 
 
+/**
+ * Loader side via AJAX med content-udskiftning og history.
+ */
 function loadPageViaAjax(url, options = {}) {
   document.documentElement.classList.add('ajax-loading');
   console.log("[PJAX] Loading page via AJAX", url);
   fetch(url)
-    .then(r => {
-      if (!r.ok) throw new Error('Ajax load: ' + r.status);
-      return r.text();
-    })
+    .then(r => { if (!r.ok) throw new Error('Ajax load: ' + r.status); return r.text(); })
     .then(htmlText => {
       const doc = new DOMParser().parseFromString(htmlText, 'text/html');
       const newContentEl = doc.getElementById('content') || doc.querySelector('main');
@@ -495,46 +507,55 @@ function loadPageViaAjax(url, options = {}) {
       const finalUrl = options.scrollToHash != null ? url + options.scrollToHash : url;
       if (options.replaceState) history.replaceState({}, '', finalUrl);
       else history.pushState({}, '', finalUrl);
-      if (!options.scrollToHash) {
-        const header = document.getElementById('site-header');
-        disableHeaderHideUntilScrollEnd();
-        window.scrollTo({ top: 0, behavior: 'instant' });
+  if (!options.scrollToHash) {
+    const header = document.getElementById('site-header');
+    disableHeaderHideUntilScrollEnd();
+    window.scrollTo({ top: 0, behavior: 'instant' });
+    header?.classList.remove('header-hidden');
+  }
+  if (options.scrollToHash && options.scrollToHash !== '#hero') {
+    const target = document.getElementById(options.scrollToHash.slice(1));
+    if (target) {
+      const header = document.getElementById('site-header');
+      const y = target.getBoundingClientRect().top + window.scrollY - (header ? header.offsetHeight : 0);
+      disableHeaderHideUntilScrollEnd();
+      setTimeout(() => {
+        window.scrollTo({ top: y, behavior: 'smooth' });
         header?.classList.remove('header-hidden');
-      }
-      updateActiveNavLink();
-      initDynamicHash();
-      if (options.scrollToHash && options.scrollToHash !== '#hero') {
-        const target = document.getElementById(options.scrollToHash.slice(1));
-        if (target) {
-          const header = document.getElementById('site-header');
-          const y = target.getBoundingClientRect().top + window.scrollY - (header ? header.offsetHeight : 0);
-          disableHeaderHideUntilScrollEnd();
-          setTimeout(() => {
-            window.scrollTo({ top: y, behavior: 'smooth' });
-            header?.classList.remove('header-hidden');
-          }, 50);
-        }
-      }
-      console.log("[PJAX] Page loaded via AJAX:", url);
-    })
-    .catch(err => console.error('[PJAX] error:', err))
+      }, 50);
+    }
+  }
+  console.log("[PJAX] Page loaded via AJAX:", url);
+})
+    .catch (err => console.error('[PJAX] error:', err))
     .finally(() => {
-      document.documentElement.classList.remove('ajax-loading');
-      console.log("[PJAX] ajax-loading class removed");
-    });
+  document.documentElement.classList.remove('ajax-loading');
+  console.log("[PJAX] ajax-loading class removed");
+});
+updateActiveNavLink();
+
 }
+
+/**
+ * Opdaterer aktiv navigation baseret på sti.
+ */
 function updateActiveNavLink() {
   const path = location.pathname.split('/').pop() || 'index.html';
-  document.querySelectorAll('.nav-links a').forEach(a => a.classList.toggle('active', a.getAttribute('href') === path));
+  document.querySelectorAll('.nav-links a').forEach(a =>
+    a.classList.toggle('active', a.getAttribute('href') === path)
+  );
   console.log("[PJAX] Updated active nav link:", path);
 }
 
-// ==================== COLLECTION LOADER ====================
+/**
+ * Initialiserer indlæsning af kollektionsindhold.
+ */
 function initCollectionLoader(buttonSelector, targetSelector) {
   const buttons = document.querySelectorAll(buttonSelector);
   const target = document.querySelector(targetSelector);
   if (!target) return;
-  let currentURL = null; let activeBtn = null;
+  let currentURL = null;
+  let activeBtn = null;
   target.addEventListener('transitionend', e => {
     if (e.propertyName === 'height' && currentURL) target.style.height = 'auto';
   });
@@ -546,74 +567,115 @@ function initCollectionLoader(buttonSelector, targetSelector) {
       const isOpen = target.getBoundingClientRect().height > 0;
       if (isOpen) {
         const startH = target.getBoundingClientRect().height;
-        target.style.height = `${startH}px`; target.getBoundingClientRect();
+        target.style.height = `${startH}px`;
+        target.getBoundingClientRect();
         toggleHeight(0);
-        currentURL = null; btn.classList.remove('active'); activeBtn = null;
+        currentURL = null;
+        btn.classList.remove('active');
+        activeBtn = null;
         console.log("[COLLECTION] Already open, closing collection");
       } else {
-        toggleHeight(target.scrollHeight); currentURL = url; btn.classList.add('active'); activeBtn = btn;
+        toggleHeight(target.scrollHeight);
+        currentURL = url;
+        btn.classList.add('active');
+        activeBtn = btn;
         console.log("[COLLECTION] Already closed, opening collection");
       }
       return;
     }
-    const oldH = target.getBoundingClientRect().height; target.style.height = `${oldH}px`; target.getBoundingClientRect();
+    const oldH = target.getBoundingClientRect().height;
+    target.style.height = `${oldH}px`;
+    target.getBoundingClientRect();
     let html = '';
-    try { const res = await fetch(url); if (!res.ok) throw new Error(res.statusText); html = await res.text(); }
-    catch (err) { console.error('[COLLECTION] Fetch error:', err); target.innerHTML = '<p>Sorry, could not load content.</p>'; }
-    if (html) { const doc = new DOMParser().parseFromString(html, 'text/html'); const main = doc.querySelector('main'); target.innerHTML = main ? main.innerHTML : '<p>Error: no <main> found</p>'; }
+    try {
+      const res = await fetch(url);
+      if (!res.ok) throw new Error(res.statusText);
+      html = await res.text();
+    } catch (err) {
+      console.error('[COLLECTION] Fetch error:', err);
+      target.innerHTML = '<p>Sorry, could not load content.</p>';
+    }
+    if (html) {
+      const doc = new DOMParser().parseFromString(html, 'text/html');
+      const main = doc.querySelector('main');
+      target.innerHTML = main ? main.innerHTML : '<p>Error: no <main> found</p>';
+    }
     await new Promise(requestAnimationFrame);
-    target.style.height = 'auto'; const newH = target.scrollHeight; target.style.height = `${oldH}px`; toggleHeight(newH);
-    currentURL = url; if (activeBtn) activeBtn.classList.remove('active'); btn.classList.add('active'); activeBtn = btn;
+    target.style.height = 'auto';
+    const newH = target.scrollHeight;
+    target.style.height = `${oldH}px`;
+    toggleHeight(newH);
+    currentURL = url;
+    if (activeBtn) activeBtn.classList.remove('active');
+    btn.classList.add('active');
+    activeBtn = btn;
     console.log("[COLLECTION] New collection loaded:", url);
   }));
-  function toggleHeight(toPx) { target.getBoundingClientRect(); requestAnimationFrame(() => target.style.height = `${toPx}px`); }
+  function toggleHeight(toPx) {
+    target.getBoundingClientRect();
+    requestAnimationFrame(() => target.style.height = `${toPx}px`);
+  }
 }
 
-// ==================== ITEMS LOADER ====================
+/**
+ * Loader og gengiver items baseret på items.json.
+ */
 function loadItems() {
   let path = window.location.pathname;
-  if (path.endsWith('.html')) path = path.substring(0, path.lastIndexOf('/')+1);
+  if (path.endsWith('.html')) path = path.substring(0, path.lastIndexOf('/') + 1);
   else if (!path.endsWith('/')) path += '/';
   const jsonUrl = path + 'items.json';
   fetch(jsonUrl)
     .then(res => { if (!res.ok) throw new Error(res.status); return res.json(); })
     .then(items => {
-      const container = document.getElementById('items-container'); if (!container) return;
+      const container = document.getElementById('items-container');
+      if (!container) return;
       container.innerHTML = '';
       items.forEach(item => {
-        const card = document.createElement('div'); card.classList.add('item-card', item.type==='dir'?'item-dir':'item-file');
-        const link = document.createElement('a'); link.href=item.href; link.textContent=item.name;
-        card.appendChild(link); container.appendChild(card);
+        const card = document.createElement('div');
+        card.classList.add('item-card', item.type === 'dir' ? 'item-dir' : 'item-file');
+        const link = document.createElement('a');
+        link.href = item.href;
+        link.textContent = item.name;
+        card.appendChild(link);
+        container.appendChild(card);
       });
       console.log("[ITEMS] Loaded items.json and rendered items");
     })
-    .catch(err => console.error('[ITEMS] items load feil', err));
+    .catch(err => console.error('[ITEMS] items load error', err));
 }
 document.addEventListener('DOMContentLoaded', () => {
-  const c = document.getElementById('items-container'); if (c && window.initialItemsJson) loadItems();
+  const c = document.getElementById('items-container');
+  if (c && window.initialItemsJson) loadItems();
 });
 
-// ==================== DYNAMIC HASH ====================
+/**
+ * Dynamisk opdatering af URL-hash baseret på sektioner i view.
+ */
 function initDynamicHash() {
-  const header = document.querySelector('.header'); if (!header) return;
-  const sections = document.querySelectorAll("section[id]:not([id='hero'])"); if (!sections.length) return;
-  let viimeisinHash = window.location.hash;
-  const opts = { root: null, rootMargin: `-${header.offsetHeight}px 0px -50% 0px`, threshold:0 };
-  const cb = entries => entries.forEach(entry => {
-    if (entry.isIntersecting) {
-      const uusi = `#${entry.target.id}`;
-      if (viimeisinHash!==uusi) {
-        history.replaceState(null,'',uusi); viimeisinHash=uusi;
-        console.log("[HASH] Section intersected, updated hash to", uusi);
+  const header = document.querySelector('.header');
+  if (!header) return;
+  const sections = document.querySelectorAll("section[id]:not([id='hero'])");
+  if (!sections.length) return;
+  let lastHash = window.location.hash;
+  const opts = { root: null, rootMargin: `-${header.offsetHeight}px 0px -50% 0px`, threshold: 0 };
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const newHash = `#${entry.target.id}`;
+        if (lastHash !== newHash) {
+          history.replaceState(null, '', newHash);
+          lastHash = newHash;
+          console.log("[HASH] Section intersected, updated hash to", newHash);
+        }
       }
-    }
-  });
-  const obs = new IntersectionObserver(cb, opts);
-  sections.forEach(s => obs.observe(s));
+    });
+  }, opts);
+  sections.forEach(s => observer.observe(s));
   window.addEventListener('scroll', () => {
-    if (window.scrollY<=header.offsetHeight && window.location.hash) {
-      history.replaceState(null,'',location.pathname+location.search);
-      viimeisinHash='';
+    if (window.scrollY <= header.offsetHeight && window.location.hash) {
+      history.replaceState(null, '', location.pathname + location.search);
+      lastHash = '';
       console.log("[HASH] At top, hash cleared");
     }
   });

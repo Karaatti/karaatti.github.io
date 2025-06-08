@@ -468,8 +468,8 @@ input[type="submit"]:hover {
 
 #promo {
   background-color: var(--color-taupe);
-  box-shadow: var(--box-shadow-default);
-  z-index: 4;
+  box-shadow: var(--box-shadow-special);
+  z-index: 5;
   min-height: 40em;
   align-content: center;
 
@@ -813,8 +813,8 @@ main img {
 #collection {
   min-height: 104svh;
   align-content: center;
-  box-shadow: var(--box-shadow-default);
-  z-index: 5;
+
+  z-index: 4;
 }
 
 .collection-buttons {
@@ -1069,7 +1069,8 @@ footer {
   justify-content: left;
   display: flex;
   position: relative;
-  left: 25%;
+  left: 50%;
+  margin-left: -3.5rem;
 }
 
 .social-media-list li a {
@@ -1146,6 +1147,7 @@ footer {
     width: 100%;
     justify-content: center;
     left: 0;
+    margin-left: 0;
   }
 
   .footer-contact {
@@ -1168,7 +1170,7 @@ footer {
   overflow: hidden;
   transition: height .35s ease;
   margin-top: var(--spacing-base);
-  box-shadow: var(--box-shadow-default);
+  box-shadow: var(--box-shadow-special);
   max-width: 95%;
   width: var(--content-max-width);
 }
@@ -1259,4 +1261,9 @@ html.ajax-loading #site-footer {
 
   height: calc(var(--header-height)*0.5);
   width: auto;
+}
+
+.dropdown-menu button {
+  max-width: 95%;
+  box-shadow: var(--box-shadow-special);
 }
