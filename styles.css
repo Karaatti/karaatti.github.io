@@ -1007,7 +1007,7 @@ footer {
    2) FOOTER-INNER
    --------------------------------------------- */
 .footer-inner {
-
+  max-width: var(--content-max-width);
   margin: 0 auto;
   padding: 0 var(--section-padding-horizontal);
 }
@@ -1266,13 +1266,18 @@ html.ajax-loading #site-footer {
 }
 
 .dropdown-menu button {
-  max-width: 95%;
+  width: 95%;
   box-shadow: var(--box-shadow-special);
 }
+
 .category-icon {
   max-width: 4rem;
   position: absolute;
   margin-left: 1rem;
   align-content: center;
   margin-top: -0.5rem;
+}
+
+.footer-contact a {
+  color: var(--color-light-beige);
 }
