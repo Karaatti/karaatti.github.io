@@ -509,15 +509,16 @@ input[type="submit"]:hover {
 }
 
 /* ==================================================================
-   RESPONSIVE (MAX-WIDTH: 1182px)
+   RESPONSIVE (MAX-WIDTH: 1226px)
    ================================================================== */
-@media (max-width: 1182px) {
+@media (max-width: 1226px) {
   .dropdown.open .dropdown-menu {
     padding-bottom: 4em;
   }
 
   .hamburger {
     display: flex;
+    margin-left: 1rem;
   }
 
   .nav {
@@ -1241,4 +1242,21 @@ html.ajax-loading #site-header,
 html.ajax-loading #content,
 html.ajax-loading #site-footer {
   visibility: hidden;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: inherit;
+  height: 100%;
+}
+
+.logo img {
+
+  height: calc(var(--header-height)*0.5);
+  width: auto;
 }

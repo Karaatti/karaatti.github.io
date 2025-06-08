@@ -92,67 +92,84 @@ function unlockScrollRestorePosition() {
   }
 }
 
+
 // ==================== DROPDOWN SUBMENU ====================
 const dropdownOriginalHtml = new Map();
-async function loadDropdownSubmenu(menu, url) {
-  if (!dropdownOriginalHtml.has(menu)) {
-    dropdownOriginalHtml.set(menu, menu.innerHTML);
-    console.log("[DROPDOWN] Saved original HTML for", menu);
-  }
-  try {
-    console.log("[DROPDOWN] Loading submenu from", url);
-    const res = await fetch(url);
-    if (!res.ok) throw new Error(res.statusText);
-    const html = await res.text();
-    const doc = new DOMParser().parseFromString(html, 'text/html');
-    const newSubmenu = doc.querySelector('.submenu');
-    const itemsHtml = newSubmenu ? newSubmenu.innerHTML : '<li>Ikke valg</li>';
-    const backButton =
-      '<li class="back"><button type="button" class="dropdown-back">← Tilbage</button></li>';
-    menu.innerHTML = backButton + itemsHtml;
-    console.log("[DROPDOWN] Submenu loaded, initializing item clicks");
-    initDropdownItemClicks(menu);
-  } catch (err) {
-    console.error('[DROPDOWN] Dropdown hent fejl:', err);
-    menu.innerHTML = '<li>Fejl</li>';
-  }
-}
+const menuStack = new Map();
+
+// korvaa tämä:
 function initDropdownItemClicks(menu) {
+  // luo pino jos puuttuu
+  if (!menuStack.has(menu)) {
+    menuStack.set(menu, []);
+  }
+
+  // BACK-painikkeen käsittely
   const backBtn = menu.querySelector('.dropdown-back');
   if (backBtn) {
     backBtn.addEventListener('click', e => {
       e.preventDefault();
       e.stopPropagation();
-      console.log("[DROPDOWN] Back button clicked");
-      const original = dropdownOriginalHtml.get(menu);
-      if (original) {
-        menu.innerHTML = original;
-        initDropdownItemClicks(menu);
-        console.log("[DROPDOWN] Restored original HTML");
-      }
+      const stack = menuStack.get(menu);
+      if (!stack.length) return;
+      // nouda edellinen tila
+      const prev = stack.pop();
+      menu.innerHTML = prev.html;
+      initDropdownItemClicks(menu);
     });
   }
+
+  // alavalikon linkit
   menu.querySelectorAll('a[data-submenu]').forEach(link => {
     link.addEventListener('click', e => {
       e.preventDefault();
       e.stopPropagation();
-      menuNavInProgress = true;
-      console.log("[DROPDOWN] Submenu link clicked:", link.getAttribute('data-submenu'));
-      const url = link.getAttribute('data-submenu');
-      if (url) {
-        loadDropdownSubmenu(menu, url);
-      }
-      setTimeout(() => {
-        menuNavInProgress = false;
-        console.log("[DROPDOWN] menuNavInProgress=false (delay ended)");
-      }, 300);
-      return false;
+      const url   = link.getAttribute('data-submenu');
+      const title = link.textContent.trim();
+      // tallenna nykyinen näkymä pinon päälle
+      menuStack.get(menu).push({
+        html:  menu.innerHTML,
+        title
+      });
+      // lataa seuraava taso
+      loadDropdownSubmenu(menu, url);
     });
   });
 }
 
+async function loadDropdownSubmenu(menu, url) {
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(res.statusText);
+    const text = await res.text();
+    const doc  = new DOMParser().parseFromString(text, 'text/html');
+    const newSub = doc.querySelector('.submenu');
+    const itemsHtml = newSub
+      ? newSub.innerHTML
+      : '<li>Ei vaihtoehtoja</li>';
 
+    // ota pinon ylin title (jos pino ei tyhjä)
+    const stack       = menuStack.get(menu) || [];
+    const parentTitle = stack.length
+      ? stack[stack.length - 1].title
+      : '';
 
+    // rakennetaan back-nappi vain, jos title löytyy
+    const backHtml = parentTitle
+      ? `<li class="back">
+           <button type="button" class="dropdown-back">
+             ← Back to ${parentTitle}
+           </button>
+         </li>`
+      : '';
+
+    menu.innerHTML = backHtml + itemsHtml;
+    initDropdownItemClicks(menu);
+  } catch (err) {
+    console.error('[DROPDOWN] loadDropdownSubmenu error:', err);
+    menu.innerHTML = '<li>Virhe</li>';
+  }
+}
 
 // ==================== NAV + HEADER FUNCTIONS ====================
 function initHeaderToiminnot() {
@@ -182,68 +199,91 @@ function initHeaderToiminnot() {
       console.log("[HEADER] Hamburger toggled. open:", hamburger.classList.contains('open'));
     });
   }
+// pino-map scriptin alkuun (vain kerran)
+const menuStack = new Map();
 
-  // dropdownOriginalHtml shared already above!
-  async function loadDropdownJson(menu, basePath) {
-    if (!dropdownOriginalHtml.has(menu)) {
-      dropdownOriginalHtml.set(menu, menu.innerHTML);
-      console.log("[DROPDOWN] Saved original HTML for", menu);
-    }
-    menu.innerHTML = '<li class="loading">Loading…</li>';
-    try {
-      console.log("[DROPDOWN] Fetching items.json from", basePath);
-      const res = await fetch(basePath + 'items.json');
-      if (!res.ok) throw new Error(res.statusText);
-      const items = await res.json();
-      const backButton = `
-        <li class="back">
-          <button type="button" class="dropdown-back">← Back</button>
-        </li>`;
-      const itemsHtml = items
-        .filter(item => item.type === 'dir')
-        .map(item =>
-          `<li>
-             <a href="${item.href}" data-submenu="${item.href}">
-               ${item.name}
-             </a>
-           </li>`
-        )
-        .join('');
-      menu.innerHTML = backButton + itemsHtml;
+// korvaa attachDropdownHandlers:
+function attachDropdownHandlers(menu) {
+  if (!menuStack.has(menu)) {
+    menuStack.set(menu, []);
+  }
+
+  // BACK-painike
+  const backBtn = menu.querySelector('.dropdown-back');
+  if (backBtn) {
+    backBtn.addEventListener('click', e => {
+      e.preventDefault();
+      e.stopPropagation();
+      const stack = menuStack.get(menu);
+      if (!stack.length) return;
+      const prev = stack.pop();
+      menu.innerHTML = prev.html;
       attachDropdownHandlers(menu);
-      console.log("[DROPDOWN] items.json loaded and submenu rendered.");
-    } catch (err) {
-      console.error('[DROPDOWN] Dropdown JSON load error:', err);
-      menu.innerHTML = '<li class="error">Error loading categories</li>';
-    }
+    });
   }
-  function attachDropdownHandlers(menu) {
-    const backBtn = menu.querySelector('.dropdown-back');
-    if (backBtn) {
-      backBtn.addEventListener('click', e => {
-        e.preventDefault();
-        const original = dropdownOriginalHtml.get(menu);
-        if (original) {
-          menu.innerHTML = original;
-          attachDropdownHandlers(menu);
-          console.log("[DROPDOWN] Back button clicked, original restored");
-        }
-      });
-    }
-menu.querySelectorAll('a[data-submenu]').forEach(link => {
-  link.addEventListener('click', e => {
-    e.preventDefault();
-    e.stopPropagation();
-    console.log("[DROPDOWN] JSON submenu link clicked:", link.getAttribute('data-submenu'));
-    const url = link.getAttribute('data-submenu');
-    if (url) {
-      loadDropdownJson(menu, url);
-    }
-    return false;
-  });
-});
 
+  // alavalikon linkit
+  menu.querySelectorAll('a[data-submenu]').forEach(link => {
+    link.addEventListener('click', e => {
+      e.preventDefault();
+      e.stopPropagation();
+      const url   = link.getAttribute('data-submenu');
+      const title = link.textContent.trim();
+      menuStack.get(menu).push({
+        html:  menu.innerHTML,
+        title
+      });
+      loadDropdownJson(menu, url);
+    });
+  });
+}
+
+// korvaa loadDropdownJson:
+async function loadDropdownJson(menu, basePath) {
+  menu.innerHTML = '<li class="loading">Loading…</li>';
+  try {
+    const res   = await fetch(basePath + 'items.json');
+    if (!res.ok) throw new Error(res.statusText);
+    const items = await res.json();
+
+    // haetaan pino ja ylin title
+    const stack       = menuStack.get(menu) || [];
+    const parentTitle = stack.length
+      ? stack[stack.length - 1].title
+      : '';
+
+    // back-nappin HTML
+    const backHtml = parentTitle
+      ? `<li class="back">
+           <button type="button" class="dropdown-back">
+             ← Back to ${parentTitle}
+           </button>
+         </li>`
+      : '';
+
+    // renderöidään itemit
+    const itemsHtml = items
+      .filter(item => item.type === 'dir' || item.href.endsWith('.html'))
+      .map(item => {
+        const attrs = item.type === 'dir'
+          ? `data-submenu="${item.href}"`
+          : '';
+        return `<li>
+                  <a href="${item.href}" ${attrs}>
+                    ${item.name}
+                  </a>
+                </li>`;
+      })
+      .join('');
+
+    menu.innerHTML = backHtml + itemsHtml;
+    attachDropdownHandlers(menu);
+  } catch (err) {
+    console.error('[DROPDOWN JSON] error:', err);
+    menu.innerHTML = '<li class="error">Error loading categories</li>';
   }
+}
+
 
   const dropdowns = header.querySelectorAll('.dropdown');
   dropdowns.forEach(dd => {
