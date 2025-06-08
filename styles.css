@@ -39,7 +39,7 @@
 
   /* ========== TYPOGRAPHY ========== */
   --font-base: "Montserrat", sans-serif;
-  --font-heading: "prenton", sans-serif;
+  --font-heading: "", sans-serif;
 
   /* ========== SHADOWS & BORDERS ========== */
   --box-shadow-default: 0 2px 6px rgba(0, 0, 0, 0.2);
@@ -1280,4 +1280,14 @@ html.ajax-loading #site-footer {
 
 .footer-contact a {
   color: var(--color-light-beige);
+}
+
+
+.collection-btn {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+.collection-btn:focus {
+  outline: none;
 }
