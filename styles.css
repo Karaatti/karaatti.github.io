@@ -418,7 +418,7 @@ input[type="submit"]:hover {
   background-color: var(--color-taupe);
   padding: 0.5rem 0;
   border-radius: var(--border-radius);
-  min-width: 20em;
+  min-width: 28rem;
   box-shadow: var(--box-shadow-default);
   z-index: 1000;
   text-align: center;
@@ -443,6 +443,7 @@ input[type="submit"]:hover {
 
 .dropdown.open .dropdown-menu {
   display: block;
+  padding-top: 1rem;
 }
 
 #scroll-btn {
@@ -686,7 +687,7 @@ input[type="submit"]:hover {
    ABOUT SECTION OVERRIDES
    ================================================================== */
 #about {
-  background-color: var(--color-olive-green);
+  background-color: var(--color-olive-green-dark);
   box-shadow: var(--box-shadow-special);
   z-index: 6;
 }
@@ -856,7 +857,7 @@ main img {
 #solutions {
   min-height: 104svh;
   align-content: center;
-  background-color: var(--color-olive-green);
+  background-color: var(--color-olive-green-dark);
   padding-top: 0em;
   box-shadow: var(--box-shadow-default);
   z-index: 3;
@@ -895,7 +896,7 @@ footer {
   background-color: var(--color-dark-charcoal);
   color: var(--color-white);
   text-align: center;
-  padding: 1rem 0;
+
   font-family: var(--font-base);
   font-size: 0.9rem;
 }
@@ -1195,8 +1196,9 @@ footer {
 
 #contact {
   background-color: var(--color-light-beige);
-  z-index: 1;
+  z-index: 2;
   color: var(--color-dark-charcoal);
+  box-shadow: var(--box-shadow-special);
 }
 
 #contact h2 {
@@ -1226,7 +1228,7 @@ footer {
 #items-container a {
   text-decoration: none;
   font-weight: 500;
-  color: #333;
+  color: var(--color-dark-charcoal);
   display: block;
   margin: 4px 0;
 }
@@ -1266,4 +1268,11 @@ html.ajax-loading #site-footer {
 .dropdown-menu button {
   max-width: 95%;
   box-shadow: var(--box-shadow-special);
+}
+.category-icon {
+  max-width: 4rem;
+  position: absolute;
+  margin-left: 1rem;
+  align-content: center;
+  margin-top: -0.5rem;
 }

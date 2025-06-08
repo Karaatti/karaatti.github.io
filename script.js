@@ -296,6 +296,13 @@ async function loadDropdownJson(menu, basePath, dd) {
  * – hamburger-napin toggle + scroll-lock
  * – yksi paikka dropdownien käsittelylle (initDropdowns)
  */
+/**
+ * Yksinkertaistettu headerin alustus:
+ * – scroll-hide / show -logiikka
+ * – hamburger-napin toggle + scroll-lock
+ * – logo PJAX-etusivulle
+ * – dropdownien init
+ */
 function initHeaderFunctions() {
   const header = document.querySelector('.header');
   if (!header) return;
@@ -339,7 +346,7 @@ function initHeaderFunctions() {
     }
   });
 
-  // 4) Kun klikataan tavallista linkkiä, sulje kaikki menut
+  // 4) Klikattaessa normaalia linkkiä: sulje kaikki menut
   header.querySelectorAll('.nav-links a, .dropdown a').forEach(link => {
     link.addEventListener('click', () => {
       if (link.hasAttribute('data-submenu')) return;
@@ -351,24 +358,22 @@ function initHeaderFunctions() {
     });
   });
 
-  // 5) Logo-scroll-to-top
-  const logo = header.querySelector('.logo');
-  if (logo) {
-    logo.addEventListener('click', e => {
-      const path = window.location.pathname;
-      if (path === '/' || path.endsWith('index.html')) {
-        e.preventDefault();
-        e.stopPropagation();
-        disableHeaderHideUntilScrollEnd();
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-        header.classList.remove('header-hidden');
-      }
+  // 5) Logo PJAX-etusivulle
+  const logoLink = header.querySelector('.logo a');
+  if (logoLink) {
+    logoLink.addEventListener('click', e => {
+      e.preventDefault();
+      e.stopPropagation();
+      closeAllMenus();
+      console.log("[HEADER] Logo clicked, PJAX back to home:", logoLink.href);
+      loadPageViaAjax(logoLink.href, { replaceState: false });
     });
   }
 
-  // 6) Lopuksi: hoida kaikki dropdownit yhdestä paikasta
+  // 6) Dropdownit
   initDropdowns();
 }
+
 
 
 /**
@@ -456,43 +461,46 @@ function loadHeaderFooter() {
  * Initialiserer PJAX navigation for interne links.
  */
 function initPjaxNavigation() {
-  // Kaikki body:n linkkiklikit käsitellään PJAX:na
   document.body.addEventListener('click', e => {
     const link = e.target.closest('a');
     if (!link) return;
 
+    // vain omalta domainilta, ei ankkuri- eikä submenu-linkkejä
     const href = link.getAttribute('href');
-    // Vain samasta originista tulevat html- tai hakemistolinkit
-    if (!href || link.origin !== location.origin || href.startsWith('#')) return;
-    if (link.hasAttribute('data-submenu')) return;
+    if (!href || link.origin !== location.origin || href.startsWith('#') || link.hasAttribute('data-submenu')) {
+      return;
+    }
 
-    const isHtml = href.endsWith('.html');
-    const isDir  = href.endsWith('/');
-
-    if (isHtml || isDir) {
+    const urlObj = new URL(link.href);
+    const path = urlObj.pathname;
+    // HTML-tiedostot ja kansiot (ml. "/"-etupalvelu)
+    if (path.endsWith('.html') || path.endsWith('/')) {
       e.preventDefault();
-      closeAllMenus();  // sulje kaikki auki olevat valikot
-      console.log("[PJAX] Navigating to", href);
-      // ladataan sivu AJAXilla; history.pushState, kun replaceState=false
-      loadPageViaAjax(href, { replaceState: false });
+      closeAllMenus();
+      console.log("[PJAX] Navigating to", link.href);
+      loadPageViaAjax(link.href, { replaceState: false });
     }
   });
 
-  // Selaimen back/forward -nappien tuki
+  // back/forward -napit
   window.addEventListener('popstate', () => {
     console.log("[PJAX] popstate, loading", location.pathname);
-    // korvataan sisältö nykyisellä polulla; history.replaceState, kun replaceState=true
     loadPageViaAjax(location.pathname, { replaceState: true });
   });
 }
 
 
+
+/**
+ * Loader side via AJAX med content-udskiftning og history.
+ */
 /**
  * Loader side via AJAX med content-udskiftning og history.
  */
 function loadPageViaAjax(url, options = {}) {
   document.documentElement.classList.add('ajax-loading');
   console.log("[PJAX] Loading page via AJAX", url);
+
   fetch(url)
     .then(r => { if (!r.ok) throw new Error('Ajax load: ' + r.status); return r.text(); })
     .then(htmlText => {
@@ -500,41 +508,56 @@ function loadPageViaAjax(url, options = {}) {
       const newContentEl = doc.getElementById('content') || doc.querySelector('main');
       if (!newContentEl) throw new Error('No content element found in ' + url);
       newContentEl.id = 'content';
+
       const currentEl = document.getElementById('content') || document.querySelector('main');
       currentEl.replaceWith(newContentEl);
+
       const newTitle = doc.querySelector('title');
       if (newTitle) document.title = newTitle.textContent;
+
       const finalUrl = options.scrollToHash != null ? url + options.scrollToHash : url;
       if (options.replaceState) history.replaceState({}, '', finalUrl);
       else history.pushState({}, '', finalUrl);
-  if (!options.scrollToHash) {
-    const header = document.getElementById('site-header');
-    disableHeaderHideUntilScrollEnd();
-    window.scrollTo({ top: 0, behavior: 'instant' });
-    header?.classList.remove('header-hidden');
-  }
-  if (options.scrollToHash && options.scrollToHash !== '#hero') {
-    const target = document.getElementById(options.scrollToHash.slice(1));
-    if (target) {
-      const header = document.getElementById('site-header');
-      const y = target.getBoundingClientRect().top + window.scrollY - (header ? header.offsetHeight : 0);
-      disableHeaderHideUntilScrollEnd();
-      setTimeout(() => {
-        window.scrollTo({ top: y, behavior: 'smooth' });
-        header?.classList.remove('header-hidden');
-      }, 50);
-    }
-  }
-  console.log("[PJAX] Page loaded via AJAX:", url);
-})
-    .catch (err => console.error('[PJAX] error:', err))
-    .finally(() => {
-  document.documentElement.classList.remove('ajax-loading');
-  console.log("[PJAX] ajax-loading class removed");
-});
-updateActiveNavLink();
 
+      // Scroll-to-hash tai scroll-to-top
+      if (!options.scrollToHash) {
+        const header = document.getElementById('site-header');
+        disableHeaderHideUntilScrollEnd();
+        window.scrollTo({ top: 0, behavior: 'instant' });
+        header?.classList.remove('header-hidden');
+      } else if (options.scrollToHash !== '#hero') {
+        const target = document.getElementById(options.scrollToHash.slice(1));
+        if (target) {
+          const header = document.getElementById('site-header');
+          const y = target.getBoundingClientRect().top + window.scrollY - (header ? header.offsetHeight : 0);
+          disableHeaderHideUntilScrollEnd();
+          setTimeout(() => {
+            window.scrollTo({ top: y, behavior: 'smooth' });
+            header?.classList.remove('header-hidden');
+          }, 50);
+        }
+      }
+
+      console.log("[PJAX] Page loaded via AJAX:", url);
+    })
+    .then(() => {
+      // Uudelleenkäynnistä sisällön skriptit
+      console.log("[PJAX] Re-initializing content scripts");
+      initCollectionLoader('.collection-btn', '#collection-content');
+      initDynamicHash();
+      if (document.querySelector('#items-container') && window.initialItemsJson) {
+        loadItems();
+      }
+    })
+    .catch(err => console.error('[PJAX] error:', err))
+    .finally(() => {
+      document.documentElement.classList.remove('ajax-loading');
+      console.log("[PJAX] ajax-loading class removed");
+    });
+
+  updateActiveNavLink();
 }
+
 
 /**
  * Opdaterer aktiv navigation baseret på sti.
