@@ -7,11 +7,18 @@
   <script src="../../script.js"></script>
 </head>
 <body>
-  <nav><a href="../index.html">← Takaisin</a></nav>
-  <main id="category-list">
-    <h1>sofas</h1>
-    <div id="items-container"></div>
-  </main>
+  <header id="site-header"></header>
+  <div id="content">
+    <nav><a href="../index.html">← Takaisin</a> <a href="/products/sofas/">sofas</a></nav>
+    <main id="category-list">
+      <h1>sofas</h1>
+      <!-- Static links to sub‑directories / products -->
+      <ul id="static-links"><li><a href="/products/sofas/3-seater/">3-seater</a></li><li><a href="/products/sofas/4-seater/">4-seater</a></li><li><a href="/products/sofas/chaise/">chaise</a></li><li><a href="/products/sofas/corner/">corner</a></li></ul>
+      <!-- AJAX fallback container (populated by script.js) -->
+      <div id="items-container"></div>
+    </main>
+  </div>
+  <footer id="site-footer"></footer>
   <script>loadItems();</script>
 </body>
 </html>

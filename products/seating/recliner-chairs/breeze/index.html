@@ -7,11 +7,18 @@
   <script src="../../../../script.js"></script>
 </head>
 <body>
-  <nav><a href="../index.html">← Takaisin</a></nav>
-  <main id="category-list">
-    <h1>breeze</h1>
-    <div id="items-container"></div>
-  </main>
+  <header id="site-header"></header>
+  <div id="content">
+    <nav><a href="../index.html">← Takaisin</a> <a href="/products/seating/">seating</a> / <a href="/products/seating/recliner-chairs/">recliner chairs</a> / <a href="/products/seating/recliner-chairs/breeze/">breeze</a></nav>
+    <main id="category-list">
+      <h1>breeze</h1>
+      <!-- Static links to sub‑directories / products -->
+      <ul id="static-links"><li><a href="/products/seating/recliner-chairs/breeze/198260.html">198260</a></li><li><a href="/products/seating/recliner-chairs/breeze/198261.html">198261</a></li><li><a href="/products/seating/recliner-chairs/breeze/198262.html">198262</a></li></ul>
+      <!-- AJAX fallback container (populated by script.js) -->
+      <div id="items-container"></div>
+    </main>
+  </div>
+  <footer id="site-footer"></footer>
   <script>loadItems();</script>
 </body>
 </html>

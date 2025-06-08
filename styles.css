@@ -44,6 +44,9 @@
   /* ========== SHADOWS & BORDERS ========== */
   --box-shadow-default: 0 2px 6px rgba(0, 0, 0, 0.2);
   --border-radius: 4px;
+  --box-shadow-special:
+    0 2px 6px rgba(0, 0, 0, 0.2),
+    0 -2px 6px rgba(0, 0, 0, 0.2);
 
   /* ========== TRANSITIONS ========== */
   --transition-fast: 0.1s ease-in-out;
@@ -652,8 +655,8 @@ input[type="submit"]:hover {
   background-attachment: fixed;
   color: var(--color-white);
   text-shadow: 0 0 2em rgba(255, 255, 255, 0.7);
-  box-shadow: var(--box-shadow-default);
-  z-index: 7;
+  /*! box-shadow: var(--box-shadow-default); */
+  z-index: 0;
 }
 
 .hero-wrapper {
@@ -683,7 +686,7 @@ input[type="submit"]:hover {
    ================================================================== */
 #about {
   background-color: var(--color-olive-green);
-  box-shadow: var(--box-shadow-default);
+  box-shadow: var(--box-shadow-special);
   z-index: 6;
 }
 
@@ -1196,6 +1199,7 @@ footer {
 #contact h2 {
   color: var(--color-dark-charcoal);
 }
+
 /* Container styling for category items */
 #category-list {
   max-width: 800px;
@@ -1232,3 +1236,9 @@ footer {
   margin-bottom: 8px;
 }
 
+/* aiemmin: body.ajax-loading … */
+html.ajax-loading #site-header,
+html.ajax-loading #content,
+html.ajax-loading #site-footer {
+  visibility: hidden;
+}

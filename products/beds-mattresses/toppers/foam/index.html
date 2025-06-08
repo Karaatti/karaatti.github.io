@@ -7,11 +7,18 @@
   <script src="../../../../script.js"></script>
 </head>
 <body>
-  <nav><a href="../index.html">← Takaisin</a></nav>
-  <main id="category-list">
-    <h1>foam</h1>
-    <div id="items-container"></div>
-  </main>
+  <header id="site-header"></header>
+  <div id="content">
+    <nav><a href="../index.html">← Takaisin</a> <a href="/products/beds-mattresses/">beds mattresses</a> / <a href="/products/beds-mattresses/toppers/">toppers</a> / <a href="/products/beds-mattresses/toppers/foam/">foam</a></nav>
+    <main id="category-list">
+      <h1>foam</h1>
+      <!-- Static links to sub‑directories / products -->
+      <ul id="static-links"><li><a href="/products/beds-mattresses/toppers/foam/moon/">moon</a></li></ul>
+      <!-- AJAX fallback container (populated by script.js) -->
+      <div id="items-container"></div>
+    </main>
+  </div>
+  <footer id="site-footer"></footer>
   <script>loadItems();</script>
 </body>
 </html>

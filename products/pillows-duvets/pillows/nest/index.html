@@ -7,11 +7,18 @@
   <script src="../../../../script.js"></script>
 </head>
 <body>
-  <nav><a href="../index.html">← Takaisin</a></nav>
-  <main id="category-list">
-    <h1>nest</h1>
-    <div id="items-container"></div>
-  </main>
+  <header id="site-header"></header>
+  <div id="content">
+    <nav><a href="../index.html">← Takaisin</a> <a href="/products/pillows-duvets/">pillows duvets</a> / <a href="/products/pillows-duvets/pillows/">pillows</a> / <a href="/products/pillows-duvets/pillows/nest/">nest</a></nav>
+    <main id="category-list">
+      <h1>nest</h1>
+      <!-- Static links to sub‑directories / products -->
+      <ul id="static-links"><li><a href="/products/pillows-duvets/pillows/nest/201089.html">201089</a></li><li><a href="/products/pillows-duvets/pillows/nest/201090.html">201090</a></li><li><a href="/products/pillows-duvets/pillows/nest/201091.html">201091</a></li><li><a href="/products/pillows-duvets/pillows/nest/201092.html">201092</a></li><li><a href="/products/pillows-duvets/pillows/nest/201094.html">201094</a></li><li><a href="/products/pillows-duvets/pillows/nest/201095.html">201095</a></li></ul>
+      <!-- AJAX fallback container (populated by script.js) -->
+      <div id="items-container"></div>
+    </main>
+  </div>
+  <footer id="site-footer"></footer>
   <script>loadItems();</script>
 </body>
 </html>

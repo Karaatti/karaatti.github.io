@@ -1,461 +1,163 @@
-// script.js
+let menuNavInProgress = false;
 
+// ==================== INITIALIZATION ====================
 document.addEventListener("DOMContentLoaded", function () {
-  loadHeaderFooter();
-  initCollectionLoader('.collection-btn', '#collection-content');
-  initPjaxNavigation();
+  console.log("[INIT] DOMContentLoaded");
+  document.documentElement.classList.add('ajax-loading');
+  loadHeaderFooter()
+    .then(() => {
+      console.log("[INIT] Header/Footer loaded");
+      initCollectionLoader('.collection-btn', '#collection-content');
+      initPjaxNavigation();
+    })
+    .catch(err => console.error('[INIT] Header/Footer load failed:', err))
+    .finally(() => {
+      document.documentElement.classList.remove('ajax-loading');
+      console.log("[INIT] ajax-loading class removed");
+    });
 });
 
-
+// ==================== HEADER AUTO-HIDE ====================
 let disableHeaderAutoHide = false;
-
 function disableHeaderHideUntilScrollEnd() {
   disableHeaderAutoHide = true;
+  console.log("[HEADER] Auto-hide disabled until scroll end");
   let scrollEndTimeout;
-
   function onScroll() {
     clearTimeout(scrollEndTimeout);
     scrollEndTimeout = setTimeout(() => {
       disableHeaderAutoHide = false;
       window.removeEventListener("scroll", onScroll);
+      console.log("[HEADER] Auto-hide re-enabled after scroll");
     }, 100);
   }
-
   window.addEventListener("scroll", onScroll);
 }
 
-// =============================
-// Uudet: scroll‐lukon hallinta
-// =============================
-let _scrollLocked   = false;
+// ==================== SCROLL LOCK ====================
+let _scrollLocked = false;
 let _savedScrollPos = 0;
-
-/** Lukitse scroll ja tallenna nykyinen sijainti */
 function applyScrollLock(shouldLock) {
   if (shouldLock && !_scrollLocked) {
     _savedScrollPos = window.pageYOffset || document.documentElement.scrollTop;
     document.body.style.top = `-${_savedScrollPos}px`;
     document.body.classList.add('no-scroll');
     _scrollLocked = true;
+    console.log("[SCROLLLOCK] Scroll locked at pos", _savedScrollPos);
   } else if (!shouldLock && _scrollLocked) {
     document.body.classList.remove('no-scroll');
     document.body.style.top = '';
     window.scrollTo(0, _savedScrollPos);
     _scrollLocked = false;
+    console.log("[SCROLLLOCK] Scroll unlocked, restored to", _savedScrollPos);
   }
 }
-
-/** Synkkaa scroll‐lukko hamburgerin .open‐luokan mukaan */
 function syncScrollLockWithHamburger() {
   const hb = document.querySelector('.hamburger');
   if (!hb) return;
-  applyScrollLock(hb.classList.contains('open'));
+  if (hb.classList.contains('open')) lockScrollPreservePosition();
+  else unlockScrollRestorePosition();
+  console.log("[SCROLLLOCK] Sync with hamburger:", hb.classList.contains('open'));
 }
-
-// =============================
-// Nav + header‐toiminnot
-// =============================
-function initHeaderToiminnot() {
-  const header    = document.querySelector(".header");
-  if (!header) return;
-
-  // — header‐piilotus scrollissa —
-  let viimeisinScrollY = window.scrollY;
-  window.addEventListener("scroll", () => {
-    if (disableHeaderAutoHide) {
-      header.classList.remove("header-hidden");
-      viimeisinScrollY = window.scrollY;
-      return;
-    }
-    const now = window.scrollY;
-    if (now > viimeisinScrollY && now > 1)   header.classList.add("header-hidden");
-    if (now < viimeisinScrollY)              header.classList.remove("header-hidden");
-    viimeisinScrollY = now;
-  });
-
-  const hamburger = header.querySelector(".hamburger");
-  const navLinks  = header.querySelector(".nav-links");
-  const dropdowns = header.querySelectorAll(".dropdown");
-
-  // — hamburger‐toggle —
-  if (hamburger && navLinks) {
-    hamburger.addEventListener("click", e => {
-      e.preventDefault();
-      e.stopPropagation();
-      hamburger.classList.toggle("open");
-      navLinks.classList.toggle("active");
-      syncScrollLockWithHamburger();
-    });
-  }
-
-  // — dropdown‐toggle (ei vaikuta scrolliin) —
-  dropdowns.forEach(dropdown => {
-    const btn = dropdown.querySelector(".dropdown-toggle");
-    if (!btn) return;
-    btn.addEventListener("click", e => {
-      e.preventDefault();
-      e.stopPropagation();
-      dropdown.classList.toggle("open");
-    });
-  });
-
-  // — klikkaus sivun muualle: sulje dropdownit ja nav, synkkaa lukko —
-  document.addEventListener("click", e => {
-    // dropdownit
-    dropdowns.forEach(dd => {
-      if (dd.classList.contains("open") && !dd.contains(e.target)) {
-        dd.classList.remove("open");
-      }
-    });
-
-    // nav
-    if (
-      navLinks.classList.contains("active") &&
-      !navLinks.contains(e.target) &&
-      !hamburger.contains(e.target)
-    ) {
-      navLinks.classList.remove("active");
-      hamburger.classList.remove("open");
-      syncScrollLockWithHamburger();
-    }
-  });
-
-  // — nav/linkkien klikkaus: sulje kaikki, synkkaa lukko —
-  header.querySelectorAll(".nav-links a, .dropdown a").forEach(link => {
-    link.addEventListener("click", () => {
-      navLinks.classList.remove("active");
-      hamburger.classList.remove("open");
-      dropdowns.forEach(dd => dd.classList.remove("open"));
-      syncScrollLockWithHamburger();
-      header.classList.remove("header-hidden");
-    });
-  });
-
-  // — logo‐klik: scrollaa ylös etusivulla —
-  const logo = header.querySelector(".logo");
-  if (logo) {
-    logo.addEventListener("click", e => {
-      const path = window.location.pathname;
-      if (path === "/" || path.endsWith("index.html")) {
-        e.preventDefault();
-        disableHeaderHideUntilScrollEnd();
-        window.scrollTo({ top: 0, behavior: "smooth" });
-        header.classList.remove("header-hidden");
-      }
-    });
-  }
+function syncScrollLockWithNav() {
+  const navLinks = document.querySelector('.nav-links');
+  if (!navLinks) return;
+  if (navLinks.classList.contains('active')) lockScrollPreservePosition();
+  else unlockScrollRestorePosition();
+  console.log("[SCROLLLOCK] Sync with nav:", navLinks.classList.contains('active'));
 }
-
-
-function closeAllMenus() {
-  const header    = document.querySelector('.header');
-  if (!header) return;
-
-  const hamburger = header.querySelector('.hamburger');
-  const navLinks  = header.querySelector('.nav-links');
-  const dropdowns = header.querySelectorAll('.dropdown');
-
-  /* sulje kaikki valikot */
-  navLinks.classList.remove('active');
-  hamburger?.classList.remove('open');
-  dropdowns.forEach(dd => dd.classList.remove('open'));
-
-  /* synkkaa scroll-lukko hamburgerin tilaan */
-  syncScrollLockWithHamburger();
-
-  /* header takaisin näkyviin pienen viiveen jälkeen */
-  setTimeout(() => header.classList.remove('header-hidden'), 0);
-}
-
-/**
- * Laskee URL-polun syvyyden perusteella moniko "../" tarvitaan,
- * jotta päästään projektin juureen.
- */
-function computePrefix() {
-  // esim. "/products/beds/headboards.html" → ["products","beds","headboards.html"] → depth=3
-  const parts = window.location.pathname
-    .split('/')       // ["","products","beds","headboards.html"]
-    .filter(Boolean); // ["products","beds","headboards.html"]
-  // jokaista polkiosaa (myös itse tiedostoa) kohti yksi "../"
-  return parts.map(_ => '../').join('');
-}
-
-/**
- * Lataa header.html ja footer.html oikein riippumatta siitä, oletko
- * juurihakemistossa vai syvemmällä products-kansiorakenteessa.
- */
-function loadHeaderFooter() {
-  const prefix = computePrefix();
-
-  // ===== HEADER =====
-  fetch(prefix + "header.html")
-    .then(r => {
-      if (!r.ok) throw new Error("Headeriä ei voitu ladata: " + r.status);
-      return r.text();
-    })
-    .then(html => {
-      document.body.insertAdjacentHTML("afterbegin", html);
-      initHeaderToiminnot();
-      initDynamicHash();
-    })
-    .catch(err => console.error(err));
-
-  // ===== FOOTER =====
-  fetch(prefix + "footer.html")
-    .then(r => {
-      if (!r.ok) throw new Error("Footeriä ei voitu ladata: " + r.status);
-      return r.text();
-    })
-    .then(html => {
-      document.body.insertAdjacentHTML("beforeend", html);
-      initFooterToiminnot();
-    })
-    .catch(err => console.error(err));
-}
-
-
-function initPjaxNavigation() {
-  document.body.addEventListener("click", e => {
-    const link = e.target.closest("a");
-    if (!link) return;
-    const href = link.getAttribute("href");
-
-    // hash‐linkit
-    if (href && href.startsWith("#")) {
-      if (href === "#hero") { e.preventDefault(); return; }
-      e.preventDefault();
-      closeAllMenus();
-      const section = document.getElementById(href.slice(1));
-      if (section) {
-        const header = document.querySelector(".header");
-        const y = section.getBoundingClientRect().top + window.scrollY
-                - (header ? header.offsetHeight : 0);
-        disableHeaderHideUntilScrollEnd();
-        window.scrollTo({ top: y, behavior: "smooth" });
-        if (header) header.classList.remove("header-hidden");
-        history.replaceState(null, "", href);
-      } else {
-        loadPageViaAjax("index.html", { scrollToHash: href });
-      }
-      return;
-    }
-
-    // .html‐linkit
-    if (href && href.endsWith(".html") && link.origin === location.origin) {
-      e.preventDefault();
-      closeAllMenus();
-      const current = location.pathname.split("/").pop() || "index.html";
-      if (href === current) {
-        const header = document.querySelector(".header");
-        disableHeaderHideUntilScrollEnd();
-        window.scrollTo({ top: 0, behavior: "smooth" });
-        if (header) header.classList.remove("header-hidden");
-      } else {
-        loadPageViaAjax(href);
-      }
-    }
-  });
-
-  window.addEventListener("popstate", () => {
-    const path = location.pathname.split("/").pop() || "index.html";
-    const hash = window.location.hash;
-    loadPageViaAjax(path, { replaceState: true, scrollToHash: hash });
-  });
-}
-
-function loadPageViaAjax(url, options = {}) {
-  fetch(url)
-    .then(r => {
-      if (!r.ok) throw new Error("Sivua ei voitu ladata: " + r.status);
-      return r.text();
-    })
-    .then(htmlText => {
-      const doc = new DOMParser().parseFromString(htmlText, "text/html");
-      let newContent = doc.querySelector("#content") || doc.querySelector("main");
-      if (!newContent) return console.error("Uutta sisältöä ei löytynyt: ", url);
-
-      const current = document.querySelector("#content") || document.querySelector("main");
-      if (!current) return;
-      current.replaceWith(newContent);
-
-      const newTitle = doc.querySelector("title");
-      if (newTitle) document.title = newTitle.textContent;
-
-      const finalUrl = options.scrollToHash != null ? url + options.scrollToHash : url;
-      if (options.replaceState) history.replaceState({}, "", finalUrl);
-      else history.pushState({}, "", finalUrl);
-
-      if (!options.scrollToHash) {
-        const header = document.querySelector(".header");
-        disableHeaderHideUntilScrollEnd();
-        window.scrollTo({ top: 0, behavior: "instant" });
-        if (header) header.classList.remove("header-hidden");
-      }
-
-      updateActiveNavLink();
-      initDynamicHash();
-
-      if (options.scrollToHash && options.scrollToHash !== "#hero") {
-        const target = document.getElementById(options.scrollToHash.slice(1));
-        if (target) {
-          const header = document.querySelector(".header");
-          const y = target.getBoundingClientRect().top + window.scrollY
-                  - (header ? header.offsetHeight : 0);
-          disableHeaderHideUntilScrollEnd();
-          setTimeout(() => {
-            window.scrollTo({ top: y, behavior: "smooth" });
-            if (header) header.classList.remove("header-hidden");
-          }, 50);
-        }
-      }
-    })
-    .catch(console.error);
-}
-
-function updateActiveNavLink() {
-  const path = location.pathname.split("/").pop() || "index.html";
-  document.querySelectorAll(".nav-links a").forEach(a => {
-    a.classList.toggle("active", a.getAttribute("href") === path);
-  });
-}
-
-function initCollectionLoader(buttonSelector, targetSelector) {
-  const buttons = document.querySelectorAll(buttonSelector);
-  const target = document.querySelector(targetSelector);
-  if (!target) return;
-
-  let currentURL = null;        // mikä collection on auki
-  let activeBtn = null;        // painike, jolla 'active' on päällä
-
-  /* Palautetaan korkeus-attribuutti automaattiseksi, kun
-     siirtymä on päättynyt. */
-  target.addEventListener('transitionend', e => {
-    if (e.propertyName === 'height' && currentURL) {
-      target.style.height = 'auto';
-    }
-  });
-
-  /* --- PÄÄKÄSITTELIJÄ joka painaa collection-painiketta --- */
-  buttons.forEach(btn => btn.addEventListener('click', async e => {
-    e.preventDefault();
-    const url = btn.href;
-
-    /* === 1) Klikataan jo auki olevaa samaa painiketta (TOGGLE) === */
-    if (currentURL === url) {
-      const isOpen = target.getBoundingClientRect().height > 0;
-
-      if (isOpen) {                           /* → SULJETAAN */
-        const startH = target.getBoundingClientRect().height;
-        target.style.height = `${startH}px`;
-        target.getBoundingClientRect();       // force reflow
-        toggleHeight(0);                      // animaatio 0-px
-        currentURL = null;
-
-        /* Poista aktiivisuus */
-        btn.classList.remove('active');
-        activeBtn = null;
-      } else {                                /* → AVATAAN UUDELLEEN */
-        toggleHeight(target.scrollHeight);
-        currentURL = url;
-
-        /* Aktivoi painike */
-        btn.classList.add('active');
-        activeBtn = btn;
-      }
-      return;
-    }
-
-    /* === 2) Klikataan ERI painiketta === */
-    const oldH = target.getBoundingClientRect().height;
-    target.style.height = `${oldH}px`;
-    target.getBoundingClientRect();           // force reflow
-
-    /* 2b -- Ladataan uusi sisältö */
-    let html = '';
-    try {
-      const res = await fetch(url);
-      if (!res.ok) throw new Error(res.statusText);
-      html = await res.text();
-    } catch (err) {
-      console.error(err);
-      target.innerHTML = '<p>Sorry, could not load content.</p>';
-    }
-
-    if (html) {
-      const doc = new DOMParser().parseFromString(html, 'text/html');
-      const main = doc.querySelector('main');
-      target.innerHTML = main
-        ? main.innerHTML
-        : '<p>Error: no &lt;main&gt; found</p>';
-    }
-
-    /* 2c -- Animoidaan uuteen kokoon */
-    await new Promise(requestAnimationFrame);
-    target.style.height = 'auto';
-    const newH = target.scrollHeight;
-    target.style.height = `${oldH}px`;
-    toggleHeight(newH);
-
-    /* Päivitä tilamuuttujat ja aktivoi oikea painike */
-    currentURL = url;
-    if (activeBtn) activeBtn.classList.remove('active');
-    btn.classList.add('active');
-    activeBtn = btn;
-  }));
-
-  /* Yhteinen animaattori */
-  function toggleHeight(toPx) {
-    target.getBoundingClientRect();           // flush
-    requestAnimationFrame(() => {
-      target.style.height = `${toPx}px`;
-    });
-  }
-}
-
-/* ==== (ei muutoksia) ==== */
-function toggleHeight(toPx) { /* ... alkuperäinen sisällä initissä ... */ }
-
-
-
 let _lockedScrollPos = 0;
-let _scrollLockDepth = 0;        // montako komponenttia on lukinnut scrollin
-
+let _scrollLockDepth = 0;
 function lockScrollPreservePosition() {
-  /* tallenna sijainti vain jos tämä on ensimmäinen lukitus */
   if (_scrollLockDepth === 0) {
     _lockedScrollPos = window.pageYOffset || document.documentElement.scrollTop;
     document.body.style.top = `-${_lockedScrollPos}px`;
-    document.body.classList.add("no-scroll");
+    document.body.classList.add('no-scroll');
+    console.log("[SCROLLLOCK] Locked, depth=1 at", _lockedScrollPos);
   }
-  _scrollLockDepth++;            // syvennetään “pinottuna” lukituksena
+  _scrollLockDepth++;
+  console.log("[SCROLLLOCK] lockScrollPreservePosition, depth", _scrollLockDepth);
 }
-
-/* Korvaa koko vanha funktio tällä */
 function unlockScrollRestorePosition() {
-  if (_scrollLockDepth === 0) return;      // turva
+  if (_scrollLockDepth === 0) return;
   _scrollLockDepth--;
-
+  console.log("[SCROLLLOCK] unlockScrollRestorePosition, depth", _scrollLockDepth);
   if (_scrollLockDepth === 0) {
-    const restorePos = _lockedScrollPos;   // talteen ennen asettelua
-    document.body.classList.remove("no-scroll");
-    document.body.style.top = "";
-
-    /* Odota yksi frame, että tyylit ehtivät päivittyä,
-       sitten palauta scroll-sijainti. */
+    document.body.classList.remove('no-scroll');
+    document.body.style.top = '';
     requestAnimationFrame(() => {
-      window.scrollTo(0, restorePos);
+      window.scrollTo(0, _lockedScrollPos);
+      console.log("[SCROLLLOCK] Scroll position restored to", _lockedScrollPos);
     });
   }
 }
 
-/* ==========================================================
-   Korvaa VANHA initHeaderToiminnot kokonaan tällä versiolla
-   ========================================================== */
+// ==================== DROPDOWN SUBMENU ====================
+const dropdownOriginalHtml = new Map();
+async function loadDropdownSubmenu(menu, url) {
+  if (!dropdownOriginalHtml.has(menu)) {
+    dropdownOriginalHtml.set(menu, menu.innerHTML);
+    console.log("[DROPDOWN] Saved original HTML for", menu);
+  }
+  try {
+    console.log("[DROPDOWN] Loading submenu from", url);
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(res.statusText);
+    const html = await res.text();
+    const doc = new DOMParser().parseFromString(html, 'text/html');
+    const newSubmenu = doc.querySelector('.submenu');
+    const itemsHtml = newSubmenu ? newSubmenu.innerHTML : '<li>Ikke valg</li>';
+    const backButton =
+      '<li class="back"><button type="button" class="dropdown-back">← Tilbage</button></li>';
+    menu.innerHTML = backButton + itemsHtml;
+    console.log("[DROPDOWN] Submenu loaded, initializing item clicks");
+    initDropdownItemClicks(menu);
+  } catch (err) {
+    console.error('[DROPDOWN] Dropdown hent fejl:', err);
+    menu.innerHTML = '<li>Fejl</li>';
+  }
+}
+function initDropdownItemClicks(menu) {
+  const backBtn = menu.querySelector('.dropdown-back');
+  if (backBtn) {
+    backBtn.addEventListener('click', e => {
+      e.preventDefault();
+      e.stopPropagation();
+      console.log("[DROPDOWN] Back button clicked");
+      const original = dropdownOriginalHtml.get(menu);
+      if (original) {
+        menu.innerHTML = original;
+        initDropdownItemClicks(menu);
+        console.log("[DROPDOWN] Restored original HTML");
+      }
+    });
+  }
+  menu.querySelectorAll('a[data-submenu]').forEach(link => {
+    link.addEventListener('click', e => {
+      e.preventDefault();
+      e.stopPropagation();
+      menuNavInProgress = true;
+      console.log("[DROPDOWN] Submenu link clicked:", link.getAttribute('data-submenu'));
+      const url = link.getAttribute('data-submenu');
+      if (url) {
+        loadDropdownSubmenu(menu, url);
+      }
+      setTimeout(() => {
+        menuNavInProgress = false;
+        console.log("[DROPDOWN] menuNavInProgress=false (delay ended)");
+      }, 300);
+      return false;
+    });
+  });
+}
+
+
+
+
+// ==================== NAV + HEADER FUNCTIONS ====================
 function initHeaderToiminnot() {
   const header = document.querySelector('.header');
   if (!header) return;
-
-  /* 1 — Headerin automaattinen piilotus scrollissa */
   let viimeisinScrollY = window.scrollY;
   window.addEventListener('scroll', () => {
     if (disableHeaderAutoHide) {
@@ -465,47 +167,118 @@ function initHeaderToiminnot() {
     }
     const nyt = window.scrollY;
     if (nyt > viimeisinScrollY && nyt > 1) header.classList.add('header-hidden');
-    if (nyt < viimeisinScrollY)            header.classList.remove('header-hidden');
+    if (nyt < viimeisinScrollY) header.classList.remove('header-hidden');
     viimeisinScrollY = nyt;
   });
 
-  /* 2 — DOM-viittaukset */
   const hamburger = header.querySelector('.hamburger');
-  const navLinks  = header.querySelector('.nav-links');
-  const dropdowns = header.querySelectorAll('.dropdown');
-
-  /* 3 — Hamburger-painike */
+  const navLinks = header.querySelector('.nav-links');
   if (hamburger && navLinks) {
     hamburger.addEventListener('click', e => {
-      e.preventDefault();
-      e.stopPropagation();
+      e.preventDefault(); e.stopPropagation();
       hamburger.classList.toggle('open');
       navLinks.classList.toggle('active');
-      syncScrollLockWithHamburger();                 // ← lukon synkkaus
+      syncScrollLockWithHamburger();
+      console.log("[HEADER] Hamburger toggled. open:", hamburger.classList.contains('open'));
     });
   }
 
-  /* 4 — Dropdown-painikkeet (ei scroll-lukkoa) */
+  // dropdownOriginalHtml shared already above!
+  async function loadDropdownJson(menu, basePath) {
+    if (!dropdownOriginalHtml.has(menu)) {
+      dropdownOriginalHtml.set(menu, menu.innerHTML);
+      console.log("[DROPDOWN] Saved original HTML for", menu);
+    }
+    menu.innerHTML = '<li class="loading">Loading…</li>';
+    try {
+      console.log("[DROPDOWN] Fetching items.json from", basePath);
+      const res = await fetch(basePath + 'items.json');
+      if (!res.ok) throw new Error(res.statusText);
+      const items = await res.json();
+      const backButton = `
+        <li class="back">
+          <button type="button" class="dropdown-back">← Back</button>
+        </li>`;
+      const itemsHtml = items
+        .filter(item => item.type === 'dir')
+        .map(item =>
+          `<li>
+             <a href="${item.href}" data-submenu="${item.href}">
+               ${item.name}
+             </a>
+           </li>`
+        )
+        .join('');
+      menu.innerHTML = backButton + itemsHtml;
+      attachDropdownHandlers(menu);
+      console.log("[DROPDOWN] items.json loaded and submenu rendered.");
+    } catch (err) {
+      console.error('[DROPDOWN] Dropdown JSON load error:', err);
+      menu.innerHTML = '<li class="error">Error loading categories</li>';
+    }
+  }
+  function attachDropdownHandlers(menu) {
+    const backBtn = menu.querySelector('.dropdown-back');
+    if (backBtn) {
+      backBtn.addEventListener('click', e => {
+        e.preventDefault();
+        const original = dropdownOriginalHtml.get(menu);
+        if (original) {
+          menu.innerHTML = original;
+          attachDropdownHandlers(menu);
+          console.log("[DROPDOWN] Back button clicked, original restored");
+        }
+      });
+    }
+menu.querySelectorAll('a[data-submenu]').forEach(link => {
+  link.addEventListener('click', e => {
+    e.preventDefault();
+    e.stopPropagation();
+    console.log("[DROPDOWN] JSON submenu link clicked:", link.getAttribute('data-submenu'));
+    const url = link.getAttribute('data-submenu');
+    if (url) {
+      loadDropdownJson(menu, url);
+    }
+    return false;
+  });
+});
+
+  }
+
+  const dropdowns = header.querySelectorAll('.dropdown');
   dropdowns.forEach(dd => {
     const btn = dd.querySelector('.dropdown-toggle');
-    if (!btn) return;
+    const menu = dd.querySelector('.dropdown-menu');
+    if (!btn || !menu) return;
+
     btn.addEventListener('click', e => {
       e.preventDefault();
-      e.stopPropagation();
       dd.classList.toggle('open');
+      console.log("[DROPDOWN] Dropdown toggle clicked, open:", dd.classList.contains('open'));
+      if (!dropdownOriginalHtml.has(menu)) {
+        dropdownOriginalHtml.set(menu, menu.innerHTML);
+        console.log("[DROPDOWN] Saved original menu HTML for", menu);
+      }
+      attachDropdownHandlers(menu);
     });
   });
 
-  /* 5 — Klikkaus muualle: sulje dropdownit + navi */
   document.addEventListener('click', e => {
-    /* dropdownit */
+    // Estetään sulkeminen jos navigoidaan menun sisällä
+    if (menuNavInProgress) {
+      console.log("[MENU] menuNavInProgress=true, NOT closing menus.");
+      return;
+    }
+    if (e.target.closest('.dropdown-menu')) {
+      console.log("[MENU] Clicked inside .dropdown-menu, NOT closing");
+      return;
+    }
     dropdowns.forEach(dd => {
       if (dd.classList.contains('open') && !dd.contains(e.target)) {
         dd.classList.remove('open');
+        console.log("[MENU] Click outside, closing dropdown", dd);
       }
     });
-
-    /* navi */
     if (
       navLinks.classList.contains('active') &&
       !navLinks.contains(e.target) &&
@@ -513,32 +286,39 @@ function initHeaderToiminnot() {
     ) {
       navLinks.classList.remove('active');
       hamburger.classList.remove('open');
-      syncScrollLockWithHamburger();                 // ← vapauttaa rullan
-      setTimeout(() => header.classList.remove('header-hidden'), 0);
+      syncScrollLockWithHamburger();
+      console.log("[MENU] Click outside, closing navLinks/hamburger");
     }
   });
 
-  /* 6 — Linkin klikkaus navissa / dropdownissa */
+  // nav/link clicks close all
   header.querySelectorAll('.nav-links a, .dropdown a').forEach(link => {
-    link.addEventListener('click', () => {
+    link.addEventListener('click', (e) => {
+      if (link.hasAttribute('data-submenu')) {
+        console.log("[MENU] data-submenu link clicked, NOT closing menu");
+        return;
+      }
       navLinks.classList.remove('active');
       hamburger.classList.remove('open');
       dropdowns.forEach(dd => dd.classList.remove('open'));
       syncScrollLockWithHamburger();
       header.classList.remove('header-hidden');
+      console.log("[MENU] Normal nav/dropdown link clicked, closing all menus");
     });
   });
 
-  /* 7 — Logo: scrollaa ylös etusivulla */
+  // logo click: smooth scroll til top
   const logo = header.querySelector('.logo');
   if (logo) {
     logo.addEventListener('click', e => {
       const path = window.location.pathname;
       if (path === '/' || path.endsWith('index.html')) {
         e.preventDefault();
+        e.stopPropagation();
         disableHeaderHideUntilScrollEnd();
         window.scrollTo({ top: 0, behavior: 'smooth' });
         header.classList.remove('header-hidden');
+        console.log("[HEADER] Logo clicked, smooth scroll to top");
       }
     });
   }
@@ -551,117 +331,250 @@ function initFooterToiminnot() {
     btn.style.display = window.pageYOffset > 100 ? 'block' : 'none';
   });
   btn.addEventListener('click', () => {
-    if (document.activeElement && ['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)) {
+    if (document.activeElement && ['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement.tagName)) {
       document.activeElement.blur();
     }
     disableHeaderHideUntilScrollEnd();
     window.scrollTo({ top: 0, behavior: 'smooth' });
+    console.log("[FOOTER] Scroll-btn clicked, scroll to top");
   });
 }
 
-/**
- * Hakee automaattisesti nykyisestä kansion URL-polusta
- * items.json-tiedoston ja generoi linkit.
- */
-function loadItems() {
-  // 1) Määritellään kansiopolku, jossa ollaan
-  let path = window.location.pathname;
-  // Jos URL on esim. '/products/bedroom-furniture/index.html', leikataan pois tiedostonimi
-  if (path.endsWith('.html')) {
-    path = path.substring(0, path.lastIndexOf('/') + 1);
+// ==================== CLOSE ALL MENUS ====================
+function closeAllMenus() {
+  if (window.menuNavInProgress) {
+    console.log("[MENU] closeAllMenus: menuNavInProgress=true, NOT closing menus.");
+    return;
   }
-  // Jos URL on '/products/bedroom-furniture' (ei trailing slash), lisätään slash
-  else if (!path.endsWith('/')) {
-    path += '/';
-  }
-  // Nyt path on aina lopussa '/'
-  const jsonUrl = path + 'items.json';
-
-  // 2) Haetaan items.json
-  fetch(jsonUrl)
-    .then(response => {
-      if (!response.ok) {
-        throw new Error('Ei löytynyt items.json: ' + response.status);
-      }
-      return response.json();
-    })
-    .then(items => {
-      const container = document.getElementById('items-container');
-      if (!container) {
-        console.error('#items-container ei löydy.');
-        return;
-      }
-      container.innerHTML = '';
-
-      // 3) Rakennetaan napit subdirille ja tuotteille
-      items.forEach(item => {
-        const card = document.createElement('div');
-        card.classList.add('item-card', item.type === 'dir' ? 'item-dir' : 'item-file');
-
-        const link = document.createElement('a');
-        // item.href on jo muotoa 'subdir/index.html' tai '197642.html'
-        link.href = item.href;
-        link.textContent = item.name;
-
-        card.appendChild(link);
-        container.appendChild(card);
-      });
-    })
-    .catch(err => {
-      console.error('loadItems: virhe ladattaessa', jsonUrl, err);
-    });
+  const header = document.querySelector('.header');
+  if (!header) return;
+  const hamburger = header.querySelector('.hamburger');
+  const navLinks = header.querySelector('.nav-links');
+  const dropdowns = header.querySelectorAll('.dropdown');
+  navLinks.classList.remove('active');
+  hamburger?.classList.remove('open');
+  dropdowns.forEach(dd => dd.classList.remove('open'));
+  syncScrollLockWithHamburger();
+  setTimeout(() => header.classList.remove('header-hidden'), 0);
+  console.log("[MENU] closeAllMenus called - all menus closed");
 }
 
 
+// ==================== HEADER & FOOTER LOAD ====================
+function computePrefix() {
+  const parts = window.location.pathname.split('/').filter(Boolean);
+  return parts.map(_ => '../').join('');
+}
 
-document.addEventListener('DOMContentLoaded', function() {
-  var listContainer = document.getElementById('items-container');
-  if (listContainer && window.initialItemsJson) {
-    loadItems(window.initialItemsJson);
-  }
-});
+// ==================== UPDATED loadHeaderFooter() ====================
+function loadHeaderFooter() {
+  const prefix = computePrefix();
+  console.log("[LOAD] Header/Footer load with prefix", prefix);
+  const headerPromise = fetch(prefix + 'header.html')
+    .then(r => {
+      if (!r.ok) throw new Error('Header load: ' + r.status);
+      return r.text();
+    })
+    .then(html => {
+      let headerContainer = document.getElementById('site-header');
+      if (!headerContainer) {
+        headerContainer = document.createElement('header');
+        headerContainer.id = 'site-header';
+        document.body.insertAdjacentElement('afterbegin', headerContainer);
+      }
+      headerContainer.innerHTML = html;
+      initHeaderToiminnot();
+      initDynamicHash();
+      console.log("[LOAD] Header loaded and initialized");
+    });
+
+  const footerPromise = fetch(prefix + 'footer.html')
+    .then(r => {
+      if (!r.ok) throw new Error('Footer load: ' + r.status);
+      return r.text();
+    })
+    .then(html => {
+      let footerContainer = document.getElementById('site-footer');
+      if (!footerContainer) {
+        footerContainer = document.createElement('footer');
+        footerContainer.id = 'site-footer';
+        document.body.insertAdjacentElement('beforeend', footerContainer);
+      }
+      footerContainer.innerHTML = html;
+      initFooterToiminnot();
+      console.log("[LOAD] Footer loaded and initialized");
+    });
+  return Promise.all([headerPromise, footerPromise]);
+}
+
+// ==================== PJAX NAVIGATION ====================
+function initPjaxNavigation() {
+  document.body.addEventListener('click', e => {
+    const link = e.target.closest('a');
+    if (!link) return;
+    const href = link.getAttribute('href');
+    if (!href || link.origin !== location.origin || href.startsWith('#')) return;
+
+    // ---- LISÄTÄÄN TÄMÄ: ----
+    if (link.hasAttribute('data-submenu')) {
+      // Jos kyseessä on submenu-linkki, EI tehdä PJAX:ia, eikä suljeta menuja
+      return;
+    }
+    // ------------------------
+
+    const isHtml = href.endsWith('.html');
+    const isDir  = href.endsWith('/');
+
+    if (isHtml || isDir) {
+      e.preventDefault();
+      closeAllMenus();
+      console.log("[PJAX] Navigating to", href, "Menus closed before navigation");
+      // You would loadPageViaAjax here
+    }
+  });
+}
 
 
-// ===== 7) Dynaaminen URL-hashin päivitys rullauksen mukaan =====
-function initDynamicHash() {
-  const header = document.querySelector(".header");
-  if (!header) return;
-
-  const sections = document.querySelectorAll("section[id]:not([id='hero'])");
-  if (sections.length === 0) return;
-
-  let viimeisinHash = window.location.hash;
-
-  const observerOptions = {
-    root: null,
-    rootMargin: `-${header.offsetHeight}px 0px -50% 0px`,
-    threshold: 0,
-  };
-
-  const observerCallback = (entries) => {
-    entries.forEach((entry) => {
-      if (entry.isIntersecting) {
-        const uusiHash = `#${entry.target.id}`;
-        if (viimeisinHash !== uusiHash) {
-          history.replaceState(null, "", uusiHash);
-          viimeisinHash = uusiHash;
+function loadPageViaAjax(url, options = {}) {
+  document.documentElement.classList.add('ajax-loading');
+  console.log("[PJAX] Loading page via AJAX", url);
+  fetch(url)
+    .then(r => {
+      if (!r.ok) throw new Error('Ajax load: ' + r.status);
+      return r.text();
+    })
+    .then(htmlText => {
+      const doc = new DOMParser().parseFromString(htmlText, 'text/html');
+      const newContentEl = doc.getElementById('content') || doc.querySelector('main');
+      if (!newContentEl) throw new Error('No content element found in ' + url);
+      newContentEl.id = 'content';
+      const currentEl = document.getElementById('content') || document.querySelector('main');
+      currentEl.replaceWith(newContentEl);
+      const newTitle = doc.querySelector('title');
+      if (newTitle) document.title = newTitle.textContent;
+      const finalUrl = options.scrollToHash != null ? url + options.scrollToHash : url;
+      if (options.replaceState) history.replaceState({}, '', finalUrl);
+      else history.pushState({}, '', finalUrl);
+      if (!options.scrollToHash) {
+        const header = document.getElementById('site-header');
+        disableHeaderHideUntilScrollEnd();
+        window.scrollTo({ top: 0, behavior: 'instant' });
+        header?.classList.remove('header-hidden');
+      }
+      updateActiveNavLink();
+      initDynamicHash();
+      if (options.scrollToHash && options.scrollToHash !== '#hero') {
+        const target = document.getElementById(options.scrollToHash.slice(1));
+        if (target) {
+          const header = document.getElementById('site-header');
+          const y = target.getBoundingClientRect().top + window.scrollY - (header ? header.offsetHeight : 0);
+          disableHeaderHideUntilScrollEnd();
+          setTimeout(() => {
+            window.scrollTo({ top: y, behavior: 'smooth' });
+            header?.classList.remove('header-hidden');
+          }, 50);
         }
       }
+      console.log("[PJAX] Page loaded via AJAX:", url);
+    })
+    .catch(err => console.error('[PJAX] error:', err))
+    .finally(() => {
+      document.documentElement.classList.remove('ajax-loading');
+      console.log("[PJAX] ajax-loading class removed");
     });
-  };
+}
+function updateActiveNavLink() {
+  const path = location.pathname.split('/').pop() || 'index.html';
+  document.querySelectorAll('.nav-links a').forEach(a => a.classList.toggle('active', a.getAttribute('href') === path));
+  console.log("[PJAX] Updated active nav link:", path);
+}
 
-  const observer = new IntersectionObserver(observerCallback, observerOptions);
-  sections.forEach((section) => {
-    observer.observe(section);
+// ==================== COLLECTION LOADER ====================
+function initCollectionLoader(buttonSelector, targetSelector) {
+  const buttons = document.querySelectorAll(buttonSelector);
+  const target = document.querySelector(targetSelector);
+  if (!target) return;
+  let currentURL = null; let activeBtn = null;
+  target.addEventListener('transitionend', e => {
+    if (e.propertyName === 'height' && currentURL) target.style.height = 'auto';
   });
-
-  window.addEventListener("scroll", function () {
-    const currentScroll = window.scrollY;
-    if (currentScroll <= header.offsetHeight) {
-      if (window.location.hash) {
-        history.replaceState(null, "", location.pathname + location.search);
-        viimeisinHash = "";
+  buttons.forEach(btn => btn.addEventListener('click', async e => {
+    e.preventDefault();
+    const url = btn.href;
+    console.log("[COLLECTION] Button clicked:", url);
+    if (currentURL === url) {
+      const isOpen = target.getBoundingClientRect().height > 0;
+      if (isOpen) {
+        const startH = target.getBoundingClientRect().height;
+        target.style.height = `${startH}px`; target.getBoundingClientRect();
+        toggleHeight(0);
+        currentURL = null; btn.classList.remove('active'); activeBtn = null;
+        console.log("[COLLECTION] Already open, closing collection");
+      } else {
+        toggleHeight(target.scrollHeight); currentURL = url; btn.classList.add('active'); activeBtn = btn;
+        console.log("[COLLECTION] Already closed, opening collection");
       }
+      return;
+    }
+    const oldH = target.getBoundingClientRect().height; target.style.height = `${oldH}px`; target.getBoundingClientRect();
+    let html = '';
+    try { const res = await fetch(url); if (!res.ok) throw new Error(res.statusText); html = await res.text(); }
+    catch (err) { console.error('[COLLECTION] Fetch error:', err); target.innerHTML = '<p>Sorry, could not load content.</p>'; }
+    if (html) { const doc = new DOMParser().parseFromString(html, 'text/html'); const main = doc.querySelector('main'); target.innerHTML = main ? main.innerHTML : '<p>Error: no <main> found</p>'; }
+    await new Promise(requestAnimationFrame);
+    target.style.height = 'auto'; const newH = target.scrollHeight; target.style.height = `${oldH}px`; toggleHeight(newH);
+    currentURL = url; if (activeBtn) activeBtn.classList.remove('active'); btn.classList.add('active'); activeBtn = btn;
+    console.log("[COLLECTION] New collection loaded:", url);
+  }));
+  function toggleHeight(toPx) { target.getBoundingClientRect(); requestAnimationFrame(() => target.style.height = `${toPx}px`); }
+}
+
+// ==================== ITEMS LOADER ====================
+function loadItems() {
+  let path = window.location.pathname;
+  if (path.endsWith('.html')) path = path.substring(0, path.lastIndexOf('/')+1);
+  else if (!path.endsWith('/')) path += '/';
+  const jsonUrl = path + 'items.json';
+  fetch(jsonUrl)
+    .then(res => { if (!res.ok) throw new Error(res.status); return res.json(); })
+    .then(items => {
+      const container = document.getElementById('items-container'); if (!container) return;
+      container.innerHTML = '';
+      items.forEach(item => {
+        const card = document.createElement('div'); card.classList.add('item-card', item.type==='dir'?'item-dir':'item-file');
+        const link = document.createElement('a'); link.href=item.href; link.textContent=item.name;
+        card.appendChild(link); container.appendChild(card);
+      });
+      console.log("[ITEMS] Loaded items.json and rendered items");
+    })
+    .catch(err => console.error('[ITEMS] items load feil', err));
+}
+document.addEventListener('DOMContentLoaded', () => {
+  const c = document.getElementById('items-container'); if (c && window.initialItemsJson) loadItems();
+});
+
+// ==================== DYNAMIC HASH ====================
+function initDynamicHash() {
+  const header = document.querySelector('.header'); if (!header) return;
+  const sections = document.querySelectorAll("section[id]:not([id='hero'])"); if (!sections.length) return;
+  let viimeisinHash = window.location.hash;
+  const opts = { root: null, rootMargin: `-${header.offsetHeight}px 0px -50% 0px`, threshold:0 };
+  const cb = entries => entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      const uusi = `#${entry.target.id}`;
+      if (viimeisinHash!==uusi) {
+        history.replaceState(null,'',uusi); viimeisinHash=uusi;
+        console.log("[HASH] Section intersected, updated hash to", uusi);
+      }
+    }
+  });
+  const obs = new IntersectionObserver(cb, opts);
+  sections.forEach(s => obs.observe(s));
+  window.addEventListener('scroll', () => {
+    if (window.scrollY<=header.offsetHeight && window.location.hash) {
+      history.replaceState(null,'',location.pathname+location.search);
+      viimeisinHash='';
+      console.log("[HASH] At top, hash cleared");
     }
   });
 }
