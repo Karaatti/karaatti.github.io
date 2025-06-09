@@ -40,7 +40,7 @@
 
   /* ========== TYPOGRAPHY ========== */
   --font-base: "Montserrat", sans-serif;
-  --font-heading: "", sans-serif;
+  --font-heading: "prenton", sans-serif;
 
   /* ========== SHADOWS & BORDERS ========== */
   --box-shadow-default: 0 2px 6px rgba(0, 0, 0, 0.2);
