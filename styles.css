@@ -57,7 +57,7 @@
 
   /* ========== TYPOGRAPHY ========== */
   --font-base: "Montserrat";
-  /*  --font-heading: "prenton", sans-serif; */
+
   --font-heading: "Vegur-Bold";
 
   /* ========== SHADOWS & BORDERS ========== */
@@ -280,7 +280,7 @@ input[type="submit"]:hover {
 .header .logo {
   order: 1;
   flex: 0 0 auto;
-  font-family: var(--font-base);
+  font-family: var(--font-heading);
   font-weight: 700;
   font-size: var(--font-size-small);
   color: var(--color-white);
@@ -696,6 +696,10 @@ input[type="submit"]:hover {
   font-size: 3rem;
   line-height: 1.2;
   margin-top: var(--spacing-small);
+  letter-spacing: 0.1rem;
+  text-shadow:
+    0 0 0 currentColor,
+     1px 0 0 currentColor;
 }
 
 #hero p {
@@ -1276,6 +1280,7 @@ html.ajax-loading #site-footer {
   text-decoration: none;
   color: inherit;
   height: 100%;
+  letter-spacing: 0.12em;
 }
 
 .logo img {
