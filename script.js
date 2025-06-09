@@ -149,11 +149,16 @@ function applyScrollLock(shouldLock) {
  */
 function syncScrollLockWithHamburger() {
   const hb = document.querySelector('.hamburger');
-  if (!hb) return;
-  if (hb.classList.contains('open')) lockScrollPreservePosition();
-  else unlockScrollRestorePosition();
-  console.log("[SCROLLLOCK] Sync with hamburger:", hb.classList.contains('open'));
+  const shouldLock = hb && hb.classList.contains('open');
+
+  if (shouldLock) {
+    lockScrollPreservePosition();
+  } else {
+    unlockScrollRestorePosition();
+  }
+  console.log("[SCROLLLOCK] Hamburger sync – locked?", shouldLock);
 }
+
 
 /**
  * Synkroniserer scroll lock med nav-links.
@@ -526,6 +531,10 @@ function scrollToSection(hash) {
 /**
  * Kiinnittää headerin linkeille smooth-scroll-käyttäytymisen ja lokit.
  */
+/**
+ * Kiinnittää headerin linkeille smooth-scroll-käyttäytymisen ja lokit.
+ * Varmistaa, että scroll-lock vapautetaan ennen rullausta.
+ */
 function initHeaderScrollHandlers() {
   const header = document.querySelector('.header');
   if (!header) {
@@ -546,25 +555,38 @@ function initHeaderScrollHandlers() {
       const path = window.location.pathname.replace(/(index\.html)?$/, '');
       const onHome = (path === '/' || path === '');
 
-      console.log(`\n[SCROLL LOG] Link clicked: href='${href}', hash='${hash}', onHome=${onHome}`);
-
+      // Suljetaan valikot heti
       closeAllMenus();
+      // Estetään headerin katoaminen rullauksen aikana
       disableHeaderHideUntilScrollEnd();
 
+      // 1) Puretaan scroll-lock
+      unlockScrollRestorePosition();
+
+      // 2) Estetään oletuskäyttäytyminen
       e.preventDefault();
       e.stopPropagation();
 
-      if (onHome) {
-        scrollToSection(hash);
-        console.log(`[SCROLL LOG] history.replaceState with hash='${hash}'`);
-        history.replaceState(null, '', hash);
-      } else {
-        console.log("[SCROLL LOG] PJAX-load home with scrollToHash");
-        loadPageViaAjax('/', { replaceState: false, scrollToHash: hash });
-      }
+      // 3) Odotetaan seuraava frame, jotta body:n top-tyyli on poistunut
+      requestAnimationFrame(() => {
+        if (onHome) {
+          // Jos ollaan etusivulla, suoraan smooth-scroll paikalle
+          scrollToSection(hash);
+          console.log(`[SCROLL LOG] history.replaceState with hash='${hash}'`);
+          history.replaceState(null, '', hash);
+        } else {
+          // Muuten PJAX-lataa ja rullaa hashin jälkeen
+          console.log("[SCROLL LOG] PJAX-load home with scrollToHash");
+          loadPageViaAjax('/', {
+            replaceState: false,
+            scrollToHash: hash
+          });
+        }
+      });
     });
   });
 }
+
 
 
 /**
