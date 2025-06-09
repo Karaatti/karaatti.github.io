@@ -25,7 +25,8 @@
   --color-primary: var(--color-dark-charcoal);
 
   /* ========== SPACING & SIZING ========== */
-  --header-height: 3em;
+  --header-height: 3rem;
+  --scroll-margin: 0.1rem;    /* ekstra-tila headerin alapuolelle */
   --spacing-base: 1rem;
   --section-padding-vertical: 2rem;
   --section-padding-horizontal: 1rem;
@@ -1290,4 +1291,19 @@ html.ajax-loading #site-footer {
 
 .collection-btn:focus {
   outline: none;
+}
+#loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--color-dark-charcoal);
+  color: var(--color-white);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  font-family: var(--font-base);
+  font-size: 1.25rem;
 }

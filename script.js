@@ -1,3 +1,88 @@
+// 1) Näyttöfunktio: luo loaderin tarvittaessa, lisää luokat ja käynnistää fade-inin
+function showLoader() {
+  let loader = document.getElementById('loader');
+  if (!loader) {
+    loader = document.createElement('div');
+    loader.id = 'loader';
+    loader.textContent = 'Sivua ladataan...';
+  }
+  if (!document.body.contains(loader)) {
+    document.body.appendChild(loader);
+  }
+  document.body.classList.add('no-scroll');
+  document.documentElement.classList.add('ajax-loading');
+
+  // Käynnistä fade-in (CSS:ssä ei vielä ole opacity:1)
+  loader.style.transition = 'opacity 0.1s ease-out';
+  // Aloitusarvoksi 0, jos ei vielä asetettu
+  if (getComputedStyle(loader).opacity === '' || getComputedStyle(loader).opacity === '1') {
+    loader.style.opacity = '0';
+  }
+  requestAnimationFrame(() => {
+    loader.style.opacity = '1';
+  });
+}
+
+// 2) Piilotusfunktio: fade-out ja luokkien poisto
+function hideLoader() {
+  const loader = document.getElementById('loader');
+  if (!loader) return;
+
+  loader.style.transition = 'opacity 0.1s ease-out';
+  loader.style.opacity = '0';
+  setTimeout(() => {
+    loader.remove();
+    document.body.classList.remove('no-scroll');
+    document.documentElement.classList.remove('ajax-loading');
+  }, 100);
+}
+/**
+ * Kuuntelee .logo img -elementtiä ja piilottaa loaderin,
+ * kun kuva on dekoodattu tai latautunut / epäonnistunut.
+ */
+function watchLogo(img) {
+  if (img.decode) {
+    img.decode().then(hideLoader, hideLoader);
+  } else if (img.complete) {
+    hideLoader();
+  } else {
+    img.addEventListener('load', hideLoader);
+    img.addEventListener('error', hideLoader);
+  }
+}
+
+/**
+ * Käynnistää loaderin näyttämisen ja odottaa logon latautumista.
+ */
+function initLogoLoader() {
+  showLoader();
+
+  const logoImg = document.querySelector('.logo img');
+  if (logoImg) {
+    watchLogo(logoImg);
+  } else {
+    // Jos logoa ei heti löydy, käytä MutationObserveria
+    const observer = new MutationObserver((records, obs) => {
+      const img = document.querySelector('.logo img');
+      if (img) {
+        watchLogo(img);
+        obs.disconnect();
+      }
+    });
+    observer.observe(document.documentElement, { childList: true, subtree: true });
+
+    // Varautuminen: piilota loader viiden sekunnin kuluttua
+    setTimeout(hideLoader, 5000);
+  }
+}
+
+// Käynnistä heti, kun DOM on valmis
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initLogoLoader);
+} else {
+  initLogoLoader();
+}
+
 let menuNavInProgress = false;
 
 /**
@@ -290,19 +375,6 @@ async function loadDropdownJson(menu, basePath, dd) {
 /**
  * Initialiserer header- og navigations-opførsel.
  */
-/**
- * Yksinkertaistettu headerin alustus:
- * – scroll-hide / show -logiikka
- * – hamburger-napin toggle + scroll-lock
- * – yksi paikka dropdownien käsittelylle (initDropdowns)
- */
-/**
- * Yksinkertaistettu headerin alustus:
- * – scroll-hide / show -logiikka
- * – hamburger-napin toggle + scroll-lock
- * – logo PJAX-etusivulle
- * – dropdownien init
- */
 function initHeaderFunctions() {
   const header = document.querySelector('.header');
   if (!header) return;
@@ -358,22 +430,141 @@ function initHeaderFunctions() {
     });
   });
 
-  // 5) Logo PJAX-etusivulle
-  const logoLink = header.querySelector('.logo a');
-  if (logoLink) {
-    logoLink.addEventListener('click', e => {
-      e.preventDefault();
-      e.stopPropagation();
-      closeAllMenus();
-      console.log("[HEADER] Logo clicked, PJAX back to home:", logoLink.href);
-      loadPageViaAjax(logoLink.href, { replaceState: false });
-    });
-  }
+  // 5) Logo PJAX-etusivulle — delegoitu click-kuuntelija, varmistaa loaderin
+header.addEventListener('click', e => {
+  const link = e.target.closest('.logo a, a.logo');
+  if (!link) return;
 
+  e.preventDefault();
+  e.stopPropagation();
+
+  closeAllMenus();
+
+  // flashaa loader nopeasti
+  showLoader();
+  setTimeout(hideLoader, 150);
+
+  console.log("[HEADER] Logo clicked — quick loader flash");
+
+  // PJAX-lataus
+  setTimeout(() => {
+    loadPageViaAjax(link.href, { replaceState: false });
+  }, 50);
+});
   // 6) Dropdownit
   initDropdowns();
+
+  // 7) Smooth-scroll headerin linkeille
+  initHeaderScrollHandlers();
 }
 
+/**
+ * Lukee CSS-muuttujan ja palauttaa sen pikseleinä.
+ * @param {string} varName - esim. '--header-height'
+ * @returns {number} arvo pikseleinä
+ */
+function getCssVarPx(varName) {
+  const raw = getComputedStyle(document.documentElement).getPropertyValue(varName).trim();
+  if (!raw) return 0;
+
+  // Luo väliaikainen elementti, anna sille height=raw, mittaa ja poista
+  const div = document.createElement('div');
+  div.style.position = 'absolute';
+  div.style.visibility = 'hidden';
+  div.style.height = raw;
+  document.body.appendChild(div);
+  const px = div.getBoundingClientRect().height;
+  document.body.removeChild(div);
+
+  console.log(`[SCROLL LOG] ${varName} raw='${raw}', measured=${px}px`);
+  return px;
+}
+
+/**
+ * Palauttaa scroll-offsetin: header-height + scroll-margin (pikseleinä).
+ */
+function getScrollOffset() {
+  const headerHeight = getCssVarPx('--header-height');
+  const scrollMargin = getCssVarPx('--scroll-margin');
+  const total = headerHeight + scrollMargin;
+  console.log(`[SCROLL LOG] total scroll-offset = header(${headerHeight}px) + margin(${scrollMargin}px) = ${total}px`);
+  return total;
+}
+
+/**
+ * Rullaa sulavasti haluttuun sek­tioon tai ylös, jättämällä tilaa headerille ja marginille.
+ * Tulostaa tarkat lokit.
+ * @param {string} hash - Hash, esim. '#about'
+ */
+function scrollToSection(hash) {
+  console.log(`\n[SCROLL LOG] scrollToSection called with hash='${hash}'`);
+
+  if (!hash || hash === '#') {
+    console.log("[SCROLL LOG] Empty or '#' hash: scrolling to top");
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    return;
+  }
+
+  const id = hash.charAt(0) === '#' ? hash.slice(1) : hash;
+  const target = document.getElementById(id);
+  if (!target) {
+    console.warn(`[SCROLL LOG] No element found with id='${id}'`);
+    return;
+  }
+
+  const rectTop = target.getBoundingClientRect().top;
+  const pageOffset = window.pageYOffset;
+  console.log(`[SCROLL LOG] target.getBoundingClientRect().top=${rectTop}px, window.pageYOffset=${pageOffset}px`);
+
+  const offset = getScrollOffset();
+  const desiredScrollTop = rectTop + pageOffset - offset;
+  console.log(`[SCROLL LOG] Calculated window.scrollTo top=${desiredScrollTop}px`);
+
+  window.scrollTo({ top: desiredScrollTop, behavior: 'smooth' });
+}
+
+/**
+ * Kiinnittää headerin linkeille smooth-scroll-käyttäytymisen ja lokit.
+ */
+function initHeaderScrollHandlers() {
+  const header = document.querySelector('.header');
+  if (!header) {
+    console.warn("[SCROLL LOG] initHeaderScrollHandlers: .header elementtiä ei löytynyt");
+    return;
+  }
+
+  const links = header.querySelectorAll('a[href*="#"]:not([data-submenu])');
+  console.log(`[SCROLL LOG] initHeaderScrollHandlers: liitetään ${links.length} linkkiin`);
+
+  links.forEach(link => {
+    link.addEventListener('click', e => {
+      const href = link.getAttribute('href');
+      const hashIndex = href.indexOf('#');
+      if (hashIndex === -1) return;
+
+      const hash = href.slice(hashIndex);
+      const path = window.location.pathname.replace(/(index\.html)?$/, '');
+      const onHome = (path === '/' || path === '');
+
+      console.log(`\n[SCROLL LOG] Link clicked: href='${href}', hash='${hash}', onHome=${onHome}`);
+
+      closeAllMenus();
+      disableHeaderHideUntilScrollEnd();
+
+      e.preventDefault();
+      e.stopPropagation();
+
+      if (onHome) {
+        scrollToSection(hash);
+        console.log(`[SCROLL LOG] history.replaceState with hash='${hash}'`);
+        history.replaceState(null, '', hash);
+      } else {
+        console.log("[SCROLL LOG] PJAX-load home with scrollToHash");
+        loadPageViaAjax('/', { replaceState: false, scrollToHash: hash });
+      }
+    });
+  });
+}
 
 
 /**
@@ -491,9 +682,6 @@ function initPjaxNavigation() {
 
 
 
-/**
- * Loader side via AJAX med content-udskiftning og history.
- */
 /**
  * Loader side via AJAX med content-udskiftning og history.
  */
