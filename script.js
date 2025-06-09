@@ -651,23 +651,32 @@ function loadHeaderFooter() {
 /**
  * Initialiserer PJAX navigation for interne links.
  */
+/**
+ * Initialiserer PJAX navigation for interne links.
+ * Nyt näyttää loaderin sekä linkkiklikissä että popstate-tapahtumassa.
+ */
 function initPjaxNavigation() {
   document.body.addEventListener('click', e => {
     const link = e.target.closest('a');
     if (!link) return;
 
-    // vain omalta domainilta, ei ankkuri- eikä submenu-linkkejä
     const href = link.getAttribute('href');
-    if (!href || link.origin !== location.origin || href.startsWith('#') || link.hasAttribute('data-submenu')) {
+    if (!href
+      || link.origin !== location.origin
+      || href.startsWith('#')
+      || link.hasAttribute('data-submenu')
+    ) {
       return;
     }
 
     const urlObj = new URL(link.href);
     const path = urlObj.pathname;
+
     // HTML-tiedostot ja kansiot (ml. "/"-etupalvelu)
     if (path.endsWith('.html') || path.endsWith('/')) {
       e.preventDefault();
       closeAllMenus();
+      showLoader();  // ← Näytetään loader ennen AJAX-kutsua
       console.log("[PJAX] Navigating to", link.href);
       loadPageViaAjax(link.href, { replaceState: false });
     }
@@ -676,21 +685,31 @@ function initPjaxNavigation() {
   // back/forward -napit
   window.addEventListener('popstate', () => {
     console.log("[PJAX] popstate, loading", location.pathname);
+    showLoader();  // ← Ja täälläkin
     loadPageViaAjax(location.pathname, { replaceState: true });
   });
 }
 
 
 
+
 /**
  * Loader side via AJAX med content-udskiftning og history.
  */
+/**
+ * Lataa sivun AJAXilla, korvaa #content ja päivittää historyn.
+ * Näyttää loaderin ennen kutsua ja piilottaa sen lopuksi.
+ */
 function loadPageViaAjax(url, options = {}) {
+  showLoader();                                // ← Näytetään loader heti
   document.documentElement.classList.add('ajax-loading');
   console.log("[PJAX] Loading page via AJAX", url);
 
   fetch(url)
-    .then(r => { if (!r.ok) throw new Error('Ajax load: ' + r.status); return r.text(); })
+    .then(r => {
+      if (!r.ok) throw new Error('Ajax load: ' + r.status);
+      return r.text();
+    })
     .then(htmlText => {
       const doc = new DOMParser().parseFromString(htmlText, 'text/html');
       const newContentEl = doc.getElementById('content') || doc.querySelector('main');
@@ -740,10 +759,9 @@ function loadPageViaAjax(url, options = {}) {
     .catch(err => console.error('[PJAX] error:', err))
     .finally(() => {
       document.documentElement.classList.remove('ajax-loading');
-      console.log("[PJAX] ajax-loading class removed");
+      hideLoader();  // ← Piilotetaan loader lopuksi
+      console.log("[PJAX] ajax-loading class removed and loader hidden");
     });
-
-  updateActiveNavLink();
 }
 
 

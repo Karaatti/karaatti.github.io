@@ -466,6 +466,7 @@ input[type="submit"]:hover {
 
 #scroll-btn:hover {
   opacity: 1;
+  box-shadow: var(--box-shadow-default);
 }
 
 #promo {
@@ -808,7 +809,6 @@ main h1 {
 }
 
 main img {
-  margin: 0 auto 2rem auto;
   border-radius: var(--border-radius);
 }
 
@@ -1268,7 +1268,7 @@ html.ajax-loading #site-footer {
 
 .dropdown-menu button {
   width: 95%;
-  box-shadow: var(--box-shadow-special);
+  box-shadow: var(--box-shadow-default);
 }
 
 .category-icon {
