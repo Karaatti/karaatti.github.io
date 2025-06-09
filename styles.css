@@ -1,4 +1,20 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+@font-face {
+  font-family: 'Vegur-Bold';
+  src: url('.../fonts/Vegur-Bold.otf') format('woff2'),
+       url('../fonts/Vegur-Bold.otf')  format('woff'),
+       url('../fonts/Vegur-Bold.otf')   format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;      /* tukee koko painohaarukkaa */
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;        /* parantaa latauskokemusta */
+}
 
 /* ==================================================================
    VARIABLES (ROOT)
@@ -26,7 +42,8 @@
 
   /* ========== SPACING & SIZING ========== */
   --header-height: 3rem;
-  --scroll-margin: 0.1rem;    /* ekstra-tila headerin alapuolelle */
+  --scroll-margin: 0.1rem;
+  /* ekstra-tila headerin alapuolelle */
   --spacing-base: 1rem;
   --section-padding-vertical: 2rem;
   --section-padding-horizontal: 1rem;
@@ -39,8 +56,9 @@
   /* blur amount */
 
   /* ========== TYPOGRAPHY ========== */
-  --font-base: "Montserrat", sans-serif;
-  --font-heading: "prenton", sans-serif;
+  --font-base: "Montserrat";
+  /*  --font-heading: "prenton", sans-serif; */
+  --font-heading: "Vegur-Bold";
 
   /* ========== SHADOWS & BORDERS ========== */
   --box-shadow-default: 0 2px 6px rgba(0, 0, 0, 0.2);
@@ -286,7 +304,7 @@ input[type="submit"]:hover {
   position: absolute;
   inset: 0;
   /* halutessasi himmennys-tummaus / läpikuultava pinta */
-  background: rgba(255, 255, 255, 0.001);
+  background: rgba(255, 255, 255, 0.5);
   -webkit-backdrop-filter: blur(var(--blur-strength));
   backdrop-filter: blur(var(--blur-strength));
   pointer-events: none;
@@ -1292,6 +1310,7 @@ html.ajax-loading #site-footer {
 .collection-btn:focus {
   outline: none;
 }
+
 #loader {
   position: fixed;
   top: 0;
@@ -1306,4 +1325,24 @@ html.ajax-loading #site-footer {
   z-index: 9999;
   font-family: var(--font-base);
   font-size: 1.25rem;
+}
+
+/* Poistetaan oletus-outline, jotta ei tule kahta rajausta päällekkäin */
+:focus {
+  outline: none !important;
+}
+
+/* Käytetään sekä keyboard– että touch–aktivointiin */
+.collection-btn:focus,
+.collection-btn:active {
+  /* 2 px ulkopuolinen "rajaus" olive green -sävyllä */
+  box-shadow: 0 0 0 2px var(--color-olive-green) !important;
+  background-color: var(--color-olive-green-dark) !important;
+}
+
+/* Jos haluat rajauksen pelkästään kosketuslaitteissa (tablet/mobile) */
+@media (hover: none) and (pointer: coarse) {
+  .collection-btn:active {
+    box-shadow: 0 0 0 2px var(--color-olive-green) !important;
+  }
 }
