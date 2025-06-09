@@ -1,15 +1,15 @@
 @font-face {
   font-family: 'Vegur-Bold';
-  src: url('.../fonts/Vegur-Bold.otf') format('woff2'),
-       url('../fonts/Vegur-Bold.otf')  format('woff'),
-       url('../fonts/Vegur-Bold.otf')   format('truetype');
+  src: url('/fonts/Vegur-Bold.otf') format('woff2'),
+       url('/fonts/Vegur-Bold.otf')  format('woff'),
+       url('/fonts/Vegur-Bold.otf')   format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Montserrat';
-  src: url('../fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
+  src: url('/fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
   font-weight: 100 900;      /* tukee koko painohaarukkaa */
   font-weight: bold;
   font-style: normal;
