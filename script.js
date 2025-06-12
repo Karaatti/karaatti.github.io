@@ -95,7 +95,8 @@ let menuNavInProgress = false;
 /**
  * Initialiserer header, footer og navigation ved DOMContentLoaded.
  */
-document.addEventListener("DOMContentLoaded", function () {
+// 1) Alkuperäinen sivulataus: scrollataan heti hashin mukaan
+document.addEventListener("DOMContentLoaded", () => {
   console.log("[INIT] DOMContentLoaded");
   document.documentElement.classList.add('ajax-loading');
   loadHeaderFooter()
@@ -103,6 +104,16 @@ document.addEventListener("DOMContentLoaded", function () {
       console.log("[INIT] Header/Footer loaded");
       initCollectionLoader('.collection-btn', '#collection-content');
       initPjaxNavigation();
+
+      // —————— Tässä lisäys: heti kun header/footer on paikallaan,
+      // jos URL:ssä on hash, rullataan siihen kohtaan
+      const hash = window.location.hash;
+      if (hash && hash !== "#") {
+        // requestAnimationFrame varmistaa, että CSS-muuttujat ja layout ovat valmiina
+        requestAnimationFrame(() => {
+          scrollToSection(hash);
+        });
+      }
     })
     .catch(err => console.error('[INIT] Header/Footer load failed:', err))
     .finally(() => {
@@ -268,26 +279,30 @@ function initDropdowns() {
           attachMenuHandlers(currentMenu);
         });
       }
+
       // Submenu-linkit
       currentMenu.querySelectorAll('a[data-submenu]').forEach(link => {
         link.addEventListener('click', async e => {
           e.preventDefault();
           e.stopPropagation();
 
-          // tallenna nykyinen näkymä pinoon
           stack.push({ html: currentMenu.innerHTML });
-
-          // näytä lataus
           currentMenu.innerHTML = '<li class="loading">Loading…</li>';
+
           try {
-            const url = link.getAttribute('data-submenu') + 'items.json';
-            const res = await fetch(url);
+            // Perustiedot
+            const rel = link.getAttribute('data-submenu');
+            const submenuUrl = new URL(rel, window.location.href).href;
+            const baseUrl = submenuUrl.endsWith('/') ? submenuUrl : submenuUrl + '/';
+            const itemsUrl = baseUrl + 'items.json';
+
+            // Haetaan alikategorian items.json
+            const res = await fetch(itemsUrl);
             if (!res.ok) throw new Error(res.statusText);
             const items = await res.json();
 
-            // rakenna takaisin-napin otsikko käyttäen linkin tekstiä
+            // Rakennetaan takaisin-nappi
             const title = link.textContent.trim().toUpperCase();
-
             const backHtml = `
               <li class="back">
                 <button type="button" class="dropdown-back">
@@ -295,16 +310,61 @@ function initDropdowns() {
                 </button>
               </li>`;
 
-            // listaa kansiot ja tiedostot
-            const itemsHtml = items
-              .filter(i => i.type === 'dir' || i.href.endsWith('.html'))
-              .map(i => {
-                const attrs = i.type === 'dir' ? `data-submenu="${i.href}"` : '';
-                return `<li><a href="${i.href}" ${attrs}>${i.name}</a></li>`;
-              })
-              .join('');
+            // Erotellaan kansiot ja tiedostot
+            const dirItems  = items.filter(i => i.type === 'dir');
+            const fileItems = items.filter(i => i.href.endsWith('.html'));
 
-            currentMenu.innerHTML = backHtml + itemsHtml;
+            // Rakennetaan HTML
+            let html = backHtml;
+
+            // Kansiot: harmauta vain jos items.json on kokonaan tyhjä
+            await Promise.all(dirItems.map(async dir => {
+              // Tarkista, onko kansiossa yhtään alielementtiä
+              const dirUrl   = new URL(dir.href, baseUrl).href;
+              const dirJson  = (dirUrl.endsWith('/') ? dirUrl : dirUrl + '/') + 'items.json';
+              let childItems = [];
+              try {
+                const dres = await fetch(dirJson);
+                if (dres.ok) childItems = await dres.json();
+              } catch (_) { /* jos virhe, childItems jää tyhjäksi */ }
+
+              if (childItems.length === 0) {
+                // tyhjä kansio: harmaa ja pois käytöstä
+                html += `<li>
+                           <a href="${dir.href}"
+                              class="disabled"
+                              style="opacity:0.5; pointer-events:none;">
+                             ${dir.name}
+                           </a>
+                         </li>`;
+              } else {
+                html += `<li>
+                           <a href="${dir.href}" data-submenu="${dir.href}">
+                             ${dir.name}
+                           </a>
+                         </li>`;
+              }
+            }));
+
+            // Tiedostot: aina näkyviin
+            fileItems.forEach(file => {
+              html += `<li>
+                         <a href="${file.href}">
+                           ${file.name}
+                         </a>
+                       </li>`;
+            });
+
+            // “Show all” -button
+            html += `
+              <li class="show-all">
+                <button type="button" class="dropdown-back"
+                        onclick="window.location.href='${submenuUrl}'">
+                  SHOW ALL
+                </button>
+              </li>`;
+
+            currentMenu.innerHTML = html;
             attachMenuHandlers(currentMenu);
           } catch (err) {
             console.error('[DROPDOWN JSON] error:', err);
@@ -726,8 +786,11 @@ function initPjaxNavigation() {
  * Lataa sivun AJAXilla, korvaa #content ja päivittää historyn.
  * Näyttää loaderin ennen kutsua ja piilottaa sen lopuksi.
  */
+/**
+ * PJAX-lataus funktio, jossa scroll-to-hash
+ */
 function loadPageViaAjax(url, options = {}) {
-  showLoader();                                // ← Näytetään loader heti
+  showLoader();
   document.documentElement.classList.add('ajax-loading');
   console.log("[PJAX] Loading page via AJAX", url);
 
@@ -737,46 +800,28 @@ function loadPageViaAjax(url, options = {}) {
       return r.text();
     })
     .then(htmlText => {
+      // 1) Parsitaan ja korvataan #content
       const doc = new DOMParser().parseFromString(htmlText, 'text/html');
-      const newContentEl = doc.getElementById('content') || doc.querySelector('main');
-      if (!newContentEl) throw new Error('No content element found in ' + url);
-      newContentEl.id = 'content';
+      const newContent = doc.getElementById('content') || doc.querySelector('main');
+      if (!newContent) throw new Error('No content element found in ' + url);
+      newContent.id = 'content';
+      document.getElementById('content').replaceWith(newContent);
 
-      const currentEl = document.getElementById('content') || document.querySelector('main');
-      currentEl.replaceWith(newContentEl);
-      // Korjaa mahdolliset suhteelliset kuvat myös yksittäisillä tuote­sivuilla
-      newContentEl.querySelectorAll('img[src]').forEach(img => {
+      // 2) Korjataan kuvien polut, päivitetään title
+      newContent.querySelectorAll('img[src]').forEach(img => {
         img.src = resolveToAbsolute(img.getAttribute('src'), url);
       });
-      const newTitle = doc.querySelector('title');
-      if (newTitle) document.title = newTitle.textContent;
+      const t = doc.querySelector('title');
+      if (t) document.title = t.textContent;
 
-      const finalUrl = options.scrollToHash != null ? url + options.scrollToHash : url;
-      if (options.replaceState) history.replaceState({}, '', finalUrl);
-      else history.pushState({}, '', finalUrl);
-
-      // Scroll-to-hash tai scroll-to-top
-      if (!options.scrollToHash) {
-        const header = document.getElementById('site-header');
-        disableHeaderHideUntilScrollEnd();
-        window.scrollTo({ top: 0, behavior: 'instant' });
-        header?.classList.remove('header-hidden');
-      } else if (options.scrollToHash !== '#hero') {
-        const target = document.getElementById(options.scrollToHash.slice(1));
-        if (target) {
-          const header = document.getElementById('site-header');
-          const y = target.getBoundingClientRect().top + window.scrollY - (header ? header.offsetHeight : 0);
-          disableHeaderHideUntilScrollEnd();
-          setTimeout(() => {
-            window.scrollTo({ top: y, behavior: 'smooth' });
-            header?.classList.remove('header-hidden');
-          }, 50);
-        }
-      }
-
-      console.log("[PJAX] Page loaded via AJAX:", url);
+      // 3) Asetetaan history (push tai replace)
+      const hashPart = options.scrollToHash || "";
+      const finalUrl = url + hashPart;
+      if (options.replaceState) history.replaceState({}, "", finalUrl);
+      else history.pushState({}, "", finalUrl);
     })
     .then(() => {
+      // 4) Re-initialisoinnit
       console.log("[PJAX] Re-initializing content scripts");
       initCollectionLoader('.collection-btn', '#collection-content');
       initDynamicHash();
@@ -784,13 +829,24 @@ function loadPageViaAjax(url, options = {}) {
         loadItems();
       }
     })
-    .catch(err => console.error('[PJAX] error:', err))
-    .finally(() => {
-      document.documentElement.classList.remove('ajax-loading');
+    .then(() => {
+      // 5) Poistetaan scroll-lock ja tehdään scroll
       hideLoader();
-      console.log("[PJAX] ajax-loading class removed and loader hidden");
-    });
+      document.documentElement.classList.remove('ajax-loading');
+      document.body.classList.remove('no-scroll');
+      document.body.style.top = "";
+
+      const hash = options.scrollToHash || window.location.hash;
+      if (hash && hash !== "#") {
+        // pientä viivettä, että uusi sisältö renderöityy
+        setTimeout(() => scrollToSection(hash), 0);
+      } else {
+        window.scrollTo({ top: 0, behavior: 'instant' });
+      }
+    })
+    .catch(err => console.error('[PJAX] error:', err));
 }
+
 
 
 /**

@@ -3,5 +3,10 @@
     "name": "headboards",
     "href": "/products/bedroom-furniture/headboards/",
     "type": "dir"
+  },
+  {
+    "name": "nightstands",
+    "href": "/products/bedroom-furniture/nightstands/",
+    "type": "dir"
   }
 ]

@@ -1,17 +1,12 @@
 [
   {
-    "name": "pillows",
-    "href": "/products/pillows-duvets/pillows/",
-    "type": "dir"
-  },
-  {
     "name": "duvets",
     "href": "/products/pillows-duvets/duvets/",
     "type": "dir"
   },
   {
-    "name": "sets",
-    "href": "/products/pillows-duvets/sets/",
+    "name": "pillows",
+    "href": "/products/pillows-duvets/pillows/",
     "type": "dir"
   }
 ]

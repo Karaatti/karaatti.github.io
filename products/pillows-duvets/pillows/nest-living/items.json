@@ -1,10 +1,5 @@
 [
   {
-    "name": "201089",
-    "href": "/products/pillows-duvets/pillows/nest-living/201089.html",
-    "type": "file"
-  },
-  {
     "name": "bronze",
     "href": "/products/pillows-duvets/pillows/nest-living/bronze/",
     "type": "dir"
@@ -18,5 +13,10 @@
     "name": "silver",
     "href": "/products/pillows-duvets/pillows/nest-living/silver/",
     "type": "dir"
+  },
+  {
+    "name": "201089",
+    "href": "/products/pillows-duvets/pillows/nest-living/201089.html",
+    "type": "file"
   }
 ]
