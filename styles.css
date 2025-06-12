@@ -1351,3 +1351,18 @@ html.ajax-loading #site-footer {
     box-shadow: 0 0 0 2px var(--color-olive-green) !important;
   }
 }
+
+.resize-handle {
+    position: fixed;
+    background: transparent;
+    z-index: 99;
+}
+.handle-right {
+    top: 0; right: 0; width: 8px; height: 100vh; cursor: ew-resize;
+}
+.handle-bottom {
+    left: 0; bottom: 0; width: 100vw; height: 8px; cursor: ns-resize;
+}
+.handle-corner {
+    right: 0; bottom: 0; width: 18px; height: 18px; cursor: nwse-resize;
+}

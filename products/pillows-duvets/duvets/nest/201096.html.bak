@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="201096" name="nimiketunnus"/>
+  <title>
+   NEST &amp; LIVING GOLD PEITE 150X200 &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/pillows-duvets/">
+     pillows duvets
+    </a>
+    /
+    <a href="/products/pillows-duvets/duvets/">
+     duvets
+    </a>
+    /
+    <a href="/products/pillows-duvets/duvets/nest/">
+     nest
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Nest &amp; Living Gold peitto 150x200 cm
+      </h1>
+      <p class="sku">
+       201096
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/9c1e10dd-95d7-47b9-85b8-a3e804918b7d-201096_NEST_LIVING_GOLD_PEITE_150X200_1.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/5a25ea7c-eb2c-4381-ab63-15cdf444d5b0-201096_NEST_LIVING_GOLD_PEITE_150X200+(1).jpg"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+        <tr>
+         <th>
+          Koko
+         </th>
+         <td>
+          150 &times; 200
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/201096-nest-living-gold-peitto-150x200-cm" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/201096-nest-living-gold-peitto-150x200-cm
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

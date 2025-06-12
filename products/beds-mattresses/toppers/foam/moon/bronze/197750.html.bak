@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="197750" name="nimiketunnus"/>
+  <title>
+   MOON BRONZE BASIC PETAUSPATJA 90X200X5 CM (CZN10689) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/beds-mattresses/">
+     beds mattresses
+    </a>
+    /
+    <a href="/products/beds-mattresses/toppers/">
+     toppers
+    </a>
+    /
+    <a href="/products/beds-mattresses/toppers/foam/">
+     foam
+    </a>
+    /
+    <a href="/products/beds-mattresses/toppers/foam/moon/">
+     moon
+    </a>
+    /
+    <a href="/products/beds-mattresses/toppers/foam/moon/bronze/">
+     bronze
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Moon Bronze Basic petauspatja 90x200x5cm
+      </h1>
+      <p class="sku">
+       197750
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/294d4557-975f-465d-993b-00d2e52d2ddb-173917_Rento_petauspatja_80x200x5_cm_2+(1).jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/54134251-f31c-44e2-b03e-2fbaf317bebb-173917_Rento_petauspatja_80x200x5_cm_1+(1).jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/0b50dba0-4346-4c58-85d3-f122a4ef8936-173917_Rento_petauspatja_80x200x5_cm+(1).jpg"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+        <tr>
+         <th>
+          Koko
+         </th>
+         <td>
+          90 &times; 200
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/197750-moon-bronze-basic-petauspatja-90x200x5cm" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/197750-moon-bronze-basic-petauspatja-90x200x5cm
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

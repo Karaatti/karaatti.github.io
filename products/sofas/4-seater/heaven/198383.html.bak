@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="198383" name="nimiketunnus"/>
+  <title>
+   HEAVEN 4-IST. DIVAANISOHVA (VAIHDETTAVA K&Auml;TISYYS) HARMAA (62170-105) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/sofas/">
+     sofas
+    </a>
+    /
+    <a href="/products/sofas/4-seater/">
+     4 seater
+    </a>
+    /
+    <a href="/products/sofas/4-seater/heaven/">
+     heaven
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Heaven divaanisohva harmaa (k&auml;tisyys vaihdettavissa)
+      </h1>
+      <p class="sku">
+       198383
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/3c0e72fe-2c6f-4237-9ef3-c515595c3629-198383_HEAVEN_4_IST_DIVAANISOHVA_VAIHDETTAVA_KATISYYS_HARMAA_2.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/b42e6812-0330-46b5-838b-fcab095bca7f-198383_Heaven_4_ist_divaanisohva_vaihdettava_katisyys_harmaa_fiilis_12.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/e6298613-7715-4223-b8a5-02043143ee3b-198383_HEAVEN_4_IST_DIVAANISOHVA_VAIHDETTAVA_KATISYYS_HARMAA_3.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/f5178e2d-9fa3-41eb-9dbb-0d2b1dbbf329-198383_Heaven_4_ist_divaanisohva_vaihdettava_katisyys_harmaa_fiilis_11.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/900b943d-d02d-454c-9b6d-8545bee533ba-198383_Heaven_4_ist_divaanisohva_vaihdettava_katisyys_harmaa_fiilis_6.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/9949fa89-f4d1-4fbf-8019-5c894c9b227f-198383_Heaven_4_ist_divaanisohva_vaihdettava_katisyys_harmaa_fiilis_4.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/a0618b65-0f52-4835-b10e-d09f945c923a-198383_Heaven_4_ist_divaanisohva_vaihdettava_katisyys_harmaa.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/7640adae-6383-464f-8eb0-ddaf58bf3410-198383_Heaven_4_ist_divaanisohva_vaihdettava_katisyys_harmaa_fiilis_8.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/85eb1ad7-1bc3-4ff1-b574-a67af6b1ffa4-198383_HEAVEN_4_IST_DIVAANISOHVA_VAIHDETTAVA_KATISYYS_HARMAA_FIILIS.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/f9e2a5c7-4925-427a-a1df-8e9973925fbb-198383_HEAVEN_4_IST_DIVAANISOHVA_VAIHDETTAVA_KATISYYS_HARMAA_.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/41992178-d4bc-409c-840c-dc22fbb9091c-198383_Heaven_4_ist_divaanisohva_vaihdettava_katisyys_harmaa_fiilis_3.jpg"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+        <tr>
+         <th>
+          V&auml;ri
+         </th>
+         <td>
+          Harmaa
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/198383-heaven-divaanisohva-harmaa-katisyys-vaihdettavissa" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/198383-heaven-divaanisohva-harmaa-katisyys-vaihdettavissa
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

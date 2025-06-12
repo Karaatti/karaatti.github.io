@@ -1,4 +1,4 @@
-// 1) Näyttöfunktio: luo loaderin tarvittaessa, lisää luokat ja käynnistää fade-inin
+// Näyttöfunktio: luo loaderin tarvittaessa, lisää luokat ja käynnistää fade-inin
 function showLoader() {
   let loader = document.getElementById('loader');
   if (!loader) {
@@ -23,7 +23,7 @@ function showLoader() {
   });
 }
 
-// 2) Piilotusfunktio: fade-out ja luokkien poisto
+// Piilotusfunktio: fade-out ja luokkien poisto
 function hideLoader() {
   const loader = document.getElementById('loader');
   if (!loader) return;
@@ -51,6 +51,13 @@ function watchLogo(img) {
   }
 }
 
+function resolveToAbsolute(rel, base) {
+  try {                // URL-olio hoitaa kaikki “../” yms.
+    return new URL(rel, base).href;
+  } catch (_) {
+    return rel;        // Jos parametrit olivat jo absoluuttisia
+  }
+}
 /**
  * Käynnistää loaderin näyttämisen ja odottaa logon latautumista.
  */
@@ -530,9 +537,6 @@ function scrollToSection(hash) {
 
 /**
  * Kiinnittää headerin linkeille smooth-scroll-käyttäytymisen ja lokit.
- */
-/**
- * Kiinnittää headerin linkeille smooth-scroll-käyttäytymisen ja lokit.
  * Varmistaa, että scroll-lock vapautetaan ennen rullausta.
  */
 function initHeaderScrollHandlers() {
@@ -740,7 +744,10 @@ function loadPageViaAjax(url, options = {}) {
 
       const currentEl = document.getElementById('content') || document.querySelector('main');
       currentEl.replaceWith(newContentEl);
-
+      // Korjaa mahdolliset suhteelliset kuvat myös yksittäisillä tuote­sivuilla
+      newContentEl.querySelectorAll('img[src]').forEach(img => {
+        img.src = resolveToAbsolute(img.getAttribute('src'), url);
+      });
       const newTitle = doc.querySelector('title');
       if (newTitle) document.title = newTitle.textContent;
 
@@ -770,7 +777,6 @@ function loadPageViaAjax(url, options = {}) {
       console.log("[PJAX] Page loaded via AJAX:", url);
     })
     .then(() => {
-      // Uudelleenkäynnistä sisällön skriptit
       console.log("[PJAX] Re-initializing content scripts");
       initCollectionLoader('.collection-btn', '#collection-content');
       initDynamicHash();
@@ -781,7 +787,7 @@ function loadPageViaAjax(url, options = {}) {
     .catch(err => console.error('[PJAX] error:', err))
     .finally(() => {
       document.documentElement.classList.remove('ajax-loading');
-      hideLoader();  // ← Piilotetaan loader lopuksi
+      hideLoader();
       console.log("[PJAX] ajax-loading class removed and loader hidden");
     });
 }
@@ -871,30 +877,54 @@ function initCollectionLoader(buttonSelector, targetSelector) {
 /**
  * Loader og gengiver items baseret på items.json.
  */
+/**
+ * Loader ja renderöi items.jsonin sisällön.
+ * – Kääntää sekä linkit että kuvat absoluuttisiksi poluiksi,
+ *   jotta AJAX-navigointi alikansioihin ei enää riko kuvia.
+ */
 function loadItems() {
+  // 1) Missä items.json sijaitsee?
   let path = window.location.pathname;
-  if (path.endsWith('.html')) path = path.substring(0, path.lastIndexOf('/') + 1);
-  else if (!path.endsWith('/')) path += '/';
+  if (path.endsWith('.html'))      path = path.slice(0, path.lastIndexOf('/') + 1);
+  else if (!path.endsWith('/'))    path += '/';
+
   const jsonUrl = path + 'items.json';
+  const baseUrl = jsonUrl.slice(0, jsonUrl.lastIndexOf('/') + 1); // "/…/kategoria/"
+
   fetch(jsonUrl)
     .then(res => { if (!res.ok) throw new Error(res.status); return res.json(); })
     .then(items => {
       const container = document.getElementById('items-container');
       if (!container) return;
       container.innerHTML = '';
+
       items.forEach(item => {
         const card = document.createElement('div');
         card.classList.add('item-card', item.type === 'dir' ? 'item-dir' : 'item-file');
+
+        // 2) Linkki
         const link = document.createElement('a');
-        link.href = item.href;
+        link.href = resolveToAbsolute(item.href, baseUrl);
         link.textContent = item.name;
         card.appendChild(link);
+
+        // 3) Kuva (valinnainen)
+        if (item.image) {
+          const img = document.createElement('img');
+          img.loading = 'lazy';
+          img.alt = item.name;
+          img.src = resolveToAbsolute(item.image, baseUrl);
+          card.prepend(img);
+        }
+
         container.appendChild(card);
       });
-      console.log("[ITEMS] Loaded items.json and rendered items");
+
+      console.log("[ITEMS] Loaded items.json, fixed paths & rendered");
     })
     .catch(err => console.error('[ITEMS] items load error', err));
 }
+
 document.addEventListener('DOMContentLoaded', () => {
   const c = document.getElementById('items-container');
   if (c && window.initialItemsJson) loadItems();

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="198066" name="nimiketunnus"/>
+  <title>
+   ISLET RUOKAP&Ouml;YT&Auml; PY&Ouml;RE&Auml; 120 CM (MDF/PAPERI) P&Auml;HKIN&Auml; (11834) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/tables/">
+     tables
+    </a>
+    /
+    <a href="/products/tables/round-dining-tables/">
+     round dining tables
+    </a>
+    /
+    <a href="/products/tables/round-dining-tables/islet/">
+     islet
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Islet ruokap&ouml;yt&auml; py&ouml;re&auml; 120 cm p&auml;hkin&auml;
+      </h1>
+      <p class="sku">
+       198066
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198066_ISLET_RUOKAPOYTA_PYOREA_120_CM_PAHKINA_FIILIS.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198066_ISLET_RUOKAPOYTA_PYOREA_120_CM_PAHKINA_FIILIS_1.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198066_ISLET_RUOKAPOYTA_PYOREA_120_CM_PAHKINA_2.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198066_ISLET_RUOKAPOYTA_PYOREA_120_CM_PAHKINA_1.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198066_ISLET_RUOKAPOYTA_PYOREA_120_CM_PAHKINA_FIILIS_MITTAKUVA.jpg"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/198066-islet-ruokapoyta-pyorea-120-cm-pahkina" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/198066-islet-ruokapoyta-pyorea-120-cm-pahkina
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

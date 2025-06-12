@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="200737" name="nimiketunnus"/>
+  <title>
+   NIELA RUOKATUOLI, SMOKED TAMMI / HEVRA 22 BEIGE KANGAS (12334) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/seating/">
+     seating
+    </a>
+    /
+    <a href="/products/seating/upholstered-wood-dining-chairs/">
+     upholstered wood dining chairs
+    </a>
+    /
+    <a href="/products/seating/upholstered-wood-dining-chairs/niela/">
+     niela
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Niela ruokap&ouml;yd&auml;n tuoli, smoked tammi / beige kangas
+      </h1>
+      <p class="sku">
+       200737
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/10b9b07b-43ed-43a0-9c6c-7839d87252b1-200737_NIELA_RUOKATUOLI_SMOKED_TAMMI_HEVRA_22_BEIGE_KANGAS_2.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/3f932902-3e0c-4d16-9cd6-029e11a5a62e-200737_NIELA_RUOKATUOLI_SMOKED_TAMMI_HEVRA_22_BEIGE_KANGAS.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/7e01e966-32d9-4e8a-a1f1-a3fb6808f3ad-200737_NIELA_RUOKATUOLI_SMOKED_TAMMI_HEVRA_22_BEIGE_KANGAS_1.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/1ca28f52-389c-4810-b2c8-afd373c9e399-200737_NIELA_RUOKATUOLI_SMOKED_TAMMI_HEVRA_22_BEIGE_KANGAS_3.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/174a2f85-e04e-4ed4-97d4-b98372bb2776-200737_NIELA_RUOKATUOLI_SMOKED_TAMMI_HEVRA_22_BEIGE_KANGAS_4.jpg"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+        <tr>
+         <th>
+          V&auml;ri
+         </th>
+         <td>
+          Beige
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/200737-niela-ruokapoydan-tuoli-smoked-tammi-beige-kangas" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/200737-niela-ruokapoydan-tuoli-smoked-tammi-beige-kangas
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

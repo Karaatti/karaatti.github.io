@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="197823" name="nimiketunnus"/>
+  <title>
+   MOON GOLD P&Auml;&Auml;TY 180CM (NAPIT 5 RIVI&Auml;), PRIMO 96 ANTRASIITTI (PRD06500) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/bedroom-furniture/">
+     bedroom furniture
+    </a>
+    /
+    <a href="/products/bedroom-furniture/headboards/">
+     headboards
+    </a>
+    /
+    <a href="/products/bedroom-furniture/headboards/moon/">
+     moon
+    </a>
+    /
+    <a href="/products/bedroom-furniture/headboards/moon/gold/">
+     gold
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Moon Gold p&auml;&auml;ty 180cm, Primo 96 antrasiitti
+      </h1>
+      <p class="sku">
+       197823
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/c3fedd01-6845-4050-86ac-492f394e7ba0-Primo+Beige.JPG"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/042edf4c-099f-4922-8de6-22e070ba422e-Primo+Vaaleanharmaa.JPG"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/f38fbb76-4bb5-4951-b0b2-d2565bac2257-197822_MOON_GOLD_PAATY_160CM_NAPIT_5_RIVIA_PRIMO_96_ANTRASIITTI.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/a3a2f5bb-0020-4564-a654-ec2c561170d6-Primo+Antrasiitti.JPG"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+        <tr>
+         <th>
+          Valitse verhoilu
+         </th>
+         <td>
+          Primo Antrasiitti
+         </td>
+        </tr>
+        <tr>
+         <th>
+          S&auml;ngynp&auml;&auml;ty
+         </th>
+         <td>
+          Moon Gold p&auml;&auml;ty, napit viidess&auml; riviss&auml;
+         </td>
+        </tr>
+        <tr>
+         <th>
+          Materiaali
+         </th>
+         <td>
+          Primo 96
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/197823-moon-gold-paaty-180cm-primo-96-antrasiitti" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/197823-moon-gold-paaty-180cm-primo-96-antrasiitti
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

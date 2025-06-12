@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="198102" name="nimiketunnus"/>
+  <title>
+   SWAN KEINUTUOLI, NATURAL RUNKO / RUSKEA KANGAS (11918) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/seating/">
+     seating
+    </a>
+    /
+    <a href="/products/seating/fixed-armchairs/">
+     fixed armchairs
+    </a>
+    /
+    <a href="/products/seating/fixed-armchairs/swan/">
+     swan
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Swan keinutuoli, natural kumipuu runko / ruskea kangas
+      </h1>
+      <p class="sku">
+       198102
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198102_SWAN_KEINUTUOLI_MITTAKUVA_NATURAL_RUNKO_RUSKEA_KANGAS.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198102_SWAN_KEINUTUOLI_NATURAL_RUNKO_RUSKEA_KANGAS_2.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198102_SWAN_KEINUTUOLI_NATURAL_RUNKO_RUSKEA_KANGAS_1.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198102_SWAN_KEINUTUOLI_NATURAL_RUNKO_RUSKEA_KANGAS_3.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198102_SWAN_KEINUTUOLI_NATURAL_RUNKO_RUSKEA_KANGAS.jpg"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+       Swan-keinutuoli on tyylik&auml;s ja moderni lis&auml; mihin tahansa tilaan. Valmistettu kest&auml;v&auml;st&auml; luonnollisesta kumipuusta, vaaleanruskea s&auml;vy korostaa puun kauniita s&auml;vyj&auml;. Muhkeat ruskeat tyynyt tarjoavat optimaalista mukavuutta, ja leve&auml;t jalat takaavat vakaan keinumisen. Sopii erinomaisesti olohuoneeseen tai terassiisi.
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/198102-swan-keinutuoli-natural-kumipuu-runko-ruskea-kangas" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/198102-swan-keinutuoli-natural-kumipuu-runko-ruskea-kangas
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>
