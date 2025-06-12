@@ -49,8 +49,8 @@
       </p>
      </header>
      <section class="product-gallery">
-      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/e3d9d3e6-ceec-4930-85b3-ddd2ce5c465a-165286_Sense_petauspatja_80x200_cm.jpg"/>
       <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/f42d946a-de98-4d63-a6c5-a7a5a4b337e1-165286_Sense_petauspatja_80x200_cm.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/e3d9d3e6-ceec-4930-85b3-ddd2ce5c465a-165286_Sense_petauspatja_80x200_cm.jpg"/>
      </section>
      <section>
       <h2>

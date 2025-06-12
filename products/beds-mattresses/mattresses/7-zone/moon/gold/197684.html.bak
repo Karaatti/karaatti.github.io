@@ -49,9 +49,9 @@
       </p>
      </header>
      <section class="product-gallery">
-      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/63a0bc39-34ca-4918-a04a-be9700df2ef6-192652_RAIKAS_JOUSTINPATJA_POCKET_80X200_CM_LUNA_21_BEIGE+(1).jpg"/>
-      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/c3fedd01-6845-4050-86ac-492f394e7ba0-Primo+Beige.JPG"/>
       <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/b7a55719-dc07-4194-8fc6-f26ff07bb484-192652_RAIKAS_JOUSTINPATJA_POCKET_80X200_CM_LUNA_21_BEIGE+(1).jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/c3fedd01-6845-4050-86ac-492f394e7ba0-Primo+Beige.JPG"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/63a0bc39-34ca-4918-a04a-be9700df2ef6-192652_RAIKAS_JOUSTINPATJA_POCKET_80X200_CM_LUNA_21_BEIGE+(1).jpg"/>
       <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/90a31a2b-75a3-44e4-a934-b08019deb18d-pussijousi.jpg"/>
      </section>
      <section>

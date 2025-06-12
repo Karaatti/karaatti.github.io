@@ -1,12 +1,12 @@
 [
   {
-    "name": "foam",
-    "href": "/products/beds-mattresses/toppers/foam/",
+    "name": "memory-foam",
+    "href": "/products/beds-mattresses/toppers/memory-foam/",
     "type": "dir"
   },
   {
-    "name": "memory-foam",
-    "href": "/products/beds-mattresses/toppers/memory-foam/",
+    "name": "foam",
+    "href": "/products/beds-mattresses/toppers/foam/",
     "type": "dir"
   },
   {

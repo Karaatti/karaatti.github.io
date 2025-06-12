@@ -49,9 +49,9 @@
       </p>
      </header>
      <section class="product-gallery">
-      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/65a3d6c9-4ccd-42f5-9ad2-4f063b9095b9-192640_RYHTI_JOUSTINPATJA_POCKET_80X200_CM_MALMO_95_HARMAA+(1).jpg"/>
-      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/1521bd79-63a5-4ee8-a5ef-d6bc8139ae2f-Primo+96+Antrasiitti.JPG"/>
       <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/f4c5a615-213b-4fd2-a4f7-6fdad65de2c2-192640_RYHTI_JOUSTINPATJA_POCKET_80X200_CM_MALMO_95_HARMAA+(1).jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/1521bd79-63a5-4ee8-a5ef-d6bc8139ae2f-Primo+96+Antrasiitti.JPG"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/65a3d6c9-4ccd-42f5-9ad2-4f063b9095b9-192640_RYHTI_JOUSTINPATJA_POCKET_80X200_CM_MALMO_95_HARMAA+(1).jpg"/>
       <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/90a31a2b-75a3-44e4-a934-b08019deb18d-pussijousi.jpg"/>
      </section>
      <section>

@@ -34,107 +34,62 @@
      bronze
     </a>
    </nav>
-   <main aria-labelledby="product-title" id="product" role="main">
-    <!-- Produktets mikrodata -->
+   <main id="product" role="main">
     <article itemscope="" itemtype="https://schema.org/Product">
-     <!-- Brødkrumme navigation -->
-     <nav aria-label="Br&oslash;dkrummesti" class="breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList">
-      <ol>
-       <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
-        <a href="/" itemprop="item">
-         <span itemprop="name">
-          Forside
-         </span>
-        </a>
-        <meta content="1" itemprop="position"/>
-       </li>
-       <!-- … flere elementer genereres dynamisk … -->
-      </ol>
-     </nav>
-     <!-- Produktets titel og SKU -->
      <header>
-      <h1 id="product-title" itemprop="name">
-       [[NIMI]]
+      <h1 itemprop="name">
+       Moon Bronze p&auml;&auml;ty 180cm, Primo 96 antrasiitti
       </h1>
-      <p class="sku" itemprop="sku">
-       [[SKU]]
+      <p class="sku">
+       197793
       </p>
      </header>
-     <!-- Responsivt billedgalleri -->
-     <section aria-label="Produktbilleder" class="product-gallery">
-      <figure itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
-       <picture>
-        <source media="(min-width: 800px)" srcset="[[IMG_LARGE]] 2x, [[IMG_MED]] 1x"/>
-        <img alt="[[ALT_1]]" decoding="async" height="400" loading="lazy" src="[[IMG_SM]]" width="600"/>
-       </picture>
-       <meta content="[[IMG_LARGE]]" itemprop="url"/>
-       <meta content="800" itemprop="height"/>
-       <meta content="1200" itemprop="width"/>
-      </figure>
-      <!-- Yderligere <figure> tilføjes dynamisk -->
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="197793_1.jpg"/>
      </section>
-     <!-- Produktbeskrivelse -->
-     <section aria-label="Produktdetaljer" class="product-details">
+     <section>
       <h2>
-       Beskrivelse
+       Kuvaus
       </h2>
       <p itemprop="description">
-       [[DESCRIPTION]]
       </p>
+     </section>
+     <section>
       <h2>
-       Tekniske specifikationer
+       Tekniset tiedot
       </h2>
-      <table class="specs">
+      <table>
        <tbody>
         <tr>
          <th>
-          Materiale
+          Valitse verhoilu
          </th>
-         <td itemprop="material">
-          [[MATERIAL]]
+         <td>
+          Primo Antrasiitti
          </td>
         </tr>
         <tr>
          <th>
-          Farve
+          S&auml;ngynp&auml;&auml;ty
          </th>
          <td>
-          [[COLOR]]
+          Moon Bronze p&auml;&auml;ty sile&auml;
          </td>
         </tr>
-        <tr>
-         <th>
-          Bredde
-         </th>
-         <td>
-          [[WIDTH]]
-         </td>
-        </tr>
-        <!-- Flere rækker tilføjes efter behov -->
        </tbody>
       </table>
      </section>
-     <!-- Liste over forhandlere -->
-     <section aria-label="Forhandlere" class="retailers">
+     <section>
       <h2>
-       Find din n&aelig;rmeste forhandler
+       Forhandlere
       </h2>
       <ul>
        <li>
-        <a href="https://retailer-1.example.com/[[SKU]]" rel="noopener" target="_blank">
-         Retailer 1
+        <a href="https://www.masku.com/tuote/197793" target="_blank">
+         https://www.masku.com/tuote/197793
         </a>
        </li>
-       <li>
-        <a href="https://retailer-2.example.com/[[SKU]]" rel="noopener" target="_blank">
-         Retailer 2
-        </a>
-       </li>
-       <!-- Flere links kan tilføjes manuelt eller via script -->
       </ul>
-      <!-- Hvis du ønsker én knap i stedet for liste:
-      <a class="cta" href="/retailers?sku=[[SKU]]">Find din nærmeste forhandler</a>
-      -->
      </section>
     </article>
    </main>
