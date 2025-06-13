@@ -1,19 +1,26 @@
 @font-face {
-  font-family: 'Vegur-Bold';
-  src: url('/fonts/Vegur-Bold.otf') format('woff2'),
-       url('/fonts/Vegur-Bold.otf')  format('woff'),
-       url('/fonts/Vegur-Bold.otf')   format('truetype');
-  font-weight: normal;
+  font-family: 'Vegur';
+  src: url('/fonts/Vegur-Bold.otf') format('opentype');
+  /* Jos joskus lisäätte woff/woff2-muodot, laittakaa ne tähän
+     samaan src-listaan ylemmäs – selain ottaa ensimmäisen
+     tukemansa formaatin. */
+  font-weight: 700;
+  /* bold-leikkaus */
   font-style: normal;
+  font-display: swap;
+  /* nopeampi first paint, ei FOIT-vilkahdusta */
 }
+
 
 @font-face {
   font-family: 'Montserrat';
   src: url('/fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
-  font-weight: 100 900;      /* tukee koko painohaarukkaa */
+  font-weight: 100 900;
+  /* tukee koko painohaarukkaa */
   font-weight: bold;
   font-style: normal;
-  font-display: swap;        /* parantaa latauskokemusta */
+  font-display: swap;
+  /* parantaa latauskokemusta */
 }
 
 /* ==================================================================
@@ -56,9 +63,8 @@
   /* blur amount */
 
   /* ========== TYPOGRAPHY ========== */
-  --font-base: "Montserrat";
-
-  --font-heading: "Vegur-Bold";
+  --font-base: 'MontserratVar', system-ui, sans-serif;
+  --font-heading: 'Vegur', system-ui, sans-serif;
 
   /* ========== SHADOWS & BORDERS ========== */
   --box-shadow-default: 0 2px 6px rgba(0, 0, 0, 0.2);
@@ -95,22 +101,21 @@
   /* vertical offset for burger lines */
 }
 
+/* 2. “Fluid” typografia 320 – 1226 px välillä ------------------------------ */
+@media (max-width: 1226px) {}
+
 /* ===== Updated body.no-scroll ===== */
 /* säilytä leveys, korkeudet & turva-alueet */
-body.no-scroll {
-  position: fixed;
-  /* pitää näkymän paikoillaan */
-  inset: 0;
-  /* == top,right,bottom,left:0  */
-  overflow: hidden;
-  /* estä taustan rullaus        */
-  width: 100%;
-  /* varmuuden vuoksi            */
-  overscroll-behavior: contain;
-  /* estä scroll-ketjut       */
-  overflow-anchor: none;
-  /* opt-out scroll anchoring → ei sivun “pomppua”  :contentReference[oaicite:1]{index=1} */
+:root {
+  --safe-vw: calc(100vw - (100vw - 100%));
 }
+
+html.no-scroll {
+  overflow: hidden;
+  height: 100%;
+  touch-action: none;      /* estää iOS “pull-to-refresh” & bounce */
+}
+
 
 
 /* ==================================================================
@@ -480,6 +485,8 @@ input[type="submit"]:hover {
   z-index: 1055500;
   opacity: 0.7;
   transition: opacity 0.2s ease;
+  width: 3em;
+  height: 3em;
 }
 
 #scroll-btn:hover {
@@ -642,20 +649,49 @@ input[type="submit"]:hover {
     padding: 1.5rem 1rem;
   }
 
-  h1 {
-    font-size: 2rem;
-  }
 
-  h2 {
-    font-size: 1.75rem;
-  }
-
-  h3 {
-    font-size: 1.25rem;
-  }
 
   p {
     font-size: 0.95rem;
+  }
+
+  :root {
+    /* asteikko: 14 – 18 px näkymäleveys­ riippuen */
+    --fs-base: clamp(0.875rem, 0.72rem + 0.9vw, 1rem);
+    --fs-h3: clamp(1.1rem, 0.8rem + 1.4vw, 1.5rem);
+    --fs-h2: clamp(1.4rem, 0.95rem + 1.9vw, 2rem);
+    --fs-h1: clamp(1.8rem, 1.15rem + 2.6vw, 2.5rem);
+  }
+
+  html {
+    font-size: var(--fs-base);
+  }
+
+  h3 {
+    font-size: var(--fs-h3);
+  }
+
+  h2 {
+    font-size: var(--fs-h2);
+  }
+
+  h1 {
+    font-size: var(--fs-h1);
+  }
+
+  .nav-links,
+  .dropdown-menu {
+    max-width: var(--safe-vw);
+    /* ei ylitä ruutua evenon iOS-safe-area */
+  }
+
+  /* sulje dropdown automaattisesti kun linkki klikataan */
+  .dropdown-menu a:not([data-submenu]) {
+    touch-action: manipulation;
+  }
+
+  .dropdown-menu a:not([data-submenu]):active {
+    background-color: var(--color-hover-overlay);
   }
 }
 
@@ -699,7 +735,7 @@ input[type="submit"]:hover {
   letter-spacing: 0.1rem;
   text-shadow:
     0 0 0 currentColor,
-     1px 0 0 currentColor;
+    1px 0 0 currentColor;
 }
 
 #hero p {
@@ -825,8 +861,9 @@ section>* {
 }
 
 main {
-  padding-top: var(--header-height);
+  /*! padding-top: var(--header-height); */
 }
+
 /* MAIN CONTENT WRAPPER */
 main h1 {
   margin-bottom: var(--spacing-base);
@@ -1356,18 +1393,33 @@ html.ajax-loading #site-footer {
 }
 
 .resize-handle {
-    position: fixed;
-    background: transparent;
-    z-index: 99;
+  position: fixed;
+  background: transparent;
+  z-index: 99;
 }
+
 .handle-right {
-    top: 0; right: 0; width: 8px; height: 100vh; cursor: ew-resize;
+  top: 0;
+  right: 0;
+  width: 8px;
+  height: 100vh;
+  cursor: ew-resize;
 }
+
 .handle-bottom {
-    left: 0; bottom: 0; width: 100vw; height: 8px; cursor: ns-resize;
+  left: 0;
+  bottom: 0;
+  width: 100vw;
+  height: 8px;
+  cursor: ns-resize;
 }
+
 .handle-corner {
-    right: 0; bottom: 0; width: 18px; height: 18px; cursor: nwse-resize;
+  right: 0;
+  bottom: 0;
+  width: 18px;
+  height: 18px;
+  cursor: nwse-resize;
 }
 
 .sku {

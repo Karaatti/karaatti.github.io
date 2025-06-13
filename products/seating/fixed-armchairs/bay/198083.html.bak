@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="198083" name="nimiketunnus"/>
+  <title>
+   BAY NOJATUOLI, VAALEA BEIGE (11962) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/seating/">
+     seating
+    </a>
+    /
+    <a href="/products/seating/fixed-armchairs/">
+     fixed armchairs
+    </a>
+    /
+    <a href="/products/seating/fixed-armchairs/bay/">
+     bay
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Bay nojatuoli, vaalea beige
+      </h1>
+      <p class="sku">
+       198083
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/52aa5975-775e-4e0c-9352-c02b741c3aed-198083_BAY_NOJATUOLI_VAALEA_BEIGE.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/7b28c428-bcd6-4425-a9ba-29d1b00fbd6e-198083_BAY_NOJATUOLI_VAALEA_BEIGE_4.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/a67c62f4-7102-4044-b0f7-fac8519a70f3-198083_Bay_nojatuoli_vaalea_beige_11962_Fiilis_3.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/9d1fc109-03cb-4c5c-9fed-484da48be757-198083_Bay_nojatuoli_vaalea_beige_11962_Fiilis.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/625c1db1-edb8-4e3b-bad3-79261e28bd80-198083_Bay_nojatuoli_vaalea_beige_11962_Fiilis_4.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/093ee43d-8dcf-4f42-9a58-360f1da99bc8-198083_BAY_NOJATUOLI_VAALEA_BEIGE_3.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/007b0474-98f8-47e5-8720-dbf137018e77-198083_Bay_nojatuoli_vaalea_beige_11962_Fiilis_1.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2aff18a0-25d1-431c-a1ab-c8298da7fc31-198083_BAY_NOJATUOLI_VAALEA_BEIGE_5.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/fb8ad09c-3e2a-4f15-98c7-10db490d1ed3-198083_BAY_NOJATUOLI_VAALEA_BEIGE_MITTAKUVA.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/4c751447-4e1c-4d69-ba78-96f7e6a294b0-198083_Bay_nojatuoli_vaalea_beige_11962_Fiilis_2.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/dd6ccdeb-ed3b-4a2d-a79d-fee9a179145a-198083_BAY_NOJATUOLI_VAALEA_BEIGE_2.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/bf9951a9-1f31-4ecf-8a2a-fa9ca4a648e4-198083_BAY_NOJATUOLI_VAALEA_BEIGE_1.jpg"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+       Bay nojatuoli on tyylik&auml;s ja moderni lis&auml; olohuoneeseen. Valmistettu korkealaatuisesta pehme&auml;st&auml; tekstiilist&auml; vaalean beigen s&auml;vyss&auml;, musta jalusta tuo kontrastia. Skandinaavinen muotoilu luo harmonisen ilmeen. Kompakti koossa, mutta tarjoaa optimaalista mukavuutta. T&auml;ydellinen rentoutumiseen ja tilan p&auml;ivitt&auml;miseen.
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+        <tr>
+         <th>
+          V&auml;ri
+         </th>
+         <td>
+          Beige
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/198083-bay-nojatuoli-vaalea-beige" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/198083-bay-nojatuoli-vaalea-beige
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

@@ -6,21 +6,18 @@ function showLoader() {
     loader.id = 'loader';
     loader.textContent = 'Sivua ladataan...';
   }
-  if (!document.body.contains(loader)) {
-    document.body.appendChild(loader);
-  }
-  document.body.classList.add('no-scroll');
-  document.documentElement.classList.add('ajax-loading');
+  if (!document.body.contains(loader)) document.body.appendChild(loader);
 
-  // Käynnistä fade-in (CSS:ssä ei vielä ole opacity:1)
+  // Estä taustan scroll (sekä body että root)
+  document.body.classList.add('no-scroll');
+  document.documentElement.classList.add('no-scroll', 'ajax-loading');
+
+  // Fade-in
   loader.style.transition = 'opacity 0.1s ease-out';
-  // Aloitusarvoksi 0, jos ei vielä asetettu
   if (getComputedStyle(loader).opacity === '' || getComputedStyle(loader).opacity === '1') {
     loader.style.opacity = '0';
   }
-  requestAnimationFrame(() => {
-    loader.style.opacity = '1';
-  });
+  requestAnimationFrame(() => { loader.style.opacity = '1'; });
 }
 
 // Piilotusfunktio: fade-out ja luokkien poisto
@@ -33,7 +30,7 @@ function hideLoader() {
   setTimeout(() => {
     loader.remove();
     document.body.classList.remove('no-scroll');
-    document.documentElement.classList.remove('ajax-loading');
+    document.documentElement.classList.remove('no-scroll', 'ajax-loading');
   }, 100);
 }
 /**
@@ -198,27 +195,33 @@ let _scrollLockDepth = 0;
 function lockScrollPreservePosition() {
   if (_scrollLockDepth === 0) {
     _lockedScrollPos = window.pageYOffset || document.documentElement.scrollTop;
+
+    // Lukitse sekä body että html
     document.body.style.top = `-${_lockedScrollPos}px`;
     document.body.classList.add('no-scroll');
-    console.log("[SCROLLLOCK] Locked, depth=1 at", _lockedScrollPos);
+    document.documentElement.classList.add('no-scroll');
+
+    console.log('[SCROLLLOCK] Locked at', _lockedScrollPos);
   }
   _scrollLockDepth++;
-  console.log("[SCROLLLOCK] lockScrollPreservePosition, depth", _scrollLockDepth);
 }
 
 /**
  * Dybdebaseret frigivelse af scroll og genopret position.
  */
+
 function unlockScrollRestorePosition() {
   if (_scrollLockDepth === 0) return;
   _scrollLockDepth--;
-  console.log("[SCROLLLOCK] unlockScrollRestorePosition, depth", _scrollLockDepth);
+
   if (_scrollLockDepth === 0) {
     document.body.classList.remove('no-scroll');
+    document.documentElement.classList.remove('no-scroll');
     document.body.style.top = '';
+
     requestAnimationFrame(() => {
       window.scrollTo(0, _lockedScrollPos);
-      console.log("[SCROLLLOCK] Scroll position restored to", _lockedScrollPos);
+      console.log('[SCROLLLOCK] Restored scroll to', _lockedScrollPos);
     });
   }
 }
@@ -825,9 +828,7 @@ function loadPageViaAjax(url, options = {}) {
       console.log("[PJAX] Re-initializing content scripts");
       initCollectionLoader('.collection-btn', '#collection-content');
       initDynamicHash();
-      if (document.querySelector('#items-container') && window.initialItemsJson) {
-        loadItems();
-      }
+      // items-container poistettu → ei tarvetta dynaamiselle listaukselle
     })
     .then(() => {
       // 5) Poistetaan scroll-lock ja tehdään scroll
@@ -933,53 +934,10 @@ function initCollectionLoader(buttonSelector, targetSelector) {
 /**
  * Loader og gengiver items baseret på items.json.
  */
-/**
- * Loader ja renderöi items.jsonin sisällön.
- * – Kääntää sekä linkit että kuvat absoluuttisiksi poluiksi,
- *   jotta AJAX-navigointi alikansioihin ei enää riko kuvia.
- */
-function loadItems() {
-  // 1) Missä items.json sijaitsee?
-  let path = window.location.pathname;
-  if (path.endsWith('.html'))      path = path.slice(0, path.lastIndexOf('/') + 1);
-  else if (!path.endsWith('/'))    path += '/';
-
-  const jsonUrl = path + 'items.json';
-  const baseUrl = jsonUrl.slice(0, jsonUrl.lastIndexOf('/') + 1); // "/…/kategoria/"
-
-  fetch(jsonUrl)
-    .then(res => { if (!res.ok) throw new Error(res.status); return res.json(); })
-    .then(items => {
-      const container = document.getElementById('items-container');
-      if (!container) return;
-      container.innerHTML = '';
-
-      items.forEach(item => {
-        const card = document.createElement('div');
-        card.classList.add('item-card', item.type === 'dir' ? 'item-dir' : 'item-file');
-
-        // 2) Linkki
-        const link = document.createElement('a');
-        link.href = resolveToAbsolute(item.href, baseUrl);
-        link.textContent = item.name;
-        card.appendChild(link);
-
-        // 3) Kuva (valinnainen)
-        if (item.image) {
-          const img = document.createElement('img');
-          img.loading = 'lazy';
-          img.alt = item.name;
-          img.src = resolveToAbsolute(item.image, baseUrl);
-          card.prepend(img);
-        }
-
-        container.appendChild(card);
-      });
-
-      console.log("[ITEMS] Loaded items.json, fixed paths & rendered");
-    })
-    .catch(err => console.error('[ITEMS] items load error', err));
+function loadItems () {
+  console.log('[ITEMS] Dynamic load disabled – static links already in HTML :D');
 }
+
 
 document.addEventListener('DOMContentLoaded', () => {
   const c = document.getElementById('items-container');

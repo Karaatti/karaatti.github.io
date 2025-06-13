@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="198084" name="nimiketunnus"/>
+  <title>
+   MERIDA BAARITUOLI ILMAN SELK&Auml;NOJAA, NATURAL TAMMI / LUONNONVALK. TEDDY ISTUIN (2KPL/PKT) (11993) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/seating/">
+     seating
+    </a>
+    /
+    <a href="/products/seating/upholstered-metal-dining-chairs/">
+     upholstered metal dining chairs
+    </a>
+    /
+    <a href="/products/seating/upholstered-metal-dining-chairs/merida/">
+     merida
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Merida baarituoli, natural tammi / luonnovalk. istuin
+      </h1>
+      <p class="sku">
+       198084
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198084_MERIDA_BAARITUOLI_ILMAN_SELKANOJAA_NATURAL_TAMMI_LUONNONVALK_TEDDY_ISTUIN.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198084_MERIDA_BAARITUOLI_ILMAN_SELKANOJAA_NATURAL_TAMMI_LUONNONVALK_TEDDY_ISTUIN_1.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198084_MERIDA_BAARITUOLI_ILMAN_SELKANOJAA_NATURAL_TAMMI_LUONNONVALK_TEDDY_ISTUIN_MITTAKUVA.jpg"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/198084-merida-baarituoli-natural-tammi-luonnovalk-istuin" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/198084-merida-baarituoli-natural-tammi-luonnovalk-istuin
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

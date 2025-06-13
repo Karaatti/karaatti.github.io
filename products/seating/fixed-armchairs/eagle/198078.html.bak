@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="198078" name="nimiketunnus"/>
+  <title>
+   EAGLE NOJATUOLI, SMOKED RUNKO / BEIGE KANGAS (11977) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/seating/">
+     seating
+    </a>
+    /
+    <a href="/products/seating/fixed-armchairs/">
+     fixed armchairs
+    </a>
+    /
+    <a href="/products/seating/fixed-armchairs/eagle/">
+     eagle
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Eagle nojatuoli, smoked runko / beige kangas
+      </h1>
+      <p class="sku">
+       198078
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/76d0ade1-9bdc-4d19-88d6-e8832c5aee74-198078_EAGLE_NOJATUOLI_SMOKED_RUNKO_BEIGE_KANGAS_2.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/249c2e4c-2818-446f-8bb4-3e53d4a04216-198078_EAGLE_NOJATUOLI_SMOKED_RUNKO_BEIGE_KANGAS_3.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/523b9a3f-e6e6-4d14-b9bc-8ea02e0f8f73-198078_EAGLE_NOJATUOLI_SMOKED_RUNKO_BEIGE_KANGAS_1.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/3d6dbf58-eec7-4a4a-bcf7-913e70b47552-198078_EAGLE_NOJATUOLI_SMOKED_RUNKO_BEIGE_KANGAS.jpg"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+        <tr>
+         <th>
+          Valitse v&auml;ri
+         </th>
+         <td>
+          Smoked Oak
+         </td>
+        </tr>
+        <tr>
+         <th>
+          V&auml;ri
+         </th>
+         <td>
+          Beige
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/198078-eagle-nojatuoli-smoked-runko-beige-kangas" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/198078-eagle-nojatuoli-smoked-runko-beige-kangas
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

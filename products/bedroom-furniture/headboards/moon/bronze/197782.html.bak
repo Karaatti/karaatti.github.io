@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="197782" name="nimiketunnus"/>
+  <title>
+   MOON BRONZE P&Auml;&Auml;TY 160CM (SILE&Auml;), PRIMO 05 BEIGE (PRD06454) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/bedroom-furniture/">
+     bedroom furniture
+    </a>
+    /
+    <a href="/products/bedroom-furniture/headboards/">
+     headboards
+    </a>
+    /
+    <a href="/products/bedroom-furniture/headboards/moon/">
+     moon
+    </a>
+    /
+    <a href="/products/bedroom-furniture/headboards/moon/bronze/">
+     bronze
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Moon Bronze p&auml;&auml;ty 160cm, Primo 05 beige
+      </h1>
+      <p class="sku">
+       197782
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/a3a2f5bb-0020-4564-a654-ec2c561170d6-Primo+Antrasiitti.JPG"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/c3fedd01-6845-4050-86ac-492f394e7ba0-Primo+Beige.JPG"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/a389a367-51db-450f-8bb2-652f24ab0042-197782_MOON_BRONZE_PAATY_160CM_PRIMO_05_BEIGE.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/042edf4c-099f-4922-8de6-22e070ba422e-Primo+Vaaleanharmaa.JPG"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+        <tr>
+         <th>
+          Valitse verhoilu
+         </th>
+         <td>
+          Primo Beige
+         </td>
+        </tr>
+        <tr>
+         <th>
+          S&auml;ngynp&auml;&auml;ty
+         </th>
+         <td>
+          Moon Bronze p&auml;&auml;ty sile&auml;
+         </td>
+        </tr>
+        <tr>
+         <th>
+          V&auml;ri
+         </th>
+         <td>
+          Beige
+         </td>
+        </tr>
+        <tr>
+         <th>
+          Materiaali
+         </th>
+         <td>
+          Primo 05
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/197782-moon-bronze-paaty-160cm-primo-05-beige" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/197782-moon-bronze-paaty-160cm-primo-05-beige
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

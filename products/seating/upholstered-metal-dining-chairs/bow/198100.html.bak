@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="198100" name="nimiketunnus"/>
+  <title>
+   BOW RUOKATUOLI, MUSTA (11983) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/seating/">
+     seating
+    </a>
+    /
+    <a href="/products/seating/upholstered-metal-dining-chairs/">
+     upholstered metal dining chairs
+    </a>
+    /
+    <a href="/products/seating/upholstered-metal-dining-chairs/bow/">
+     bow
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Bow ruokap&ouml;yd&auml;n tuoli musta
+      </h1>
+      <p class="sku">
+       198100
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/52639740-c71d-41b2-a8f2-9ee5a590c2c0-198100_Bow_ruokatuoli_musta_4.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/b184c7b0-0ad5-4aec-a3ce-198ad0593d12-198100_Bow_ruokatuoli_musta_5.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/3fd20f7e-8b5d-444d-9f7c-45fb1dbe92a6-198100_Bow_ruokatuoli_musta_mittakuva.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/746b5791-61c6-414a-bbcf-36fe23fe91a7-198100_Bow_ruokatuoli_musta_1.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/dde1b336-adb4-408f-aa25-f0dd07572d01-198100_Bow_ruokatuoli_musta_2.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/1996feeb-c65f-4c76-8a05-0e3776a50df2-198100_Bow_ruokatuoli_musta_6.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/9f38fdfb-60e5-4f67-a075-7d9d7918691d-198100_Bow_ruokatuoli_musta.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/f396b91c-2f7b-41fd-a8e2-65ae9be438c0-198100_Bow_ruokatuoli_musta_3.jpg"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+       Bow ruokap&ouml;yd&auml;n tuoli musta on erinomainen valinta moderniin ruokailutilaan. Tuoli on verhoiltu hyv&auml;laatuisella mustalla kankaalla ja siin&auml; on pehme&auml; vaahtomuovit&auml;ytteinen istuin, joka tarjoaa mukavuutta pitk&auml;lle aterialle. Tyylik&auml;s musta metallirunko on kest&auml;v&auml; ja tuo tuoliin nykyaikaisen ilmeen.   Tuolin mitat ovat 52,5 cm syvyys, 48 cm leveys ja 80 cm korkeus, ja se kest&auml;&auml; jopa 120 kg painoa, joten se sopii monenlaisille k&auml;ytt&auml;jille. Vaikka tuoli tulee osissa, sen kokoaminen on helppoa ja vie alle 15 minuuttia.  Bow-tuolin valmistuksessa on panostettu hyv&auml;&auml;nlaatuun ja se soveltuu hyvin arkik&auml;ytt&ouml;&ouml;n. L&auml;ht&ouml;isin se on Nest_living-tuotemerkilt&auml;, t&auml;m&auml; tuoli tarjoaa hyv&auml;n hinta-laatusuhteen ja sen muotoilu tekee t&auml;st&auml; tuolista ajattoman valinnan kodin ruokailutilaan.
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+        <tr>
+         <th>
+          V&auml;ri
+         </th>
+         <td>
+          Musta
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/198100-bow-ruokapoydan-tuoli-musta" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/198100-bow-ruokapoydan-tuoli-musta
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="198101" name="nimiketunnus"/>
+  <title>
+   BOW RUOKATUOLI, PUNAINEN (11984) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/seating/">
+     seating
+    </a>
+    /
+    <a href="/products/seating/upholstered-metal-dining-chairs/">
+     upholstered metal dining chairs
+    </a>
+    /
+    <a href="/products/seating/upholstered-metal-dining-chairs/bow/">
+     bow
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Bow ruokap&ouml;yd&auml;n tuoli punainen
+      </h1>
+      <p class="sku">
+       198101
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/63302dd2-7782-46f2-9e69-53fbf97550a4-198101_Bow_ruokatuoli_punainen_mittakuva.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/dc766d67-d165-4847-8fd3-676484e79176-198101_Bow_ruokatuoli_punainen_2.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/57daacb6-d460-4760-be1b-6b43713c2f71-198101_Bow_ruokatuoli_punainen_5.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/7982df62-e0af-4682-bb69-99950c39a606-198101_Bow_ruokatuoli_punainen_3.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/6027020d-5dac-442a-b4b2-4fbe88b4a2f5-198101_Bow_ruokatuoli_punainen_4.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/937b8f45-bc89-4e88-bbaf-929edc82000e-198101_Bow_ruokatuoli_punainen_1.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/73480356-7614-41c7-97d5-bbf835725a96-198101_Bow_ruokatuoli_punainen.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/836e3d2a-96e7-4de0-82c4-c29408334e92-198101_Bow_ruokatuoli_punainen_6.jpg"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+       Lis&auml;&auml; v&auml;ri&auml; ja modernia tyyli&auml; ruokailutilaasi Bow ruokap&ouml;yd&auml;n tuolilla. T&auml;m&auml; n&auml;ytt&auml;v&auml; punainen tuoli yhdist&auml;&auml; mukavuuden ja k&auml;yt&auml;nn&ouml;llisyyden tarjoten samalla laadukasta istumismukavuutta. Sen py&ouml;ristetyt muodot ja siro design tuovat eleganttia tuntua kaikenlaisiin sisustuksiin.  Tuolissa on kest&auml;v&auml; ja tukeva metallirunko, joka takaa luotettavan k&auml;yt&ouml;n. P&auml;&auml;llinen on valmistettu pehme&auml;st&auml; kankaasta, joka on miellytt&auml;v&auml; ja helppohoitoinen. Istuimen t&auml;ytteen&auml; oleva vaahto tarjoaa lis&auml;mukavuutta pidempienkin aterioiden ja seurusteluhetkien aikana.  Bow ruokap&ouml;yd&auml;n tuolin korkeus on 80 cm, leveys 48 cm ja syvyys 52,5 cm. N&auml;in se sopii erinomaisesti useimpiin ruokap&ouml;ytiin. Helppohoitoinen ja tyylik&auml;s, t&auml;m&auml; tuoli on erinomainen valinta arjen k&auml;ytt&ouml;&ouml;n ja juhlatilaisuuksiin.  Valitsemalla Bow-tuolin saat laadukkaan ja edullisen kalustevalinnan, joka sijoittuu hinta-laatusuhteeltaan korkealle. Kirkkaan punainen v&auml;ri tuo pirte&auml;n ilmeen ja tekee t&auml;st&auml; tuolista katseenvangitsijan.
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/198101-bow-ruokapoydan-tuoli-punainen" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/198101-bow-ruokapoydan-tuoli-punainen
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

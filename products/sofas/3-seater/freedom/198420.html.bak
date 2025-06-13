@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="198420" name="nimiketunnus"/>
+  <title>
+   FREEDOM 3-IST. SOHVA 216CM (KAARI) VALKOINEN (YF-1075) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/sofas/">
+     sofas
+    </a>
+    /
+    <a href="/products/sofas/3-seater/">
+     3 seater
+    </a>
+    /
+    <a href="/products/sofas/3-seater/freedom/">
+     freedom
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Freedom 3-istuttava sohva valkoinen
+      </h1>
+      <p class="sku">
+       198420
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/0618ccf4-a7e0-45b7-9b3e-1b40fcbd4a63-198420_Freedom_3_ist_Sohva_216cm_kaari_valkoinen.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/60b95ee5-a320-4697-af40-358e0c568e35-198420_FREEDOM_3_IST_SOHVA_216CM_VALKOINEN_FIILIS_3.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/851fc7bc-942b-4262-957a-b05d67ecfb8b-198420_FREEDOM_3_IST_SOHVA_216CM_VALKOINEN_FIILIS_10.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/7ba2788b-3da6-436e-8192-bcd34ecf51e6-198420_Freedom_3_ist_Sohva_216cm_kaari_valkoinen_1.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/59f29fc5-e940-411e-99c8-8fd914b13416-198420_FREEDOM_3_IST_SOHVA_216CM_VALKOINEN_FIILIS_8.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/23e77505-2c2c-4769-bf9f-6946ac32961b-198420_FREEDOM_3_IST_SOHVA_216CM_VALKOINEN_FIILIS_6.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/4fc84e5e-73f5-44d5-a876-4bb510575016-198420_FREEDOM_3_IST_SOHVA_216CM_VALKOINEN_FIILIS_5.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/df77c996-fa12-4601-87bf-59ebeb1b03c6-198420_FREEDOM_3_IST_SOHVA_216CM_VALKOINEN_FIILIS_1.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/a65bcbbf-a857-4838-ab80-841f2dfeb8ff-198420_FREEDOM_3_IST_SOHVA_216CM_VALKOINEN_FIILIS_7.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/9ec3d5ba-60c9-45e5-a8c8-d08f2a123ae1-198420_FREEDOM_3_IST_SOHVA_216CM_VALKOINEN_FIILIS_9.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/e6d71846-cb8b-4607-8d92-6d7db9f84b30-198420_FREEDOM_3_IST_SOHVA_216CM_VALKOINEN_FIILIS_2.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/90f0c4a4-7149-481f-9af7-64bc0ca2dabc-198420_Freedom_3_ist_Sohva_216cm_kaari_valkoinen_2.jpg"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+        <tr>
+         <th>
+          V&auml;ri
+         </th>
+         <td>
+          Valkoinen
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/198420-freedom-3-istuttava-sohva-valkoinen" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/198420-freedom-3-istuttava-sohva-valkoinen
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="198099" name="nimiketunnus"/>
+  <title>
+   BOW RUOKATUOLI, KHAKI (11982) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/seating/">
+     seating
+    </a>
+    /
+    <a href="/products/seating/upholstered-metal-dining-chairs/">
+     upholstered metal dining chairs
+    </a>
+    /
+    <a href="/products/seating/upholstered-metal-dining-chairs/bow/">
+     bow
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Bow ruokap&ouml;yd&auml;n tuoli khaki
+      </h1>
+      <p class="sku">
+       198099
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/c7747483-c76c-47e0-8603-799a72fa2a25-198099_Bow_ruokatuoli_khaki_5.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/209e3fb4-ccca-48af-a6ee-fcff10e1b904-198099_Bow_ruokatuoli_khaki_3.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/a38711a5-554b-42e8-aa95-ce0ea0eda4e5-198099_Bow_ruokatuoli_khaki_2.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/b5422e9f-6ba2-4048-b487-1ed5969f0359-198099_Bow_ruokatuoli_khaki_4.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/870d8f2d-2935-4d3d-b42d-4e90ef0006f2-198099_Bow_ruokatuoli_khaki_1.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/c41f192e-2fe1-4795-af12-bf7347e8236e-198099_Bow_ruokatuoli_khaki.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/c723a38f-ff9f-472e-a630-634d24468402-198099_Bow_ruokatuoli_khaki_6.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/78f37af2-772f-4428-9365-5c2e1f0942cb-198099_Bow_ruokatuoli_khaki_mittakuva.jpg"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+       Bow ruokap&ouml;yd&auml;n tuoli on erinomainen valinta kodin ruokailutilaan. T&auml;m&auml; khakin v&auml;rinen tuoli sopii monenlaisiin sisustustyyleihin ja tuo l&auml;mp&ouml;&auml; sek&auml; tyylikkyytt&auml; ymp&auml;rist&ouml;&ouml;ns&auml;.  Bow tuoli tarjoaa mukavan istuinkokemuksen, sill&auml; sen istuinosa on valmistettu hyv&auml;st&auml; kankaasta ja pehme&auml;st&auml; vaahtomuovista. Metallirunko ja vanerista tehty rakenne takaavat tuolin vakauden ja kest&auml;vyyden, joten se kest&auml;&auml; p&auml;ivitt&auml;isess&auml; k&auml;yt&ouml;ss&auml; hyvin.  Nest Livingin Bow-tuoli on helppo koota ja se ei vaadi paljon aikaa tai vaivaa. Laadukkaat materiaalit ja huolellinen viimeistely tekev&auml;t t&auml;st&auml; tuolista hyv&auml;n lis&auml;n kodin ruokailutilaan.
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/198099-bow-ruokapoydan-tuoli-khaki" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/198099-bow-ruokapoydan-tuoli-khaki
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

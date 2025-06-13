@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="198421" name="nimiketunnus"/>
+  <title>
+   JOY DIVAANISOHVA (VASEN) VALKOINEN &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/sofas/">
+     sofas
+    </a>
+    /
+    <a href="/products/sofas/chaise/">
+     chaise
+    </a>
+    /
+    <a href="/products/sofas/chaise/joy/">
+     joy
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Joy 3-ist. divaanisohva (vasen) valkoinen
+      </h1>
+      <p class="sku">
+       198421
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/880e9fba-0d08-48d7-a4ea-7f90a1878d01-198421_JOY_DIVAANISOHVA_VASEN_VALKOINEN_FIILIS.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/72b9a04b-de4f-499a-894a-8ccef52e4824-198421_JOY_DIVAANISOHVA_VASEN_VALKOINEN_2.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/dc46709b-3318-4dd9-9292-20a765f5a4fa-198421_JOY_DIVAANISOHVA_VASEN_VALKOINEN.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/85097763-78ec-4739-917f-5a261f2e598c-198421_JOY_DIVAANISOHVA_VASEN_VALKOINEN_FIILIS_6.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/f6af105b-34bf-4501-903e-9f915d2b1002-198421_JOY_DIVAANISOHVA_VASEN_VALKOINEN_FIILIS_2.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/4540f4f2-22fd-451d-b53a-7b0c846ad587-198421_JOY_DIVAANISOHVA_VASEN_VALKOINEN_FIILIS_9.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/06939e12-04fd-4383-a125-7d2fa9b8486e-198421_JOY_DIVAANISOHVA_VASEN_VALKOINEN_FIILIS_1.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/e094c681-efe4-46b5-9a9c-9989aa4e8f35-198421_JOY_DIVAANISOHVA_VASEN_VALKOINEN_1.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/d9a2cc9c-4966-477d-8a0b-38fe07f6d203-198421_JOY_DIVAANISOHVA_VASEN_VALKOINEN_FIILIS_3.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/88e48be4-9100-4cf4-afc2-134e19e864ae-198421_JOY_DIVAANISOHVA_VASEN_VALKOINEN_FIILIS_4.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/42282863-8e2c-4097-a3a8-ac44abb4da44-198421_JOY_DIVAANISOHVA_VASEN_VALKOINEN_FIILIS_7.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/65d7ff2c-c0bb-4edd-8123-c4d308190e05-198421_JOY_DIVAANISOHVA_VASEN_VALKOINEN_FIILIS_5.jpg"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+        <tr>
+         <th>
+          K&auml;tisyys edest&auml; katsottuna
+         </th>
+         <td>
+          Vasenk&auml;tinen
+         </td>
+        </tr>
+        <tr>
+         <th>
+          V&auml;ri
+         </th>
+         <td>
+          Valkoinen
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/198421-joy-3-ist-divaanisohva-vasen-valkoinen" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/198421-joy-3-ist-divaanisohva-vasen-valkoinen
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

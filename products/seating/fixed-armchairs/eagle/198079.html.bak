@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="198079" name="nimiketunnus"/>
+  <title>
+   EAGLE NOJATUOLI, MUSTA RUNKO / MUSTA PU (11839) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/seating/">
+     seating
+    </a>
+    /
+    <a href="/products/seating/fixed-armchairs/">
+     fixed armchairs
+    </a>
+    /
+    <a href="/products/seating/fixed-armchairs/eagle/">
+     eagle
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Eagle nojatuoli, musta runko / musta keinonahka
+      </h1>
+      <p class="sku">
+       198079
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198079_EAGLE_NOJATUOLI_MUSTA_RUNKO_MUSTA_PU_1.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198079_EAGLE_NOJATUOLI_MUSTA_RUNKO_MUSTA_PU.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198079_EAGLE_NOJATUOLI_MUSTA_RUNKO_MUSTA_PU_2.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198079_EAGLE_NOJATUOLI_MUSTA_RUNKO_MUSTA_PU_3.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/2025/01/198079_EAGLE_NOJATUOLI_MUSTA_RUNKO_MUSTA_PU_MITTAKUVA.jpg"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+        <tr>
+         <th>
+          V&auml;ri
+         </th>
+         <td>
+          Musta
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/198079-eagle-nojatuoli-musta-runko-musta-keinonahka" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/198079-eagle-nojatuoli-musta-runko-musta-keinonahka
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

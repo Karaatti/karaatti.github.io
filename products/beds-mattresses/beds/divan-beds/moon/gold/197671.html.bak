@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="197671" name="nimiketunnus"/>
+  <title>
+   MOON GOLD RUNKOPATJA 120X200X33, VISCO, JALAT 23CM KARTIO MUSTA, PRIMO 96 ANTRASIITTI (CZN15938) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/beds-mattresses/">
+     beds mattresses
+    </a>
+    /
+    <a href="/products/beds-mattresses/beds/">
+     beds
+    </a>
+    /
+    <a href="/products/beds-mattresses/beds/divan-beds/">
+     divan beds
+    </a>
+    /
+    <a href="/products/beds-mattresses/beds/divan-beds/moon/">
+     moon
+    </a>
+    /
+    <a href="/products/beds-mattresses/beds/divan-beds/moon/gold/">
+     gold
+    </a>
+   </nav>
+   <main aria-labelledby="product-title" id="product" role="main">
+    <!-- Produktets mikrodata -->
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <!-- Brødkrumme navigation -->
+     <nav aria-label="Br&oslash;dkrummesti" class="breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+      <ol>
+       <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+        <a href="/" itemprop="item">
+         <span itemprop="name">
+          Forside
+         </span>
+        </a>
+        <meta content="1" itemprop="position"/>
+       </li>
+       <!-- … flere elementer genereres dynamisk … -->
+      </ol>
+     </nav>
+     <!-- Produktets titel og SKU -->
+     <header>
+      <h1 id="product-title" itemprop="name">
+       [[NIMI]]
+      </h1>
+      <p class="sku" itemprop="sku">
+       [[SKU]]
+      </p>
+     </header>
+     <!-- Responsivt billedgalleri -->
+     <section aria-label="Produktbilleder" class="product-gallery">
+      <figure itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+       <picture>
+        <source media="(min-width: 800px)" srcset="[[IMG_LARGE]] 2x, [[IMG_MED]] 1x"/>
+        <img alt="[[ALT_1]]" decoding="async" height="400" loading="lazy" src="[[IMG_SM]]" width="600"/>
+       </picture>
+       <meta content="[[IMG_LARGE]]" itemprop="url"/>
+       <meta content="800" itemprop="height"/>
+       <meta content="1200" itemprop="width"/>
+      </figure>
+      <!-- Yderligere <figure> tilføjes dynamisk -->
+     </section>
+     <!-- Produktbeskrivelse -->
+     <section aria-label="Produktdetaljer" class="product-details">
+      <h2>
+       Beskrivelse
+      </h2>
+      <p itemprop="description">
+       [[DESCRIPTION]]
+      </p>
+      <h2>
+       Tekniske specifikationer
+      </h2>
+      <table class="specs">
+       <tbody>
+        <tr>
+         <th>
+          Materiale
+         </th>
+         <td itemprop="material">
+          [[MATERIAL]]
+         </td>
+        </tr>
+        <tr>
+         <th>
+          Farve
+         </th>
+         <td>
+          [[COLOR]]
+         </td>
+        </tr>
+        <tr>
+         <th>
+          Bredde
+         </th>
+         <td>
+          [[WIDTH]]
+         </td>
+        </tr>
+        <!-- Flere rækker tilføjes efter behov -->
+       </tbody>
+      </table>
+     </section>
+     <!-- Liste over forhandlere -->
+     <section aria-label="Forhandlere" class="retailers">
+      <h2>
+       Find din n&aelig;rmeste forhandler
+      </h2>
+      <ul>
+       <li>
+        <a href="https://retailer-1.example.com/[[SKU]]" rel="noopener" target="_blank">
+         Retailer 1
+        </a>
+       </li>
+       <li>
+        <a href="https://retailer-2.example.com/[[SKU]]" rel="noopener" target="_blank">
+         Retailer 2
+        </a>
+       </li>
+       <!-- Flere links kan tilføjes manuelt eller via script -->
+      </ul>
+      <!-- Hvis du ønsker én knap i stedet for liste:
+      <a class="cta" href="/retailers?sku=[[SKU]]">Find din nærmeste forhandler</a>
+      -->
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>

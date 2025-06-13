@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="197747" name="nimiketunnus"/>
+  <title>
+   MOON GOLD PETAUSPATJA 180X200X6 LATEX (CZN15778) &bull; Nest &amp; Living
+  </title>
+  <link href="../../../../../../styles.css" rel="stylesheet"/>
+  <script src="../../../../../../script.js">
+  </script>
+ </head>
+ <body>
+  <header id="site-header">
+  </header>
+  <div id="content">
+   <nav>
+    <a href="../index.html">
+     &larr; Takaisin
+    </a>
+    <a href="/products/beds-mattresses/">
+     beds mattresses
+    </a>
+    /
+    <a href="/products/beds-mattresses/toppers/">
+     toppers
+    </a>
+    /
+    <a href="/products/beds-mattresses/toppers/natural-latex/">
+     natural latex
+    </a>
+    /
+    <a href="/products/beds-mattresses/toppers/natural-latex/moon/">
+     moon
+    </a>
+    /
+    <a href="/products/beds-mattresses/toppers/natural-latex/moon/gold/">
+     gold
+    </a>
+   </nav>
+   <main id="product" role="main">
+    <article itemscope="" itemtype="https://schema.org/Product">
+     <header>
+      <h1 itemprop="name">
+       Moon Gold petauspatja 180x200x6cm latex
+      </h1>
+      <p class="sku">
+       197747
+      </p>
+     </header>
+     <section class="product-gallery">
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/f42d946a-de98-4d63-a6c5-a7a5a4b337e1-165286_Sense_petauspatja_80x200_cm.jpg"/>
+      <img alt="" loading="lazy" src="https://cmd-prod.s3.eu-west-1.amazonaws.com/dd7bc142-7855-4f83-b408-4c93ea3be3e6-165286_Sense_petauspatja_80x200_cm.jpg"/>
+     </section>
+     <section>
+      <h2>
+       Kuvaus
+      </h2>
+      <p itemprop="description">
+      </p>
+     </section>
+     <section>
+      <h2>
+       Tekniset tiedot
+      </h2>
+      <table>
+       <tbody>
+        <tr>
+         <th>
+          Koko
+         </th>
+         <td>
+          180 &times; 200
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </section>
+     <section>
+      <h2>
+       Forhandlere
+      </h2>
+      <ul>
+       <li>
+        <a href="https://www.masku.com/tuote/197747-moon-gold-petauspatja-180x200x6cm-latex" rel="noopener" target="_blank">
+         https://www.masku.com/tuote/197747-moon-gold-petauspatja-180x200x6cm-latex
+        </a>
+       </li>
+      </ul>
+     </section>
+    </article>
+   </main>
+  </div>
+  <footer id="site-footer">
+  </footer>
+ </body>
+</html>
