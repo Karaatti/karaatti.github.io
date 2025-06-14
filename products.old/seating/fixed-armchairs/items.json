@@ -1,0 +1,22 @@
+[
+  {
+    "name": "bay",
+    "href": "/products/seating/fixed-armchairs/bay/",
+    "type": "dir"
+  },
+  {
+    "name": "dove",
+    "href": "/products/seating/fixed-armchairs/dove/",
+    "type": "dir"
+  },
+  {
+    "name": "eagle",
+    "href": "/products/seating/fixed-armchairs/eagle/",
+    "type": "dir"
+  },
+  {
+    "name": "swan",
+    "href": "/products/seating/fixed-armchairs/swan/",
+    "type": "dir"
+  }
+]

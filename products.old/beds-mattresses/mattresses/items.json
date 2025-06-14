@@ -1,0 +1,32 @@
+[
+  {
+    "name": "1-zone",
+    "href": "/products/beds-mattresses/mattresses/1-zone/",
+    "type": "dir"
+  },
+  {
+    "name": "5-zone",
+    "href": "/products/beds-mattresses/mattresses/5-zone/",
+    "type": "dir"
+  },
+  {
+    "name": "7-zone",
+    "href": "/products/beds-mattresses/mattresses/7-zone/",
+    "type": "dir"
+  },
+  {
+    "name": "foam",
+    "href": "/products/beds-mattresses/mattresses/foam/",
+    "type": "dir"
+  },
+  {
+    "name": "memory-foam",
+    "href": "/products/beds-mattresses/mattresses/memory-foam/",
+    "type": "dir"
+  },
+  {
+    "name": "natural-latex",
+    "href": "/products/beds-mattresses/mattresses/natural-latex/",
+    "type": "dir"
+  }
+]

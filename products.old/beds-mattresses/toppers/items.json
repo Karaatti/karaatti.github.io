@@ -1,0 +1,17 @@
+[
+  {
+    "name": "foam",
+    "href": "/products/beds-mattresses/toppers/foam/",
+    "type": "dir"
+  },
+  {
+    "name": "memory-foam",
+    "href": "/products/beds-mattresses/toppers/memory-foam/",
+    "type": "dir"
+  },
+  {
+    "name": "natural-latex",
+    "href": "/products/beds-mattresses/toppers/natural-latex/",
+    "type": "dir"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "cabinets",
+    "href": "/products/cabinets-storage/cabinets-display/cabinets/",
+    "type": "dir"
+  },
+  {
+    "name": "displays",
+    "href": "/products/cabinets-storage/cabinets-display/displays/",
+    "type": "dir"
+  }
+]

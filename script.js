@@ -247,18 +247,38 @@ function initDropdowns() {
     let stack = [];
 
     // Aukeamisen yhteydessä nollataan pino ja palautetaan alkuperäinen
-    toggle.addEventListener('click', e => {
-      e.preventDefault();
-      e.stopPropagation();
-      const isOpening = !dd.classList.contains('open');
-      if (isOpening) {
-        stack = [];
-        menu.innerHTML = originalHtml;
-        attachMenuHandlers(menu);
-      }
-      dd.classList.toggle('open');
-    });
+toggle.addEventListener('click', e => {
+  e.preventDefault();
+  e.stopPropagation();
+  const isOpening = !dd.classList.contains('open');
+  if (isOpening) {
+    // resetataan valikko alkuperäiseen tilaan
+    stack = [];
+    menu.innerHTML = originalHtml;
+    attachMenuHandlers(menu);
 
+    // —————— lisäys: SHOW ALL vain avatessa ——————
+    if (!menu.querySelector('.show-all-main')) {
+const rel = toggle.getAttribute('data-submenu') || toggle.getAttribute('href');
+let url;
+if (!rel || rel === 'null') {
+  url = '/products/';
+} else {
+  url = new URL(rel, window.location.href).href;
+}
+      const li = document.createElement('li');
+      li.classList.add('show-all-main');
+      li.innerHTML = `
+  <button type="button" class="show-all-btn"
+          onclick="window.location.href='${url}'">
+    SHOW ALL
+  </button>`;
+      menu.appendChild(li);
+    }
+    // ——————————————————————————————
+  }
+  dd.classList.toggle('open');
+});
     // Sulje dropdown klikkauksen ulkopuolella
     document.addEventListener('click', e => {
       if (!dd.contains(e.target) && dd.classList.contains('open')) {
@@ -531,6 +551,7 @@ header.addEventListener('click', e => {
 
   // 7) Smooth-scroll headerin linkeille
   initHeaderScrollHandlers();
+  
 }
 
 /**

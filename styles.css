@@ -113,7 +113,8 @@
 html.no-scroll {
   overflow: hidden;
   height: 100%;
-  touch-action: none;      /* estää iOS “pull-to-refresh” & bounce */
+  touch-action: none;
+  /* estää iOS “pull-to-refresh” & bounce */
 }
 
 
@@ -1256,7 +1257,7 @@ footer {
 
 #clients h2,
 #clients p {
-  color: white;
+  color: var(--color-light-beige);
 
 }
 
@@ -1440,4 +1441,56 @@ html.ajax-loading #site-footer {
 th {
   text-align: end;
   padding-right: 1em;
+}
+
+
+
+#items-container .category-item {
+  position: relative;
+  padding-bottom: 2rem;
+  /* jätä tilaa kuvakkeelle */
+}
+
+#items-container .category-icon {
+  position: absolute;
+  bottom: 0.5rem;
+
+  right: 0.5rem;
+
+}
+
+p {
+  text-align: justify;
+  hyphens: auto;
+}
+
+.category-item {
+  background-color: var(--color-taupe);
+  padding: 0.5rem;
+  border-radius: var(--border-radius);
+}
+
+.category-item:hover {
+  background-color: var(--color-hover-overlay);
+}
+
+.footer-contact p,
+.footer-bottom p {
+  text-align: center;
+}
+
+.variant-name {
+  text-transform: capitalize;
+}
+
+
+.hero {
+  background-position: center bottom;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.hero {
+  min-height: 100vh;
+  min-height: 100lvh !important;
 }

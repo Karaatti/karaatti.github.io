@@ -1,0 +1,17 @@
+[
+  {
+    "name": "beds",
+    "href": "/products/beds-mattresses/beds/",
+    "type": "dir"
+  },
+  {
+    "name": "mattresses",
+    "href": "/products/beds-mattresses/mattresses/",
+    "type": "dir"
+  },
+  {
+    "name": "toppers",
+    "href": "/products/beds-mattresses/toppers/",
+    "type": "dir"
+  }
+]

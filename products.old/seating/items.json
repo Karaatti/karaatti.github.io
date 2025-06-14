@@ -1,0 +1,22 @@
+[
+  {
+    "name": "fixed-armchairs",
+    "href": "/products/seating/fixed-armchairs/",
+    "type": "dir"
+  },
+  {
+    "name": "recliner-chairs",
+    "href": "/products/seating/recliner-chairs/",
+    "type": "dir"
+  },
+  {
+    "name": "upholstered-metal-dining-chairs",
+    "href": "/products/seating/upholstered-metal-dining-chairs/",
+    "type": "dir"
+  },
+  {
+    "name": "upholstered-wood-dining-chairs",
+    "href": "/products/seating/upholstered-wood-dining-chairs/",
+    "type": "dir"
+  }
+]
