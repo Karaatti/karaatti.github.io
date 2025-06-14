@@ -441,14 +441,15 @@ input[type="submit"]:hover {
   top: 2em;
   right: 0;
   background-color: var(--color-taupe);
-  padding: 0.5rem 0;
+  /*! padding: 0.5rem 0; */
   border-radius: var(--border-radius);
-  min-width: 28rem;
+  width: 100%;
   box-shadow: var(--box-shadow-default);
   z-index: 1000;
   text-align: center;
-  max-height: calc(100svh - var(--header-height) - 2rem);
+  /*! max-height: calc(100svh - var(--header-height) - 2rem); */
   overflow-y: auto;
+  min-width: 25rem;
 }
 
 .dropdown-menu li {
@@ -542,7 +543,7 @@ input[type="submit"]:hover {
    ================================================================== */
 @media (max-width: 1226px) {
   .dropdown.open .dropdown-menu {
-    padding-bottom: 4em;
+    padding-bottom: 3rem;
   }
 
   .hamburger {
@@ -613,7 +614,7 @@ input[type="submit"]:hover {
     overflow-y: auto;
     z-index: 1001;
     border-radius: 0;
-    max-height: calc(100svh - var(--header-height) - 0.5rem);
+    /*! max-height: calc(100svh - var(--header-height) - 0.5rem); */
   }
 
   .dropdown-menu li {
@@ -682,7 +683,7 @@ input[type="submit"]:hover {
 
   .nav-links,
   .dropdown-menu {
-    max-width: var(--safe-vw);
+    /*! max-width: 100%; */
     /* ei ylitä ruutua evenon iOS-safe-area */
   }
 
