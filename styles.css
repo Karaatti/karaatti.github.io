@@ -1485,13 +1485,13 @@ p {
 }
 
 
-.hero {
+#hero {
   background-position: center bottom;
   background-attachment: fixed;
   background-size: cover;
 }
 
-.hero {
+#hero {
   min-height: 100vh;
   min-height: 100lvh !important;
 }
