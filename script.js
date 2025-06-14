@@ -100,6 +100,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .then(() => {
       console.log("[INIT] Header/Footer loaded");
       initCollectionLoader('.collection-btn', '#collection-content');
+      initCollectionLoader('.solution-btn',   '#solution-content');
       initPjaxNavigation();
 
       // —————— Tässä lisäys: heti kun header/footer on paikallaan,
@@ -848,6 +849,7 @@ function loadPageViaAjax(url, options = {}) {
       // 4) Re-initialisoinnit
       console.log("[PJAX] Re-initializing content scripts");
       initCollectionLoader('.collection-btn', '#collection-content');
+      initCollectionLoader('.solution-btn',   '#solution-content');
       initDynamicHash();
       // items-container poistettu → ei tarvetta dynaamiselle listaukselle
     })
