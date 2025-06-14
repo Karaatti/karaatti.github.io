@@ -240,45 +240,45 @@ const menuStack = new Map();
 function initDropdowns() {
   document.querySelectorAll('.dropdown').forEach(dd => {
     const toggle = dd.querySelector('.dropdown-toggle');
-    const menu   = dd.querySelector('.dropdown-menu');
+    const menu = dd.querySelector('.dropdown-menu');
     if (!toggle || !menu) return;
 
     const originalHtml = menu.innerHTML;
     let stack = [];
 
     // Aukeamisen yhteydessä nollataan pino ja palautetaan alkuperäinen
-toggle.addEventListener('click', e => {
-  e.preventDefault();
-  e.stopPropagation();
-  const isOpening = !dd.classList.contains('open');
-  if (isOpening) {
-    // resetataan valikko alkuperäiseen tilaan
-    stack = [];
-    menu.innerHTML = originalHtml;
-    attachMenuHandlers(menu);
+    toggle.addEventListener('click', e => {
+      e.preventDefault();
+      e.stopPropagation();
+      const isOpening = !dd.classList.contains('open');
+      if (isOpening) {
+        // resetataan valikko alkuperäiseen tilaan
+        stack = [];
+        menu.innerHTML = originalHtml;
+        attachMenuHandlers(menu);
 
-    // —————— lisäys: SHOW ALL vain avatessa ——————
-    if (!menu.querySelector('.show-all-main')) {
-const rel = toggle.getAttribute('data-submenu') || toggle.getAttribute('href');
-let url;
-if (!rel || rel === 'null') {
-  url = '/products/';
-} else {
-  url = new URL(rel, window.location.href).href;
-}
-      const li = document.createElement('li');
-      li.classList.add('show-all-main');
-      li.innerHTML = `
+        // —————— lisäys: SHOW ALL vain avatessa ——————
+        if (!menu.querySelector('.show-all-main')) {
+          const rel = toggle.getAttribute('data-submenu') || toggle.getAttribute('href');
+          let url;
+          if (!rel || rel === 'null') {
+            url = '/products/';
+          } else {
+            url = new URL(rel, window.location.href).href;
+          }
+          const li = document.createElement('li');
+          li.classList.add('show-all-main');
+          li.innerHTML = `
   <button type="button" class="show-all-btn"
           onclick="window.location.href='${url}'">
     SHOW ALL
   </button>`;
-      menu.appendChild(li);
-    }
-    // ——————————————————————————————
-  }
-  dd.classList.toggle('open');
-});
+          menu.appendChild(li);
+        }
+        // ——————————————————————————————
+      }
+      dd.classList.toggle('open');
+    });
     // Sulje dropdown klikkauksen ulkopuolella
     document.addEventListener('click', e => {
       if (!dd.contains(e.target) && dd.classList.contains('open')) {
@@ -334,7 +334,7 @@ if (!rel || rel === 'null') {
               </li>`;
 
             // Erotellaan kansiot ja tiedostot
-            const dirItems  = items.filter(i => i.type === 'dir');
+            const dirItems = items.filter(i => i.type === 'dir');
             const fileItems = items.filter(i => i.href.endsWith('.html'));
 
             // Rakennetaan HTML
@@ -343,8 +343,8 @@ if (!rel || rel === 'null') {
             // Kansiot: harmauta vain jos items.json on kokonaan tyhjä
             await Promise.all(dirItems.map(async dir => {
               // Tarkista, onko kansiossa yhtään alielementtiä
-              const dirUrl   = new URL(dir.href, baseUrl).href;
-              const dirJson  = (dirUrl.endsWith('/') ? dirUrl : dirUrl + '/') + 'items.json';
+              const dirUrl = new URL(dir.href, baseUrl).href;
+              const dirJson = (dirUrl.endsWith('/') ? dirUrl : dirUrl + '/') + 'items.json';
               let childItems = [];
               try {
                 const dres = await fetch(dirJson);
@@ -490,7 +490,7 @@ function initHeaderFunctions() {
 
   // 2) Hamburger-napin toggle ja nav-linkit
   const hamburger = header.querySelector('.hamburger');
-  const navLinks  = header.querySelector('.nav-links');
+  const navLinks = header.querySelector('.nav-links');
   if (hamburger && navLinks) {
     hamburger.addEventListener('click', e => {
       e.preventDefault();
@@ -505,8 +505,8 @@ function initHeaderFunctions() {
   document.addEventListener('click', e => {
     if (e.target.closest('.dropdown-menu')) return;
     if (navLinks.classList.contains('active') &&
-        !navLinks.contains(e.target) &&
-        !hamburger.contains(e.target)) {
+      !navLinks.contains(e.target) &&
+      !hamburger.contains(e.target)) {
       navLinks.classList.remove('active');
       hamburger.classList.remove('open');
       syncScrollLockWithHamburger();
@@ -526,32 +526,32 @@ function initHeaderFunctions() {
   });
 
   // 5) Logo PJAX-etusivulle — delegoitu click-kuuntelija, varmistaa loaderin
-header.addEventListener('click', e => {
-  const link = e.target.closest('.logo a, a.logo');
-  if (!link) return;
+  header.addEventListener('click', e => {
+    const link = e.target.closest('.logo a, a.logo');
+    if (!link) return;
 
-  e.preventDefault();
-  e.stopPropagation();
+    e.preventDefault();
+    e.stopPropagation();
 
-  closeAllMenus();
+    closeAllMenus();
 
-  // flashaa loader nopeasti
-  showLoader();
-  setTimeout(hideLoader, 150);
+    // flashaa loader nopeasti
+    showLoader();
+    setTimeout(hideLoader, 150);
 
-  console.log("[HEADER] Logo clicked — quick loader flash");
+    console.log("[HEADER] Logo clicked — quick loader flash");
 
-  // PJAX-lataus
-  setTimeout(() => {
-    loadPageViaAjax(link.href, { replaceState: false });
-  }, 50);
-});
+    // PJAX-lataus
+    setTimeout(() => {
+      loadPageViaAjax(link.href, { replaceState: false });
+    }, 50);
+  });
   // 6) Dropdownit
   initDropdowns();
 
   // 7) Smooth-scroll headerin linkeille
   initHeaderScrollHandlers();
-  
+
 }
 
 /**
@@ -955,7 +955,7 @@ function initCollectionLoader(buttonSelector, targetSelector) {
 /**
  * Loader og gengiver items baseret på items.json.
  */
-function loadItems () {
+function loadItems() {
   console.log('[ITEMS] Dynamic load disabled – static links already in HTML :D');
 }
 
@@ -996,3 +996,14 @@ function initDynamicHash() {
     }
   });
 }
+
+function ensureViewportMeta() {
+  if (!document.querySelector('meta[name="viewport"]')) {
+    const meta = document.createElement('meta');
+    meta.name    = 'viewport';
+    meta.content = 'width=device-width, initial-scale=1';
+    document.head.prepend(meta);
+  }
+}
+
+document.addEventListener('DOMContentLoaded', ensureViewportMeta);
