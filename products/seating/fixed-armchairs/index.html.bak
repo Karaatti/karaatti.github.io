@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><title>fixed-armchairs • Nest &amp; Living</title>
+<link rel="stylesheet" href="../../../styles.css"><script src="../../../script.js"></script></head>
+<body><header id="site-header"></header><div id="content">
+<nav><a href="../index.html">← Takaisin</a> <a href="/products/seating/">seating</a> / <a href="/products/seating/fixed-armchairs/">fixed armchairs</a></nav><main id="category-list"><h1>fixed-armchairs</h1>
+<ul id="static-links"><li><a href="/products/seating/fixed-armchairs/bay/">bay</a></li><li><a href="/products/seating/fixed-armchairs/dove/">dove</a></li><li><a href="/products/seating/fixed-armchairs/eagle/">eagle</a></li><li><a href="/products/seating/fixed-armchairs/swan/">swan</a></li></ul><div id="items-container"></div></main>
+</div><footer id="site-footer"></footer><script>loadItems();</script></body></html>
