@@ -546,6 +546,12 @@ input[type="submit"]:hover {
     padding-bottom: 3rem;
   }
 
+#hero {
+
+  background-attachment: scroll !important;
+  background-size: cover;
+}
+
   .hamburger {
     display: flex;
     margin-left: 1rem;
@@ -1486,12 +1492,12 @@ p {
 
 
 #hero {
-  background-position: center bottom;
-  background-attachment: fixed;
+  background-position: center bottom !important;
+
   background-size: cover;
 }
 
 #hero {
   min-height: 100vh;
-  min-height: 100lvh !important;
+  min-height: 100svh !important;
 }
