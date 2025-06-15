@@ -1490,6 +1490,10 @@ p {
 
 .variant-name {
   text-transform: capitalize;
+  color: var(--color-light-beige);
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
 }
 
 
@@ -1512,4 +1516,10 @@ p {
 #solution-content p {
 
   color: var(--color-dark-charcoal) !important;
+}
+
+
+
+#collection-content h2 {
+  color: var(--color-light-beige);
 }

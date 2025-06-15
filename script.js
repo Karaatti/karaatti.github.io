@@ -4,7 +4,7 @@ function showLoader() {
   if (!loader) {
     loader = document.createElement('div');
     loader.id = 'loader';
-    loader.textContent = 'Sivua ladataan...';
+    loader.textContent = '';
   }
   if (!document.body.contains(loader)) document.body.appendChild(loader);
 
@@ -13,7 +13,7 @@ function showLoader() {
   document.documentElement.classList.add('no-scroll', 'ajax-loading');
 
   // Fade-in
-  loader.style.transition = 'opacity 0.1s ease-out';
+  loader.style.transition = 'opacity 0.15s ease-out';
   if (getComputedStyle(loader).opacity === '' || getComputedStyle(loader).opacity === '1') {
     loader.style.opacity = '0';
   }
@@ -25,29 +25,52 @@ function hideLoader() {
   const loader = document.getElementById('loader');
   if (!loader) return;
 
-  loader.style.transition = 'opacity 0.1s ease-out';
+  loader.style.transition = 'opacity 0.15s ease-out';
   loader.style.opacity = '0';
   setTimeout(() => {
     loader.remove();
     document.body.classList.remove('no-scroll');
     document.documentElement.classList.remove('no-scroll', 'ajax-loading');
-  }, 100);
+  }, 150);
 }
 /**
  * Kuuntelee .logo img -elementtiä ja piilottaa loaderin,
  * kun kuva on dekoodattu tai latautunut / epäonnistunut.
  */
 function watchLogo(img) {
+  // yhteinen "valmis"-callback
+  const done = () => waitHeroBg(hideLoader);
+
   if (img.decode) {
-    img.decode().then(hideLoader, hideLoader);
+    img.decode().then(done, done);
   } else if (img.complete) {
-    hideLoader();
+    done();
   } else {
-    img.addEventListener('load', hideLoader);
-    img.addEventListener('error', hideLoader);
+    img.addEventListener('load',  done, { once: true });
+    img.addEventListener('error', done, { once: true });
   }
 }
+function waitHeroBg(callback) {
+  const hero = document.getElementById('hero');
+  if (!hero) return callback();
 
+  // hae taustakuvan URL CSS:stä
+  const match = getComputedStyle(hero)
+    .backgroundImage
+    .match(/url\(["']?(.*?)["']?\)/);
+  if (!match) return callback();
+
+  const img = new Image();
+  img.src = match[1];
+
+  if (img.complete) {
+    // jo valmiiksi cache:ssa
+    return callback();
+  }
+
+  img.addEventListener('load',  callback, { once: true });
+  img.addEventListener('error', callback, { once: true });
+}
 function resolveToAbsolute(rel, base) {
   try {                // URL-olio hoitaa kaikki “../” yms.
     return new URL(rel, base).href;
@@ -65,7 +88,6 @@ function initLogoLoader() {
   if (logoImg) {
     watchLogo(logoImg);
   } else {
-    // Jos logoa ei heti löydy, käytä MutationObserveria
     const observer = new MutationObserver((records, obs) => {
       const img = document.querySelector('.logo img');
       if (img) {
@@ -75,10 +97,11 @@ function initLogoLoader() {
     });
     observer.observe(document.documentElement, { childList: true, subtree: true });
 
-    // Varautuminen: piilota loader viiden sekunnin kuluttua
+    // varmistava aikakatkaisu 5s
     setTimeout(hideLoader, 5000);
   }
 }
+
 
 // Käynnistä heti, kun DOM on valmis
 if (document.readyState === 'loading') {
@@ -526,26 +549,43 @@ function initHeaderFunctions() {
     });
   });
 
-  // 5) Logo PJAX-etusivulle — delegoitu click-kuuntelija, varmistaa loaderin
+  // 5) Logo PJAX-etusivulle — nyt odotetaan logoa (& hero-taustaa) ennen loaderin piilottamista
   header.addEventListener('click', e => {
     const link = e.target.closest('.logo a, a.logo');
     if (!link) return;
 
     e.preventDefault();
     e.stopPropagation();
-
     closeAllMenus();
 
-    // flashaa loader nopeasti
+    // Näytetään loader
     showLoader();
-    setTimeout(hideLoader, 150);
-
-    console.log("[HEADER] Logo clicked — quick loader flash");
 
     // PJAX-lataus
-    setTimeout(() => {
-      loadPageViaAjax(link.href, { replaceState: false });
-    }, 50);
+    loadPageViaAjax(link.href, { replaceState: false })
+      .then(() => {
+        // Kun sisältö on injektoitu, etsitään logo ja odotetaan sen latautumista
+        const logoImg = document.querySelector('.logo img');
+        if (logoImg) {
+          watchLogo(logoImg);
+        } else {
+          // fallback: jos logo tulee mutaatiolla myöhemmin
+          const obs = new MutationObserver((recs, o) => {
+            const img = document.querySelector('.logo img');
+            if (img) {
+              watchLogo(img);
+              o.disconnect();
+            }
+          });
+          obs.observe(document.documentElement, { childList: true, subtree: true });
+          // varmistava aikakatkaisu
+          setTimeout(hideLoader, 5000);
+        }
+      })
+      .catch(err => {
+        console.error('[HEADER] Logo PJAX error:', err);
+        hideLoader();
+      });
   });
   // 6) Dropdownit
   initDropdowns();
@@ -807,19 +847,13 @@ function initPjaxNavigation() {
 /**
  * Loader side via AJAX med content-udskiftning og history.
  */
-/**
- * Lataa sivun AJAXilla, korvaa #content ja päivittää historyn.
- * Näyttää loaderin ennen kutsua ja piilottaa sen lopuksi.
- */
-/**
- * PJAX-lataus funktio, jossa scroll-to-hash
- */
+
 function loadPageViaAjax(url, options = {}) {
   showLoader();
   document.documentElement.classList.add('ajax-loading');
   console.log("[PJAX] Loading page via AJAX", url);
 
-  fetch(url)
+  return fetch(url) 
     .then(r => {
       if (!r.ok) throw new Error('Ajax load: ' + r.status);
       return r.text();
