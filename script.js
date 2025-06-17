@@ -46,7 +46,7 @@ function watchLogo(img) {
   } else if (img.complete) {
     done();
   } else {
-    img.addEventListener('load',  done, { once: true });
+    img.addEventListener('load', done, { once: true });
     img.addEventListener('error', done, { once: true });
   }
 }
@@ -68,7 +68,7 @@ function waitHeroBg(callback) {
     return callback();
   }
 
-  img.addEventListener('load',  callback, { once: true });
+  img.addEventListener('load', callback, { once: true });
   img.addEventListener('error', callback, { once: true });
 }
 function resolveToAbsolute(rel, base) {
@@ -123,7 +123,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .then(() => {
       console.log("[INIT] Header/Footer loaded");
       initCollectionLoader('.collection-btn', '#collection-content');
-      initCollectionLoader('.solution-btn',   '#solution-content');
+      initCollectionLoader('.solution-btn', '#solution-content');
       initPjaxNavigation();
 
       // —————— Tässä lisäys: heti kun header/footer on paikallaan,
@@ -847,7 +847,7 @@ function loadPageViaAjax(url, options = {}) {
   document.documentElement.classList.add('ajax-loading');
   console.log("[PJAX] Loading page via AJAX", url);
 
-  return fetch(url) 
+  return fetch(url)
     .then(r => {
       if (!r.ok) throw new Error('Ajax load: ' + r.status);
       return r.text();
@@ -877,7 +877,7 @@ function loadPageViaAjax(url, options = {}) {
       // 4) Re-initialisoinnit
       console.log("[PJAX] Re-initializing content scripts");
       initCollectionLoader('.collection-btn', '#collection-content');
-      initCollectionLoader('.solution-btn',   '#solution-content');
+      initCollectionLoader('.solution-btn', '#solution-content');
       initDynamicHash();
       // items-container poistettu → ei tarvetta dynaamiselle listaukselle
     })
@@ -1030,7 +1030,7 @@ function initDynamicHash() {
 function ensureViewportMeta() {
   if (!document.querySelector('meta[name="viewport"]')) {
     const meta = document.createElement('meta');
-    meta.name    = 'viewport';
+    meta.name = 'viewport';
     meta.content = 'width=device-width, initial-scale=1';
     document.head.prepend(meta);
   }
