@@ -714,7 +714,7 @@ input[type="submit"]:hover {
   /*! margin-top: calc(var(--header-height) * -1); */
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)),
-    url("images/MOON_GOLD_1.webp");
+    url("images/hero.avif");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1287,7 +1287,7 @@ footer {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-  margin-top: var(--header-height);
+  /*! margin-top: var(--header-height); */
 }
 
 #items-container {
@@ -1523,4 +1523,8 @@ p {
 
 #collection-content h2 {
   color: var(--color-light-beige);
+}
+
+.breadcrumbs {
+  margin-top: var(--header-height);
 }
