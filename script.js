@@ -802,10 +802,7 @@ function loadHeaderFooter() {
 /**
  * Initialiserer PJAX navigation for interne links.
  */
-/**
- * Initialiserer PJAX navigation for interne links.
- * Nyt näyttää loaderin sekä linkkiklikissä että popstate-tapahtumassa.
- */
+
 function initPjaxNavigation() {
   document.body.addEventListener('click', e => {
     const link = e.target.closest('a');
@@ -840,9 +837,6 @@ function initPjaxNavigation() {
     loadPageViaAjax(location.pathname, { replaceState: true });
   });
 }
-
-
-
 
 /**
  * Loader side via AJAX med content-udskiftning og history.
