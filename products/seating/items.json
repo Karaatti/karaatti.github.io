@@ -1,21 +1,21 @@
 [
   {
-    "name": "fixed-armchairs",
+    "name": "Fixed Armchairs",
     "href": "/products/seating/fixed-armchairs/",
     "type": "dir"
   },
   {
-    "name": "recliner-chairs",
+    "name": "Swivel Chairs",
     "href": "/products/seating/swivel-chairs/",
     "type": "dir"
   },
   {
-    "name": "upholstered-metal-dining-chairs",
+    "name": "Upholstered Metal Dining Chairs",
     "href": "/products/seating/upholstered-metal-dining-chairs/",
     "type": "dir"
   },
   {
-    "name": "upholstered-wood-dining-chairs",
+    "name": "Upholstered Wood Dining Chairs",
     "href": "/products/seating/upholstered-wood-dining-chairs/",
     "type": "dir"
   }
