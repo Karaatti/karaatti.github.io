@@ -8,5 +8,10 @@
     "name": "pillows",
     "href": "/products/pillows-duvets/pillows/",
     "type": "dir"
+  },
+  {
+    "name": "sets",
+    "href": "/products/pillows-duvets/sets/",
+    "type": "dir"
   }
 ]
