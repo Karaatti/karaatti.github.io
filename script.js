@@ -71,6 +71,36 @@ function waitHeroBg(callback) {
   img.addEventListener('load', callback, { once: true });
   img.addEventListener('error', callback, { once: true });
 }
+
+// script.js
+
+document.addEventListener('DOMContentLoaded', () => {
+  const buttons = document.querySelectorAll('.collection-btn, .solution-btn');
+
+  buttons.forEach(btn => {
+    // Käytetään capture-phasessa, jotta saadaan napin nykyinen "active"-tila tarkasti ennen toggle-logiikkaa
+    btn.addEventListener('click', event => {
+      const isActive = btn.classList.contains('active');
+      // Jos aktivointi avaa togglen (eli nappi EI ollut aktiivinen):
+      if (!isActive) {
+        const targetId = btn.classList.contains('collection-btn')
+          ? 'collection-content'
+          : 'solution-content';
+        const targetEl = document.getElementById(targetId);
+        if (!targetEl) return;
+
+        // Odotetaan vähän, jotta CSS-transition ehtii käynnistää avaamisen
+        setTimeout(() => {
+          targetEl.scrollIntoView({
+            behavior: 'smooth',
+            block: 'start'
+          });
+        }, 200); // säädä viivettä tarvittaessa animaatiokeston mukaiseksi
+      }
+    }, true);
+  });
+});
+
 function resolveToAbsolute(rel, base) {
   try {                // URL-olio hoitaa kaikki “../” yms.
     return new URL(rel, base).href;

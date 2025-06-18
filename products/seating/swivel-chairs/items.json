@@ -1,0 +1,22 @@
+[
+  {
+    "name": "bay",
+    "href": "/products/seating/fixed-armchairs/bay/",
+    "type": "dir"
+  },
+  {
+    "name": "blow",
+    "href": "/products/seating/swivel-chairs/blow/",
+    "type": "dir"
+  },
+  {
+    "name": "breeze",
+    "href": "/products/seating/swivel-chairs/breeze/",
+    "type": "dir"
+  },
+  {
+    "name": "wind",
+    "href": "/products/seating/swivel-chairs/wind/",
+    "type": "dir"
+  }
+]
