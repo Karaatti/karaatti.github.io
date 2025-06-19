@@ -1067,3 +1067,188 @@ function ensureViewportMeta() {
 }
 
 document.addEventListener('DOMContentLoaded', ensureViewportMeta);
+
+// script.js
+(function(){
+  let items = [];
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const holder = document.createElement('div');
+    document.body.appendChild(holder);
+
+    fetch('search.html')
+      .then(r => r.text())
+      .then(html => {
+        holder.innerHTML = html;
+        const wrapper = holder.querySelector('.search-wrapper');
+        const btn     = wrapper.querySelector('.search-button');
+        const input   = wrapper.querySelector('.search-input');
+        const results = wrapper.querySelector('.search-results');
+
+        btn.addEventListener('click', e => {
+          e.stopPropagation();
+          const isOpen  = wrapper.classList.contains('open');
+          const hasText = input.value.trim().length > 0;
+          if (isOpen && !hasText) return;
+          wrapper.classList.toggle('open');
+          if (wrapper.classList.contains('open')) input.focus();
+          else resetSearch();
+        });
+
+        document.addEventListener('click', e => {
+          if (wrapper.classList.contains('open') && !wrapper.contains(e.target)) {
+            resetSearch();
+          }
+        });
+        document.addEventListener('keydown', e => {
+          if (e.key === 'Escape' && wrapper.classList.contains('open')) {
+            resetSearch();
+          }
+        });
+
+        loadItemsFromSitemap().then(data => {
+          items = data;
+          console.log(`🔍 Latautui ${items.length} tuotetta sitemapistä`);
+        });
+
+        let timer;
+        input.addEventListener('input', () => {
+          clearTimeout(timer);
+          timer = setTimeout(() => doSearch(input.value, results), 200);
+        });
+
+        function resetSearch() {
+          wrapper.classList.remove('open');
+          input.value = '';
+          results.innerHTML = '';
+        }
+      });
+  });
+
+  async function loadItemsFromSitemap() {
+    try {
+      const resp = await fetch('sitemap.xml');
+      if (!resp.ok) throw 'sitemap not found';
+      const xmlText = await resp.text();
+      const doc     = new DOMParser().parseFromString(xmlText, 'application/xml');
+      const locEls  = doc.getElementsByTagName('loc');
+      const urls    = [];
+      for (let el of locEls) {
+        const loc = el.textContent.trim();
+        if (/\/\d+\.html$/.test(loc)) urls.push(loc);
+      }
+      return urls.map(parseItem);
+    } catch (err) {
+      console.error('❌ loadItemsFromSitemap error:', err);
+      return [];
+    }
+  }
+
+  function parseItem(loc) {
+    const url = loc;
+    const u   = new URL(loc, window.location.origin);
+    const seg = u.pathname.split('/').filter(Boolean);
+    const last = seg.pop();
+    return {
+      id:         last.replace(/\.html$/, ''),
+      name:       seg[seg.length - 1] || '',
+      categories: seg.slice(0, seg.length - 1),
+      pathname:   u.pathname  // tallennetaan oma path-osuus
+    };
+  }
+
+  function doSearch(q, resultsEl) {
+    const term = q.trim().toLowerCase();
+    resultsEl.innerHTML = '';
+    if (!term) return;
+
+    const tokens = term.split(/\s+/);
+    const hits = items.filter(item =>
+      tokens.every(tok =>
+        item.id.includes(tok) ||
+        item.name.toLowerCase().includes(tok) ||
+        item.categories.join(' ').toLowerCase().includes(tok)
+      )
+    );
+
+    if (hits.length) {
+      hits.forEach(i => resultsEl.appendChild(render(i)));
+    } else {
+      const suggestions = items
+        .map(item => ({
+          item,
+          score: tokens.map(tok => minLev(tok, item)).reduce((a,b)=>a+b,0)
+        }))
+        .sort((a,b)=>a.score - b.score)
+        .slice(0,5)
+        .map(x=>x.item);
+
+      if (suggestions.length) {
+        const header = document.createElement('li');
+        header.textContent = 'Suggestions:';
+        header.style.fontWeight = 'bold';
+        header.style.margin = '8px 0';
+        resultsEl.appendChild(header);
+        suggestions.forEach(i=>resultsEl.appendChild(render(i)));
+      } else {
+        const none = document.createElement('li');
+        none.textContent = 'No results';
+        none.className = 'no-results';
+        resultsEl.appendChild(none);
+      }
+    }
+  }
+
+  function render(item) {
+    const li = document.createElement('li');
+
+    // Kuva ladataan suhteellisella pathilla eikä absoluuttisella URLilla
+    const img = document.createElement('img');
+    img.className   = 'item-image';
+    img.crossOrigin = 'anonymous';
+    const avifPath  = item.pathname.replace(/\.html$/, '_1.avif');
+    const imgUrl    = window.location.origin + avifPath;
+    img.src         = imgUrl;
+    img.alt         = item.name;
+    console.log('🔗 Img src:', imgUrl);
+    li.appendChild(img);
+
+    const txt = document.createElement('div');
+    txt.className = 'item-text';
+
+    const a = document.createElement('a');
+    a.href      = window.location.origin + item.pathname;
+    a.textContent = `${item.name} (${item.id})`;
+    a.className = 'item-title';
+    txt.appendChild(a);
+
+    if (item.categories.length) {
+      const pathDiv = document.createElement('div');
+      pathDiv.className = 'item-path';
+      pathDiv.textContent = item.categories.join(' > ');
+      txt.appendChild(pathDiv);
+    }
+
+    li.appendChild(txt);
+    return li;
+  }
+
+  function minLev(term, item) {
+    const a = levenshtein(term, item.id);
+    const b = levenshtein(term, item.name.toLowerCase());
+    const c = levenshtein(term, item.categories.join(' ').toLowerCase());
+    return Math.min(a,b,c);
+  }
+  function levenshtein(a,b){
+    const m=a.length, n=b.length;
+    if(!m) return n; if(!n) return m;
+    const dp=Array(m+1).fill().map(()=>Array(n+1).fill(0));
+    for(let i=0;i<=m;i++) dp[i][0]=i;
+    for(let j=0;j<=n;j++) dp[0][j]=j;
+    for(let i=1;i<=m;i++)for(let j=1;j<=n;j++){
+      const cost = a[i-1]===b[j-1]?0:1;
+      dp[i][j] = Math.min(dp[i-1][j]+1, dp[i][j-1]+1, dp[i-1][j-1]+cost);
+    }
+    return dp[m][n];
+  }
+})();

@@ -1528,3 +1528,126 @@ p {
 .breadcrumbs {
   margin-top: var(--header-height);
 }
+
+/* search.css (päivitetty 4) */
+.search-wrapper {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1000;
+  font-family: var(--font-base);
+}
+
+.search-button {
+  position: absolute;
+  bottom: calc(env(safe-area-inset-bottom, 0px) + 16px);
+  left: 16px;
+  width: 56px;
+  height: 56px;
+  border: none;
+  border-radius: 50%;
+  background: var(--color-olive-green);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--box-shadow-default);
+  cursor: pointer;
+  pointer-events: auto;
+  transition: transform 0.3s ease;
+  transform: scale(1);
+}
+
+.search-button:hover {
+  background: var(--color-olive-green-dark);
+}
+
+.search-icon {
+  width: 40px;
+  height: 40px;
+  fill: #fff;
+}
+
+.search-panel {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 16px;
+  max-height: 70dvh;
+  background: var(--color-light-beige);
+  box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+  transform: translateY(100%);
+  pointer-events: auto;
+  transition: transform 0.3s ease;
+
+  /* Sisältö flex-kulho: tulokset alla, input alin */
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+/* Open state */
+.search-wrapper.open .search-panel {
+  transform: translateY(0);
+}
+
+.search-wrapper.open .search-button {
+  transform: scale(0.5) translateY(-20px);
+}
+
+.search-input {
+  width: 100%;
+  margin-top: 12px; /* input alimmaisena */
+  padding: 12px 16px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  box-shadow: var(--box-shadow-default);
+  font-family: var(--font-base);
+}
+
+.search-results {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  flex: 1; /* täyttää tilan inputin yläpuolella */
+  font-family: var(--font-base);
+}
+
+.search-results li {
+  display: flex;
+  align-items: center;
+  padding: 8px 0;
+}
+
+.item-image {
+  width: 50px;
+  height: auto;
+  margin-right: 12px;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+.item-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.item-title {
+  font-size: 14px;
+  color: #333;
+  font-family: var(--font-heading);
+}
+
+.item-path {
+  font-size: 12px;
+  color: #666;
+  margin-top: 4px;
+  font-family: var(--font-base);
+}
+
+.no-results {
+  text-align: center;
+  color: #999;
+  font-family: var(--font-base);
+}
