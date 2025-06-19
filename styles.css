@@ -484,7 +484,7 @@ input[type="submit"]:hover {
   padding: 0.5rem 0.75rem;
   font-size: 0.9rem;
   cursor: pointer;
-  z-index: 1055500;
+  z-index: 100;
   opacity: 0.7;
   transition: opacity 0.2s ease;
   width: 3em;
@@ -1040,23 +1040,6 @@ footer {
   z-index: 1;
 }
 
-#scroll-btn {
-  position: fixed;
-  bottom: 1rem;
-  right: 1rem;
-  display: none;
-  background-color: var(--color-dark-charcoal);
-  color: var(--color-white);
-  border: none;
-  border-radius: 50%;
-  padding: 0.5rem 0.75rem;
-  font-size: 0.9rem;
-  cursor: pointer;
-  z-index: 1055500;
-  opacity: 0.7;
-  transition: opacity 0.2s ease;
-}
-
 #scroll-btn:hover {
   opacity: 1;
 }
@@ -1562,9 +1545,11 @@ p {
 }
 
 .search-icon {
-  width: 40px;
-  height: 40px;
+  min-width: 1.5rem;
+  min-height: 1.5rem;
   fill: #fff;
+  margin-bottom: 0.25rem;
+  margin-right: 0.25rem;
 }
 
 .search-panel {
