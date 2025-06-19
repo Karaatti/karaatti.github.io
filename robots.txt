@@ -21,10 +21,6 @@
 #                                    Y8b d88P             
 #                                     "Y88P"              
 # robots.txt for https://nestliving.dk
-#
-# Site under construction – temporarily disallow all crawlers until launch
-# Sorry about that homies, we'll be up and running by mid-summers eve 2025!
-# After that all organics and robots welcome!
 
 User-agent: *
-Disallow: /
+Allow: /
