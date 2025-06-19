@@ -1076,7 +1076,7 @@ document.addEventListener('DOMContentLoaded', ensureViewportMeta);
     const holder = document.createElement('div');
     document.body.appendChild(holder);
 
-    fetch('search.html')
+    fetch('/search.html')
       .then(r => r.text())
       .then(html => {
         holder.innerHTML = html;
@@ -1127,7 +1127,7 @@ document.addEventListener('DOMContentLoaded', ensureViewportMeta);
 
   async function loadItemsFromSitemap() {
     try {
-      const resp = await fetch('sitemap.xml');
+      const resp = await fetch('/sitemap.xml');
       if (!resp.ok) throw 'sitemap not found';
       const xmlText = await resp.text();
       const doc     = new DOMParser().parseFromString(xmlText, 'application/xml');
