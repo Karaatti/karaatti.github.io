@@ -890,7 +890,7 @@ main img {
   z-index: 4;
 }
 
-.collection-buttons {
+.solution-buttons, .collection-buttons {
   display: grid;
   gap: 1rem;
   /* oletuksena 4 saraketta */
@@ -900,7 +900,7 @@ main img {
 
 /* 542 px ja sitä kapeammat näytöt → 2 saraketta */
 @media (max-width: 542px) {
-  .collection-buttons {
+ .solution-buttons, .collection-buttons {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
@@ -935,12 +935,7 @@ main img {
   z-index: 3;
 }
 
-.solution-buttons {
-  display: grid;
-  gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  margin-top: 1.5rem;
-}
+
 
 .solution-btn {
   display: block;
@@ -1661,8 +1656,8 @@ p {
 
 /* 3. Varsinainen banneri perii leveyden ja näyttää pointerin */
 .promo-banner {
-  width: 100%;
+  margin-left: 1rem;
   cursor: pointer;
-
+  margin-right: 1rem;
 }
 
