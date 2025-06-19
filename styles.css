@@ -1636,3 +1636,27 @@ p {
   color: #999;
   font-family: var(--font-base);
 }
+
+/* CSS */
+/* 1. Kontaineri keskittää bannerin vaakasuunnassa */
+.promo-banner-container {
+  display: flex;
+  justify-content: center;    /* Vaakakeskus */
+  padding: 1rem 0;            /* Ylä- ja alapadding tarvittaessa */
+}
+
+/* 2. Linkki venyttää itsensä bannerin leveydelle ja tekee koko alueesta klikattavan */
+.promo-link {
+  display: block;
+  width: 100%;
+  max-width: 1200px;          /* Aseta tähän haluamasi maksimi-leveys */
+  text-decoration: none;      /* Poistaa linkin alleviivauksen */
+}
+
+/* 3. Varsinainen banneri perii leveyden ja näyttää pointerin */
+.promo-banner {
+  width: 100%;
+  cursor: pointer;
+
+}
+
