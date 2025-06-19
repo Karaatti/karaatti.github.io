@@ -1472,14 +1472,20 @@ p {
   text-align: center;
 }
 
+#collection-content .variant-name {
+
+  color: var(--color-light-beige) !important;
+
+}
+
+
 .variant-name {
   text-transform: capitalize;
-  color: var(--color-light-beige);
+  color: var(--color-dark-charcoal) !important;
   font-size: 1.5rem;
   display: flex;
   justify-content: center;
 }
-
 
 #hero {
   background-position: center center !important;
