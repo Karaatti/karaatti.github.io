@@ -565,7 +565,6 @@ input[type="submit"]:hover {
 
   section {
     padding: 1.5rem 1rem;
-    max-width: var(--content-max-width);
   }
 
   p {
@@ -1048,7 +1047,7 @@ footer {
   box-shadow: var(--box-shadow-special);
   max-width: 95%;
   width: var(--content-max-width);
-  padding-inline: 2em;
+  padding-inline: 1rem;
 }
 
 #collection h2 {
@@ -1188,7 +1187,7 @@ html.ajax-loading #site-footer {
   background-color: var(--color-olive-green-dark) !important;
 }
 
-@media(hover:none) and(pointer:coarse) {
+@media(hover:none) and (pointer:coarse) {
   .collection-btn:active {
     box-shadow: 0 0 0 2px var(--color-olive-green) !important;
   }
