@@ -5,17 +5,17 @@
   <meta charset="UTF-8" />
   <title>NEST &amp; LIVING</title>
   <meta name="description"
-    content="Discover NEST & LIVING's exclusive collection of luxurious bedroom furniture. Elevate your space with stylish designs, ergonomic comfort, and exceptional quality at accessible prices. Explore our products today!">
+    content="NEST & LIVING's exclusive collection of luxurious furniture. Elevate your space with stylish designs, ergonomic comfort, and exceptional quality at accessible prices. Explore our products today!">
+  <meta property="og:title" content="Nest & Living Furniture">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="/styles.css" />
   <link rel="preload" as="image" href="images/hero.avif" type="image/avif">
   <link rel="preload" href="/styles.css" as="style" onload="this.rel='stylesheet'">
-  <link rel="preload" href="/fonts/Montserrat-VariableFont_wght.woff2"
-      as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="/fonts/Vegur-Bold.woff2"
-      as="font" type="font/woff2" crossorigin>
-
-  <noscript><link rel="stylesheet" href="/styles.css"></noscript>
+  <link rel="preload" href="/fonts/Montserrat-VariableFont_wght.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/Vegur-Bold.woff2" as="font" type="font/woff2" crossorigin>
+  <noscript>
+    <link rel="stylesheet" href="/styles.css">
+  </noscript>
 </head>
 
 <body>
@@ -121,22 +121,19 @@
         with Masku, one of Finland’s largest furniture retailers, in distributing our NEST & Living collection.
       </p>
     </section>
-<section class="with-texture-2" id="contact">
-  <h2>For further questions, leave a message:</h2>
-  <label for="message">Write your message here: *</label><br />
-  <textarea id="message" name="message" rows="5" cols="40"
-    placeholder="*Required: Write your support request here..." required></textarea><br />
+    <section class="with-texture-2" id="contact">
+      <h2>For further questions, leave a message:</h2>
+      <label for="message">Write your message here: *</label><br />
+      <textarea id="message" name="message" rows="5" cols="40"
+        placeholder="*Required: Write your support request here..." required></textarea><br />
 
-  <label for="email">Enter your email here: *</label><br />
-  <input type="email" id="email" name="email"
-    placeholder="*Required: example@nestliving.dk" required /><br /><br />
+      <label for="email">Enter your email here: *</label><br />
+      <input type="email" id="email" name="email" placeholder="*Required: example@nestliving.dk" required /><br /><br />
 
-  <button
-    onclick="sendMail(); return false;"
-  >
-    Send Message
-  </button>
-</section>
+      <button onclick="sendMail(); return false;">
+        Send Message
+      </button>
+    </section>
   </main>
   <script src="/script.js" defer></script>
 
