@@ -1,0 +1,61 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "productCount",
+  "attributeLabel": "Product count",
+  "value": "10 product",
+  "valueSlug": "10-product",
+  "valueType": "measurement",
+  "numericValue": 10,
+  "unit": "product",
+  "productTypes": [
+    "Mattress Protectors",
+    "Pillows"
+  ],
+  "familyCount": 3,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/pillows/staycool/214012_1.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/staycool",
+      "familyTitle": "Staycool",
+      "familySummary": "Cooling pillows and pillow protectors from the Staycool series.",
+      "primaryImageUrl": "/products/pillows/staycool/214012_1.jpg",
+      "schemaCategory": "Mattress Protectors and Pillows",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/staycomfort",
+      "familyTitle": "Staycomfort",
+      "familySummary": "Everyday pillows from the Staycomfort series.",
+      "primaryImageUrl": "/products/pillows/staycomfort/214015_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/staygentle",
+      "familyTitle": "Staygentle",
+      "familySummary": "Tencel mattress protectors from the Staygentle series.",
+      "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
+      "schemaCategory": "Mattress Protectors",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "product"
+    ],
+    "ranges": [
+      {
+        "unit": "product",
+        "min": 10,
+        "max": 10,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "10 product is a published product count used across selected Nest & Living products. Common on Mattress Protector and Pillow."
+}

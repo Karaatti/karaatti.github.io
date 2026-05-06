@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "setPieceHeight",
+  "attributeLabel": "Set piece height",
+  "value": "74 cm",
+  "valueSlug": "74-cm",
+  "valueType": "measurement",
+  "numericValue": 74,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Lounge Sets"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/outdoor-lounge-sets/palazzo/208993_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/palazzo",
+      "familyTitle": "Palazzo",
+      "familySummary": "A modern and airy outdoor sofa set featuring a three-seat sofa, two armchairs, and lightweight tables. Designed for comfort and easy maintenance.",
+      "primaryImageUrl": "/products/outdoor-lounge-sets/palazzo/208993_1.avif",
+      "schemaCategory": "Outdoor Lounge Sets",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 74,
+        "max": 74,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "74 cm is a published set piece height used across selected Nest & Living products. Common on Outdoor Lounge Set."
+}

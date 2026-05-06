@@ -1,0 +1,283 @@
+[
+  {
+    "name": "blow",
+    "title": "Blow Swivel Chair",
+    "href": "/products/swivel-chairs/blow/",
+    "type": "dir",
+    "summary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+    "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+    "filterData": {
+      "searchText": "Blow Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs. Swivel Chairs Living room Blow Living room Swivel Chairs Blow Beige Grey Foam Metal Polyester Steel Care Cleaning method Dry clean Dimensions Depth 81 cm cm Dimensions Height 102 cm cm Dimensions Width 74 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 13.5 kg kg Logistics Weight 14 kg kg Padding Foam density 35 kg/m³ kg/m³ Seating Seat count 1 seat seat Seating Seat height 44 cm cm Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "swivel-chairs",
+          "label": "Swivel Chairs",
+          "href": "/products/swivel-chairs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "blow",
+          "label": "Blow",
+          "href": "/families/blow/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        },
+        {
+          "key": "steel",
+          "label": "Steel",
+          "href": "/materials/steel/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "dry-clean",
+          "valueLabel": "Dry clean",
+          "href": "/attributes/care/cleaning-method/dry-clean/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "81-cm",
+          "valueLabel": "81 cm",
+          "href": "/attributes/dimensions/depth/81-cm/",
+          "valueType": "enum",
+          "numericValue": 81,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "102-cm",
+          "valueLabel": "102 cm",
+          "href": "/attributes/dimensions/height/102-cm/",
+          "valueType": "enum",
+          "numericValue": 102,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "74-cm",
+          "valueLabel": "74 cm",
+          "href": "/attributes/dimensions/width/74-cm/",
+          "valueType": "enum",
+          "numericValue": 74,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-35-m3",
+          "valueLabel": "0.35 m³",
+          "href": "/attributes/logistics/volume/0-35-m3/",
+          "valueType": "enum",
+          "numericValue": 0.35,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "13-5-kg",
+          "valueLabel": "13.5 kg",
+          "href": "/attributes/logistics/weight/13-5-kg/",
+          "valueType": "enum",
+          "numericValue": 13.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "14-kg",
+          "valueLabel": "14 kg",
+          "href": "/attributes/logistics/weight/14-kg/",
+          "valueType": "enum",
+          "numericValue": 14,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "foam-density",
+          "label": "Foam density",
+          "valueKey": "35-kg-m3",
+          "valueLabel": "35 kg/m³",
+          "href": "/attributes/padding/foam-density/35-kg-m3/",
+          "valueType": "enum",
+          "numericValue": 35,
+          "unit": "kg/m³"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-count",
+          "label": "Seat count",
+          "valueKey": "1-seat",
+          "valueLabel": "1 seat",
+          "href": "/attributes/seating/seat-count/1-seat/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "seat"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "44-cm",
+          "valueLabel": "44 cm",
+          "href": "/attributes/seating/seat-height/44-cm/",
+          "valueType": "enum",
+          "numericValue": 44,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "lightfastness",
+          "label": "Lightfastness",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/lightfastness/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "pilling",
+          "label": "Pilling",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/pilling/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Blow",
+      "summary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+      "variantCount": 2,
+      "categoryLabel": "Swivel Chairs",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": "Blow"
+    }
+  }
+]

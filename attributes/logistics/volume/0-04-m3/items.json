@@ -1,0 +1,42 @@
+[
+  {
+    "name": "westcoast",
+    "href": "/families/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Sofa Accessories",
+    "variantCount": 3
+  },
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 2
+  },
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 1
+  },
+  {
+    "name": "mystery",
+    "href": "/families/mystery/",
+    "type": "dir",
+    "title": "Mystery",
+    "schemaCategory": "Shelves",
+    "variantCount": 1
+  },
+  {
+    "name": "staycool",
+    "href": "/families/staycool/",
+    "type": "dir",
+    "title": "Staycool",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "50 cm",
+  "valueSlug": "50-cm",
+  "valueType": "measurement",
+  "numericValue": 50,
+  "unit": "cm",
+  "productTypes": [
+    "Pillows"
+  ],
+  "familyCount": 5,
+  "variantCount": 7,
+  "primaryImageUrl": "/products/pillows/nest-living-gold/201094_1.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nest-living-gold",
+      "familyTitle": "Nest & Living Gold",
+      "familySummary": "Pillows designed for a fuller feel, including comfort and quilted options.",
+      "primaryImageUrl": "/products/pillows/nest-living-gold/201094_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/staycool",
+      "familyTitle": "Staycool",
+      "familySummary": "Cooling pillows and pillow protectors from the Staycool series.",
+      "primaryImageUrl": "/products/pillows/staycool/214012_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/nest-living-silver",
+      "familyTitle": "Nest & Living Silver",
+      "familySummary": "Pillows for everyday bedroom comfort, including classic and box pillow options.",
+      "primaryImageUrl": "/products/pillows/nest-living-silver/201091_1.avif",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/staycation",
+      "familyTitle": "Staycation",
+      "familySummary": "Bedroom pillows from the Staycation series.",
+      "primaryImageUrl": "/products/pillows/staycation/214017_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/staycomfort",
+      "familyTitle": "Staycomfort",
+      "familySummary": "Everyday pillows from the Staycomfort series.",
+      "primaryImageUrl": "/products/pillows/staycomfort/214015_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 50,
+        "max": 50,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "50 cm is a published depth used across selected Nest & Living products. Common on Pillow."
+}

@@ -1,0 +1,266 @@
+{
+  "familyTitle": "Nordic Gazebos & Pergolas",
+  "familySummary": "Nordic gazebo and pergola variants with adjustable slatted roofs, sturdy aluminium and steel frames, and terrace-ready shelter for outdoor living.",
+  "primaryImageUrl": "/products/gazebos-pergolas/nordic/206776_1.avif",
+  "schemaCategory": "Gazebos & Pergolas",
+  "variantCount": 3,
+  "productFamilyName": "Nordic",
+  "productFamilyKey": "nordic",
+  "productFamilyRelativeDir": "families/nordic",
+  "filterData": {
+    "searchText": "Nordic Gazebos & Pergolas Nordic gazebo and pergola variants with adjustable slatted roofs, sturdy aluminium and steel frames, and terrace-ready shelter for outdoor living. Gazebos & Pergolas Outdoor Nordic Outdoor Gazebos & Pergolas Nordic Beige Black Aluminium Polyester Steel Dimensions Depth 300 cm cm Dimensions Height 250 cm cm Dimensions Width 300 cm cm Dimensions Width 392 cm cm Finish Surface finish Painted Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.13 m³ m³ Logistics Volume 0.17 m³ m³ Logistics Weight 31.5 kg kg Logistics Weight 49.5 kg kg Logistics Weight 68 kg kg Logistics Weight 120 kg kg Logistics Weight 144 kg kg Setup Assembly time 240 min min Warranty Quality guarantee 1000 days days",
+    "collections": [
+      {
+        "key": "outdoor",
+        "label": "Outdoor",
+        "href": "/collections/outdoor"
+      }
+    ],
+    "categories": [
+      {
+        "key": "gazebos-pergolas",
+        "label": "Gazebos & Pergolas",
+        "href": "/products/gazebos-pergolas/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "nordic",
+        "label": "Nordic",
+        "href": "/families/nordic/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "beige",
+        "label": "Beige",
+        "href": "/colors/beige/"
+      },
+      {
+        "key": "black",
+        "label": "Black",
+        "href": "/colors/black/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "aluminium",
+        "label": "Aluminium",
+        "href": "/materials/aluminium/"
+      },
+      {
+        "key": "polyester",
+        "label": "Polyester",
+        "href": "/materials/polyester/"
+      },
+      {
+        "key": "steel",
+        "label": "Steel",
+        "href": "/materials/steel/"
+      }
+    ],
+    "specifications": [],
+    "attributes": [
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "depth",
+        "label": "Depth",
+        "valueKey": "300-cm",
+        "valueLabel": "300 cm",
+        "href": "/attributes/dimensions/depth/300-cm/",
+        "valueType": "enum",
+        "numericValue": 300,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "height",
+        "label": "Height",
+        "valueKey": "250-cm",
+        "valueLabel": "250 cm",
+        "href": "/attributes/dimensions/height/250-cm/",
+        "valueType": "enum",
+        "numericValue": 250,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "300-cm",
+        "valueLabel": "300 cm",
+        "href": "/attributes/dimensions/width/300-cm/",
+        "valueType": "enum",
+        "numericValue": 300,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "392-cm",
+        "valueLabel": "392 cm",
+        "href": "/attributes/dimensions/width/392-cm/",
+        "valueType": "enum",
+        "numericValue": 392,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "finish",
+        "groupLabel": "Finish",
+        "key": "surface-finish",
+        "label": "Surface finish",
+        "valueKey": "painted",
+        "valueLabel": "Painted",
+        "href": "/attributes/finish/surface-finish/painted/",
+        "valueType": "enum",
+        "numericValue": 0,
+        "unit": ""
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-count",
+        "label": "Package count",
+        "valueKey": "1-package",
+        "valueLabel": "1 package",
+        "href": "/attributes/logistics/package-count/1-package/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "package"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "product-count",
+        "label": "Product count",
+        "valueKey": "1-product",
+        "valueLabel": "1 product",
+        "href": "/attributes/logistics/product-count/1-product/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "product"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-13-m3",
+        "valueLabel": "0.13 m³",
+        "href": "/attributes/logistics/volume/0-13-m3/",
+        "valueType": "enum",
+        "numericValue": 0.13,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-17-m3",
+        "valueLabel": "0.17 m³",
+        "href": "/attributes/logistics/volume/0-17-m3/",
+        "valueType": "enum",
+        "numericValue": 0.17,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "31-5-kg",
+        "valueLabel": "31.5 kg",
+        "href": "/attributes/logistics/weight/31-5-kg/",
+        "valueType": "enum",
+        "numericValue": 31.5,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "49-5-kg",
+        "valueLabel": "49.5 kg",
+        "href": "/attributes/logistics/weight/49-5-kg/",
+        "valueType": "enum",
+        "numericValue": 49.5,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "68-kg",
+        "valueLabel": "68 kg",
+        "href": "/attributes/logistics/weight/68-kg/",
+        "valueType": "enum",
+        "numericValue": 68,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "120-kg",
+        "valueLabel": "120 kg",
+        "href": "/attributes/logistics/weight/120-kg/",
+        "valueType": "enum",
+        "numericValue": 120,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "144-kg",
+        "valueLabel": "144 kg",
+        "href": "/attributes/logistics/weight/144-kg/",
+        "valueType": "enum",
+        "numericValue": 144,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "setup",
+        "groupLabel": "Setup",
+        "key": "assembly-time",
+        "label": "Assembly time",
+        "valueKey": "240-min",
+        "valueLabel": "240 min",
+        "href": "/attributes/setup/assembly-time/240-min/",
+        "valueType": "enum",
+        "numericValue": 240,
+        "unit": "min"
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "quality-guarantee",
+        "label": "Quality guarantee",
+        "valueKey": "1000-days",
+        "valueLabel": "1000 days",
+        "href": "/attributes/warranty/quality-guarantee/1000-days/",
+        "valueType": "enum",
+        "numericValue": 1000,
+        "unit": "days"
+      }
+    ]
+  },
+  "sortData": {
+    "title": "Nordic Gazebos & Pergolas",
+    "summary": "Nordic gazebo and pergola variants with adjustable slatted roofs, sturdy aluminium and steel frames, and terrace-ready shelter for outdoor living.",
+    "variantCount": 3,
+    "categoryLabel": "Gazebos & Pergolas",
+    "collectionLabel": "Outdoor",
+    "productFamilyLabel": "Nordic"
+  }
+}

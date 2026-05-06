@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "66 kg",
+  "valueSlug": "66-kg",
+  "valueType": "measurement",
+  "numericValue": 66,
+  "unit": "kg",
+  "productTypes": [
+    "3-Seater Sofas",
+    "Outdoor Lounge Sets"
+  ],
+  "familyCount": 2,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "A modern 3-seater sofa with a durable wooden frame and easy-care fabric upholstery. Available in beige and green.",
+      "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_1.avif",
+      "schemaCategory": "3-Seater Sofas",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/palazzo",
+      "familyTitle": "Palazzo",
+      "familySummary": "A modern and airy outdoor sofa set featuring a three-seat sofa, two armchairs, and lightweight tables. Designed for comfort and easy maintenance.",
+      "primaryImageUrl": "/products/outdoor-lounge-sets/palazzo/208993_1.avif",
+      "schemaCategory": "Outdoor Lounge Sets",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 66,
+        "max": 66,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "66 kg is a published weight used across selected Nest & Living products. Common on 3-Seater Sofa and Outdoor Lounge Set."
+}

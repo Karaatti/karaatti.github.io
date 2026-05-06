@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ruutu",
+    "href": "/families/ruutu/",
+    "type": "dir",
+    "title": "Ruutu",
+    "schemaCategory": "Rugs",
+    "variantCount": 4
+  },
+  {
+    "name": "moderni",
+    "href": "/families/moderni/",
+    "type": "dir",
+    "title": "Moderni",
+    "schemaCategory": "Rugs",
+    "variantCount": 3
+  },
+  {
+    "name": "sirmione",
+    "href": "/families/sirmione/",
+    "type": "dir",
+    "title": "Sirmione",
+    "schemaCategory": "Rugs",
+    "variantCount": 3
+  },
+  {
+    "name": "yanam",
+    "href": "/families/yanam/",
+    "type": "dir",
+    "title": "Yanam",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "desenzano",
+    "href": "/families/desenzano/",
+    "type": "dir",
+    "title": "Desenzano",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "garda",
+    "href": "/families/garda/",
+    "type": "dir",
+    "title": "Garda",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "staycool",
+    "href": "/families/staycool/",
+    "type": "dir",
+    "title": "Staycool",
+    "schemaCategory": "Duvets",
+    "variantCount": 1
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "productCount",
+  "attributeLabel": "Product count",
+  "value": "8 product",
+  "valueSlug": "8-product",
+  "valueType": "measurement",
+  "numericValue": 8,
+  "unit": "product",
+  "productTypes": [
+    "Duvets",
+    "Pillows"
+  ],
+  "familyCount": 2,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/pillows/staycation/214017_1.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/staycation",
+      "familyTitle": "Staycation",
+      "familySummary": "Bedroom pillows from the Staycation series.",
+      "primaryImageUrl": "/products/pillows/staycation/214017_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/staycool",
+      "familyTitle": "Staycool",
+      "familySummary": "Cooling duvets from the Staycool series.",
+      "primaryImageUrl": "/products/duvets/staycool/214013_1.jpg",
+      "schemaCategory": "Duvets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "product"
+    ],
+    "ranges": [
+      {
+        "unit": "product",
+        "min": 8,
+        "max": 8,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "8 product is a published product count used across selected Nest & Living products. Common on Duvet and Pillow."
+}

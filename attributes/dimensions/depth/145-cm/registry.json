@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "145 cm",
+  "valueSlug": "145-cm",
+  "valueType": "measurement",
+  "numericValue": 145,
+  "unit": "cm",
+  "productTypes": [
+    "Chaise Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 6,
+  "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey.",
+      "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+      "schemaCategory": "Chaise Sofas",
+      "variantCount": 6
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 145,
+        "max": 145,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "145 cm is a published depth used across selected Nest & Living products. Common on Chaise Sofa."
+}

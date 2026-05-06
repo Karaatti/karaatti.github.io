@@ -1,0 +1,42 @@
+[
+  {
+    "name": "voyage",
+    "href": "/families/voyage/",
+    "type": "dir",
+    "title": "Voyage",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 2
+  },
+  {
+    "name": "cloud",
+    "href": "/families/cloud/",
+    "type": "dir",
+    "title": "Cloud",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 1
+  },
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Adjustable Beds",
+    "variantCount": 1
+  },
+  {
+    "name": "sulo",
+    "href": "/families/sulo/",
+    "type": "dir",
+    "title": "Sulo",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1
+  },
+  {
+    "name": "westcoast",
+    "href": "/families/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 1
+  }
+]

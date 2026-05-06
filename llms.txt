@@ -1,0 +1,57 @@
+# Nest & Living
+
+> We publish a static furniture site with clean URLs, accessible structure, and direct product discovery. Use public pages as the source of truth. For search, use `/search/?q=...`. For normalized facts, use the registry pages under `/materials/`, `/colors/`, `/specifications/`, and `/attributes/`.
+
+We built Nest & Living to give our collection a clear home of its own. The public site is static and intentionally easy to browse, parse, and link to. We maintain it with an internal Webtool, but that tool is not public.
+
+When a clean public page exists, prefer it over maintenance files or legacy fragments. When the question is about one exact SKU, prefer the SKU page over the family page.
+
+## Start Here
+
+- [Homepage](https://nestliving.dk/): Brand context and the main sections of the site.
+- [Search](https://nestliving.dk/search/): Direct search page. Use `?q=` for queries such as `https://nestliving.dk/search/?q=sofa+green`.
+- [Products](https://nestliving.dk/products/): Main entry point for product categories.
+- [Collections](https://nestliving.dk/collections/): Room-based browsing.
+- [Retailers](https://nestliving.dk/retailers/): Store finder with location search, map view, route guidance, and Masku store links.
+- [Families](https://nestliving.dk/families/): Product-family overviews and variant context.
+
+## Navigation
+
+- [Homepage sections](https://nestliving.dk/#about): The homepage supports `#about`, `#collection`, `#promo`, `#solutions`, `#retailers`, and `#contact`.
+- [Products by room](https://nestliving.dk/products/#bedroom): `/products/` supports `#bedroom`, `#living-room`, `#dining-room`, `#home-details`, and `#outdoor` when no search query is active.
+- [Product sections](https://nestliving.dk/products/adjustable-beds/moon-gold/197647#details): Product pages support `#details`, `#gallery`, and `#context`.
+
+The published site shell includes these main navigation targets:
+
+- Logo: `/`
+- Search: opens the site search; the direct page is `/search/`
+- Main links: `/#about`, `/#collection`, `/#solutions`, `/#retailers`, `/#contact`
+- Dedicated retailer directory: `/retailers/`
+- Products menu: links to room collections and product-group pages
+- Footer support links: `/#about`, `/help-center`, `/faq`, `/#contact`, and `mailto:support@nestliving.dk`
+
+## Reference Pages
+
+- [Materials](https://nestliving.dk/materials/): Shared material library.
+- [Material detail](https://nestliving.dk/materials/memory-foam/): Material pages use `/materials/<material-slug>/`.
+- [Colors](https://nestliving.dk/colors/): Shared color library.
+- [Color detail](https://nestliving.dk/colors/green/): Color pages use `/colors/<color-slug>/`.
+- [Specifications](https://nestliving.dk/specifications/): Construction and component concepts.
+- [Attributes](https://nestliving.dk/attributes/): Reusable product properties and values.
+- [Attribute detail](https://nestliving.dk/attributes/comfort/firmness/medium-firm/): Attribute pages use `/attributes/<group>/<attribute-key>/<value-slug>/`.
+
+## Support
+
+- [FAQ](https://nestliving.dk/faq)
+- [Help Center](https://nestliving.dk/help-center)
+- [About](https://nestliving.dk/about.html)
+
+## Notes
+
+Ignore maintenance-only files such as `/partials/` and audit pages when a public page exists.
+
+## Optional
+
+- [Sitemap](https://nestliving.dk/sitemap.xml)
+- [Robots](https://nestliving.dk/robots.txt)
+- [Blog](https://nestliving.dk/blog.html)

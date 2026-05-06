@@ -1,0 +1,152 @@
+[
+  {
+    "name": "armrest-width",
+    "label": "Armrest width",
+    "href": "/attributes/seating/armrest-width/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 12,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 26,
+          "max": 26,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "backrest-height",
+    "label": "Backrest height",
+    "href": "/attributes/seating/backrest-height/",
+    "type": "dir",
+    "entryCount": 2,
+    "variantCount": 12,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 27,
+          "max": 68,
+          "count": 2,
+          "distinctCount": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "seat-count",
+    "label": "Seat count",
+    "href": "/attributes/seating/seat-count/",
+    "type": "dir",
+    "entryCount": 3,
+    "variantCount": 13,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 3,
+      "unitCount": 1,
+      "units": [
+        "seat"
+      ],
+      "ranges": [
+        {
+          "unit": "seat",
+          "min": 1,
+          "max": 4,
+          "count": 3,
+          "distinctCount": 3
+        }
+      ]
+    }
+  },
+  {
+    "name": "seat-depth",
+    "label": "Seat depth",
+    "href": "/attributes/seating/seat-depth/",
+    "type": "dir",
+    "entryCount": 7,
+    "variantCount": 18,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 7,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 43.5,
+          "max": 66,
+          "count": 7,
+          "distinctCount": 7
+        }
+      ]
+    }
+  },
+  {
+    "name": "seat-height",
+    "label": "Seat height",
+    "href": "/attributes/seating/seat-height/",
+    "type": "dir",
+    "entryCount": 6,
+    "variantCount": 25,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 6,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 38,
+          "max": 48,
+          "count": 6,
+          "distinctCount": 6
+        }
+      ]
+    }
+  },
+  {
+    "name": "seat-width",
+    "label": "Seat width",
+    "href": "/attributes/seating/seat-width/",
+    "type": "dir",
+    "entryCount": 7,
+    "variantCount": 19,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 7,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 39.5,
+          "max": 92,
+          "count": 7,
+          "distinctCount": 7
+        }
+      ]
+    }
+  }
+]

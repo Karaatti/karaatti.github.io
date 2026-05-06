@@ -1,0 +1,53 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "58 cm",
+  "valueSlug": "58-cm",
+  "valueType": "measurement",
+  "numericValue": 58,
+  "unit": "cm",
+  "productTypes": [
+    "Adjustable Beds",
+    "Side Tables"
+  ],
+  "familyCount": 2,
+  "variantCount": 7,
+  "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+      "schemaCategory": "Adjustable Beds",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/swallow",
+      "familyTitle": "Swallow",
+      "familySummary": "Round side table made of natural rubberwood with a 45 cm diameter top. Minimalist design with smooth, rounded edges.",
+      "primaryImageUrl": "/products/side-tables/swallow/198080_1.avif",
+      "schemaCategory": "Side Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 58,
+        "max": 58,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "58 cm is a published height used across selected Nest & Living products. Common on Adjustable Bed and Side Table."
+}

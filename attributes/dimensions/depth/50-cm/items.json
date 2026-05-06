@@ -1,0 +1,42 @@
+[
+  {
+    "name": "nest-living-gold",
+    "href": "/families/nest-living-gold/",
+    "type": "dir",
+    "title": "Nest & Living Gold",
+    "schemaCategory": "Pillows",
+    "variantCount": 2
+  },
+  {
+    "name": "staycool",
+    "href": "/families/staycool/",
+    "type": "dir",
+    "title": "Staycool",
+    "schemaCategory": "Pillows",
+    "variantCount": 2
+  },
+  {
+    "name": "nest-living-silver",
+    "href": "/families/nest-living-silver/",
+    "type": "dir",
+    "title": "Nest & Living Silver",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  },
+  {
+    "name": "staycation",
+    "href": "/families/staycation/",
+    "type": "dir",
+    "title": "Staycation",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  },
+  {
+    "name": "staycomfort",
+    "href": "/families/staycomfort/",
+    "type": "dir",
+    "title": "Staycomfort",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  }
+]

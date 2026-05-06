@@ -1,0 +1,161 @@
+{
+  "attributeKey": "legHeight",
+  "attributeLabel": "Leg height",
+  "group": "configuration",
+  "groupLabel": "Configuration",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 3,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 0.6,
+        "max": 15,
+        "count": 3,
+        "distinctCount": 3
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "configuration",
+      "groupLabel": "Configuration",
+      "attributeKey": "legHeight",
+      "attributeLabel": "Leg height",
+      "value": "0.6 cm",
+      "valueSlug": "0-6-cm",
+      "valueType": "measurement",
+      "numericValue": 0.6,
+      "unit": "cm",
+      "productTypes": [
+        "3-Seater Sofas",
+        "Chaise Sofas",
+        "Corner Sofas",
+        "Footstools"
+      ],
+      "familyCount": 1,
+      "variantCount": 12,
+      "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/lugo",
+          "familyTitle": "Lugo",
+          "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+          "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+          "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+          "variantCount": 12
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 0.6,
+            "max": 0.6,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "0.6 cm is a published leg height used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa, Corner Sofa and Footstool."
+    },
+    {
+      "group": "configuration",
+      "groupLabel": "Configuration",
+      "attributeKey": "legHeight",
+      "attributeLabel": "Leg height",
+      "value": "5 cm",
+      "valueSlug": "5-cm",
+      "valueType": "measurement",
+      "numericValue": 5,
+      "unit": "cm",
+      "productTypes": [
+        "Corner Sofas"
+      ],
+      "familyCount": 1,
+      "variantCount": 2,
+      "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/haave",
+          "familyTitle": "Haave",
+          "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+          "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+          "schemaCategory": "Corner Sofas",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 5,
+            "max": 5,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "5 cm is a published leg height used across selected Nest & Living products. Common on Corner Sofa."
+    },
+    {
+      "group": "configuration",
+      "groupLabel": "Configuration",
+      "attributeKey": "legHeight",
+      "attributeLabel": "Leg height",
+      "value": "15 cm",
+      "valueSlug": "15-cm",
+      "valueType": "measurement",
+      "numericValue": 15,
+      "unit": "cm",
+      "productTypes": [
+        "Adjustable Beds",
+        "Continental Beds"
+      ],
+      "familyCount": 1,
+      "variantCount": 8,
+      "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/moon-silver",
+          "familyTitle": "Moon Silver",
+          "familySummary": "Adjustable bed with 5-zone pocket spring support and wooden legs. Durable steel frame and ergonomic design for comfort.",
+          "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+          "schemaCategory": "Adjustable Beds and Continental Beds",
+          "variantCount": 8
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 15,
+            "max": 15,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "15 cm is a published leg height used across selected Nest & Living products. Common on Adjustable Bed and Continental Bed."
+    }
+  ]
+}

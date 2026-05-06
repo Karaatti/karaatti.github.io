@@ -1,0 +1,38 @@
+[
+  {
+    "name": "1-package",
+    "label": "1 package",
+    "href": "/attributes/logistics/package-count/1-package/",
+    "type": "dir",
+    "description": "1 package is a published package count used across selected Nest & Living products. Common on 3-Seater Sofa, 4-Seater Sofa, Adjustable Bed, Armchair, Bar Stool and Bed Frame and 31 more.",
+    "familyCount": 59,
+    "variantCount": 395,
+    "valueType": "measurement",
+    "numericValue": 1,
+    "unit": "package"
+  },
+  {
+    "name": "2-package",
+    "label": "2 package",
+    "href": "/attributes/logistics/package-count/2-package/",
+    "type": "dir",
+    "description": "2 package is a published package count used across selected Nest & Living products. Common on Continental Bed and Outdoor Lounge Set.",
+    "familyCount": 3,
+    "variantCount": 10,
+    "valueType": "measurement",
+    "numericValue": 2,
+    "unit": "package"
+  },
+  {
+    "name": "3-package",
+    "label": "3 package",
+    "href": "/attributes/logistics/package-count/3-package/",
+    "type": "dir",
+    "description": "3 package is a published package count used across selected Nest & Living products. Common on Outdoor Lounge Set.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 3,
+    "unit": "package"
+  }
+]

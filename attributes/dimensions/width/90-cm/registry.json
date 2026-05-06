@@ -1,0 +1,100 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "90 cm",
+  "valueSlug": "90-cm",
+  "valueType": "measurement",
+  "numericValue": 90,
+  "unit": "cm",
+  "productTypes": [
+    "Adjustable Beds",
+    "Armchairs",
+    "Coffee Tables",
+    "Divan Bed",
+    "Divan Beds",
+    "Mattress Protectors",
+    "Mattresses",
+    "Outdoor Dining Tables",
+    "Toppers"
+  ],
+  "familyCount": 7,
+  "variantCount": 28,
+  "primaryImageUrl": "/products/toppers/moon-gold/197742_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Grey latex mattress topper offers good support and breathability for a single bed. Suitable for improving sleep quality in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-gold/197742_1.avif",
+      "schemaCategory": "Adjustable Beds, Divan Beds, Mattresses and Toppers",
+      "variantCount": 14
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+      "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
+      "schemaCategory": "Adjustable Beds, Divan Beds, Mattresses and Toppers",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Moon Bronze Basic is a lightweight, breathable mattress topper that adds gentle cushioning and supports a neutral sleeping posture. Its white tone with subtle leaf patterns fits well in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+      "schemaCategory": "Adjustable Beds, Divan Beds and Toppers",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/island",
+      "familyTitle": "Island",
+      "familySummary": "Stackable two-piece coffee table in brown or beige with a soft asymmetrical shape for flexible living room layouts.",
+      "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
+      "schemaCategory": "Coffee Tables",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/saarni",
+      "familyTitle": "Saarni",
+      "familySummary": "Outdoor dining table with aluminium frame and nonwood surface in a light Beige tone. Practical and easy to maintain.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206641_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/voyage",
+      "familyTitle": "Voyage",
+      "familySummary": "A fixed armchair with a solid wood frame, soft foam and feather seat, and removable cotton covers in white or green.",
+      "primaryImageUrl": "/products/armchairs/voyage/208784_1.avif",
+      "schemaCategory": "Armchairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/nest-living",
+      "familyTitle": "Nest & Living",
+      "familySummary": "Quilted mattress protector with elastic corners to keep it in place. Protects and extends the life of your mattress.",
+      "primaryImageUrl": "/products/mattress-protectors/nest-living/nest_living_mattress_protector_white_1.avif",
+      "schemaCategory": "Mattress Protectors",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 90,
+        "max": 90,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "90 cm is a published width used across selected Nest & Living products. Common on Adjustable Bed, Armchair, Coffee Table, Divan Bed, Mattress Protector and Mattress and 2 more."
+}

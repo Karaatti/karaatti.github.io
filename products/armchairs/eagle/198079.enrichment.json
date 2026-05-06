@@ -1,0 +1,270 @@
+{
+  "sku": "198079",
+  "displayName": "Eagle Fixed Armchair, Black",
+  "metaTitle": "Eagle Fixed Armchair, Black - NEST & LIVING",
+  "metaDescription": "Black faux leather upholstery with black frame for a sleek, modern feel.",
+  "ogTitle": "Eagle Fixed Armchair, Black",
+  "ogDescription": "Black faux leather upholstery with black frame for a sleek, modern feel.",
+  "shortDescription": "Black faux leather upholstery with black frame for a sleek, modern feel.",
+  "familyDescription": "The Eagle armchair features a natural wood frame combined with fabric or faux leather upholstery. Its minimalist design suits various interiors, offering a comfortable and practical seating option for everyday use.",
+  "schemaCategory": "Fixed Armchairs",
+  "selectionAttributes": {
+    "dimensions": "75 x 72 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Black",
+    "material": "Faux leather, Plywood, Oak"
+  },
+  "attributes": [
+    {
+      "key": "maximumLoad",
+      "label": "Maximum load",
+      "group": "load",
+      "groupLabel": "Load",
+      "value": "110 kg",
+      "valueSlug": "110-kg",
+      "rawValue": "110 kg",
+      "valueType": "enum",
+      "numericValue": 110,
+      "unit": "kg",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Maksimikuorma",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "11 kg",
+      "valueSlug": "11-kg",
+      "rawValue": "11 kg",
+      "valueType": "enum",
+      "numericValue": 11,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "priceGuarantee",
+      "label": "Price guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "30 days",
+      "valueSlug": "30-days",
+      "rawValue": "30 päivää",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Hintatakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.41 m³",
+      "valueSlug": "0-41-m3",
+      "rawValue": "0.41 m³",
+      "valueType": "enum",
+      "numericValue": 0.41,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "16.5 kg",
+      "valueSlug": "16-5-kg",
+      "rawValue": "16.5 kg",
+      "valueType": "enum",
+      "numericValue": 16.5,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "75 cm",
+      "valueSlug": "75-cm",
+      "rawValue": "75 cm",
+      "valueType": "enum",
+      "numericValue": 75,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "72 cm",
+      "valueSlug": "72-cm",
+      "rawValue": "72 cm",
+      "valueType": "enum",
+      "numericValue": 72,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "71 cm",
+      "valueSlug": "71-cm",
+      "rawValue": "71 cm",
+      "valueType": "enum",
+      "numericValue": 71,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Faux leather, Plywood, Oak",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Black",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/black/\">Black</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Faux leather, Plywood, Oak",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/faux-leather/\">Faux leather</a><a class=\"spec-link-chip\" href=\"/materials/plywood/\">Plywood</a><a class=\"spec-link-chip\" href=\"/materials/oak/\">Oak</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "75 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "75 cm",
+          "href": "/attributes/dimensions/width/75-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/75-cm/\">75 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "72 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "72 cm",
+          "href": "/attributes/dimensions/depth/72-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/72-cm/\">72 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "71 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "71 cm",
+          "href": "/attributes/dimensions/height/71-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/71-cm/\">71 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "11 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "11 kg",
+          "href": "/attributes/logistics/weight/11-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/11-kg/\">11 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/armchairs/eagle/198079_1.avif",
+  "imageUrls": [
+    "/products/armchairs/eagle/198079_1.avif",
+    "/products/armchairs/eagle/198079_2.avif",
+    "/products/armchairs/eagle/198079_3.avif",
+    "/products/armchairs/eagle/198079_4.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/198079-eagle-nojatuoli-musta-runko-musta-keinonahka"
+}

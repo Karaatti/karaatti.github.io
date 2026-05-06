@@ -1,0 +1,228 @@
+{
+  "sku": "200725",
+  "displayName": "Amaris Rug, 160 x 230 cm",
+  "metaTitle": "Amaris Rug, 160 x 230 cm - NEST & LIVING",
+  "metaDescription": "Amaris rug, 160 x 230 cm, with a soft viscose pile and classic pattern.",
+  "ogTitle": "Amaris Rug, 160 x 230 cm",
+  "ogDescription": "Amaris rug, 160 x 230 cm, with a soft viscose pile and classic pattern.",
+  "shortDescription": "Amaris rug, 160 x 230 cm, with a soft viscose pile and classic pattern.",
+  "familyDescription": "The Amaris rug features a refined pattern and a soft viscose pile that adds a subtle sheen and silk-like feel. Its blend of viscose and polyester creates a gentle contrast that highlights the classic ornament design. Available in two sizes, it suits both traditional and modern interiors.",
+  "schemaCategory": "Rugs",
+  "selectionAttributes": {
+    "dimensions": "160 x 230 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Multicolour",
+    "material": "Viscose, Polyester"
+  },
+  "attributes": [
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "160 cm",
+      "valueSlug": "160-cm",
+      "rawValue": "160 cm",
+      "valueType": "enum",
+      "numericValue": 160,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "230 cm",
+      "valueSlug": "230-cm",
+      "rawValue": "230 cm",
+      "valueType": "enum",
+      "numericValue": 230,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "6 kg",
+      "valueSlug": "6-kg",
+      "rawValue": "6 kg",
+      "valueType": "enum",
+      "numericValue": 6,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "priceGuarantee",
+      "label": "Price guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "30 days",
+      "valueSlug": "30-days",
+      "rawValue": "30 päivää",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Hintatakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.03 m³",
+      "valueSlug": "0-03-m3",
+      "rawValue": "0.03 m³",
+      "valueType": "enum",
+      "numericValue": 0.03,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Multicolour",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/multicolour/\">Multicolour</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Viscose, Polyester",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/viscose/\">Viscose</a><a class=\"spec-link-chip\" href=\"/materials/polyester/\">Polyester</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "160 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "160 cm",
+          "href": "/attributes/dimensions/width/160-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/160-cm/\">160 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "230 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "230 cm",
+          "href": "/attributes/dimensions/depth/230-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/230-cm/\">230 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "6 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "6 kg",
+          "href": "/attributes/logistics/weight/6-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/6-kg/\">6 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/rugs/amaris/amaris_rug_multicolour_1.avif",
+  "imageUrls": [
+    "/products/rugs/amaris/amaris_rug_multicolour_1.avif",
+    "/products/rugs/amaris/amaris_rug_multicolour_2.avif",
+    "/products/rugs/amaris/amaris_rug_multicolour_3.avif",
+    "/products/rugs/amaris/amaris_rug_multicolour_4.avif",
+    "/products/rugs/amaris/amaris_rug_multicolour_6.avif",
+    "/products/rugs/amaris/amaris_rug_multicolour_7.avif",
+    "/products/rugs/amaris/amaris_rug_multicolour_5.jpg",
+    "/products/rugs/amaris/amaris_rug_multicolour_8.jpg",
+    "/products/rugs/amaris/amaris_rug_multicolour_9.jpg",
+    "/products/rugs/amaris/200725_1.avif",
+    "/products/rugs/amaris/200725_2.jpg",
+    "/products/rugs/amaris/200725_3.jpg",
+    "/products/rugs/amaris/200725_4.jpg",
+    "/products/rugs/amaris/200725_5.jpg",
+    "/products/rugs/amaris/200725_6.jpg",
+    "/products/rugs/amaris/200725_7.jpg"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/200725-amaris-matto-160x230cm"
+}

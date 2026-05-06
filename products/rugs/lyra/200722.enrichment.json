@@ -1,0 +1,218 @@
+{
+  "sku": "200722",
+  "displayName": "Lyra Rug, 200 x 290 cm",
+  "metaTitle": "Lyra Rug, 200 x 290 cm - NEST & LIVING",
+  "metaDescription": "Brown, orange and beige rug, 200 x 290 cm, with a soft viscose pile and wool base.",
+  "ogTitle": "Lyra Rug, 200 x 290 cm",
+  "ogDescription": "Brown, orange and beige rug, 200 x 290 cm, with a soft viscose pile and wool base.",
+  "shortDescription": "Brown, orange and beige rug, 200 x 290 cm, with a soft viscose pile and wool base.",
+  "familyDescription": "The Lyra rug blends natural aesthetics with a soft, silk-like viscose pile and a durable wool base. Woven using a high and low technique, it features a subtle three-dimensional pattern in a harmonious colour palette. Available in two practical sizes, it suits living rooms, bedrooms, and other central spaces.",
+  "schemaCategory": "Rugs",
+  "selectionAttributes": {
+    "dimensions": "200 x 290 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Brown, Orange, Beige",
+    "material": "Viscose, Wool"
+  },
+  "attributes": [
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "200 cm",
+      "valueSlug": "200-cm",
+      "rawValue": "200 cm",
+      "valueType": "enum",
+      "numericValue": 200,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "290 cm",
+      "valueSlug": "290-cm",
+      "rawValue": "290 cm",
+      "valueType": "enum",
+      "numericValue": 290,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "9 kg",
+      "valueSlug": "9-kg",
+      "rawValue": "9 kg",
+      "valueType": "enum",
+      "numericValue": 9,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.05 m³",
+      "valueSlug": "0-05-m3",
+      "rawValue": "0,05 m³",
+      "valueType": "enum",
+      "numericValue": 0.05,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Brown, Orange, Beige",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/brown/\">Brown</a><a class=\"spec-link-chip\" href=\"/colors/orange/\">Orange</a><a class=\"spec-link-chip\" href=\"/colors/beige/\">Beige</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Viscose, Wool",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/viscose/\">Viscose</a><a class=\"spec-link-chip\" href=\"/materials/wool/\">Wool</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "200 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/200-cm/\">200 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "290 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "290 cm",
+          "href": "/attributes/dimensions/depth/290-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/290-cm/\">290 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "9 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "9 kg",
+          "href": "/attributes/logistics/weight/9-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/9-kg/\">9 kg</a></span>"
+    },
+    {
+      "label": "Colors",
+      "value": "Brown, Orange, Beige",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/brown/\">Brown</a><a class=\"spec-link-chip\" href=\"/colors/orange/\">Orange</a><a class=\"spec-link-chip\" href=\"/colors/beige/\">Beige</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/rugs/lyra/lyra_rug_brown_orange_beige_1.avif",
+  "imageUrls": [
+    "/products/rugs/lyra/lyra_rug_brown_orange_beige_1.avif",
+    "/products/rugs/lyra/lyra_rug_brown_orange_beige_2.avif",
+    "/products/rugs/lyra/lyra_rug_brown_orange_beige_3.avif",
+    "/products/rugs/lyra/lyra_rug_brown_orange_beige_4.avif",
+    "/products/rugs/lyra/lyra_rug_brown_orange_beige_5.avif",
+    "/products/rugs/lyra/lyra_rug_brown_orange_beige_7.avif",
+    "/products/rugs/lyra/lyra_rug_brown_orange_beige_6.jpg",
+    "/products/rugs/lyra/lyra_rug_brown_orange_beige_8.jpg",
+    "/products/rugs/lyra/lyra_rug_brown_orange_beige_9.jpg",
+    "/products/rugs/lyra/200722_1.avif",
+    "/products/rugs/lyra/200722_2.avif",
+    "/products/rugs/lyra/200722_3.avif",
+    "/products/rugs/lyra/200722_4.avif",
+    "/products/rugs/lyra/200722_5.avif",
+    "/products/rugs/lyra/200722_6.avif",
+    "/products/rugs/lyra/200722_7.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/200722-lyra-matto-200x290cm"
+}

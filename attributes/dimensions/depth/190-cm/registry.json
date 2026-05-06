@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "190 cm",
+  "valueSlug": "190-cm",
+  "valueType": "measurement",
+  "numericValue": 190,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Sun Loungers"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/house-nordic-derby",
+      "familyTitle": "House Nordic Derby",
+      "familySummary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+      "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+      "schemaCategory": "Outdoor Sun Loungers",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 190,
+        "max": 190,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "190 cm is a published depth used across selected Nest & Living products. Common on Outdoor Sun Lounger."
+}

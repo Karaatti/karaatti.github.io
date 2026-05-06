@@ -1,0 +1,53 @@
+{
+  "group": "seating",
+  "groupLabel": "Seating",
+  "attributeKey": "seatWidth",
+  "attributeLabel": "Seat width",
+  "value": "85 cm",
+  "valueSlug": "85-cm",
+  "valueType": "measurement",
+  "numericValue": 85,
+  "unit": "cm",
+  "productTypes": [
+    "3-Seater Sofas",
+    "Corner Sofas"
+  ],
+  "familyCount": 2,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/haave",
+      "familyTitle": "Haave",
+      "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+      "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "A modern 3-seater sofa with a durable wooden frame and easy-care fabric upholstery. Available in beige and green.",
+      "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_1.avif",
+      "schemaCategory": "3-Seater Sofas",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 85,
+        "max": 85,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "85 cm is a published seat width used across selected Nest & Living products. Common on 3-Seater Sofa and Corner Sofa."
+}

@@ -1,0 +1,44 @@
+{
+  "group": "seating",
+  "groupLabel": "Seating",
+  "attributeKey": "seatWidth",
+  "attributeLabel": "Seat width",
+  "value": "44 cm",
+  "valueSlug": "44-cm",
+  "valueType": "measurement",
+  "numericValue": 44,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Dining Chairs"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/messina",
+      "familyTitle": "Messina",
+      "familySummary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
+      "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+      "schemaCategory": "Outdoor Dining Chairs",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 44,
+        "max": 44,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "44 cm is a published seat width used across selected Nest & Living products. Common on Outdoor Dining Chair."
+}

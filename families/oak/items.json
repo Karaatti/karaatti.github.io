@@ -1,0 +1,196 @@
+[
+  {
+    "name": "oak",
+    "title": "Oak Console Table",
+    "href": "/products/console-tables/oak/",
+    "type": "dir",
+    "summary": "Oak console table in natural oak veneer offers a modern Scandinavian look for living rooms, hallways or offices. The warm brown tone creates a cozy atmosphere. Two integrated drawers provide practical storage. A versatile and durable piece that complements the home.",
+    "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+    "filterData": {
+      "searchText": "Oak Oak console table in natural oak veneer offers a modern Scandinavian look for living rooms, hallways or offices. The warm brown tone creates a cozy atmosphere. Two integrated drawers provide practical storage. A versatile and durable piece that complements the home. Console Tables Home Details Oak Home Details Console Tables Oak Brown Oak Wood veneer Dimensions Depth 33 cm cm Dimensions Height 80 cm cm Dimensions Width 120 cm cm Load Maximum load 30 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 16 kg kg Setup Assembly time 45 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "console-tables",
+          "label": "Console Tables",
+          "href": "/products/console-tables/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "oak",
+          "label": "Oak",
+          "href": "/families/oak/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "oak",
+          "label": "Oak",
+          "href": "/materials/oak/"
+        },
+        {
+          "key": "wood-veneer",
+          "label": "Wood veneer",
+          "href": "/materials/wood-veneer/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "33-cm",
+          "valueLabel": "33 cm",
+          "href": "/attributes/dimensions/depth/33-cm/",
+          "valueType": "enum",
+          "numericValue": 33,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/height/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "120-cm",
+          "valueLabel": "120 cm",
+          "href": "/attributes/dimensions/width/120-cm/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "load",
+          "groupLabel": "Load",
+          "key": "maximum-load",
+          "label": "Maximum load",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/load/maximum-load/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-05-m3",
+          "valueLabel": "0.05 m³",
+          "href": "/attributes/logistics/volume/0-05-m3/",
+          "valueType": "enum",
+          "numericValue": 0.05,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "16-kg",
+          "valueLabel": "16 kg",
+          "href": "/attributes/logistics/weight/16-kg/",
+          "valueType": "enum",
+          "numericValue": 16,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "45-min",
+          "valueLabel": "45 min",
+          "href": "/attributes/setup/assembly-time/45-min/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Oak",
+      "summary": "Oak console table in natural oak veneer offers a modern Scandinavian look for living rooms, hallways or offices. The warm brown tone creates a cozy atmosphere. Two integrated drawers provide practical storage. A versatile and durable piece that complements the home.",
+      "variantCount": 1,
+      "categoryLabel": "Console Tables",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Oak"
+    }
+  }
+]

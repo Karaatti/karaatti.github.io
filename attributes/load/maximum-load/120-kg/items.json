@@ -1,0 +1,50 @@
+[
+  {
+    "name": "saarni",
+    "href": "/families/saarni/",
+    "type": "dir",
+    "title": "Saarni",
+    "schemaCategory": "Outdoor Dining Chairs and Outdoor Dining Tables",
+    "variantCount": 6
+  },
+  {
+    "name": "bow",
+    "href": "/families/bow/",
+    "type": "dir",
+    "title": "Bow",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 3
+  },
+  {
+    "name": "nicola",
+    "href": "/families/nicola/",
+    "type": "dir",
+    "title": "Nicola",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 3
+  },
+  {
+    "name": "bay",
+    "href": "/families/bay/",
+    "type": "dir",
+    "title": "Bay",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1
+  },
+  {
+    "name": "haven",
+    "href": "/families/haven/",
+    "type": "dir",
+    "title": "Haven",
+    "schemaCategory": "Outdoor Lounge Seating",
+    "variantCount": 1
+  },
+  {
+    "name": "messina",
+    "href": "/families/messina/",
+    "type": "dir",
+    "title": "Messina",
+    "schemaCategory": "Outdoor Dining Chairs",
+    "variantCount": 1
+  }
+]

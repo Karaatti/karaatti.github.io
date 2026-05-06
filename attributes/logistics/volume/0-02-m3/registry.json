@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.02 m³",
+  "valueSlug": "0-02-m3",
+  "valueType": "measurement",
+  "numericValue": 0.02,
+  "unit": "m³",
+  "productTypes": [
+    "Continental Beds"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/continental-beds/moon-bronze/moon_bronze_continental_bed_grey_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Moon Bronze Continental Beds combines practical design with understated style. It features pocket spring support without zoning and a durable wooden frame with black wooden legs. The base is delivered in parts for easy assembly.",
+      "primaryImageUrl": "/products/continental-beds/moon-bronze/moon_bronze_continental_bed_grey_1.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.02,
+        "max": 0.02,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.02 m³ is a published volume used across selected Nest & Living products. Common on Continental Bed."
+}

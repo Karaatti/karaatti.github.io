@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "92 cm",
+  "valueSlug": "92-cm",
+  "valueType": "measurement",
+  "numericValue": 92,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Dining Chairs"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/outdoor-dining-chairs/haven/197625_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/haven",
+      "familyTitle": "Haven",
+      "familySummary": "Haven dining chair offers a stylish and comfortable addition to summer dining spaces. Made from natural colored polyrattan with beige cushions, it combines aluminium, fabric and polyrattan for durability and comfort.",
+      "primaryImageUrl": "/products/outdoor-dining-chairs/haven/197625_1.avif",
+      "schemaCategory": "Outdoor Dining Chairs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 92,
+        "max": 92,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "92 cm is a published height used across selected Nest & Living products. Common on Outdoor Dining Chair."
+}

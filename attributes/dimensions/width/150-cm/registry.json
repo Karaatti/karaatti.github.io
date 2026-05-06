@@ -1,0 +1,78 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "150 cm",
+  "valueSlug": "150-cm",
+  "valueType": "measurement",
+  "numericValue": 150,
+  "unit": "cm",
+  "productTypes": [
+    "Cabinets Display",
+    "Duvet & Pillow Sets",
+    "Duvets"
+  ],
+  "familyCount": 5,
+  "variantCount": 5,
+  "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/mystery",
+      "familyTitle": "Mystery",
+      "familySummary": "The Mystery Shelf in black combines metal and oak veneer in a minimalist design. It provides four spacious shelves suitable for books and decorative items, fitting well in modern and industrial interiors.",
+      "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+      "schemaCategory": "Shelves",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nest-living-basic",
+      "familyTitle": "Nest & Living Basic",
+      "familySummary": "Soft and lightweight duvet set for easy-care everyday bedroom use.",
+      "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-basic/201089_1.avif",
+      "schemaCategory": "Duvet & Pillow Sets",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nest-living-bronze",
+      "familyTitle": "Nest & Living Bronze",
+      "familySummary": "Light duvet set with practical everyday comfort.",
+      "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
+      "schemaCategory": "Duvet & Pillow Sets",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nest-living-gold",
+      "familyTitle": "Nest & Living Gold",
+      "familySummary": "Warm duvets with a breathable fabric blend and a fuller feel.",
+      "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+      "schemaCategory": "Duvets",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nest-living-silver",
+      "familyTitle": "Nest & Living Silver",
+      "familySummary": "Duvets selected for everyday warmth, breathable fabrics, and practical bedroom use.",
+      "primaryImageUrl": "/products/duvets/nest-living-silver/201093_1.jpg",
+      "schemaCategory": "Duvets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 150,
+        "max": 150,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "150 cm is a published width used across selected Nest & Living products. Common on Cabinets Display, Duvet & Pillow Set and Duvet."
+}

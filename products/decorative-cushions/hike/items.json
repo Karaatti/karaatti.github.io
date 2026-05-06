@@ -1,0 +1,1852 @@
+[
+  {
+    "sku": "202849",
+    "name": "202849",
+    "title": "Hike Decorative Cushion, Orange, 45 x 45 cm",
+    "variantSummary": "45 x 45 cm / Orange",
+    "shortDescription": "45 x 45 cm decorative cushion in Hike upholstery, orange tone.",
+    "selectionAttributes": {
+      "dimensions": "45 x 45 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Orange",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/hike/202849_1.avif",
+    "imageUrl": "/products/decorative-cushions/hike/202849_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/hike/202849_1.avif",
+      "/products/decorative-cushions/hike/202849_2.avif"
+    ],
+    "href": "/products/decorative-cushions/hike/202849",
+    "type": "file",
+    "filterData": {
+      "searchText": "Hike Decorative Cushion, Orange, 45 x 45 cm 45 x 45 cm decorative cushion in Hike upholstery, orange tone. Decorative Cushions Home Details Hike Home Details Decorative Cushions Hike Orange Dimensions Depth 45 cm cm Dimensions Height 15 cm cm Dimensions Width 45 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.15 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.2 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "hike",
+          "label": "Hike",
+          "href": "/families/hike/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "orange",
+          "label": "Orange",
+          "href": "/colors/orange/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/depth/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/width/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-15-m3",
+          "valueLabel": "0.15 m³",
+          "href": "/attributes/logistics/volume/0-15-m3/",
+          "valueType": "enum",
+          "numericValue": 0.15,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-2-kg",
+          "valueLabel": "9.2 kg",
+          "href": "/attributes/logistics/weight/9-2-kg/",
+          "valueType": "enum",
+          "numericValue": 9.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Hike Decorative Cushion, Orange, 45 x 45 cm",
+      "summary": "45 x 45 cm decorative cushion in Hike upholstery, orange tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Hike"
+    }
+  },
+  {
+    "sku": "202850",
+    "name": "202850",
+    "title": "Hike Decorative Cushion, Brown, 45 x 45 cm",
+    "variantSummary": "45 x 45 cm / Brown",
+    "shortDescription": "45 x 45 cm decorative cushion in Hike upholstery, brown tone.",
+    "selectionAttributes": {
+      "dimensions": "45 x 45 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Brown",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/hike/202850_1.avif",
+    "imageUrl": "/products/decorative-cushions/hike/202850_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/hike/202850_1.avif",
+      "/products/decorative-cushions/hike/202850_2.avif"
+    ],
+    "href": "/products/decorative-cushions/hike/202850",
+    "type": "file",
+    "filterData": {
+      "searchText": "Hike Decorative Cushion, Brown, 45 x 45 cm 45 x 45 cm decorative cushion in Hike upholstery, brown tone. Decorative Cushions Home Details Hike Home Details Decorative Cushions Hike Brown Dimensions Depth 45 cm cm Dimensions Height 15 cm cm Dimensions Width 45 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.15 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.2 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "hike",
+          "label": "Hike",
+          "href": "/families/hike/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/depth/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/width/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-15-m3",
+          "valueLabel": "0.15 m³",
+          "href": "/attributes/logistics/volume/0-15-m3/",
+          "valueType": "enum",
+          "numericValue": 0.15,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-2-kg",
+          "valueLabel": "9.2 kg",
+          "href": "/attributes/logistics/weight/9-2-kg/",
+          "valueType": "enum",
+          "numericValue": 9.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Hike Decorative Cushion, Brown, 45 x 45 cm",
+      "summary": "45 x 45 cm decorative cushion in Hike upholstery, brown tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Hike"
+    }
+  },
+  {
+    "sku": "202851",
+    "name": "202851",
+    "title": "Hike Decorative Cushion, Green, 45 x 45 cm",
+    "variantSummary": "45 x 45 cm / Green",
+    "shortDescription": "45 x 45 cm decorative cushion in Hike upholstery, green tone.",
+    "selectionAttributes": {
+      "dimensions": "45 x 45 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Green",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/hike/202851_1.avif",
+    "imageUrl": "/products/decorative-cushions/hike/202851_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/hike/202851_1.avif",
+      "/products/decorative-cushions/hike/202851_2.avif"
+    ],
+    "href": "/products/decorative-cushions/hike/202851",
+    "type": "file",
+    "filterData": {
+      "searchText": "Hike Decorative Cushion, Green, 45 x 45 cm 45 x 45 cm decorative cushion in Hike upholstery, green tone. Decorative Cushions Home Details Hike Home Details Decorative Cushions Hike Green Dimensions Depth 45 cm cm Dimensions Height 15 cm cm Dimensions Width 45 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.15 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.2 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "hike",
+          "label": "Hike",
+          "href": "/families/hike/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "green",
+          "label": "Green",
+          "href": "/colors/green/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/depth/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/width/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-15-m3",
+          "valueLabel": "0.15 m³",
+          "href": "/attributes/logistics/volume/0-15-m3/",
+          "valueType": "enum",
+          "numericValue": 0.15,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-2-kg",
+          "valueLabel": "9.2 kg",
+          "href": "/attributes/logistics/weight/9-2-kg/",
+          "valueType": "enum",
+          "numericValue": 9.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Hike Decorative Cushion, Green, 45 x 45 cm",
+      "summary": "45 x 45 cm decorative cushion in Hike upholstery, green tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Hike"
+    }
+  },
+  {
+    "sku": "202852",
+    "name": "202852",
+    "title": "Hike Decorative Cushion, Yellow, 45 x 45 cm",
+    "variantSummary": "45 x 45 cm / Yellow",
+    "shortDescription": "45 x 45 cm decorative cushion in Hike upholstery, yellow tone.",
+    "selectionAttributes": {
+      "dimensions": "45 x 45 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Yellow",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/hike/202852_1.avif",
+    "imageUrl": "/products/decorative-cushions/hike/202852_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/hike/202852_1.avif",
+      "/products/decorative-cushions/hike/202852_2.avif"
+    ],
+    "href": "/products/decorative-cushions/hike/202852",
+    "type": "file",
+    "filterData": {
+      "searchText": "Hike Decorative Cushion, Yellow, 45 x 45 cm 45 x 45 cm decorative cushion in Hike upholstery, yellow tone. Decorative Cushions Home Details Hike Home Details Decorative Cushions Hike Yellow Dimensions Depth 45 cm cm Dimensions Height 15 cm cm Dimensions Width 45 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.15 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.2 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "hike",
+          "label": "Hike",
+          "href": "/families/hike/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "yellow",
+          "label": "Yellow",
+          "href": "/colors/yellow/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/depth/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/width/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-15-m3",
+          "valueLabel": "0.15 m³",
+          "href": "/attributes/logistics/volume/0-15-m3/",
+          "valueType": "enum",
+          "numericValue": 0.15,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-2-kg",
+          "valueLabel": "9.2 kg",
+          "href": "/attributes/logistics/weight/9-2-kg/",
+          "valueType": "enum",
+          "numericValue": 9.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Hike Decorative Cushion, Yellow, 45 x 45 cm",
+      "summary": "45 x 45 cm decorative cushion in Hike upholstery, yellow tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Hike"
+    }
+  },
+  {
+    "sku": "202853",
+    "name": "202853",
+    "title": "Hike Decorative Cushion, Orange, 45 x 45 cm",
+    "variantSummary": "45 x 45 cm / Orange",
+    "shortDescription": "45 x 45 cm decorative cushion in Hike upholstery, orange tone.",
+    "selectionAttributes": {
+      "dimensions": "45 x 45 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Orange",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/hike/202853_1.avif",
+    "imageUrl": "/products/decorative-cushions/hike/202853_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/hike/202853_1.avif",
+      "/products/decorative-cushions/hike/202853_2.avif"
+    ],
+    "href": "/products/decorative-cushions/hike/202853",
+    "type": "file",
+    "filterData": {
+      "searchText": "Hike Decorative Cushion, Orange, 45 x 45 cm 45 x 45 cm decorative cushion in Hike upholstery, orange tone. Decorative Cushions Home Details Hike Home Details Decorative Cushions Hike Orange Dimensions Depth 45 cm cm Dimensions Height 15 cm cm Dimensions Width 45 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.15 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.2 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "hike",
+          "label": "Hike",
+          "href": "/families/hike/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "orange",
+          "label": "Orange",
+          "href": "/colors/orange/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/depth/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/width/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-15-m3",
+          "valueLabel": "0.15 m³",
+          "href": "/attributes/logistics/volume/0-15-m3/",
+          "valueType": "enum",
+          "numericValue": 0.15,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-2-kg",
+          "valueLabel": "9.2 kg",
+          "href": "/attributes/logistics/weight/9-2-kg/",
+          "valueType": "enum",
+          "numericValue": 9.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Hike Decorative Cushion, Orange, 45 x 45 cm",
+      "summary": "45 x 45 cm decorative cushion in Hike upholstery, orange tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Hike"
+    }
+  },
+  {
+    "sku": "202861",
+    "name": "202861",
+    "title": "Hike Decorative Cushion, Brown, 60 x 40 cm",
+    "variantSummary": "60 x 40 cm / Brown",
+    "shortDescription": "60 x 40 cm decorative cushion in Hike upholstery, brown tone.",
+    "selectionAttributes": {
+      "dimensions": "60 x 40 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Brown",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/hike/202861_1.avif",
+    "imageUrl": "/products/decorative-cushions/hike/202861_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/hike/202861_1.avif",
+      "/products/decorative-cushions/hike/202861_2.avif"
+    ],
+    "href": "/products/decorative-cushions/hike/202861",
+    "type": "file",
+    "filterData": {
+      "searchText": "Hike Decorative Cushion, Brown, 60 x 40 cm 60 x 40 cm decorative cushion in Hike upholstery, brown tone. Decorative Cushions Home Details Hike Home Details Decorative Cushions Hike Brown Dimensions Depth 60 cm cm Dimensions Height 15 cm cm Dimensions Width 40 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.22 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.8 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "hike",
+          "label": "Hike",
+          "href": "/families/hike/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/depth/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/dimensions/width/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-22-m3",
+          "valueLabel": "0.22 m³",
+          "href": "/attributes/logistics/volume/0-22-m3/",
+          "valueType": "enum",
+          "numericValue": 0.22,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-8-kg",
+          "valueLabel": "9.8 kg",
+          "href": "/attributes/logistics/weight/9-8-kg/",
+          "valueType": "enum",
+          "numericValue": 9.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Hike Decorative Cushion, Brown, 60 x 40 cm",
+      "summary": "60 x 40 cm decorative cushion in Hike upholstery, brown tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Hike"
+    }
+  },
+  {
+    "sku": "202862",
+    "name": "202862",
+    "title": "Hike Decorative Cushion, Brown, 60 x 40 cm",
+    "variantSummary": "60 x 40 cm / Brown",
+    "shortDescription": "60 x 40 cm decorative cushion in Hike upholstery, brown tone.",
+    "selectionAttributes": {
+      "dimensions": "60 x 40 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Brown",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/hike/202862_1.avif",
+    "imageUrl": "/products/decorative-cushions/hike/202862_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/hike/202862_1.avif",
+      "/products/decorative-cushions/hike/202862_2.avif"
+    ],
+    "href": "/products/decorative-cushions/hike/202862",
+    "type": "file",
+    "filterData": {
+      "searchText": "Hike Decorative Cushion, Brown, 60 x 40 cm 60 x 40 cm decorative cushion in Hike upholstery, brown tone. Decorative Cushions Home Details Hike Home Details Decorative Cushions Hike Brown Dimensions Depth 60 cm cm Dimensions Height 15 cm cm Dimensions Width 40 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.22 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.8 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "hike",
+          "label": "Hike",
+          "href": "/families/hike/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/depth/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/dimensions/width/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-22-m3",
+          "valueLabel": "0.22 m³",
+          "href": "/attributes/logistics/volume/0-22-m3/",
+          "valueType": "enum",
+          "numericValue": 0.22,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-8-kg",
+          "valueLabel": "9.8 kg",
+          "href": "/attributes/logistics/weight/9-8-kg/",
+          "valueType": "enum",
+          "numericValue": 9.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Hike Decorative Cushion, Brown, 60 x 40 cm",
+      "summary": "60 x 40 cm decorative cushion in Hike upholstery, brown tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Hike"
+    }
+  },
+  {
+    "sku": "202863",
+    "name": "202863",
+    "title": "Hike Decorative Cushion, Green, 60 x 40 cm",
+    "variantSummary": "60 x 40 cm / Green",
+    "shortDescription": "60 x 40 cm decorative cushion in Hike upholstery, green tone.",
+    "selectionAttributes": {
+      "dimensions": "60 x 40 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Green",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/hike/202863_1.avif",
+    "imageUrl": "/products/decorative-cushions/hike/202863_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/hike/202863_1.avif",
+      "/products/decorative-cushions/hike/202863_2.avif"
+    ],
+    "href": "/products/decorative-cushions/hike/202863",
+    "type": "file",
+    "filterData": {
+      "searchText": "Hike Decorative Cushion, Green, 60 x 40 cm 60 x 40 cm decorative cushion in Hike upholstery, green tone. Decorative Cushions Home Details Hike Home Details Decorative Cushions Hike Green Dimensions Depth 60 cm cm Dimensions Height 15 cm cm Dimensions Width 40 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.22 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.8 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "hike",
+          "label": "Hike",
+          "href": "/families/hike/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "green",
+          "label": "Green",
+          "href": "/colors/green/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/depth/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/dimensions/width/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-22-m3",
+          "valueLabel": "0.22 m³",
+          "href": "/attributes/logistics/volume/0-22-m3/",
+          "valueType": "enum",
+          "numericValue": 0.22,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-8-kg",
+          "valueLabel": "9.8 kg",
+          "href": "/attributes/logistics/weight/9-8-kg/",
+          "valueType": "enum",
+          "numericValue": 9.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Hike Decorative Cushion, Green, 60 x 40 cm",
+      "summary": "60 x 40 cm decorative cushion in Hike upholstery, green tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Hike"
+    }
+  },
+  {
+    "sku": "202864",
+    "name": "202864",
+    "title": "Hike Decorative Cushion, Yellow, 60 x 40 cm",
+    "variantSummary": "60 x 40 cm / Yellow",
+    "shortDescription": "60 x 40 cm decorative cushion in Hike upholstery, yellow tone.",
+    "selectionAttributes": {
+      "dimensions": "60 x 40 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Yellow",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/hike/202864_1.avif",
+    "imageUrl": "/products/decorative-cushions/hike/202864_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/hike/202864_1.avif",
+      "/products/decorative-cushions/hike/202864_2.avif"
+    ],
+    "href": "/products/decorative-cushions/hike/202864",
+    "type": "file",
+    "filterData": {
+      "searchText": "Hike Decorative Cushion, Yellow, 60 x 40 cm 60 x 40 cm decorative cushion in Hike upholstery, yellow tone. Decorative Cushions Home Details Hike Home Details Decorative Cushions Hike Yellow Dimensions Depth 60 cm cm Dimensions Height 15 cm cm Dimensions Width 40 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.22 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.8 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "hike",
+          "label": "Hike",
+          "href": "/families/hike/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "yellow",
+          "label": "Yellow",
+          "href": "/colors/yellow/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/depth/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/dimensions/width/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-22-m3",
+          "valueLabel": "0.22 m³",
+          "href": "/attributes/logistics/volume/0-22-m3/",
+          "valueType": "enum",
+          "numericValue": 0.22,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-8-kg",
+          "valueLabel": "9.8 kg",
+          "href": "/attributes/logistics/weight/9-8-kg/",
+          "valueType": "enum",
+          "numericValue": 9.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Hike Decorative Cushion, Yellow, 60 x 40 cm",
+      "summary": "60 x 40 cm decorative cushion in Hike upholstery, yellow tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Hike"
+    }
+  },
+  {
+    "sku": "202865",
+    "name": "202865",
+    "title": "Hike Decorative Cushion, Orange, 60 x 40 cm",
+    "variantSummary": "60 x 40 cm / Orange",
+    "shortDescription": "60 x 40 cm decorative cushion in Hike upholstery, orange tone.",
+    "selectionAttributes": {
+      "dimensions": "60 x 40 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Orange",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/hike/202865_1.avif",
+    "imageUrl": "/products/decorative-cushions/hike/202865_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/hike/202865_1.avif",
+      "/products/decorative-cushions/hike/202865_2.avif"
+    ],
+    "href": "/products/decorative-cushions/hike/202865",
+    "type": "file",
+    "filterData": {
+      "searchText": "Hike Decorative Cushion, Orange, 60 x 40 cm 60 x 40 cm decorative cushion in Hike upholstery, orange tone. Decorative Cushions Home Details Hike Home Details Decorative Cushions Hike Orange Dimensions Depth 60 cm cm Dimensions Height 15 cm cm Dimensions Width 40 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.22 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.8 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "hike",
+          "label": "Hike",
+          "href": "/families/hike/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "orange",
+          "label": "Orange",
+          "href": "/colors/orange/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/depth/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/dimensions/width/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-22-m3",
+          "valueLabel": "0.22 m³",
+          "href": "/attributes/logistics/volume/0-22-m3/",
+          "valueType": "enum",
+          "numericValue": 0.22,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-8-kg",
+          "valueLabel": "9.8 kg",
+          "href": "/attributes/logistics/weight/9-8-kg/",
+          "valueType": "enum",
+          "numericValue": 9.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Hike Decorative Cushion, Orange, 60 x 40 cm",
+      "summary": "60 x 40 cm decorative cushion in Hike upholstery, orange tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Hike"
+    }
+  }
+]

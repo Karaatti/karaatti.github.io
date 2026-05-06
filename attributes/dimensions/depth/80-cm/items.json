@@ -1,0 +1,34 @@
+[
+  {
+    "name": "reef",
+    "href": "/families/reef/",
+    "type": "dir",
+    "title": "Reef",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 2
+  },
+  {
+    "name": "islet",
+    "href": "/families/islet/",
+    "type": "dir",
+    "title": "Islet",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 1
+  },
+  {
+    "name": "staycool",
+    "href": "/families/staycool/",
+    "type": "dir",
+    "title": "Staycool",
+    "schemaCategory": "Mattress Protectors",
+    "variantCount": 1
+  },
+  {
+    "name": "staygentle",
+    "href": "/families/staygentle/",
+    "type": "dir",
+    "title": "Staygentle",
+    "schemaCategory": "Mattress Protectors",
+    "variantCount": 1
+  }
+]

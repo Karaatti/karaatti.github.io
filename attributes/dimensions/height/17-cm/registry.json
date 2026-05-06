@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "17 cm",
+  "valueSlug": "17-cm",
+  "valueType": "measurement",
+  "numericValue": 17,
+  "unit": "cm",
+  "productTypes": [
+    "Mattresses"
+  ],
+  "familyCount": 1,
+  "variantCount": 7,
+  "primaryImageUrl": "/products/mattresses/moon-silver/moon_silver_mattress_grey_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Pocket spring mattress with 5-zone support for individual body comfort. Available in various sizes and designed for practical, lasting use.",
+      "primaryImageUrl": "/products/mattresses/moon-silver/moon_silver_mattress_grey_1.avif",
+      "schemaCategory": "Mattresses",
+      "variantCount": 7
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 17,
+        "max": 17,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "17 cm is a published height used across selected Nest & Living products. Common on Mattress."
+}

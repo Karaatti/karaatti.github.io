@@ -1,0 +1,164 @@
+{
+  "generatedAt": "2026-05-06T07:53:55.459Z",
+  "solutions": [
+    {
+      "key": "beds",
+      "label": "Beds",
+      "buttonHref": "/collections/bedroom",
+      "browseHref": "/collections/bedroom",
+      "description": "Compare the main bed formats used across the bedroom collection, from adjustable bases to upholstered frames.",
+      "sections": [
+        {
+          "key": "bed-types",
+          "label": "Bed Types",
+          "description": "Choose the format first, then continue into the matching families and size options.",
+          "type": "categories",
+          "items": [
+            {
+              "title": "Adjustable Beds",
+              "href": "/products/adjustable-beds/",
+              "summary": "Adjustable beds for the bedroom collection.",
+              "imageUrl": "/products/adjustable-beds/moon-bronze/moon_bronze_adjustable_bed_grey_1.avif",
+              "tag": "Adjustable"
+            },
+            {
+              "title": "Continental Beds",
+              "href": "/products/continental-beds/",
+              "summary": "Continental beds for the bedroom collection.",
+              "imageUrl": "/products/continental-beds/moon_bronze_silver_continental_bed_grey_1.avif",
+              "tag": "Continental"
+            },
+            {
+              "title": "Divan Beds",
+              "href": "/products/divan-beds/",
+              "summary": "Divan beds for the bedroom collection.",
+              "imageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_2.avif",
+              "tag": "Divan"
+            },
+            {
+              "title": "Bed Frames",
+              "href": "/products/bed-frames/",
+              "summary": "Bed frames for the bedroom collection.",
+              "imageUrl": "/products/bed-frames/casa/209017_1.avif",
+              "tag": "Frame"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bedding-accessories",
+      "label": "Bedding Accessories",
+      "buttonHref": "/collections/bedroom",
+      "browseHref": "/collections/bedroom",
+      "description": "Browse the practical bedroom add-ons that shape comfort around the bed: pillows, duvets, protectors, and bedside extras.",
+      "sections": [
+        {
+          "key": "sleep-accessories",
+          "label": "Sleep Accessories",
+          "description": "These categories cover the soft goods and small add-ons used alongside the main bed setup.",
+          "type": "categories",
+          "items": [
+            {
+              "title": "Pillows",
+              "href": "/products/pillows/",
+              "summary": "Pillows for the bedroom collection.",
+              "imageUrl": "/products/pillows/nest-living-gold/201094_1.jpg",
+              "tag": "Pillow"
+            },
+            {
+              "title": "Duvets",
+              "href": "/products/duvets/",
+              "summary": "Duvets for the bedroom collection.",
+              "imageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+              "tag": "Duvet"
+            },
+            {
+              "title": "Mattress Protectors",
+              "href": "/products/mattress-protectors/",
+              "summary": "Mattress protectors and similar bedroom accessories.",
+              "imageUrl": "/products/mattress-protectors/nest-living/nest_living_mattress_protector_white_1.avif",
+              "tag": "Protector"
+            },
+            {
+              "title": "Mobile Phone Pockets",
+              "href": "/products/mobile-phone-pockets/",
+              "summary": "Bedside accessory pockets kept as a separate category.",
+              "imageUrl": "/products/mobile-phone-pockets/moon/202837_1.avif",
+              "tag": "Bedside add-on"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "headboards",
+      "label": "Headboards",
+      "buttonHref": "/products/headboards/",
+      "browseHref": "/products/headboards/",
+      "description": "Open the current headboard families directly and compare the visible styles without leaving the solutions view.",
+      "sections": [
+        {
+          "key": "headboard-families",
+          "label": "Headboard Families",
+          "description": "Each family opens to its own sizes, colours, and technical details.",
+          "type": "page-items",
+          "items": [
+            {
+              "title": "Moon Bronze Headboard",
+              "href": "/products/headboards/moon-bronze/",
+              "summary": "A smooth, upholstered headboard offered in three neutral colours and multiple widths.",
+              "imageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_beige_1.avif",
+              "tag": "Headboard family"
+            },
+            {
+              "title": "Moon Gold Headboard",
+              "href": "/products/headboards/moon-gold/",
+              "summary": "A practical and understated headboard featuring button detailing in five rows. Available in several widths and neutral fabric colours.",
+              "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+              "tag": "Headboard family"
+            },
+            {
+              "title": "Moon Silver Headboard",
+              "href": "/products/headboards/moon-silver/",
+              "summary": "Moon Silver headboard features a buttoned fabric surface that breathes well and adds a subtle, elegant touch to the bedroom. Its timeless design suits various interiors and provides comfortable back support.",
+              "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+              "tag": "Headboard family"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mattresses-toppers",
+      "label": "Mattresses & Toppers",
+      "buttonHref": "/collections/bedroom",
+      "browseHref": "/collections/bedroom",
+      "description": "Compare the sleep layers that define feel and support, from mattresses to topper options.",
+      "sections": [
+        {
+          "key": "sleep-layers",
+          "label": "Sleep Layers",
+          "description": "Start with the mattress core, then refine the surface feel with toppers.",
+          "type": "categories",
+          "items": [
+            {
+              "title": "Mattresses",
+              "href": "/products/mattresses/",
+              "summary": "Mattresses for the bedroom collection.",
+              "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_2.avif",
+              "tag": "Mattress"
+            },
+            {
+              "title": "Toppers",
+              "href": "/products/toppers/",
+              "summary": "Mattress toppers for the bedroom collection.",
+              "imageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+              "tag": "Topper"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

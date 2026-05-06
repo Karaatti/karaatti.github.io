@@ -1,0 +1,311 @@
+{
+  "sku": "209115",
+  "displayName": "Westcoast Corner Sofa, Grey, 245 x 200 cm, Left",
+  "metaTitle": "Westcoast Corner Sofa, Grey, 245 x 200 cm, Left - NEST & LIVING",
+  "metaDescription": "245 x 200 cm, Grey, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+  "ogTitle": "Westcoast Corner Sofa, Grey, 245 x 200 cm, Left",
+  "ogDescription": "245 x 200 cm, Grey, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+  "shortDescription": "245 x 200 cm, Grey, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+  "familyDescription": "Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+  "schemaCategory": "Corner Sofas",
+  "selectionAttributes": {
+    "dimensions": "245 x 200 cm",
+    "handedness": "Left",
+    "comfortType": "",
+    "color": "Grey",
+    "material": "Polyester"
+  },
+  "attributes": [
+    {
+      "key": "handednessConfiguration",
+      "label": "Handedness configuration",
+      "group": "configuration",
+      "groupLabel": "Configuration",
+      "value": "Fixed",
+      "valueSlug": "fixed",
+      "rawValue": "Ei",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Ominaisuudet",
+      "sourceLabel": "Vaihdettava kätisyys",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "245 cm",
+      "valueSlug": "245-cm",
+      "rawValue": "245 cm",
+      "valueType": "enum",
+      "numericValue": 245,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "200 cm",
+      "valueSlug": "200-cm",
+      "rawValue": "200 cm",
+      "valueType": "enum",
+      "numericValue": 200,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "80 cm",
+      "valueSlug": "80-cm",
+      "rawValue": "80 cm",
+      "valueType": "enum",
+      "numericValue": 80,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "97 kg",
+      "valueSlug": "97-kg",
+      "rawValue": "97 kg",
+      "valueType": "enum",
+      "numericValue": 97,
+      "unit": "kg",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Weight",
+      "sourceType": "specs"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "15 min",
+      "valueSlug": "15-min",
+      "rawValue": "15 min",
+      "valueType": "enum",
+      "numericValue": 15,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.79 m³",
+      "valueSlug": "0-79-m3",
+      "rawValue": "0.79 m³",
+      "valueType": "enum",
+      "numericValue": 0.79,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "54 kg",
+      "valueSlug": "54-kg",
+      "rawValue": "54 kg",
+      "valueType": "enum",
+      "numericValue": 54,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "legMaterial",
+      "label": "Leg material",
+      "group": "frame",
+      "groupLabel": "Frame and base",
+      "value": "Metal",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    },
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Polyester",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    },
+    {
+      "key": "martindale",
+      "label": "Martindale",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "120,000 Martindale",
+      "numericValue": 120000,
+      "unit": "Martindale",
+      "allowSpecificationAttributeLinking": true
+    },
+    {
+      "key": "lightfastness",
+      "label": "Lightfastness",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "4",
+      "numericValue": 4,
+      "unit": "",
+      "allowSpecificationAttributeLinking": true
+    },
+    {
+      "key": "pilling",
+      "label": "Pilling",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "4",
+      "numericValue": 4,
+      "unit": "",
+      "allowSpecificationAttributeLinking": true
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Grey",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/grey/\">Grey</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Polyester",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/polyester/\">Polyester</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "245 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "245 cm",
+          "href": "/attributes/dimensions/width/245-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/245-cm/\">245 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "200 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/200-cm/\">200 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "80 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "80 cm",
+          "href": "/attributes/dimensions/height/80-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/80-cm/\">80 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "97 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "97 kg",
+          "href": "/attributes/logistics/weight/97-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/97-kg/\">97 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/corner-sofas/westcoast/209115_1.avif",
+  "imageUrls": [
+    "/products/corner-sofas/westcoast/209115_1.avif",
+    "/products/corner-sofas/westcoast/209115_2.avif",
+    "/products/corner-sofas/westcoast/209115_3.avif",
+    "/products/corner-sofas/westcoast/209115_4.avif",
+    "/products/corner-sofas/westcoast/209115_5.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/209115-westcoast-avokulmasohva-pieni-vasen-storm-97-harmaa"
+}

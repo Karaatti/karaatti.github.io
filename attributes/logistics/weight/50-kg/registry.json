@@ -1,0 +1,97 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "50 kg",
+  "valueSlug": "50-kg",
+  "valueType": "measurement",
+  "numericValue": 50,
+  "unit": "kg",
+  "productTypes": [
+    "3-Seater Sofas",
+    "Adjustable Beds",
+    "Bed Frames",
+    "Continental Beds",
+    "Corner Sofas",
+    "Outdoor Dining Tables"
+  ],
+  "familyCount": 7,
+  "variantCount": 12,
+  "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Adjustable bed with 5-zone pocket spring support and wooden legs. Durable steel frame and ergonomic design for comfort.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+      "schemaCategory": "Adjustable Beds and Continental Beds",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "A modern and practical 3-seater sofa with soft polyester upholstery in Beige, brown, or grey. Designed for everyday comfort and easy maintenance.",
+      "primaryImageUrl": "/products/three-seater-sofas/westcoast/209110_1.avif",
+      "schemaCategory": "3-Seater Sofas",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/voyage",
+      "familyTitle": "Voyage",
+      "familySummary": "A spacious and comfortable 3-seater sofa with a solid wood frame and soft foam and feather cushioning. Available in white and green fabric upholstery.",
+      "primaryImageUrl": "/products/three-seater-sofas/voyage/208782_1.avif",
+      "schemaCategory": "3-Seater Sofas",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/casa",
+      "familyTitle": "Casa",
+      "familySummary": "Bed frame with padded high headboard and beige fabric upholstery. Designed for 160 x 200 cm mattresses.",
+      "primaryImageUrl": "/products/bed-frames/casa/209017_1.avif",
+      "schemaCategory": "Bed Frames",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/cloud",
+      "familyTitle": "Cloud",
+      "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+      "primaryImageUrl": "/products/corner-sofas/cloud/207498_1.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/saarni",
+      "familyTitle": "Saarni",
+      "familySummary": "Outdoor dining table with aluminium frame and nonwood surface in a light Beige tone. Practical and easy to maintain.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206643_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/sulo",
+      "familyTitle": "Sulo",
+      "familySummary": "A modern three-seater sofa in white corduroy with rounded armrests and a low backrest for relaxed seating.",
+      "primaryImageUrl": "/products/three-seater-sofas/sulo/202841_1.avif",
+      "schemaCategory": "3-Seater Sofas",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 50,
+        "max": 50,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "50 kg is a published weight used across selected Nest & Living products. Common on 3-Seater Sofa, Adjustable Bed, Bed Frame, Continental Bed, Corner Sofa and Outdoor Dining Table."
+}

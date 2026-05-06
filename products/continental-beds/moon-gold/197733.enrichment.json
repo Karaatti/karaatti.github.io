@@ -1,0 +1,356 @@
+{
+  "sku": "197733",
+  "displayName": "Moon Gold Continental Bed, Black, 140 x 200 cm, Memory foam",
+  "metaTitle": "Moon Gold Continental Bed, Black, 140 x 200 cm, Memory foam - NEST & LIVING",
+  "metaDescription": "140 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress.",
+  "ogTitle": "Moon Gold Continental Bed, Black, 140 x 200 cm, Memory foam",
+  "ogDescription": "140 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress.",
+  "shortDescription": "140 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress.",
+  "familyDescription": "The Moon Gold Continental Bed features a 7-zone pocket spring system that adapts to body contours for balanced support. Upholstered in durable, easy-care fabric, it suits both side and back sleepers. Designed for daily use, it offers a practical and understated solution for restful sleep.",
+  "schemaCategory": "Continental Beds",
+  "selectionAttributes": {
+    "dimensions": "140 x 200 cm",
+    "handedness": "",
+    "comfortType": "Memory foam",
+    "color": "Black",
+    "material": "Fabric, Wood, Metal, Foam, Particle board"
+  },
+  "attributes": [
+    {
+      "key": "headboardIncluded",
+      "label": "Headboard included",
+      "group": "accessories",
+      "groupLabel": "Included components",
+      "value": "No",
+      "valueSlug": "no",
+      "rawValue": "Ei sisällä päätyä",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Patjan tiedot",
+      "sourceLabel": "Sängynpääty",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "topperIncluded",
+      "label": "Topper included",
+      "group": "accessories",
+      "groupLabel": "Included components",
+      "value": "No",
+      "valueSlug": "no",
+      "rawValue": "Ilman petauspatjaa",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Patjan tiedot",
+      "sourceLabel": "Petauspatja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "firmness",
+      "label": "Firmness",
+      "group": "comfort",
+      "groupLabel": "Comfort",
+      "value": "Firm",
+      "valueSlug": "firm",
+      "rawValue": "Kova",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Patjan tiedot",
+      "sourceLabel": "Patjan kovuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "140 cm",
+      "valueSlug": "140-cm",
+      "rawValue": "140 cm",
+      "valueType": "enum",
+      "numericValue": 140,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "200 cm",
+      "valueSlug": "200-cm",
+      "rawValue": "200 cm",
+      "valueType": "enum",
+      "numericValue": 200,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "57 cm",
+      "valueSlug": "57-cm",
+      "rawValue": "57 cm",
+      "valueType": "enum",
+      "numericValue": 57,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "63 kg",
+      "valueSlug": "63-kg",
+      "rawValue": "63 kg",
+      "valueType": "enum",
+      "numericValue": 63,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "4000 days",
+      "valueSlug": "4000-days",
+      "rawValue": "4000 päivää",
+      "valueType": "enum",
+      "numericValue": 4000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "memoryWarranty",
+      "label": "Memory warranty",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "2000 days",
+      "valueSlug": "2000-days",
+      "rawValue": "2000 päivää",
+      "valueType": "enum",
+      "numericValue": 2000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Takuu - Memory painumattomuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "frameWarranty",
+      "label": "Frame warranty",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "4000 days",
+      "valueSlug": "4000-days",
+      "rawValue": "4000 päivää",
+      "valueType": "enum",
+      "numericValue": 4000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Takuu - Runko",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "priceGuarantee",
+      "label": "Price guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "30 days",
+      "valueSlug": "30-days",
+      "rawValue": "30 päivää",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Hintatakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "30 min",
+      "valueSlug": "30-min",
+      "rawValue": "30 min",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.63 m³",
+      "valueSlug": "0-63-m3",
+      "rawValue": "0.63 m³",
+      "valueType": "enum",
+      "numericValue": 0.63,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "25 kg",
+      "valueSlug": "25-kg",
+      "rawValue": "25 kg",
+      "valueType": "enum",
+      "numericValue": 25,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [
+    {
+      "key": "mattressType",
+      "label": "Mattress type",
+      "group": "mattress-types",
+      "groupLabel": "Mattress types",
+      "specLabel": "Memory foam mattress",
+      "specSlug": "memory-foam-mattress",
+      "rawValue": "Memory foam mattress",
+      "materials": [
+        {
+          "label": "Memory foam",
+          "slug": "memory-foam",
+          "type": "material"
+        }
+      ],
+      "materialRoleLabel": "Core material",
+      "attributes": [],
+      "sourceSection": "Selection attributes",
+      "sourceLabel": "Comfort type",
+      "sourceType": "comfortType"
+    }
+  ],
+  "materialSpecifications": [],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Black",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/black/\">Black</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Fabric, Wood, Metal, Foam, Particle board",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/fabric/\">Fabric</a><a class=\"spec-link-chip\" href=\"/materials/wood/\">Wood</a><a class=\"spec-link-chip\" href=\"/materials/metal/\">Metal</a><a class=\"spec-link-chip\" href=\"/materials/foam/\">Foam</a><a class=\"spec-link-chip\" href=\"/materials/particle-board/\">Particle board</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "140 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "140 cm",
+          "href": "/attributes/dimensions/width/140-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/140-cm/\">140 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "200 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/200-cm/\">200 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "57 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "57 cm",
+          "href": "/attributes/dimensions/height/57-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/57-cm/\">57 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "63 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "63 kg",
+          "href": "/attributes/logistics/weight/63-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/63-kg/\">63 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_5.avif",
+  "imageUrls": [
+    "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_5.avif",
+    "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_6.jpg",
+    "/products/continental-beds/moon-gold/197733_1.avif",
+    "/products/continental-beds/moon-gold/197733_2.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/197733-moon-gold-jenkkisanky-140x200-visco-primo-96-antrasiitti"
+}

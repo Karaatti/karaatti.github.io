@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "71 kg",
+  "valueSlug": "71-kg",
+  "valueType": "measurement",
+  "numericValue": 71,
+  "unit": "kg",
+  "productTypes": [
+    "Continental Beds"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Continental bed with 7-zone pocket spring system providing ergonomic support. Available in beige or grey upholstery with a choice of sizes.",
+      "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 71,
+        "max": 71,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "71 kg is a published weight used across selected Nest & Living products. Common on Continental Bed."
+}

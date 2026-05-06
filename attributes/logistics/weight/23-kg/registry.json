@@ -1,0 +1,73 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "23 kg",
+  "valueSlug": "23-kg",
+  "valueType": "measurement",
+  "numericValue": 23,
+  "unit": "kg",
+  "productTypes": [
+    "Coffee Tables",
+    "Continental Beds",
+    "Divan Bed",
+    "Divan Beds",
+    "Headboards",
+    "Mattresses"
+  ],
+  "familyCount": 4,
+  "variantCount": 13,
+  "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "A practical and understated headboard featuring button detailing in five rows. Available in several widths and neutral fabric colours.",
+      "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
+      "schemaCategory": "Headboards and Mattresses",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "A smooth, upholstered headboard offered in three neutral colours and multiple widths.",
+      "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_beige_1.avif",
+      "schemaCategory": "Divan Beds and Headboards",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Available sizes: 80 x 200 cm, 90 x 200 cm, 120 x 200 cm and 140 x 200 cm. Light grey Primo 84 upholstery, 5-zone pocket spring support and smoked ash cone legs. 4 active variants available.",
+      "primaryImageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_1.avif",
+      "schemaCategory": "Continental Beds and Divan Beds",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/reef",
+      "familyTitle": "Reef",
+      "familySummary": "Compact coffee table with a warm American walnut finish and practical dimensions suitable for various interiors.",
+      "primaryImageUrl": "/products/coffee-tables/reef/198072_1.avif",
+      "schemaCategory": "Coffee Tables",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 23,
+        "max": 23,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "23 kg is a published weight used across selected Nest & Living products. Common on Coffee Table, Continental Bed, Divan Bed, Headboard and Mattress."
+}

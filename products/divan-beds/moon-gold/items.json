@@ -1,0 +1,5434 @@
+[
+  {
+    "sku": "197661",
+    "name": "197661",
+    "title": "Moon Gold Divan Bed, Black, 80 x 200 x 33 cm, Pocket spring",
+    "variantSummary": "80 x 200 x 33 cm / Pocket spring / Black",
+    "shortDescription": "80 x 200 x 33 cm, black tapered legs, grey upholstery.",
+    "selectionAttributes": {
+      "dimensions": "80 x 200 x 33 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Black",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_3.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_3.jpg",
+      "/products/divan-beds/moon-gold/197661_1.avif",
+      "/products/divan-beds/moon-gold/197661_2.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/197661",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Black, 80 x 200 x 33 cm, Pocket spring 80 x 200 x 33 cm, black tapered legs, grey upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Black Fabric Foam Metal Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 56 cm cm Dimensions Width 80 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.56 m³ m³ Logistics Weight 27 kg kg Logistics Weight 29 kg kg Setup Assembly time 15 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/width/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-56-m3",
+          "valueLabel": "0.56 m³",
+          "href": "/attributes/logistics/volume/0-56-m3/",
+          "valueType": "enum",
+          "numericValue": 0.56,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "spring-warranty",
+          "label": "Spring warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/spring-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Black, 80 x 200 x 33 cm, Pocket spring",
+      "summary": "80 x 200 x 33 cm, black tapered legs, grey upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197662",
+    "name": "197662",
+    "title": "Moon Gold Divan Bed, Black, 90 x 200 x 33 cm, Pocket spring",
+    "variantSummary": "90 x 200 x 33 cm / Pocket spring / Black",
+    "shortDescription": "90 x 200 x 33 cm, black tapered legs, grey upholstery.",
+    "selectionAttributes": {
+      "dimensions": "90 x 200 x 33 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Black",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_3.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_3.jpg",
+      "/products/divan-beds/moon-gold/197662_1.avif",
+      "/products/divan-beds/moon-gold/197662_2.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/197662",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Black, 90 x 200 x 33 cm, Pocket spring 90 x 200 x 33 cm, black tapered legs, grey upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Black Fabric Foam Metal Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 56 cm cm Dimensions Width 90 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.61 m³ m³ Logistics Weight 25 kg kg Logistics Weight 29 kg kg Setup Assembly time 15 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "90-cm",
+          "valueLabel": "90 cm",
+          "href": "/attributes/dimensions/width/90-cm/",
+          "valueType": "enum",
+          "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-61-m3",
+          "valueLabel": "0.61 m³",
+          "href": "/attributes/logistics/volume/0-61-m3/",
+          "valueType": "enum",
+          "numericValue": 0.61,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "spring-warranty",
+          "label": "Spring warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/spring-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Black, 90 x 200 x 33 cm, Pocket spring",
+      "summary": "90 x 200 x 33 cm, black tapered legs, grey upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197663",
+    "name": "197663",
+    "title": "Moon Gold Divan Bed, Black, 120 x 200 x 33 cm, Pocket spring",
+    "variantSummary": "120 x 200 x 33 cm / Pocket spring / Black",
+    "shortDescription": "120 x 200 x 33 cm, black tapered legs, grey upholstery.",
+    "selectionAttributes": {
+      "dimensions": "120 x 200 x 33 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Black",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_3.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_3.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_3.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_3.jpg",
+      "/products/divan-beds/moon-gold/197663_1.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/197663",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Black, 120 x 200 x 33 cm, Pocket spring 120 x 200 x 33 cm, black tapered legs, grey upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Black Fabric Foam Metal Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 56 cm cm Dimensions Width 120 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.83 m³ m³ Logistics Weight 33 kg kg Logistics Weight 35 kg kg Setup Assembly time 15 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "120-cm",
+          "valueLabel": "120 cm",
+          "href": "/attributes/dimensions/width/120-cm/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-83-m3",
+          "valueLabel": "0.83 m³",
+          "href": "/attributes/logistics/volume/0-83-m3/",
+          "valueType": "enum",
+          "numericValue": 0.83,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "33-kg",
+          "valueLabel": "33 kg",
+          "href": "/attributes/logistics/weight/33-kg/",
+          "valueType": "enum",
+          "numericValue": 33,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "35-kg",
+          "valueLabel": "35 kg",
+          "href": "/attributes/logistics/weight/35-kg/",
+          "valueType": "enum",
+          "numericValue": 35,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "spring-warranty",
+          "label": "Spring warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/spring-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Black, 120 x 200 x 33 cm, Pocket spring",
+      "summary": "120 x 200 x 33 cm, black tapered legs, grey upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197664",
+    "name": "197664",
+    "title": "Moon Gold Divan Bed, Black, 140 x 200 x 33 cm, Pocket spring",
+    "variantSummary": "140 x 200 x 33 cm / Pocket spring / Black",
+    "shortDescription": "140 x 200 x 33 cm, black tapered legs, grey upholstery.",
+    "selectionAttributes": {
+      "dimensions": "140 x 200 x 33 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Black",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_140_x_200_x_33_cm_1.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_140_x_200_x_33_cm_1.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_140_x_200_x_33_cm_1.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_3.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_3.jpg",
+      "/products/divan-beds/moon-gold/197664_1.avif",
+      "/products/divan-beds/moon-gold/197664_2.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/197664",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Black, 140 x 200 x 33 cm, Pocket spring 140 x 200 x 33 cm, black tapered legs, grey upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Black Fabric Foam Metal Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 56 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.97 m³ m³ Logistics Weight 35 kg kg Logistics Weight 37 kg kg Setup Assembly time 15 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "140-cm",
+          "valueLabel": "140 cm",
+          "href": "/attributes/dimensions/width/140-cm/",
+          "valueType": "enum",
+          "numericValue": 140,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-97-m3",
+          "valueLabel": "0.97 m³",
+          "href": "/attributes/logistics/volume/0-97-m3/",
+          "valueType": "enum",
+          "numericValue": 0.97,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "35-kg",
+          "valueLabel": "35 kg",
+          "href": "/attributes/logistics/weight/35-kg/",
+          "valueType": "enum",
+          "numericValue": 35,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "37-kg",
+          "valueLabel": "37 kg",
+          "href": "/attributes/logistics/weight/37-kg/",
+          "valueType": "enum",
+          "numericValue": 37,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "spring-warranty",
+          "label": "Spring warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/spring-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Black, 140 x 200 x 33 cm, Pocket spring",
+      "summary": "140 x 200 x 33 cm, black tapered legs, grey upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197665",
+    "name": "197665",
+    "title": "Moon Gold Divan Bed, Beige, 80 x 200 x 33 cm, Pocket spring",
+    "variantSummary": "80 x 200 x 33 cm / Pocket spring / Beige",
+    "shortDescription": "80 x 200 x 33 cm, smoked ash tapered legs, beige upholstery.",
+    "selectionAttributes": {
+      "dimensions": "80 x 200 x 33 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Beige",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_1.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_1.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_1.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_3.avif",
+      "/products/divan-beds/moon-gold/197665_3.avif",
+      "/products/divan-beds/moon-gold/197665_4.avif",
+      "/products/divan-beds/moon-gold/197665_5.avif",
+      "/products/divan-beds/moon-gold/197665_6.avif",
+      "/products/divan-beds/moon-gold/197665_7.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/197665",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Beige, 80 x 200 x 33 cm, Pocket spring 80 x 200 x 33 cm, smoked ash tapered legs, beige upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Beige Fabric Foam Metal Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 56 cm cm Dimensions Width 80 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.56 m³ m³ Logistics Weight 27 kg kg Logistics Weight 29 kg kg Setup Assembly time 15 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/width/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-56-m3",
+          "valueLabel": "0.56 m³",
+          "href": "/attributes/logistics/volume/0-56-m3/",
+          "valueType": "enum",
+          "numericValue": 0.56,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "spring-warranty",
+          "label": "Spring warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/spring-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Beige, 80 x 200 x 33 cm, Pocket spring",
+      "summary": "80 x 200 x 33 cm, smoked ash tapered legs, beige upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197667",
+    "name": "197667",
+    "title": "Moon Gold Divan Bed, Beige, 120 x 200 x 33 cm, Pocket spring",
+    "variantSummary": "120 x 200 x 33 cm / Pocket spring / Beige",
+    "shortDescription": "120 x 200 x 33 cm, smoked ash tapered legs, beige upholstery.",
+    "selectionAttributes": {
+      "dimensions": "120 x 200 x 33 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Beige",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_2.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_2.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_2.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_4.avif",
+      "/products/divan-beds/moon-gold/197667_3.avif",
+      "/products/divan-beds/moon-gold/197667_4.avif",
+      "/products/divan-beds/moon-gold/197667_5.avif",
+      "/products/divan-beds/moon-gold/197667_6.avif",
+      "/products/divan-beds/moon-gold/197667_7.avif",
+      "/products/divan-beds/moon-gold/197667_8.avif",
+      "/products/divan-beds/moon-gold/197667_9.avif",
+      "/products/divan-beds/moon-gold/197667_10.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/197667",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Beige, 120 x 200 x 33 cm, Pocket spring 120 x 200 x 33 cm, smoked ash tapered legs, beige upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Beige Fabric Foam Metal Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 56 cm cm Dimensions Width 120 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.83 m³ m³ Logistics Weight 33 kg kg Logistics Weight 35 kg kg Setup Assembly time 15 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "120-cm",
+          "valueLabel": "120 cm",
+          "href": "/attributes/dimensions/width/120-cm/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-83-m3",
+          "valueLabel": "0.83 m³",
+          "href": "/attributes/logistics/volume/0-83-m3/",
+          "valueType": "enum",
+          "numericValue": 0.83,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "33-kg",
+          "valueLabel": "33 kg",
+          "href": "/attributes/logistics/weight/33-kg/",
+          "valueType": "enum",
+          "numericValue": 33,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "35-kg",
+          "valueLabel": "35 kg",
+          "href": "/attributes/logistics/weight/35-kg/",
+          "valueType": "enum",
+          "numericValue": 35,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "spring-warranty",
+          "label": "Spring warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/spring-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Beige, 120 x 200 x 33 cm, Pocket spring",
+      "summary": "120 x 200 x 33 cm, smoked ash tapered legs, beige upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197668",
+    "name": "197668",
+    "title": "Moon Gold Divan Bed, Beige, 140 x 200 x 33 cm, Pocket spring",
+    "variantSummary": "140 x 200 x 33 cm / Pocket spring / Beige",
+    "shortDescription": "140 x 200 x 33 cm, smoked ash tapered legs, beige upholstery.",
+    "selectionAttributes": {
+      "dimensions": "140 x 200 x 33 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Beige",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_6.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_6.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_6.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_8.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_8.jpg",
+      "/products/divan-beds/moon-gold/197668_1.avif",
+      "/products/divan-beds/moon-gold/197668_2.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/197668",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Beige, 140 x 200 x 33 cm, Pocket spring 140 x 200 x 33 cm, smoked ash tapered legs, beige upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Beige Fabric Foam Metal Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 56 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.97 m³ m³ Logistics Weight 35 kg kg Logistics Weight 37 kg kg Setup Assembly time 15 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "140-cm",
+          "valueLabel": "140 cm",
+          "href": "/attributes/dimensions/width/140-cm/",
+          "valueType": "enum",
+          "numericValue": 140,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-97-m3",
+          "valueLabel": "0.97 m³",
+          "href": "/attributes/logistics/volume/0-97-m3/",
+          "valueType": "enum",
+          "numericValue": 0.97,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "35-kg",
+          "valueLabel": "35 kg",
+          "href": "/attributes/logistics/weight/35-kg/",
+          "valueType": "enum",
+          "numericValue": 35,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "37-kg",
+          "valueLabel": "37 kg",
+          "href": "/attributes/logistics/weight/37-kg/",
+          "valueType": "enum",
+          "numericValue": 37,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "spring-warranty",
+          "label": "Spring warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/spring-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Beige, 140 x 200 x 33 cm, Pocket spring",
+      "summary": "140 x 200 x 33 cm, smoked ash tapered legs, beige upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197669",
+    "name": "197669",
+    "title": "Moon Gold Divan Bed, Black, 80 x 200 x 33 cm, Memory foam",
+    "variantSummary": "80 x 200 x 33 cm / Memory foam / Black",
+    "shortDescription": "80 x 200 x 33 cm with memory foam, black tapered legs, grey upholstery.",
+    "selectionAttributes": {
+      "dimensions": "80 x 200 x 33 cm",
+      "handedness": "",
+      "comfortType": "Memory foam",
+      "color": "Black",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_3.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_3.jpg",
+      "/products/divan-beds/moon-gold/197669_1.avif",
+      "/products/divan-beds/moon-gold/197669_2.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/197669",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Black, 80 x 200 x 33 cm, Memory foam 80 x 200 x 33 cm with memory foam, black tapered legs, grey upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Black Fabric Foam Memory foam Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 56 cm cm Dimensions Width 80 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.57 m³ m³ Logistics Weight 20 kg kg Logistics Weight 27 kg kg Setup Assembly time 15 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "memory-foam",
+          "label": "Memory foam",
+          "href": "/materials/memory-foam/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/width/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-57-m3",
+          "valueLabel": "0.57 m³",
+          "href": "/attributes/logistics/volume/0-57-m3/",
+          "valueType": "enum",
+          "numericValue": 0.57,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "memory-warranty",
+          "label": "Memory warranty",
+          "valueKey": "2000-days",
+          "valueLabel": "2000 days",
+          "href": "/attributes/warranty/memory-warranty/2000-days/",
+          "valueType": "enum",
+          "numericValue": 2000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Black, 80 x 200 x 33 cm, Memory foam",
+      "summary": "80 x 200 x 33 cm with memory foam, black tapered legs, grey upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197670",
+    "name": "197670",
+    "title": "Moon Gold Divan Bed, Black, 90 x 200 x 33 cm, Memory foam",
+    "variantSummary": "90 x 200 x 33 cm / Memory foam / Black",
+    "shortDescription": "90 x 200 x 33 cm with memory foam, black tapered legs, grey upholstery.",
+    "selectionAttributes": {
+      "dimensions": "90 x 200 x 33 cm",
+      "handedness": "",
+      "comfortType": "Memory foam",
+      "color": "Black",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_3.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_3.jpg",
+      "/products/divan-beds/moon-gold/197670_1.avif",
+      "/products/divan-beds/moon-gold/197670_2.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/197670",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Black, 90 x 200 x 33 cm, Memory foam 90 x 200 x 33 cm with memory foam, black tapered legs, grey upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Black Fabric Foam Memory foam Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 56 cm cm Dimensions Width 90 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.98 m³ m³ Logistics Weight 29 kg kg Logistics Weight 31 kg kg Setup Assembly time 15 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "memory-foam",
+          "label": "Memory foam",
+          "href": "/materials/memory-foam/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "90-cm",
+          "valueLabel": "90 cm",
+          "href": "/attributes/dimensions/width/90-cm/",
+          "valueType": "enum",
+          "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-98-m3",
+          "valueLabel": "0.98 m³",
+          "href": "/attributes/logistics/volume/0-98-m3/",
+          "valueType": "enum",
+          "numericValue": 0.98,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "31-kg",
+          "valueLabel": "31 kg",
+          "href": "/attributes/logistics/weight/31-kg/",
+          "valueType": "enum",
+          "numericValue": 31,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "memory-warranty",
+          "label": "Memory warranty",
+          "valueKey": "2000-days",
+          "valueLabel": "2000 days",
+          "href": "/attributes/warranty/memory-warranty/2000-days/",
+          "valueType": "enum",
+          "numericValue": 2000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "spring-warranty",
+          "label": "Spring warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/spring-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Black, 90 x 200 x 33 cm, Memory foam",
+      "summary": "90 x 200 x 33 cm with memory foam, black tapered legs, grey upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197671",
+    "name": "197671",
+    "title": "Moon Gold Divan Bed, Black, 120 x 200 x 33 cm, Memory foam",
+    "variantSummary": "120 x 200 x 33 cm / Memory foam / Black",
+    "shortDescription": "120 x 200 x 33 cm with memory foam, black tapered legs, grey upholstery.",
+    "selectionAttributes": {
+      "dimensions": "120 x 200 x 33 cm",
+      "handedness": "",
+      "comfortType": "Memory foam",
+      "color": "Black",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_140_x_200_x_33_cm_1.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_140_x_200_x_33_cm_1.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_140_x_200_x_33_cm_1.avif",
+      "/products/divan-beds/moon-gold/197671_2.avif",
+      "/products/divan-beds/moon-gold/197671_3.avif",
+      "/products/divan-beds/moon-gold/197671_4.avif",
+      "/products/divan-beds/moon-gold/197671_5.avif",
+      "/products/divan-beds/moon-gold/197671_6.avif",
+      "/products/divan-beds/moon-gold/197671_7.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/197671",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Black, 120 x 200 x 33 cm, Memory foam 120 x 200 x 33 cm with memory foam, black tapered legs, grey upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Black Fabric Foam Memory foam Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 56 cm cm Dimensions Width 120 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.83 m³ m³ Logistics Weight 33 kg kg Logistics Weight 35 kg kg Setup Assembly time 15 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "memory-foam",
+          "label": "Memory foam",
+          "href": "/materials/memory-foam/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "120-cm",
+          "valueLabel": "120 cm",
+          "href": "/attributes/dimensions/width/120-cm/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-83-m3",
+          "valueLabel": "0.83 m³",
+          "href": "/attributes/logistics/volume/0-83-m3/",
+          "valueType": "enum",
+          "numericValue": 0.83,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "33-kg",
+          "valueLabel": "33 kg",
+          "href": "/attributes/logistics/weight/33-kg/",
+          "valueType": "enum",
+          "numericValue": 33,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "35-kg",
+          "valueLabel": "35 kg",
+          "href": "/attributes/logistics/weight/35-kg/",
+          "valueType": "enum",
+          "numericValue": 35,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "memory-warranty",
+          "label": "Memory warranty",
+          "valueKey": "2000-days",
+          "valueLabel": "2000 days",
+          "href": "/attributes/warranty/memory-warranty/2000-days/",
+          "valueType": "enum",
+          "numericValue": 2000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Black, 120 x 200 x 33 cm, Memory foam",
+      "summary": "120 x 200 x 33 cm with memory foam, black tapered legs, grey upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197672",
+    "name": "197672",
+    "title": "Moon Gold Divan Bed, Black, 140 x 200 x 33 cm, Memory foam",
+    "variantSummary": "140 x 200 x 33 cm / Memory foam / Black",
+    "shortDescription": "140 x 200 x 33 cm with memory foam, black tapered legs, grey upholstery.",
+    "selectionAttributes": {
+      "dimensions": "140 x 200 x 33 cm",
+      "handedness": "",
+      "comfortType": "Memory foam",
+      "color": "Black",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_140_x_200_x_33_cm_1.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_140_x_200_x_33_cm_1.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_140_x_200_x_33_cm_1.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_3.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_3.jpg",
+      "/products/divan-beds/moon-gold/197672_1.avif",
+      "/products/divan-beds/moon-gold/197672_2.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/197672",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Black, 140 x 200 x 33 cm, Memory foam 140 x 200 x 33 cm with memory foam, black tapered legs, grey upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Black Fabric Foam Memory foam Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 56 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.97 m³ m³ Logistics Weight 35 kg kg Logistics Weight 37 kg kg Setup Assembly time 15 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "memory-foam",
+          "label": "Memory foam",
+          "href": "/materials/memory-foam/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "140-cm",
+          "valueLabel": "140 cm",
+          "href": "/attributes/dimensions/width/140-cm/",
+          "valueType": "enum",
+          "numericValue": 140,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-97-m3",
+          "valueLabel": "0.97 m³",
+          "href": "/attributes/logistics/volume/0-97-m3/",
+          "valueType": "enum",
+          "numericValue": 0.97,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "35-kg",
+          "valueLabel": "35 kg",
+          "href": "/attributes/logistics/weight/35-kg/",
+          "valueType": "enum",
+          "numericValue": 35,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "37-kg",
+          "valueLabel": "37 kg",
+          "href": "/attributes/logistics/weight/37-kg/",
+          "valueType": "enum",
+          "numericValue": 37,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "memory-warranty",
+          "label": "Memory warranty",
+          "valueKey": "2000-days",
+          "valueLabel": "2000 days",
+          "href": "/attributes/warranty/memory-warranty/2000-days/",
+          "valueType": "enum",
+          "numericValue": 2000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Black, 140 x 200 x 33 cm, Memory foam",
+      "summary": "140 x 200 x 33 cm with memory foam, black tapered legs, grey upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197673",
+    "name": "197673",
+    "title": "Moon Gold Divan Bed, Beige, 80 x 200 x 33 cm, Memory foam",
+    "variantSummary": "80 x 200 x 33 cm / Memory foam / Beige",
+    "shortDescription": "80 x 200 x 33 cm with memory foam, smoked ash tapered legs, beige upholstery.",
+    "selectionAttributes": {
+      "dimensions": "80 x 200 x 33 cm",
+      "handedness": "",
+      "comfortType": "Memory foam",
+      "color": "Beige",
+      "material": "Wood, Memory foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_5.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_5.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_5.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_7.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_7.jpg",
+      "/products/divan-beds/moon-gold/197673_1.avif",
+      "/products/divan-beds/moon-gold/197673_2.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/197673",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Beige, 80 x 200 x 33 cm, Memory foam 80 x 200 x 33 cm with memory foam, smoked ash tapered legs, beige upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Beige Memory foam Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 56 cm cm Dimensions Width 80 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.56 m³ m³ Logistics Weight 27 kg kg Logistics Weight 29 kg kg Setup Assembly time 15 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "memory-foam",
+          "label": "Memory foam",
+          "href": "/materials/memory-foam/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/width/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-56-m3",
+          "valueLabel": "0.56 m³",
+          "href": "/attributes/logistics/volume/0-56-m3/",
+          "valueType": "enum",
+          "numericValue": 0.56,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "memory-warranty",
+          "label": "Memory warranty",
+          "valueKey": "2000-days",
+          "valueLabel": "2000 days",
+          "href": "/attributes/warranty/memory-warranty/2000-days/",
+          "valueType": "enum",
+          "numericValue": 2000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Beige, 80 x 200 x 33 cm, Memory foam",
+      "summary": "80 x 200 x 33 cm with memory foam, smoked ash tapered legs, beige upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197674",
+    "name": "197674",
+    "title": "Moon Gold Divan Bed, Beige, 90 x 200 x 33 cm, Memory foam",
+    "variantSummary": "90 x 200 x 33 cm / Memory foam / Beige",
+    "shortDescription": "90 x 200 x 33 cm with memory foam, smoked ash tapered legs, beige upholstery.",
+    "selectionAttributes": {
+      "dimensions": "90 x 200 x 33 cm",
+      "handedness": "",
+      "comfortType": "Memory foam",
+      "color": "Beige",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_5.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_5.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_5.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_7.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_7.jpg",
+      "/products/divan-beds/moon-gold/197674_1.avif",
+      "/products/divan-beds/moon-gold/197674_2.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/197674",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Beige, 90 x 200 x 33 cm, Memory foam 90 x 200 x 33 cm with memory foam, smoked ash tapered legs, beige upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Beige Fabric Foam Memory foam Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 56 cm cm Dimensions Width 90 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.47 m³ m³ Logistics Weight 29 kg kg Logistics Weight 31 kg kg Setup Assembly time 15 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "memory-foam",
+          "label": "Memory foam",
+          "href": "/materials/memory-foam/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "90-cm",
+          "valueLabel": "90 cm",
+          "href": "/attributes/dimensions/width/90-cm/",
+          "valueType": "enum",
+          "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "1-47-m3",
+          "valueLabel": "1.47 m³",
+          "href": "/attributes/logistics/volume/1-47-m3/",
+          "valueType": "enum",
+          "numericValue": 1.47,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "31-kg",
+          "valueLabel": "31 kg",
+          "href": "/attributes/logistics/weight/31-kg/",
+          "valueType": "enum",
+          "numericValue": 31,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "memory-warranty",
+          "label": "Memory warranty",
+          "valueKey": "2000-days",
+          "valueLabel": "2000 days",
+          "href": "/attributes/warranty/memory-warranty/2000-days/",
+          "valueType": "enum",
+          "numericValue": 2000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Beige, 90 x 200 x 33 cm, Memory foam",
+      "summary": "90 x 200 x 33 cm with memory foam, smoked ash tapered legs, beige upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197675",
+    "name": "197675",
+    "title": "Moon Gold Divan Bed, Beige, 120 x 200 x 33 cm, Memory foam",
+    "variantSummary": "120 x 200 x 33 cm / Memory foam / Beige",
+    "shortDescription": "120 x 200 x 33 cm with memory foam, smoked ash tapered legs, beige upholstery.",
+    "selectionAttributes": {
+      "dimensions": "120 x 200 x 33 cm",
+      "handedness": "",
+      "comfortType": "Memory foam",
+      "color": "Beige",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_6.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_6.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_6.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_8.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_8.jpg",
+      "/products/divan-beds/moon-gold/197675_1.avif",
+      "/products/divan-beds/moon-gold/197675_2.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/197675",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Beige, 120 x 200 x 33 cm, Memory foam 120 x 200 x 33 cm with memory foam, smoked ash tapered legs, beige upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Beige Fabric Foam Memory foam Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 56 cm cm Dimensions Width 120 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.83 m³ m³ Logistics Weight 33 kg kg Logistics Weight 35 kg kg Setup Assembly time 15 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "memory-foam",
+          "label": "Memory foam",
+          "href": "/materials/memory-foam/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "120-cm",
+          "valueLabel": "120 cm",
+          "href": "/attributes/dimensions/width/120-cm/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-83-m3",
+          "valueLabel": "0.83 m³",
+          "href": "/attributes/logistics/volume/0-83-m3/",
+          "valueType": "enum",
+          "numericValue": 0.83,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "33-kg",
+          "valueLabel": "33 kg",
+          "href": "/attributes/logistics/weight/33-kg/",
+          "valueType": "enum",
+          "numericValue": 33,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "35-kg",
+          "valueLabel": "35 kg",
+          "href": "/attributes/logistics/weight/35-kg/",
+          "valueType": "enum",
+          "numericValue": 35,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "memory-warranty",
+          "label": "Memory warranty",
+          "valueKey": "2000-days",
+          "valueLabel": "2000 days",
+          "href": "/attributes/warranty/memory-warranty/2000-days/",
+          "valueType": "enum",
+          "numericValue": 2000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Beige, 120 x 200 x 33 cm, Memory foam",
+      "summary": "120 x 200 x 33 cm with memory foam, smoked ash tapered legs, beige upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197676",
+    "name": "197676",
+    "title": "Moon Gold Divan Bed, Beige, 140 x 200 x 33 cm, Memory foam",
+    "variantSummary": "140 x 200 x 33 cm / Memory foam / Beige",
+    "shortDescription": "140 x 200 x 33 cm with memory foam, smoked ash tapered legs, beige upholstery.",
+    "selectionAttributes": {
+      "dimensions": "140 x 200 x 33 cm",
+      "handedness": "",
+      "comfortType": "Memory foam",
+      "color": "Beige",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_6.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_6.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_6.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_8.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_8.jpg",
+      "/products/divan-beds/moon-gold/197676_1.avif",
+      "/products/divan-beds/moon-gold/197676_2.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/197676",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Beige, 140 x 200 x 33 cm, Memory foam 140 x 200 x 33 cm with memory foam, smoked ash tapered legs, beige upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Beige Fabric Foam Memory foam Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 56 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.01 m³ m³ Logistics Weight 30 kg kg Logistics Weight 35 kg kg Setup Assembly time 15 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "memory-foam",
+          "label": "Memory foam",
+          "href": "/materials/memory-foam/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "140-cm",
+          "valueLabel": "140 cm",
+          "href": "/attributes/dimensions/width/140-cm/",
+          "valueType": "enum",
+          "numericValue": 140,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "1-01-m3",
+          "valueLabel": "1.01 m³",
+          "href": "/attributes/logistics/volume/1-01-m3/",
+          "valueType": "enum",
+          "numericValue": 1.01,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "35-kg",
+          "valueLabel": "35 kg",
+          "href": "/attributes/logistics/weight/35-kg/",
+          "valueType": "enum",
+          "numericValue": 35,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "memory-warranty",
+          "label": "Memory warranty",
+          "valueKey": "2000-days",
+          "valueLabel": "2000 days",
+          "href": "/attributes/warranty/memory-warranty/2000-days/",
+          "valueType": "enum",
+          "numericValue": 2000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Beige, 140 x 200 x 33 cm, Memory foam",
+      "summary": "140 x 200 x 33 cm with memory foam, smoked ash tapered legs, beige upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "209331",
+    "name": "209331",
+    "title": "Moon Gold Divan Bed, Grey, 80 x 210 x 33 cm, Pocket spring",
+    "variantSummary": "80 x 210 x 33 cm / Pocket spring / Grey",
+    "shortDescription": "80 x 210 x 33 cm, black tapered legs, grey upholstery.",
+    "selectionAttributes": {
+      "dimensions": "80 x 210 x 33 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Grey",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_3.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_3.jpg",
+      "/products/divan-beds/moon-gold/209331_1.avif",
+      "/products/divan-beds/moon-gold/209331_2.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/209331",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Grey, 80 x 210 x 33 cm, Pocket spring 80 x 210 x 33 cm, black tapered legs, grey upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Grey Fabric Foam Metal Wood Comfort Firmness Firm Dimensions Depth 210 cm cm Dimensions Height 56 cm cm Dimensions Width 80 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Weight 29 kg kg Logistics Weight 31 kg kg Setup Assembly time 15 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "210-cm",
+          "valueLabel": "210 cm",
+          "href": "/attributes/dimensions/depth/210-cm/",
+          "valueType": "enum",
+          "numericValue": 210,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/width/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-59-m3",
+          "valueLabel": "0.59 m³",
+          "href": "/attributes/logistics/volume/0-59-m3/",
+          "valueType": "enum",
+          "numericValue": 0.59,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "31-kg",
+          "valueLabel": "31 kg",
+          "href": "/attributes/logistics/weight/31-kg/",
+          "valueType": "enum",
+          "numericValue": 31,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Grey, 80 x 210 x 33 cm, Pocket spring",
+      "summary": "80 x 210 x 33 cm, black tapered legs, grey upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "209332",
+    "name": "209332",
+    "title": "Moon Gold Divan Bed, Grey, 90 x 210 x 33 cm, Pocket spring",
+    "variantSummary": "90 x 210 x 33 cm / Pocket spring / Grey",
+    "shortDescription": "90 x 210 x 33 cm, black tapered legs, grey upholstery.",
+    "selectionAttributes": {
+      "dimensions": "90 x 210 x 33 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Grey",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_3.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_3.jpg",
+      "/products/divan-beds/moon-gold/209332_1.avif",
+      "/products/divan-beds/moon-gold/209332_2.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/209332",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Grey, 90 x 210 x 33 cm, Pocket spring 90 x 210 x 33 cm, black tapered legs, grey upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Grey Fabric Foam Metal Wood Comfort Firmness Firm Dimensions Depth 210 cm cm Dimensions Height 56 cm cm Dimensions Width 90 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.66 m³ m³ Logistics Weight 31 kg kg Logistics Weight 33 kg kg Setup Assembly time 15 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "210-cm",
+          "valueLabel": "210 cm",
+          "href": "/attributes/dimensions/depth/210-cm/",
+          "valueType": "enum",
+          "numericValue": 210,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "90-cm",
+          "valueLabel": "90 cm",
+          "href": "/attributes/dimensions/width/90-cm/",
+          "valueType": "enum",
+          "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-66-m3",
+          "valueLabel": "0.66 m³",
+          "href": "/attributes/logistics/volume/0-66-m3/",
+          "valueType": "enum",
+          "numericValue": 0.66,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "31-kg",
+          "valueLabel": "31 kg",
+          "href": "/attributes/logistics/weight/31-kg/",
+          "valueType": "enum",
+          "numericValue": 31,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "33-kg",
+          "valueLabel": "33 kg",
+          "href": "/attributes/logistics/weight/33-kg/",
+          "valueType": "enum",
+          "numericValue": 33,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Grey, 90 x 210 x 33 cm, Pocket spring",
+      "summary": "90 x 210 x 33 cm, black tapered legs, grey upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "209333",
+    "name": "209333",
+    "title": "Moon Gold Divan Bed, Beige, 80 x 210 x 33 cm, Pocket spring",
+    "variantSummary": "80 x 210 x 33 cm / Pocket spring / Beige",
+    "shortDescription": "80 x 210 x 33 cm, smoked ash tapered legs, beige upholstery.",
+    "selectionAttributes": {
+      "dimensions": "80 x 210 x 33 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Beige",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_5.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_5.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_5.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_7.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_7.jpg",
+      "/products/divan-beds/moon-gold/209333_1.avif",
+      "/products/divan-beds/moon-gold/209333_2.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/209333",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Beige, 80 x 210 x 33 cm, Pocket spring 80 x 210 x 33 cm, smoked ash tapered legs, beige upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Beige Fabric Foam Metal Wood Comfort Firmness Firm Dimensions Depth 210 cm cm Dimensions Height 56 cm cm Dimensions Width 80 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Weight 29 kg kg Logistics Weight 31 kg kg Setup Assembly time 15 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "210-cm",
+          "valueLabel": "210 cm",
+          "href": "/attributes/dimensions/depth/210-cm/",
+          "valueType": "enum",
+          "numericValue": 210,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/width/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-59-m3",
+          "valueLabel": "0.59 m³",
+          "href": "/attributes/logistics/volume/0-59-m3/",
+          "valueType": "enum",
+          "numericValue": 0.59,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "31-kg",
+          "valueLabel": "31 kg",
+          "href": "/attributes/logistics/weight/31-kg/",
+          "valueType": "enum",
+          "numericValue": 31,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Beige, 80 x 210 x 33 cm, Pocket spring",
+      "summary": "80 x 210 x 33 cm, smoked ash tapered legs, beige upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "209334",
+    "name": "209334",
+    "title": "Moon Gold Divan Bed, Beige, 90 x 210 x 33 cm, Pocket spring",
+    "variantSummary": "90 x 210 x 33 cm / Pocket spring / Beige",
+    "shortDescription": "90 x 210 x 33 cm, smoked ash tapered legs, beige upholstery.",
+    "selectionAttributes": {
+      "dimensions": "90 x 210 x 33 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Beige",
+      "material": "Fabric, Wood, Foam"
+    },
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_5.avif",
+    "imageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_5.avif",
+    "imageUrls": [
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_5.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_7.avif",
+      "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_7.jpg",
+      "/products/divan-beds/moon-gold/209334_1.avif",
+      "/products/divan-beds/moon-gold/209334_2.avif"
+    ],
+    "href": "/products/divan-beds/moon-gold/209334",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Divan Bed, Beige, 90 x 210 x 33 cm, Pocket spring 90 x 210 x 33 cm, smoked ash tapered legs, beige upholstery. Divan Beds Bedroom Moon Gold Bedroom Divan Beds Moon Gold Beige Fabric Foam Metal Wood Comfort Firmness Firm Dimensions Depth 210 cm cm Dimensions Height 56 cm cm Dimensions Width 90 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.66 m³ m³ Logistics Weight 31 kg kg Logistics Weight 33 kg kg Setup Assembly time 15 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "divan-beds",
+          "label": "Divan Beds",
+          "href": "/products/divan-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "210-cm",
+          "valueLabel": "210 cm",
+          "href": "/attributes/dimensions/depth/210-cm/",
+          "valueType": "enum",
+          "numericValue": 210,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "56-cm",
+          "valueLabel": "56 cm",
+          "href": "/attributes/dimensions/height/56-cm/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "90-cm",
+          "valueLabel": "90 cm",
+          "href": "/attributes/dimensions/width/90-cm/",
+          "valueType": "enum",
+          "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-66-m3",
+          "valueLabel": "0.66 m³",
+          "href": "/attributes/logistics/volume/0-66-m3/",
+          "valueType": "enum",
+          "numericValue": 0.66,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "31-kg",
+          "valueLabel": "31 kg",
+          "href": "/attributes/logistics/weight/31-kg/",
+          "valueType": "enum",
+          "numericValue": 31,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "33-kg",
+          "valueLabel": "33 kg",
+          "href": "/attributes/logistics/weight/33-kg/",
+          "valueType": "enum",
+          "numericValue": 33,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Divan Bed, Beige, 90 x 210 x 33 cm, Pocket spring",
+      "summary": "90 x 210 x 33 cm, smoked ash tapered legs, beige upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Divan Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  }
+]

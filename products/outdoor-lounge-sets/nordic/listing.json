@@ -1,0 +1,326 @@
+{
+  "familyTitle": "Nordic Outdoor Lounge Set",
+  "familySummary": "Outdoor lounge set configurations from the Nordic collection with white aluminium frames, beige cushions, and selected layouts with integrated coffee tables.",
+  "primaryImageUrl": "/products/outdoor-lounge-sets/nordic/MYYKESA2211_1.avif",
+  "schemaCategory": "Outdoor Lounge Sets",
+  "variantCount": 4,
+  "productFamilyName": "Nordic",
+  "productFamilyKey": "nordic",
+  "productFamilyRelativeDir": "families/nordic",
+  "filterData": {
+    "searchText": "Nordic Outdoor Lounge Set Outdoor lounge set configurations from the Nordic collection with white aluminium frames, beige cushions, and selected layouts with integrated coffee tables. Outdoor Lounge Sets Outdoor Nordic Outdoor Outdoor Lounge Sets Nordic Beige White Aluminium Fabric Plastic Dimensions Depth 246 cm cm Dimensions Height 61 cm cm Dimensions Width 246 cm cm Dimensions Width 328 cm cm Logistics Package count 1 package package Logistics Package count 2 package package Logistics Package count 3 package package Logistics Product count 1 product product Logistics Volume 0.12 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Volume 0.31 m³ m³ Logistics Volume 0.33 m³ m³ Logistics Weight 11 kg kg Logistics Weight 12 kg kg Logistics Weight 13 kg kg Logistics Weight 14 kg kg Logistics Weight 51.5 kg kg Logistics Weight 55.5 kg kg Logistics Weight 57 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
+    "collections": [
+      {
+        "key": "outdoor",
+        "label": "Outdoor",
+        "href": "/collections/outdoor"
+      }
+    ],
+    "categories": [
+      {
+        "key": "outdoor-lounge-sets",
+        "label": "Outdoor Lounge Sets",
+        "href": "/products/outdoor-lounge-sets/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "nordic",
+        "label": "Nordic",
+        "href": "/families/nordic/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "beige",
+        "label": "Beige",
+        "href": "/colors/beige/"
+      },
+      {
+        "key": "white",
+        "label": "White",
+        "href": "/colors/white/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "aluminium",
+        "label": "Aluminium",
+        "href": "/materials/aluminium/"
+      },
+      {
+        "key": "fabric",
+        "label": "Fabric",
+        "href": "/materials/fabric/"
+      },
+      {
+        "key": "plastic",
+        "label": "Plastic",
+        "href": "/materials/plastic/"
+      }
+    ],
+    "specifications": [],
+    "attributes": [
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "depth",
+        "label": "Depth",
+        "valueKey": "246-cm",
+        "valueLabel": "246 cm",
+        "href": "/attributes/dimensions/depth/246-cm/",
+        "valueType": "enum",
+        "numericValue": 246,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "height",
+        "label": "Height",
+        "valueKey": "61-cm",
+        "valueLabel": "61 cm",
+        "href": "/attributes/dimensions/height/61-cm/",
+        "valueType": "enum",
+        "numericValue": 61,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "246-cm",
+        "valueLabel": "246 cm",
+        "href": "/attributes/dimensions/width/246-cm/",
+        "valueType": "enum",
+        "numericValue": 246,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "328-cm",
+        "valueLabel": "328 cm",
+        "href": "/attributes/dimensions/width/328-cm/",
+        "valueType": "enum",
+        "numericValue": 328,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-count",
+        "label": "Package count",
+        "valueKey": "1-package",
+        "valueLabel": "1 package",
+        "href": "/attributes/logistics/package-count/1-package/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "package"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-count",
+        "label": "Package count",
+        "valueKey": "2-package",
+        "valueLabel": "2 package",
+        "href": "/attributes/logistics/package-count/2-package/",
+        "valueType": "enum",
+        "numericValue": 2,
+        "unit": "package"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-count",
+        "label": "Package count",
+        "valueKey": "3-package",
+        "valueLabel": "3 package",
+        "href": "/attributes/logistics/package-count/3-package/",
+        "valueType": "enum",
+        "numericValue": 3,
+        "unit": "package"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "product-count",
+        "label": "Product count",
+        "valueKey": "1-product",
+        "valueLabel": "1 product",
+        "href": "/attributes/logistics/product-count/1-product/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "product"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-12-m3",
+        "valueLabel": "0.12 m³",
+        "href": "/attributes/logistics/volume/0-12-m3/",
+        "valueType": "enum",
+        "numericValue": 0.12,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-15-m3",
+        "valueLabel": "0.15 m³",
+        "href": "/attributes/logistics/volume/0-15-m3/",
+        "valueType": "enum",
+        "numericValue": 0.15,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-31-m3",
+        "valueLabel": "0.31 m³",
+        "href": "/attributes/logistics/volume/0-31-m3/",
+        "valueType": "enum",
+        "numericValue": 0.31,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-33-m3",
+        "valueLabel": "0.33 m³",
+        "href": "/attributes/logistics/volume/0-33-m3/",
+        "valueType": "enum",
+        "numericValue": 0.33,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "11-kg",
+        "valueLabel": "11 kg",
+        "href": "/attributes/logistics/weight/11-kg/",
+        "valueType": "enum",
+        "numericValue": 11,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "12-kg",
+        "valueLabel": "12 kg",
+        "href": "/attributes/logistics/weight/12-kg/",
+        "valueType": "enum",
+        "numericValue": 12,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "13-kg",
+        "valueLabel": "13 kg",
+        "href": "/attributes/logistics/weight/13-kg/",
+        "valueType": "enum",
+        "numericValue": 13,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "14-kg",
+        "valueLabel": "14 kg",
+        "href": "/attributes/logistics/weight/14-kg/",
+        "valueType": "enum",
+        "numericValue": 14,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "51-5-kg",
+        "valueLabel": "51.5 kg",
+        "href": "/attributes/logistics/weight/51-5-kg/",
+        "valueType": "enum",
+        "numericValue": 51.5,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "55-5-kg",
+        "valueLabel": "55.5 kg",
+        "href": "/attributes/logistics/weight/55-5-kg/",
+        "valueType": "enum",
+        "numericValue": 55.5,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "57-kg",
+        "valueLabel": "57 kg",
+        "href": "/attributes/logistics/weight/57-kg/",
+        "valueType": "enum",
+        "numericValue": 57,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "setup",
+        "groupLabel": "Setup",
+        "key": "assembly-time",
+        "label": "Assembly time",
+        "valueKey": "15-min",
+        "valueLabel": "15 min",
+        "href": "/attributes/setup/assembly-time/15-min/",
+        "valueType": "enum",
+        "numericValue": 15,
+        "unit": "min"
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "quality-guarantee",
+        "label": "Quality guarantee",
+        "valueKey": "1000-days",
+        "valueLabel": "1000 days",
+        "href": "/attributes/warranty/quality-guarantee/1000-days/",
+        "valueType": "enum",
+        "numericValue": 1000,
+        "unit": "days"
+      }
+    ]
+  },
+  "sortData": {
+    "title": "Nordic Outdoor Lounge Set",
+    "summary": "Outdoor lounge set configurations from the Nordic collection with white aluminium frames, beige cushions, and selected layouts with integrated coffee tables.",
+    "variantCount": 4,
+    "categoryLabel": "Outdoor Lounge Sets",
+    "collectionLabel": "Outdoor",
+    "productFamilyLabel": "Nordic"
+  }
+}

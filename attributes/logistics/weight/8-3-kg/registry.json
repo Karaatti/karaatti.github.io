@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "8.3 kg",
+  "valueSlug": "8-3-kg",
+  "valueType": "measurement",
+  "numericValue": 8.3,
+  "unit": "kg",
+  "productTypes": [
+    "Pillows"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/pillows/staycation/214017_1.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/staycation",
+      "familyTitle": "Staycation",
+      "familySummary": "Bedroom pillows from the Staycation series.",
+      "primaryImageUrl": "/products/pillows/staycation/214017_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 8.3,
+        "max": 8.3,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "8.3 kg is a published weight used across selected Nest & Living products. Common on Pillow."
+}

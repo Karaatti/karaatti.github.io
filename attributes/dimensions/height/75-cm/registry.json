@@ -1,0 +1,79 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "75 cm",
+  "valueSlug": "75-cm",
+  "valueType": "measurement",
+  "numericValue": 75,
+  "unit": "cm",
+  "productTypes": [
+    "3-Seater Sofas",
+    "Dining Tables",
+    "Outdoor Storage",
+    "Swivel Chairs"
+  ],
+  "familyCount": 5,
+  "variantCount": 10,
+  "primaryImageUrl": "/products/dining-tables/metz/208710_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/metz",
+      "familyTitle": "Metz",
+      "familySummary": "A round dining table with a natural Beige veneer surface and a light, sturdy base. Designed to comfortably seat four and fit modern interiors.",
+      "primaryImageUrl": "/products/dining-tables/metz/208710_1.avif",
+      "schemaCategory": "Dining Tables",
+      "variantCount": 5
+    },
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Outdoor storage boxes from the Nordic collection with aluminium frames and weather-ready fabric-lined lids, available in two sizes and beige or black finishes.",
+      "primaryImageUrl": "/products/outdoor-storage/nordic/206769_1.avif",
+      "schemaCategory": "Outdoor Storage",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/bay",
+      "familyTitle": "Bay",
+      "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+      "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/islet",
+      "familyTitle": "Islet",
+      "familySummary": "Islet round dining table, 120 cm diameter, walnut finish. Combines modern design with a natural wood look. Durable and easy to care for, fitting both small and larger dining areas.",
+      "primaryImageUrl": "/products/dining-tables/islet/198066_1.avif",
+      "schemaCategory": "Dining Tables",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/sulo",
+      "familyTitle": "Sulo",
+      "familySummary": "A modern three-seater sofa in white corduroy with rounded armrests and a low backrest for relaxed seating.",
+      "primaryImageUrl": "/products/three-seater-sofas/sulo/202841_1.avif",
+      "schemaCategory": "3-Seater Sofas",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 75,
+        "max": 75,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "75 cm is a published height used across selected Nest & Living products. Common on 3-Seater Sofa, Dining Table, Outdoor Storage and Swivel Chair."
+}

@@ -1,0 +1,280 @@
+[
+  {
+    "name": "moonlit",
+    "title": "Moonlit Bed Frame",
+    "href": "/products/bed-frames/moonlit/",
+    "type": "dir",
+    "summary": "Upholstered bed frame in beige bouclé fabric with a sturdy construction. Suitable for various mattresses and bedroom styles.",
+    "primaryImageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
+    "filterData": {
+      "searchText": "Moonlit Upholstered bed frame in beige bouclé fabric with a sturdy construction. Suitable for various mattresses and bedroom styles. Bed Frames Bedroom Moonlit Bedroom Bed Frames Moonlit Beige Fabric Wood Dimensions Depth 240 cm cm Dimensions Height 107 cm cm Dimensions Inner depth 200 cm cm Dimensions Inner height 36 cm cm Dimensions Inner width 160 cm cm Dimensions Inner width 180 cm cm Dimensions Width 184 cm cm Dimensions Width 204 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.32 m³ m³ Logistics Volume 0.38 m³ m³ Logistics Weight 35 kg kg Logistics Weight 39 kg kg Logistics Weight 53 kg kg Logistics Weight 55 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "bed-frames",
+          "label": "Bed Frames",
+          "href": "/products/bed-frames/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moonlit",
+          "label": "Moonlit",
+          "href": "/families/moonlit/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "240-cm",
+          "valueLabel": "240 cm",
+          "href": "/attributes/dimensions/depth/240-cm/",
+          "valueType": "enum",
+          "numericValue": 240,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "107-cm",
+          "valueLabel": "107 cm",
+          "href": "/attributes/dimensions/height/107-cm/",
+          "valueType": "enum",
+          "numericValue": 107,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "inner-depth",
+          "label": "Inner depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/inner-depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "inner-height",
+          "label": "Inner height",
+          "valueKey": "36-cm",
+          "valueLabel": "36 cm",
+          "href": "/attributes/dimensions/inner-height/36-cm/",
+          "valueType": "enum",
+          "numericValue": 36,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "inner-width",
+          "label": "Inner width",
+          "valueKey": "160-cm",
+          "valueLabel": "160 cm",
+          "href": "/attributes/dimensions/inner-width/160-cm/",
+          "valueType": "enum",
+          "numericValue": 160,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "inner-width",
+          "label": "Inner width",
+          "valueKey": "180-cm",
+          "valueLabel": "180 cm",
+          "href": "/attributes/dimensions/inner-width/180-cm/",
+          "valueType": "enum",
+          "numericValue": 180,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "184-cm",
+          "valueLabel": "184 cm",
+          "href": "/attributes/dimensions/width/184-cm/",
+          "valueType": "enum",
+          "numericValue": 184,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "204-cm",
+          "valueLabel": "204 cm",
+          "href": "/attributes/dimensions/width/204-cm/",
+          "valueType": "enum",
+          "numericValue": 204,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-32-m3",
+          "valueLabel": "0.32 m³",
+          "href": "/attributes/logistics/volume/0-32-m3/",
+          "valueType": "enum",
+          "numericValue": 0.32,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-38-m3",
+          "valueLabel": "0.38 m³",
+          "href": "/attributes/logistics/volume/0-38-m3/",
+          "valueType": "enum",
+          "numericValue": 0.38,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "35-kg",
+          "valueLabel": "35 kg",
+          "href": "/attributes/logistics/weight/35-kg/",
+          "valueType": "enum",
+          "numericValue": 35,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "39-kg",
+          "valueLabel": "39 kg",
+          "href": "/attributes/logistics/weight/39-kg/",
+          "valueType": "enum",
+          "numericValue": 39,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "53-kg",
+          "valueLabel": "53 kg",
+          "href": "/attributes/logistics/weight/53-kg/",
+          "valueType": "enum",
+          "numericValue": 53,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "55-kg",
+          "valueLabel": "55 kg",
+          "href": "/attributes/logistics/weight/55-kg/",
+          "valueType": "enum",
+          "numericValue": 55,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moonlit",
+      "summary": "Upholstered bed frame in beige bouclé fabric with a sturdy construction. Suitable for various mattresses and bedroom styles.",
+      "variantCount": 2,
+      "categoryLabel": "Bed Frames",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moonlit"
+    }
+  }
+]

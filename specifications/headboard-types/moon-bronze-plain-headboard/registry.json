@@ -1,0 +1,28 @@
+{
+  "group": "headboard-types",
+  "groupLabel": "Headboard types",
+  "slug": "moon-bronze-plain-headboard",
+  "label": "Moon Bronze plain headboard",
+  "aliases": [
+    "Moon Bronze pääty sileä"
+  ],
+  "productTypes": [
+    "Headboards"
+  ],
+  "materials": [],
+  "attributeSummaries": [],
+  "familyCount": 1,
+  "variantCount": 15,
+  "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_beige_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "A smooth, upholstered headboard offered in three neutral colours and multiple widths.",
+      "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_beige_1.avif",
+      "schemaCategory": "Headboards",
+      "variantCount": 15
+    }
+  ],
+  "summary": "Moon Bronze plain headboard is a shared headboard type used across the Nest & Living range. Common on Headboard."
+}

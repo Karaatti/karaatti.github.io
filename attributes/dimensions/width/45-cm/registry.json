@@ -1,0 +1,69 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "45 cm",
+  "valueSlug": "45-cm",
+  "valueType": "measurement",
+  "numericValue": 45,
+  "unit": "cm",
+  "productTypes": [
+    "Decorative Cushions",
+    "Side Tables"
+  ],
+  "familyCount": 4,
+  "variantCount": 13,
+  "primaryImageUrl": "/products/decorative-cushions/hike/202849_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/hike",
+      "familyTitle": "Hike",
+      "familySummary": "Decorative cushions in Hike upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/hike/202849_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 5
+    },
+    {
+      "familyRelativeDir": "families/haley",
+      "familyTitle": "Haley",
+      "familySummary": "Decorative cushions in Haley upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/haley/202854_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/hix",
+      "familyTitle": "Hix",
+      "familySummary": "Decorative cushions in Hix upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/hix/202846_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/swallow",
+      "familyTitle": "Swallow",
+      "familySummary": "Round side table made of natural rubberwood with a 45 cm diameter top. Minimalist design with smooth, rounded edges.",
+      "primaryImageUrl": "/products/side-tables/swallow/198080_1.avif",
+      "schemaCategory": "Side Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 45,
+        "max": 45,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "45 cm is a published width used across selected Nest & Living products. Common on Decorative Cushion and Side Table."
+}

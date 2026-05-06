@@ -1,0 +1,479 @@
+{
+  "familyTitle": "Moon Silver topper",
+  "familySummary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+  "primaryImageUrl": "/products/toppers/moon_gold_silver_topper_grey_white_2.avif",
+  "schemaCategory": "Toppers",
+  "variantCount": 8,
+  "productFamilyName": "Moon Silver",
+  "productFamilyKey": "moon-silver",
+  "productFamilyRelativeDir": "families/moon-silver",
+  "filterData": {
+    "searchText": "Moon Silver topper Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 105 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Volume 0.12 m³ m³ Logistics Volume 0.13 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Volume 0.16 m³ m³ Logistics Volume 0.27 m³ m³ Logistics Weight 3 kg kg Logistics Weight 3.2 kg kg Logistics Weight 3.5 kg kg Logistics Weight 3.6 kg kg Logistics Weight 3.8 kg kg Logistics Weight 4 kg kg Logistics Weight 4.5 kg kg Logistics Weight 4.7 kg kg Logistics Weight 5.5 kg kg Logistics Weight 6 kg kg Logistics Weight 7 kg kg Logistics Weight 7.5 kg kg Logistics Weight 7.6 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+    "collections": [
+      {
+        "key": "bedroom",
+        "label": "Bedroom",
+        "href": "/collections/bedroom"
+      }
+    ],
+    "categories": [
+      {
+        "key": "toppers",
+        "label": "Toppers",
+        "href": "/products/toppers/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "moon-silver",
+        "label": "Moon Silver",
+        "href": "/families/moon-silver/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "white",
+        "label": "White",
+        "href": "/colors/white/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "foam",
+        "label": "Foam",
+        "href": "/materials/foam/"
+      }
+    ],
+    "specifications": [],
+    "attributes": [
+      {
+        "groupKey": "care",
+        "groupLabel": "Care",
+        "key": "removable-covers",
+        "label": "Removable covers",
+        "valueKey": "yes",
+        "valueLabel": "Yes",
+        "href": "/attributes/care/removable-covers/yes/",
+        "valueType": "enum",
+        "numericValue": 0,
+        "unit": ""
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "depth",
+        "label": "Depth",
+        "valueKey": "200-cm",
+        "valueLabel": "200 cm",
+        "href": "/attributes/dimensions/depth/200-cm/",
+        "valueType": "enum",
+        "numericValue": 200,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "height",
+        "label": "Height",
+        "valueKey": "5-cm",
+        "valueLabel": "5 cm",
+        "href": "/attributes/dimensions/height/5-cm/",
+        "valueType": "enum",
+        "numericValue": 5,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "80-cm",
+        "valueLabel": "80 cm",
+        "href": "/attributes/dimensions/width/80-cm/",
+        "valueType": "enum",
+        "numericValue": 80,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "90-cm",
+        "valueLabel": "90 cm",
+        "href": "/attributes/dimensions/width/90-cm/",
+        "valueType": "enum",
+        "numericValue": 90,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "105-cm",
+        "valueLabel": "105 cm",
+        "href": "/attributes/dimensions/width/105-cm/",
+        "valueType": "enum",
+        "numericValue": 105,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "120-cm",
+        "valueLabel": "120 cm",
+        "href": "/attributes/dimensions/width/120-cm/",
+        "valueType": "enum",
+        "numericValue": 120,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "140-cm",
+        "valueLabel": "140 cm",
+        "href": "/attributes/dimensions/width/140-cm/",
+        "valueType": "enum",
+        "numericValue": 140,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "160-cm",
+        "valueLabel": "160 cm",
+        "href": "/attributes/dimensions/width/160-cm/",
+        "valueType": "enum",
+        "numericValue": 160,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "180-cm",
+        "valueLabel": "180 cm",
+        "href": "/attributes/dimensions/width/180-cm/",
+        "valueType": "enum",
+        "numericValue": 180,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "200-cm",
+        "valueLabel": "200 cm",
+        "href": "/attributes/dimensions/width/200-cm/",
+        "valueType": "enum",
+        "numericValue": 200,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-count",
+        "label": "Package count",
+        "valueKey": "1-package",
+        "valueLabel": "1 package",
+        "href": "/attributes/logistics/package-count/1-package/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "package"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "product-count",
+        "label": "Product count",
+        "valueKey": "1-product",
+        "valueLabel": "1 product",
+        "href": "/attributes/logistics/product-count/1-product/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "product"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-2-m3",
+        "valueLabel": "0.2 m³",
+        "href": "/attributes/logistics/volume/0-2-m3/",
+        "valueType": "enum",
+        "numericValue": 0.2,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-12-m3",
+        "valueLabel": "0.12 m³",
+        "href": "/attributes/logistics/volume/0-12-m3/",
+        "valueType": "enum",
+        "numericValue": 0.12,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-13-m3",
+        "valueLabel": "0.13 m³",
+        "href": "/attributes/logistics/volume/0-13-m3/",
+        "valueType": "enum",
+        "numericValue": 0.13,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-15-m3",
+        "valueLabel": "0.15 m³",
+        "href": "/attributes/logistics/volume/0-15-m3/",
+        "valueType": "enum",
+        "numericValue": 0.15,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-16-m3",
+        "valueLabel": "0.16 m³",
+        "href": "/attributes/logistics/volume/0-16-m3/",
+        "valueType": "enum",
+        "numericValue": 0.16,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-27-m3",
+        "valueLabel": "0.27 m³",
+        "href": "/attributes/logistics/volume/0-27-m3/",
+        "valueType": "enum",
+        "numericValue": 0.27,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "3-kg",
+        "valueLabel": "3 kg",
+        "href": "/attributes/logistics/weight/3-kg/",
+        "valueType": "enum",
+        "numericValue": 3,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "3-2-kg",
+        "valueLabel": "3.2 kg",
+        "href": "/attributes/logistics/weight/3-2-kg/",
+        "valueType": "enum",
+        "numericValue": 3.2,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "3-5-kg",
+        "valueLabel": "3.5 kg",
+        "href": "/attributes/logistics/weight/3-5-kg/",
+        "valueType": "enum",
+        "numericValue": 3.5,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "3-6-kg",
+        "valueLabel": "3.6 kg",
+        "href": "/attributes/logistics/weight/3-6-kg/",
+        "valueType": "enum",
+        "numericValue": 3.6,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "3-8-kg",
+        "valueLabel": "3.8 kg",
+        "href": "/attributes/logistics/weight/3-8-kg/",
+        "valueType": "enum",
+        "numericValue": 3.8,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "4-kg",
+        "valueLabel": "4 kg",
+        "href": "/attributes/logistics/weight/4-kg/",
+        "valueType": "enum",
+        "numericValue": 4,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "4-5-kg",
+        "valueLabel": "4.5 kg",
+        "href": "/attributes/logistics/weight/4-5-kg/",
+        "valueType": "enum",
+        "numericValue": 4.5,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "4-7-kg",
+        "valueLabel": "4.7 kg",
+        "href": "/attributes/logistics/weight/4-7-kg/",
+        "valueType": "enum",
+        "numericValue": 4.7,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "5-5-kg",
+        "valueLabel": "5.5 kg",
+        "href": "/attributes/logistics/weight/5-5-kg/",
+        "valueType": "enum",
+        "numericValue": 5.5,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "6-kg",
+        "valueLabel": "6 kg",
+        "href": "/attributes/logistics/weight/6-kg/",
+        "valueType": "enum",
+        "numericValue": 6,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "7-kg",
+        "valueLabel": "7 kg",
+        "href": "/attributes/logistics/weight/7-kg/",
+        "valueType": "enum",
+        "numericValue": 7,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "7-5-kg",
+        "valueLabel": "7.5 kg",
+        "href": "/attributes/logistics/weight/7-5-kg/",
+        "valueType": "enum",
+        "numericValue": 7.5,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "7-6-kg",
+        "valueLabel": "7.6 kg",
+        "href": "/attributes/logistics/weight/7-6-kg/",
+        "valueType": "enum",
+        "numericValue": 7.6,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "setup",
+        "groupLabel": "Setup",
+        "key": "assembly-time",
+        "label": "Assembly time",
+        "valueKey": "0-min",
+        "valueLabel": "0 min",
+        "href": "/attributes/setup/assembly-time/0-min/",
+        "valueType": "enum",
+        "numericValue": 0,
+        "unit": "min"
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "price-guarantee",
+        "label": "Price guarantee",
+        "valueKey": "30-days",
+        "valueLabel": "30 days",
+        "href": "/attributes/warranty/price-guarantee/30-days/",
+        "valueType": "enum",
+        "numericValue": 30,
+        "unit": "days"
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "quality-guarantee",
+        "label": "Quality guarantee",
+        "valueKey": "1000-days",
+        "valueLabel": "1000 days",
+        "href": "/attributes/warranty/quality-guarantee/1000-days/",
+        "valueType": "enum",
+        "numericValue": 1000,
+        "unit": "days"
+      }
+    ]
+  },
+  "sortData": {
+    "title": "Moon Silver topper",
+    "summary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+    "variantCount": 8,
+    "categoryLabel": "Toppers",
+    "collectionLabel": "Bedroom",
+    "productFamilyLabel": "Moon Silver"
+  }
+}

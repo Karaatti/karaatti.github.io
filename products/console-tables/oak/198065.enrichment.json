@@ -1,0 +1,275 @@
+{
+  "sku": "198065",
+  "displayName": "Oak Console Table, Brown",
+  "metaTitle": "Oak Console Table, Brown - NEST & LIVING",
+  "metaDescription": "Natural oak veneer with two integrated drawers in a warm brown tone.",
+  "ogTitle": "Oak Console Table, Brown",
+  "ogDescription": "Natural oak veneer with two integrated drawers in a warm brown tone.",
+  "shortDescription": "Natural oak veneer with two integrated drawers in a warm brown tone.",
+  "familyDescription": "This oak console table brings natural elegance to any space. Its warm oak surface and natural brown tone create a calm and harmonious atmosphere. The minimalist design adds lightness while providing a sturdy workspace. Two integrated drawers keep small items neatly stored, making it suitable for hallways, work areas or as a side table.",
+  "schemaCategory": "Coffee Side Tables",
+  "selectionAttributes": {
+    "dimensions": "120 x 33 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Brown",
+    "material": "Wood veneer, Oak"
+  },
+  "attributes": [
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "120 cm",
+      "valueSlug": "120-cm",
+      "rawValue": "120 cm",
+      "valueType": "enum",
+      "numericValue": 120,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "33 cm",
+      "valueSlug": "33-cm",
+      "rawValue": "33 cm",
+      "valueType": "enum",
+      "numericValue": 33,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "80 cm",
+      "valueSlug": "80-cm",
+      "rawValue": "80 cm",
+      "valueType": "enum",
+      "numericValue": 80,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "16 kg",
+      "valueSlug": "16-kg",
+      "rawValue": "16 kg",
+      "valueType": "enum",
+      "numericValue": 16,
+      "unit": "kg",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Weight",
+      "sourceType": "specs"
+    },
+    {
+      "key": "maximumLoad",
+      "label": "Maximum load",
+      "group": "load",
+      "groupLabel": "Load",
+      "value": "30 kg",
+      "valueSlug": "30-kg",
+      "rawValue": "30 kg",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "kg",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Maksimikuorma",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "priceGuarantee",
+      "label": "Price guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "30 days",
+      "valueSlug": "30-days",
+      "rawValue": "30 päivää",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Hintatakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "45 min",
+      "valueSlug": "45-min",
+      "rawValue": "45 min",
+      "valueType": "enum",
+      "numericValue": 45,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.05 m³",
+      "valueSlug": "0-05-m3",
+      "rawValue": "0,05 m³",
+      "valueType": "enum",
+      "numericValue": 0.05,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Wood veneer, Oak",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Brown",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/brown/\">Brown</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Wood veneer, Oak",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/wood-veneer/\">Wood veneer</a><a class=\"spec-link-chip\" href=\"/materials/oak/\">Oak</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "120 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "120 cm",
+          "href": "/attributes/dimensions/width/120-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/120-cm/\">120 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "33 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "33 cm",
+          "href": "/attributes/dimensions/depth/33-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/33-cm/\">33 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "80 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "80 cm",
+          "href": "/attributes/dimensions/height/80-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/80-cm/\">80 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "16 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "16 kg",
+          "href": "/attributes/logistics/weight/16-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/16-kg/\">16 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+  "retailerUrl": "https://www.masku.com/tuote/198065-oak-konsolipoyta-natural-tammi-tammiviilu",
+  "imageUrls": [
+    "/products/console-tables/oak/198065_1.avif",
+    "/products/console-tables/oak/198065_2.avif",
+    "/products/console-tables/oak/198065_3.avif",
+    "/products/console-tables/oak/198065_4.avif",
+    "/products/console-tables/oak/198065_5.avif",
+    "/products/console-tables/oak/198065_6.avif",
+    "/products/console-tables/oak/198065_7.avif",
+    "/products/console-tables/oak/198065_8.avif",
+    "/products/console-tables/oak/198065_9.avif"
+  ]
+}

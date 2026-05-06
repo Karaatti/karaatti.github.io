@@ -1,0 +1,182 @@
+{
+  "attributeKey": "handednessConfiguration",
+  "attributeLabel": "Handedness configuration",
+  "group": "configuration",
+  "groupLabel": "Configuration",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 3,
+    "unitCount": 1,
+    "units": [
+      ""
+    ],
+    "ranges": [
+      {
+        "unit": "",
+        "min": 0,
+        "max": 0,
+        "count": 3,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "configuration",
+      "groupLabel": "Configuration",
+      "attributeKey": "handednessConfiguration",
+      "attributeLabel": "Handedness configuration",
+      "value": "Fixed",
+      "valueSlug": "fixed",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "productTypes": [
+        "Chaise Sofas",
+        "Corner Sofas"
+      ],
+      "familyCount": 4,
+      "variantCount": 36,
+      "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/westcoast",
+          "familyTitle": "Westcoast",
+          "familySummary": "Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey.",
+          "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+          "schemaCategory": "Chaise Sofas and Corner Sofas",
+          "variantCount": 24
+        },
+        {
+          "familyRelativeDir": "families/lugo",
+          "familyTitle": "Lugo",
+          "familySummary": "A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame.",
+          "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+          "schemaCategory": "Chaise Sofas and Corner Sofas",
+          "variantCount": 8
+        },
+        {
+          "familyRelativeDir": "families/cloud",
+          "familyTitle": "Cloud",
+          "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+          "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+          "schemaCategory": "Corner Sofas",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/haave",
+          "familyTitle": "Haave",
+          "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+          "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+          "schemaCategory": "Corner Sofas",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          ""
+        ],
+        "ranges": [
+          {
+            "unit": "",
+            "min": 0,
+            "max": 0,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "Fixed is a published handedness configuration option used across selected Nest & Living products. Common on Chaise Sofa and Corner Sofa."
+    },
+    {
+      "group": "configuration",
+      "groupLabel": "Configuration",
+      "attributeKey": "handednessConfiguration",
+      "attributeLabel": "Handedness configuration",
+      "value": "Reversible",
+      "valueSlug": "reversible",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "productTypes": [
+        "4-Seater Sofas"
+      ],
+      "familyCount": 1,
+      "variantCount": 3,
+      "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/heaven",
+          "familyTitle": "Heaven",
+          "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+          "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+          "schemaCategory": "4-Seater Sofas",
+          "variantCount": 3
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          ""
+        ],
+        "ranges": [
+          {
+            "unit": "",
+            "min": 0,
+            "max": 0,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "Reversible is a published handedness configuration option used across selected Nest & Living products. Common on 4-Seater Sofa."
+    },
+    {
+      "group": "configuration",
+      "groupLabel": "Configuration",
+      "attributeKey": "handednessConfiguration",
+      "attributeLabel": "Handedness configuration",
+      "value": "Self-configurable",
+      "valueSlug": "self-configurable",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "productTypes": [
+        "Chaise Sofas"
+      ],
+      "familyCount": 1,
+      "variantCount": 2,
+      "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/aava",
+          "familyTitle": "Aava",
+          "familySummary": "Spacious 4-seater chaise sofa with durable fabric upholstery and natural oak legs. Features reversible chaise for flexible layout.",
+          "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+          "schemaCategory": "Chaise Sofas",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          ""
+        ],
+        "ranges": [
+          {
+            "unit": "",
+            "min": 0,
+            "max": 0,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "Self-configurable is a published handedness configuration option used across selected Nest & Living products. Common on Chaise Sofa."
+    }
+  ]
+}

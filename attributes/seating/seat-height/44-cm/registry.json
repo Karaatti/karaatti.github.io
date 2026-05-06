@@ -1,0 +1,65 @@
+{
+  "group": "seating",
+  "groupLabel": "Seating",
+  "attributeKey": "seatHeight",
+  "attributeLabel": "Seat height",
+  "value": "44 cm",
+  "valueSlug": "44-cm",
+  "valueType": "measurement",
+  "numericValue": 44,
+  "unit": "cm",
+  "productTypes": [
+    "3-Seater Sofas",
+    "Chaise Sofas",
+    "Corner Sofas",
+    "Footstools",
+    "Outdoor Dining Chairs",
+    "Swivel Chairs"
+  ],
+  "familyCount": 3,
+  "variantCount": 16,
+  "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+      "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+      "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+      "variantCount": 12
+    },
+    {
+      "familyRelativeDir": "families/blow",
+      "familyTitle": "Blow",
+      "familySummary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+      "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/messina",
+      "familyTitle": "Messina",
+      "familySummary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
+      "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+      "schemaCategory": "Outdoor Dining Chairs",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 44,
+        "max": 44,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "44 cm is a published seat height used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa, Corner Sofa, Footstool, Outdoor Dining Chair and Swivel Chair."
+}

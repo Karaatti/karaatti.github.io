@@ -1,0 +1,45 @@
+{
+  "group": "configuration",
+  "groupLabel": "Configuration",
+  "attributeKey": "legHeight",
+  "attributeLabel": "Leg height",
+  "value": "15 cm",
+  "valueSlug": "15-cm",
+  "valueType": "measurement",
+  "numericValue": 15,
+  "unit": "cm",
+  "productTypes": [
+    "Adjustable Beds",
+    "Continental Beds"
+  ],
+  "familyCount": 1,
+  "variantCount": 8,
+  "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Adjustable bed with 5-zone pocket spring support and wooden legs. Durable steel frame and ergonomic design for comfort.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+      "schemaCategory": "Adjustable Beds and Continental Beds",
+      "variantCount": 8
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 15,
+        "max": 15,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "15 cm is a published leg height used across selected Nest & Living products. Common on Adjustable Bed and Continental Bed."
+}

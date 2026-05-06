@@ -1,0 +1,42 @@
+[
+  {
+    "name": "hike",
+    "href": "/families/hike/",
+    "type": "dir",
+    "title": "Hike",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 10
+  },
+  {
+    "name": "haley",
+    "href": "/families/haley/",
+    "type": "dir",
+    "title": "Haley",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 8
+  },
+  {
+    "name": "hix",
+    "href": "/families/hix/",
+    "type": "dir",
+    "title": "Hix",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 6
+  },
+  {
+    "name": "nest-living-silver",
+    "href": "/families/nest-living-silver/",
+    "type": "dir",
+    "title": "Nest & Living Silver",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  },
+  {
+    "name": "staycool",
+    "href": "/families/staycool/",
+    "type": "dir",
+    "title": "Staycool",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  }
+]

@@ -1,0 +1,126 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "200 cm",
+  "valueSlug": "200-cm",
+  "valueType": "measurement",
+  "numericValue": 200,
+  "unit": "cm",
+  "productTypes": [
+    "Adjustable Beds",
+    "Continental Beds",
+    "Corner Sofas",
+    "Divan Bed",
+    "Divan Beds",
+    "Duvet & Pillow Sets",
+    "Duvets",
+    "Mattress Protectors",
+    "Mattresses",
+    "Outdoor Dining Tables",
+    "Toppers"
+  ],
+  "familyCount": 10,
+  "variantCount": 172,
+  "primaryImageUrl": "/products/toppers/moon-gold/197741_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Grey latex mattress topper offers good support and breathability for a single bed. Suitable for improving sleep quality in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-gold/197741_1.avif",
+      "schemaCategory": "Adjustable Beds, Continental Beds, Divan Beds and Mattresses and 1 more",
+      "variantCount": 92
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+      "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
+      "schemaCategory": "Adjustable Beds, Continental Beds, Divan Beds and Mattresses and 1 more",
+      "variantCount": 32
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Moon Bronze Basic is a lightweight, breathable mattress topper that adds gentle cushioning and supports a neutral sleeping posture. Its white tone with subtle leaf patterns fits well in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+      "schemaCategory": "Adjustable Beds, Continental Beds, Divan Beds and Toppers",
+      "variantCount": 18
+    },
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+      "primaryImageUrl": "/products/corner-sofas/westcoast/209113_1.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 18
+    },
+    {
+      "familyRelativeDir": "families/nest-living",
+      "familyTitle": "Nest & Living",
+      "familySummary": "Quilted mattress protector with elastic corners to keep it in place. Protects and extends the life of your mattress.",
+      "primaryImageUrl": "/products/mattress-protectors/nest-living/nest_living_mattress_protector_white_1.avif",
+      "schemaCategory": "Mattress Protectors",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/nest-living-gold",
+      "familyTitle": "Nest & Living Gold",
+      "familySummary": "Warm duvets with a breathable fabric blend and a fuller feel.",
+      "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+      "schemaCategory": "Duvets",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/haven",
+      "familyTitle": "Haven",
+      "familySummary": "The Haven dining table features a sleek design with a durable aluminium frame and warm polyrattan finish. Its elegant glass top is easy to maintain. Measuring 200 x 100 cm, it provides ample space and assembles in about 30 minutes.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/haven/197626_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nest-living-basic",
+      "familyTitle": "Nest & Living Basic",
+      "familySummary": "Soft and lightweight duvet set for easy-care everyday bedroom use.",
+      "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-basic/201089_1.avif",
+      "schemaCategory": "Duvet & Pillow Sets",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nest-living-bronze",
+      "familyTitle": "Nest & Living Bronze",
+      "familySummary": "Light duvet set with practical everyday comfort.",
+      "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
+      "schemaCategory": "Duvet & Pillow Sets",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nest-living-silver",
+      "familyTitle": "Nest & Living Silver",
+      "familySummary": "Duvets selected for everyday warmth, breathable fabrics, and practical bedroom use.",
+      "primaryImageUrl": "/products/duvets/nest-living-silver/201093_1.jpg",
+      "schemaCategory": "Duvets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 200,
+        "max": 200,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "200 cm is a published depth used across selected Nest & Living products. Common on Adjustable Bed, Continental Bed, Corner Sofa, Divan Bed, Duvet & Pillow Set and Duvet and 4 more."
+}

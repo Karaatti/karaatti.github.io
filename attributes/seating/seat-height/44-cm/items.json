@@ -1,0 +1,26 @@
+[
+  {
+    "name": "lugo",
+    "href": "/families/lugo/",
+    "type": "dir",
+    "title": "Lugo",
+    "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+    "variantCount": 12
+  },
+  {
+    "name": "blow",
+    "href": "/families/blow/",
+    "type": "dir",
+    "title": "Blow",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "messina",
+    "href": "/families/messina/",
+    "type": "dir",
+    "title": "Messina",
+    "schemaCategory": "Outdoor Dining Chairs",
+    "variantCount": 2
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "label": "Green",
+  "description": "Green in interiors: Feels organic and restorative, especially when paired with wood and stone-like neutrals.",
+  "intro": "Green appears across 10 product families and 14 options, especially on 3-Seater Sofas, Armchairs, Chaise Sofas, Corner Sofas, Decorative Cushions and Footstools and 1 more.",
+  "theory": [
+    "Green sits between warm and cool depending on undertone, which makes it one of the most flexible accent families in interiors. Olive and moss tones feel grounded, while blue-greens feel fresher and calmer.",
+    "Because green is common in nature, it often reads as restful even at moderate saturation. The risk is not excess intensity alone but undertone clash with nearby woods or wall colours."
+  ],
+  "palette": [
+    "A dependable scheme is green plus beige plus wood. That gives a layered natural palette without needing many additional colours.",
+    "For a more designed effect, pair green with a deep anchor such as black or espresso and let one lighter neutral carry the larger surfaces. That keeps the green intentional rather than scattered."
+  ],
+  "partners": [
+    "beige",
+    "brown",
+    "oak",
+    "black",
+    "soft pink accents"
+  ],
+  "profileRows": [
+    {
+      "label": "Colour role",
+      "value": "Nature-linked accent or mid-tone"
+    },
+    {
+      "label": "Undertone",
+      "value": "Can lean yellow/olive, muted sage or deeper blue-green."
+    },
+    {
+      "label": "Visual effect",
+      "value": "Feels organic and restorative, especially when paired with wood and stone-like neutrals."
+    },
+    {
+      "label": "Works well with",
+      "value": "beige, brown, oak, black and soft pink accents"
+    },
+    {
+      "label": "Balancing move",
+      "value": "Keep neighbouring colours slightly muted unless you want a bold botanical contrast."
+    }
+  ]
+}

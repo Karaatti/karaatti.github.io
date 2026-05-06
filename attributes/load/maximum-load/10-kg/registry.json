@@ -1,0 +1,70 @@
+{
+  "group": "load",
+  "groupLabel": "Load",
+  "attributeKey": "maximumLoad",
+  "attributeLabel": "Maximum load",
+  "value": "10 kg",
+  "valueSlug": "10-kg",
+  "valueType": "measurement",
+  "numericValue": 10,
+  "unit": "kg",
+  "productTypes": [
+    "Cabinets Display",
+    "Coffee Tables",
+    "Side Tables"
+  ],
+  "familyCount": 4,
+  "variantCount": 6,
+  "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/island",
+      "familyTitle": "Island",
+      "familySummary": "Stackable two-piece coffee table in brown or beige with a soft asymmetrical shape for flexible living room layouts.",
+      "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
+      "schemaCategory": "Coffee Tables",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/reef",
+      "familyTitle": "Reef",
+      "familySummary": "Compact coffee table with a warm American walnut finish and practical dimensions suitable for various interiors.",
+      "primaryImageUrl": "/products/coffee-tables/reef/198072_1.avif",
+      "schemaCategory": "Coffee Tables",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/mystery",
+      "familyTitle": "Mystery",
+      "familySummary": "The Mystery Shelf in black combines metal and oak veneer in a minimalist design. It provides four spacious shelves suitable for books and decorative items, fitting well in modern and industrial interiors.",
+      "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+      "schemaCategory": "Shelves",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/swallow",
+      "familyTitle": "Swallow",
+      "familySummary": "Round side table made of natural rubberwood with a 45 cm diameter top. Minimalist design with smooth, rounded edges.",
+      "primaryImageUrl": "/products/side-tables/swallow/198080_1.avif",
+      "schemaCategory": "Side Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 10,
+        "max": 10,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "10 kg is a published maximum load used across selected Nest & Living products. Common on Cabinets Display, Coffee Table and Side Table."
+}

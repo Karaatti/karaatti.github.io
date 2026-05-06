@@ -1,0 +1,14 @@
+[
+  {
+    "name": "42-cm",
+    "label": "42 cm",
+    "href": "/attributes/dimensions/depth2/42-cm/",
+    "type": "dir",
+    "description": "42 cm is a published depth 2 used across selected Nest & Living products. Common on Planter.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 42,
+    "unit": "cm"
+  }
+]

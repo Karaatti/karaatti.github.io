@@ -1,0 +1,69 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "9.8 kg",
+  "valueSlug": "9-8-kg",
+  "valueType": "measurement",
+  "numericValue": 9.8,
+  "unit": "kg",
+  "productTypes": [
+    "Decorative Cushions",
+    "Toppers"
+  ],
+  "familyCount": 4,
+  "variantCount": 13,
+  "primaryImageUrl": "/products/decorative-cushions/hike/202861_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/hike",
+      "familyTitle": "Hike",
+      "familySummary": "Decorative cushions in Hike upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/hike/202861_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 5
+    },
+    {
+      "familyRelativeDir": "families/haley",
+      "familyTitle": "Haley",
+      "familySummary": "Decorative cushions in Haley upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/haley/202866_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/hix",
+      "familyTitle": "Hix",
+      "familySummary": "Decorative cushions in Hix upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/hix/202858_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Grey latex mattress topper offers good support and breathability for a single bed. Suitable for improving sleep quality in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-gold/197777_1.avif",
+      "schemaCategory": "Toppers",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 9.8,
+        "max": 9.8,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "9.8 kg is a published weight used across selected Nest & Living products. Common on Decorative Cushion and Topper."
+}

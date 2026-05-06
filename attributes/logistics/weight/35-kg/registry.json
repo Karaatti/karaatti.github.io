@@ -1,0 +1,61 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "35 kg",
+  "valueSlug": "35-kg",
+  "valueType": "measurement",
+  "numericValue": 35,
+  "unit": "kg",
+  "productTypes": [
+    "Bed Frames",
+    "Divan Beds"
+  ],
+  "familyCount": 3,
+  "variantCount": 10,
+  "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Divan bed with 7-zone pocket spring system offering firm support and ergonomic comfort. Available in various sizes and neutral tones.",
+      "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_3.avif",
+      "schemaCategory": "Divan Beds",
+      "variantCount": 8
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Available sizes: 80 x 200 cm, 90 x 200 cm, 120 x 200 cm and 140 x 200 cm. Light grey Primo 84 upholstery, 5-zone pocket spring support and smoked ash cone legs. 4 active variants available.",
+      "primaryImageUrl": "/products/divan-beds/moon-silver/moon_silver_divan_bed_grey_1.avif",
+      "schemaCategory": "Divan Beds",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moonlit",
+      "familyTitle": "Moonlit",
+      "familySummary": "Upholstered bed frame in beige bouclé fabric with a sturdy construction. Suitable for various mattresses and bedroom styles.",
+      "primaryImageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
+      "schemaCategory": "Bed Frames",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 35,
+        "max": 35,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "35 kg is a published weight used across selected Nest & Living products. Common on Bed Frame and Divan Bed."
+}

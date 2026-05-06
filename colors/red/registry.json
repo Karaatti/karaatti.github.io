@@ -1,0 +1,42 @@
+{
+  "label": "Red",
+  "description": "Red in interiors: Signals energy and focus immediately, making it best as a controlled feature rather than background repetition.",
+  "intro": "Red appears across 5 product families and 12 options, especially on Dining Chairs and Rugs.",
+  "theory": [
+    "Red has the strongest emotional charge of the standard furniture palette. Even dark or muted reds carry more urgency than comparable browns or oranges.",
+    "That is why red benefits from context. In small doses it adds confidence and warmth; in large uninterrupted fields it can dominate the room's rhythm."
+  ],
+  "palette": [
+    "Use red with grounding neutrals and deep anchors. Beige, walnut, charcoal and off-white let red feel intentional instead of aggressive.",
+    "If you want a richer designer palette, pair muted red with dark green or deep blue in unequal amounts. One should lead and the other should stay secondary."
+  ],
+  "partners": [
+    "beige",
+    "brown",
+    "black",
+    "ink blue",
+    "forest green"
+  ],
+  "profileRows": [
+    {
+      "label": "Colour role",
+      "value": "High-impact warm accent"
+    },
+    {
+      "label": "Undertone",
+      "value": "Can lean brick, wine, berry or true primary red."
+    },
+    {
+      "label": "Visual effect",
+      "value": "Signals energy and focus immediately, making it best as a controlled feature rather than background repetition."
+    },
+    {
+      "label": "Works well with",
+      "value": "beige, brown, black, ink blue and forest green"
+    },
+    {
+      "label": "Balancing move",
+      "value": "Keep at least one calm neutral around red so the eye has a resting place."
+    }
+  ]
+}

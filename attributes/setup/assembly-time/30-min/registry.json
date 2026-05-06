@@ -1,0 +1,160 @@
+{
+  "group": "setup",
+  "groupLabel": "Setup",
+  "attributeKey": "assemblyTime",
+  "attributeLabel": "Assembly time",
+  "value": "30 min",
+  "valueSlug": "30-min",
+  "valueType": "measurement",
+  "numericValue": 30,
+  "unit": "min",
+  "productTypes": [
+    "3-Seater Sofas",
+    "4-Seater Sofas",
+    "Adjustable Beds",
+    "Armchairs",
+    "Chaise Sofas",
+    "Continental Beds",
+    "Corner Sofas",
+    "Dining Tables",
+    "Outdoor Dining Tables",
+    "Outdoor Lounge Seating",
+    "Outdoor Lounge Sets",
+    "Outdoor Storage",
+    "Swivel Chairs"
+  ],
+  "familyCount": 14,
+  "variantCount": 75,
+  "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+      "schemaCategory": "Adjustable Beds and Continental Beds",
+      "variantCount": 31
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Adjustable bed with 5-zone pocket spring support and wooden legs. Durable steel frame and ergonomic design for comfort.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+      "schemaCategory": "Adjustable Beds and Continental Beds",
+      "variantCount": 13
+    },
+    {
+      "familyRelativeDir": "families/haven",
+      "familyTitle": "Haven",
+      "familySummary": "Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies.",
+      "primaryImageUrl": "/products/outdoor-lounge-sets/haven/197627_1.avif",
+      "schemaCategory": "Outdoor Dining Tables, Outdoor Lounge Seating and Outdoor Lounge Sets",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Outdoor storage boxes from the Nordic collection with aluminium frames and weather-ready fabric-lined lids, available in two sizes and beige or black finishes.",
+      "primaryImageUrl": "/products/outdoor-storage/nordic/206769_1.avif",
+      "schemaCategory": "Outdoor Storage",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/voyage",
+      "familyTitle": "Voyage",
+      "familySummary": "A fixed armchair with a solid wood frame, soft foam and feather seat, and removable cotton covers in white or green.",
+      "primaryImageUrl": "/products/armchairs/voyage/208784_1.avif",
+      "schemaCategory": "Armchairs and 3-Seater Sofas",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/heaven",
+      "familyTitle": "Heaven",
+      "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+      "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+      "schemaCategory": "4-Seater Sofas",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "A practical and stylish adjustable bed with a pocket spring base and tall smoked ash legs. Designed for comfort and easy maintenance.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-bronze/moon_bronze_adjustable_bed_grey_1.avif",
+      "schemaCategory": "Adjustable Beds",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/aava",
+      "familyTitle": "Aava",
+      "familySummary": "Spacious 4-seater chaise sofa with durable fabric upholstery and natural oak legs. Features reversible chaise for flexible layout.",
+      "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+      "schemaCategory": "Chaise Sofas",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/blow",
+      "familyTitle": "Blow",
+      "familySummary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+      "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/breeze",
+      "familyTitle": "Breeze",
+      "familySummary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
+      "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/cloud",
+      "familyTitle": "Cloud",
+      "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+      "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/metz",
+      "familyTitle": "Metz",
+      "familySummary": "A round dining table with a natural Beige veneer surface and a light, sturdy base. Designed to comfortably seat four and fit modern interiors.",
+      "primaryImageUrl": "/products/dining-tables/metz/208712_1.avif",
+      "schemaCategory": "Dining Tables",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/wind",
+      "familyTitle": "Wind",
+      "familySummary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+      "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/messina",
+      "familyTitle": "Messina",
+      "familySummary": "Messina dining table 220x100 cm provides a practical and elegant outdoor dining option. Its natural toned top and aluminium frame create a modern Scandinavian look. Suitable for garden, terrace or large balcony, it offers a spacious and low-maintenance surface.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/messina/195643_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "min"
+    ],
+    "ranges": [
+      {
+        "unit": "min",
+        "min": 30,
+        "max": 30,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "30 min is a published assembly time used across selected Nest & Living products. Common on 3-Seater Sofa, 4-Seater Sofa, Adjustable Bed, Armchair, Chaise Sofa and Continental Bed and 7 more."
+}

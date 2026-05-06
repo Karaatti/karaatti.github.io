@@ -1,0 +1,60 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "productCount",
+  "attributeLabel": "Product count",
+  "value": "12 product",
+  "valueSlug": "12-product",
+  "valueType": "measurement",
+  "numericValue": 12,
+  "unit": "product",
+  "productTypes": [
+    "Decorative Cushions"
+  ],
+  "familyCount": 3,
+  "variantCount": 24,
+  "primaryImageUrl": "/products/decorative-cushions/hike/202849_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/hike",
+      "familyTitle": "Hike",
+      "familySummary": "Decorative cushions in Hike upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/hike/202849_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 10
+    },
+    {
+      "familyRelativeDir": "families/haley",
+      "familyTitle": "Haley",
+      "familySummary": "Decorative cushions in Haley upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/haley/202854_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 8
+    },
+    {
+      "familyRelativeDir": "families/hix",
+      "familyTitle": "Hix",
+      "familySummary": "Decorative cushions in Hix upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/hix/202846_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 6
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "product"
+    ],
+    "ranges": [
+      {
+        "unit": "product",
+        "min": 12,
+        "max": 12,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "12 product is a published product count used across selected Nest & Living products. Common on Decorative Cushion."
+}

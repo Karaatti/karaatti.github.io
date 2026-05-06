@@ -1,0 +1,79 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "60 kg",
+  "valueSlug": "60-kg",
+  "valueType": "measurement",
+  "numericValue": 60,
+  "unit": "kg",
+  "productTypes": [
+    "3-Seater Sofas",
+    "Adjustable Beds",
+    "Chaise Sofas",
+    "Corner Sofas"
+  ],
+  "familyCount": 5,
+  "variantCount": 6,
+  "primaryImageUrl": "/products/three-seater-sofas/voyage/208782_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/voyage",
+      "familyTitle": "Voyage",
+      "familySummary": "A spacious and comfortable 3-seater sofa with a solid wood frame and soft foam and feather cushioning. Available in white and green fabric upholstery.",
+      "primaryImageUrl": "/products/three-seater-sofas/voyage/208782_1.avif",
+      "schemaCategory": "3-Seater Sofas",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/cloud",
+      "familyTitle": "Cloud",
+      "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+      "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Adjustable bed with 5-zone pocket spring support and wooden legs. Durable steel frame and ergonomic design for comfort.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+      "schemaCategory": "Adjustable Beds",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/sulo",
+      "familyTitle": "Sulo",
+      "familySummary": "A modern three-seater sofa in white corduroy with rounded armrests and a low backrest for relaxed seating.",
+      "primaryImageUrl": "/products/three-seater-sofas/sulo/202841_1.avif",
+      "schemaCategory": "3-Seater Sofas",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey.",
+      "primaryImageUrl": "/products/chaise-sofas/westcoast/209136_1.avif",
+      "schemaCategory": "Chaise Sofas",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 60,
+        "max": 60,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "60 kg is a published weight used across selected Nest & Living products. Common on 3-Seater Sofa, Adjustable Bed, Chaise Sofa and Corner Sofa."
+}

@@ -1,0 +1,185 @@
+{
+  "familyTitle": "Nest & Living Basic Duvet Set",
+  "familySummary": "Soft and lightweight duvet set for easy-care everyday bedroom use.",
+  "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-basic/201089_1.jpg",
+  "schemaCategory": "Duvet & Pillow Sets",
+  "variantCount": 1,
+  "productFamilyName": "Nest & Living Basic",
+  "productFamilyKey": "nest-living-basic",
+  "productFamilyRelativeDir": "families/nest-living-basic",
+  "filterData": {
+    "searchText": "Nest & Living Basic Duvet Set Soft and lightweight duvet set for easy-care everyday bedroom use. Duvet & Pillow Sets Bedroom Nest & Living Basic Bedroom Duvet & Pillow Sets Nest & Living Basic Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 3 cm cm Dimensions Pillow depth 50 cm cm Dimensions Pillow height 13 cm cm Dimensions Pillow width 60 cm cm Dimensions Width 150 cm cm Logistics Weight 1.1 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+    "collections": [
+      {
+        "key": "bedroom",
+        "label": "Bedroom",
+        "href": "/collections/bedroom"
+      }
+    ],
+    "categories": [
+      {
+        "key": "duvet-pillow-sets",
+        "label": "Duvet & Pillow Sets",
+        "href": "/products/duvet-pillow-sets/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "nest-living-basic",
+        "label": "Nest & Living Basic",
+        "href": "/families/nest-living-basic/"
+      }
+    ],
+    "colors": [],
+    "materials": [
+      {
+        "key": "polyester",
+        "label": "Polyester",
+        "href": "/materials/polyester/"
+      }
+    ],
+    "specifications": [],
+    "attributes": [
+      {
+        "groupKey": "care",
+        "groupLabel": "Care",
+        "key": "cleaning-method",
+        "label": "Cleaning method",
+        "valueKey": "water-wash",
+        "valueLabel": "Water wash",
+        "href": "/attributes/care/cleaning-method/water-wash/",
+        "valueType": "enum",
+        "numericValue": 0,
+        "unit": ""
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "depth",
+        "label": "Depth",
+        "valueKey": "200-cm",
+        "valueLabel": "200 cm",
+        "href": "/attributes/dimensions/depth/200-cm/",
+        "valueType": "enum",
+        "numericValue": 200,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "height",
+        "label": "Height",
+        "valueKey": "3-cm",
+        "valueLabel": "3 cm",
+        "href": "/attributes/dimensions/height/3-cm/",
+        "valueType": "enum",
+        "numericValue": 3,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "pillow-depth",
+        "label": "Pillow depth",
+        "valueKey": "50-cm",
+        "valueLabel": "50 cm",
+        "href": "/attributes/dimensions/pillow-depth/50-cm/",
+        "valueType": "enum",
+        "numericValue": 50,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "pillow-height",
+        "label": "Pillow height",
+        "valueKey": "13-cm",
+        "valueLabel": "13 cm",
+        "href": "/attributes/dimensions/pillow-height/13-cm/",
+        "valueType": "enum",
+        "numericValue": 13,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "pillow-width",
+        "label": "Pillow width",
+        "valueKey": "60-cm",
+        "valueLabel": "60 cm",
+        "href": "/attributes/dimensions/pillow-width/60-cm/",
+        "valueType": "enum",
+        "numericValue": 60,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "150-cm",
+        "valueLabel": "150 cm",
+        "href": "/attributes/dimensions/width/150-cm/",
+        "valueType": "enum",
+        "numericValue": 150,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "1-1-kg",
+        "valueLabel": "1.1 kg",
+        "href": "/attributes/logistics/weight/1-1-kg/",
+        "valueType": "enum",
+        "numericValue": 1.1,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "setup",
+        "groupLabel": "Setup",
+        "key": "assembly-time",
+        "label": "Assembly time",
+        "valueKey": "0-min",
+        "valueLabel": "0 min",
+        "href": "/attributes/setup/assembly-time/0-min/",
+        "valueType": "enum",
+        "numericValue": 0,
+        "unit": "min"
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "price-guarantee",
+        "label": "Price guarantee",
+        "valueKey": "30-days",
+        "valueLabel": "30 days",
+        "href": "/attributes/warranty/price-guarantee/30-days/",
+        "valueType": "enum",
+        "numericValue": 30,
+        "unit": "days"
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "quality-guarantee",
+        "label": "Quality guarantee",
+        "valueKey": "1000-days",
+        "valueLabel": "1000 days",
+        "href": "/attributes/warranty/quality-guarantee/1000-days/",
+        "valueType": "enum",
+        "numericValue": 1000,
+        "unit": "days"
+      }
+    ]
+  },
+  "sortData": {
+    "title": "Nest & Living Basic Duvet Set",
+    "summary": "Soft and lightweight duvet set for easy-care everyday bedroom use.",
+    "variantCount": 1,
+    "categoryLabel": "Duvet & Pillow Sets",
+    "collectionLabel": "Bedroom",
+    "productFamilyLabel": "Nest & Living Basic"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "group": "load",
+  "groupLabel": "Load",
+  "attributeKey": "maximumLoad",
+  "attributeLabel": "Maximum load",
+  "value": "50 kg",
+  "valueSlug": "50-kg",
+  "valueType": "measurement",
+  "numericValue": 50,
+  "unit": "kg",
+  "productTypes": [
+    "Outdoor Dining Tables"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/outdoor-dining-tables/messina/195643_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/messina",
+      "familyTitle": "Messina",
+      "familySummary": "Messina dining table 220x100 cm provides a practical and elegant outdoor dining option. Its natural toned top and aluminium frame create a modern Scandinavian look. Suitable for garden, terrace or large balcony, it offers a spacious and low-maintenance surface.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/messina/195643_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 50,
+        "max": 50,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "50 kg is a published maximum load used across selected Nest & Living products. Common on Outdoor Dining Table."
+}

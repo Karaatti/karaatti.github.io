@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "20.3 kg",
+  "valueSlug": "20-3-kg",
+  "valueType": "measurement",
+  "numericValue": 20.3,
+  "unit": "kg",
+  "productTypes": [
+    "Headboards"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_beige_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "A smooth, upholstered headboard offered in three neutral colours and multiple widths.",
+      "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_beige_1.avif",
+      "schemaCategory": "Headboards",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 20.3,
+        "max": 20.3,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "20.3 kg is a published weight used across selected Nest & Living products. Common on Headboard."
+}

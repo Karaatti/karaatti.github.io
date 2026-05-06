@@ -1,0 +1,44 @@
+{
+  "group": "seating",
+  "groupLabel": "Seating",
+  "attributeKey": "seatWidth",
+  "attributeLabel": "Seat width",
+  "value": "47 cm",
+  "valueSlug": "47-cm",
+  "valueType": "measurement",
+  "numericValue": 47,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Lounge Seating"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/house-nordic-derby",
+      "familyTitle": "House Nordic Derby",
+      "familySummary": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
+      "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+      "schemaCategory": "Outdoor Lounge Seating",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 47,
+        "max": 47,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "47 cm is a published seat width used across selected Nest & Living products. Common on Outdoor Lounge Seating."
+}

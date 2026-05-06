@@ -1,0 +1,44 @@
+{
+  "group": "seating",
+  "groupLabel": "Seating",
+  "attributeKey": "seatCount",
+  "attributeLabel": "Seat count",
+  "value": "3 seat",
+  "valueSlug": "3-seat",
+  "valueType": "measurement",
+  "numericValue": 3,
+  "unit": "seat",
+  "productTypes": [
+    "4-Seater Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/heaven",
+      "familyTitle": "Heaven",
+      "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+      "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+      "schemaCategory": "4-Seater Sofas",
+      "variantCount": 3
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "seat"
+    ],
+    "ranges": [
+      {
+        "unit": "seat",
+        "min": 3,
+        "max": 3,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "3 seat is a published seat count used across selected Nest & Living products. Common on 4-Seater Sofa."
+}

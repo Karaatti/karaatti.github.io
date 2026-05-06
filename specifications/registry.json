@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "group": "headboard-types",
+      "groupLabel": "Headboard types",
+      "href": "/specifications/headboard-types/",
+      "entryCount": 3,
+      "variantCount": 45
+    },
+    {
+      "group": "mattress-types",
+      "groupLabel": "Mattress types",
+      "href": "/specifications/mattress-types/",
+      "entryCount": 2,
+      "variantCount": 113
+    },
+    {
+      "group": "support-systems",
+      "groupLabel": "Support systems",
+      "href": "/specifications/support-systems/",
+      "entryCount": 1,
+      "variantCount": 6
+    },
+    {
+      "group": "topper-types",
+      "groupLabel": "Topper types",
+      "href": "/specifications/topper-types/",
+      "entryCount": 3,
+      "variantCount": 39
+    }
+  ]
+}

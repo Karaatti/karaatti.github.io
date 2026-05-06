@@ -1,0 +1,114 @@
+[
+  {
+    "name": "nest-living",
+    "href": "/products/mattress-protectors/nest-living/",
+    "type": "dir",
+    "title": "Nest & Living",
+    "schemaCategory": "Mattress Protectors",
+    "variantCount": 6
+  },
+  {
+    "name": "nest-living-gold",
+    "href": "/products/duvets/nest-living-gold/",
+    "type": "dir",
+    "title": "Nest & Living Gold",
+    "schemaCategory": "Duvets and Pillows",
+    "variantCount": 4
+  },
+  {
+    "name": "ruutu",
+    "href": "/products/rugs/ruutu/",
+    "type": "dir",
+    "title": "Ruutu",
+    "schemaCategory": "Rugs",
+    "variantCount": 4
+  },
+  {
+    "name": "staycool",
+    "href": "/products/duvets/staycool/",
+    "type": "dir",
+    "title": "Staycool",
+    "schemaCategory": "Duvets, Mattress Protectors and Pillows",
+    "variantCount": 4
+  },
+  {
+    "name": "moderni",
+    "href": "/products/rugs/moderni/",
+    "type": "dir",
+    "title": "Moderni",
+    "schemaCategory": "Rugs",
+    "variantCount": 3
+  },
+  {
+    "name": "nest-living-silver",
+    "href": "/products/duvets/nest-living-silver/",
+    "type": "dir",
+    "title": "Nest & Living Silver",
+    "schemaCategory": "Duvets and Pillows",
+    "variantCount": 3
+  },
+  {
+    "name": "sirmione",
+    "href": "/products/rugs/sirmione/",
+    "type": "dir",
+    "title": "Sirmione",
+    "schemaCategory": "Rugs",
+    "variantCount": 3
+  },
+  {
+    "name": "staygentle",
+    "href": "/products/mattress-protectors/staygentle/",
+    "type": "dir",
+    "title": "Staygentle",
+    "schemaCategory": "Mattress Protectors",
+    "variantCount": 3
+  },
+  {
+    "name": "staycation",
+    "href": "/products/pillows/staycation/",
+    "type": "dir",
+    "title": "Staycation",
+    "schemaCategory": "Pillows",
+    "variantCount": 2
+  },
+  {
+    "name": "yanam",
+    "href": "/products/rugs/yanam/",
+    "type": "dir",
+    "title": "Yanam",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "desenzano",
+    "href": "/products/rugs/desenzano/",
+    "type": "dir",
+    "title": "Desenzano",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "garda",
+    "href": "/products/rugs/garda/",
+    "type": "dir",
+    "title": "Garda",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "nest-living-bronze",
+    "href": "/products/duvet-pillow-sets/nest-living-bronze/",
+    "type": "dir",
+    "title": "Nest & Living Bronze",
+    "schemaCategory": "Duvet & Pillow Sets",
+    "variantCount": 1
+  },
+  {
+    "name": "staycomfort",
+    "href": "/products/pillows/staycomfort/",
+    "type": "dir",
+    "title": "Staycomfort",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  }
+]

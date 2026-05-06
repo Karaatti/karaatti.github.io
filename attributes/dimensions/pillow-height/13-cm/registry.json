@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "pillowHeight",
+  "attributeLabel": "Pillow height",
+  "value": "13 cm",
+  "valueSlug": "13-cm",
+  "valueType": "measurement",
+  "numericValue": 13,
+  "unit": "cm",
+  "productTypes": [
+    "Duvet & Pillow Sets"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-basic/201089_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nest-living-basic",
+      "familyTitle": "Nest & Living Basic",
+      "familySummary": "Soft and lightweight duvet set for easy-care everyday bedroom use.",
+      "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-basic/201089_1.avif",
+      "schemaCategory": "Duvet & Pillow Sets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 13,
+        "max": 13,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "13 cm is a published pillow height used across selected Nest & Living products. Common on Duvet & Pillow Set."
+}

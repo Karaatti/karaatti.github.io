@@ -1,0 +1,42 @@
+[
+  {
+    "name": "moon-bronze",
+    "href": "/families/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Headboards",
+    "variantCount": 3
+  },
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Toppers",
+    "variantCount": 2
+  },
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Headboards",
+    "variantCount": 2
+  },
+  {
+    "name": "messina",
+    "href": "/families/messina/",
+    "type": "dir",
+    "title": "Messina",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 1
+  },
+  {
+    "name": "staycool",
+    "href": "/families/staycool/",
+    "type": "dir",
+    "title": "Staycool",
+    "schemaCategory": "Mattress Protectors",
+    "variantCount": 1
+  }
+]

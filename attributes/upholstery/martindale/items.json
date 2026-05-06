@@ -1,0 +1,38 @@
+[
+  {
+    "name": "30-000-martindale",
+    "label": "30,000 Martindale",
+    "href": "/attributes/upholstery/martindale/30-000-martindale/",
+    "type": "dir",
+    "description": "30,000 Martindale is a published martindale used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa, Corner Sofa and Footstool.",
+    "familyCount": 1,
+    "variantCount": 12,
+    "valueType": "measurement",
+    "numericValue": 30000,
+    "unit": "Martindale"
+  },
+  {
+    "name": "40-000-martindale",
+    "label": "40,000 Martindale",
+    "href": "/attributes/upholstery/martindale/40-000-martindale/",
+    "type": "dir",
+    "description": "40,000 Martindale is a published martindale used across selected Nest & Living products. Common on Corner Sofa.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 40000,
+    "unit": "Martindale"
+  },
+  {
+    "name": "120-000-martindale",
+    "label": "120,000 Martindale",
+    "href": "/attributes/upholstery/martindale/120-000-martindale/",
+    "type": "dir",
+    "description": "120,000 Martindale is a published martindale used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa, Corner Sofa, Footstool and Modular Sofa.",
+    "familyCount": 1,
+    "variantCount": 33,
+    "valueType": "measurement",
+    "numericValue": 120000,
+    "unit": "Martindale"
+  }
+]

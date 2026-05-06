@@ -1,0 +1,26 @@
+[
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Continental Beds, Headboards and Mattresses",
+    "variantCount": 11
+  },
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Headboards and Mattresses",
+    "variantCount": 4
+  },
+  {
+    "name": "dove",
+    "href": "/families/dove/",
+    "type": "dir",
+    "title": "Dove",
+    "schemaCategory": "Armchairs",
+    "variantCount": 1
+  }
+]

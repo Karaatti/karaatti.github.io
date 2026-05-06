@@ -1,0 +1,105 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "60 cm",
+  "valueSlug": "60-cm",
+  "valueType": "measurement",
+  "numericValue": 60,
+  "unit": "cm",
+  "productTypes": [
+    "Coffee Tables",
+    "Decorative Cushions",
+    "Footstools",
+    "Mobile Phone Pockets",
+    "Outdoor Storage",
+    "Pillows"
+  ],
+  "familyCount": 8,
+  "variantCount": 23,
+  "primaryImageUrl": "/products/decorative-cushions/hike/202861_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/hike",
+      "familyTitle": "Hike",
+      "familySummary": "Decorative cushions in Hike upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/hike/202861_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 5
+    },
+    {
+      "familyRelativeDir": "families/haley",
+      "familyTitle": "Haley",
+      "familySummary": "Decorative cushions in Haley upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/haley/202866_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/hix",
+      "familyTitle": "Hix",
+      "familySummary": "Decorative cushions in Hix upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/hix/202858_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/moon",
+      "familyTitle": "Moon",
+      "familySummary": "A narrow fabric pocket for keeping phones and small items organised beside the bed or armchair.",
+      "primaryImageUrl": "/products/mobile-phone-pockets/moon/202837_1.avif",
+      "schemaCategory": "Mobile Phone Pockets",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Compact footstool with a soft polyester cover and metal legs. Available in Beige, brown and grey.",
+      "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+      "schemaCategory": "Footstools",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/island",
+      "familyTitle": "Island",
+      "familySummary": "Stackable two-piece coffee table in brown or beige with a soft asymmetrical shape for flexible living room layouts.",
+      "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
+      "schemaCategory": "Coffee Tables",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Outdoor storage boxes from the Nordic collection with aluminium frames and weather-ready fabric-lined lids, available in two sizes and beige or black finishes.",
+      "primaryImageUrl": "/products/outdoor-storage/nordic/206769_1.avif",
+      "schemaCategory": "Outdoor Storage",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/staycation",
+      "familyTitle": "Staycation",
+      "familySummary": "Bedroom pillows from the Staycation series.",
+      "primaryImageUrl": "/products/pillows/staycation/214016_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 60,
+        "max": 60,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "60 cm is a published depth used across selected Nest & Living products. Common on Coffee Table, Decorative Cushion, Footstool, Mobile Phone Pocket, Outdoor Storage and Pillow."
+}

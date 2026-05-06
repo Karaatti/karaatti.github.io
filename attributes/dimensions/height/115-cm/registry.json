@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "115 cm",
+  "valueSlug": "115-cm",
+  "valueType": "measurement",
+  "numericValue": 115,
+  "unit": "cm",
+  "productTypes": [
+    "Headboards"
+  ],
+  "familyCount": 1,
+  "variantCount": 15,
+  "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_beige_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "A smooth, upholstered headboard offered in three neutral colours and multiple widths.",
+      "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_beige_1.avif",
+      "schemaCategory": "Headboards",
+      "variantCount": 15
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 115,
+        "max": 115,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "115 cm is a published height used across selected Nest & Living products. Common on Headboard."
+}

@@ -1,0 +1,71 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.41 m³",
+  "valueSlug": "0-41-m3",
+  "valueType": "measurement",
+  "numericValue": 0.41,
+  "unit": "m³",
+  "productTypes": [
+    "Divan Bed",
+    "Fixed Armchairs",
+    "Headboards",
+    "Mattresses"
+  ],
+  "familyCount": 4,
+  "variantCount": 6,
+  "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/eagle",
+      "familyTitle": "Eagle",
+      "familySummary": "A modern armchair with a natural wood frame and soft upholstery, designed for comfort and understated style.",
+      "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
+      "schemaCategory": "Armchairs",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Divan bed with 5-zone pocket spring support and a durable wooden frame. Comes with smoked ash tapered legs and a choice of sizes.",
+      "primaryImageUrl": "/products/divan-beds/moon-bronze/197654_1.avif",
+      "schemaCategory": "Divan Beds",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "A practical and understated headboard featuring button detailing in five rows. Available in several widths and neutral fabric colours.",
+      "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+      "schemaCategory": "Headboards",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Pocket spring mattress with 5-zone support for individual body comfort. Available in various sizes and designed for practical, lasting use.",
+      "primaryImageUrl": "/products/mattresses/moon-silver/moon_silver_mattress_grey_2.avif",
+      "schemaCategory": "Mattresses",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.41,
+        "max": 0.41,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.41 m³ is a published volume used across selected Nest & Living products. Common on Divan Bed, Fixed Armchair, Headboard and Mattress."
+}

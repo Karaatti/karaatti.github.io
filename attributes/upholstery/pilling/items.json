@@ -1,0 +1,26 @@
+[
+  {
+    "name": "3-5",
+    "label": "3.5",
+    "href": "/attributes/upholstery/pilling/3-5/",
+    "type": "dir",
+    "description": "3.5 is a published pilling used across selected Nest & Living products. Common on Corner Sofa.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 3.5,
+    "unit": ""
+  },
+  {
+    "name": "4",
+    "label": "4",
+    "href": "/attributes/upholstery/pilling/4/",
+    "type": "dir",
+    "description": "4 is a published pilling used across selected Nest & Living products. Common on 3-Seater Sofa, 4-Seater Sofa, Chaise Sofa, Corner Sofa, Footstool and Modular Sofa and 1 more.",
+    "familyCount": 8,
+    "variantCount": 60,
+    "valueType": "measurement",
+    "numericValue": 4,
+    "unit": ""
+  }
+]

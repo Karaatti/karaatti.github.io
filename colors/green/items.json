@@ -1,0 +1,112 @@
+[
+  {
+    "name": "haley",
+    "href": "/products/decorative-cushions/haley/",
+    "type": "dir",
+    "title": "Haley Decorative Cushion",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 2,
+    "displayColors": [
+      "Green"
+    ]
+  },
+  {
+    "name": "hike",
+    "href": "/products/decorative-cushions/hike/",
+    "type": "dir",
+    "title": "Hike Decorative Cushion",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 2,
+    "displayColors": [
+      "Green"
+    ]
+  },
+  {
+    "name": "lugo",
+    "href": "/products/chaise-sofas/lugo/",
+    "type": "dir",
+    "title": "Lugo",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 2,
+    "displayColors": [
+      "Green"
+    ]
+  },
+  {
+    "name": "lugo",
+    "href": "/products/corner-sofas/lugo/",
+    "type": "dir",
+    "title": "Lugo",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 2,
+    "displayColors": [
+      "Green"
+    ]
+  },
+  {
+    "name": "haley",
+    "href": "/products/footstools/haley/",
+    "type": "dir",
+    "title": "Haley Footstool",
+    "schemaCategory": "Footstools",
+    "variantCount": 1,
+    "displayColors": [
+      "Green"
+    ]
+  },
+  {
+    "name": "lugo",
+    "href": "/products/footstools/lugo/",
+    "type": "dir",
+    "title": "Lugo",
+    "schemaCategory": "Footstools",
+    "variantCount": 1,
+    "displayColors": [
+      "Green"
+    ]
+  },
+  {
+    "name": "lugo",
+    "href": "/products/three-seater-sofas/lugo/",
+    "type": "dir",
+    "title": "Lugo",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1,
+    "displayColors": [
+      "Green"
+    ]
+  },
+  {
+    "name": "sirmione",
+    "href": "/products/rugs/sirmione/",
+    "type": "dir",
+    "title": "Sirmione",
+    "schemaCategory": "Rugs",
+    "variantCount": 1,
+    "displayColors": [
+      "Green"
+    ]
+  },
+  {
+    "name": "voyage",
+    "href": "/products/armchairs/voyage/",
+    "type": "dir",
+    "title": "Voyage",
+    "schemaCategory": "Armchairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Green"
+    ]
+  },
+  {
+    "name": "voyage",
+    "href": "/products/three-seater-sofas/voyage/",
+    "type": "dir",
+    "title": "Voyage",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1,
+    "displayColors": [
+      "Green"
+    ]
+  }
+]

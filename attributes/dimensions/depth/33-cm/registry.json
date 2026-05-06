@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "33 cm",
+  "valueSlug": "33-cm",
+  "valueType": "measurement",
+  "numericValue": 33,
+  "unit": "cm",
+  "productTypes": [
+    "Console Tables"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/oak",
+      "familyTitle": "Oak",
+      "familySummary": "Oak console table in natural oak veneer offers a modern Scandinavian look for living rooms, hallways or offices. The warm brown tone creates a cozy atmosphere. Two integrated drawers provide practical storage. A versatile and durable piece that complements the home.",
+      "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+      "schemaCategory": "Console Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 33,
+        "max": 33,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "33 cm is a published depth used across selected Nest & Living products. Common on Console Table."
+}

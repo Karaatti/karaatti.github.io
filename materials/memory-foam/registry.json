@@ -1,0 +1,86 @@
+{
+  "label": "Memory foam",
+  "description": "Memory foam in furniture: Conforms closely to the body and rebounds more slowly than standard foam.",
+  "intro": "Memory foam appears across 1 product family and 9 options, especially on Divan Beds and Toppers.",
+  "chemistry": [
+    "Memory foam is the consumer-facing name. Viscoelastic foam is the technical term for the same slow-response polyurethane family.",
+    "The visco part refers to viscosity: the material resists flow and responds with time delay under load. The elastic part refers to elasticity: after compression it still tries to recover toward its original shape.",
+    "Its contouring effect is based on local softening under body heat and pressure. The foam spreads load by letting heavier body zones sink more than lighter ones, which is why it is associated with pressure relief and body-conforming comfort."
+  ],
+  "furnitureUse": [
+    "This material is especially relevant in toppers, mattresses and some seat comfort layers where pressure distribution and body-hugging comfort are priorities.",
+    "It is rarely used alone as the full support structure. A firmer base layer is usually needed so the product keeps alignment and does not feel stuck or overly warm."
+  ],
+  "care": [
+    "Moisture and wear note: Ventilation matters because dense memory-foam layers can retain heat and slow drying.",
+    "Care note: Use in breathable builds and avoid sealing it inside damp, poorly ventilated covers."
+  ],
+  "terminology": [
+    "Use Memory foam as the main customer-facing term on site pages.",
+    "Keep viscoelastic foam as a technical alias that explains the material science behind the term rather than as the primary public label."
+  ],
+  "thermal": [
+    "Compared with latex, standard foam and spring-led mattress builds, memory foam usually stores more body heat because the material is denser, airflow is lower and body contact area becomes larger as the foam contours.",
+    "That warmer feel is not only about room temperature. As the layer softens with heat and pressure, the sleeper settles deeper into the surface and convection around the body decreases."
+  ],
+  "recycling": [
+    "Finland-first sorting baseline: memory foam is not a plastic-packaging stream. As a loose mattress or topper core it should usually go through municipal bulky furniture waste, mixed furniture waste or the local energy-waste route if that route explicitly accepts the material.",
+    "If the memory foam is part of a complete mattress or topper, direct the customer first to reuse, donation or municipal bulky-waste handling. Always check local municipal acceptance before promising a dedicated foam-only stream."
+  ],
+  "durability": [
+    "Quality depends heavily on density, formulation and the support layers underneath. In daily use memory foam generally softens gradually rather than failing suddenly.",
+    "Heat, oxidation, repeated compression and poor ventilation accelerate ageing. Low-density visco layers usually lose support earlier than better specified sleep-grade constructions."
+  ],
+  "relatedSpecifications": [
+    "Memory foam mattress",
+    "Memory foam topper",
+    "Pressure-relieving comfort layer"
+  ],
+  "lifecycleRows": [
+    {
+      "label": "Recycling in Finland",
+      "value": "Use municipal bulky-furniture or mixed-furniture handling unless the local operator explicitly offers a separate foam route."
+    },
+    {
+      "label": "Expected wear profile",
+      "value": "Slow softening and reduced rebound over time; quality depends strongly on density and ventilation."
+    },
+    {
+      "label": "Retail warranty note",
+      "value": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+    }
+  ],
+  "strengths": [
+    "pressure relief",
+    "body-conforming comfort",
+    "useful in sleep-focused products"
+  ],
+  "watchouts": [
+    "warmer feel than springier foams",
+    "slow rebound is not for everyone",
+    "needs a supportive base beneath it"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Pressure-relieving foam"
+    },
+    {
+      "label": "Composition",
+      "value": "Polyurethane foam modified for slower recovery and pressure distribution."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Conforms closely to the body and rebounds more slowly than standard foam."
+    },
+    {
+      "label": "Key strengths",
+      "value": "pressure relief, body-conforming comfort and useful in sleep-focused products"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "warmer feel than springier foams, slow rebound is not for everyone and needs a supportive base beneath it"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

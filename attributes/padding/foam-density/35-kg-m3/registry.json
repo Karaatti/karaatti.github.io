@@ -1,0 +1,44 @@
+{
+  "group": "padding",
+  "groupLabel": "Padding",
+  "attributeKey": "foamDensity",
+  "attributeLabel": "Foam density",
+  "value": "35 kg/m³",
+  "valueSlug": "35-kg-m3",
+  "valueType": "measurement",
+  "numericValue": 35,
+  "unit": "kg/m³",
+  "productTypes": [
+    "Swivel Chairs"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/blow",
+      "familyTitle": "Blow",
+      "familySummary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+      "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg/m³"
+    ],
+    "ranges": [
+      {
+        "unit": "kg/m³",
+        "min": 35,
+        "max": 35,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "35 kg/m³ is a published foam density used across selected Nest & Living products. Common on Swivel Chair."
+}

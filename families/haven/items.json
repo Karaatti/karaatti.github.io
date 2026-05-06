@@ -1,0 +1,892 @@
+[
+  {
+    "name": "haven",
+    "title": "Haven Outdoor Dining Chair",
+    "href": "/products/outdoor-dining-chairs/haven/",
+    "type": "dir",
+    "summary": "Haven dining chair offers a stylish and comfortable addition to summer dining spaces. Made from natural colored polyrattan with beige cushions, it combines aluminium, fabric and polyrattan for durability and comfort.",
+    "primaryImageUrl": "/products/outdoor-dining-chairs/haven/197625_1.avif",
+    "filterData": {
+      "searchText": "Haven Haven dining chair offers a stylish and comfortable addition to summer dining spaces. Made from natural colored polyrattan with beige cushions, it combines aluminium, fabric and polyrattan for durability and comfort. Outdoor Dining Chairs Outdoor Haven Outdoor Outdoor Dining Chairs Haven Brown Aluminium Fabric Polyester Polyrattan Dimensions Depth 72 cm cm Dimensions Height 92 cm cm Dimensions Width 64 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 7.5 kg kg Logistics Weight 8.8 kg kg Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "outdoor",
+          "label": "Outdoor",
+          "href": "/collections/outdoor"
+        }
+      ],
+      "categories": [
+        {
+          "key": "outdoor-dining-chairs",
+          "label": "Outdoor Dining Chairs",
+          "href": "/products/outdoor-dining-chairs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "haven",
+          "label": "Haven",
+          "href": "/families/haven/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "aluminium",
+          "label": "Aluminium",
+          "href": "/materials/aluminium/"
+        },
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        },
+        {
+          "key": "polyrattan",
+          "label": "Polyrattan",
+          "href": "/materials/polyrattan/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "72-cm",
+          "valueLabel": "72 cm",
+          "href": "/attributes/dimensions/depth/72-cm/",
+          "valueType": "enum",
+          "numericValue": 72,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "92-cm",
+          "valueLabel": "92 cm",
+          "href": "/attributes/dimensions/height/92-cm/",
+          "valueType": "enum",
+          "numericValue": 92,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "64-cm",
+          "valueLabel": "64 cm",
+          "href": "/attributes/dimensions/width/64-cm/",
+          "valueType": "enum",
+          "numericValue": 64,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-37-m3",
+          "valueLabel": "0.37 m³",
+          "href": "/attributes/logistics/volume/0-37-m3/",
+          "valueType": "enum",
+          "numericValue": 0.37,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "7-5-kg",
+          "valueLabel": "7.5 kg",
+          "href": "/attributes/logistics/weight/7-5-kg/",
+          "valueType": "enum",
+          "numericValue": 7.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "8-8-kg",
+          "valueLabel": "8.8 kg",
+          "href": "/attributes/logistics/weight/8-8-kg/",
+          "valueType": "enum",
+          "numericValue": 8.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Haven",
+      "summary": "Haven dining chair offers a stylish and comfortable addition to summer dining spaces. Made from natural colored polyrattan with beige cushions, it combines aluminium, fabric and polyrattan for durability and comfort.",
+      "variantCount": 1,
+      "categoryLabel": "Outdoor Dining Chairs",
+      "collectionLabel": "Outdoor",
+      "productFamilyLabel": "Haven"
+    }
+  },
+  {
+    "name": "haven",
+    "title": "Haven Outdoor Dining Table",
+    "href": "/products/outdoor-dining-tables/haven/",
+    "type": "dir",
+    "summary": "The Haven dining table features a sleek design with a durable aluminium frame and warm polyrattan finish. Its elegant glass top is easy to maintain. Measuring 200 x 100 cm, it provides ample space and assembles in about 30 minutes.",
+    "primaryImageUrl": "/products/outdoor-dining-tables/haven/197626_1.avif",
+    "filterData": {
+      "searchText": "Haven The Haven dining table features a sleek design with a durable aluminium frame and warm polyrattan finish. Its elegant glass top is easy to maintain. Measuring 200 x 100 cm, it provides ample space and assembles in about 30 minutes. Outdoor Dining Tables Outdoor Haven Outdoor Outdoor Dining Tables Haven Brown Aluminium Glass Polyrattan Dimensions Depth 200 cm cm Dimensions Height 74 cm cm Dimensions Width 100 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.34 m³ m³ Logistics Weight 39 kg kg Logistics Weight 42 kg kg Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "outdoor",
+          "label": "Outdoor",
+          "href": "/collections/outdoor"
+        }
+      ],
+      "categories": [
+        {
+          "key": "outdoor-dining-tables",
+          "label": "Outdoor Dining Tables",
+          "href": "/products/outdoor-dining-tables/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "haven",
+          "label": "Haven",
+          "href": "/families/haven/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "aluminium",
+          "label": "Aluminium",
+          "href": "/materials/aluminium/"
+        },
+        {
+          "key": "glass",
+          "label": "Glass",
+          "href": "/materials/glass/"
+        },
+        {
+          "key": "polyrattan",
+          "label": "Polyrattan",
+          "href": "/materials/polyrattan/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "74-cm",
+          "valueLabel": "74 cm",
+          "href": "/attributes/dimensions/height/74-cm/",
+          "valueType": "enum",
+          "numericValue": 74,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "100-cm",
+          "valueLabel": "100 cm",
+          "href": "/attributes/dimensions/width/100-cm/",
+          "valueType": "enum",
+          "numericValue": 100,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-34-m3",
+          "valueLabel": "0.34 m³",
+          "href": "/attributes/logistics/volume/0-34-m3/",
+          "valueType": "enum",
+          "numericValue": 0.34,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "39-kg",
+          "valueLabel": "39 kg",
+          "href": "/attributes/logistics/weight/39-kg/",
+          "valueType": "enum",
+          "numericValue": 39,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "42-kg",
+          "valueLabel": "42 kg",
+          "href": "/attributes/logistics/weight/42-kg/",
+          "valueType": "enum",
+          "numericValue": 42,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Haven",
+      "summary": "The Haven dining table features a sleek design with a durable aluminium frame and warm polyrattan finish. Its elegant glass top is easy to maintain. Measuring 200 x 100 cm, it provides ample space and assembles in about 30 minutes.",
+      "variantCount": 1,
+      "categoryLabel": "Outdoor Dining Tables",
+      "collectionLabel": "Outdoor",
+      "productFamilyLabel": "Haven"
+    }
+  },
+  {
+    "name": "haven",
+    "title": "Haven Outdoor Lounge Seating",
+    "href": "/products/outdoor-lounge-seating/haven/",
+    "type": "dir",
+    "summary": "Haven lounge chair combines natural colored polyrattan with beige cushions and a black frame for a practical and comfortable outdoor seat.",
+    "primaryImageUrl": "/products/outdoor-lounge-seating/haven/197618_1.avif",
+    "filterData": {
+      "searchText": "Haven Haven lounge chair combines natural colored polyrattan with beige cushions and a black frame for a practical and comfortable outdoor seat. Outdoor Lounge Seating Outdoor Haven Outdoor Outdoor Lounge Seating Haven Brown Polyester Polyrattan Steel Dimensions Depth 101 cm cm Dimensions Height 140 cm cm Dimensions Width 96 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.27 m³ m³ Logistics Weight 16.5 kg kg Logistics Weight 19 kg kg Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "outdoor",
+          "label": "Outdoor",
+          "href": "/collections/outdoor"
+        }
+      ],
+      "categories": [
+        {
+          "key": "outdoor-lounge-seating",
+          "label": "Outdoor Lounge Seating",
+          "href": "/products/outdoor-lounge-seating/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "haven",
+          "label": "Haven",
+          "href": "/families/haven/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        },
+        {
+          "key": "polyrattan",
+          "label": "Polyrattan",
+          "href": "/materials/polyrattan/"
+        },
+        {
+          "key": "steel",
+          "label": "Steel",
+          "href": "/materials/steel/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "101-cm",
+          "valueLabel": "101 cm",
+          "href": "/attributes/dimensions/depth/101-cm/",
+          "valueType": "enum",
+          "numericValue": 101,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "140-cm",
+          "valueLabel": "140 cm",
+          "href": "/attributes/dimensions/height/140-cm/",
+          "valueType": "enum",
+          "numericValue": 140,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "96-cm",
+          "valueLabel": "96 cm",
+          "href": "/attributes/dimensions/width/96-cm/",
+          "valueType": "enum",
+          "numericValue": 96,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "load",
+          "groupLabel": "Load",
+          "key": "maximum-load",
+          "label": "Maximum load",
+          "valueKey": "120-kg",
+          "valueLabel": "120 kg",
+          "href": "/attributes/load/maximum-load/120-kg/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-27-m3",
+          "valueLabel": "0.27 m³",
+          "href": "/attributes/logistics/volume/0-27-m3/",
+          "valueType": "enum",
+          "numericValue": 0.27,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "16-5-kg",
+          "valueLabel": "16.5 kg",
+          "href": "/attributes/logistics/weight/16-5-kg/",
+          "valueType": "enum",
+          "numericValue": 16.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "19-kg",
+          "valueLabel": "19 kg",
+          "href": "/attributes/logistics/weight/19-kg/",
+          "valueType": "enum",
+          "numericValue": 19,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Haven",
+      "summary": "Haven lounge chair combines natural colored polyrattan with beige cushions and a black frame for a practical and comfortable outdoor seat.",
+      "variantCount": 1,
+      "categoryLabel": "Outdoor Lounge Seating",
+      "collectionLabel": "Outdoor",
+      "productFamilyLabel": "Haven"
+    }
+  },
+  {
+    "name": "haven",
+    "title": "Haven Outdoor Lounge Set",
+    "href": "/products/outdoor-lounge-sets/haven/",
+    "type": "dir",
+    "summary": "Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies.",
+    "primaryImageUrl": "/products/outdoor-lounge-sets/haven/197627_1.avif",
+    "filterData": {
+      "searchText": "Haven Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies. Outdoor Lounge Sets Outdoor Haven Outdoor Outdoor Lounge Sets Haven Beige Brown Aluminium Glass Polyrattan Dimensions Depth 236 cm cm Dimensions Height 86 cm cm Dimensions Set piece depth 110 cm cm Dimensions Set piece height 65 cm cm Dimensions Set piece height 86 cm cm Dimensions Set piece width 75 cm cm Dimensions Set piece width 110 cm cm Dimensions Width 185 cm cm Dimensions Width 236 cm cm Load Maximum load 100 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.05 m³ m³ Logistics Volume 1.37 m³ m³ Logistics Weight 25 kg kg Logistics Weight 37 kg kg Logistics Weight 47 kg kg Logistics Weight 68 kg kg Padding Seat cushion thickness 8 cm cm Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "outdoor",
+          "label": "Outdoor",
+          "href": "/collections/outdoor"
+        }
+      ],
+      "categories": [
+        {
+          "key": "outdoor-lounge-sets",
+          "label": "Outdoor Lounge Sets",
+          "href": "/products/outdoor-lounge-sets/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "haven",
+          "label": "Haven",
+          "href": "/families/haven/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "aluminium",
+          "label": "Aluminium",
+          "href": "/materials/aluminium/"
+        },
+        {
+          "key": "glass",
+          "label": "Glass",
+          "href": "/materials/glass/"
+        },
+        {
+          "key": "polyrattan",
+          "label": "Polyrattan",
+          "href": "/materials/polyrattan/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "236-cm",
+          "valueLabel": "236 cm",
+          "href": "/attributes/dimensions/depth/236-cm/",
+          "valueType": "enum",
+          "numericValue": 236,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "86-cm",
+          "valueLabel": "86 cm",
+          "href": "/attributes/dimensions/height/86-cm/",
+          "valueType": "enum",
+          "numericValue": 86,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "set-piece-depth",
+          "label": "Set piece depth",
+          "valueKey": "110-cm",
+          "valueLabel": "110 cm",
+          "href": "/attributes/dimensions/set-piece-depth/110-cm/",
+          "valueType": "enum",
+          "numericValue": 110,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "set-piece-height",
+          "label": "Set piece height",
+          "valueKey": "65-cm",
+          "valueLabel": "65 cm",
+          "href": "/attributes/dimensions/set-piece-height/65-cm/",
+          "valueType": "enum",
+          "numericValue": 65,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "set-piece-height",
+          "label": "Set piece height",
+          "valueKey": "86-cm",
+          "valueLabel": "86 cm",
+          "href": "/attributes/dimensions/set-piece-height/86-cm/",
+          "valueType": "enum",
+          "numericValue": 86,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "set-piece-width",
+          "label": "Set piece width",
+          "valueKey": "75-cm",
+          "valueLabel": "75 cm",
+          "href": "/attributes/dimensions/set-piece-width/75-cm/",
+          "valueType": "enum",
+          "numericValue": 75,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "set-piece-width",
+          "label": "Set piece width",
+          "valueKey": "110-cm",
+          "valueLabel": "110 cm",
+          "href": "/attributes/dimensions/set-piece-width/110-cm/",
+          "valueType": "enum",
+          "numericValue": 110,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "185-cm",
+          "valueLabel": "185 cm",
+          "href": "/attributes/dimensions/width/185-cm/",
+          "valueType": "enum",
+          "numericValue": 185,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "236-cm",
+          "valueLabel": "236 cm",
+          "href": "/attributes/dimensions/width/236-cm/",
+          "valueType": "enum",
+          "numericValue": 236,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "load",
+          "groupLabel": "Load",
+          "key": "maximum-load",
+          "label": "Maximum load",
+          "valueKey": "100-kg",
+          "valueLabel": "100 kg",
+          "href": "/attributes/load/maximum-load/100-kg/",
+          "valueType": "enum",
+          "numericValue": 100,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "1-05-m3",
+          "valueLabel": "1.05 m³",
+          "href": "/attributes/logistics/volume/1-05-m3/",
+          "valueType": "enum",
+          "numericValue": 1.05,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "1-37-m3",
+          "valueLabel": "1.37 m³",
+          "href": "/attributes/logistics/volume/1-37-m3/",
+          "valueType": "enum",
+          "numericValue": 1.37,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "37-kg",
+          "valueLabel": "37 kg",
+          "href": "/attributes/logistics/weight/37-kg/",
+          "valueType": "enum",
+          "numericValue": 37,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "47-kg",
+          "valueLabel": "47 kg",
+          "href": "/attributes/logistics/weight/47-kg/",
+          "valueType": "enum",
+          "numericValue": 47,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "68-kg",
+          "valueLabel": "68 kg",
+          "href": "/attributes/logistics/weight/68-kg/",
+          "valueType": "enum",
+          "numericValue": 68,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "seat-cushion-thickness",
+          "label": "Seat cushion thickness",
+          "valueKey": "8-cm",
+          "valueLabel": "8 cm",
+          "href": "/attributes/padding/seat-cushion-thickness/8-cm/",
+          "valueType": "enum",
+          "numericValue": 8,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Haven",
+      "summary": "Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies.",
+      "variantCount": 2,
+      "categoryLabel": "Outdoor Lounge Sets",
+      "collectionLabel": "Outdoor",
+      "productFamilyLabel": "Haven"
+    }
+  }
+]

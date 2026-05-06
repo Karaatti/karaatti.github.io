@@ -1,0 +1,119 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "60 cm",
+  "valueSlug": "60-cm",
+  "valueType": "measurement",
+  "numericValue": 60,
+  "unit": "cm",
+  "productTypes": [
+    "Coffee Tables",
+    "Outdoor Lounge Seating",
+    "Pillows",
+    "Rugs"
+  ],
+  "familyCount": 10,
+  "variantCount": 13,
+  "primaryImageUrl": "/products/pillows/nest-living-gold/201094_1.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nest-living-gold",
+      "familyTitle": "Nest & Living Gold",
+      "familySummary": "Pillows designed for a fuller feel, including comfort and quilted options.",
+      "primaryImageUrl": "/products/pillows/nest-living-gold/201094_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/reef",
+      "familyTitle": "Reef",
+      "familySummary": "Compact coffee table with a warm American walnut finish and practical dimensions suitable for various interiors.",
+      "primaryImageUrl": "/products/coffee-tables/reef/198072_1.avif",
+      "schemaCategory": "Coffee Tables",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/staycool",
+      "familyTitle": "Staycool",
+      "familySummary": "Cooling pillows and pillow protectors from the Staycool series.",
+      "primaryImageUrl": "/products/pillows/staycool/214012_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/dozza",
+      "familyTitle": "Dozza",
+      "familySummary": "Dozza is a modern grey polypropylene rug featuring a timeless oriental-inspired pattern. Its muted tones and low pile add warmth and style to living rooms, bedrooms, or hallways while offering practical durability.",
+      "primaryImageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/house-nordic-derby",
+      "familyTitle": "House Nordic Derby",
+      "familySummary": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
+      "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+      "schemaCategory": "Outdoor Lounge Seating",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/lucca",
+      "familyTitle": "Lucca",
+      "familySummary": "A smooth-surfaced oriental-style rug that offers a soft and pleasant feel underfoot while maintaining durability. Its carefully chosen plain or subtly patterned elements create a calm and stylish atmosphere suitable for various interiors.",
+      "primaryImageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nest-living-silver",
+      "familyTitle": "Nest & Living Silver",
+      "familySummary": "Pillows for everyday bedroom comfort, including classic and box pillow options.",
+      "primaryImageUrl": "/products/pillows/nest-living-silver/201091_1.avif",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/sevilla",
+      "familyTitle": "Sevilla",
+      "familySummary": "Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
+      "primaryImageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/staycation",
+      "familyTitle": "Staycation",
+      "familySummary": "Bedroom pillows from the Staycation series.",
+      "primaryImageUrl": "/products/pillows/staycation/214017_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/staycomfort",
+      "familyTitle": "Staycomfort",
+      "familySummary": "Everyday pillows from the Staycomfort series.",
+      "primaryImageUrl": "/products/pillows/staycomfort/214015_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 60,
+        "max": 60,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "60 cm is a published width used across selected Nest & Living products. Common on Coffee Table, Outdoor Lounge Seating, Pillow and Rug."
+}

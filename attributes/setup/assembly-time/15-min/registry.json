@@ -1,0 +1,186 @@
+{
+  "group": "setup",
+  "groupLabel": "Setup",
+  "attributeKey": "assemblyTime",
+  "attributeLabel": "Assembly time",
+  "value": "15 min",
+  "valueSlug": "15-min",
+  "valueType": "measurement",
+  "numericValue": 15,
+  "unit": "min",
+  "productTypes": [
+    "3-Seater Sofas",
+    "4-Seater Sofas",
+    "Armchairs",
+    "Bar Stools",
+    "Chaise Sofas",
+    "Coffee Tables",
+    "Corner Sofas",
+    "Dining Chairs",
+    "Dining Tables",
+    "Divan Bed",
+    "Divan Beds",
+    "Outdoor Dining Tables",
+    "Outdoor Lounge Sets",
+    "Side Tables",
+    "Swivel Chairs"
+  ],
+  "familyCount": 17,
+  "variantCount": 82,
+  "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey.",
+      "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+      "schemaCategory": "Chaise Sofas, Corner Sofas and 3-Seater Sofas",
+      "variantCount": 27
+    },
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Divan bed with 7-zone pocket spring system offering firm support and ergonomic comfort. Available in various sizes and neutral tones.",
+      "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+      "schemaCategory": "Divan Beds",
+      "variantCount": 19
+    },
+    {
+      "familyRelativeDir": "families/saarni",
+      "familyTitle": "Saarni",
+      "familySummary": "Outdoor dining table with aluminium frame and nonwood surface in a light Beige tone. Practical and easy to maintain.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206639_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 5
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Divan bed with 5-zone pocket spring support and a durable wooden frame. Comes with smoked ash tapered legs and a choice of sizes.",
+      "primaryImageUrl": "/products/divan-beds/moon-bronze/197653_1.avif",
+      "schemaCategory": "Divan Beds",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Available sizes: 80 x 200 cm, 90 x 200 cm, 120 x 200 cm and 140 x 200 cm. Light grey Primo 84 upholstery, 5-zone pocket spring support and smoked ash cone legs. 4 active variants available.",
+      "primaryImageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_1.avif",
+      "schemaCategory": "Divan Beds",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Outdoor lounge set configurations from the Nordic collection with white aluminium frames, beige cushions, and selected layouts with integrated coffee tables.",
+      "primaryImageUrl": "/products/outdoor-lounge-sets/nordic/MYYKESA2211_1.avif",
+      "schemaCategory": "Outdoor Lounge Sets",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/bow",
+      "familyTitle": "Bow",
+      "familySummary": "Upholstered dining chair with metal frame and plywood structure, available in three colours.",
+      "primaryImageUrl": "/products/dining-chairs/bow/198099_1.avif",
+      "schemaCategory": "Dining Chairs",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/heaven",
+      "familyTitle": "Heaven",
+      "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+      "primaryImageUrl": "/products/four-seater-sofas/heaven/198384_1.avif",
+      "schemaCategory": "4-Seater Sofas",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/metz",
+      "familyTitle": "Metz",
+      "familySummary": "A round dining table with a natural Beige veneer surface and a light, sturdy base. Designed to comfortably seat four and fit modern interiors.",
+      "primaryImageUrl": "/products/dining-tables/metz/208710_1.avif",
+      "schemaCategory": "Dining Tables",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/islet",
+      "familyTitle": "Islet",
+      "familySummary": "Islet round coffee table in walnut brown with an 80 cm diameter. Features a durable MDF frame and a stable conical leg for everyday use.",
+      "primaryImageUrl": "/products/coffee-tables/islet/198067_1.avif",
+      "schemaCategory": "Coffee Tables and Dining Tables",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/merida",
+      "familyTitle": "Merida",
+      "familySummary": "Bar stool with natural oak frame and light fabric seat. Scandinavian style suitable for kitchen bars and dining areas.",
+      "primaryImageUrl": "/products/bar-stools/merida/198084_1.avif",
+      "schemaCategory": "Bar Stools",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/bay",
+      "familyTitle": "Bay",
+      "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+      "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/dove",
+      "familyTitle": "Dove",
+      "familySummary": "Armchair with a walnut rubberwood frame and beige fabric upholstery. Offers comfortable seating with a high back and soft seat.",
+      "primaryImageUrl": "/products/armchairs/dove/198105_1.avif",
+      "schemaCategory": "Armchairs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/messina",
+      "familyTitle": "Messina",
+      "familySummary": "Messina dining table 220x100 cm provides a practical and elegant outdoor dining option. Its natural toned top and aluminium frame create a modern Scandinavian look. Suitable for garden, terrace or large balcony, it offers a spacious and low-maintenance surface.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/messina/197906_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nicola",
+      "familyTitle": "Nicola",
+      "familySummary": "Dining chair with an oak frame and beige fabric upholstery, designed for comfort and understated style.",
+      "primaryImageUrl": "/products/dining-chairs/nicola/200739_1.avif",
+      "schemaCategory": "Dining Chairs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/sulo",
+      "familyTitle": "Sulo",
+      "familySummary": "A modern three-seater sofa in white corduroy with rounded armrests and a low backrest for relaxed seating.",
+      "primaryImageUrl": "/products/three-seater-sofas/sulo/202841_1.avif",
+      "schemaCategory": "3-Seater Sofas",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/swallow",
+      "familyTitle": "Swallow",
+      "familySummary": "Round side table made of natural rubberwood with a 45 cm diameter top. Minimalist design with smooth, rounded edges.",
+      "primaryImageUrl": "/products/side-tables/swallow/198080_1.avif",
+      "schemaCategory": "Side Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "min"
+    ],
+    "ranges": [
+      {
+        "unit": "min",
+        "min": 15,
+        "max": 15,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "15 min is a published assembly time used across selected Nest & Living products. Common on 3-Seater Sofa, 4-Seater Sofa, Armchair, Bar Stool, Chaise Sofa and Coffee Table and 8 more."
+}

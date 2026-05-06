@@ -1,0 +1,71 @@
+{
+  "attributeKey": "memoryWarranty",
+  "attributeLabel": "Memory warranty",
+  "group": "warranty",
+  "groupLabel": "Warranty",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "days"
+    ],
+    "ranges": [
+      {
+        "unit": "days",
+        "min": 2000,
+        "max": 2000,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "attributeKey": "memoryWarranty",
+      "attributeLabel": "Memory warranty",
+      "value": "2000 days",
+      "valueSlug": "2000-days",
+      "valueType": "measurement",
+      "numericValue": 2000,
+      "unit": "days",
+      "productTypes": [
+        "Continental Beds",
+        "Divan Beds",
+        "Mattresses"
+      ],
+      "familyCount": 1,
+      "variantCount": 31,
+      "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/moon-gold",
+          "familyTitle": "Moon Gold",
+          "familySummary": "Divan bed with 7-zone pocket spring system offering firm support and ergonomic comfort. Available in various sizes and neutral tones.",
+          "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+          "schemaCategory": "Continental Beds, Divan Beds and Mattresses",
+          "variantCount": 31
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "days"
+        ],
+        "ranges": [
+          {
+            "unit": "days",
+            "min": 2000,
+            "max": 2000,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "2000 days is a published memory warranty used across selected Nest & Living products. Common on Continental Bed, Divan Bed and Mattress."
+    }
+  ]
+}

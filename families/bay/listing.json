@@ -1,0 +1,288 @@
+{
+  "type": "product-family",
+  "productFamilyName": "Bay",
+  "productFamilyKey": "bay",
+  "summary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+  "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+  "familyCount": 1,
+  "filterData": {
+    "searchText": "Bay Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look. Bay Living room Swivel Chairs Bay Beige Black Fabric Foam Metal Care Cleaning method Dry clean Care Removable covers No Dimensions Depth 83 cm cm Dimensions Height 75 cm cm Dimensions Width 78 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.43 m³ m³ Logistics Weight 19.5 kg kg Logistics Weight 24 kg kg Padding Foam density 25 kg/m³ kg/m³ Seating Seat count 1 seat seat Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+    "collections": [
+      {
+        "key": "living-room",
+        "label": "Living room",
+        "href": "/collections/living-room"
+      }
+    ],
+    "categories": [
+      {
+        "key": "swivel-chairs",
+        "label": "Swivel Chairs",
+        "href": "/products/swivel-chairs/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "bay",
+        "label": "Bay",
+        "href": "/families/bay/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "beige",
+        "label": "Beige",
+        "href": "/colors/beige/"
+      },
+      {
+        "key": "black",
+        "label": "Black",
+        "href": "/colors/black/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "fabric",
+        "label": "Fabric",
+        "href": "/materials/fabric/"
+      },
+      {
+        "key": "foam",
+        "label": "Foam",
+        "href": "/materials/foam/"
+      },
+      {
+        "key": "metal",
+        "label": "Metal",
+        "href": "/materials/metal/"
+      }
+    ],
+    "specifications": [],
+    "attributes": [
+      {
+        "groupKey": "care",
+        "groupLabel": "Care",
+        "key": "cleaning-method",
+        "label": "Cleaning method",
+        "valueKey": "dry-clean",
+        "valueLabel": "Dry clean",
+        "href": "/attributes/care/cleaning-method/dry-clean/",
+        "valueType": "enum",
+        "numericValue": 0,
+        "unit": ""
+      },
+      {
+        "groupKey": "care",
+        "groupLabel": "Care",
+        "key": "removable-covers",
+        "label": "Removable covers",
+        "valueKey": "no",
+        "valueLabel": "No",
+        "href": "/attributes/care/removable-covers/no/",
+        "valueType": "enum",
+        "numericValue": 0,
+        "unit": ""
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "depth",
+        "label": "Depth",
+        "valueKey": "83-cm",
+        "valueLabel": "83 cm",
+        "href": "/attributes/dimensions/depth/83-cm/",
+        "valueType": "enum",
+        "numericValue": 83,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "height",
+        "label": "Height",
+        "valueKey": "75-cm",
+        "valueLabel": "75 cm",
+        "href": "/attributes/dimensions/height/75-cm/",
+        "valueType": "enum",
+        "numericValue": 75,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "78-cm",
+        "valueLabel": "78 cm",
+        "href": "/attributes/dimensions/width/78-cm/",
+        "valueType": "enum",
+        "numericValue": 78,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "load",
+        "groupLabel": "Load",
+        "key": "maximum-load",
+        "label": "Maximum load",
+        "valueKey": "120-kg",
+        "valueLabel": "120 kg",
+        "href": "/attributes/load/maximum-load/120-kg/",
+        "valueType": "enum",
+        "numericValue": 120,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-count",
+        "label": "Package count",
+        "valueKey": "1-package",
+        "valueLabel": "1 package",
+        "href": "/attributes/logistics/package-count/1-package/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "package"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "product-count",
+        "label": "Product count",
+        "valueKey": "1-product",
+        "valueLabel": "1 product",
+        "href": "/attributes/logistics/product-count/1-product/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "product"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-43-m3",
+        "valueLabel": "0.43 m³",
+        "href": "/attributes/logistics/volume/0-43-m3/",
+        "valueType": "enum",
+        "numericValue": 0.43,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "19-5-kg",
+        "valueLabel": "19.5 kg",
+        "href": "/attributes/logistics/weight/19-5-kg/",
+        "valueType": "enum",
+        "numericValue": 19.5,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "24-kg",
+        "valueLabel": "24 kg",
+        "href": "/attributes/logistics/weight/24-kg/",
+        "valueType": "enum",
+        "numericValue": 24,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "padding",
+        "groupLabel": "Padding",
+        "key": "foam-density",
+        "label": "Foam density",
+        "valueKey": "25-kg-m3",
+        "valueLabel": "25 kg/m³",
+        "href": "/attributes/padding/foam-density/25-kg-m3/",
+        "valueType": "enum",
+        "numericValue": 25,
+        "unit": "kg/m³"
+      },
+      {
+        "groupKey": "seating",
+        "groupLabel": "Seating",
+        "key": "seat-count",
+        "label": "Seat count",
+        "valueKey": "1-seat",
+        "valueLabel": "1 seat",
+        "href": "/attributes/seating/seat-count/1-seat/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "seat"
+      },
+      {
+        "groupKey": "setup",
+        "groupLabel": "Setup",
+        "key": "assembly-time",
+        "label": "Assembly time",
+        "valueKey": "15-min",
+        "valueLabel": "15 min",
+        "href": "/attributes/setup/assembly-time/15-min/",
+        "valueType": "enum",
+        "numericValue": 15,
+        "unit": "min"
+      },
+      {
+        "groupKey": "upholstery",
+        "groupLabel": "Upholstery",
+        "key": "lightfastness",
+        "label": "Lightfastness",
+        "valueKey": "4",
+        "valueLabel": "4",
+        "href": "/attributes/upholstery/lightfastness/4/",
+        "valueType": "enum",
+        "numericValue": 4,
+        "unit": ""
+      },
+      {
+        "groupKey": "upholstery",
+        "groupLabel": "Upholstery",
+        "key": "pilling",
+        "label": "Pilling",
+        "valueKey": "4",
+        "valueLabel": "4",
+        "href": "/attributes/upholstery/pilling/4/",
+        "valueType": "enum",
+        "numericValue": 4,
+        "unit": ""
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "price-guarantee",
+        "label": "Price guarantee",
+        "valueKey": "30-days",
+        "valueLabel": "30 days",
+        "href": "/attributes/warranty/price-guarantee/30-days/",
+        "valueType": "enum",
+        "numericValue": 30,
+        "unit": "days"
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "quality-guarantee",
+        "label": "Quality guarantee",
+        "valueKey": "1000-days",
+        "valueLabel": "1000 days",
+        "href": "/attributes/warranty/quality-guarantee/1000-days/",
+        "valueType": "enum",
+        "numericValue": 1000,
+        "unit": "days"
+      }
+    ]
+  },
+  "sortData": {
+    "title": "Bay",
+    "summary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+    "variantCount": 1,
+    "categoryLabel": "",
+    "collectionLabel": "",
+    "productFamilyLabel": "Bay"
+  }
+}

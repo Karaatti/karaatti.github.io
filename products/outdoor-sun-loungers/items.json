@@ -1,0 +1,238 @@
+[
+  {
+    "name": "house-nordic-derby",
+    "href": "/products/outdoor-sun-loungers/house-nordic-derby/",
+    "type": "dir",
+    "title": "House Nordic Derby Outdoor Sun Lounger",
+    "summary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+    "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+    "sourceHref": "/products/outdoor-sun-loungers/house-nordic-derby/",
+    "filterData": {
+      "searchText": "House Nordic Derby Outdoor Sun Lounger Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside. Outdoor Sun Loungers House Nordic Derby Outdoor Outdoor Sun Loungers House Nordic Derby Beige Polyrattan Teak Wood Dimensions Depth 190 cm cm Dimensions Height 38 cm cm Dimensions Width 65 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.5 m³ m³ Logistics Weight 22.5 kg kg Logistics Weight 27 kg kg Seating Seat depth 65 cm cm Seating Seat height 38 cm cm Seating Seat width 65 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "outdoor",
+          "label": "Outdoor",
+          "href": "/collections/outdoor"
+        }
+      ],
+      "categories": [
+        {
+          "key": "outdoor-sun-loungers",
+          "label": "Outdoor Sun Loungers",
+          "href": "/products/outdoor-sun-loungers/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "house-nordic-derby",
+          "label": "House Nordic Derby",
+          "href": "/families/house-nordic-derby/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "polyrattan",
+          "label": "Polyrattan",
+          "href": "/materials/polyrattan/"
+        },
+        {
+          "key": "teak",
+          "label": "Teak",
+          "href": "/materials/teak/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "190-cm",
+          "valueLabel": "190 cm",
+          "href": "/attributes/dimensions/depth/190-cm/",
+          "valueType": "enum",
+          "numericValue": 190,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "38-cm",
+          "valueLabel": "38 cm",
+          "href": "/attributes/dimensions/height/38-cm/",
+          "valueType": "enum",
+          "numericValue": 38,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "65-cm",
+          "valueLabel": "65 cm",
+          "href": "/attributes/dimensions/width/65-cm/",
+          "valueType": "enum",
+          "numericValue": 65,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "load",
+          "groupLabel": "Load",
+          "key": "maximum-load",
+          "label": "Maximum load",
+          "valueKey": "110-kg",
+          "valueLabel": "110 kg",
+          "href": "/attributes/load/maximum-load/110-kg/",
+          "valueType": "enum",
+          "numericValue": 110,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-5-m3",
+          "valueLabel": "0.5 m³",
+          "href": "/attributes/logistics/volume/0-5-m3/",
+          "valueType": "enum",
+          "numericValue": 0.5,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "22-5-kg",
+          "valueLabel": "22.5 kg",
+          "href": "/attributes/logistics/weight/22-5-kg/",
+          "valueType": "enum",
+          "numericValue": 22.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-depth",
+          "label": "Seat depth",
+          "valueKey": "65-cm",
+          "valueLabel": "65 cm",
+          "href": "/attributes/seating/seat-depth/65-cm/",
+          "valueType": "enum",
+          "numericValue": 65,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "38-cm",
+          "valueLabel": "38 cm",
+          "href": "/attributes/seating/seat-height/38-cm/",
+          "valueType": "enum",
+          "numericValue": 38,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-width",
+          "label": "Seat width",
+          "valueKey": "65-cm",
+          "valueLabel": "65 cm",
+          "href": "/attributes/seating/seat-width/65-cm/",
+          "valueType": "enum",
+          "numericValue": 65,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "House Nordic Derby Outdoor Sun Lounger",
+      "summary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+      "variantCount": 1,
+      "categoryLabel": "Outdoor Sun Loungers",
+      "collectionLabel": "",
+      "productFamilyLabel": "House Nordic Derby"
+    }
+  }
+]

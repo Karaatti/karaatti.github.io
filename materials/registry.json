@@ -1,0 +1,880 @@
+[
+  {
+    "slug": "aluminium",
+    "label": "Aluminium",
+    "aliases": [],
+    "productTypes": [
+      "Gazebos & Pergolas",
+      "Outdoor Dining Chairs",
+      "Outdoor Dining Tables",
+      "Outdoor Lounge Seating",
+      "Outdoor Lounge Sets",
+      "Outdoor Storage"
+    ],
+    "familyCount": 4,
+    "variantCount": 27,
+    "description": "Aluminium in furniture: Lightweight, corrosion resistant and dimensionally stable outdoors.",
+    "strengths": [
+      "corrosion resistance",
+      "low weight",
+      "outdoor suitability"
+    ],
+    "watchouts": [
+      "surface dents more easily than steel",
+      "can heat up or cool down quickly",
+      "coating damage should be monitored in coastal use"
+    ],
+    "href": "/materials/aluminium/"
+  },
+  {
+    "slug": "cotton",
+    "label": "Cotton",
+    "aliases": [],
+    "productTypes": [
+      "Duvet & Pillow Sets",
+      "Duvets",
+      "Mattress Protectors",
+      "Pillows",
+      "Rugs"
+    ],
+    "familyCount": 14,
+    "variantCount": 38,
+    "description": "Cotton in furniture: Soft, breathable and absorbent, with a dry hand feel.",
+    "strengths": [
+      "soft touch",
+      "breathability",
+      "natural look"
+    ],
+    "watchouts": [
+      "absorbs stains and moisture",
+      "can wrinkle and fade",
+      "wears faster than performance synthetics in heavy seating"
+    ],
+    "href": "/materials/cotton/"
+  },
+  {
+    "slug": "fabric",
+    "label": "Fabric",
+    "aliases": [],
+    "productTypes": [
+      "3-Seater Sofas",
+      "4-Seater Sofas",
+      "Adjustable Beds",
+      "Armchairs",
+      "Bar Stools",
+      "Bed Frames",
+      "Continental Beds",
+      "Dining Chairs",
+      "Divan Bed",
+      "Divan Beds",
+      "Fixed Armchairs",
+      "Footstools",
+      "Headboards",
+      "Mobile Phone Pockets",
+      "Outdoor Dining Chairs",
+      "Outdoor Lounge Seating",
+      "Outdoor Lounge Sets",
+      "Swivel Chairs",
+      "Toppers"
+    ],
+    "familyCount": 17,
+    "variantCount": 163,
+    "description": "Fabric in furniture: Comfort-led surface layer whose feel depends on fibre mix, weave density and backing.",
+    "strengths": [
+      "wide design range",
+      "comfortable hand feel",
+      "good acoustic softening"
+    ],
+    "watchouts": [
+      "performance depends on fibre blend",
+      "open weaves can trap lint",
+      "light colours show dirt faster"
+    ],
+    "href": "/materials/fabric/"
+  },
+  {
+    "slug": "faux-leather",
+    "label": "Faux leather",
+    "aliases": [],
+    "productTypes": [
+      "Fixed Armchairs"
+    ],
+    "familyCount": 1,
+    "variantCount": 1,
+    "description": "Faux leather in furniture: Smooth, easy to wipe and visually leather-like, but less breathable than real leather or fabric.",
+    "strengths": [
+      "easy wipe-clean surface",
+      "uniform appearance",
+      "budget-friendly leather look"
+    ],
+    "watchouts": [
+      "can peel or crack with age",
+      "less breathable",
+      "sensitive to heat and aggressive cleaners"
+    ],
+    "href": "/materials/faux-leather/"
+  },
+  {
+    "slug": "feather",
+    "label": "Feather",
+    "aliases": [],
+    "productTypes": [
+      "3-Seater Sofas",
+      "Armchairs",
+      "Pillows"
+    ],
+    "familyCount": 3,
+    "variantCount": 6,
+    "description": "Feather in furniture: High loft, soft compression and airy comfort with a relaxed, lounge-like sit.",
+    "strengths": [
+      "soft loft",
+      "premium lounge comfort",
+      "good breathability"
+    ],
+    "watchouts": [
+      "needs regular plumping",
+      "can migrate inside covers",
+      "not ideal for sharply tailored shapes"
+    ],
+    "href": "/materials/feather/"
+  },
+  {
+    "slug": "foam",
+    "label": "Foam",
+    "aliases": [],
+    "productTypes": [
+      "3-Seater Sofas",
+      "4-Seater Sofas",
+      "Armchairs",
+      "Chaise Sofas",
+      "Continental Beds",
+      "Corner Sofas",
+      "Dining Chairs",
+      "Divan Beds",
+      "Footstools",
+      "Outdoor Lounge Sets",
+      "Swivel Chairs",
+      "Toppers"
+    ],
+    "familyCount": 17,
+    "variantCount": 109,
+    "description": "Foam in furniture: Shape-forming, pressure-distributing and available from soft comfort layers to firm support cores.",
+    "strengths": [
+      "tunable support",
+      "shape retention",
+      "works well in layered cushions"
+    ],
+    "watchouts": [
+      "quality depends heavily on density",
+      "can soften with age",
+      "trapped moisture slows recovery and hygiene"
+    ],
+    "href": "/materials/foam/"
+  },
+  {
+    "slug": "furniture-board",
+    "label": "Furniture board",
+    "aliases": [],
+    "productTypes": [
+      "Corner Sofas"
+    ],
+    "familyCount": 1,
+    "variantCount": 2,
+    "description": "Furniture board in furniture: Economical, flat and consistent across large surfaces.",
+    "strengths": [
+      "economical flat panels",
+      "consistent dimensions",
+      "works well for hidden structural boards"
+    ],
+    "watchouts": [
+      "edge swelling if wet",
+      "limited refinishability",
+      "screw holding depends on the core"
+    ],
+    "href": "/materials/furniture-board/"
+  },
+  {
+    "slug": "glass",
+    "label": "Glass",
+    "aliases": [],
+    "productTypes": [
+      "Outdoor Dining Tables",
+      "Outdoor Lounge Sets"
+    ],
+    "familyCount": 1,
+    "variantCount": 3,
+    "description": "Glass in furniture: Hard, non-porous and visually light, with a clean reflective surface.",
+    "strengths": [
+      "easy to clean",
+      "visually light",
+      "moisture proof surface"
+    ],
+    "watchouts": [
+      "edge chipping risk",
+      "shows fingerprints",
+      "hard reflective surface increases glare and noise"
+    ],
+    "href": "/materials/glass/"
+  },
+  {
+    "slug": "hdf",
+    "label": "HDF",
+    "aliases": [],
+    "productTypes": [
+      "Corner Sofas"
+    ],
+    "familyCount": 1,
+    "variantCount": 2,
+    "description": "HDF in furniture: Dense, smooth and stable in thin sections, often used for backs and secondary panels.",
+    "strengths": [
+      "smooth surface",
+      "stable thin panels",
+      "good dimensional precision"
+    ],
+    "watchouts": [
+      "poor wet performance",
+      "weak exposed edges",
+      "limited screw holding in thin sections"
+    ],
+    "href": "/materials/hdf/"
+  },
+  {
+    "slug": "latex",
+    "label": "Latex",
+    "aliases": [],
+    "productTypes": [
+      "Toppers"
+    ],
+    "familyCount": 1,
+    "variantCount": 8,
+    "description": "Latex in furniture: Responsive, resilient and comparatively breathable for a foam material.",
+    "strengths": [
+      "springy resilience",
+      "good airflow",
+      "durable comfort layer"
+    ],
+    "watchouts": [
+      "heavier and costlier than standard foam",
+      "sensitive to UV and ozone",
+      "feel may be too buoyant for users who prefer deep sink-in comfort"
+    ],
+    "href": "/materials/latex/"
+  },
+  {
+    "slug": "mdf",
+    "label": "MDF",
+    "aliases": [],
+    "productTypes": [
+      "Coffee Tables",
+      "Dining Tables"
+    ],
+    "familyCount": 4,
+    "variantCount": 10,
+    "description": "MDF in furniture: Uniform, machinable and excellent for painted or veneered flat surfaces.",
+    "strengths": [
+      "smooth paint-ready face",
+      "easy machining",
+      "stable for decorative panels"
+    ],
+    "watchouts": [
+      "heavy for its strength",
+      "poor moisture tolerance",
+      "edge fasteners are not as strong as in plywood or solid wood"
+    ],
+    "href": "/materials/mdf/"
+  },
+  {
+    "slug": "memory-foam",
+    "label": "Memory foam",
+    "aliases": [],
+    "productTypes": [
+      "Divan Beds",
+      "Toppers"
+    ],
+    "familyCount": 1,
+    "variantCount": 9,
+    "description": "Memory foam in furniture: Conforms closely to the body and rebounds more slowly than standard foam.",
+    "strengths": [
+      "pressure relief",
+      "body-conforming comfort",
+      "useful in sleep-focused products"
+    ],
+    "watchouts": [
+      "warmer feel than springier foams",
+      "slow rebound is not for everyone",
+      "needs a supportive base beneath it"
+    ],
+    "href": "/materials/memory-foam/"
+  },
+  {
+    "slug": "metal",
+    "label": "Metal",
+    "aliases": [],
+    "productTypes": [
+      "4-Seater Sofas",
+      "Adjustable Beds",
+      "Cabinets Display",
+      "Continental Beds",
+      "Dining Chairs",
+      "Swivel Chairs"
+    ],
+    "familyCount": 5,
+    "variantCount": 43,
+    "description": "Metal in furniture: Strong, precise and well suited to slim structural parts.",
+    "strengths": [
+      "high structural strength",
+      "slim profiles",
+      "good dimensional accuracy"
+    ],
+    "watchouts": [
+      "finish and alloy matter",
+      "can feel cold or hot to touch",
+      "coating damage may expose corrosion risk on steel"
+    ],
+    "href": "/materials/metal/"
+  },
+  {
+    "slug": "mikrofiber",
+    "label": "Mikrofiber",
+    "aliases": [],
+    "productTypes": [
+      "Pillows"
+    ],
+    "familyCount": 1,
+    "variantCount": 1,
+    "description": "Mikrofiber in furniture: Evaluate it through structure, moisture tolerance, maintenance needs and how it supports the furniture's intended use.",
+    "strengths": [
+      "depends on placement in the product",
+      "should be read together with finish and substrate",
+      "can still add useful comfort or structure"
+    ],
+    "watchouts": [
+      "generic label hides exact formulation",
+      "maintenance depends on the full build",
+      "performance should be judged by the application, not the name alone"
+    ],
+    "href": "/materials/mikrofiber/"
+  },
+  {
+    "slug": "nonwood",
+    "label": "Nonwood",
+    "aliases": [],
+    "productTypes": [
+      "Outdoor Dining Chairs",
+      "Outdoor Dining Tables"
+    ],
+    "familyCount": 1,
+    "variantCount": 6,
+    "description": "Nonwood in furniture: Stable and low-maintenance compared with natural wood, but exact performance depends on the composite recipe.",
+    "strengths": [
+      "lower maintenance than timber",
+      "dimensionally stable look surfaces",
+      "often weather-friendly"
+    ],
+    "watchouts": [
+      "exact composition may vary",
+      "less repairable than wood",
+      "heat expansion and surface ageing depend on formulation"
+    ],
+    "href": "/materials/nonwood/"
+  },
+  {
+    "slug": "oak",
+    "label": "Oak",
+    "aliases": [],
+    "productTypes": [
+      "Bar Stools",
+      "Cabinets Display",
+      "Console Tables",
+      "Dining Chairs",
+      "Dining Tables",
+      "Fixed Armchairs"
+    ],
+    "familyCount": 6,
+    "variantCount": 15,
+    "description": "Oak in furniture: Strong, hard-wearing and visually expressive with open grain.",
+    "strengths": [
+      "high wear resistance",
+      "strong visible grain",
+      "good structural performance"
+    ],
+    "watchouts": [
+      "moves with humidity",
+      "tannin staining with iron and water",
+      "heavier than many softwoods"
+    ],
+    "href": "/materials/oak/"
+  },
+  {
+    "slug": "paper",
+    "label": "Paper",
+    "aliases": [],
+    "productTypes": [
+      "Coffee Tables"
+    ],
+    "familyCount": 3,
+    "variantCount": 5,
+    "description": "Paper in furniture: Lightweight and design-flexible, but heavily dependent on coating and substrate support.",
+    "strengths": [
+      "lightweight decorative potential",
+      "can create interesting woven or wrapped textures",
+      "efficient use of fibre material"
+    ],
+    "watchouts": [
+      "sensitive to moisture if the finish fails",
+      "not a heavy structural material",
+      "abrasion can reveal the substrate quickly"
+    ],
+    "href": "/materials/paper/"
+  },
+  {
+    "slug": "particle-board",
+    "label": "Particle board",
+    "aliases": [],
+    "productTypes": [
+      "3-Seater Sofas",
+      "Chaise Sofas",
+      "Continental Beds",
+      "Corner Sofas",
+      "Footstools"
+    ],
+    "familyCount": 3,
+    "variantCount": 47,
+    "description": "Particle board in furniture: Flat and economical, with acceptable bulk for hidden structures and faced panels.",
+    "strengths": [
+      "low cost",
+      "flat stable panels in dry interiors",
+      "efficient use of wood residue"
+    ],
+    "watchouts": [
+      "does not tolerate moisture well",
+      "edge screw holding is modest",
+      "swelling is often permanent once wet"
+    ],
+    "href": "/materials/particle-board/"
+  },
+  {
+    "slug": "pine",
+    "label": "Pine",
+    "aliases": [],
+    "productTypes": [
+      "Dining Tables"
+    ],
+    "familyCount": 1,
+    "variantCount": 3,
+    "description": "Pine in furniture: Light, warm-looking and easy to machine, but softer under impact.",
+    "strengths": [
+      "lightweight solid wood",
+      "warm natural expression",
+      "easy to machine and refinish"
+    ],
+    "watchouts": [
+      "dents more easily",
+      "knot movement and resin can influence finish",
+      "still moves with humidity"
+    ],
+    "href": "/materials/pine/"
+  },
+  {
+    "slug": "plastic",
+    "label": "Plastic",
+    "aliases": [],
+    "productTypes": [
+      "Outdoor Dining Chairs",
+      "Outdoor Dining Tables",
+      "Outdoor Lounge Sets"
+    ],
+    "familyCount": 2,
+    "variantCount": 5,
+    "description": "Plastic in furniture: Easy to shape, moisture proof and often lighter than metal or wood.",
+    "strengths": [
+      "lightweight",
+      "water resistant",
+      "shape flexibility"
+    ],
+    "watchouts": [
+      "heat and UV ageing",
+      "surface scratching",
+      "generic label does not reveal the exact polymer quality"
+    ],
+    "href": "/materials/plastic/"
+  },
+  {
+    "slug": "plywood",
+    "label": "Plywood",
+    "aliases": [],
+    "productTypes": [
+      "3-Seater Sofas",
+      "4-Seater Sofas",
+      "Armchairs",
+      "Chaise Sofas",
+      "Corner Sofas",
+      "Dining Chairs",
+      "Dining Tables",
+      "Fixed Armchairs",
+      "Footstools"
+    ],
+    "familyCount": 9,
+    "variantCount": 35,
+    "description": "Plywood in furniture: Stronger and more dimensionally stable than many fibre or particle boards.",
+    "strengths": [
+      "good strength-to-weight ratio",
+      "better screw holding than particle board",
+      "stable cross-laminated structure"
+    ],
+    "watchouts": [
+      "edge plies may show or splinter",
+      "quality varies by veneer grade and glue line",
+      "needs protection in prolonged wet exposure"
+    ],
+    "href": "/materials/plywood/"
+  },
+  {
+    "slug": "polyester",
+    "label": "Polyester",
+    "aliases": [],
+    "productTypes": [
+      "3-Seater Sofas",
+      "Chaise Sofas",
+      "Corner Sofas",
+      "Duvet & Pillow Sets",
+      "Duvets",
+      "Footstools",
+      "Gazebos & Pergolas",
+      "Mattress Protectors",
+      "Modular Sofas",
+      "Outdoor Dining Chairs",
+      "Outdoor Lounge Seating",
+      "Outdoor Lounge Sets",
+      "Pillows",
+      "Rugs",
+      "Swivel Chairs",
+      "Toppers"
+    ],
+    "familyCount": 26,
+    "variantCount": 105,
+    "description": "Polyester in furniture: Durable, low-absorbency and comparatively easy to maintain.",
+    "strengths": [
+      "good abrasion performance",
+      "fast drying",
+      "stable colour and shape"
+    ],
+    "watchouts": [
+      "less breathable than natural fibres",
+      "can build static",
+      "cheap variants may feel flat or shiny"
+    ],
+    "href": "/materials/polyester/"
+  },
+  {
+    "slug": "polypropylene",
+    "label": "Polypropylene",
+    "aliases": [],
+    "productTypes": [
+      "Rugs"
+    ],
+    "familyCount": 4,
+    "variantCount": 14,
+    "description": "Polypropylene in furniture: Light, stain resistant and highly moisture tolerant.",
+    "strengths": [
+      "excellent moisture resistance",
+      "good stain resistance",
+      "lightweight"
+    ],
+    "watchouts": [
+      "lower heat tolerance",
+      "can flatten in heavy traffic",
+      "feel is usually more practical than luxurious"
+    ],
+    "href": "/materials/polypropylene/"
+  },
+  {
+    "slug": "polyrattan",
+    "label": "Polyrattan",
+    "aliases": [],
+    "productTypes": [
+      "Outdoor Dining Chairs",
+      "Outdoor Dining Tables",
+      "Outdoor Lounge Seating",
+      "Outdoor Lounge Sets",
+      "Outdoor Sun Loungers"
+    ],
+    "familyCount": 2,
+    "variantCount": 7,
+    "description": "Polyrattan in furniture: Flexible, weather-oriented and visually lighter than solid panel furniture.",
+    "strengths": [
+      "outdoor-friendly woven look",
+      "good moisture tolerance",
+      "light visual footprint"
+    ],
+    "watchouts": [
+      "lifespan depends on UV grade",
+      "structural quality depends on hidden frame",
+      "strand brittleness can emerge with age"
+    ],
+    "href": "/materials/polyrattan/"
+  },
+  {
+    "slug": "silicate",
+    "label": "Silicate",
+    "aliases": [],
+    "productTypes": [
+      "Outdoor Dining Tables"
+    ],
+    "familyCount": 1,
+    "variantCount": 1,
+    "description": "Silicate in furniture: Hard, heat tolerant and visually crisp, with a dense mineral feel.",
+    "strengths": [
+      "hard wearing surface",
+      "good stain and heat resistance",
+      "premium stone-like expression"
+    ],
+    "watchouts": [
+      "edge brittleness",
+      "heavy construction",
+      "performance depends on support and handling"
+    ],
+    "href": "/materials/silicate/"
+  },
+  {
+    "slug": "solid-wood",
+    "label": "Solid wood",
+    "aliases": [],
+    "productTypes": [
+      "3-Seater Sofas",
+      "Armchairs",
+      "Chaise Sofas",
+      "Corner Sofas",
+      "Footstools"
+    ],
+    "familyCount": 2,
+    "variantCount": 16,
+    "description": "Solid wood in furniture: Load bearing, repairable and rich in natural grain variation.",
+    "strengths": [
+      "repairable and refinishable",
+      "strong natural character",
+      "good load-bearing potential"
+    ],
+    "watchouts": [
+      "moves with humidity",
+      "can crack if design ignores movement",
+      "quality varies by species and cut"
+    ],
+    "href": "/materials/solid-wood/"
+  },
+  {
+    "slug": "steel",
+    "label": "Steel",
+    "aliases": [],
+    "productTypes": [
+      "Adjustable Beds",
+      "Gazebos & Pergolas",
+      "Outdoor Lounge Seating",
+      "Outdoor Lounge Sets",
+      "Swivel Chairs"
+    ],
+    "familyCount": 7,
+    "variantCount": 15,
+    "description": "Steel in furniture: High stiffness and strength, excellent for thin load-bearing frames.",
+    "strengths": [
+      "high strength and stiffness",
+      "excellent for slim structures",
+      "good fatigue performance in quality builds"
+    ],
+    "watchouts": [
+      "can rust if the finish fails",
+      "heavier than aluminium",
+      "temperature-conductive hard feel"
+    ],
+    "href": "/materials/steel/"
+  },
+  {
+    "slug": "teak",
+    "label": "Teak",
+    "aliases": [],
+    "productTypes": [
+      "Outdoor Lounge Seating",
+      "Outdoor Sun Loungers"
+    ],
+    "familyCount": 1,
+    "variantCount": 2,
+    "description": "Teak in furniture: Evaluate it through structure, moisture tolerance, maintenance needs and how it supports the furniture's intended use.",
+    "strengths": [
+      "depends on placement in the product",
+      "should be read together with finish and substrate",
+      "can still add useful comfort or structure"
+    ],
+    "watchouts": [
+      "generic label hides exact formulation",
+      "maintenance depends on the full build",
+      "performance should be judged by the application, not the name alone"
+    ],
+    "href": "/materials/teak/"
+  },
+  {
+    "slug": "tencel",
+    "label": "Tencel",
+    "aliases": [],
+    "productTypes": [
+      "Mattress Protectors"
+    ],
+    "familyCount": 1,
+    "variantCount": 3,
+    "description": "Tencel in furniture: Evaluate it through structure, moisture tolerance, maintenance needs and how it supports the furniture's intended use.",
+    "strengths": [
+      "depends on placement in the product",
+      "should be read together with finish and substrate",
+      "can still add useful comfort or structure"
+    ],
+    "watchouts": [
+      "generic label hides exact formulation",
+      "maintenance depends on the full build",
+      "performance should be judged by the application, not the name alone"
+    ],
+    "href": "/materials/tencel/"
+  },
+  {
+    "slug": "terracotta",
+    "label": "Terracotta",
+    "aliases": [],
+    "productTypes": [
+      "Planters"
+    ],
+    "familyCount": 1,
+    "variantCount": 1,
+    "description": "Terracotta in furniture: Evaluate it through structure, moisture tolerance, maintenance needs and how it supports the furniture's intended use.",
+    "strengths": [
+      "depends on placement in the product",
+      "should be read together with finish and substrate",
+      "can still add useful comfort or structure"
+    ],
+    "watchouts": [
+      "generic label hides exact formulation",
+      "maintenance depends on the full build",
+      "performance should be judged by the application, not the name alone"
+    ],
+    "href": "/materials/terracotta/"
+  },
+  {
+    "slug": "textilene",
+    "label": "Textilene",
+    "aliases": [],
+    "productTypes": [
+      "Outdoor Lounge Sets"
+    ],
+    "familyCount": 1,
+    "variantCount": 2,
+    "description": "Textilene in furniture: Taut, quick drying and supportive without thick cushioning.",
+    "strengths": [
+      "quick drying",
+      "breathable",
+      "well suited to outdoor sling seating"
+    ],
+    "watchouts": [
+      "firmer comfort feel",
+      "quality depends on mesh tension and coating",
+      "can heat up in strong sun"
+    ],
+    "href": "/materials/textilene/"
+  },
+  {
+    "slug": "viscose",
+    "label": "Viscose",
+    "aliases": [],
+    "productTypes": [
+      "Rugs"
+    ],
+    "familyCount": 4,
+    "variantCount": 7,
+    "description": "Viscose in furniture: Soft, drapey and often slightly lustrous, with strong colour depth.",
+    "strengths": [
+      "soft lustrous finish",
+      "good colour richness",
+      "elevated decorative feel"
+    ],
+    "watchouts": [
+      "weaker when wet",
+      "shows pile and pressure marks",
+      "not the toughest high-traffic fibre on its own"
+    ],
+    "href": "/materials/viscose/"
+  },
+  {
+    "slug": "wood",
+    "label": "Wood",
+    "aliases": [],
+    "productTypes": [
+      "4-Seater Sofas",
+      "Adjustable Beds",
+      "Armchairs",
+      "Bed Frames",
+      "Chaise Sofas",
+      "Continental Beds",
+      "Corner Sofas",
+      "Divan Bed",
+      "Divan Beds",
+      "Side Tables"
+    ],
+    "familyCount": 11,
+    "variantCount": 89,
+    "description": "Wood in furniture: Warm, stiff and naturally variable in grain and tone.",
+    "strengths": [
+      "warm natural appearance",
+      "good structural versatility",
+      "repairable surface character"
+    ],
+    "watchouts": [
+      "species not specified",
+      "moves with humidity",
+      "surface can dent or dry out if neglected"
+    ],
+    "href": "/materials/wood/"
+  },
+  {
+    "slug": "wood-veneer",
+    "label": "Wood veneer",
+    "aliases": [],
+    "productTypes": [
+      "Cabinets Display",
+      "Chaise Sofas",
+      "Console Tables",
+      "Dining Tables"
+    ],
+    "familyCount": 4,
+    "variantCount": 6,
+    "description": "Wood veneer in furniture: Gives authentic wood grain with more stable panel geometry than solid timber alone.",
+    "strengths": [
+      "real wood appearance with panel stability",
+      "efficient use of premium timber",
+      "good for large flat surfaces"
+    ],
+    "watchouts": [
+      "thin repair margin",
+      "edges and corners chip more easily",
+      "core material still controls moisture tolerance"
+    ],
+    "href": "/materials/wood-veneer/"
+  },
+  {
+    "slug": "wool",
+    "label": "Wool",
+    "aliases": [],
+    "productTypes": [
+      "Rugs"
+    ],
+    "familyCount": 2,
+    "variantCount": 4,
+    "description": "Wool in furniture: Warm, springy and naturally textured, with good recovery under foot and hand.",
+    "strengths": [
+      "natural resilience",
+      "warm tactile comfort",
+      "premium matte texture"
+    ],
+    "watchouts": [
+      "can felt or shrink",
+      "requires fibre-aware cleaning",
+      "higher cost than commodity synthetics"
+    ],
+    "href": "/materials/wool/"
+  }
+]

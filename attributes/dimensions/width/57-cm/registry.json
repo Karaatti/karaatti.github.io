@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "57 cm",
+  "valueSlug": "57-cm",
+  "valueType": "measurement",
+  "numericValue": 57,
+  "unit": "cm",
+  "productTypes": [
+    "Footstools"
+  ],
+  "familyCount": 1,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/footstools/haley/202842_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/haley",
+      "familyTitle": "Haley",
+      "familySummary": "Compact upholstered footstool in Hevra fabric, available in selected neutral tones.",
+      "primaryImageUrl": "/products/footstools/haley/202842_1.avif",
+      "schemaCategory": "Footstools",
+      "variantCount": 4
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 57,
+        "max": 57,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "57 cm is a published width used across selected Nest & Living products. Common on Footstool."
+}

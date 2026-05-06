@@ -1,0 +1,29 @@
+[
+  {
+    "name": "foam-topper",
+    "label": "Foam topper",
+    "href": "/specifications/topper-types/foam-topper/",
+    "type": "dir",
+    "description": "Foam topper is a shared topper type used across the Nest & Living range. Common on Topper. Often paired with Foam.",
+    "familyCount": 3,
+    "variantCount": 23
+  },
+  {
+    "name": "latex-topper",
+    "label": "Latex topper",
+    "href": "/specifications/topper-types/latex-topper/",
+    "type": "dir",
+    "description": "Latex topper is a shared topper type used across the Nest & Living range. Common on Topper. Often paired with Latex.",
+    "familyCount": 1,
+    "variantCount": 8
+  },
+  {
+    "name": "memory-foam-topper",
+    "label": "Memory foam topper",
+    "href": "/specifications/topper-types/memory-foam-topper/",
+    "type": "dir",
+    "description": "Memory foam topper is a shared topper type used across the Nest & Living range. Common on Topper. Often paired with Memory foam.",
+    "familyCount": 1,
+    "variantCount": 8
+  }
+]

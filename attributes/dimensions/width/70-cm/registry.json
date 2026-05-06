@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "70 cm",
+  "valueSlug": "70-cm",
+  "valueType": "measurement",
+  "numericValue": 70,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Dining Tables"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206639_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/saarni",
+      "familyTitle": "Saarni",
+      "familySummary": "Outdoor dining table with aluminium frame and nonwood surface in a light Beige tone. Practical and easy to maintain.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206639_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 70,
+        "max": 70,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "70 cm is a published width used across selected Nest & Living products. Common on Outdoor Dining Table."
+}

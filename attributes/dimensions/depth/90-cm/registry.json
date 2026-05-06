@@ -1,0 +1,52 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "90 cm",
+  "valueSlug": "90-cm",
+  "valueType": "measurement",
+  "numericValue": 90,
+  "unit": "cm",
+  "productTypes": [
+    "3-Seater Sofas"
+  ],
+  "familyCount": 2,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/three-seater-sofas/westcoast/209110_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "A modern and practical 3-seater sofa with soft polyester upholstery in Beige, brown, or grey. Designed for everyday comfort and easy maintenance.",
+      "primaryImageUrl": "/products/three-seater-sofas/westcoast/209110_1.avif",
+      "schemaCategory": "3-Seater Sofas",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/sulo",
+      "familyTitle": "Sulo",
+      "familySummary": "A modern three-seater sofa in white corduroy with rounded armrests and a low backrest for relaxed seating.",
+      "primaryImageUrl": "/products/three-seater-sofas/sulo/202841_1.avif",
+      "schemaCategory": "3-Seater Sofas",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 90,
+        "max": 90,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "90 cm is a published depth used across selected Nest & Living products. Common on 3-Seater Sofa."
+}

@@ -1,0 +1,82 @@
+{
+  "label": "MDF",
+  "description": "MDF in furniture: Uniform, machinable and excellent for painted or veneered flat surfaces.",
+  "intro": "MDF appears across 4 product families and 10 options, especially on Coffee Tables and Dining Tables.",
+  "chemistry": [
+    "MDF is built from fine wood fibres and resin, pressed into a uniform sheet with no visible grain direction. That makes it very predictable to cut, rout and paint.",
+    "Its weakness is moisture. The fine fibre structure takes up water readily, especially at edges and drilled holes, and heavy panels can place extra stress on fasteners if the design is underbuilt."
+  ],
+  "furnitureUse": [
+    "Furniture makers use MDF when they want a crisp painted finish, shaped panel profile or veneered surface without the movement of solid wood.",
+    "It performs well indoors in dry rooms, especially for table tops, cabinet faces and decorative structures. It is less suitable where frequent wet cleaning, edge knocks or outdoor exposure are expected."
+  ],
+  "care": [
+    "Moisture and wear note: Standard MDF dislikes water; edges swell quickly if left unsealed.",
+    "Care note: Protect edges, avoid standing water and lift rather than drag heavy MDF furniture to reduce joint stress."
+  ],
+  "terminology": [],
+  "thermal": [
+    "MDF does not act like a thermal comfort layer. It usually feels more neutral than metal at touch, but its dense closed surface can still feel cool compared with padded upholstery.",
+    "Heat becomes relevant mainly through moisture plus expansion stress around paint films, edge sealing and joints, not because MDF would meaningfully store sleeper body heat."
+  ],
+  "recycling": [
+    "Finland-first sorting baseline: MDF furniture parts belong to municipal bulky-furniture or local treated-board acceptance, not to paper, cardboard or packaging collection.",
+    "If the board is painted, veneered or fixed to other materials, steer customers to municipal bulky-waste handling unless the local operator explicitly accepts separated MDF."
+  ],
+  "durability": [
+    "MDF can stay dimensionally tidy in dry indoor use, but its weak point is local damage. Once an edge swells or crumbles, repair quality is usually limited.",
+    "Daily wear usually shows up first at corners, drill points, kick zones and wet-cleaning exposure."
+  ],
+  "relatedSpecifications": [
+    "Paint-grade panel",
+    "Decorative routed panel",
+    "MDF core"
+  ],
+  "lifecycleRows": [
+    {
+      "label": "Recycling in Finland",
+      "value": "Use municipal bulky-furniture or treated-board handling unless the local operator separately accepts MDF."
+    },
+    {
+      "label": "Expected wear profile",
+      "value": "Good in dry interiors, with edge swelling and corner damage as the main durability risks."
+    },
+    {
+      "label": "Retail warranty note",
+      "value": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+    }
+  ],
+  "strengths": [
+    "smooth paint-ready face",
+    "easy machining",
+    "stable for decorative panels"
+  ],
+  "watchouts": [
+    "heavy for its strength",
+    "poor moisture tolerance",
+    "edge fasteners are not as strong as in plywood or solid wood"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Medium-density fibreboard"
+    },
+    {
+      "label": "Composition",
+      "value": "Fine wood fibres bonded with resin into a dense, smooth panel."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Uniform, machinable and excellent for painted or veneered flat surfaces."
+    },
+    {
+      "label": "Key strengths",
+      "value": "smooth paint-ready face, easy machining and stable for decorative panels"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "heavy for its strength, poor moisture tolerance and edge fasteners are not as strong as in plywood or solid wood"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

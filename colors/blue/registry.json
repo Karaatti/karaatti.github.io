@@ -1,0 +1,42 @@
+{
+  "label": "Blue",
+  "description": "Blue in interiors: Feels calm, slightly distant and airier than warm colours of equal depth.",
+  "intro": "Blue appears across 1 product family and 2 options, especially on Rugs.",
+  "theory": [
+    "Blue is a receding colour in most interiors, which is why it calms large forms and can make a piece feel visually lighter than the same object in orange or red.",
+    "Its biggest variable is saturation. Dusty blue reads almost neutral, while clean bright blue behaves like an accent and needs tighter editing around it."
+  ],
+  "palette": [
+    "For a quiet scheme, pair blue with beige, soft white and warm timber. That creates warm-cool balance without dramatic contrast.",
+    "For more energy, use the classic complementary idea: controlled blue with touches of rust, cognac or muted orange. Keep the warm note as an accent, not a second dominant field."
+  ],
+  "partners": [
+    "beige",
+    "white",
+    "warm oak",
+    "rust",
+    "camel"
+  ],
+  "profileRows": [
+    {
+      "label": "Colour role",
+      "value": "Cool stabilising colour"
+    },
+    {
+      "label": "Undertone",
+      "value": "Can range from greyed denim tones to clearer marine and petrol notes."
+    },
+    {
+      "label": "Visual effect",
+      "value": "Feels calm, slightly distant and airier than warm colours of equal depth."
+    },
+    {
+      "label": "Works well with",
+      "value": "beige, white, warm oak, rust and camel"
+    },
+    {
+      "label": "Balancing move",
+      "value": "Warm materials such as oak, cognac and sand stop blue interiors from turning cold."
+    }
+  ]
+}

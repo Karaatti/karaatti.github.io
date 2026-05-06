@@ -1,0 +1,53 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "220 cm",
+  "valueSlug": "220-cm",
+  "valueType": "measurement",
+  "numericValue": 220,
+  "unit": "cm",
+  "productTypes": [
+    "3-Seater Sofas",
+    "Outdoor Dining Tables"
+  ],
+  "familyCount": 2,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/outdoor-dining-tables/messina/195643_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/messina",
+      "familyTitle": "Messina",
+      "familySummary": "Messina dining table 220x100 cm provides a practical and elegant outdoor dining option. Its natural toned top and aluminium frame create a modern Scandinavian look. Suitable for garden, terrace or large balcony, it offers a spacious and low-maintenance surface.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/messina/195643_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/voyage",
+      "familyTitle": "Voyage",
+      "familySummary": "A spacious and comfortable 3-seater sofa with a solid wood frame and soft foam and feather cushioning. Available in white and green fabric upholstery.",
+      "primaryImageUrl": "/products/three-seater-sofas/voyage/208782_1.avif",
+      "schemaCategory": "3-Seater Sofas",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 220,
+        "max": 220,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "220 cm is a published width used across selected Nest & Living products. Common on 3-Seater Sofa and Outdoor Dining Table."
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Toppers",
+    "variantCount": 3
+  },
+  {
+    "name": "bilbao",
+    "href": "/families/bilbao/",
+    "type": "dir",
+    "title": "Bilbao",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "dozza",
+    "href": "/families/dozza/",
+    "type": "dir",
+    "title": "Dozza",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "lucca",
+    "href": "/families/lucca/",
+    "type": "dir",
+    "title": "Lucca",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/families/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Toppers",
+    "variantCount": 1
+  },
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Toppers",
+    "variantCount": 1
+  },
+  {
+    "name": "sevilla",
+    "href": "/families/sevilla/",
+    "type": "dir",
+    "title": "Sevilla",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  }
+]

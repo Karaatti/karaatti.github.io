@@ -1,0 +1,90 @@
+[
+  {
+    "name": "moon-gold",
+    "href": "/products/divan-beds/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Continental Beds and Divan Beds",
+    "variantCount": 44
+  },
+  {
+    "name": "moon-silver",
+    "href": "/products/divan-beds/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Adjustable Beds, Continental Beds and Divan Beds",
+    "variantCount": 17
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/products/adjustable-beds/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Adjustable Beds, Continental Beds and Divan Beds",
+    "variantCount": 11
+  },
+  {
+    "name": "heaven",
+    "href": "/products/four-seater-sofas/heaven/",
+    "type": "dir",
+    "title": "Heaven",
+    "schemaCategory": "4-Seater Sofas",
+    "variantCount": 6
+  },
+  {
+    "name": "aava",
+    "href": "/products/chaise-sofas/aava/",
+    "type": "dir",
+    "title": "Aava",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 2
+  },
+  {
+    "name": "cloud",
+    "href": "/products/corner-sofas/cloud/",
+    "type": "dir",
+    "title": "Cloud",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 2
+  },
+  {
+    "name": "haave",
+    "href": "/products/corner-sofas/haave/",
+    "type": "dir",
+    "title": "Haave",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 2
+  },
+  {
+    "name": "moonlit",
+    "href": "/products/bed-frames/moonlit/",
+    "type": "dir",
+    "title": "Moonlit",
+    "schemaCategory": "Bed Frames",
+    "variantCount": 2
+  },
+  {
+    "name": "casa",
+    "href": "/products/bed-frames/casa/",
+    "type": "dir",
+    "title": "Casa",
+    "schemaCategory": "Bed Frames",
+    "variantCount": 1
+  },
+  {
+    "name": "dove",
+    "href": "/products/armchairs/dove/",
+    "type": "dir",
+    "title": "Dove",
+    "schemaCategory": "Armchairs",
+    "variantCount": 1
+  },
+  {
+    "name": "swallow",
+    "href": "/products/side-tables/swallow/",
+    "type": "dir",
+    "title": "Swallow",
+    "schemaCategory": "Side Tables",
+    "variantCount": 1
+  }
+]

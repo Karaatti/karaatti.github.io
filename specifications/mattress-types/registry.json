@@ -1,0 +1,107 @@
+[
+  {
+    "group": "mattress-types",
+    "groupLabel": "Mattress types",
+    "slug": "memory-foam-mattress",
+    "label": "Memory foam mattress",
+    "aliases": [],
+    "productTypes": [
+      "Continental Beds",
+      "Divan Beds",
+      "Mattresses"
+    ],
+    "materials": [
+      {
+        "label": "Memory foam",
+        "href": "/materials/memory-foam/"
+      }
+    ],
+    "attributeSummaries": [],
+    "familyCount": 1,
+    "variantCount": 31,
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+    "usageEntries": [
+      {
+        "familyRelativeDir": "families/moon-gold",
+        "familyTitle": "Moon Gold",
+        "familySummary": "Divan bed with 7-zone pocket spring system offering firm support and ergonomic comfort. Available in various sizes and neutral tones.",
+        "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+        "schemaCategory": "Continental Beds, Divan Beds and Mattresses",
+        "variantCount": 31
+      }
+    ],
+    "summary": "Memory foam mattress is a shared mattress type used across the Nest & Living range. Common on Continental Bed, Divan Bed and Mattress. Often paired with Memory foam."
+  },
+  {
+    "group": "mattress-types",
+    "groupLabel": "Mattress types",
+    "slug": "pocket-spring-mattress",
+    "label": "Pocket spring mattress",
+    "aliases": [
+      "Pocket spring"
+    ],
+    "productTypes": [
+      "Adjustable Beds",
+      "Continental Beds",
+      "Divan Bed",
+      "Divan Beds",
+      "Mattresses"
+    ],
+    "materials": [
+      {
+        "label": "Metal",
+        "href": "/materials/metal/"
+      }
+    ],
+    "attributeSummaries": [
+      {
+        "key": "zoneCount",
+        "label": "Zone count",
+        "refs": [
+          {
+            "label": "1-zone",
+            "href": "/attributes/support/zone-count/1-zone/"
+          },
+          {
+            "label": "5-zone",
+            "href": "/attributes/support/zone-count/5-zone/"
+          },
+          {
+            "label": "7-zone",
+            "href": "/attributes/support/zone-count/7-zone/"
+          }
+        ]
+      }
+    ],
+    "familyCount": 3,
+    "variantCount": 82,
+    "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+    "usageEntries": [
+      {
+        "familyRelativeDir": "families/moon-gold",
+        "familyTitle": "Moon Gold",
+        "familySummary": "Divan bed with 7-zone pocket spring system offering firm support and ergonomic comfort. Available in various sizes and neutral tones.",
+        "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+        "schemaCategory": "Adjustable Beds, Continental Beds, Divan Beds and Mattresses",
+        "variantCount": 47
+      },
+      {
+        "familyRelativeDir": "families/moon-silver",
+        "familyTitle": "Moon Silver",
+        "familySummary": "Available sizes: 80 x 200 cm, 90 x 200 cm, 120 x 200 cm and 140 x 200 cm. Light grey Primo 84 upholstery, 5-zone pocket spring support and smoked ash cone legs. 4 active variants available.",
+        "primaryImageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_1.avif",
+        "schemaCategory": "Adjustable Beds, Continental Beds, Divan Beds and Mattresses",
+        "variantCount": 24
+      },
+      {
+        "familyRelativeDir": "families/moon-bronze",
+        "familyTitle": "Moon Bronze",
+        "familySummary": "A practical and stylish adjustable bed with a pocket spring base and tall smoked ash legs. Designed for comfort and easy maintenance.",
+        "primaryImageUrl": "/products/adjustable-beds/moon-bronze/moon_bronze_adjustable_bed_grey_1.avif",
+        "schemaCategory": "Adjustable Beds, Continental Beds and Divan Beds",
+        "variantCount": 11
+      }
+    ],
+    "summary": "Pocket spring mattress is a shared mattress type used across the Nest & Living range. Common on Adjustable Bed, Continental Bed, Divan Bed and Mattress. Often paired with Metal."
+  }
+]

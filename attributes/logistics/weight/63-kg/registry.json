@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "63 kg",
+  "valueSlug": "63-kg",
+  "valueType": "measurement",
+  "numericValue": 63,
+  "unit": "kg",
+  "productTypes": [
+    "Adjustable Beds",
+    "Continental Beds"
+  ],
+  "familyCount": 2,
+  "variantCount": 6,
+  "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+      "schemaCategory": "Adjustable Beds and Continental Beds",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "A practical and comfortable continental bed featuring 5-zone pocket springs for individual support. Available in grey or beige with high wooden legs for ease of cleaning.",
+      "primaryImageUrl": "/products/continental-beds/moon-silver/moon_silver_continental_bed_grey_1.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 63,
+        "max": 63,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "63 kg is a published weight used across selected Nest & Living products. Common on Adjustable Bed and Continental Bed."
+}

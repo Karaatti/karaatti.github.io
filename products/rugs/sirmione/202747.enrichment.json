@@ -1,0 +1,271 @@
+{
+  "sku": "202747",
+  "displayName": "Sirmione Rug, Green, 200 x 290 cm",
+  "metaTitle": "Sirmione Rug, Green, 200 x 290 cm - NEST & LIVING",
+  "metaDescription": "Green rug made of polyester and cotton, size 200 x 290 cm.",
+  "ogTitle": "Sirmione Rug, Green, 200 x 290 cm",
+  "ogDescription": "Green rug made of polyester and cotton, size 200 x 290 cm.",
+  "shortDescription": "Green rug made of polyester and cotton, size 200 x 290 cm.",
+  "familyDescription": "The Sirmione rug offers a subtle textured pattern that adds gentle rhythm and structure to a room. Its cool green and beige tones bring a natural softness that complements Scandinavian interiors. The rug is comfortable underfoot and features a non-slip backing for everyday use.",
+  "schemaCategory": "Rugs",
+  "selectionAttributes": {
+    "dimensions": "200 x 290 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Green",
+    "material": "Polyester, Cotton"
+  },
+  "attributes": [
+    {
+      "key": "cleaningMethod",
+      "label": "Cleaning method",
+      "group": "care",
+      "groupLabel": "Care",
+      "value": "Water wash",
+      "valueSlug": "water-wash",
+      "rawValue": "vesipesu",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Ominaisuudet",
+      "sourceLabel": "Puhdistustapa",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "200 cm",
+      "valueSlug": "200-cm",
+      "rawValue": "200 cm",
+      "valueType": "enum",
+      "numericValue": 200,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "290 cm",
+      "valueSlug": "290-cm",
+      "rawValue": "290 cm",
+      "valueType": "enum",
+      "numericValue": 290,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "2 cm",
+      "valueSlug": "2-cm",
+      "rawValue": "2 cm",
+      "valueType": "enum",
+      "numericValue": 2,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "8.5 kg",
+      "valueSlug": "8-5-kg",
+      "rawValue": "8.5 kg",
+      "valueType": "enum",
+      "numericValue": 8.5,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.06 m³",
+      "valueSlug": "0-06-m3",
+      "rawValue": "0.06 m³",
+      "valueType": "enum",
+      "numericValue": 0.06,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "8.7 kg",
+      "valueSlug": "8-7-kg",
+      "rawValue": "8.7 kg",
+      "valueType": "enum",
+      "numericValue": 8.7,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Polyester, Cotton",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Green",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/green/\">Green</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Polyester, Cotton",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/polyester/\">Polyester</a><a class=\"spec-link-chip\" href=\"/materials/cotton/\">Cotton</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "200 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/200-cm/\">200 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "290 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "290 cm",
+          "href": "/attributes/dimensions/depth/290-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/290-cm/\">290 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "2 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "2 cm",
+          "href": "/attributes/dimensions/height/2-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/2-cm/\">2 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "8.5 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "8.5 kg",
+          "href": "/attributes/logistics/weight/8-5-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/8-5-kg/\">8.5 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/rugs/sirmione/202747_1.avif",
+  "imageUrls": [
+    "/products/rugs/sirmione/202747_1.avif",
+    "/products/rugs/sirmione/202747_2.avif",
+    "/products/rugs/sirmione/202747_3.avif",
+    "/products/rugs/sirmione/202747_4.jpg",
+    "/products/rugs/sirmione/202747_5.jpg"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/202747"
+}

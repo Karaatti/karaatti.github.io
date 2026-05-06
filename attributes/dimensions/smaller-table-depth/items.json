@@ -1,0 +1,14 @@
+[
+  {
+    "name": "40-cm",
+    "label": "40 cm",
+    "href": "/attributes/dimensions/smaller-table-depth/40-cm/",
+    "type": "dir",
+    "description": "40 cm is a published smaller table depth used across selected Nest & Living products. Common on Coffee Table.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 40,
+    "unit": "cm"
+  }
+]

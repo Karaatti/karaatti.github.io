@@ -1,0 +1,44 @@
+{
+  "group": "load",
+  "groupLabel": "Load",
+  "attributeKey": "maximumLoad",
+  "attributeLabel": "Maximum load",
+  "value": "30 kg",
+  "valueSlug": "30-kg",
+  "valueType": "measurement",
+  "numericValue": 30,
+  "unit": "kg",
+  "productTypes": [
+    "Console Tables"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/oak",
+      "familyTitle": "Oak",
+      "familySummary": "Oak console table in natural oak veneer offers a modern Scandinavian look for living rooms, hallways or offices. The warm brown tone creates a cozy atmosphere. Two integrated drawers provide practical storage. A versatile and durable piece that complements the home.",
+      "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+      "schemaCategory": "Console Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 30,
+        "max": 30,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "30 kg is a published maximum load used across selected Nest & Living products. Common on Console Table."
+}

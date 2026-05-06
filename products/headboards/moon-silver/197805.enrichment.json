@@ -1,0 +1,295 @@
+{
+  "sku": "197805",
+  "displayName": "Moon Silver Headboard, Black, Grey, 120 cm",
+  "metaTitle": "Moon Silver Headboard, Black, Grey, 120 cm - NEST & LIVING",
+  "metaDescription": "120 cm wide headboard in anthracite fabric with three rows of buttons.",
+  "ogTitle": "Moon Silver Headboard, Black, Grey, 120 cm",
+  "ogDescription": "120 cm wide headboard in anthracite fabric with three rows of buttons.",
+  "shortDescription": "120 cm wide headboard in anthracite fabric with three rows of buttons.",
+  "familyDescription": "The Moon Silver headboard brings a calm and refined atmosphere to the bedroom while offering sturdy support for the bed. Its buttoned fabric surface is breathable and creates a sophisticated textured look. The padded lower edge protects the wall and adds comfort. Made with durable, high-quality fabric, the headboard maintains its shape and is easy to keep clean.",
+  "schemaCategory": "Headboards",
+  "selectionAttributes": {
+    "dimensions": "120 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Black, Grey",
+    "material": "Fabric"
+  },
+  "attributes": [
+    {
+      "key": "headboardIncluded",
+      "label": "Headboard included",
+      "group": "accessories",
+      "groupLabel": "Included components",
+      "value": "Yes",
+      "valueSlug": "yes",
+      "rawValue": "Moon Silver pääty, napit kolmessa rivissä",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Patjan tiedot",
+      "sourceLabel": "Sängynpääty",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "120 cm",
+      "valueSlug": "120-cm",
+      "rawValue": "120 cm",
+      "valueType": "enum",
+      "numericValue": 120,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "7 cm",
+      "valueSlug": "7-cm",
+      "rawValue": "7 cm",
+      "valueType": "enum",
+      "numericValue": 7,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "130 cm",
+      "valueSlug": "130-cm",
+      "rawValue": "130 cm",
+      "valueType": "enum",
+      "numericValue": 130,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "21 kg",
+      "valueSlug": "21-kg",
+      "rawValue": "21 kg",
+      "valueType": "enum",
+      "numericValue": 21,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "priceGuarantee",
+      "label": "Price guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "30 days",
+      "valueSlug": "30-days",
+      "rawValue": "30 päivää",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Hintatakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.15 m³",
+      "valueSlug": "0-15-m3",
+      "rawValue": "0.15 m³",
+      "valueType": "enum",
+      "numericValue": 0.15,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "17 kg",
+      "valueSlug": "17-kg",
+      "rawValue": "17 kg",
+      "valueType": "enum",
+      "numericValue": 17,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [
+    {
+      "key": "headboardType",
+      "label": "Headboard type",
+      "group": "headboard-types",
+      "groupLabel": "Headboard types",
+      "specLabel": "Moon Silver headboard, buttons in three rows",
+      "specSlug": "moon-silver-headboard-buttons-in-three-rows",
+      "rawValue": "Moon Silver pääty, napit kolmessa rivissä",
+      "materials": [],
+      "materialRoleLabel": "",
+      "attributes": [],
+      "sourceSection": "Patjan tiedot",
+      "sourceLabel": "Sängynpääty",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "materialSpecifications": [],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Black, Grey",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/black/\">Black</a><a class=\"spec-link-chip\" href=\"/colors/grey/\">Grey</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Fabric",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/fabric/\">Fabric</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "120 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "120 cm",
+          "href": "/attributes/dimensions/width/120-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/120-cm/\">120 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "7 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "7 cm",
+          "href": "/attributes/dimensions/depth/7-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/7-cm/\">7 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "130 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "130 cm",
+          "href": "/attributes/dimensions/height/130-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/130-cm/\">130 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "21 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "21 kg",
+          "href": "/attributes/logistics/weight/21-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/21-kg/\">21 kg</a></span>"
+    },
+    {
+      "label": "Colors",
+      "value": "Black, Grey",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/black/\">Black</a><a class=\"spec-link-chip\" href=\"/colors/grey/\">Grey</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+  "imageUrls": [
+    "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+    "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.avif",
+    "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.jpg",
+    "/products/headboards/moon-silver/197805_1.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/197805"
+}

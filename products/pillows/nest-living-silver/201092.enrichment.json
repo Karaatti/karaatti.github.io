@@ -1,0 +1,223 @@
+{
+  "sku": "201092",
+  "displayName": "Nest & Living Silver Pillow, 62 x 52 x 15 cm",
+  "metaTitle": "Nest & Living Silver Pillow, 62 x 52 x 15 cm - NEST & LIVING",
+  "metaDescription": "Box pillow with extra loft and supportive fill for everyday bedroom comfort.",
+  "ogTitle": "Nest & Living Silver Pillow, 62 x 52 x 15 cm",
+  "ogDescription": "Box pillow with extra loft and supportive fill for everyday bedroom comfort.",
+  "shortDescription": "Box pillow with extra loft and supportive fill for everyday bedroom comfort.",
+  "familyDescription": "Pillows for everyday bedroom comfort, including classic and box pillow options.",
+  "schemaCategory": "Pillows",
+  "selectionAttributes": {
+    "dimensions": "62 x 52 x 15 cm",
+    "handedness": "",
+    "comfortType": "Box pillow",
+    "color": "",
+    "material": "Polyester, Cotton"
+  },
+  "attributes": [
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 kg",
+      "valueSlug": "1-kg",
+      "rawValue": "1 kg",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "cleaningMethod",
+      "label": "Cleaning method",
+      "group": "care",
+      "groupLabel": "Care",
+      "value": "Water wash",
+      "valueSlug": "water-wash",
+      "rawValue": "vesipesu",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Ominaisuudet",
+      "sourceLabel": "Puhdistustapa",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "priceGuarantee",
+      "label": "Price guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "30 days",
+      "valueSlug": "30-days",
+      "rawValue": "30 päivää",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Hintatakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "62 cm",
+      "valueSlug": "62-cm",
+      "rawValue": "62 cm",
+      "valueType": "enum",
+      "numericValue": 62,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "52 cm",
+      "valueSlug": "52-cm",
+      "rawValue": "52 cm",
+      "valueType": "enum",
+      "numericValue": 52,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "15 cm",
+      "valueSlug": "15-cm",
+      "rawValue": "15 cm",
+      "valueType": "enum",
+      "numericValue": 15,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Polyester, Cotton",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "White",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/white/\">White</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Polyester, Cotton",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/polyester/\">Polyester</a><a class=\"spec-link-chip\" href=\"/materials/cotton/\">Cotton</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "62 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "62 cm",
+          "href": "/attributes/dimensions/width/62-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/62-cm/\">62 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "52 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "52 cm",
+          "href": "/attributes/dimensions/depth/52-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/52-cm/\">52 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "15 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/15-cm/\">15 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "1 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/1-kg/\">1 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/pillows/nest-living-silver/201092_1.jpg",
+  "imageUrls": [
+    "/products/pillows/nest-living-silver/201092_1.jpg",
+    "/products/pillows/nest-living-silver/201092_2.jpg"
+  ],
+  "retailerUrl": ""
+}

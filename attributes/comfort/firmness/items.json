@@ -1,0 +1,26 @@
+[
+  {
+    "name": "firm",
+    "label": "Firm",
+    "href": "/attributes/comfort/firmness/firm/",
+    "type": "dir",
+    "description": "Firm is a published firmness option used across selected Nest & Living products. Common on Adjustable Bed, Continental Bed and Divan Bed.",
+    "familyCount": 1,
+    "variantCount": 50,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  },
+  {
+    "name": "medium-firm",
+    "label": "Medium firm",
+    "href": "/attributes/comfort/firmness/medium-firm/",
+    "type": "dir",
+    "description": "Medium firm is a published firmness option used across selected Nest & Living products. Common on Adjustable Bed, Continental Bed and Divan Bed.",
+    "familyCount": 2,
+    "variantCount": 28,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  }
+]

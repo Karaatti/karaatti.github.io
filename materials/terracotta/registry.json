@@ -1,0 +1,75 @@
+{
+  "label": "Terracotta",
+  "description": "Terracotta in furniture: Evaluate it through structure, moisture tolerance, maintenance needs and how it supports the furniture's intended use.",
+  "intro": "Terracotta appears across 1 product family and 1 option, especially on Planters.",
+  "chemistry": [
+    "Terracotta should be understood through its base family: fibre, polymer, metal, mineral or wood-derived material. That base family decides how it reacts to humidity, heat, abrasion and load.",
+    "In furniture, material value is not only chemistry but placement. The same material can succeed as a hidden support layer and fail as an exposed wet-surface edge."
+  ],
+  "furnitureUse": [
+    "A good specification looks at where the material sits in the build, how the user touches it and whether it needs to carry weight, resist spills or simply deliver texture and comfort.",
+    "When the retail label stays generic, the safest reading is to treat the material as part of a wider furniture system rather than as a full performance promise on its own."
+  ],
+  "care": [
+    "Moisture and wear note: Moisture tolerance depends on whether the material is a metal, polymer, textile, mineral or wood-derived component.",
+    "Care note: Use gentle cleaning first and check whether the surface is structural, decorative or comfort-focused."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [
+    "Finland-first sorting baseline: prioritise reuse first, then municipal bulky-furniture handling if the material is part of a full product and cannot be separated cleanly.",
+    "If the exact composition is unclear, avoid promising a dedicated recycling stream. Direct the customer to local municipal instructions before naming a bin."
+  ],
+  "durability": [
+    "Expected wear depends on where the material sits in the build and what substrate, coating or support layers sit around it.",
+    "A generic retail label should be treated as a clue to the material family, not as a full long-term durability guarantee."
+  ],
+  "relatedSpecifications": [],
+  "lifecycleRows": [
+    {
+      "label": "Recycling in Finland",
+      "value": "Prioritise reuse first and then use municipal bulky-furniture handling unless the local operator clearly publishes a dedicated stream."
+    },
+    {
+      "label": "Expected wear profile",
+      "value": "Evaluate wear through the full build, substrate and support structure, not the generic label alone."
+    },
+    {
+      "label": "Retail warranty note",
+      "value": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+    }
+  ],
+  "strengths": [
+    "depends on placement in the product",
+    "should be read together with finish and substrate",
+    "can still add useful comfort or structure"
+  ],
+  "watchouts": [
+    "generic label hides exact formulation",
+    "maintenance depends on the full build",
+    "performance should be judged by the application, not the name alone"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Furniture material"
+    },
+    {
+      "label": "Composition",
+      "value": "Material-specific composition varies by manufacturer and product construction."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Evaluate it through structure, moisture tolerance, maintenance needs and how it supports the furniture's intended use."
+    },
+    {
+      "label": "Key strengths",
+      "value": "depends on placement in the product, should be read together with finish and substrate and can still add useful comfort or structure"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "generic label hides exact formulation, maintenance depends on the full build and performance should be judged by the application, not the name alone"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

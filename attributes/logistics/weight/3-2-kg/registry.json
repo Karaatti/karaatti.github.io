@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "3.2 kg",
+  "valueSlug": "3-2-kg",
+  "valueType": "measurement",
+  "numericValue": 3.2,
+  "unit": "kg",
+  "productTypes": [
+    "Continental Beds",
+    "Toppers"
+  ],
+  "familyCount": 2,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Continental bed with 7-zone pocket spring system providing ergonomic support. Available in beige or grey upholstery with a choice of sizes.",
+      "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+      "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
+      "schemaCategory": "Toppers",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 3.2,
+        "max": 3.2,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "3.2 kg is a published weight used across selected Nest & Living products. Common on Continental Bed and Topper."
+}

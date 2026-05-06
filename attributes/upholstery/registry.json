@@ -1,0 +1,519 @@
+[
+  {
+    "attributeKey": "lightfastness",
+    "attributeLabel": "Lightfastness",
+    "entries": [
+      {
+        "group": "upholstery",
+        "groupLabel": "Upholstery",
+        "attributeKey": "lightfastness",
+        "attributeLabel": "Lightfastness",
+        "value": "4",
+        "valueSlug": "4",
+        "valueType": "measurement",
+        "numericValue": 4,
+        "unit": "",
+        "productTypes": [
+          "3-Seater Sofas",
+          "4-Seater Sofas",
+          "Chaise Sofas",
+          "Corner Sofas",
+          "Footstools",
+          "Modular Sofas",
+          "Swivel Chairs"
+        ],
+        "familyCount": 7,
+        "variantCount": 58,
+        "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/westcoast",
+            "familyTitle": "Westcoast",
+            "familySummary": "Compact footstool with a soft polyester cover and metal legs. Available in Beige, brown and grey.",
+            "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+            "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and Sofa Accessories and 1 more",
+            "variantCount": 33
+          },
+          {
+            "familyRelativeDir": "families/lugo",
+            "familyTitle": "Lugo",
+            "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+            "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+            "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+            "variantCount": 12
+          },
+          {
+            "familyRelativeDir": "families/heaven",
+            "familyTitle": "Heaven",
+            "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+            "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+            "schemaCategory": "4-Seater Sofas",
+            "variantCount": 6
+          },
+          {
+            "familyRelativeDir": "families/blow",
+            "familyTitle": "Blow",
+            "familySummary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+            "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+            "schemaCategory": "Swivel Chairs",
+            "variantCount": 2
+          },
+          {
+            "familyRelativeDir": "families/cloud",
+            "familyTitle": "Cloud",
+            "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+            "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 2
+          },
+          {
+            "familyRelativeDir": "families/haave",
+            "familyTitle": "Haave",
+            "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+            "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 2
+          },
+          {
+            "familyRelativeDir": "families/bay",
+            "familyTitle": "Bay",
+            "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+            "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+            "schemaCategory": "Swivel Chairs",
+            "variantCount": 1
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            ""
+          ],
+          "ranges": [
+            {
+              "unit": "",
+              "min": 4,
+              "max": 4,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "4 is a published lightfastness used across selected Nest & Living products. Common on 3-Seater Sofa, 4-Seater Sofa, Chaise Sofa, Corner Sofa, Footstool and Modular Sofa and 1 more."
+      },
+      {
+        "group": "upholstery",
+        "groupLabel": "Upholstery",
+        "attributeKey": "lightfastness",
+        "attributeLabel": "Lightfastness",
+        "value": "5",
+        "valueSlug": "5",
+        "valueType": "measurement",
+        "numericValue": 5,
+        "unit": "",
+        "productTypes": [
+          "Swivel Chairs"
+        ],
+        "familyCount": 2,
+        "variantCount": 4,
+        "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/breeze",
+            "familyTitle": "Breeze",
+            "familySummary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
+            "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+            "schemaCategory": "Swivel Chairs",
+            "variantCount": 2
+          },
+          {
+            "familyRelativeDir": "families/wind",
+            "familyTitle": "Wind",
+            "familySummary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+            "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+            "schemaCategory": "Swivel Chairs",
+            "variantCount": 2
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            ""
+          ],
+          "ranges": [
+            {
+              "unit": "",
+              "min": 5,
+              "max": 5,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "5 is a published lightfastness used across selected Nest & Living products. Common on Swivel Chair."
+      }
+    ],
+    "familyCount": 9,
+    "variantCount": 62,
+    "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        ""
+      ],
+      "ranges": [
+        {
+          "unit": "",
+          "min": 4,
+          "max": 5,
+          "count": 2,
+          "distinctCount": 2
+        }
+      ]
+    },
+    "valueType": "measurement"
+  },
+  {
+    "attributeKey": "martindale",
+    "attributeLabel": "Martindale",
+    "entries": [
+      {
+        "group": "upholstery",
+        "groupLabel": "Upholstery",
+        "attributeKey": "martindale",
+        "attributeLabel": "Martindale",
+        "value": "120,000 Martindale",
+        "valueSlug": "120-000-martindale",
+        "valueType": "measurement",
+        "numericValue": 120000,
+        "unit": "Martindale",
+        "productTypes": [
+          "3-Seater Sofas",
+          "Chaise Sofas",
+          "Corner Sofas",
+          "Footstools",
+          "Modular Sofas"
+        ],
+        "familyCount": 1,
+        "variantCount": 33,
+        "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/westcoast",
+            "familyTitle": "Westcoast",
+            "familySummary": "Compact footstool with a soft polyester cover and metal legs. Available in Beige, brown and grey.",
+            "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+            "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and Sofa Accessories and 1 more",
+            "variantCount": 33
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "Martindale"
+          ],
+          "ranges": [
+            {
+              "unit": "Martindale",
+              "min": 120000,
+              "max": 120000,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "120,000 Martindale is a published martindale used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa, Corner Sofa, Footstool and Modular Sofa."
+      },
+      {
+        "group": "upholstery",
+        "groupLabel": "Upholstery",
+        "attributeKey": "martindale",
+        "attributeLabel": "Martindale",
+        "value": "30,000 Martindale",
+        "valueSlug": "30-000-martindale",
+        "valueType": "measurement",
+        "numericValue": 30000,
+        "unit": "Martindale",
+        "productTypes": [
+          "3-Seater Sofas",
+          "Chaise Sofas",
+          "Corner Sofas",
+          "Footstools"
+        ],
+        "familyCount": 1,
+        "variantCount": 12,
+        "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/lugo",
+            "familyTitle": "Lugo",
+            "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+            "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+            "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+            "variantCount": 12
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "Martindale"
+          ],
+          "ranges": [
+            {
+              "unit": "Martindale",
+              "min": 30000,
+              "max": 30000,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "30,000 Martindale is a published martindale used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa, Corner Sofa and Footstool."
+      },
+      {
+        "group": "upholstery",
+        "groupLabel": "Upholstery",
+        "attributeKey": "martindale",
+        "attributeLabel": "Martindale",
+        "value": "40,000 Martindale",
+        "valueSlug": "40-000-martindale",
+        "valueType": "measurement",
+        "numericValue": 40000,
+        "unit": "Martindale",
+        "productTypes": [
+          "Corner Sofas"
+        ],
+        "familyCount": 1,
+        "variantCount": 2,
+        "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/haave",
+            "familyTitle": "Haave",
+            "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+            "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 2
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "Martindale"
+          ],
+          "ranges": [
+            {
+              "unit": "Martindale",
+              "min": 40000,
+              "max": 40000,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "40,000 Martindale is a published martindale used across selected Nest & Living products. Common on Corner Sofa."
+      }
+    ],
+    "familyCount": 3,
+    "variantCount": 47,
+    "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+    "numericFilter": {
+      "numericEntryCount": 3,
+      "unitCount": 1,
+      "units": [
+        "Martindale"
+      ],
+      "ranges": [
+        {
+          "unit": "Martindale",
+          "min": 30000,
+          "max": 120000,
+          "count": 3,
+          "distinctCount": 3
+        }
+      ]
+    },
+    "valueType": "measurement"
+  },
+  {
+    "attributeKey": "pilling",
+    "attributeLabel": "Pilling",
+    "entries": [
+      {
+        "group": "upholstery",
+        "groupLabel": "Upholstery",
+        "attributeKey": "pilling",
+        "attributeLabel": "Pilling",
+        "value": "3.5",
+        "valueSlug": "3-5",
+        "valueType": "measurement",
+        "numericValue": 3.5,
+        "unit": "",
+        "productTypes": [
+          "Corner Sofas"
+        ],
+        "familyCount": 1,
+        "variantCount": 2,
+        "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/cloud",
+            "familyTitle": "Cloud",
+            "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+            "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 2
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            ""
+          ],
+          "ranges": [
+            {
+              "unit": "",
+              "min": 3.5,
+              "max": 3.5,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "3.5 is a published pilling used across selected Nest & Living products. Common on Corner Sofa."
+      },
+      {
+        "group": "upholstery",
+        "groupLabel": "Upholstery",
+        "attributeKey": "pilling",
+        "attributeLabel": "Pilling",
+        "value": "4",
+        "valueSlug": "4",
+        "valueType": "measurement",
+        "numericValue": 4,
+        "unit": "",
+        "productTypes": [
+          "3-Seater Sofas",
+          "4-Seater Sofas",
+          "Chaise Sofas",
+          "Corner Sofas",
+          "Footstools",
+          "Modular Sofas",
+          "Swivel Chairs"
+        ],
+        "familyCount": 8,
+        "variantCount": 60,
+        "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/westcoast",
+            "familyTitle": "Westcoast",
+            "familySummary": "Compact footstool with a soft polyester cover and metal legs. Available in Beige, brown and grey.",
+            "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+            "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and Sofa Accessories and 1 more",
+            "variantCount": 33
+          },
+          {
+            "familyRelativeDir": "families/lugo",
+            "familyTitle": "Lugo",
+            "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+            "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+            "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+            "variantCount": 12
+          },
+          {
+            "familyRelativeDir": "families/heaven",
+            "familyTitle": "Heaven",
+            "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+            "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+            "schemaCategory": "4-Seater Sofas",
+            "variantCount": 6
+          },
+          {
+            "familyRelativeDir": "families/blow",
+            "familyTitle": "Blow",
+            "familySummary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+            "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+            "schemaCategory": "Swivel Chairs",
+            "variantCount": 2
+          },
+          {
+            "familyRelativeDir": "families/breeze",
+            "familyTitle": "Breeze",
+            "familySummary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
+            "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+            "schemaCategory": "Swivel Chairs",
+            "variantCount": 2
+          },
+          {
+            "familyRelativeDir": "families/haave",
+            "familyTitle": "Haave",
+            "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+            "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 2
+          },
+          {
+            "familyRelativeDir": "families/wind",
+            "familyTitle": "Wind",
+            "familySummary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+            "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+            "schemaCategory": "Swivel Chairs",
+            "variantCount": 2
+          },
+          {
+            "familyRelativeDir": "families/bay",
+            "familyTitle": "Bay",
+            "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+            "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+            "schemaCategory": "Swivel Chairs",
+            "variantCount": 1
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            ""
+          ],
+          "ranges": [
+            {
+              "unit": "",
+              "min": 4,
+              "max": 4,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "4 is a published pilling used across selected Nest & Living products. Common on 3-Seater Sofa, 4-Seater Sofa, Chaise Sofa, Corner Sofa, Footstool and Modular Sofa and 1 more."
+      }
+    ],
+    "familyCount": 9,
+    "variantCount": 62,
+    "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        ""
+      ],
+      "ranges": [
+        {
+          "unit": "",
+          "min": 3.5,
+          "max": 4,
+          "count": 2,
+          "distinctCount": 2
+        }
+      ]
+    },
+    "valueType": "measurement"
+  }
+]

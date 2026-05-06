@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.76 m³",
+  "valueSlug": "0-76-m3",
+  "valueType": "measurement",
+  "numericValue": 0.76,
+  "unit": "m³",
+  "productTypes": [
+    "Mattresses"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Comfortable mattress with 7-zone pocket springs or memory foam, available in beige or anthracite and various sizes.",
+      "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+      "schemaCategory": "Mattresses",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.76,
+        "max": 0.76,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.76 m³ is a published volume used across selected Nest & Living products. Common on Mattress."
+}

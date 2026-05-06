@@ -1,0 +1,328 @@
+[
+  {
+    "name": "westcoast",
+    "href": "/products/corner-sofas/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 6,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "hike",
+    "href": "/products/decorative-cushions/hike/",
+    "type": "dir",
+    "title": "Hike Decorative Cushion",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 3,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "eagle",
+    "href": "/products/armchairs/eagle/",
+    "type": "dir",
+    "title": "Eagle Fixed Armchair",
+    "schemaCategory": "Armchairs",
+    "variantCount": 2,
+    "displayColors": [
+      "Brown",
+      "Beige"
+    ]
+  },
+  {
+    "name": "haley",
+    "href": "/products/decorative-cushions/haley/",
+    "type": "dir",
+    "title": "Haley Decorative Cushion",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 2,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "heaven",
+    "href": "/products/four-seater-sofas/heaven/",
+    "type": "dir",
+    "title": "Heaven",
+    "schemaCategory": "4-Seater Sofas",
+    "variantCount": 2,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "lyra",
+    "href": "/products/rugs/lyra/",
+    "type": "dir",
+    "title": "Lyra",
+    "schemaCategory": "Rugs",
+    "variantCount": 2,
+    "displayColors": [
+      "Brown",
+      "Beige",
+      "Orange"
+    ]
+  },
+  {
+    "name": "metz",
+    "href": "/products/dining-tables/metz/",
+    "type": "dir",
+    "title": "Metz",
+    "schemaCategory": "Dining Tables",
+    "variantCount": 2,
+    "displayColors": [
+      "Brown",
+      "Beige"
+    ]
+  },
+  {
+    "name": "westcoast",
+    "href": "/products/chaise-sofas/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 2,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "bow",
+    "href": "/products/dining-chairs/bow/",
+    "type": "dir",
+    "title": "Bow",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "breeze",
+    "href": "/products/swivel-chairs/breeze/",
+    "type": "dir",
+    "title": "Breeze",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "dove",
+    "href": "/products/armchairs/dove/",
+    "type": "dir",
+    "title": "Dove",
+    "schemaCategory": "Armchairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown",
+      "Beige"
+    ]
+  },
+  {
+    "name": "haley",
+    "href": "/products/footstools/haley/",
+    "type": "dir",
+    "title": "Haley Footstool",
+    "schemaCategory": "Footstools",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "haven",
+    "href": "/products/outdoor-dining-chairs/haven/",
+    "type": "dir",
+    "title": "Haven",
+    "schemaCategory": "Outdoor Dining Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "haven",
+    "href": "/products/outdoor-dining-tables/haven/",
+    "type": "dir",
+    "title": "Haven",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "haven",
+    "href": "/products/outdoor-lounge-seating/haven/",
+    "type": "dir",
+    "title": "Haven",
+    "schemaCategory": "Outdoor Lounge Seating",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "haven",
+    "href": "/products/outdoor-lounge-sets/haven/",
+    "type": "dir",
+    "title": "Haven",
+    "schemaCategory": "Outdoor Lounge Sets",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown",
+      "Beige"
+    ]
+  },
+  {
+    "name": "house-nordic-beckley",
+    "href": "/products/planters-pots/house-nordic-beckley/",
+    "type": "dir",
+    "title": "House Nordic Beckley Planter",
+    "schemaCategory": "Planters & Pots",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "island",
+    "href": "/products/coffee-tables/island/",
+    "type": "dir",
+    "title": "Island coffee table, stackable",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "islet",
+    "href": "/products/coffee-tables/islet/",
+    "type": "dir",
+    "title": "Islet",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "islet",
+    "href": "/products/dining-tables/islet/",
+    "type": "dir",
+    "title": "Islet",
+    "schemaCategory": "Dining Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "messina",
+    "href": "/products/outdoor-dining-tables/messina/",
+    "type": "dir",
+    "title": "Messina",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown",
+      "Beige"
+    ]
+  },
+  {
+    "name": "oak",
+    "href": "/products/console-tables/oak/",
+    "type": "dir",
+    "title": "Oak",
+    "schemaCategory": "Console Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "reef",
+    "href": "/products/coffee-tables/reef/",
+    "type": "dir",
+    "title": "Reef",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "saarni",
+    "href": "/products/outdoor-dining-chairs/saarni/",
+    "type": "dir",
+    "title": "Saarni",
+    "schemaCategory": "Outdoor Dining Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "saarni",
+    "href": "/products/outdoor-dining-tables/saarni/",
+    "type": "dir",
+    "title": "Saarni",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "swallow",
+    "href": "/products/side-tables/swallow/",
+    "type": "dir",
+    "title": "Swallow",
+    "schemaCategory": "Side Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "westcoast",
+    "href": "/products/footstools/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Footstools",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "westcoast",
+    "href": "/products/sofa-accessories/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Sofa Accessories",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  },
+  {
+    "name": "westcoast",
+    "href": "/products/three-seater-sofas/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1,
+    "displayColors": [
+      "Brown"
+    ]
+  }
+]

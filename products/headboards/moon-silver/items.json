@@ -1,0 +1,3282 @@
+[
+  {
+    "sku": "197795",
+    "name": "197795",
+    "title": "Moon Silver Headboard, Beige, 120 cm",
+    "variantSummary": "120 cm / Beige",
+    "shortDescription": "120 cm wide headboard in beige fabric with three rows of buttons.",
+    "selectionAttributes": {
+      "dimensions": "120 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Beige",
+      "material": "Fabric"
+    },
+    "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+    "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+    "imageUrls": [
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.jpg",
+      "/products/headboards/moon-silver/197795_1.avif"
+    ],
+    "href": "/products/headboards/moon-silver/197795",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Silver Headboard, Beige, 120 cm 120 cm wide headboard in beige fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 120 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Weight 17 kg kg Logistics Weight 21 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "headboards",
+          "label": "Headboards",
+          "href": "/products/headboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-silver",
+          "label": "Moon Silver",
+          "href": "/families/moon-silver/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "7-cm",
+          "valueLabel": "7 cm",
+          "href": "/attributes/dimensions/depth/7-cm/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "130-cm",
+          "valueLabel": "130 cm",
+          "href": "/attributes/dimensions/height/130-cm/",
+          "valueType": "enum",
+          "numericValue": 130,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "120-cm",
+          "valueLabel": "120 cm",
+          "href": "/attributes/dimensions/width/120-cm/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/accessories/headboard-included/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-15-m3",
+          "valueLabel": "0.15 m³",
+          "href": "/attributes/logistics/volume/0-15-m3/",
+          "valueType": "enum",
+          "numericValue": 0.15,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "21-kg",
+          "valueLabel": "21 kg",
+          "href": "/attributes/logistics/weight/21-kg/",
+          "valueType": "enum",
+          "numericValue": 21,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Silver Headboard, Beige, 120 cm",
+      "summary": "120 cm wide headboard in beige fabric with three rows of buttons.",
+      "variantCount": 1,
+      "categoryLabel": "Headboards",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Silver"
+    }
+  },
+  {
+    "sku": "197796",
+    "name": "197796",
+    "title": "Moon Silver Headboard, Beige, 140 cm",
+    "variantSummary": "140 cm / Beige",
+    "shortDescription": "140 cm wide headboard in beige fabric with three rows of buttons.",
+    "selectionAttributes": {
+      "dimensions": "140 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Beige",
+      "material": "Fabric"
+    },
+    "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+    "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+    "imageUrls": [
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.jpg",
+      "/products/headboards/moon-silver/197796_1.avif"
+    ],
+    "href": "/products/headboards/moon-silver/197796",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Silver Headboard, Beige, 140 cm 140 cm wide headboard in beige fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 140 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.17 m³ m³ Logistics Weight 18 kg kg Logistics Weight 24.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "headboards",
+          "label": "Headboards",
+          "href": "/products/headboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-silver",
+          "label": "Moon Silver",
+          "href": "/families/moon-silver/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "7-cm",
+          "valueLabel": "7 cm",
+          "href": "/attributes/dimensions/depth/7-cm/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "130-cm",
+          "valueLabel": "130 cm",
+          "href": "/attributes/dimensions/height/130-cm/",
+          "valueType": "enum",
+          "numericValue": 130,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "140-cm",
+          "valueLabel": "140 cm",
+          "href": "/attributes/dimensions/width/140-cm/",
+          "valueType": "enum",
+          "numericValue": 140,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/accessories/headboard-included/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-17-m3",
+          "valueLabel": "0.17 m³",
+          "href": "/attributes/logistics/volume/0-17-m3/",
+          "valueType": "enum",
+          "numericValue": 0.17,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "18-kg",
+          "valueLabel": "18 kg",
+          "href": "/attributes/logistics/weight/18-kg/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "24-5-kg",
+          "valueLabel": "24.5 kg",
+          "href": "/attributes/logistics/weight/24-5-kg/",
+          "valueType": "enum",
+          "numericValue": 24.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Silver Headboard, Beige, 140 cm",
+      "summary": "140 cm wide headboard in beige fabric with three rows of buttons.",
+      "variantCount": 1,
+      "categoryLabel": "Headboards",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Silver"
+    }
+  },
+  {
+    "sku": "197797",
+    "name": "197797",
+    "title": "Moon Silver Headboard, Beige, 160 cm",
+    "variantSummary": "160 cm / Beige",
+    "shortDescription": "160 cm wide headboard in beige fabric with three rows of buttons.",
+    "selectionAttributes": {
+      "dimensions": "160 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Beige",
+      "material": "Fabric"
+    },
+    "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+    "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+    "imageUrls": [
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.jpg",
+      "/products/headboards/moon-silver/197797_1.avif"
+    ],
+    "href": "/products/headboards/moon-silver/197797",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Silver Headboard, Beige, 160 cm 160 cm wide headboard in beige fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 160 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.19 m³ m³ Logistics Weight 20 kg kg Logistics Weight 28 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "headboards",
+          "label": "Headboards",
+          "href": "/products/headboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-silver",
+          "label": "Moon Silver",
+          "href": "/families/moon-silver/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "7-cm",
+          "valueLabel": "7 cm",
+          "href": "/attributes/dimensions/depth/7-cm/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "130-cm",
+          "valueLabel": "130 cm",
+          "href": "/attributes/dimensions/height/130-cm/",
+          "valueType": "enum",
+          "numericValue": 130,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "160-cm",
+          "valueLabel": "160 cm",
+          "href": "/attributes/dimensions/width/160-cm/",
+          "valueType": "enum",
+          "numericValue": 160,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/accessories/headboard-included/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-19-m3",
+          "valueLabel": "0.19 m³",
+          "href": "/attributes/logistics/volume/0-19-m3/",
+          "valueType": "enum",
+          "numericValue": 0.19,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "28-kg",
+          "valueLabel": "28 kg",
+          "href": "/attributes/logistics/weight/28-kg/",
+          "valueType": "enum",
+          "numericValue": 28,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Silver Headboard, Beige, 160 cm",
+      "summary": "160 cm wide headboard in beige fabric with three rows of buttons.",
+      "variantCount": 1,
+      "categoryLabel": "Headboards",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Silver"
+    }
+  },
+  {
+    "sku": "197798",
+    "name": "197798",
+    "title": "Moon Silver Headboard, Beige, 180 cm",
+    "variantSummary": "180 cm / Beige",
+    "shortDescription": "180 cm wide headboard in beige fabric with three rows of buttons.",
+    "selectionAttributes": {
+      "dimensions": "180 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Beige",
+      "material": "Fabric"
+    },
+    "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+    "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+    "imageUrls": [
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.jpg",
+      "/products/headboards/moon-silver/197798_1.avif"
+    ],
+    "href": "/products/headboards/moon-silver/197798",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Silver Headboard, Beige, 180 cm 180 cm wide headboard in beige fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 180 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Weight 15 kg kg Logistics Weight 31.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "headboards",
+          "label": "Headboards",
+          "href": "/products/headboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-silver",
+          "label": "Moon Silver",
+          "href": "/families/moon-silver/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "7-cm",
+          "valueLabel": "7 cm",
+          "href": "/attributes/dimensions/depth/7-cm/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "130-cm",
+          "valueLabel": "130 cm",
+          "href": "/attributes/dimensions/height/130-cm/",
+          "valueType": "enum",
+          "numericValue": 130,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "180-cm",
+          "valueLabel": "180 cm",
+          "href": "/attributes/dimensions/width/180-cm/",
+          "valueType": "enum",
+          "numericValue": 180,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/accessories/headboard-included/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-2-m3",
+          "valueLabel": "0.2 m³",
+          "href": "/attributes/logistics/volume/0-2-m3/",
+          "valueType": "enum",
+          "numericValue": 0.2,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "15-kg",
+          "valueLabel": "15 kg",
+          "href": "/attributes/logistics/weight/15-kg/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "31-5-kg",
+          "valueLabel": "31.5 kg",
+          "href": "/attributes/logistics/weight/31-5-kg/",
+          "valueType": "enum",
+          "numericValue": 31.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Silver Headboard, Beige, 180 cm",
+      "summary": "180 cm wide headboard in beige fabric with three rows of buttons.",
+      "variantCount": 1,
+      "categoryLabel": "Headboards",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Silver"
+    }
+  },
+  {
+    "sku": "197799",
+    "name": "197799",
+    "title": "Moon Silver Headboard, Beige, 200 cm",
+    "variantSummary": "200 cm / Beige",
+    "shortDescription": "200 cm wide headboard in beige fabric with three rows of buttons.",
+    "selectionAttributes": {
+      "dimensions": "200 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Beige",
+      "material": "Fabric"
+    },
+    "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+    "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+    "imageUrls": [
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.jpg",
+      "/products/headboards/moon-silver/197799_1.avif"
+    ],
+    "href": "/products/headboards/moon-silver/197799",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Silver Headboard, Beige, 200 cm 200 cm wide headboard in beige fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 30 kg kg Logistics Weight 35.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "headboards",
+          "label": "Headboards",
+          "href": "/products/headboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-silver",
+          "label": "Moon Silver",
+          "href": "/families/moon-silver/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "7-cm",
+          "valueLabel": "7 cm",
+          "href": "/attributes/dimensions/depth/7-cm/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "130-cm",
+          "valueLabel": "130 cm",
+          "href": "/attributes/dimensions/height/130-cm/",
+          "valueType": "enum",
+          "numericValue": 130,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/accessories/headboard-included/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-21-m3",
+          "valueLabel": "0.21 m³",
+          "href": "/attributes/logistics/volume/0-21-m3/",
+          "valueType": "enum",
+          "numericValue": 0.21,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "35-5-kg",
+          "valueLabel": "35.5 kg",
+          "href": "/attributes/logistics/weight/35-5-kg/",
+          "valueType": "enum",
+          "numericValue": 35.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Silver Headboard, Beige, 200 cm",
+      "summary": "200 cm wide headboard in beige fabric with three rows of buttons.",
+      "variantCount": 1,
+      "categoryLabel": "Headboards",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Silver"
+    }
+  },
+  {
+    "sku": "197800",
+    "name": "197800",
+    "title": "Moon Silver Headboard, Grey, 120 cm",
+    "variantSummary": "120 cm / Grey",
+    "shortDescription": "120 cm wide headboard in grey fabric with three rows of buttons.",
+    "selectionAttributes": {
+      "dimensions": "120 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Grey",
+      "material": "Fabric"
+    },
+    "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
+    "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
+    "imageUrls": [
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.jpg",
+      "/products/headboards/moon-silver/197800_1.avif"
+    ],
+    "href": "/products/headboards/moon-silver/197800",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Silver Headboard, Grey, 120 cm 120 cm wide headboard in grey fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 120 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Weight 17 kg kg Logistics Weight 21 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "headboards",
+          "label": "Headboards",
+          "href": "/products/headboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-silver",
+          "label": "Moon Silver",
+          "href": "/families/moon-silver/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "7-cm",
+          "valueLabel": "7 cm",
+          "href": "/attributes/dimensions/depth/7-cm/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "130-cm",
+          "valueLabel": "130 cm",
+          "href": "/attributes/dimensions/height/130-cm/",
+          "valueType": "enum",
+          "numericValue": 130,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "120-cm",
+          "valueLabel": "120 cm",
+          "href": "/attributes/dimensions/width/120-cm/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/accessories/headboard-included/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-15-m3",
+          "valueLabel": "0.15 m³",
+          "href": "/attributes/logistics/volume/0-15-m3/",
+          "valueType": "enum",
+          "numericValue": 0.15,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "21-kg",
+          "valueLabel": "21 kg",
+          "href": "/attributes/logistics/weight/21-kg/",
+          "valueType": "enum",
+          "numericValue": 21,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Silver Headboard, Grey, 120 cm",
+      "summary": "120 cm wide headboard in grey fabric with three rows of buttons.",
+      "variantCount": 1,
+      "categoryLabel": "Headboards",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Silver"
+    }
+  },
+  {
+    "sku": "197801",
+    "name": "197801",
+    "title": "Moon Silver Headboard, Grey, 140 cm",
+    "variantSummary": "140 cm / Grey",
+    "shortDescription": "140 cm wide headboard in grey fabric with three rows of buttons.",
+    "selectionAttributes": {
+      "dimensions": "140 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Grey",
+      "material": "Fabric"
+    },
+    "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
+    "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
+    "imageUrls": [
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.jpg",
+      "/products/headboards/moon-silver/197801_1.avif"
+    ],
+    "href": "/products/headboards/moon-silver/197801",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Silver Headboard, Grey, 140 cm 140 cm wide headboard in grey fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 140 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.17 m³ m³ Logistics Weight 18 kg kg Logistics Weight 24.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "headboards",
+          "label": "Headboards",
+          "href": "/products/headboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-silver",
+          "label": "Moon Silver",
+          "href": "/families/moon-silver/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "7-cm",
+          "valueLabel": "7 cm",
+          "href": "/attributes/dimensions/depth/7-cm/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "130-cm",
+          "valueLabel": "130 cm",
+          "href": "/attributes/dimensions/height/130-cm/",
+          "valueType": "enum",
+          "numericValue": 130,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "140-cm",
+          "valueLabel": "140 cm",
+          "href": "/attributes/dimensions/width/140-cm/",
+          "valueType": "enum",
+          "numericValue": 140,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/accessories/headboard-included/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-17-m3",
+          "valueLabel": "0.17 m³",
+          "href": "/attributes/logistics/volume/0-17-m3/",
+          "valueType": "enum",
+          "numericValue": 0.17,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "18-kg",
+          "valueLabel": "18 kg",
+          "href": "/attributes/logistics/weight/18-kg/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "24-5-kg",
+          "valueLabel": "24.5 kg",
+          "href": "/attributes/logistics/weight/24-5-kg/",
+          "valueType": "enum",
+          "numericValue": 24.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Silver Headboard, Grey, 140 cm",
+      "summary": "140 cm wide headboard in grey fabric with three rows of buttons.",
+      "variantCount": 1,
+      "categoryLabel": "Headboards",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Silver"
+    }
+  },
+  {
+    "sku": "197802",
+    "name": "197802",
+    "title": "Moon Silver Headboard, Grey, 160 cm",
+    "variantSummary": "160 cm / Grey",
+    "shortDescription": "160 cm wide headboard in grey fabric with three rows of buttons.",
+    "selectionAttributes": {
+      "dimensions": "160 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Grey",
+      "material": "Fabric"
+    },
+    "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
+    "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
+    "imageUrls": [
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.jpg",
+      "/products/headboards/moon-silver/197802_1.avif"
+    ],
+    "href": "/products/headboards/moon-silver/197802",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Silver Headboard, Grey, 160 cm 160 cm wide headboard in grey fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 160 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Weight 19.8 kg kg Logistics Weight 28 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "headboards",
+          "label": "Headboards",
+          "href": "/products/headboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-silver",
+          "label": "Moon Silver",
+          "href": "/families/moon-silver/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "7-cm",
+          "valueLabel": "7 cm",
+          "href": "/attributes/dimensions/depth/7-cm/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "130-cm",
+          "valueLabel": "130 cm",
+          "href": "/attributes/dimensions/height/130-cm/",
+          "valueType": "enum",
+          "numericValue": 130,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "160-cm",
+          "valueLabel": "160 cm",
+          "href": "/attributes/dimensions/width/160-cm/",
+          "valueType": "enum",
+          "numericValue": 160,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/accessories/headboard-included/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-2-m3",
+          "valueLabel": "0.2 m³",
+          "href": "/attributes/logistics/volume/0-2-m3/",
+          "valueType": "enum",
+          "numericValue": 0.2,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "19-8-kg",
+          "valueLabel": "19.8 kg",
+          "href": "/attributes/logistics/weight/19-8-kg/",
+          "valueType": "enum",
+          "numericValue": 19.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "28-kg",
+          "valueLabel": "28 kg",
+          "href": "/attributes/logistics/weight/28-kg/",
+          "valueType": "enum",
+          "numericValue": 28,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Silver Headboard, Grey, 160 cm",
+      "summary": "160 cm wide headboard in grey fabric with three rows of buttons.",
+      "variantCount": 1,
+      "categoryLabel": "Headboards",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Silver"
+    }
+  },
+  {
+    "sku": "197803",
+    "name": "197803",
+    "title": "Moon Silver Headboard, Grey, 180 cm",
+    "variantSummary": "180 cm / Grey",
+    "shortDescription": "180 cm wide headboard in grey fabric with three rows of buttons.",
+    "selectionAttributes": {
+      "dimensions": "180 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Grey",
+      "material": "Fabric"
+    },
+    "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
+    "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
+    "imageUrls": [
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.jpg",
+      "/products/headboards/moon-silver/197803_1.avif"
+    ],
+    "href": "/products/headboards/moon-silver/197803",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Silver Headboard, Grey, 180 cm 180 cm wide headboard in grey fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 180 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 21 kg kg Logistics Weight 31.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "headboards",
+          "label": "Headboards",
+          "href": "/products/headboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-silver",
+          "label": "Moon Silver",
+          "href": "/families/moon-silver/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "7-cm",
+          "valueLabel": "7 cm",
+          "href": "/attributes/dimensions/depth/7-cm/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "130-cm",
+          "valueLabel": "130 cm",
+          "href": "/attributes/dimensions/height/130-cm/",
+          "valueType": "enum",
+          "numericValue": 130,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "180-cm",
+          "valueLabel": "180 cm",
+          "href": "/attributes/dimensions/width/180-cm/",
+          "valueType": "enum",
+          "numericValue": 180,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/accessories/headboard-included/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-21-m3",
+          "valueLabel": "0.21 m³",
+          "href": "/attributes/logistics/volume/0-21-m3/",
+          "valueType": "enum",
+          "numericValue": 0.21,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "21-kg",
+          "valueLabel": "21 kg",
+          "href": "/attributes/logistics/weight/21-kg/",
+          "valueType": "enum",
+          "numericValue": 21,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "31-5-kg",
+          "valueLabel": "31.5 kg",
+          "href": "/attributes/logistics/weight/31-5-kg/",
+          "valueType": "enum",
+          "numericValue": 31.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Silver Headboard, Grey, 180 cm",
+      "summary": "180 cm wide headboard in grey fabric with three rows of buttons.",
+      "variantCount": 1,
+      "categoryLabel": "Headboards",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Silver"
+    }
+  },
+  {
+    "sku": "197804",
+    "name": "197804",
+    "title": "Moon Silver Headboard, Grey, 200 cm",
+    "variantSummary": "200 cm / Grey",
+    "shortDescription": "200 cm wide headboard in grey fabric with three rows of buttons.",
+    "selectionAttributes": {
+      "dimensions": "200 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Grey",
+      "material": "Fabric"
+    },
+    "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
+    "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
+    "imageUrls": [
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.jpg",
+      "/products/headboards/moon-silver/197804_1.avif"
+    ],
+    "href": "/products/headboards/moon-silver/197804",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Silver Headboard, Grey, 200 cm 200 cm wide headboard in grey fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.26 m³ m³ Logistics Weight 30 kg kg Logistics Weight 35.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "headboards",
+          "label": "Headboards",
+          "href": "/products/headboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-silver",
+          "label": "Moon Silver",
+          "href": "/families/moon-silver/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "7-cm",
+          "valueLabel": "7 cm",
+          "href": "/attributes/dimensions/depth/7-cm/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "130-cm",
+          "valueLabel": "130 cm",
+          "href": "/attributes/dimensions/height/130-cm/",
+          "valueType": "enum",
+          "numericValue": 130,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/accessories/headboard-included/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-26-m3",
+          "valueLabel": "0.26 m³",
+          "href": "/attributes/logistics/volume/0-26-m3/",
+          "valueType": "enum",
+          "numericValue": 0.26,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "35-5-kg",
+          "valueLabel": "35.5 kg",
+          "href": "/attributes/logistics/weight/35-5-kg/",
+          "valueType": "enum",
+          "numericValue": 35.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Silver Headboard, Grey, 200 cm",
+      "summary": "200 cm wide headboard in grey fabric with three rows of buttons.",
+      "variantCount": 1,
+      "categoryLabel": "Headboards",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Silver"
+    }
+  },
+  {
+    "sku": "197805",
+    "name": "197805",
+    "title": "Moon Silver Headboard, Black, Grey, 120 cm",
+    "variantSummary": "120 cm / Black, Grey",
+    "shortDescription": "120 cm wide headboard in anthracite fabric with three rows of buttons.",
+    "selectionAttributes": {
+      "dimensions": "120 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Black, Grey",
+      "material": "Fabric"
+    },
+    "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+    "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+    "imageUrls": [
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.jpg",
+      "/products/headboards/moon-silver/197805_1.avif"
+    ],
+    "href": "/products/headboards/moon-silver/197805",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Silver Headboard, Black, Grey, 120 cm 120 cm wide headboard in anthracite fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Black Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 120 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Weight 17 kg kg Logistics Weight 21 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "headboards",
+          "label": "Headboards",
+          "href": "/products/headboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-silver",
+          "label": "Moon Silver",
+          "href": "/families/moon-silver/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        },
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "7-cm",
+          "valueLabel": "7 cm",
+          "href": "/attributes/dimensions/depth/7-cm/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "130-cm",
+          "valueLabel": "130 cm",
+          "href": "/attributes/dimensions/height/130-cm/",
+          "valueType": "enum",
+          "numericValue": 130,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "120-cm",
+          "valueLabel": "120 cm",
+          "href": "/attributes/dimensions/width/120-cm/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/accessories/headboard-included/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-15-m3",
+          "valueLabel": "0.15 m³",
+          "href": "/attributes/logistics/volume/0-15-m3/",
+          "valueType": "enum",
+          "numericValue": 0.15,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "21-kg",
+          "valueLabel": "21 kg",
+          "href": "/attributes/logistics/weight/21-kg/",
+          "valueType": "enum",
+          "numericValue": 21,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Silver Headboard, Black, Grey, 120 cm",
+      "summary": "120 cm wide headboard in anthracite fabric with three rows of buttons.",
+      "variantCount": 1,
+      "categoryLabel": "Headboards",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Silver"
+    }
+  },
+  {
+    "sku": "197806",
+    "name": "197806",
+    "title": "Moon Silver Headboard, Black, Grey, 140 cm",
+    "variantSummary": "140 cm / Black, Grey",
+    "shortDescription": "140 cm wide headboard in anthracite fabric with three rows of buttons.",
+    "selectionAttributes": {
+      "dimensions": "140 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Black, Grey",
+      "material": "Fabric"
+    },
+    "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+    "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+    "imageUrls": [
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.jpg",
+      "/products/headboards/moon-silver/197806_1.avif"
+    ],
+    "href": "/products/headboards/moon-silver/197806",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Silver Headboard, Black, Grey, 140 cm 140 cm wide headboard in anthracite fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Black Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 140 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.17 m³ m³ Logistics Weight 18 kg kg Logistics Weight 24.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "headboards",
+          "label": "Headboards",
+          "href": "/products/headboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-silver",
+          "label": "Moon Silver",
+          "href": "/families/moon-silver/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        },
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "7-cm",
+          "valueLabel": "7 cm",
+          "href": "/attributes/dimensions/depth/7-cm/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "130-cm",
+          "valueLabel": "130 cm",
+          "href": "/attributes/dimensions/height/130-cm/",
+          "valueType": "enum",
+          "numericValue": 130,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "140-cm",
+          "valueLabel": "140 cm",
+          "href": "/attributes/dimensions/width/140-cm/",
+          "valueType": "enum",
+          "numericValue": 140,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/accessories/headboard-included/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-17-m3",
+          "valueLabel": "0.17 m³",
+          "href": "/attributes/logistics/volume/0-17-m3/",
+          "valueType": "enum",
+          "numericValue": 0.17,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "18-kg",
+          "valueLabel": "18 kg",
+          "href": "/attributes/logistics/weight/18-kg/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "24-5-kg",
+          "valueLabel": "24.5 kg",
+          "href": "/attributes/logistics/weight/24-5-kg/",
+          "valueType": "enum",
+          "numericValue": 24.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Silver Headboard, Black, Grey, 140 cm",
+      "summary": "140 cm wide headboard in anthracite fabric with three rows of buttons.",
+      "variantCount": 1,
+      "categoryLabel": "Headboards",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Silver"
+    }
+  },
+  {
+    "sku": "197807",
+    "name": "197807",
+    "title": "Moon Silver Headboard, Black, Grey, 160 cm",
+    "variantSummary": "160 cm / Black, Grey",
+    "shortDescription": "160 cm wide headboard in anthracite fabric with three rows of buttons.",
+    "selectionAttributes": {
+      "dimensions": "160 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Black, Grey",
+      "material": "Fabric"
+    },
+    "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+    "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+    "imageUrls": [
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.jpg",
+      "/products/headboards/moon-silver/197807_1.avif"
+    ],
+    "href": "/products/headboards/moon-silver/197807",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Silver Headboard, Black, Grey, 160 cm 160 cm wide headboard in anthracite fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Black Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 160 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.19 m³ m³ Logistics Weight 19.7 kg kg Logistics Weight 28 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "headboards",
+          "label": "Headboards",
+          "href": "/products/headboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-silver",
+          "label": "Moon Silver",
+          "href": "/families/moon-silver/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        },
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "7-cm",
+          "valueLabel": "7 cm",
+          "href": "/attributes/dimensions/depth/7-cm/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "130-cm",
+          "valueLabel": "130 cm",
+          "href": "/attributes/dimensions/height/130-cm/",
+          "valueType": "enum",
+          "numericValue": 130,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "160-cm",
+          "valueLabel": "160 cm",
+          "href": "/attributes/dimensions/width/160-cm/",
+          "valueType": "enum",
+          "numericValue": 160,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/accessories/headboard-included/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-19-m3",
+          "valueLabel": "0.19 m³",
+          "href": "/attributes/logistics/volume/0-19-m3/",
+          "valueType": "enum",
+          "numericValue": 0.19,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "19-7-kg",
+          "valueLabel": "19.7 kg",
+          "href": "/attributes/logistics/weight/19-7-kg/",
+          "valueType": "enum",
+          "numericValue": 19.7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "28-kg",
+          "valueLabel": "28 kg",
+          "href": "/attributes/logistics/weight/28-kg/",
+          "valueType": "enum",
+          "numericValue": 28,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Silver Headboard, Black, Grey, 160 cm",
+      "summary": "160 cm wide headboard in anthracite fabric with three rows of buttons.",
+      "variantCount": 1,
+      "categoryLabel": "Headboards",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Silver"
+    }
+  },
+  {
+    "sku": "197808",
+    "name": "197808",
+    "title": "Moon Silver Headboard, Black, Grey, 180 cm",
+    "variantSummary": "180 cm / Black, Grey",
+    "shortDescription": "180 cm wide headboard in anthracite fabric with three rows of buttons.",
+    "selectionAttributes": {
+      "dimensions": "180 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Black, Grey",
+      "material": "Fabric"
+    },
+    "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+    "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+    "imageUrls": [
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.jpg",
+      "/products/headboards/moon-silver/197808_1.avif"
+    ],
+    "href": "/products/headboards/moon-silver/197808",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Silver Headboard, Black, Grey, 180 cm 180 cm wide headboard in anthracite fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Black Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 180 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 13 kg kg Logistics Weight 31.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "headboards",
+          "label": "Headboards",
+          "href": "/products/headboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-silver",
+          "label": "Moon Silver",
+          "href": "/families/moon-silver/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        },
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "7-cm",
+          "valueLabel": "7 cm",
+          "href": "/attributes/dimensions/depth/7-cm/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "130-cm",
+          "valueLabel": "130 cm",
+          "href": "/attributes/dimensions/height/130-cm/",
+          "valueType": "enum",
+          "numericValue": 130,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "180-cm",
+          "valueLabel": "180 cm",
+          "href": "/attributes/dimensions/width/180-cm/",
+          "valueType": "enum",
+          "numericValue": 180,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/accessories/headboard-included/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-21-m3",
+          "valueLabel": "0.21 m³",
+          "href": "/attributes/logistics/volume/0-21-m3/",
+          "valueType": "enum",
+          "numericValue": 0.21,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "13-kg",
+          "valueLabel": "13 kg",
+          "href": "/attributes/logistics/weight/13-kg/",
+          "valueType": "enum",
+          "numericValue": 13,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "31-5-kg",
+          "valueLabel": "31.5 kg",
+          "href": "/attributes/logistics/weight/31-5-kg/",
+          "valueType": "enum",
+          "numericValue": 31.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Silver Headboard, Black, Grey, 180 cm",
+      "summary": "180 cm wide headboard in anthracite fabric with three rows of buttons.",
+      "variantCount": 1,
+      "categoryLabel": "Headboards",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Silver"
+    }
+  },
+  {
+    "sku": "197809",
+    "name": "197809",
+    "title": "Moon Silver Headboard, Black, Grey, 200 cm",
+    "variantSummary": "200 cm / Black, Grey",
+    "shortDescription": "200 cm wide headboard in anthracite fabric with three rows of buttons.",
+    "selectionAttributes": {
+      "dimensions": "200 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Black, Grey",
+      "material": "Fabric"
+    },
+    "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+    "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+    "imageUrls": [
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.jpg",
+      "/products/headboards/moon-silver/197809_1.avif"
+    ],
+    "href": "/products/headboards/moon-silver/197809",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Silver Headboard, Black, Grey, 200 cm 200 cm wide headboard in anthracite fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Black Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 30 kg kg Logistics Weight 35.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "headboards",
+          "label": "Headboards",
+          "href": "/products/headboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-silver",
+          "label": "Moon Silver",
+          "href": "/families/moon-silver/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        },
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "7-cm",
+          "valueLabel": "7 cm",
+          "href": "/attributes/dimensions/depth/7-cm/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "130-cm",
+          "valueLabel": "130 cm",
+          "href": "/attributes/dimensions/height/130-cm/",
+          "valueType": "enum",
+          "numericValue": 130,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/accessories/headboard-included/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-21-m3",
+          "valueLabel": "0.21 m³",
+          "href": "/attributes/logistics/volume/0-21-m3/",
+          "valueType": "enum",
+          "numericValue": 0.21,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "35-5-kg",
+          "valueLabel": "35.5 kg",
+          "href": "/attributes/logistics/weight/35-5-kg/",
+          "valueType": "enum",
+          "numericValue": 35.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Silver Headboard, Black, Grey, 200 cm",
+      "summary": "200 cm wide headboard in anthracite fabric with three rows of buttons.",
+      "variantCount": 1,
+      "categoryLabel": "Headboards",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Silver"
+    }
+  }
+]

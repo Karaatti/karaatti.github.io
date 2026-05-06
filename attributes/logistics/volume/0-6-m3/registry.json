@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.6 m³",
+  "valueSlug": "0-6-m3",
+  "valueType": "measurement",
+  "numericValue": 0.6,
+  "unit": "m³",
+  "productTypes": [
+    "Adjustable Beds",
+    "Mattresses"
+  ],
+  "familyCount": 2,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/adjustable-beds/moon-bronze/moon_bronze_adjustable_bed_grey_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "A practical and stylish adjustable bed with a pocket spring base and tall smoked ash legs. Designed for comfort and easy maintenance.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-bronze/moon_bronze_adjustable_bed_grey_1.avif",
+      "schemaCategory": "Adjustable Beds",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Comfortable mattress with 7-zone pocket springs or memory foam, available in beige or anthracite and various sizes.",
+      "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_6.avif",
+      "schemaCategory": "Mattresses",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.6,
+        "max": 0.6,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.6 m³ is a published volume used across selected Nest & Living products. Common on Adjustable Bed and Mattress."
+}

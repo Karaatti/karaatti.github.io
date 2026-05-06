@@ -1,0 +1,44 @@
+{
+  "group": "setup",
+  "groupLabel": "Setup",
+  "attributeKey": "assemblyTime",
+  "attributeLabel": "Assembly time",
+  "value": "240 min",
+  "valueSlug": "240-min",
+  "valueType": "measurement",
+  "numericValue": 240,
+  "unit": "min",
+  "productTypes": [
+    "Gazebos & Pergolas"
+  ],
+  "familyCount": 1,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/gazebos-pergolas/nordic/206776_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Nordic gazebo and pergola variants with adjustable slatted roofs, sturdy aluminium and steel frames, and terrace-ready shelter for outdoor living.",
+      "primaryImageUrl": "/products/gazebos-pergolas/nordic/206776_1.avif",
+      "schemaCategory": "Gazebos & Pergolas",
+      "variantCount": 3
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "min"
+    ],
+    "ranges": [
+      {
+        "unit": "min",
+        "min": 240,
+        "max": 240,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "240 min is a published assembly time used across selected Nest & Living products. Common on Gazebos & Pergola."
+}

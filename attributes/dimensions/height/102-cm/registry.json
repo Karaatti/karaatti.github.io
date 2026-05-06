@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "102 cm",
+  "valueSlug": "102-cm",
+  "valueType": "measurement",
+  "numericValue": 102,
+  "unit": "cm",
+  "productTypes": [
+    "Swivel Chairs"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/blow",
+      "familyTitle": "Blow",
+      "familySummary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+      "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 102,
+        "max": 102,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "102 cm is a published height used across selected Nest & Living products. Common on Swivel Chair."
+}

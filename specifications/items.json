@@ -1,0 +1,30 @@
+[
+  {
+    "name": "headboard-types",
+    "label": "Headboard types",
+    "href": "/specifications/headboard-types/",
+    "type": "dir",
+    "description": "3 shared details across 45 product options."
+  },
+  {
+    "name": "mattress-types",
+    "label": "Mattress types",
+    "href": "/specifications/mattress-types/",
+    "type": "dir",
+    "description": "2 shared details across 113 product options."
+  },
+  {
+    "name": "support-systems",
+    "label": "Support systems",
+    "href": "/specifications/support-systems/",
+    "type": "dir",
+    "description": "1 shared detail across 6 product options."
+  },
+  {
+    "name": "topper-types",
+    "label": "Topper types",
+    "href": "/specifications/topper-types/",
+    "type": "dir",
+    "description": "3 shared details across 39 product options."
+  }
+]

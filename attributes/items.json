@@ -1,0 +1,100 @@
+[
+  {
+    "name": "care",
+    "label": "Care",
+    "href": "/attributes/care/",
+    "type": "dir",
+    "description": "6 published details across 112 product options."
+  },
+  {
+    "name": "comfort",
+    "label": "Comfort",
+    "href": "/attributes/comfort/",
+    "type": "dir",
+    "description": "2 published details across 78 product options."
+  },
+  {
+    "name": "configuration",
+    "label": "Configuration",
+    "href": "/attributes/configuration/",
+    "type": "dir",
+    "description": "8 published details across 99 product options."
+  },
+  {
+    "name": "dimensions",
+    "label": "Dimensions",
+    "href": "/attributes/dimensions/",
+    "type": "dir",
+    "description": "199 published details across 1312 product options."
+  },
+  {
+    "name": "finish",
+    "label": "Finish",
+    "href": "/attributes/finish/",
+    "type": "dir",
+    "description": "2 published details across 3 product options."
+  },
+  {
+    "name": "accessories",
+    "label": "Included components",
+    "href": "/attributes/accessories/",
+    "type": "dir",
+    "description": "3 published details across 208 product options."
+  },
+  {
+    "name": "load",
+    "label": "Load",
+    "href": "/attributes/load/",
+    "type": "dir",
+    "description": "9 published details across 35 product options."
+  },
+  {
+    "name": "logistics",
+    "label": "Logistics",
+    "href": "/attributes/logistics/",
+    "type": "dir",
+    "description": "269 published details across 1984 product options."
+  },
+  {
+    "name": "padding",
+    "label": "Padding",
+    "href": "/attributes/padding/",
+    "type": "dir",
+    "description": "6 published details across 34 product options."
+  },
+  {
+    "name": "seating",
+    "label": "Seating",
+    "href": "/attributes/seating/",
+    "type": "dir",
+    "description": "26 published details across 99 product options."
+  },
+  {
+    "name": "setup",
+    "label": "Setup",
+    "href": "/attributes/setup/",
+    "type": "dir",
+    "description": "8 published details across 405 product options."
+  },
+  {
+    "name": "support",
+    "label": "Support",
+    "href": "/attributes/support/",
+    "type": "dir",
+    "description": "3 published details across 82 product options."
+  },
+  {
+    "name": "upholstery",
+    "label": "Upholstery",
+    "href": "/attributes/upholstery/",
+    "type": "dir",
+    "description": "7 published details across 171 product options."
+  },
+  {
+    "name": "warranty",
+    "label": "Warranty",
+    "href": "/attributes/warranty/",
+    "type": "dir",
+    "description": "7 published details across 877 product options."
+  }
+]

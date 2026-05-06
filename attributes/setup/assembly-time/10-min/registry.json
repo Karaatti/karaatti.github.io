@@ -1,0 +1,54 @@
+{
+  "group": "setup",
+  "groupLabel": "Setup",
+  "attributeKey": "assemblyTime",
+  "attributeLabel": "Assembly time",
+  "value": "10 min",
+  "valueSlug": "10-min",
+  "valueType": "measurement",
+  "numericValue": 10,
+  "unit": "min",
+  "productTypes": [
+    "Dining Chairs",
+    "Footstools",
+    "Modular Sofas"
+  ],
+  "familyCount": 2,
+  "variantCount": 8,
+  "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Compact footstool with a soft polyester cover and metal legs. Available in Beige, brown and grey.",
+      "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+      "schemaCategory": "Footstools and Sofa Accessories",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/nicola",
+      "familyTitle": "Nicola",
+      "familySummary": "Dining chair with an oak frame and beige fabric upholstery, designed for comfort and understated style.",
+      "primaryImageUrl": "/products/dining-chairs/nicola/209076_1.avif",
+      "schemaCategory": "Dining Chairs",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "min"
+    ],
+    "ranges": [
+      {
+        "unit": "min",
+        "min": 10,
+        "max": 10,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "10 min is a published assembly time used across selected Nest & Living products. Common on Dining Chair, Footstool and Modular Sofa."
+}

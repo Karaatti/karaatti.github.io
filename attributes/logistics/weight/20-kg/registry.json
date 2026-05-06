@@ -1,0 +1,110 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "20 kg",
+  "valueSlug": "20-kg",
+  "valueType": "measurement",
+  "numericValue": 20,
+  "unit": "kg",
+  "productTypes": [
+    "Continental Beds",
+    "Dining Tables",
+    "Divan Bed",
+    "Divan Beds",
+    "Footstools",
+    "Headboards",
+    "Mattresses",
+    "Outdoor Storage",
+    "Planters",
+    "Swivel Chairs",
+    "Toppers"
+  ],
+  "familyCount": 8,
+  "variantCount": 20,
+  "primaryImageUrl": "/products/toppers/moon-gold/197748_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Grey latex mattress topper offers good support and breathability for a single bed. Suitable for improving sleep quality in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-gold/197748_1.avif",
+      "schemaCategory": "Divan Beds, Headboards, Mattresses and Toppers",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/metz",
+      "familyTitle": "Metz",
+      "familySummary": "A round dining table with a natural Beige veneer surface and a light, sturdy base. Designed to comfortably seat four and fit modern interiors.",
+      "primaryImageUrl": "/products/dining-tables/metz/208710_1.avif",
+      "schemaCategory": "Dining Tables",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Moon Silver headboard features a buttoned fabric surface that breathes well and adds a subtle, elegant touch to the bedroom. Its timeless design suits various interiors and provides comfortable back support.",
+      "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+      "schemaCategory": "Continental Beds, Headboards and Mattresses",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/breeze",
+      "familyTitle": "Breeze",
+      "familySummary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
+      "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+      "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+      "schemaCategory": "Footstools",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Outdoor storage boxes from the Nordic collection with aluminium frames and weather-ready fabric-lined lids, available in two sizes and beige or black finishes.",
+      "primaryImageUrl": "/products/outdoor-storage/nordic/206769_1.avif",
+      "schemaCategory": "Outdoor Storage",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/house-nordic-beckley",
+      "familyTitle": "House Nordic Beckley",
+      "familySummary": "Three-piece set of brown terracotta planters with soft rounded edges and textured surfaces. Suitable for various plants and both indoor and outdoor settings.",
+      "primaryImageUrl": "/products/planters-pots/house-nordic-beckley/201120_1.avif",
+      "schemaCategory": "Planters & Pots",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Divan bed with 5-zone pocket spring support and a durable wooden frame. Comes with smoked ash tapered legs and a choice of sizes.",
+      "primaryImageUrl": "/products/divan-beds/moon-bronze/197654_1.avif",
+      "schemaCategory": "Divan Beds",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 20,
+        "max": 20,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "20 kg is a published weight used across selected Nest & Living products. Common on Continental Bed, Dining Table, Divan Bed, Footstool, Headboard and Mattress and 4 more."
+}

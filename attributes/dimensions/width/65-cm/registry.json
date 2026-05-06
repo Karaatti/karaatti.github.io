@@ -1,0 +1,53 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "65 cm",
+  "valueSlug": "65-cm",
+  "valueType": "measurement",
+  "numericValue": 65,
+  "unit": "cm",
+  "productTypes": [
+    "Armchairs",
+    "Outdoor Sun Loungers"
+  ],
+  "familyCount": 2,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/armchairs/dove/198105_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/dove",
+      "familyTitle": "Dove",
+      "familySummary": "Armchair with a walnut rubberwood frame and beige fabric upholstery. Offers comfortable seating with a high back and soft seat.",
+      "primaryImageUrl": "/products/armchairs/dove/198105_1.avif",
+      "schemaCategory": "Armchairs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/house-nordic-derby",
+      "familyTitle": "House Nordic Derby",
+      "familySummary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+      "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+      "schemaCategory": "Outdoor Sun Loungers",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 65,
+        "max": 65,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "65 cm is a published width used across selected Nest & Living products. Common on Armchair and Outdoor Sun Lounger."
+}

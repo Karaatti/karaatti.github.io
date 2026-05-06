@@ -1,0 +1,56 @@
+{
+  "label": "Faux leather",
+  "description": "Faux leather in furniture: Smooth, easy to wipe and visually leather-like, but less breathable than real leather or fabric.",
+  "intro": "Faux leather appears across 1 product family and 1 option, especially on Fixed Armchairs.",
+  "chemistry": [
+    "Faux leather relies on a polymer coating over a textile base. The coating creates the smooth grain, colour uniformity and spill resistance that make it attractive in dining and occasional seating.",
+    "That same coating is also the wear point. Over years of flexing, UV exposure and oils, lower-grade surfaces can harden, peel or crack in ways woven textiles do not."
+  ],
+  "furnitureUse": [
+    "It suits chairs and accent seating where easy wipe-down cleaning matters and the user wants a sharper, more tailored surface than fabric provides.",
+    "For everyday lounge seating it is usually a compromise: visually neat and lower maintenance at first, but warmer to sit on and less forgiving over long-term ageing than better textile constructions."
+  ],
+  "care": [
+    "Moisture and wear note: Surface sheds small spills well, yet hydrolysis, heat and body oils can age the coating over time.",
+    "Care note: Wipe gently, keep away from strong heat and avoid harsh solvents that dry or crack the coating."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [],
+  "durability": [],
+  "relatedSpecifications": [],
+  "lifecycleRows": [],
+  "strengths": [
+    "easy wipe-clean surface",
+    "uniform appearance",
+    "budget-friendly leather look"
+  ],
+  "watchouts": [
+    "can peel or crack with age",
+    "less breathable",
+    "sensitive to heat and aggressive cleaners"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Coated upholstery composite"
+    },
+    {
+      "label": "Composition",
+      "value": "Usually a polyester or cotton backing with a PU or PVC surface coating."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Smooth, easy to wipe and visually leather-like, but less breathable than real leather or fabric."
+    },
+    {
+      "label": "Key strengths",
+      "value": "easy wipe-clean surface, uniform appearance and budget-friendly leather look"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "can peel or crack with age, less breathable and sensitive to heat and aggressive cleaners"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

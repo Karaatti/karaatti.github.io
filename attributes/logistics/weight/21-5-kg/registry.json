@@ -1,0 +1,61 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "21.5 kg",
+  "valueSlug": "21-5-kg",
+  "valueType": "measurement",
+  "numericValue": 21.5,
+  "unit": "kg",
+  "productTypes": [
+    "Dining Tables",
+    "Headboards"
+  ],
+  "familyCount": 3,
+  "variantCount": 6,
+  "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_beige_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "A smooth, upholstered headboard offered in three neutral colours and multiple widths.",
+      "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_beige_1.avif",
+      "schemaCategory": "Headboards",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "A practical and understated headboard featuring button detailing in five rows. Available in several widths and neutral fabric colours.",
+      "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
+      "schemaCategory": "Headboards",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/metz",
+      "familyTitle": "Metz",
+      "familySummary": "A round dining table with a natural Beige veneer surface and a light, sturdy base. Designed to comfortably seat four and fit modern interiors.",
+      "primaryImageUrl": "/products/dining-tables/metz/208712_1.avif",
+      "schemaCategory": "Dining Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 21.5,
+        "max": 21.5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "21.5 kg is a published weight used across selected Nest & Living products. Common on Dining Table and Headboard."
+}

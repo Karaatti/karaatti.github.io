@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "22.5 kg",
+  "valueSlug": "22-5-kg",
+  "valueType": "measurement",
+  "numericValue": 22.5,
+  "unit": "kg",
+  "productTypes": [
+    "Headboards",
+    "Outdoor Sun Loungers"
+  ],
+  "familyCount": 2,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_beige_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "A smooth, upholstered headboard offered in three neutral colours and multiple widths.",
+      "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_beige_1.avif",
+      "schemaCategory": "Headboards",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/house-nordic-derby",
+      "familyTitle": "House Nordic Derby",
+      "familySummary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+      "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+      "schemaCategory": "Outdoor Sun Loungers",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 22.5,
+        "max": 22.5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "22.5 kg is a published weight used across selected Nest & Living products. Common on Headboard and Outdoor Sun Lounger."
+}

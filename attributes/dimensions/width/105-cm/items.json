@@ -1,0 +1,26 @@
+[
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Adjustable Beds and Toppers",
+    "variantCount": 5
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/families/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Adjustable Beds and Toppers",
+    "variantCount": 2
+  },
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Adjustable Beds and Toppers",
+    "variantCount": 2
+  }
+]

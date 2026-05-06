@@ -1,0 +1,26 @@
+[
+  {
+    "name": "bow",
+    "href": "/families/bow/",
+    "type": "dir",
+    "title": "Bow",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 3
+  },
+  {
+    "name": "merida",
+    "href": "/families/merida/",
+    "type": "dir",
+    "title": "Merida",
+    "schemaCategory": "Bar Stools",
+    "variantCount": 1
+  },
+  {
+    "name": "nest-living-silver",
+    "href": "/families/nest-living-silver/",
+    "type": "dir",
+    "title": "Nest & Living Silver",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "31 kg",
+  "valueSlug": "31-kg",
+  "valueType": "measurement",
+  "numericValue": 31,
+  "unit": "kg",
+  "productTypes": [
+    "Cabinets Display",
+    "Coffee Tables",
+    "Divan Beds",
+    "Mattresses"
+  ],
+  "familyCount": 3,
+  "variantCount": 10,
+  "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Divan bed with 7-zone pocket spring system offering firm support and ergonomic comfort. Available in various sizes and neutral tones.",
+      "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+      "schemaCategory": "Divan Beds and Mattresses",
+      "variantCount": 7
+    },
+    {
+      "familyRelativeDir": "families/island",
+      "familyTitle": "Island",
+      "familySummary": "Stackable two-piece coffee table in brown or beige with a soft asymmetrical shape for flexible living room layouts.",
+      "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
+      "schemaCategory": "Coffee Tables",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/mystery",
+      "familyTitle": "Mystery",
+      "familySummary": "The Mystery Shelf in black combines metal and oak veneer in a minimalist design. It provides four spacious shelves suitable for books and decorative items, fitting well in modern and industrial interiors.",
+      "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+      "schemaCategory": "Shelves",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 31,
+        "max": 31,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "31 kg is a published weight used across selected Nest & Living products. Common on Cabinets Display, Coffee Table, Divan Bed and Mattress."
+}

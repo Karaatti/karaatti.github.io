@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "9.3 kg",
+  "valueSlug": "9-3-kg",
+  "valueType": "measurement",
+  "numericValue": 9.3,
+  "unit": "kg",
+  "productTypes": [
+    "Outdoor Dining Tables"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206640_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/saarni",
+      "familyTitle": "Saarni",
+      "familySummary": "Outdoor dining table with aluminium frame and nonwood surface in a light Beige tone. Practical and easy to maintain.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206640_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 9.3,
+        "max": 9.3,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "9.3 kg is a published weight used across selected Nest & Living products. Common on Outdoor Dining Table."
+}

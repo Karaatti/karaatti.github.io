@@ -1,0 +1,34 @@
+[
+  {
+    "name": "amaris",
+    "href": "/products/rugs/amaris/",
+    "type": "dir",
+    "title": "Amaris",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "lyra",
+    "href": "/products/rugs/lyra/",
+    "type": "dir",
+    "title": "Lyra",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "saaga",
+    "href": "/products/rugs/saaga/",
+    "type": "dir",
+    "title": "Saaga",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "basalt",
+    "href": "/products/rugs/basalt/",
+    "type": "dir",
+    "title": "Basalt",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  }
+]

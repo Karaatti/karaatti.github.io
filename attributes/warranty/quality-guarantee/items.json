@@ -1,0 +1,26 @@
+[
+  {
+    "name": "1000-days",
+    "label": "1000 days",
+    "href": "/attributes/warranty/quality-guarantee/1000-days/",
+    "type": "dir",
+    "description": "1000 days is a published quality guarantee used across selected Nest & Living products. Common on 3-Seater Sofa, 4-Seater Sofa, Adjustable Bed, Armchair, Bar Stool and Bed Frame and 31 more.",
+    "familyCount": 64,
+    "variantCount": 328,
+    "valueType": "measurement",
+    "numericValue": 1000,
+    "unit": "days"
+  },
+  {
+    "name": "4000-days",
+    "label": "4000 days",
+    "href": "/attributes/warranty/quality-guarantee/4000-days/",
+    "type": "dir",
+    "description": "4000 days is a published quality guarantee used across selected Nest & Living products. Common on Adjustable Bed, Continental Bed, Corner Sofa, Divan Bed and Mattress.",
+    "familyCount": 4,
+    "variantCount": 94,
+    "valueType": "measurement",
+    "numericValue": 4000,
+    "unit": "days"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "moon",
+    "href": "/families/moon/",
+    "type": "dir",
+    "title": "Moon",
+    "schemaCategory": "Mobile Phone Pockets",
+    "variantCount": 3
+  },
+  {
+    "name": "wind",
+    "href": "/families/wind/",
+    "type": "dir",
+    "title": "Wind",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "bay",
+    "href": "/families/bay/",
+    "type": "dir",
+    "title": "Bay",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1
+  }
+]

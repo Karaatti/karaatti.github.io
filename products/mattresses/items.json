@@ -1,0 +1,1148 @@
+[
+  {
+    "name": "moon-gold",
+    "href": "/products/mattresses/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold Mattress",
+    "summary": "Comfortable mattress with 7-zone pocket springs or memory foam, available in beige or anthracite and various sizes.",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_2.avif",
+    "sourceHref": "/products/mattresses/moon-gold/",
+    "filterData": {
+      "searchText": "Moon Gold Mattress Comfortable mattress with 7-zone pocket springs or memory foam, available in beige or anthracite and various sizes. Mattresses Moon Gold Bedroom Mattresses Moon Gold Beige Black Memory foam Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.5 m³ m³ Logistics Volume 0.6 m³ m³ Logistics Volume 0.34 m³ m³ Logistics Volume 0.35 m³ m³ Logistics Volume 0.38 m³ m³ Logistics Volume 0.39 m³ m³ Logistics Volume 0.59 m³ m³ Logistics Volume 0.67 m³ m³ Logistics Volume 0.68 m³ m³ Logistics Volume 0.75 m³ m³ Logistics Volume 0.76 m³ m³ Logistics Volume 0.77 m³ m³ Logistics Volume 0.84 m³ m³ Logistics Volume 0.88 m³ m³ Logistics Weight 10 kg kg Logistics Weight 15 kg kg Logistics Weight 16 kg kg Logistics Weight 17 kg kg Logistics Weight 18 kg kg Logistics Weight 19 kg kg Logistics Weight 20 kg kg Logistics Weight 22 kg kg Logistics Weight 23 kg kg Logistics Weight 24 kg kg Logistics Weight 25 kg kg Logistics Weight 27 kg kg Logistics Weight 29 kg kg Logistics Weight 30 kg kg Logistics Weight 31 kg kg Logistics Weight 32 kg kg Logistics Weight 34.5 kg kg Logistics Weight 38 kg kg Logistics Weight 40.2 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "mattresses",
+          "label": "Mattresses",
+          "href": "/products/mattresses/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "memory-foam",
+          "label": "Memory foam",
+          "href": "/materials/memory-foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "21-cm",
+          "valueLabel": "21 cm",
+          "href": "/attributes/dimensions/height/21-cm/",
+          "valueType": "enum",
+          "numericValue": 21,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/width/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "90-cm",
+          "valueLabel": "90 cm",
+          "href": "/attributes/dimensions/width/90-cm/",
+          "valueType": "enum",
+          "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "120-cm",
+          "valueLabel": "120 cm",
+          "href": "/attributes/dimensions/width/120-cm/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "140-cm",
+          "valueLabel": "140 cm",
+          "href": "/attributes/dimensions/width/140-cm/",
+          "valueType": "enum",
+          "numericValue": 140,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "160-cm",
+          "valueLabel": "160 cm",
+          "href": "/attributes/dimensions/width/160-cm/",
+          "valueType": "enum",
+          "numericValue": 160,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "180-cm",
+          "valueLabel": "180 cm",
+          "href": "/attributes/dimensions/width/180-cm/",
+          "valueType": "enum",
+          "numericValue": 180,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-5-m3",
+          "valueLabel": "0.5 m³",
+          "href": "/attributes/logistics/volume/0-5-m3/",
+          "valueType": "enum",
+          "numericValue": 0.5,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-6-m3",
+          "valueLabel": "0.6 m³",
+          "href": "/attributes/logistics/volume/0-6-m3/",
+          "valueType": "enum",
+          "numericValue": 0.6,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-34-m3",
+          "valueLabel": "0.34 m³",
+          "href": "/attributes/logistics/volume/0-34-m3/",
+          "valueType": "enum",
+          "numericValue": 0.34,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-35-m3",
+          "valueLabel": "0.35 m³",
+          "href": "/attributes/logistics/volume/0-35-m3/",
+          "valueType": "enum",
+          "numericValue": 0.35,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-38-m3",
+          "valueLabel": "0.38 m³",
+          "href": "/attributes/logistics/volume/0-38-m3/",
+          "valueType": "enum",
+          "numericValue": 0.38,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-39-m3",
+          "valueLabel": "0.39 m³",
+          "href": "/attributes/logistics/volume/0-39-m3/",
+          "valueType": "enum",
+          "numericValue": 0.39,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-59-m3",
+          "valueLabel": "0.59 m³",
+          "href": "/attributes/logistics/volume/0-59-m3/",
+          "valueType": "enum",
+          "numericValue": 0.59,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-67-m3",
+          "valueLabel": "0.67 m³",
+          "href": "/attributes/logistics/volume/0-67-m3/",
+          "valueType": "enum",
+          "numericValue": 0.67,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-68-m3",
+          "valueLabel": "0.68 m³",
+          "href": "/attributes/logistics/volume/0-68-m3/",
+          "valueType": "enum",
+          "numericValue": 0.68,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-75-m3",
+          "valueLabel": "0.75 m³",
+          "href": "/attributes/logistics/volume/0-75-m3/",
+          "valueType": "enum",
+          "numericValue": 0.75,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-76-m3",
+          "valueLabel": "0.76 m³",
+          "href": "/attributes/logistics/volume/0-76-m3/",
+          "valueType": "enum",
+          "numericValue": 0.76,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-77-m3",
+          "valueLabel": "0.77 m³",
+          "href": "/attributes/logistics/volume/0-77-m3/",
+          "valueType": "enum",
+          "numericValue": 0.77,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-84-m3",
+          "valueLabel": "0.84 m³",
+          "href": "/attributes/logistics/volume/0-84-m3/",
+          "valueType": "enum",
+          "numericValue": 0.84,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-88-m3",
+          "valueLabel": "0.88 m³",
+          "href": "/attributes/logistics/volume/0-88-m3/",
+          "valueType": "enum",
+          "numericValue": 0.88,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "10-kg",
+          "valueLabel": "10 kg",
+          "href": "/attributes/logistics/weight/10-kg/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "15-kg",
+          "valueLabel": "15 kg",
+          "href": "/attributes/logistics/weight/15-kg/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "16-kg",
+          "valueLabel": "16 kg",
+          "href": "/attributes/logistics/weight/16-kg/",
+          "valueType": "enum",
+          "numericValue": 16,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "18-kg",
+          "valueLabel": "18 kg",
+          "href": "/attributes/logistics/weight/18-kg/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "19-kg",
+          "valueLabel": "19 kg",
+          "href": "/attributes/logistics/weight/19-kg/",
+          "valueType": "enum",
+          "numericValue": 19,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "22-kg",
+          "valueLabel": "22 kg",
+          "href": "/attributes/logistics/weight/22-kg/",
+          "valueType": "enum",
+          "numericValue": 22,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "23-kg",
+          "valueLabel": "23 kg",
+          "href": "/attributes/logistics/weight/23-kg/",
+          "valueType": "enum",
+          "numericValue": 23,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "24-kg",
+          "valueLabel": "24 kg",
+          "href": "/attributes/logistics/weight/24-kg/",
+          "valueType": "enum",
+          "numericValue": 24,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "31-kg",
+          "valueLabel": "31 kg",
+          "href": "/attributes/logistics/weight/31-kg/",
+          "valueType": "enum",
+          "numericValue": 31,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "32-kg",
+          "valueLabel": "32 kg",
+          "href": "/attributes/logistics/weight/32-kg/",
+          "valueType": "enum",
+          "numericValue": 32,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "34-5-kg",
+          "valueLabel": "34.5 kg",
+          "href": "/attributes/logistics/weight/34-5-kg/",
+          "valueType": "enum",
+          "numericValue": 34.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "38-kg",
+          "valueLabel": "38 kg",
+          "href": "/attributes/logistics/weight/38-kg/",
+          "valueType": "enum",
+          "numericValue": 38,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "40-2-kg",
+          "valueLabel": "40.2 kg",
+          "href": "/attributes/logistics/weight/40-2-kg/",
+          "valueType": "enum",
+          "numericValue": 40.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "memory-warranty",
+          "label": "Memory warranty",
+          "valueKey": "2000-days",
+          "valueLabel": "2000 days",
+          "href": "/attributes/warranty/memory-warranty/2000-days/",
+          "valueType": "enum",
+          "numericValue": 2000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "spring-warranty",
+          "label": "Spring warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/spring-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Mattress",
+      "summary": "Comfortable mattress with 7-zone pocket springs or memory foam, available in beige or anthracite and various sizes.",
+      "variantCount": 28,
+      "categoryLabel": "Mattresses",
+      "collectionLabel": "",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "name": "moon-silver",
+    "href": "/products/mattresses/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver mattress",
+    "summary": "Pocket spring mattress with 5-zone support for individual body comfort. Available in various sizes and designed for practical, lasting use.",
+    "primaryImageUrl": "/products/mattresses/moon-silver/moon_silver_mattress_grey_1.avif",
+    "sourceHref": "/products/mattresses/moon-silver/",
+    "filterData": {
+      "searchText": "Moon Silver mattress Pocket spring mattress with 5-zone support for individual body comfort. Available in various sizes and designed for practical, lasting use. Mattresses Moon Silver Bedroom Mattresses Moon Silver Grey Metal Dimensions Depth 200 cm cm Dimensions Height 17 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.28 m³ m³ Logistics Volume 0.31 m³ m³ Logistics Volume 0.41 m³ m³ Logistics Volume 0.47 m³ m³ Logistics Volume 0.54 m³ m³ Logistics Volume 0.61 m³ m³ Logistics Volume 0.62 m³ m³ Logistics Weight 5 kg kg Logistics Weight 15 kg kg Logistics Weight 16 kg kg Logistics Weight 17 kg kg Logistics Weight 18 kg kg Logistics Weight 19 kg kg Logistics Weight 20 kg kg Logistics Weight 22 kg kg Logistics Weight 24 kg kg Logistics Weight 26 kg kg Logistics Weight 28 kg kg Setup Assembly time 0 min min Support Zone count 5-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "mattresses",
+          "label": "Mattresses",
+          "href": "/products/mattresses/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-silver",
+          "label": "Moon Silver",
+          "href": "/families/moon-silver/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "17-cm",
+          "valueLabel": "17 cm",
+          "href": "/attributes/dimensions/height/17-cm/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/width/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "90-cm",
+          "valueLabel": "90 cm",
+          "href": "/attributes/dimensions/width/90-cm/",
+          "valueType": "enum",
+          "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "120-cm",
+          "valueLabel": "120 cm",
+          "href": "/attributes/dimensions/width/120-cm/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "140-cm",
+          "valueLabel": "140 cm",
+          "href": "/attributes/dimensions/width/140-cm/",
+          "valueType": "enum",
+          "numericValue": 140,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "160-cm",
+          "valueLabel": "160 cm",
+          "href": "/attributes/dimensions/width/160-cm/",
+          "valueType": "enum",
+          "numericValue": 160,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "180-cm",
+          "valueLabel": "180 cm",
+          "href": "/attributes/dimensions/width/180-cm/",
+          "valueType": "enum",
+          "numericValue": 180,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-28-m3",
+          "valueLabel": "0.28 m³",
+          "href": "/attributes/logistics/volume/0-28-m3/",
+          "valueType": "enum",
+          "numericValue": 0.28,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-31-m3",
+          "valueLabel": "0.31 m³",
+          "href": "/attributes/logistics/volume/0-31-m3/",
+          "valueType": "enum",
+          "numericValue": 0.31,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-41-m3",
+          "valueLabel": "0.41 m³",
+          "href": "/attributes/logistics/volume/0-41-m3/",
+          "valueType": "enum",
+          "numericValue": 0.41,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-47-m3",
+          "valueLabel": "0.47 m³",
+          "href": "/attributes/logistics/volume/0-47-m3/",
+          "valueType": "enum",
+          "numericValue": 0.47,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-54-m3",
+          "valueLabel": "0.54 m³",
+          "href": "/attributes/logistics/volume/0-54-m3/",
+          "valueType": "enum",
+          "numericValue": 0.54,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-61-m3",
+          "valueLabel": "0.61 m³",
+          "href": "/attributes/logistics/volume/0-61-m3/",
+          "valueType": "enum",
+          "numericValue": 0.61,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-62-m3",
+          "valueLabel": "0.62 m³",
+          "href": "/attributes/logistics/volume/0-62-m3/",
+          "valueType": "enum",
+          "numericValue": 0.62,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "5-kg",
+          "valueLabel": "5 kg",
+          "href": "/attributes/logistics/weight/5-kg/",
+          "valueType": "enum",
+          "numericValue": 5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "15-kg",
+          "valueLabel": "15 kg",
+          "href": "/attributes/logistics/weight/15-kg/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "16-kg",
+          "valueLabel": "16 kg",
+          "href": "/attributes/logistics/weight/16-kg/",
+          "valueType": "enum",
+          "numericValue": 16,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "18-kg",
+          "valueLabel": "18 kg",
+          "href": "/attributes/logistics/weight/18-kg/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "19-kg",
+          "valueLabel": "19 kg",
+          "href": "/attributes/logistics/weight/19-kg/",
+          "valueType": "enum",
+          "numericValue": 19,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "22-kg",
+          "valueLabel": "22 kg",
+          "href": "/attributes/logistics/weight/22-kg/",
+          "valueType": "enum",
+          "numericValue": 22,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "24-kg",
+          "valueLabel": "24 kg",
+          "href": "/attributes/logistics/weight/24-kg/",
+          "valueType": "enum",
+          "numericValue": 24,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "26-kg",
+          "valueLabel": "26 kg",
+          "href": "/attributes/logistics/weight/26-kg/",
+          "valueType": "enum",
+          "numericValue": 26,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "28-kg",
+          "valueLabel": "28 kg",
+          "href": "/attributes/logistics/weight/28-kg/",
+          "valueType": "enum",
+          "numericValue": 28,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "5-zone",
+          "valueLabel": "5-zone",
+          "href": "/attributes/support/zone-count/5-zone/",
+          "valueType": "enum",
+          "numericValue": 5,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "spring-warranty",
+          "label": "Spring warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/spring-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Silver mattress",
+      "summary": "Pocket spring mattress with 5-zone support for individual body comfort. Available in various sizes and designed for practical, lasting use.",
+      "variantCount": 7,
+      "categoryLabel": "Mattresses",
+      "collectionLabel": "",
+      "productFamilyLabel": "Moon Silver"
+    }
+  }
+]

@@ -1,0 +1,319 @@
+{
+  "attributeKey": "seatHeight",
+  "attributeLabel": "Seat height",
+  "group": "seating",
+  "groupLabel": "Seating",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 6,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 38,
+        "max": 48,
+        "count": 6,
+        "distinctCount": 6
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "seating",
+      "groupLabel": "Seating",
+      "attributeKey": "seatHeight",
+      "attributeLabel": "Seat height",
+      "value": "38 cm",
+      "valueSlug": "38-cm",
+      "valueType": "measurement",
+      "numericValue": 38,
+      "unit": "cm",
+      "productTypes": [
+        "Outdoor Sun Loungers"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/house-nordic-derby",
+          "familyTitle": "House Nordic Derby",
+          "familySummary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+          "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+          "schemaCategory": "Outdoor Sun Loungers",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 38,
+            "max": 38,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "38 cm is a published seat height used across selected Nest & Living products. Common on Outdoor Sun Lounger."
+    },
+    {
+      "group": "seating",
+      "groupLabel": "Seating",
+      "attributeKey": "seatHeight",
+      "attributeLabel": "Seat height",
+      "value": "40 cm",
+      "valueSlug": "40-cm",
+      "valueType": "measurement",
+      "numericValue": 40,
+      "unit": "cm",
+      "productTypes": [
+        "Outdoor Lounge Seating",
+        "Swivel Chairs"
+      ],
+      "familyCount": 2,
+      "variantCount": 3,
+      "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/wind",
+          "familyTitle": "Wind",
+          "familySummary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+          "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/house-nordic-derby",
+          "familyTitle": "House Nordic Derby",
+          "familySummary": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
+          "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+          "schemaCategory": "Outdoor Lounge Seating",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 40,
+            "max": 40,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "40 cm is a published seat height used across selected Nest & Living products. Common on Outdoor Lounge Seating and Swivel Chair."
+    },
+    {
+      "group": "seating",
+      "groupLabel": "Seating",
+      "attributeKey": "seatHeight",
+      "attributeLabel": "Seat height",
+      "value": "41 cm",
+      "valueSlug": "41-cm",
+      "valueType": "measurement",
+      "numericValue": 41,
+      "unit": "cm",
+      "productTypes": [
+        "Outdoor Dining Chairs"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/saarni",
+          "familyTitle": "Saarni",
+          "familySummary": "Light brown stackable dining chair with aluminium frame and nonwood surfaces. Suitable for indoor and outdoor use.",
+          "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+          "schemaCategory": "Outdoor Dining Chairs",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 41,
+            "max": 41,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "41 cm is a published seat height used across selected Nest & Living products. Common on Outdoor Dining Chair."
+    },
+    {
+      "group": "seating",
+      "groupLabel": "Seating",
+      "attributeKey": "seatHeight",
+      "attributeLabel": "Seat height",
+      "value": "44 cm",
+      "valueSlug": "44-cm",
+      "valueType": "measurement",
+      "numericValue": 44,
+      "unit": "cm",
+      "productTypes": [
+        "3-Seater Sofas",
+        "Chaise Sofas",
+        "Corner Sofas",
+        "Footstools",
+        "Outdoor Dining Chairs",
+        "Swivel Chairs"
+      ],
+      "familyCount": 3,
+      "variantCount": 16,
+      "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/lugo",
+          "familyTitle": "Lugo",
+          "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+          "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+          "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+          "variantCount": 12
+        },
+        {
+          "familyRelativeDir": "families/blow",
+          "familyTitle": "Blow",
+          "familySummary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+          "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/messina",
+          "familyTitle": "Messina",
+          "familySummary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
+          "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+          "schemaCategory": "Outdoor Dining Chairs",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 44,
+            "max": 44,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "44 cm is a published seat height used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa, Corner Sofa, Footstool, Outdoor Dining Chair and Swivel Chair."
+    },
+    {
+      "group": "seating",
+      "groupLabel": "Seating",
+      "attributeKey": "seatHeight",
+      "attributeLabel": "Seat height",
+      "value": "47 cm",
+      "valueSlug": "47-cm",
+      "valueType": "measurement",
+      "numericValue": 47,
+      "unit": "cm",
+      "productTypes": [
+        "Swivel Chairs"
+      ],
+      "familyCount": 1,
+      "variantCount": 2,
+      "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/breeze",
+          "familyTitle": "Breeze",
+          "familySummary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
+          "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 47,
+            "max": 47,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "47 cm is a published seat height used across selected Nest & Living products. Common on Swivel Chair."
+    },
+    {
+      "group": "seating",
+      "groupLabel": "Seating",
+      "attributeKey": "seatHeight",
+      "attributeLabel": "Seat height",
+      "value": "48 cm",
+      "valueSlug": "48-cm",
+      "valueType": "measurement",
+      "numericValue": 48,
+      "unit": "cm",
+      "productTypes": [
+        "Corner Sofas"
+      ],
+      "familyCount": 1,
+      "variantCount": 2,
+      "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/haave",
+          "familyTitle": "Haave",
+          "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+          "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+          "schemaCategory": "Corner Sofas",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 48,
+            "max": 48,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "48 cm is a published seat height used across selected Nest & Living products. Common on Corner Sofa."
+    }
+  ]
+}

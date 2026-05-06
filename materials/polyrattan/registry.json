@@ -1,0 +1,56 @@
+{
+  "label": "Polyrattan",
+  "description": "Polyrattan in furniture: Flexible, weather-oriented and visually lighter than solid panel furniture.",
+  "intro": "Polyrattan appears across 2 product families and 7 options, especially on Outdoor Dining Chairs, Outdoor Dining Tables, Outdoor Lounge Seating, Outdoor Lounge Sets and Outdoor Sun Loungers.",
+  "chemistry": [
+    "Polyrattan is a synthetic wicker material, typically extruded polymer strands woven around a metal frame. It mimics natural rattan visually but is engineered for higher moisture and UV tolerance.",
+    "The weave itself is not usually the main structural element. The load path sits in the internal frame, while the outer strands provide enclosure, comfort texture and the characteristic basket-like look."
+  ],
+  "furnitureUse": [
+    "This makes polyrattan effective for outdoor lounge and dining furniture where customers want an airy woven expression without natural-rattan weather limitations.",
+    "Its weak point is long-term surface ageing. UV, cold cycles and mechanical rubbing can eventually make strands brittle, so frame quality and strand grade matter."
+  ],
+  "care": [
+    "Moisture and wear note: Handles rain and humidity well, provided the underlying frame and cushions are also outdoor-capable.",
+    "Care note: Rinse dust out of the weave and check the hidden frame because that often determines the real lifespan."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [],
+  "durability": [],
+  "relatedSpecifications": [],
+  "lifecycleRows": [],
+  "strengths": [
+    "outdoor-friendly woven look",
+    "good moisture tolerance",
+    "light visual footprint"
+  ],
+  "watchouts": [
+    "lifespan depends on UV grade",
+    "structural quality depends on hidden frame",
+    "strand brittleness can emerge with age"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Woven polymer strand"
+    },
+    {
+      "label": "Composition",
+      "value": "Usually polyethylene or similar synthetic rattan woven over a structural frame."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Flexible, weather-oriented and visually lighter than solid panel furniture."
+    },
+    {
+      "label": "Key strengths",
+      "value": "outdoor-friendly woven look, good moisture tolerance and light visual footprint"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "lifespan depends on UV grade, structural quality depends on hidden frame and strand brittleness can emerge with age"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

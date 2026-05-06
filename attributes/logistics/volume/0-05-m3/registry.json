@@ -1,0 +1,94 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.05 m³",
+  "valueSlug": "0-05-m3",
+  "valueType": "measurement",
+  "numericValue": 0.05,
+  "unit": "m³",
+  "productTypes": [
+    "Console Tables",
+    "Outdoor Dining Chairs",
+    "Rugs"
+  ],
+  "familyCount": 7,
+  "variantCount": 7,
+  "primaryImageUrl": "/products/rugs/amaris/amaris_rug_multicolour_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/amaris",
+      "familyTitle": "Amaris",
+      "familySummary": "A classic rug with a soft viscose pile and detailed pattern, available in two practical sizes.",
+      "primaryImageUrl": "/products/rugs/amaris/amaris_rug_multicolour_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/basalt",
+      "familyTitle": "Basalt",
+      "familySummary": "A soft viscose rug with a dark blue base and decorative floral pattern in light blue, cream, and white tones.",
+      "primaryImageUrl": "/products/rugs/basalt/200728_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/dolomite",
+      "familyTitle": "Dolomite",
+      "familySummary": "A soft and durable rug with a subtle stone-inspired pattern in versatile grey shades. Suitable for living rooms and bedrooms.",
+      "primaryImageUrl": "/products/rugs/dolomite/200730_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/lyra",
+      "familyTitle": "Lyra",
+      "familySummary": "A rug with a soft viscose pile and a sturdy wool base, woven to create a subtle three-dimensional pattern in warm tones.",
+      "primaryImageUrl": "/products/rugs/lyra/lyra_rug_brown_orange_beige_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/oak",
+      "familyTitle": "Oak",
+      "familySummary": "Oak console table in natural oak veneer offers a modern Scandinavian look for living rooms, hallways or offices. The warm brown tone creates a cozy atmosphere. Two integrated drawers provide practical storage. A versatile and durable piece that complements the home.",
+      "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+      "schemaCategory": "Console Tables",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/saaga",
+      "familyTitle": "Saaga",
+      "familySummary": "Saaga Rug features a blend of viscose pile and wool base, offering a soft feel and natural durability in a harmonious colour palette.",
+      "primaryImageUrl": "/products/rugs/saaga/saaga_rug_red_beige_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/saarni",
+      "familyTitle": "Saarni",
+      "familySummary": "Light brown stackable dining chair with aluminium frame and nonwood surfaces. Suitable for indoor and outdoor use.",
+      "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+      "schemaCategory": "Outdoor Dining Chairs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.05,
+        "max": 0.05,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.05 m³ is a published volume used across selected Nest & Living products. Common on Console Table, Outdoor Dining Chair and Rug."
+}

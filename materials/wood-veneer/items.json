@@ -1,0 +1,34 @@
+[
+  {
+    "name": "aava",
+    "href": "/products/chaise-sofas/aava/",
+    "type": "dir",
+    "title": "Aava",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 2
+  },
+  {
+    "name": "mystery",
+    "href": "/products/shelves/mystery/",
+    "type": "dir",
+    "title": "Mystery",
+    "schemaCategory": "Shelves",
+    "variantCount": 2
+  },
+  {
+    "name": "metz",
+    "href": "/products/dining-tables/metz/",
+    "type": "dir",
+    "title": "Metz",
+    "schemaCategory": "Dining Tables",
+    "variantCount": 1
+  },
+  {
+    "name": "oak",
+    "href": "/products/console-tables/oak/",
+    "type": "dir",
+    "title": "Oak",
+    "schemaCategory": "Console Tables",
+    "variantCount": 1
+  }
+]

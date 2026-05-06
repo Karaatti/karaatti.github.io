@@ -1,0 +1,42 @@
+{
+  "label": "Grey",
+  "description": "Grey in interiors: Creates calm and flexibility, but can flatten a room if every surface sits at the same temperature and value.",
+  "intro": "Grey appears across 31 product families and 115 options, especially on 3-Seater Sofas, 4-Seater Sofas, Adjustable Beds, Chaise Sofas, Continental Beds and Corner Sofas and 11 more.",
+  "theory": [
+    "Grey is only neutral at first glance. Warm greys connect easily with beige and oak, while cool greys pair better with black, blue and chrome-like finishes.",
+    "Its strength is restraint. Grey allows texture, silhouette and material contrast to become more visible, which is why it works well for large sofas and beds."
+  ],
+  "palette": [
+    "The safest grey palette combines at least one warm note and one tactile note. Wood, boucle, wool, linen-look fabrics or off-white walls stop grey-on-grey interiors from going flat.",
+    "Think in values: use light grey as the field, medium grey as the bridge and only small dark grey or black notes as anchors. Without value variation the room loses depth."
+  ],
+  "partners": [
+    "white",
+    "beige",
+    "oak",
+    "black",
+    "dusty blue"
+  ],
+  "profileRows": [
+    {
+      "label": "Colour role",
+      "value": "Balanced neutral"
+    },
+    {
+      "label": "Undertone",
+      "value": "May be warm greige, cool blue-grey or mineral charcoal depending on the finish."
+    },
+    {
+      "label": "Visual effect",
+      "value": "Creates calm and flexibility, but can flatten a room if every surface sits at the same temperature and value."
+    },
+    {
+      "label": "Works well with",
+      "value": "white, beige, oak, black and dusty blue"
+    },
+    {
+      "label": "Balancing move",
+      "value": "Introduce warmth through timber, wool and cream if the room risks feeling cold."
+    }
+  ]
+}

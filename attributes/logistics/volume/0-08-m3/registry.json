@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.08 m³",
+  "valueSlug": "0-08-m3",
+  "valueType": "measurement",
+  "numericValue": 0.08,
+  "unit": "m³",
+  "productTypes": [
+    "Coffee Tables"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/coffee-tables/islet/198067_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/islet",
+      "familyTitle": "Islet",
+      "familySummary": "Islet round coffee table in walnut brown with an 80 cm diameter. Features a durable MDF frame and a stable conical leg for everyday use.",
+      "primaryImageUrl": "/products/coffee-tables/islet/198067_1.avif",
+      "schemaCategory": "Coffee Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.08,
+        "max": 0.08,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.08 m³ is a published volume used across selected Nest & Living products. Common on Coffee Table."
+}

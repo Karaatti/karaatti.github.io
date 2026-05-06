@@ -1,0 +1,401 @@
+{
+  "sku": "210108",
+  "displayName": "Lugo 3-Seater Sofa, Beige",
+  "metaTitle": "Lugo 3-Seater Sofa, Beige - NEST & LIVING",
+  "metaDescription": "Beige fabric upholstery with a durable wooden frame and soft foam cushions.",
+  "ogTitle": "Lugo 3-Seater Sofa, Beige",
+  "ogDescription": "Beige fabric upholstery with a durable wooden frame and soft foam cushions.",
+  "shortDescription": "Beige fabric upholstery with a durable wooden frame and soft foam cushions.",
+  "familyDescription": "The Lugo sofa offers a calm and understated design suitable for everyday living. It features a sturdy frame made from solid wood, plywood, and chipboard, with soft foam cushions for comfort. The upholstery is smooth and designed to withstand daily use while being easy to maintain.",
+  "schemaCategory": "3-Seater Sofas",
+  "selectionAttributes": {
+    "dimensions": "222 x 97 cm",
+    "handedness": "",
+    "comfortType": "Comfort foam",
+    "color": "Beige",
+    "material": "Solid wood, Plywood, Foam, Particle board"
+  },
+  "attributes": [
+    {
+      "key": "seatDepth",
+      "label": "Seat depth",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "63 cm",
+      "valueSlug": "63-cm",
+      "rawValue": "63 cm",
+      "valueType": "enum",
+      "numericValue": 63,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Istuinsyvyys",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "seatHeight",
+      "label": "Seat height",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "44 cm",
+      "valueSlug": "44-cm",
+      "rawValue": "44 cm",
+      "valueType": "enum",
+      "numericValue": 44,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Istuinkorkeus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "legHeight",
+      "label": "Leg height",
+      "group": "configuration",
+      "groupLabel": "Configuration",
+      "value": "0.6 cm",
+      "valueSlug": "0-6-cm",
+      "rawValue": "0.6cm",
+      "valueType": "enum",
+      "numericValue": 0.6,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Jalkojen korkeus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "seatWidth",
+      "label": "Seat width",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "85 cm",
+      "valueSlug": "85-cm",
+      "rawValue": "85 cm",
+      "valueType": "enum",
+      "numericValue": 85,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Istuinleveys",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "armrestWidth",
+      "label": "Armrest width",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "26 cm",
+      "valueSlug": "26-cm",
+      "rawValue": "26 cm",
+      "valueType": "enum",
+      "numericValue": 26,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Käsinojan leveys",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "backrestHeight",
+      "label": "Backrest height",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "27 cm",
+      "valueSlug": "27-cm",
+      "rawValue": "27 cm",
+      "valueType": "enum",
+      "numericValue": 27,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Selkänojan korkeus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "222 cm",
+      "valueSlug": "222-cm",
+      "rawValue": "222 cm",
+      "valueType": "enum",
+      "numericValue": 222,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "97 cm",
+      "valueSlug": "97-cm",
+      "rawValue": "97 cm",
+      "valueType": "enum",
+      "numericValue": 97,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "70 cm",
+      "valueSlug": "70-cm",
+      "rawValue": "70 cm",
+      "valueType": "enum",
+      "numericValue": 70,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "66 kg",
+      "valueSlug": "66-kg",
+      "rawValue": "66 kg",
+      "valueType": "enum",
+      "numericValue": 66,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1.5 m³",
+      "valueSlug": "1-5-m3",
+      "rawValue": "1.5 m³",
+      "valueType": "enum",
+      "numericValue": 1.5,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "69.3 kg",
+      "valueSlug": "69-3-kg",
+      "rawValue": "69.3 kg",
+      "valueType": "enum",
+      "numericValue": 69.3,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "foamDensity",
+      "label": "Foam density",
+      "group": "padding",
+      "groupLabel": "Padding",
+      "value": "30 kg/m³",
+      "numericValue": 30,
+      "unit": "kg/m³",
+      "allowSpecificationAttributeLinking": true
+    },
+    {
+      "key": "legMaterial",
+      "label": "Leg material",
+      "group": "frame",
+      "groupLabel": "Frame and base",
+      "value": "Plastic",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    },
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Solid wood, Plywood, Foam, Particle board",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    },
+    {
+      "key": "martindale",
+      "label": "Martindale",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "30,000 Martindale",
+      "numericValue": 30000,
+      "unit": "Martindale",
+      "allowSpecificationAttributeLinking": true
+    },
+    {
+      "key": "lightfastness",
+      "label": "Lightfastness",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "4",
+      "numericValue": 4,
+      "unit": "",
+      "allowSpecificationAttributeLinking": true
+    },
+    {
+      "key": "pilling",
+      "label": "Pilling",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "4",
+      "numericValue": 4,
+      "unit": "",
+      "allowSpecificationAttributeLinking": true
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Beige",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/beige/\">Beige</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Solid wood, Plywood, Foam, Particle board",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/solid-wood/\">Solid wood</a><a class=\"spec-link-chip\" href=\"/materials/plywood/\">Plywood</a><a class=\"spec-link-chip\" href=\"/materials/foam/\">Foam</a><a class=\"spec-link-chip\" href=\"/materials/particle-board/\">Particle board</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "222 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "222 cm",
+          "href": "/attributes/dimensions/width/222-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/222-cm/\">222 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "97 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "97 cm",
+          "href": "/attributes/dimensions/depth/97-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/97-cm/\">97 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "70 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "70 cm",
+          "href": "/attributes/dimensions/height/70-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/70-cm/\">70 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "66 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "66 kg",
+          "href": "/attributes/logistics/weight/66-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/66-kg/\">66 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_1.avif",
+  "imageUrls": [
+    "/products/three-seater-sofas/lugo/210108_1.avif",
+    "/products/three-seater-sofas/lugo/210108_2.avif",
+    "/products/three-seater-sofas/lugo/210108_3.avif",
+    "/products/three-seater-sofas/lugo/210108_4.avif",
+    "/products/three-seater-sofas/lugo/210108_5.avif",
+    "/products/three-seater-sofas/lugo/210108_6.avif",
+    "/products/three-seater-sofas/lugo/210108_7.avif",
+    "/products/three-seater-sofas/lugo/210108_8.avif",
+    "/products/three-seater-sofas/lugo/210108_9.avif",
+    "/products/three-seater-sofas/lugo/210108_10.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/210108-lugo-3-istuttava-sohva-beige"
+}

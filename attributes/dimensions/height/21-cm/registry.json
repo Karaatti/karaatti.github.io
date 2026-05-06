@@ -1,0 +1,53 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "21 cm",
+  "valueSlug": "21-cm",
+  "valueType": "measurement",
+  "numericValue": 21,
+  "unit": "cm",
+  "productTypes": [
+    "Mattresses",
+    "Modular Sofas"
+  ],
+  "familyCount": 2,
+  "variantCount": 31,
+  "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Comfortable mattress with 7-zone pocket springs or memory foam, available in beige or anthracite and various sizes.",
+      "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+      "schemaCategory": "Mattresses",
+      "variantCount": 28
+    },
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Minimalist neck support cushion with polyester cover, easy to attach to most sofas. Available in Beige, brown, and grey.",
+      "primaryImageUrl": "/products/sofa-accessories/westcoast/209199_1.jpg",
+      "schemaCategory": "Sofa Accessories",
+      "variantCount": 3
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 21,
+        "max": 21,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "21 cm is a published height used across selected Nest & Living products. Common on Mattress and Modular Sofa."
+}

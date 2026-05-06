@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.42 m³",
+  "valueSlug": "0-42-m3",
+  "valueType": "measurement",
+  "numericValue": 0.42,
+  "unit": "m³",
+  "productTypes": [
+    "Continental Beds"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/continental-beds/moon-silver/197712_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "A practical and comfortable continental bed featuring 5-zone pocket springs for individual support. Available in grey or beige with high wooden legs for ease of cleaning.",
+      "primaryImageUrl": "/products/continental-beds/moon-silver/197712_1.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.42,
+        "max": 0.42,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.42 m³ is a published volume used across selected Nest & Living products. Common on Continental Bed."
+}

@@ -1,0 +1,242 @@
+{
+  "sku": "214018",
+  "displayName": "Staygentle Mattress Protector, 200 x 80 x 1 cm",
+  "metaTitle": "Staygentle Mattress Protector, 200 x 80 x 1 cm - NEST & LIVING",
+  "metaDescription": "Tencel mattress protectors from the Staygentle series.",
+  "ogTitle": "Staygentle Mattress Protector, 200 x 80 x 1 cm",
+  "ogDescription": "Tencel mattress protectors from the Staygentle series.",
+  "shortDescription": "Tencel mattress protectors from the Staygentle series.",
+  "familyDescription": "Tencel mattress protectors from the Staygentle series.",
+  "schemaCategory": "Mattress Protectors",
+  "selectionAttributes": {
+    "dimensions": "200 x 80 x 1 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "",
+    "material": "Polyester, Cotton, Tencel"
+  },
+  "attributes": [
+    {
+      "key": "cleaningMethod",
+      "label": "Cleaning method",
+      "group": "care",
+      "groupLabel": "Care",
+      "value": "Wash 60°C",
+      "valueSlug": "wash-60c",
+      "rawValue": "Vesipesu 60",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Ominaisuudet",
+      "sourceLabel": "Puhdistustapa",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "10 product",
+      "valueSlug": "10-product",
+      "rawValue": "10 kpl",
+      "valueType": "enum",
+      "numericValue": 10,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.23 m³",
+      "valueSlug": "0-23-m3",
+      "rawValue": "0.23 m³",
+      "valueType": "enum",
+      "numericValue": 0.23,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "8.9 kg",
+      "valueSlug": "8-9-kg",
+      "rawValue": "8.9 kg",
+      "valueType": "enum",
+      "numericValue": 8.9,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "200 cm",
+      "valueSlug": "200-cm",
+      "rawValue": "200 cm",
+      "valueType": "enum",
+      "numericValue": 200,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "80 cm",
+      "valueSlug": "80-cm",
+      "rawValue": "80 cm",
+      "valueType": "enum",
+      "numericValue": 80,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "1 cm",
+      "valueSlug": "1-cm",
+      "rawValue": "1 cm",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Polyester, Cotton, Tencel",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "White",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/white/\">White</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Polyester, Cotton, Tencel",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/polyester/\">Polyester</a><a class=\"spec-link-chip\" href=\"/materials/cotton/\">Cotton</a><a class=\"spec-link-chip\" href=\"/materials/tencel/\">Tencel</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "200 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/200-cm/\">200 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "80 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "80 cm",
+          "href": "/attributes/dimensions/depth/80-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/80-cm/\">80 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "1 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "1 cm",
+          "href": "/attributes/dimensions/height/1-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/1-cm/\">1 cm</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
+  "imageUrls": [
+    "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
+    "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_2.jpg",
+    "/products/mattress-protectors/staygentle/214018_1.avif",
+    "/products/mattress-protectors/staygentle/214018_2.avif"
+  ],
+  "retailerUrl": ""
+}

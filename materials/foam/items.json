@@ -1,0 +1,138 @@
+[
+  {
+    "name": "moon-gold",
+    "href": "/products/toppers/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Continental Beds, Divan Beds and Toppers",
+    "variantCount": 51
+  },
+  {
+    "name": "lugo",
+    "href": "/products/footstools/lugo/",
+    "type": "dir",
+    "title": "Lugo",
+    "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+    "variantCount": 12
+  },
+  {
+    "name": "moon-silver",
+    "href": "/products/toppers/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Toppers",
+    "variantCount": 8
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/products/toppers/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Toppers",
+    "variantCount": 7
+  },
+  {
+    "name": "heaven",
+    "href": "/products/four-seater-sofas/heaven/",
+    "type": "dir",
+    "title": "Heaven",
+    "schemaCategory": "4-Seater Sofas",
+    "variantCount": 6
+  },
+  {
+    "name": "voyage",
+    "href": "/products/armchairs/voyage/",
+    "type": "dir",
+    "title": "Voyage",
+    "schemaCategory": "Armchairs and 3-Seater Sofas",
+    "variantCount": 4
+  },
+  {
+    "name": "bow",
+    "href": "/products/dining-chairs/bow/",
+    "type": "dir",
+    "title": "Bow",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 3
+  },
+  {
+    "name": "nicola",
+    "href": "/products/dining-chairs/nicola/",
+    "type": "dir",
+    "title": "Nicola",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 3
+  },
+  {
+    "name": "aava",
+    "href": "/products/chaise-sofas/aava/",
+    "type": "dir",
+    "title": "Aava",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 2
+  },
+  {
+    "name": "blow",
+    "href": "/products/swivel-chairs/blow/",
+    "type": "dir",
+    "title": "Blow",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "breeze",
+    "href": "/products/swivel-chairs/breeze/",
+    "type": "dir",
+    "title": "Breeze",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "cloud",
+    "href": "/products/corner-sofas/cloud/",
+    "type": "dir",
+    "title": "Cloud",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 2
+  },
+  {
+    "name": "palazzo",
+    "href": "/products/outdoor-lounge-sets/palazzo/",
+    "type": "dir",
+    "title": "Palazzo",
+    "schemaCategory": "Outdoor Lounge Sets",
+    "variantCount": 2
+  },
+  {
+    "name": "wind",
+    "href": "/products/swivel-chairs/wind/",
+    "type": "dir",
+    "title": "Wind",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "bay",
+    "href": "/products/swivel-chairs/bay/",
+    "type": "dir",
+    "title": "Bay",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1
+  },
+  {
+    "name": "dove",
+    "href": "/products/armchairs/dove/",
+    "type": "dir",
+    "title": "Dove",
+    "schemaCategory": "Armchairs",
+    "variantCount": 1
+  },
+  {
+    "name": "sulo",
+    "href": "/products/three-seater-sofas/sulo/",
+    "type": "dir",
+    "title": "Sulo",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1
+  }
+]

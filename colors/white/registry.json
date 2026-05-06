@@ -1,0 +1,42 @@
+{
+  "label": "White",
+  "description": "White in interiors: Maximises perceived light and cleanliness, but reveals shadow, texture and dirt very clearly.",
+  "intro": "White appears across 11 product families and 37 options, especially on 3-Seater Sofas, Armchairs, Bar Stools, Decorative Cushions, Dining Tables and Mattress Protectors and 3 more.",
+  "theory": [
+    "White is rarely just absence of colour. Warm whites feel inviting and pair better with beige and oak, while cool whites sharpen black and blue contrasts.",
+    "It expands space visually because it reflects the most light, but it also exposes every contour and mark. That makes texture, stitching and material quality more noticeable."
+  ],
+  "palette": [
+    "The key to a good white palette is layering tone and texture rather than adding many competing colours. Boucle, oak, matte ceramics, wool and natural stone keep white interiors alive.",
+    "Use black or dark brown sparingly as punctuation, not as a second field everywhere. That preserves the lightness while still giving the room definition."
+  ],
+  "partners": [
+    "oak",
+    "beige",
+    "black",
+    "stone",
+    "soft pastel accents"
+  ],
+  "profileRows": [
+    {
+      "label": "Colour role",
+      "value": "Light-reflecting neutral"
+    },
+    {
+      "label": "Undertone",
+      "value": "Can be chalky cool, creamy warm or slightly greyed depending on finish."
+    },
+    {
+      "label": "Visual effect",
+      "value": "Maximises perceived light and cleanliness, but reveals shadow, texture and dirt very clearly."
+    },
+    {
+      "label": "Works well with",
+      "value": "oak, beige, black, stone and soft pastel accents"
+    },
+    {
+      "label": "Balancing move",
+      "value": "Add texture and warm natural materials so the room does not become clinically flat."
+    }
+  ]
+}

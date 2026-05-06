@@ -1,9 +1,15 @@
 <!-- search.html -->
-<body>
 <div class="search-wrapper">
-  <button type="button" class="search-button" title="Search products" aria-label="Open search">
+  <button
+    type="button"
+    class="search-button"
+    title="Search products"
+    aria-label="Open search"
+    aria-expanded="false"
+    aria-controls="site-search-panel"
+  >
+    <span class="search-button-label">Search</span>
 <svg viewBox="0 0 24 24" class="search-icon" xmlns="http://www.w3.org/2000/svg">
-
   <circle
     cx="12"
     cy="12"
@@ -23,10 +29,26 @@
     stroke-linecap="round"
   />
 </svg>
-
   </button>
-  <div class="search-panel">
-    <input type="text" class="search-input" placeholder="Search products..." />
-    <ul class="search-results"></ul>
+  <div
+    id="site-search-panel"
+    class="search-panel"
+    role="search"
+    aria-label="Product search"
+    aria-hidden="true"
+  >
+    <div class="search-surface with-texture">
+      <div class="search-field">
+        <input
+          type="search"
+          class="search-input"
+          placeholder="Search products..."
+          autocomplete="off"
+          aria-label="Search products"
+        />
+        <button type="button" class="search-close" aria-label="Close search">&times;</button>
+      </div>
+      <ul class="search-results" aria-live="polite"></ul>
+    </div>
   </div>
 </div>

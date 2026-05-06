@@ -1,0 +1,64 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "80 cm",
+  "valueSlug": "80-cm",
+  "valueType": "measurement",
+  "numericValue": 80,
+  "unit": "cm",
+  "productTypes": [
+    "3-Seater Sofas",
+    "Chaise Sofas",
+    "Console Tables",
+    "Corner Sofas",
+    "Dining Chairs"
+  ],
+  "familyCount": 3,
+  "variantCount": 31,
+  "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey.",
+      "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+      "schemaCategory": "Chaise Sofas, Corner Sofas and 3-Seater Sofas",
+      "variantCount": 27
+    },
+    {
+      "familyRelativeDir": "families/bow",
+      "familyTitle": "Bow",
+      "familySummary": "Upholstered dining chair with metal frame and plywood structure, available in three colours.",
+      "primaryImageUrl": "/products/dining-chairs/bow/198099_1.avif",
+      "schemaCategory": "Dining Chairs",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/oak",
+      "familyTitle": "Oak",
+      "familySummary": "Oak console table in natural oak veneer offers a modern Scandinavian look for living rooms, hallways or offices. The warm brown tone creates a cozy atmosphere. Two integrated drawers provide practical storage. A versatile and durable piece that complements the home.",
+      "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+      "schemaCategory": "Console Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 80,
+        "max": 80,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "80 cm is a published height used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa, Console Table, Corner Sofa and Dining Chair."
+}

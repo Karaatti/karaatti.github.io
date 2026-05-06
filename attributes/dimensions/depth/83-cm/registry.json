@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "83 cm",
+  "valueSlug": "83-cm",
+  "valueType": "measurement",
+  "numericValue": 83,
+  "unit": "cm",
+  "productTypes": [
+    "Swivel Chairs"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/bay",
+      "familyTitle": "Bay",
+      "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+      "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 83,
+        "max": 83,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "83 cm is a published depth used across selected Nest & Living products. Common on Swivel Chair."
+}

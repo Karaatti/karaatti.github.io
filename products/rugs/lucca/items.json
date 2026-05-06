@@ -1,0 +1,818 @@
+[
+  {
+    "sku": "191890",
+    "name": "191890",
+    "title": "Lucca Rug, 60 x 120 cm",
+    "variantSummary": "60 x 120 cm / Red",
+    "shortDescription": "Red, 60 x 120 cm. Smooth-surfaced oriental-style polypropylene rug.",
+    "selectionAttributes": {
+      "dimensions": "60 x 120 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Red",
+      "material": "Polypropylene"
+    },
+    "primaryImageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+    "imageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+    "imageUrls": [
+      "/products/rugs/lucca/lucca_rug_red_2.avif",
+      "/products/rugs/lucca/lucca_rug_red_3.avif",
+      "/products/rugs/lucca/lucca_rug_red_4.avif",
+      "/products/rugs/lucca/lucca_rug_red_5.avif",
+      "/products/rugs/lucca/lucca_rug_red_6.avif",
+      "/products/rugs/lucca/lucca_rug_red_9.avif",
+      "/products/rugs/lucca/lucca_rug_red_1.jpg",
+      "/products/rugs/lucca/lucca_rug_red_7.jpg",
+      "/products/rugs/lucca/lucca_rug_red_8.jpg",
+      "/products/rugs/lucca/191890_1.avif",
+      "/products/rugs/lucca/191890_2.jpg",
+      "/products/rugs/lucca/191890_3.jpg",
+      "/products/rugs/lucca/191890_4.jpg",
+      "/products/rugs/lucca/191890_5.jpg",
+      "/products/rugs/lucca/191890_6.jpg"
+    ],
+    "href": "/products/rugs/lucca/191890",
+    "type": "file",
+    "filterData": {
+      "searchText": "Lucca Rug, 60 x 120 cm Red, 60 x 120 cm. Smooth-surfaced oriental-style polypropylene rug. Rugs Home Details Lucca Home Details Rugs Lucca Red Polypropylene Dimensions Depth 120 cm cm Dimensions Height 1 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Weight 1.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "rugs",
+          "label": "Rugs",
+          "href": "/products/rugs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "lucca",
+          "label": "Lucca",
+          "href": "/families/lucca/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "red",
+          "label": "Red",
+          "href": "/colors/red/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "polypropylene",
+          "label": "Polypropylene",
+          "href": "/materials/polypropylene/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "120-cm",
+          "valueLabel": "120 cm",
+          "href": "/attributes/dimensions/depth/120-cm/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "1-cm",
+          "valueLabel": "1 cm",
+          "href": "/attributes/dimensions/height/1-cm/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/width/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-01-m3",
+          "valueLabel": "0.01 m³",
+          "href": "/attributes/logistics/volume/0-01-m3/",
+          "valueType": "enum",
+          "numericValue": 0.01,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-5-kg",
+          "valueLabel": "1.5 kg",
+          "href": "/attributes/logistics/weight/1-5-kg/",
+          "valueType": "enum",
+          "numericValue": 1.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Lucca Rug, 60 x 120 cm",
+      "summary": "Red, 60 x 120 cm. Smooth-surfaced oriental-style polypropylene rug.",
+      "variantCount": 1,
+      "categoryLabel": "Rugs",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Lucca"
+    }
+  },
+  {
+    "sku": "191891",
+    "name": "191891",
+    "title": "Lucca Rug, 80 x 150 cm",
+    "variantSummary": "80 x 150 cm / Red",
+    "shortDescription": "Red, 80 x 150 cm. Smooth-surfaced oriental-style polypropylene rug.",
+    "selectionAttributes": {
+      "dimensions": "80 x 150 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Red",
+      "material": "Polypropylene"
+    },
+    "primaryImageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+    "imageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+    "imageUrls": [
+      "/products/rugs/lucca/lucca_rug_red_2.avif",
+      "/products/rugs/lucca/lucca_rug_red_3.avif",
+      "/products/rugs/lucca/lucca_rug_red_4.avif",
+      "/products/rugs/lucca/lucca_rug_red_5.avif",
+      "/products/rugs/lucca/lucca_rug_red_6.avif",
+      "/products/rugs/lucca/lucca_rug_red_9.avif",
+      "/products/rugs/lucca/lucca_rug_red_1.jpg",
+      "/products/rugs/lucca/lucca_rug_red_7.jpg",
+      "/products/rugs/lucca/lucca_rug_red_8.jpg",
+      "/products/rugs/lucca/191891_1.avif",
+      "/products/rugs/lucca/191891_2.avif",
+      "/products/rugs/lucca/191891_3.avif",
+      "/products/rugs/lucca/191891_4.avif",
+      "/products/rugs/lucca/191891_5.avif",
+      "/products/rugs/lucca/191891_6.avif"
+    ],
+    "href": "/products/rugs/lucca/191891",
+    "type": "file",
+    "filterData": {
+      "searchText": "Lucca Rug, 80 x 150 cm Red, 80 x 150 cm. Smooth-surfaced oriental-style polypropylene rug. Rugs Home Details Lucca Home Details Rugs Lucca Red Polypropylene Dimensions Depth 150 cm cm Dimensions Height 1 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Weight 2 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "rugs",
+          "label": "Rugs",
+          "href": "/products/rugs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "lucca",
+          "label": "Lucca",
+          "href": "/families/lucca/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "red",
+          "label": "Red",
+          "href": "/colors/red/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "polypropylene",
+          "label": "Polypropylene",
+          "href": "/materials/polypropylene/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "150-cm",
+          "valueLabel": "150 cm",
+          "href": "/attributes/dimensions/depth/150-cm/",
+          "valueType": "enum",
+          "numericValue": 150,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "1-cm",
+          "valueLabel": "1 cm",
+          "href": "/attributes/dimensions/height/1-cm/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/width/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-01-m3",
+          "valueLabel": "0.01 m³",
+          "href": "/attributes/logistics/volume/0-01-m3/",
+          "valueType": "enum",
+          "numericValue": 0.01,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "2-kg",
+          "valueLabel": "2 kg",
+          "href": "/attributes/logistics/weight/2-kg/",
+          "valueType": "enum",
+          "numericValue": 2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Lucca Rug, 80 x 150 cm",
+      "summary": "Red, 80 x 150 cm. Smooth-surfaced oriental-style polypropylene rug.",
+      "variantCount": 1,
+      "categoryLabel": "Rugs",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Lucca"
+    }
+  },
+  {
+    "sku": "191892",
+    "name": "191892",
+    "title": "Lucca Rug, 160 x 230 cm",
+    "variantSummary": "160 x 230 cm / Red",
+    "shortDescription": "Red, 160 x 230 cm. Smooth-surfaced oriental-style polypropylene rug.",
+    "selectionAttributes": {
+      "dimensions": "160 x 230 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Red",
+      "material": "Polypropylene"
+    },
+    "primaryImageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+    "imageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+    "imageUrls": [
+      "/products/rugs/lucca/lucca_rug_red_2.avif",
+      "/products/rugs/lucca/lucca_rug_red_3.avif",
+      "/products/rugs/lucca/lucca_rug_red_4.avif",
+      "/products/rugs/lucca/lucca_rug_red_5.avif",
+      "/products/rugs/lucca/lucca_rug_red_6.avif",
+      "/products/rugs/lucca/lucca_rug_red_9.avif",
+      "/products/rugs/lucca/lucca_rug_red_1.jpg",
+      "/products/rugs/lucca/lucca_rug_red_7.jpg",
+      "/products/rugs/lucca/lucca_rug_red_8.jpg",
+      "/products/rugs/lucca/191892_1.avif",
+      "/products/rugs/lucca/191892_2.jpg",
+      "/products/rugs/lucca/191892_3.jpg",
+      "/products/rugs/lucca/191892_4.jpg",
+      "/products/rugs/lucca/191892_5.jpg",
+      "/products/rugs/lucca/191892_6.jpg"
+    ],
+    "href": "/products/rugs/lucca/191892",
+    "type": "file",
+    "filterData": {
+      "searchText": "Lucca Rug, 160 x 230 cm Red, 160 x 230 cm. Smooth-surfaced oriental-style polypropylene rug. Rugs Home Details Lucca Home Details Rugs Lucca Red Polypropylene Dimensions Depth 230 cm cm Dimensions Height 1 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.03 m³ m³ Logistics Weight 4 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "rugs",
+          "label": "Rugs",
+          "href": "/products/rugs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "lucca",
+          "label": "Lucca",
+          "href": "/families/lucca/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "red",
+          "label": "Red",
+          "href": "/colors/red/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "polypropylene",
+          "label": "Polypropylene",
+          "href": "/materials/polypropylene/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "230-cm",
+          "valueLabel": "230 cm",
+          "href": "/attributes/dimensions/depth/230-cm/",
+          "valueType": "enum",
+          "numericValue": 230,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "1-cm",
+          "valueLabel": "1 cm",
+          "href": "/attributes/dimensions/height/1-cm/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "160-cm",
+          "valueLabel": "160 cm",
+          "href": "/attributes/dimensions/width/160-cm/",
+          "valueType": "enum",
+          "numericValue": 160,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-03-m3",
+          "valueLabel": "0.03 m³",
+          "href": "/attributes/logistics/volume/0-03-m3/",
+          "valueType": "enum",
+          "numericValue": 0.03,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "4-kg",
+          "valueLabel": "4 kg",
+          "href": "/attributes/logistics/weight/4-kg/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Lucca Rug, 160 x 230 cm",
+      "summary": "Red, 160 x 230 cm. Smooth-surfaced oriental-style polypropylene rug.",
+      "variantCount": 1,
+      "categoryLabel": "Rugs",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Lucca"
+    }
+  },
+  {
+    "sku": "191893",
+    "name": "191893",
+    "title": "Lucca Rug, 200 x 300 cm",
+    "variantSummary": "200 x 300 cm / Red",
+    "shortDescription": "Red, 200 x 300 cm. Smooth-surfaced oriental-style polypropylene rug.",
+    "selectionAttributes": {
+      "dimensions": "200 x 300 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Red",
+      "material": "Polypropylene"
+    },
+    "primaryImageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+    "imageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+    "imageUrls": [
+      "/products/rugs/lucca/lucca_rug_red_2.avif",
+      "/products/rugs/lucca/lucca_rug_red_3.avif",
+      "/products/rugs/lucca/lucca_rug_red_4.avif",
+      "/products/rugs/lucca/lucca_rug_red_5.avif",
+      "/products/rugs/lucca/lucca_rug_red_6.avif",
+      "/products/rugs/lucca/lucca_rug_red_9.avif",
+      "/products/rugs/lucca/lucca_rug_red_1.jpg",
+      "/products/rugs/lucca/lucca_rug_red_7.jpg",
+      "/products/rugs/lucca/lucca_rug_red_8.jpg",
+      "/products/rugs/lucca/191893_1.avif",
+      "/products/rugs/lucca/191893_2.avif",
+      "/products/rugs/lucca/191893_3.avif",
+      "/products/rugs/lucca/191893_4.avif",
+      "/products/rugs/lucca/191893_5.avif",
+      "/products/rugs/lucca/191893_6.avif"
+    ],
+    "href": "/products/rugs/lucca/191893",
+    "type": "file",
+    "filterData": {
+      "searchText": "Lucca Rug, 200 x 300 cm Red, 200 x 300 cm. Smooth-surfaced oriental-style polypropylene rug. Rugs Home Details Lucca Home Details Rugs Lucca Red Polypropylene Dimensions Depth 300 cm cm Dimensions Height 1 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.06 m³ m³ Logistics Weight 7 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "rugs",
+          "label": "Rugs",
+          "href": "/products/rugs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "lucca",
+          "label": "Lucca",
+          "href": "/families/lucca/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "red",
+          "label": "Red",
+          "href": "/colors/red/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "polypropylene",
+          "label": "Polypropylene",
+          "href": "/materials/polypropylene/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "300-cm",
+          "valueLabel": "300 cm",
+          "href": "/attributes/dimensions/depth/300-cm/",
+          "valueType": "enum",
+          "numericValue": 300,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "1-cm",
+          "valueLabel": "1 cm",
+          "href": "/attributes/dimensions/height/1-cm/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-06-m3",
+          "valueLabel": "0.06 m³",
+          "href": "/attributes/logistics/volume/0-06-m3/",
+          "valueType": "enum",
+          "numericValue": 0.06,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "7-kg",
+          "valueLabel": "7 kg",
+          "href": "/attributes/logistics/weight/7-kg/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Lucca Rug, 200 x 300 cm",
+      "summary": "Red, 200 x 300 cm. Smooth-surfaced oriental-style polypropylene rug.",
+      "variantCount": 1,
+      "categoryLabel": "Rugs",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Lucca"
+    }
+  }
+]

@@ -1,0 +1,496 @@
+[
+  {
+    "sku": "191080",
+    "name": "191080",
+    "title": "Messina Outdoor Dining Chair, Black",
+    "variantSummary": "58 x 61 cm / Black",
+    "shortDescription": "Black, aluminium and plastic. Modern stackable dining chair with durable textline fabric, suitable for indoor and outdoor use.",
+    "selectionAttributes": {
+      "dimensions": "58 x 61 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Black",
+      "material": "Aluminium, Plastic"
+    },
+    "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+    "imageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+    "imageUrls": [
+      "/products/outdoor-dining-chairs/messina/191080_1.avif",
+      "/products/outdoor-dining-chairs/messina/191080_2.avif",
+      "/products/outdoor-dining-chairs/messina/191080_3.avif"
+    ],
+    "href": "/products/outdoor-dining-chairs/messina/191080",
+    "type": "file",
+    "filterData": {
+      "searchText": "Messina Outdoor Dining Chair, Black Black, aluminium and plastic. Modern stackable dining chair with durable textline fabric, suitable for indoor and outdoor use. Outdoor Dining Chairs Outdoor Messina Outdoor Outdoor Dining Chairs Messina Black Aluminium Plastic Dimensions Depth 61 cm cm Dimensions Height 91 cm cm Dimensions Width 58 cm cm Load Maximum load 150 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.32 m³ m³ Logistics Weight 3 kg kg Logistics Weight 4 kg kg Seating Seat depth 57 cm cm Seating Seat height 44 cm cm Seating Seat width 44 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "outdoor",
+          "label": "Outdoor",
+          "href": "/collections/outdoor"
+        }
+      ],
+      "categories": [
+        {
+          "key": "outdoor-dining-chairs",
+          "label": "Outdoor Dining Chairs",
+          "href": "/products/outdoor-dining-chairs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "messina",
+          "label": "Messina",
+          "href": "/families/messina/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "aluminium",
+          "label": "Aluminium",
+          "href": "/materials/aluminium/"
+        },
+        {
+          "key": "plastic",
+          "label": "Plastic",
+          "href": "/materials/plastic/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "61-cm",
+          "valueLabel": "61 cm",
+          "href": "/attributes/dimensions/depth/61-cm/",
+          "valueType": "enum",
+          "numericValue": 61,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "91-cm",
+          "valueLabel": "91 cm",
+          "href": "/attributes/dimensions/height/91-cm/",
+          "valueType": "enum",
+          "numericValue": 91,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "58-cm",
+          "valueLabel": "58 cm",
+          "href": "/attributes/dimensions/width/58-cm/",
+          "valueType": "enum",
+          "numericValue": 58,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "load",
+          "groupLabel": "Load",
+          "key": "maximum-load",
+          "label": "Maximum load",
+          "valueKey": "150-kg",
+          "valueLabel": "150 kg",
+          "href": "/attributes/load/maximum-load/150-kg/",
+          "valueType": "enum",
+          "numericValue": 150,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-32-m3",
+          "valueLabel": "0.32 m³",
+          "href": "/attributes/logistics/volume/0-32-m3/",
+          "valueType": "enum",
+          "numericValue": 0.32,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "3-kg",
+          "valueLabel": "3 kg",
+          "href": "/attributes/logistics/weight/3-kg/",
+          "valueType": "enum",
+          "numericValue": 3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "4-kg",
+          "valueLabel": "4 kg",
+          "href": "/attributes/logistics/weight/4-kg/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-depth",
+          "label": "Seat depth",
+          "valueKey": "57-cm",
+          "valueLabel": "57 cm",
+          "href": "/attributes/seating/seat-depth/57-cm/",
+          "valueType": "enum",
+          "numericValue": 57,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "44-cm",
+          "valueLabel": "44 cm",
+          "href": "/attributes/seating/seat-height/44-cm/",
+          "valueType": "enum",
+          "numericValue": 44,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-width",
+          "label": "Seat width",
+          "valueKey": "44-cm",
+          "valueLabel": "44 cm",
+          "href": "/attributes/seating/seat-width/44-cm/",
+          "valueType": "enum",
+          "numericValue": 44,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Messina Outdoor Dining Chair, Black",
+      "summary": "Black, aluminium and plastic. Modern stackable dining chair with durable textline fabric, suitable for indoor and outdoor use.",
+      "variantCount": 1,
+      "categoryLabel": "Outdoor Dining Chairs",
+      "collectionLabel": "Outdoor",
+      "productFamilyLabel": "Messina"
+    }
+  },
+  {
+    "sku": "206762",
+    "name": "206762",
+    "title": "Messina Outdoor Dining Chair, Beige",
+    "variantSummary": "58 x 61 cm / Beige",
+    "shortDescription": "Beige, aluminium and plastic. Modern stackable dining chair with durable textline fabric, suitable for indoor and outdoor use.",
+    "selectionAttributes": {
+      "dimensions": "58 x 61 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Beige",
+      "material": "Aluminium, Plastic"
+    },
+    "primaryImageUrl": "/products/outdoor-dining-chairs/messina/206762_1.avif",
+    "imageUrl": "/products/outdoor-dining-chairs/messina/206762_1.avif",
+    "imageUrls": [
+      "/products/outdoor-dining-chairs/messina/206762_1.avif",
+      "/products/outdoor-dining-chairs/messina/206762_2.avif",
+      "/products/outdoor-dining-chairs/messina/206762_3.avif",
+      "/products/outdoor-dining-chairs/messina/206762_4.avif",
+      "/products/outdoor-dining-chairs/messina/206762_5.avif",
+      "/products/outdoor-dining-chairs/messina/206762_6.avif",
+      "/products/outdoor-dining-chairs/messina/206762_7.avif"
+    ],
+    "href": "/products/outdoor-dining-chairs/messina/206762",
+    "type": "file",
+    "filterData": {
+      "searchText": "Messina Outdoor Dining Chair, Beige Beige, aluminium and plastic. Modern stackable dining chair with durable textline fabric, suitable for indoor and outdoor use. Outdoor Dining Chairs Outdoor Messina Outdoor Outdoor Dining Chairs Messina Beige Aluminium Plastic Dimensions Depth 61 cm cm Dimensions Height 91 cm cm Dimensions Width 58 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.3 m³ m³ Logistics Weight 3 kg kg Logistics Weight 4 kg kg Seating Seat depth 48 cm cm Seating Seat height 44 cm cm Seating Seat width 44 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "outdoor",
+          "label": "Outdoor",
+          "href": "/collections/outdoor"
+        }
+      ],
+      "categories": [
+        {
+          "key": "outdoor-dining-chairs",
+          "label": "Outdoor Dining Chairs",
+          "href": "/products/outdoor-dining-chairs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "messina",
+          "label": "Messina",
+          "href": "/families/messina/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "aluminium",
+          "label": "Aluminium",
+          "href": "/materials/aluminium/"
+        },
+        {
+          "key": "plastic",
+          "label": "Plastic",
+          "href": "/materials/plastic/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "61-cm",
+          "valueLabel": "61 cm",
+          "href": "/attributes/dimensions/depth/61-cm/",
+          "valueType": "enum",
+          "numericValue": 61,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "91-cm",
+          "valueLabel": "91 cm",
+          "href": "/attributes/dimensions/height/91-cm/",
+          "valueType": "enum",
+          "numericValue": 91,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "58-cm",
+          "valueLabel": "58 cm",
+          "href": "/attributes/dimensions/width/58-cm/",
+          "valueType": "enum",
+          "numericValue": 58,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "load",
+          "groupLabel": "Load",
+          "key": "maximum-load",
+          "label": "Maximum load",
+          "valueKey": "120-kg",
+          "valueLabel": "120 kg",
+          "href": "/attributes/load/maximum-load/120-kg/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-3-m3",
+          "valueLabel": "0.3 m³",
+          "href": "/attributes/logistics/volume/0-3-m3/",
+          "valueType": "enum",
+          "numericValue": 0.3,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "3-kg",
+          "valueLabel": "3 kg",
+          "href": "/attributes/logistics/weight/3-kg/",
+          "valueType": "enum",
+          "numericValue": 3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "4-kg",
+          "valueLabel": "4 kg",
+          "href": "/attributes/logistics/weight/4-kg/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-depth",
+          "label": "Seat depth",
+          "valueKey": "48-cm",
+          "valueLabel": "48 cm",
+          "href": "/attributes/seating/seat-depth/48-cm/",
+          "valueType": "enum",
+          "numericValue": 48,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "44-cm",
+          "valueLabel": "44 cm",
+          "href": "/attributes/seating/seat-height/44-cm/",
+          "valueType": "enum",
+          "numericValue": 44,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-width",
+          "label": "Seat width",
+          "valueKey": "44-cm",
+          "valueLabel": "44 cm",
+          "href": "/attributes/seating/seat-width/44-cm/",
+          "valueType": "enum",
+          "numericValue": 44,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Messina Outdoor Dining Chair, Beige",
+      "summary": "Beige, aluminium and plastic. Modern stackable dining chair with durable textline fabric, suitable for indoor and outdoor use.",
+      "variantCount": 1,
+      "categoryLabel": "Outdoor Dining Chairs",
+      "collectionLabel": "Outdoor",
+      "productFamilyLabel": "Messina"
+    }
+  }
+]

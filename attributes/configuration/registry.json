@@ -1,0 +1,511 @@
+[
+  {
+    "attributeKey": "handedness",
+    "attributeLabel": "Handedness",
+    "entries": [
+      {
+        "group": "configuration",
+        "groupLabel": "Configuration",
+        "attributeKey": "handedness",
+        "attributeLabel": "Handedness",
+        "value": "Left",
+        "valueSlug": "left",
+        "valueType": "enum",
+        "numericValue": null,
+        "unit": "",
+        "productTypes": [
+          "Chaise Sofas",
+          "Corner Sofas"
+        ],
+        "familyCount": 4,
+        "variantCount": 18,
+        "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/westcoast",
+            "familyTitle": "Westcoast",
+            "familySummary": "Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey.",
+            "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+            "schemaCategory": "Chaise Sofas and Corner Sofas",
+            "variantCount": 12
+          },
+          {
+            "familyRelativeDir": "families/lugo",
+            "familyTitle": "Lugo",
+            "familySummary": "A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame.",
+            "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+            "schemaCategory": "Chaise Sofas and Corner Sofas",
+            "variantCount": 4
+          },
+          {
+            "familyRelativeDir": "families/cloud",
+            "familyTitle": "Cloud",
+            "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+            "primaryImageUrl": "/products/corner-sofas/cloud/207498_1.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 1
+          },
+          {
+            "familyRelativeDir": "families/haave",
+            "familyTitle": "Haave",
+            "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+            "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 1
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            ""
+          ],
+          "ranges": [
+            {
+              "unit": "",
+              "min": 0,
+              "max": 0,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "Left is a published handedness option used across selected Nest & Living products. Common on Chaise Sofa and Corner Sofa."
+      },
+      {
+        "group": "configuration",
+        "groupLabel": "Configuration",
+        "attributeKey": "handedness",
+        "attributeLabel": "Handedness",
+        "value": "Right",
+        "valueSlug": "right",
+        "valueType": "enum",
+        "numericValue": null,
+        "unit": "",
+        "productTypes": [
+          "Chaise Sofas",
+          "Corner Sofas"
+        ],
+        "familyCount": 4,
+        "variantCount": 18,
+        "primaryImageUrl": "/products/chaise-sofas/westcoast/209134_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/westcoast",
+            "familyTitle": "Westcoast",
+            "familySummary": "Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey.",
+            "primaryImageUrl": "/products/chaise-sofas/westcoast/209134_1.avif",
+            "schemaCategory": "Chaise Sofas and Corner Sofas",
+            "variantCount": 12
+          },
+          {
+            "familyRelativeDir": "families/lugo",
+            "familyTitle": "Lugo",
+            "familySummary": "A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame.",
+            "primaryImageUrl": "/products/chaise-sofas/lugo/210106_1.avif",
+            "schemaCategory": "Chaise Sofas and Corner Sofas",
+            "variantCount": 4
+          },
+          {
+            "familyRelativeDir": "families/cloud",
+            "familyTitle": "Cloud",
+            "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+            "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 1
+          },
+          {
+            "familyRelativeDir": "families/haave",
+            "familyTitle": "Haave",
+            "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+            "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 1
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            ""
+          ],
+          "ranges": [
+            {
+              "unit": "",
+              "min": 0,
+              "max": 0,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "Right is a published handedness option used across selected Nest & Living products. Common on Chaise Sofa and Corner Sofa."
+      }
+    ],
+    "familyCount": 8,
+    "variantCount": 36,
+    "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        ""
+      ],
+      "ranges": [
+        {
+          "unit": "",
+          "min": 0,
+          "max": 0,
+          "count": 2,
+          "distinctCount": 1
+        }
+      ]
+    },
+    "valueType": "measurement"
+  },
+  {
+    "attributeKey": "handednessConfiguration",
+    "attributeLabel": "Handedness configuration",
+    "entries": [
+      {
+        "group": "configuration",
+        "groupLabel": "Configuration",
+        "attributeKey": "handednessConfiguration",
+        "attributeLabel": "Handedness configuration",
+        "value": "Fixed",
+        "valueSlug": "fixed",
+        "valueType": "enum",
+        "numericValue": null,
+        "unit": "",
+        "productTypes": [
+          "Chaise Sofas",
+          "Corner Sofas"
+        ],
+        "familyCount": 4,
+        "variantCount": 36,
+        "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/westcoast",
+            "familyTitle": "Westcoast",
+            "familySummary": "Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey.",
+            "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+            "schemaCategory": "Chaise Sofas and Corner Sofas",
+            "variantCount": 24
+          },
+          {
+            "familyRelativeDir": "families/lugo",
+            "familyTitle": "Lugo",
+            "familySummary": "A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame.",
+            "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+            "schemaCategory": "Chaise Sofas and Corner Sofas",
+            "variantCount": 8
+          },
+          {
+            "familyRelativeDir": "families/cloud",
+            "familyTitle": "Cloud",
+            "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+            "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 2
+          },
+          {
+            "familyRelativeDir": "families/haave",
+            "familyTitle": "Haave",
+            "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+            "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 2
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            ""
+          ],
+          "ranges": [
+            {
+              "unit": "",
+              "min": 0,
+              "max": 0,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "Fixed is a published handedness configuration option used across selected Nest & Living products. Common on Chaise Sofa and Corner Sofa."
+      },
+      {
+        "group": "configuration",
+        "groupLabel": "Configuration",
+        "attributeKey": "handednessConfiguration",
+        "attributeLabel": "Handedness configuration",
+        "value": "Reversible",
+        "valueSlug": "reversible",
+        "valueType": "enum",
+        "numericValue": null,
+        "unit": "",
+        "productTypes": [
+          "4-Seater Sofas"
+        ],
+        "familyCount": 1,
+        "variantCount": 3,
+        "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/heaven",
+            "familyTitle": "Heaven",
+            "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+            "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+            "schemaCategory": "4-Seater Sofas",
+            "variantCount": 3
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            ""
+          ],
+          "ranges": [
+            {
+              "unit": "",
+              "min": 0,
+              "max": 0,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "Reversible is a published handedness configuration option used across selected Nest & Living products. Common on 4-Seater Sofa."
+      },
+      {
+        "group": "configuration",
+        "groupLabel": "Configuration",
+        "attributeKey": "handednessConfiguration",
+        "attributeLabel": "Handedness configuration",
+        "value": "Self-configurable",
+        "valueSlug": "self-configurable",
+        "valueType": "enum",
+        "numericValue": null,
+        "unit": "",
+        "productTypes": [
+          "Chaise Sofas"
+        ],
+        "familyCount": 1,
+        "variantCount": 2,
+        "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/aava",
+            "familyTitle": "Aava",
+            "familySummary": "Spacious 4-seater chaise sofa with durable fabric upholstery and natural oak legs. Features reversible chaise for flexible layout.",
+            "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+            "schemaCategory": "Chaise Sofas",
+            "variantCount": 2
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            ""
+          ],
+          "ranges": [
+            {
+              "unit": "",
+              "min": 0,
+              "max": 0,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "Self-configurable is a published handedness configuration option used across selected Nest & Living products. Common on Chaise Sofa."
+      }
+    ],
+    "familyCount": 6,
+    "variantCount": 41,
+    "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+    "numericFilter": {
+      "numericEntryCount": 3,
+      "unitCount": 1,
+      "units": [
+        ""
+      ],
+      "ranges": [
+        {
+          "unit": "",
+          "min": 0,
+          "max": 0,
+          "count": 3,
+          "distinctCount": 1
+        }
+      ]
+    },
+    "valueType": "measurement"
+  },
+  {
+    "attributeKey": "legHeight",
+    "attributeLabel": "Leg height",
+    "entries": [
+      {
+        "group": "configuration",
+        "groupLabel": "Configuration",
+        "attributeKey": "legHeight",
+        "attributeLabel": "Leg height",
+        "value": "0.6 cm",
+        "valueSlug": "0-6-cm",
+        "valueType": "measurement",
+        "numericValue": 0.6,
+        "unit": "cm",
+        "productTypes": [
+          "3-Seater Sofas",
+          "Chaise Sofas",
+          "Corner Sofas",
+          "Footstools"
+        ],
+        "familyCount": 1,
+        "variantCount": 12,
+        "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/lugo",
+            "familyTitle": "Lugo",
+            "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+            "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+            "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+            "variantCount": 12
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 0.6,
+              "max": 0.6,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "0.6 cm is a published leg height used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa, Corner Sofa and Footstool."
+      },
+      {
+        "group": "configuration",
+        "groupLabel": "Configuration",
+        "attributeKey": "legHeight",
+        "attributeLabel": "Leg height",
+        "value": "15 cm",
+        "valueSlug": "15-cm",
+        "valueType": "measurement",
+        "numericValue": 15,
+        "unit": "cm",
+        "productTypes": [
+          "Adjustable Beds",
+          "Continental Beds"
+        ],
+        "familyCount": 1,
+        "variantCount": 8,
+        "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/moon-silver",
+            "familyTitle": "Moon Silver",
+            "familySummary": "Adjustable bed with 5-zone pocket spring support and wooden legs. Durable steel frame and ergonomic design for comfort.",
+            "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+            "schemaCategory": "Adjustable Beds and Continental Beds",
+            "variantCount": 8
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 15,
+              "max": 15,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "15 cm is a published leg height used across selected Nest & Living products. Common on Adjustable Bed and Continental Bed."
+      },
+      {
+        "group": "configuration",
+        "groupLabel": "Configuration",
+        "attributeKey": "legHeight",
+        "attributeLabel": "Leg height",
+        "value": "5 cm",
+        "valueSlug": "5-cm",
+        "valueType": "measurement",
+        "numericValue": 5,
+        "unit": "cm",
+        "productTypes": [
+          "Corner Sofas"
+        ],
+        "familyCount": 1,
+        "variantCount": 2,
+        "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/haave",
+            "familyTitle": "Haave",
+            "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+            "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 2
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 5,
+              "max": 5,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "5 cm is a published leg height used across selected Nest & Living products. Common on Corner Sofa."
+      }
+    ],
+    "familyCount": 3,
+    "variantCount": 22,
+    "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+    "numericFilter": {
+      "numericEntryCount": 3,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 0.6,
+          "max": 15,
+          "count": 3,
+          "distinctCount": 3
+        }
+      ]
+    },
+    "valueType": "measurement"
+  }
+]

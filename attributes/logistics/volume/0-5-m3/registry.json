@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.5 m³",
+  "valueSlug": "0-5-m3",
+  "valueType": "measurement",
+  "numericValue": 0.5,
+  "unit": "m³",
+  "productTypes": [
+    "Mattresses",
+    "Outdoor Sun Loungers"
+  ],
+  "familyCount": 2,
+  "variantCount": 5,
+  "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Comfortable mattress with 7-zone pocket springs or memory foam, available in beige or anthracite and various sizes.",
+      "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+      "schemaCategory": "Mattresses",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/house-nordic-derby",
+      "familyTitle": "House Nordic Derby",
+      "familySummary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+      "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+      "schemaCategory": "Outdoor Sun Loungers",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.5,
+        "max": 0.5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.5 m³ is a published volume used across selected Nest & Living products. Common on Mattress and Outdoor Sun Lounger."
+}

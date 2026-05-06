@@ -1,0 +1,101 @@
+[
+  {
+    "description": "Beige in interiors: Softens a room, reflects light gently and makes large upholstered forms feel calm instead of dominant.",
+    "name": "beige",
+    "label": "Beige",
+    "href": "/colors/beige/",
+    "type": "dir",
+    "familyCount": 53,
+    "variantCount": 137
+  },
+  {
+    "description": "Black in interiors: Frames space, sharpens silhouettes and creates the strongest value contrast available in an interior palette.",
+    "name": "black",
+    "label": "Black",
+    "href": "/colors/black/",
+    "type": "dir",
+    "familyCount": 17,
+    "variantCount": 63
+  },
+  {
+    "description": "Blue in interiors: Feels calm, slightly distant and airier than warm colours of equal depth.",
+    "name": "blue",
+    "label": "Blue",
+    "href": "/colors/blue/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 2
+  },
+  {
+    "description": "Brown in interiors: Grounds a room, adds warmth and connects strongly with wood, leather and natural-fibre textures.",
+    "name": "brown",
+    "label": "Brown",
+    "href": "/colors/brown/",
+    "type": "dir",
+    "familyCount": 29,
+    "variantCount": 42
+  },
+  {
+    "description": "Green in interiors: Feels organic and restorative, especially when paired with wood and stone-like neutrals.",
+    "name": "green",
+    "label": "Green",
+    "href": "/colors/green/",
+    "type": "dir",
+    "familyCount": 10,
+    "variantCount": 14
+  },
+  {
+    "description": "Grey in interiors: Creates calm and flexibility, but can flatten a room if every surface sits at the same temperature and value.",
+    "name": "grey",
+    "label": "Grey",
+    "href": "/colors/grey/",
+    "type": "dir",
+    "familyCount": 31,
+    "variantCount": 115
+  },
+  {
+    "description": "Multicolour in interiors: Adds movement, layering and narrative, but needs hierarchy to avoid visual noise.",
+    "name": "multicolour",
+    "label": "Multicolour",
+    "href": "/colors/multicolour/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 2
+  },
+  {
+    "description": "Orange in interiors: Brings warmth, movement and sociability, so it reads more active than beige, grey or blue.",
+    "name": "orange",
+    "label": "Orange",
+    "href": "/colors/orange/",
+    "type": "dir",
+    "familyCount": 2,
+    "variantCount": 5
+  },
+  {
+    "description": "Red in interiors: Signals energy and focus immediately, making it best as a controlled feature rather than background repetition.",
+    "name": "red",
+    "label": "Red",
+    "href": "/colors/red/",
+    "type": "dir",
+    "familyCount": 5,
+    "variantCount": 12
+  },
+  {
+    "description": "White in interiors: Maximises perceived light and cleanliness, but reveals shadow, texture and dirt very clearly.",
+    "name": "white",
+    "label": "White",
+    "href": "/colors/white/",
+    "type": "dir",
+    "familyCount": 11,
+    "variantCount": 37
+  },
+  {
+    "description": "Yellow in interiors: Adds optimism and visual lift, especially in darker rooms that need perceived warmth.",
+    "name": "yellow",
+    "label": "Yellow",
+    "href": "/colors/yellow/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 2
+  }
+]

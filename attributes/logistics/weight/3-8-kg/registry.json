@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "3.8 kg",
+  "valueSlug": "3-8-kg",
+  "valueType": "measurement",
+  "numericValue": 3.8,
+  "unit": "kg",
+  "productTypes": [
+    "Toppers"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+      "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
+      "schemaCategory": "Toppers",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 3.8,
+        "max": 3.8,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "3.8 kg is a published weight used across selected Nest & Living products. Common on Topper."
+}

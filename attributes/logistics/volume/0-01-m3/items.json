@@ -1,0 +1,42 @@
+[
+  {
+    "name": "moon",
+    "href": "/families/moon/",
+    "type": "dir",
+    "title": "Moon",
+    "schemaCategory": "Mobile Phone Pockets",
+    "variantCount": 3
+  },
+  {
+    "name": "dozza",
+    "href": "/families/dozza/",
+    "type": "dir",
+    "title": "Dozza",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "lucca",
+    "href": "/families/lucca/",
+    "type": "dir",
+    "title": "Lucca",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "sevilla",
+    "href": "/families/sevilla/",
+    "type": "dir",
+    "title": "Sevilla",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/families/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 1
+  }
+]

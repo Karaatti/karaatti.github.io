@@ -1,0 +1,48 @@
+{
+  "group": "upholstery",
+  "groupLabel": "Upholstery",
+  "attributeKey": "martindale",
+  "attributeLabel": "Martindale",
+  "value": "120,000 Martindale",
+  "valueSlug": "120-000-martindale",
+  "valueType": "measurement",
+  "numericValue": 120000,
+  "unit": "Martindale",
+  "productTypes": [
+    "3-Seater Sofas",
+    "Chaise Sofas",
+    "Corner Sofas",
+    "Footstools",
+    "Modular Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 33,
+  "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Compact footstool with a soft polyester cover and metal legs. Available in Beige, brown and grey.",
+      "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+      "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and Sofa Accessories and 1 more",
+      "variantCount": 33
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "Martindale"
+    ],
+    "ranges": [
+      {
+        "unit": "Martindale",
+        "min": 120000,
+        "max": 120000,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "120,000 Martindale is a published martindale used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa, Corner Sofa, Footstool and Modular Sofa."
+}

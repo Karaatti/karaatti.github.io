@@ -1,0 +1,154 @@
+{
+  "familyTitle": "Nest & Living Gold Pillow",
+  "familySummary": "Pillows designed for a fuller feel, including comfort and quilted options.",
+  "primaryImageUrl": "/products/pillows/nest-living-gold/201094_1.jpg",
+  "schemaCategory": "Pillows",
+  "variantCount": 2,
+  "productFamilyName": "Nest & Living Gold",
+  "productFamilyKey": "nest-living-gold",
+  "productFamilyRelativeDir": "families/nest-living-gold",
+  "filterData": {
+    "searchText": "Nest & Living Gold Pillow Pillows designed for a fuller feel, including comfort and quilted options. Pillows Bedroom Nest & Living Gold Bedroom Pillows Nest & Living Gold Cotton Polyester Care Cleaning method Water wash Dimensions Depth 50 cm cm Dimensions Height 14 cm cm Dimensions Height 16 cm cm Dimensions Width 60 cm cm Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+    "collections": [
+      {
+        "key": "bedroom",
+        "label": "Bedroom",
+        "href": "/collections/bedroom"
+      }
+    ],
+    "categories": [
+      {
+        "key": "pillows",
+        "label": "Pillows",
+        "href": "/products/pillows/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "nest-living-gold",
+        "label": "Nest & Living Gold",
+        "href": "/families/nest-living-gold/"
+      }
+    ],
+    "colors": [],
+    "materials": [
+      {
+        "key": "cotton",
+        "label": "Cotton",
+        "href": "/materials/cotton/"
+      },
+      {
+        "key": "polyester",
+        "label": "Polyester",
+        "href": "/materials/polyester/"
+      }
+    ],
+    "specifications": [],
+    "attributes": [
+      {
+        "groupKey": "care",
+        "groupLabel": "Care",
+        "key": "cleaning-method",
+        "label": "Cleaning method",
+        "valueKey": "water-wash",
+        "valueLabel": "Water wash",
+        "href": "/attributes/care/cleaning-method/water-wash/",
+        "valueType": "enum",
+        "numericValue": 0,
+        "unit": ""
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "depth",
+        "label": "Depth",
+        "valueKey": "50-cm",
+        "valueLabel": "50 cm",
+        "href": "/attributes/dimensions/depth/50-cm/",
+        "valueType": "enum",
+        "numericValue": 50,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "height",
+        "label": "Height",
+        "valueKey": "14-cm",
+        "valueLabel": "14 cm",
+        "href": "/attributes/dimensions/height/14-cm/",
+        "valueType": "enum",
+        "numericValue": 14,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "height",
+        "label": "Height",
+        "valueKey": "16-cm",
+        "valueLabel": "16 cm",
+        "href": "/attributes/dimensions/height/16-cm/",
+        "valueType": "enum",
+        "numericValue": 16,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "60-cm",
+        "valueLabel": "60 cm",
+        "href": "/attributes/dimensions/width/60-cm/",
+        "valueType": "enum",
+        "numericValue": 60,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "setup",
+        "groupLabel": "Setup",
+        "key": "assembly-time",
+        "label": "Assembly time",
+        "valueKey": "0-min",
+        "valueLabel": "0 min",
+        "href": "/attributes/setup/assembly-time/0-min/",
+        "valueType": "enum",
+        "numericValue": 0,
+        "unit": "min"
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "price-guarantee",
+        "label": "Price guarantee",
+        "valueKey": "30-days",
+        "valueLabel": "30 days",
+        "href": "/attributes/warranty/price-guarantee/30-days/",
+        "valueType": "enum",
+        "numericValue": 30,
+        "unit": "days"
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "quality-guarantee",
+        "label": "Quality guarantee",
+        "valueKey": "1000-days",
+        "valueLabel": "1000 days",
+        "href": "/attributes/warranty/quality-guarantee/1000-days/",
+        "valueType": "enum",
+        "numericValue": 1000,
+        "unit": "days"
+      }
+    ]
+  },
+  "sortData": {
+    "title": "Nest & Living Gold Pillow",
+    "summary": "Pillows designed for a fuller feel, including comfort and quilted options.",
+    "variantCount": 2,
+    "categoryLabel": "Pillows",
+    "collectionLabel": "Bedroom",
+    "productFamilyLabel": "Nest & Living Gold"
+  }
+}

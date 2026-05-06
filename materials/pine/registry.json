@@ -1,0 +1,82 @@
+{
+  "label": "Pine",
+  "description": "Pine in furniture: Light, warm-looking and easy to machine, but softer under impact.",
+  "intro": "Pine appears across 1 product family and 3 options, especially on Dining Tables.",
+  "chemistry": [
+    "Pine is a resinous softwood with relatively low density. That makes it easier to work and lighter to move than many hardwoods, but also more prone to indentation.",
+    "Its visual identity comes from knots, grain contrast and a naturally warm tone, all of which can shift with UV exposure and finishing oils."
+  ],
+  "furnitureUse": [
+    "Pine suits tables and case goods where the design benefits from a softer natural expression and where a little patina is acceptable or even desirable.",
+    "It is less ideal for thin highly loaded parts that must stay dent-free. The value case is warmth, weight efficiency and a more relaxed living-material character."
+  ],
+  "care": [
+    "Moisture and wear note: Moves with seasonal humidity like all solid wood and needs a maintained finish.",
+    "Care note: Protect from standing water and expect small dents and patina to appear in daily use."
+  ],
+  "terminology": [],
+  "thermal": [
+    "Pine feels warmer and less cold-to-touch than metal because heat transfer is slower. That makes it pleasant in visible bed frames and hand-contact surfaces.",
+    "Like other solid woods, its long-term dimensional changes come more from humidity than thermal expansion. Seasonal movement should be expected rather than treated as a defect on its own."
+  ],
+  "recycling": [
+    "Finland-first sorting baseline: intact pine furniture should go to reuse first. Broken pine parts usually belong to municipal bulky-furniture or local wood acceptance depending on finish and treatment.",
+    "Painted, stained or hardware-fixed pine should default to municipal bulky-waste handling unless the local operator explicitly accepts that finish in a wood stream."
+  ],
+  "durability": [
+    "Pine can serve for years in load-bearing furniture when section sizes and joinery are adequate, but the surface will show dents earlier than oak and other denser hardwoods.",
+    "Its ageing pattern is usually cosmetic first: marks, patina and movement before outright structural failure."
+  ],
+  "relatedSpecifications": [
+    "Pine frame",
+    "Solid pine slat",
+    "Painted pine component"
+  ],
+  "lifecycleRows": [
+    {
+      "label": "Recycling in Finland",
+      "value": "Prioritise reuse first; otherwise use municipal bulky-furniture or the local wood route depending on finish and local rules."
+    },
+    {
+      "label": "Expected wear profile",
+      "value": "Long usable life is possible, with dents, surface wear and seasonal movement appearing before major structural failure."
+    },
+    {
+      "label": "Retail warranty note",
+      "value": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+    }
+  ],
+  "strengths": [
+    "lightweight solid wood",
+    "warm natural expression",
+    "easy to machine and refinish"
+  ],
+  "watchouts": [
+    "dents more easily",
+    "knot movement and resin can influence finish",
+    "still moves with humidity"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Softwood"
+    },
+    {
+      "label": "Composition",
+      "value": "Softwood with lower density than oak and a more visible knot-and-growth-ring pattern."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Light, warm-looking and easy to machine, but softer under impact."
+    },
+    {
+      "label": "Key strengths",
+      "value": "lightweight solid wood, warm natural expression and easy to machine and refinish"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "dents more easily, knot movement and resin can influence finish and still moves with humidity"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

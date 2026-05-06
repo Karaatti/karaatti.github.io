@@ -1,0 +1,56 @@
+{
+  "label": "Paper",
+  "description": "Paper in furniture: Lightweight and design-flexible, but heavily dependent on coating and substrate support.",
+  "intro": "Paper appears across 3 product families and 5 options, especially on Coffee Tables.",
+  "chemistry": [
+    "Paper in furniture is rarely plain sheet paper. It usually appears as a treated fibre, cord, laminate layer or decorative wrap where cellulose fibres are stabilised by coatings, glue or composite construction.",
+    "That gives it surprising usefulness for texture and surface design, but the underlying cellulose still means moisture and abrasion control remain important."
+  ],
+  "furnitureUse": [
+    "Paper-based materials work best when they are protected by the full build: wrapped around a stable core, used as a decorative weave or specified as part of a composite surface rather than as a naked structural panel.",
+    "Their benefit is often visual lightness and crafted texture. Their limit is that deep water damage and abrasion are much harder to recover from than with solid wood or metal."
+  ],
+  "care": [
+    "Moisture and wear note: Paper fibres dislike prolonged wet exposure unless well sealed by resins or coatings.",
+    "Care note: Use dry or lightly damp cleaning only and avoid soaking the surface or scrubbing through the finish."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [],
+  "durability": [],
+  "relatedSpecifications": [],
+  "lifecycleRows": [],
+  "strengths": [
+    "lightweight decorative potential",
+    "can create interesting woven or wrapped textures",
+    "efficient use of fibre material"
+  ],
+  "watchouts": [
+    "sensitive to moisture if the finish fails",
+    "not a heavy structural material",
+    "abrasion can reveal the substrate quickly"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Paper-based surface or fibre element"
+    },
+    {
+      "label": "Composition",
+      "value": "Usually treated kraft paper, paper cord or paper-backed decorative material."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Lightweight and design-flexible, but heavily dependent on coating and substrate support."
+    },
+    {
+      "label": "Key strengths",
+      "value": "lightweight decorative potential, can create interesting woven or wrapped textures and efficient use of fibre material"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "sensitive to moisture if the finish fails, not a heavy structural material and abrasion can reveal the substrate quickly"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

@@ -1,0 +1,63 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.28 m³",
+  "valueSlug": "0-28-m3",
+  "valueType": "measurement",
+  "numericValue": 0.28,
+  "unit": "m³",
+  "productTypes": [
+    "Footstools",
+    "Headboards",
+    "Mattresses",
+    "Toppers"
+  ],
+  "familyCount": 3,
+  "variantCount": 6,
+  "primaryImageUrl": "/products/toppers/moon-gold/197748_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Grey latex mattress topper offers good support and breathability for a single bed. Suitable for improving sleep quality in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-gold/197748_1.avif",
+      "schemaCategory": "Headboards and Toppers",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+      "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+      "schemaCategory": "Footstools",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Pocket spring mattress with 5-zone support for individual body comfort. Available in various sizes and designed for practical, lasting use.",
+      "primaryImageUrl": "/products/mattresses/moon-silver/moon_silver_mattress_grey_1.avif",
+      "schemaCategory": "Mattresses",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.28,
+        "max": 0.28,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.28 m³ is a published volume used across selected Nest & Living products. Common on Footstool, Headboard, Mattress and Topper."
+}

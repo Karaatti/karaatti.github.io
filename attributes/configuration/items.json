@@ -1,0 +1,77 @@
+[
+  {
+    "name": "handedness",
+    "label": "Handedness",
+    "href": "/attributes/configuration/handedness/",
+    "type": "dir",
+    "entryCount": 2,
+    "variantCount": 36,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        ""
+      ],
+      "ranges": [
+        {
+          "unit": "",
+          "min": 0,
+          "max": 0,
+          "count": 2,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "handedness-configuration",
+    "label": "Handedness configuration",
+    "href": "/attributes/configuration/handedness-configuration/",
+    "type": "dir",
+    "entryCount": 3,
+    "variantCount": 41,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 3,
+      "unitCount": 1,
+      "units": [
+        ""
+      ],
+      "ranges": [
+        {
+          "unit": "",
+          "min": 0,
+          "max": 0,
+          "count": 3,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "leg-height",
+    "label": "Leg height",
+    "href": "/attributes/configuration/leg-height/",
+    "type": "dir",
+    "entryCount": 3,
+    "variantCount": 22,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 3,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 0.6,
+          "max": 15,
+          "count": 3,
+          "distinctCount": 3
+        }
+      ]
+    }
+  }
+]

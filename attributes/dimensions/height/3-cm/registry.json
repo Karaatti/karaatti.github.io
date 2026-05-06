@@ -1,0 +1,61 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "3 cm",
+  "valueSlug": "3-cm",
+  "valueType": "measurement",
+  "numericValue": 3,
+  "unit": "cm",
+  "productTypes": [
+    "Duvet & Pillow Sets",
+    "Duvets"
+  ],
+  "familyCount": 3,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-basic/201089_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nest-living-basic",
+      "familyTitle": "Nest & Living Basic",
+      "familySummary": "Soft and lightweight duvet set for easy-care everyday bedroom use.",
+      "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-basic/201089_1.avif",
+      "schemaCategory": "Duvet & Pillow Sets",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nest-living-bronze",
+      "familyTitle": "Nest & Living Bronze",
+      "familySummary": "Light duvet set with practical everyday comfort.",
+      "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
+      "schemaCategory": "Duvet & Pillow Sets",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nest-living-silver",
+      "familyTitle": "Nest & Living Silver",
+      "familySummary": "Duvets selected for everyday warmth, breathable fabrics, and practical bedroom use.",
+      "primaryImageUrl": "/products/duvets/nest-living-silver/201093_1.jpg",
+      "schemaCategory": "Duvets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 3,
+        "max": 3,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "3 cm is a published height used across selected Nest & Living products. Common on Duvet & Pillow Set and Duvet."
+}

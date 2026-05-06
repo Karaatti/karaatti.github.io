@@ -1,0 +1,34 @@
+[
+  {
+    "name": "metz",
+    "href": "/families/metz/",
+    "type": "dir",
+    "title": "Metz",
+    "schemaCategory": "Dining Tables",
+    "variantCount": 5
+  },
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Continental Beds and Headboards",
+    "variantCount": 4
+  },
+  {
+    "name": "haven",
+    "href": "/families/haven/",
+    "type": "dir",
+    "title": "Haven",
+    "schemaCategory": "Outdoor Dining Chairs",
+    "variantCount": 1
+  },
+  {
+    "name": "house-nordic-derby",
+    "href": "/families/house-nordic-derby/",
+    "type": "dir",
+    "title": "House Nordic Derby",
+    "schemaCategory": "Outdoor Lounge Seating",
+    "variantCount": 1
+  }
+]

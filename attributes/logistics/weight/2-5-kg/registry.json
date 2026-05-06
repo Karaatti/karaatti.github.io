@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "2.5 kg",
+  "valueSlug": "2-5-kg",
+  "valueType": "measurement",
+  "numericValue": 2.5,
+  "unit": "kg",
+  "productTypes": [
+    "Duvets"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nest-living-gold",
+      "familyTitle": "Nest & Living Gold",
+      "familySummary": "Warm duvets with a breathable fabric blend and a fuller feel.",
+      "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+      "schemaCategory": "Duvets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 2.5,
+        "max": 2.5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "2.5 kg is a published weight used across selected Nest & Living products. Common on Duvet."
+}

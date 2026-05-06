@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "87 kg",
+  "valueSlug": "87-kg",
+  "valueType": "measurement",
+  "numericValue": 87,
+  "unit": "kg",
+  "productTypes": [
+    "4-Seater Sofas",
+    "Continental Beds"
+  ],
+  "familyCount": 2,
+  "variantCount": 5,
+  "primaryImageUrl": "/products/four-seater-sofas/heaven/198384_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/heaven",
+      "familyTitle": "Heaven",
+      "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+      "primaryImageUrl": "/products/four-seater-sofas/heaven/198384_1.avif",
+      "schemaCategory": "4-Seater Sofas",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "A practical and comfortable continental bed featuring 5-zone pocket springs for individual support. Available in grey or beige with high wooden legs for ease of cleaning.",
+      "primaryImageUrl": "/products/continental-beds/moon-silver/moon_silver_continental_bed_grey_1.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 87,
+        "max": 87,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "87 kg is a published weight used across selected Nest & Living products. Common on 4-Seater Sofa and Continental Bed."
+}

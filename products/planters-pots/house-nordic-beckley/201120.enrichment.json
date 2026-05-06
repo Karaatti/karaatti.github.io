@@ -1,0 +1,286 @@
+{
+  "sku": "201120",
+  "displayName": "House Nordic Beckley Planter",
+  "metaTitle": "House Nordic Beckley Planter - NEST & LIVING",
+  "metaDescription": "Brown terracotta planter set with three sizes, suitable for indoor and outdoor use.",
+  "ogTitle": "House Nordic Beckley Planter",
+  "ogDescription": "Brown terracotta planter set with three sizes, suitable for indoor and outdoor use.",
+  "shortDescription": "Brown terracotta planter set with three sizes, suitable for indoor and outdoor use.",
+  "familyDescription": "The House Nordic Beckley planter set includes three brown terracotta pots in different sizes. Their rounded shapes and textured surfaces highlight the natural qualities of the clay. The set fits well in both indoor and outdoor spaces, bringing a calm and warm atmosphere.",
+  "schemaCategory": "Planters",
+  "selectionAttributes": {
+    "dimensions": "54 x 54 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Brown",
+    "material": "Terracotta"
+  },
+  "attributes": [
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "20 kg",
+      "valueSlug": "20-kg",
+      "rawValue": "20 kg",
+      "valueType": "enum",
+      "numericValue": 20,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width2",
+      "label": "Width 2",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "42 cm",
+      "valueSlug": "42-cm",
+      "rawValue": "42 cm",
+      "valueType": "enum",
+      "numericValue": 42,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Leveys 2",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "height2",
+      "label": "Height 2",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "42 cm",
+      "valueSlug": "42-cm",
+      "rawValue": "42cm",
+      "valueType": "enum",
+      "numericValue": 42,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Korkeus 2",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "depth2",
+      "label": "Depth 2",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "42 cm",
+      "valueSlug": "42-cm",
+      "rawValue": "42cm",
+      "valueType": "enum",
+      "numericValue": 42,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Syvyys 2",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.16 m³",
+      "valueSlug": "0-16-m3",
+      "rawValue": "0.16 m³",
+      "valueType": "enum",
+      "numericValue": 0.16,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "20.5 kg",
+      "valueSlug": "20-5-kg",
+      "rawValue": "20.5 kg",
+      "valueType": "enum",
+      "numericValue": 20.5,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "54 cm",
+      "valueSlug": "54-cm",
+      "rawValue": "54 cm",
+      "valueType": "enum",
+      "numericValue": 54,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "54 cm",
+      "valueSlug": "54-cm",
+      "rawValue": "54 cm",
+      "valueType": "enum",
+      "numericValue": 54,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "54 cm",
+      "valueSlug": "54-cm",
+      "rawValue": "54 cm",
+      "valueType": "enum",
+      "numericValue": 54,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Brown",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/brown/\">Brown</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Terracotta",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/terracotta/\">Terracotta</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "54 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "54 cm",
+          "href": "/attributes/dimensions/width/54-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/54-cm/\">54 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "54 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "54 cm",
+          "href": "/attributes/dimensions/depth/54-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/54-cm/\">54 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "54 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "54 cm",
+          "href": "/attributes/dimensions/height/54-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/54-cm/\">54 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "20 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "20 kg",
+          "href": "/attributes/logistics/weight/20-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/20-kg/\">20 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/planters-pots/house-nordic-beckley/201120_1.avif",
+  "imageUrls": [
+    "/products/planters-pots/house-nordic-beckley/201120_1.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/201120-house-nordic-beckley-saviruukku-3kpl-setti-ruskea"
+}

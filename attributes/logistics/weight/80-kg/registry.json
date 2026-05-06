@@ -1,0 +1,45 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "80 kg",
+  "valueSlug": "80-kg",
+  "valueType": "measurement",
+  "numericValue": 80,
+  "unit": "kg",
+  "productTypes": [
+    "Adjustable Beds",
+    "Continental Beds"
+  ],
+  "familyCount": 1,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_beige_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_beige_3.avif",
+      "schemaCategory": "Adjustable Beds and Continental Beds",
+      "variantCount": 3
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 80,
+        "max": 80,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "80 kg is a published weight used across selected Nest & Living products. Common on Adjustable Bed and Continental Bed."
+}

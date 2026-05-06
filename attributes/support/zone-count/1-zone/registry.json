@@ -1,0 +1,45 @@
+{
+  "group": "support",
+  "groupLabel": "Support",
+  "attributeKey": "zoneCount",
+  "attributeLabel": "Zone count",
+  "value": "1-zone",
+  "valueSlug": "1-zone",
+  "valueType": "measurement",
+  "numericValue": 1,
+  "unit": "",
+  "productTypes": [
+    "Adjustable Beds",
+    "Continental Beds"
+  ],
+  "familyCount": 1,
+  "variantCount": 7,
+  "primaryImageUrl": "/products/adjustable-beds/moon-bronze/moon_bronze_adjustable_bed_grey_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "A practical and stylish adjustable bed with a pocket spring base and tall smoked ash legs. Designed for comfort and easy maintenance.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-bronze/moon_bronze_adjustable_bed_grey_1.avif",
+      "schemaCategory": "Adjustable Beds and Continental Beds",
+      "variantCount": 7
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      ""
+    ],
+    "ranges": [
+      {
+        "unit": "",
+        "min": 1,
+        "max": 1,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "1-zone is a published zone count used across selected Nest & Living products. Common on Adjustable Bed and Continental Bed."
+}

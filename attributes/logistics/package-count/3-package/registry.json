@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "packageCount",
+  "attributeLabel": "Package count",
+  "value": "3 package",
+  "valueSlug": "3-package",
+  "valueType": "measurement",
+  "numericValue": 3,
+  "unit": "package",
+  "productTypes": [
+    "Outdoor Lounge Sets"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/outdoor-lounge-sets/nordic/MYYKESA2211_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Outdoor lounge set configurations from the Nordic collection with white aluminium frames, beige cushions, and selected layouts with integrated coffee tables.",
+      "primaryImageUrl": "/products/outdoor-lounge-sets/nordic/MYYKESA2211_1.avif",
+      "schemaCategory": "Outdoor Lounge Sets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "package"
+    ],
+    "ranges": [
+      {
+        "unit": "package",
+        "min": 3,
+        "max": 3,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "3 package is a published package count used across selected Nest & Living products. Common on Outdoor Lounge Set."
+}

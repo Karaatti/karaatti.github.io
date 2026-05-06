@@ -1,0 +1,56 @@
+{
+  "label": "Polypropylene",
+  "description": "Polypropylene in furniture: Light, stain resistant and highly moisture tolerant.",
+  "intro": "Polypropylene appears across 4 product families and 14 options, especially on Rugs.",
+  "chemistry": [
+    "Polypropylene is one of the most water-resistant common textile polymers. It repels moisture, dries quickly and resists many stains because the fibre does not readily absorb liquid.",
+    "Its weakness is heat and lower melting resistance compared with some other furniture materials. Under friction and warmth, lower-grade fibres can flatten or fuzz."
+  ],
+  "furnitureUse": [
+    "It is especially useful in rugs and some outdoor-friendly textiles where spill resistance, low weight and cost efficiency matter more than luxury hand feel.",
+    "For seating surfaces it tends to be valued more for practicality than richness. Designers often counter that by using textured yarns, mixes or pattern rather than relying on pure fibre character."
+  ],
+  "care": [
+    "Moisture and wear note: Very low water uptake, which makes it useful for indoor-outdoor rugs and easy-care textiles.",
+    "Care note: Keep away from high heat and vacuum gritty soil before it abrades the fibre surface."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [],
+  "durability": [],
+  "relatedSpecifications": [],
+  "lifecycleRows": [],
+  "strengths": [
+    "excellent moisture resistance",
+    "good stain resistance",
+    "lightweight"
+  ],
+  "watchouts": [
+    "lower heat tolerance",
+    "can flatten in heavy traffic",
+    "feel is usually more practical than luxurious"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Olefin polymer"
+    },
+    {
+      "label": "Composition",
+      "value": "Hydrophobic thermoplastic fibre or moulded polymer."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Light, stain resistant and highly moisture tolerant."
+    },
+    {
+      "label": "Key strengths",
+      "value": "excellent moisture resistance, good stain resistance and lightweight"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "lower heat tolerance, can flatten in heavy traffic and feel is usually more practical than luxurious"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

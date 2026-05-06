@@ -1,0 +1,314 @@
+{
+  "familyTitle": "Cloud Corner Sofas",
+  "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+  "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+  "schemaCategory": "Corner Sofas",
+  "variantCount": 2,
+  "productFamilyName": "Cloud",
+  "productFamilyKey": "cloud",
+  "productFamilyRelativeDir": "families/cloud",
+  "filterData": {
+    "searchText": "Cloud Corner Sofas Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors. Corner Sofas Living room Cloud Living room Corner Sofas Cloud Beige Foam Plywood Polyester Wood Care Cleaning method Wash 30°C Care Removable covers No Configuration Handedness configuration Fixed Dimensions Depth 205 cm cm Dimensions Height 83 cm cm Dimensions Width 258 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.82 m³ m³ Logistics Volume 0.98 m³ m³ Logistics Weight 50 kg kg Logistics Weight 60 kg kg Logistics Weight 110 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 3.5 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Quality guarantee 4000 days days",
+    "collections": [
+      {
+        "key": "living-room",
+        "label": "Living room",
+        "href": "/collections/living-room"
+      }
+    ],
+    "categories": [
+      {
+        "key": "corner-sofas",
+        "label": "Corner Sofas",
+        "href": "/products/corner-sofas/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "cloud",
+        "label": "Cloud",
+        "href": "/families/cloud/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "beige",
+        "label": "Beige",
+        "href": "/colors/beige/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "foam",
+        "label": "Foam",
+        "href": "/materials/foam/"
+      },
+      {
+        "key": "plywood",
+        "label": "Plywood",
+        "href": "/materials/plywood/"
+      },
+      {
+        "key": "polyester",
+        "label": "Polyester",
+        "href": "/materials/polyester/"
+      },
+      {
+        "key": "wood",
+        "label": "Wood",
+        "href": "/materials/wood/"
+      }
+    ],
+    "specifications": [],
+    "attributes": [
+      {
+        "groupKey": "care",
+        "groupLabel": "Care",
+        "key": "cleaning-method",
+        "label": "Cleaning method",
+        "valueKey": "wash-30c",
+        "valueLabel": "Wash 30°C",
+        "href": "/attributes/care/cleaning-method/wash-30c/",
+        "valueType": "enum",
+        "numericValue": 0,
+        "unit": ""
+      },
+      {
+        "groupKey": "care",
+        "groupLabel": "Care",
+        "key": "removable-covers",
+        "label": "Removable covers",
+        "valueKey": "no",
+        "valueLabel": "No",
+        "href": "/attributes/care/removable-covers/no/",
+        "valueType": "enum",
+        "numericValue": 0,
+        "unit": ""
+      },
+      {
+        "groupKey": "configuration",
+        "groupLabel": "Configuration",
+        "key": "handedness-configuration",
+        "label": "Handedness configuration",
+        "valueKey": "fixed",
+        "valueLabel": "Fixed",
+        "href": "/attributes/configuration/handedness-configuration/fixed/",
+        "valueType": "enum",
+        "numericValue": 0,
+        "unit": ""
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "depth",
+        "label": "Depth",
+        "valueKey": "205-cm",
+        "valueLabel": "205 cm",
+        "href": "/attributes/dimensions/depth/205-cm/",
+        "valueType": "enum",
+        "numericValue": 205,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "height",
+        "label": "Height",
+        "valueKey": "83-cm",
+        "valueLabel": "83 cm",
+        "href": "/attributes/dimensions/height/83-cm/",
+        "valueType": "enum",
+        "numericValue": 83,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "258-cm",
+        "valueLabel": "258 cm",
+        "href": "/attributes/dimensions/width/258-cm/",
+        "valueType": "enum",
+        "numericValue": 258,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-count",
+        "label": "Package count",
+        "valueKey": "1-package",
+        "valueLabel": "1 package",
+        "href": "/attributes/logistics/package-count/1-package/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "package"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "product-count",
+        "label": "Product count",
+        "valueKey": "1-product",
+        "valueLabel": "1 product",
+        "href": "/attributes/logistics/product-count/1-product/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "product"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-82-m3",
+        "valueLabel": "0.82 m³",
+        "href": "/attributes/logistics/volume/0-82-m3/",
+        "valueType": "enum",
+        "numericValue": 0.82,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-98-m3",
+        "valueLabel": "0.98 m³",
+        "href": "/attributes/logistics/volume/0-98-m3/",
+        "valueType": "enum",
+        "numericValue": 0.98,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "50-kg",
+        "valueLabel": "50 kg",
+        "href": "/attributes/logistics/weight/50-kg/",
+        "valueType": "enum",
+        "numericValue": 50,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "60-kg",
+        "valueLabel": "60 kg",
+        "href": "/attributes/logistics/weight/60-kg/",
+        "valueType": "enum",
+        "numericValue": 60,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "110-kg",
+        "valueLabel": "110 kg",
+        "href": "/attributes/logistics/weight/110-kg/",
+        "valueType": "enum",
+        "numericValue": 110,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "padding",
+        "groupLabel": "Padding",
+        "key": "foam-density",
+        "label": "Foam density",
+        "valueKey": "30-kg-m3",
+        "valueLabel": "30 kg/m³",
+        "href": "/attributes/padding/foam-density/30-kg-m3/",
+        "valueType": "enum",
+        "numericValue": 30,
+        "unit": "kg/m³"
+      },
+      {
+        "groupKey": "setup",
+        "groupLabel": "Setup",
+        "key": "assembly-time",
+        "label": "Assembly time",
+        "valueKey": "30-min",
+        "valueLabel": "30 min",
+        "href": "/attributes/setup/assembly-time/30-min/",
+        "valueType": "enum",
+        "numericValue": 30,
+        "unit": "min"
+      },
+      {
+        "groupKey": "upholstery",
+        "groupLabel": "Upholstery",
+        "key": "lightfastness",
+        "label": "Lightfastness",
+        "valueKey": "4",
+        "valueLabel": "4",
+        "href": "/attributes/upholstery/lightfastness/4/",
+        "valueType": "enum",
+        "numericValue": 4,
+        "unit": ""
+      },
+      {
+        "groupKey": "upholstery",
+        "groupLabel": "Upholstery",
+        "key": "pilling",
+        "label": "Pilling",
+        "valueKey": "3-5",
+        "valueLabel": "3.5",
+        "href": "/attributes/upholstery/pilling/3-5/",
+        "valueType": "enum",
+        "numericValue": 3.5,
+        "unit": ""
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "price-guarantee",
+        "label": "Price guarantee",
+        "valueKey": "30-days",
+        "valueLabel": "30 days",
+        "href": "/attributes/warranty/price-guarantee/30-days/",
+        "valueType": "enum",
+        "numericValue": 30,
+        "unit": "days"
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "quality-guarantee",
+        "label": "Quality guarantee",
+        "valueKey": "1000-days",
+        "valueLabel": "1000 days",
+        "href": "/attributes/warranty/quality-guarantee/1000-days/",
+        "valueType": "enum",
+        "numericValue": 1000,
+        "unit": "days"
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "quality-guarantee",
+        "label": "Quality guarantee",
+        "valueKey": "4000-days",
+        "valueLabel": "4000 days",
+        "href": "/attributes/warranty/quality-guarantee/4000-days/",
+        "valueType": "enum",
+        "numericValue": 4000,
+        "unit": "days"
+      }
+    ]
+  },
+  "sortData": {
+    "title": "Cloud Corner Sofas",
+    "summary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+    "variantCount": 2,
+    "categoryLabel": "Corner Sofas",
+    "collectionLabel": "Living room",
+    "productFamilyLabel": "Cloud"
+  }
+}

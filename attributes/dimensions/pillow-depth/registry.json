@@ -1,0 +1,77 @@
+{
+  "attributeKey": "pillowDepth",
+  "attributeLabel": "Pillow depth",
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 50,
+        "max": 50,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "attributeKey": "pillowDepth",
+      "attributeLabel": "Pillow depth",
+      "value": "50 cm",
+      "valueSlug": "50-cm",
+      "valueType": "measurement",
+      "numericValue": 50,
+      "unit": "cm",
+      "productTypes": [
+        "Duvet & Pillow Sets"
+      ],
+      "familyCount": 2,
+      "variantCount": 2,
+      "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-basic/201089_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/nest-living-basic",
+          "familyTitle": "Nest & Living Basic",
+          "familySummary": "Soft and lightweight duvet set for easy-care everyday bedroom use.",
+          "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-basic/201089_1.avif",
+          "schemaCategory": "Duvet & Pillow Sets",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/nest-living-bronze",
+          "familyTitle": "Nest & Living Bronze",
+          "familySummary": "Light duvet set with practical everyday comfort.",
+          "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
+          "schemaCategory": "Duvet & Pillow Sets",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 50,
+            "max": 50,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "50 cm is a published pillow depth used across selected Nest & Living products. Common on Duvet & Pillow Set."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "bay",
+    "href": "/families/bay/",
+    "type": "dir",
+    "title": "Bay",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1
+  },
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 1
+  },
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Divan Beds",
+    "variantCount": 1
+  }
+]

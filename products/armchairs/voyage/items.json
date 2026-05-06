@@ -1,0 +1,483 @@
+[
+  {
+    "sku": "208784",
+    "name": "208784",
+    "title": "Voyage Armchair, White",
+    "variantSummary": "90 x 88 cm / Comfort foam / White",
+    "shortDescription": "White cotton upholstery with solid wood frame and soft foam and feather seat.",
+    "selectionAttributes": {
+      "dimensions": "90 x 88 cm",
+      "handedness": "",
+      "comfortType": "Comfort foam",
+      "color": "White",
+      "material": "Solid wood, Plywood, Foam, Feather"
+    },
+    "primaryImageUrl": "/products/armchairs/voyage/208784_1.avif",
+    "imageUrl": "/products/armchairs/voyage/208784_1.avif",
+    "imageUrls": [
+      "/products/armchairs/voyage/208784_1.avif",
+      "/products/armchairs/voyage/208784_2.avif",
+      "/products/armchairs/voyage/208784_3.avif",
+      "/products/armchairs/voyage/208784_4.avif",
+      "/products/armchairs/voyage/208784_5.avif",
+      "/products/armchairs/voyage/208784_6.avif",
+      "/products/armchairs/voyage/208784_7.avif",
+      "/products/armchairs/voyage/208784_8.avif",
+      "/products/armchairs/voyage/208784_9.avif"
+    ],
+    "href": "/products/armchairs/voyage/208784",
+    "type": "file",
+    "filterData": {
+      "searchText": "Voyage Armchair, White White cotton upholstery with solid wood frame and soft foam and feather seat. Armchairs Living room Voyage Living room Armchairs Voyage White Feather Foam Plastic Plywood Solid wood Care Cleaning method Water wash Care Removable covers Yes Dimensions Depth 88 cm cm Dimensions Height 88 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.36 m³ m³ Logistics Weight 30 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "armchairs",
+          "label": "Armchairs",
+          "href": "/products/armchairs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "voyage",
+          "label": "Voyage",
+          "href": "/families/voyage/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "feather",
+          "label": "Feather",
+          "href": "/materials/feather/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "plastic",
+          "label": "Plastic",
+          "href": "/materials/plastic/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "solid-wood",
+          "label": "Solid wood",
+          "href": "/materials/solid-wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "water-wash",
+          "valueLabel": "Water wash",
+          "href": "/attributes/care/cleaning-method/water-wash/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "removable-covers",
+          "label": "Removable covers",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/care/removable-covers/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "88-cm",
+          "valueLabel": "88 cm",
+          "href": "/attributes/dimensions/depth/88-cm/",
+          "valueType": "enum",
+          "numericValue": 88,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "88-cm",
+          "valueLabel": "88 cm",
+          "href": "/attributes/dimensions/height/88-cm/",
+          "valueType": "enum",
+          "numericValue": 88,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "90-cm",
+          "valueLabel": "90 cm",
+          "href": "/attributes/dimensions/width/90-cm/",
+          "valueType": "enum",
+          "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-36-m3",
+          "valueLabel": "0.36 m³",
+          "href": "/attributes/logistics/volume/0-36-m3/",
+          "valueType": "enum",
+          "numericValue": 0.36,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "foam-density",
+          "label": "Foam density",
+          "valueKey": "30-kg-m3",
+          "valueLabel": "30 kg/m³",
+          "href": "/attributes/padding/foam-density/30-kg-m3/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg/m³"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Voyage Armchair, White",
+      "summary": "White cotton upholstery with solid wood frame and soft foam and feather seat.",
+      "variantCount": 1,
+      "categoryLabel": "Armchairs",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": "Voyage"
+    }
+  },
+  {
+    "sku": "208785",
+    "name": "208785",
+    "title": "Voyage Armchair, Green",
+    "variantSummary": "90 x 88 cm / Comfort foam / Green",
+    "shortDescription": "Sage green cotton upholstery with solid wood frame and soft foam and feather seat.",
+    "selectionAttributes": {
+      "dimensions": "90 x 88 cm",
+      "handedness": "",
+      "comfortType": "Comfort foam",
+      "color": "Green",
+      "material": "Solid wood, Plywood, Foam, Feather"
+    },
+    "primaryImageUrl": "/products/armchairs/voyage/208785_1.avif",
+    "imageUrl": "/products/armchairs/voyage/208785_1.avif",
+    "imageUrls": [
+      "/products/armchairs/voyage/208785_1.avif",
+      "/products/armchairs/voyage/208785_2.avif",
+      "/products/armchairs/voyage/208785_3.avif",
+      "/products/armchairs/voyage/208785_4.avif",
+      "/products/armchairs/voyage/208785_5.avif",
+      "/products/armchairs/voyage/208785_6.avif"
+    ],
+    "href": "/products/armchairs/voyage/208785",
+    "type": "file",
+    "filterData": {
+      "searchText": "Voyage Armchair, Green Sage green cotton upholstery with solid wood frame and soft foam and feather seat. Armchairs Living room Voyage Living room Armchairs Voyage Green Feather Foam Plastic Plywood Solid wood Care Cleaning method Water wash Care Removable covers Yes Dimensions Depth 88 cm cm Dimensions Height 88 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.36 m³ m³ Logistics Weight 30 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "armchairs",
+          "label": "Armchairs",
+          "href": "/products/armchairs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "voyage",
+          "label": "Voyage",
+          "href": "/families/voyage/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "green",
+          "label": "Green",
+          "href": "/colors/green/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "feather",
+          "label": "Feather",
+          "href": "/materials/feather/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "plastic",
+          "label": "Plastic",
+          "href": "/materials/plastic/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "solid-wood",
+          "label": "Solid wood",
+          "href": "/materials/solid-wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "water-wash",
+          "valueLabel": "Water wash",
+          "href": "/attributes/care/cleaning-method/water-wash/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "removable-covers",
+          "label": "Removable covers",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/care/removable-covers/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "88-cm",
+          "valueLabel": "88 cm",
+          "href": "/attributes/dimensions/depth/88-cm/",
+          "valueType": "enum",
+          "numericValue": 88,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "88-cm",
+          "valueLabel": "88 cm",
+          "href": "/attributes/dimensions/height/88-cm/",
+          "valueType": "enum",
+          "numericValue": 88,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "90-cm",
+          "valueLabel": "90 cm",
+          "href": "/attributes/dimensions/width/90-cm/",
+          "valueType": "enum",
+          "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-36-m3",
+          "valueLabel": "0.36 m³",
+          "href": "/attributes/logistics/volume/0-36-m3/",
+          "valueType": "enum",
+          "numericValue": 0.36,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "foam-density",
+          "label": "Foam density",
+          "valueKey": "30-kg-m3",
+          "valueLabel": "30 kg/m³",
+          "href": "/attributes/padding/foam-density/30-kg-m3/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg/m³"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Voyage Armchair, Green",
+      "summary": "Sage green cotton upholstery with solid wood frame and soft foam and feather seat.",
+      "variantCount": 1,
+      "categoryLabel": "Armchairs",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": "Voyage"
+    }
+  }
+]

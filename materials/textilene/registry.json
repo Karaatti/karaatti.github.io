@@ -1,0 +1,56 @@
+{
+  "label": "Textilene",
+  "description": "Textilene in furniture: Taut, quick drying and supportive without thick cushioning.",
+  "intro": "Textilene appears across 1 product family and 2 options, especially on Outdoor Lounge Sets.",
+  "chemistry": [
+    "Textilene is usually a PVC-coated polyester mesh engineered for outdoor seating. The polyester yarn provides tensile strength while the coating improves weathering and cleanability.",
+    "Because the weave is open, air and water move through it much more easily than through dense upholstery fabric. That is a major reason it is popular in terrace furniture."
+  ],
+  "furnitureUse": [
+    "It performs well in sling chairs and outdoor lounge pieces where the structure itself should breathe, dry quickly and stay visually light.",
+    "Its limits are tactile rather than structural. It feels firmer and more technical than padded upholstery, and long unsupported spans can sag if tensioning is weak."
+  ],
+  "care": [
+    "Moisture and wear note: Designed for outdoor moisture exposure and fast drainage.",
+    "Care note: Rinse sunscreen, pollen and dirt out of the mesh so the coating stays cleaner and more flexible."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [],
+  "durability": [],
+  "relatedSpecifications": [],
+  "lifecycleRows": [],
+  "strengths": [
+    "quick drying",
+    "breathable",
+    "well suited to outdoor sling seating"
+  ],
+  "watchouts": [
+    "firmer comfort feel",
+    "quality depends on mesh tension and coating",
+    "can heat up in strong sun"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Outdoor technical mesh"
+    },
+    {
+      "label": "Composition",
+      "value": "Typically PVC-coated polyester yarn woven into a breathable sling fabric."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Taut, quick drying and supportive without thick cushioning."
+    },
+    {
+      "label": "Key strengths",
+      "value": "quick drying, breathable and well suited to outdoor sling seating"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "firmer comfort feel, quality depends on mesh tension and coating and can heat up in strong sun"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

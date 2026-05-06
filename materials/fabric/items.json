@@ -1,0 +1,138 @@
+[
+  {
+    "name": "moon-gold",
+    "href": "/products/divan-beds/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Adjustable Beds, Continental Beds, Divan Beds and Headboards",
+    "variantCount": 64
+  },
+  {
+    "name": "moon-silver",
+    "href": "/products/divan-beds/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Adjustable Beds, Continental Beds, Divan Beds and Headboards",
+    "variantCount": 32
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/products/toppers/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Continental Beds, Divan Beds, Headboards and Toppers",
+    "variantCount": 30
+  },
+  {
+    "name": "nordic",
+    "href": "/products/outdoor-lounge-sets/nordic/",
+    "type": "dir",
+    "title": "Nordic",
+    "schemaCategory": "Outdoor Lounge Seating and Outdoor Lounge Sets",
+    "variantCount": 7
+  },
+  {
+    "name": "heaven",
+    "href": "/products/four-seater-sofas/heaven/",
+    "type": "dir",
+    "title": "Heaven",
+    "schemaCategory": "4-Seater Sofas",
+    "variantCount": 6
+  },
+  {
+    "name": "haley",
+    "href": "/products/footstools/haley/",
+    "type": "dir",
+    "title": "Haley",
+    "schemaCategory": "Footstools",
+    "variantCount": 4
+  },
+  {
+    "name": "bow",
+    "href": "/products/dining-chairs/bow/",
+    "type": "dir",
+    "title": "Bow",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 3
+  },
+  {
+    "name": "moon",
+    "href": "/products/mobile-phone-pockets/moon/",
+    "type": "dir",
+    "title": "Moon",
+    "schemaCategory": "Mobile Phone Pockets",
+    "variantCount": 3
+  },
+  {
+    "name": "nicola",
+    "href": "/products/dining-chairs/nicola/",
+    "type": "dir",
+    "title": "Nicola",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 3
+  },
+  {
+    "name": "eagle",
+    "href": "/products/armchairs/eagle/",
+    "type": "dir",
+    "title": "Eagle",
+    "schemaCategory": "Armchairs",
+    "variantCount": 2
+  },
+  {
+    "name": "merida",
+    "href": "/products/bar-stools/merida/",
+    "type": "dir",
+    "title": "Merida",
+    "schemaCategory": "Bar Stools",
+    "variantCount": 2
+  },
+  {
+    "name": "moonlit",
+    "href": "/products/bed-frames/moonlit/",
+    "type": "dir",
+    "title": "Moonlit",
+    "schemaCategory": "Bed Frames",
+    "variantCount": 2
+  },
+  {
+    "name": "bay",
+    "href": "/products/swivel-chairs/bay/",
+    "type": "dir",
+    "title": "Bay",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1
+  },
+  {
+    "name": "casa",
+    "href": "/products/bed-frames/casa/",
+    "type": "dir",
+    "title": "Casa",
+    "schemaCategory": "Bed Frames",
+    "variantCount": 1
+  },
+  {
+    "name": "dove",
+    "href": "/products/armchairs/dove/",
+    "type": "dir",
+    "title": "Dove",
+    "schemaCategory": "Armchairs",
+    "variantCount": 1
+  },
+  {
+    "name": "haven",
+    "href": "/products/outdoor-dining-chairs/haven/",
+    "type": "dir",
+    "title": "Haven",
+    "schemaCategory": "Outdoor Dining Chairs",
+    "variantCount": 1
+  },
+  {
+    "name": "sulo",
+    "href": "/products/three-seater-sofas/sulo/",
+    "type": "dir",
+    "title": "Sulo",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1
+  }
+]

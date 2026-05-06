@@ -1,93 +1,432 @@
 <!DOCTYPE html>
-<html lang="fi">
-
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>NEST &amp; LIVING</title>
-    <meta name="description" content="Explore NEST & LIVING FAQs addressing product care, order tracking, returns, and collaboration opportunities.">
+  <title>FAQ and Collaboration Applications - NEST &amp; LIVING</title>
+  <meta
+    name="description"
+    content="Read Nest &amp; Living FAQs, see how support cases are handled, and open supplier or retailer application forms for manual review."
+  />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="canonical" href="https://nestliving.dk/faq" />
   <link rel="stylesheet" href="/styles.css" />
+  <script src="/script.js" defer></script>
 </head>
-<!-- HEADER USING AJAX (header.html) -->
 <body>
-  <!-- ===================== HERO SECTION ===================== -->
-   <main id="content">
-	        <nav class="breadcrumbs"><a href="/index.html">« Back</a> / <a href="/faq.html">FAQ</a></nav>
-			<h1>NEST & LIVING - Frequently Asked Questions</h1>
-    <section class="faq-item">
-      <h2 class="question">How can I track my order?</h2>
-      <div class="answer">
-        Once your order ships, you’ll receive a confirmation email with a tracking number and link.
-        Our retailer partners arrange the delivery or pick-up, so feel free to contact them.
-      </div>
-    </section>
+<header id="site-header" class="header">
+  <div class="header-container with-texture-2">
+    <a href="/" class="logo"><img src="/images/logo_small.svg" alt="Nest &amp; Living logo"><span class="logo-text">Nest &amp; Living</span></a>
 
-    <section class="faq-item">
-      <h2 class="question">What is your return policy?</h2>
-      <div class="answer">
-        We accept returns within 30 days of delivery on most unused items in their original condition.
-        Please start your return through the retailer you purchased from. If you have any issues, contact our support team.
+    <div class="header-search-slot" data-lazy-search-host="true">
+      <div class="search-wrapper search-wrapper--header">
+        <form class="search-form" role="search" aria-label="Product search" novalidate>
+          <div class="search-field">
+            <input
+              type="search"
+              class="search-input"
+              placeholder="Search products..."
+              autocomplete="off"
+              aria-label="Search products"
+              aria-controls="site-search-panel"
+              aria-expanded="false"
+            />
+            <button
+              type="button"
+              class="search-button"
+              title="Search products"
+              aria-label="Search products"
+              aria-expanded="false"
+              aria-controls="site-search-panel"
+            >
+              <svg viewBox="0 0 24 24" class="search-icon search-button-icon search-button-icon--search" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="6"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  fill="none"
+                />
+                <line
+                  x1="16.5"
+                  y1="16.5"
+                  x2="22"
+                  y2="22"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                />
+              </svg>
+              <svg viewBox="0 0 24 24" class="search-icon search-button-icon search-button-icon--clear" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                <line
+                  x1="6"
+                  y1="6"
+                  x2="18"
+                  y2="18"
+                  stroke="currentColor"
+                  stroke-width="2.2"
+                  stroke-linecap="round"
+                />
+                <line
+                  x1="18"
+                  y1="6"
+                  x2="6"
+                  y2="18"
+                  stroke="currentColor"
+                  stroke-width="2.2"
+                  stroke-linecap="round"
+                />
+              </svg>
+            </button>
+          </div>
+        </form>
+        <div
+          id="site-search-panel"
+          class="search-panel"
+          aria-hidden="true"
+        >
+          <div class="search-surface with-texture">
+            <div class="search-results-toolbar">
+              <p class="search-results-title">Search results</p>
+              <button type="button" class="search-results-close" aria-label="Close search results">Close</button>
+            </div>
+            <ul class="search-results" aria-live="polite"></ul>
+          </div>
+        </div>
       </div>
-    </section>
+    </div>
 
-    <section class="faq-item">
-      <h2 class="question">How do I submit a warranty claim?</h2>
-      <div class="answer">
-        For warranty claims, please reach out first to the retailer where you purchased your product.
-        If they can’t resolve your issue, email us at <a href="mailto:support@nestliving.dk">support@nestliving.dk</a>
-        with your order number and a description of the defect.
-      </div>
-    </section>
+    <nav class="nav">
+      <ul id="site-header-primary-nav" class="nav-links">
+        <li><a href="/#about">What is NEST &amp; LIVING?</a></li>
+        <li><a href="/#collection">Collections</a></li>
+        <li><a href="/#solutions">Bedroom Solutions</a></li>
+        <li class="nav-link-utility"><a href="/#retailers">Retailers</a></li>
+        <li class="nav-link-utility"><a href="/#contact">Contact</a></li>
 
-    <section class="faq-item">
-      <h2 class="question">Do you ship internationally?</h2>
-      <div class="answer">
-        No yet. We only have one partner, Maskun Kalustetalo Oy, who only ships to Finland or Estonia. 
-      </div>
-    </section>
+        <li class="dropdown">
+          <button type="button" class="dropdown-toggle">
+            Products <span class="arrow">&darr;</span>
+          </button>
+          <ul class="dropdown-menu">
+            <li>
+              <div class="dropdown-menu-group">
+                <a href="/collections/bedroom" data-submenu="/collections/bedroom">
+                  <img src="/images/bedroom.svg" alt="Bedroom icon" class="category-icon">
+                  Bedroom
+                </a>
+                <nav class="dropdown-menu-group-links" aria-label="Bedroom product groups">
+                    <a class="dropdown-menu-group-link" href="/products/adjustable-beds/">Adjustable Beds</a>
+                    <a class="dropdown-menu-group-link" href="/products/continental-beds/">Continental Beds</a>
+                    <a class="dropdown-menu-group-link" href="/products/divan-beds/">Divan Beds</a>
+                    <a class="dropdown-menu-group-link" href="/products/bed-frames/">Bed Frames</a>
+                    <a class="dropdown-menu-group-link" href="/products/headboards/">Headboards</a>
+                    <a class="dropdown-menu-group-link" href="/products/mattresses/">Mattresses</a>
+                    <a class="dropdown-menu-group-link" href="/products/toppers/">Toppers</a>
+                    <a class="dropdown-menu-group-link" href="/products/pillows/">Pillows</a>
+                    <a class="dropdown-menu-group-link" href="/products/duvets/">Duvets</a>
+                    <a class="dropdown-menu-group-link" href="/products/duvet-pillow-sets/">Duvet &amp; Pillow Sets</a>
+                    <a class="dropdown-menu-group-link" href="/products/mattress-protectors/">Mattress Protectors</a>
+                    <a class="dropdown-menu-group-link" href="/products/mobile-phone-pockets/">Mobile Phone Pockets</a>
+                </nav>
+              </div>
+            </li>
+            <li>
+              <div class="dropdown-menu-group">
+                <a href="/collections/living-room" data-submenu="/collections/living-room">
+                  <img src="/images/living-room.svg" alt="Living room icon" class="category-icon">
+                  Living room
+                </a>
+                <nav class="dropdown-menu-group-links" aria-label="Living room product groups">
+                    <a class="dropdown-menu-group-link" href="/products/three-seater-sofas/">3-Seater Sofas</a>
+                    <a class="dropdown-menu-group-link" href="/products/four-seater-sofas/">4-Seater Sofas</a>
+                    <a class="dropdown-menu-group-link" href="/products/chaise-sofas/">Chaise Sofas</a>
+                    <a class="dropdown-menu-group-link" href="/products/corner-sofas/">Corner Sofas</a>
+                    <a class="dropdown-menu-group-link" href="/products/armchairs/">Armchairs</a>
+                    <a class="dropdown-menu-group-link" href="/products/swivel-chairs/">Swivel Chairs</a>
+                    <a class="dropdown-menu-group-link" href="/products/footstools/">Footstools</a>
+                    <a class="dropdown-menu-group-link" href="/products/coffee-tables/">Coffee Tables</a>
+                    <a class="dropdown-menu-group-link" href="/products/side-tables/">Side Tables</a>
+                </nav>
+              </div>
+            </li>
+            <li>
+              <div class="dropdown-menu-group">
+                <a href="/collections/dining-room" data-submenu="/collections/dining-room">
+                  <img src="/images/dining-room.svg" alt="Dining room icon" class="category-icon">
+                  Dining room
+                </a>
+                <nav class="dropdown-menu-group-links" aria-label="Dining room product groups">
+                    <a class="dropdown-menu-group-link" href="/products/dining-tables/">Dining Tables</a>
+                    <a class="dropdown-menu-group-link" href="/products/dining-chairs/">Dining Chairs</a>
+                    <a class="dropdown-menu-group-link" href="/products/bar-stools/">Bar Stools</a>
+                </nav>
+              </div>
+            </li>
+            <li>
+              <div class="dropdown-menu-group">
+                <a href="/collections/storage-shelving" data-submenu="/collections/storage-shelving">
+                  <img src="/images/storage-shelving.svg" alt="Home Details icon" class="category-icon">
+                  Home Details
+                </a>
+                <nav class="dropdown-menu-group-links" aria-label="Home Details product groups">
+                    <a class="dropdown-menu-group-link" href="/products/decorative-cushions/">Decorative Cushions</a>
+                    <a class="dropdown-menu-group-link" href="/products/console-tables/">Console Tables</a>
+                    <a class="dropdown-menu-group-link" href="/products/shelves/">Shelves</a>
+                    <a class="dropdown-menu-group-link" href="/products/rugs/">Rugs</a>
+                </nav>
+              </div>
+            </li>
+            <li>
+              <div class="dropdown-menu-group">
+                <a href="/collections/outdoor" data-submenu="/collections/outdoor">
+                  <img src="/images/outdoor.svg" alt="Outdoor icon" class="category-icon">
+                  Outdoor
+                </a>
+                <nav class="dropdown-menu-group-links" aria-label="Outdoor product groups">
+                    <a class="dropdown-menu-group-link" href="/products/outdoor-dining-tables/">Outdoor Dining Tables</a>
+                    <a class="dropdown-menu-group-link" href="/products/outdoor-dining-chairs/">Outdoor Dining Chairs</a>
+                    <a class="dropdown-menu-group-link" href="/products/outdoor-lounge-sets/">Outdoor Lounge Sets</a>
+                    <a class="dropdown-menu-group-link" href="/products/outdoor-lounge-seating/">Outdoor Lounge Seating</a>
+                    <a class="dropdown-menu-group-link" href="/products/outdoor-sun-loungers/">Outdoor Sun Loungers</a>
+                    <a class="dropdown-menu-group-link" href="/products/outdoor-storage/">Outdoor Storage</a>
+                    <a class="dropdown-menu-group-link" href="/products/planters-pots/">Planters &amp; Pots</a>
+                    <a class="dropdown-menu-group-link" href="/products/gazebos-pergolas/">Gazebos &amp; Pergolas</a>
+                </nav>
+              </div>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
 
-    <section class="faq-item">
-      <h2 class="question">Can I change or cancel my order?</h2>
-      <div class="answer">
-        If your order hasn’t shipped yet, we may be able to modify or cancel it. Please contact the retailer’s customer service immediately.
-        If you run into any trouble, let us know and we’ll do our best to assist.
+    <div class="nav-menu-control">
+      <button
+        type="button"
+        class="hamburger"
+        aria-label="Toggle menu"
+        aria-expanded="false"
+        aria-controls="site-header-primary-nav"
+      >
+        <span></span><span></span><span></span>
+      </button>
+      <div
+        id="site-header-overflow"
+        class="nav-overflow"
+        aria-hidden="true"
+      >
+        <ul class="nav-overflow-links"></ul>
       </div>
-    </section>
+    </div>
 
-    <section class="faq-item">
-      <h2 class="question">How do I care for my NEST & LIVING products?</h2>
-      <div class="answer">
-        Each product comes with care instructions on its packaging or user manual.
-        Generally, wipe surfaces with a soft, damp cloth and avoid harsh chemicals. For specific guidance, refer to the manual or our support site.
-      </div>
-    </section>
-	
-	<section class="faq-item">
-      <h2 class="question">How do I care for my NEST & LIVING products?</h2>
-      <div class="answer">
-        Each product comes with care instructions on its packaging or user manual.
-        Generally, wipe surfaces with a soft, damp cloth and avoid harsh chemicals. For specific guidance, refer to the manual or our support site.
-      </div>
-    </section>
-	
-	    <section class="faq-item">
-      <h2 class="question">I’m a designer or entrepreneur. Can I have my product added to the NEST & LIVING collection?</h2>
-      <div class="answer">
-        Absolutely! If you’re a creator looking to have your product considered for inclusion in our NEST & LIVING range, please get in touch. Send us your product details, samples (if applicable), and any relevant portfolio or background information. We’ll review your submission and discuss whether it’s a good fit for our collection.
-      </div>
-    </section>
+  </div>
+</header>
 
-    <section class="faq-item">
-      <h2 class="question">I’m a retailer. How can I carry the NEST & LIVING collection in my store?</h2>
-      <div class="answer">
-        We’d love to partner with you! If you’re interested in retailing NEST & LIVING products, please contact our wholesale team. Provide your business details, location, and estimated order volume, and we’ll share our catalog, pricing, and terms of collaboration.
-      </div>
-    </section>
 
-  </main>
-  <!-- ===================== END ===================== -->
-  <!-- FOOTER USING AJAX (footer.html) -->
-  <script src="script.js"></script>
+
+
+
+
+<div id="content">
+  <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">&laquo; Back</a> / <a href="/faq">FAQ</a></nav>
+
+<main class="faq-page" role="main">
+
+  <section class="faq-hero with-texture">
+    <p class="faq-eyebrow">Support and Collaboration</p>
+    <h1>Frequently Asked Questions</h1>
+    <p class="faq-lead">
+      This page covers customer support basics and explains how product suppliers,
+      retailers, and distribution partners can apply for review.
+    </p>
+    <p class="faq-note">
+      Every application is audited manually. Current capacity for range expansion is limited,
+      so a complete submission does not guarantee onboarding.
+    </p>
+  </section>
+
+  <section class="faq-layout">
+    <article class="faq-panel with-texture-2">
+      <div class="faq-panel__header">
+        <p class="faq-kicker">Customer Support</p>
+        <h2>Common questions</h2>
+      </div>
+
+      <div class="faq-listing">
+        <details class="faq-entry" open>
+          <summary>How can I track my order?</summary>
+          <div class="faq-entry__answer">
+            <p>
+              Once your order ships, the retailer handling your order will send the tracking details.
+              Delivery and pickup arrangements are managed through the retailer.
+            </p>
+          </div>
+        </details>
+
+        <details class="faq-entry">
+          <summary>What is your return policy?</summary>
+          <div class="faq-entry__answer">
+            <p>
+              Returns and cancellations are handled through the retailer that sold the product.
+              Please contact that retailer first so they can confirm timing, condition requirements,
+              and the practical return route.
+            </p>
+          </div>
+        </details>
+
+        <details class="faq-entry">
+          <summary>How do I submit a warranty claim?</summary>
+          <div class="faq-entry__answer">
+            <p>
+              Start with the retailer where the product was purchased. If the case remains unresolved,
+              email <a href="mailto:support@nestliving.dk">support@nestliving.dk</a> with the order details,
+              retailer name, and a short description of the issue.
+            </p>
+          </div>
+        </details>
+
+        <details class="faq-entry">
+          <summary>Do you ship internationally?</summary>
+          <div class="faq-entry__answer">
+            <p>
+              Availability depends on the retailer and market. At the moment the active retail setup is limited,
+              so international availability should be confirmed before ordering.
+            </p>
+          </div>
+        </details>
+
+        <details class="faq-entry">
+          <summary>How do I care for Nest &amp; Living products?</summary>
+          <div class="faq-entry__answer">
+            <p>
+              Follow the care instructions delivered with the product. When guidance is missing,
+              use mild cleaning methods, avoid harsh chemicals, and contact the retailer or support
+              for product-specific advice.
+            </p>
+          </div>
+        </details>
+      </div>
+    </article>
+
+    <article class="faq-panel with-texture-2">
+      <div class="faq-panel__header">
+        <p class="faq-kicker">Applications</p>
+        <h2>Product and partner submissions</h2>
+      </div>
+
+      <div class="faq-process">
+        <div class="faq-process__step">
+          <strong>1. Send complete information</strong>
+          <p>
+            We need structured product or business data before a review can start.
+          </p>
+        </div>
+        <div class="faq-process__step">
+          <strong>2. Compliance and quality audit</strong>
+          <p>
+            Documentation is checked against quality, safety, traceability, and operational criteria.
+          </p>
+        </div>
+        <div class="faq-process__step">
+          <strong>3. Manual review</strong>
+          <p>
+            Only applications that fit the current range plan and operational capacity can move forward.
+          </p>
+        </div>
+      </div>
+
+      <div class="faq-application-grid">
+        <section class="faq-application-card">
+          <h3>Submit a product for review</h3>
+          <p>
+            Use this when you want Nest &amp; Living to assess a product, product family,
+            or manufacturing proposal for possible inclusion in the collection.
+          </p>
+          <ul>
+            <li>Company and contact details</li>
+            <li>Product image and product category</li>
+            <li>Attributes, dimensions, weights, and packaging data</li>
+            <li>Materials, component breakdown, and country of origin</li>
+            <li>Statements or reports covering harmful chemicals, PFAS, and similar risk areas</li>
+            <li>Traceability for regulated raw materials, including wood and paper where relevant</li>
+            <li>Recycling, disassembly, and end-of-life information</li>
+          </ul>
+          <a class="faq-action" href="/applications/product-submission">Open supplier form</a>
+        </section>
+
+        <section class="faq-application-card">
+          <h3>Apply as a retailer or distribution partner</h3>
+          <p>
+            Use this when your company wants to sell, distribute, or support Nest &amp; Living products
+            in a defined market or channel.
+          </p>
+          <ul>
+            <li>Business identity, market coverage, and contact persons</li>
+            <li>Sales channels, store network, and online presence</li>
+            <li>Warehouse, delivery, returns, and customer service capability</li>
+            <li>Preferred product groups and launch timeline</li>
+            <li>Expected order volumes and onboarding readiness</li>
+            <li>Operational references and relevant attachments</li>
+          </ul>
+          <a class="faq-action" href="/applications/retailer-application">Open retailer form</a>
+        </section>
+      </div>
+
+      <div class="faq-requirements">
+        <h3>What we expect before a review starts</h3>
+        <ul>
+          <li>Claims must be supported with documentation, not only marketing copy.</li>
+          <li>Where materials or finishes raise risk questions, we expect conservative disclosure and supporting evidence.</li>
+          <li>If wood, paper, or other traceable raw materials are involved, the supplier must be able to document legal sourcing and traceability.</li>
+          <li>Product data should be complete enough for listing, logistics, and after-sales use from the start.</li>
+        </ul>
+      </div>
+
+      <p class="faq-contact-note">
+        Send completed PDFs and supporting files to
+        <a href="mailto:support@nestliving.dk">support@nestliving.dk</a>.
+      </p>
+    </article>
+  </section>
+</main>
+</div>
+
+<footer id="site-footer" class="footer with-texture">
+  <button id="scroll-btn" aria-label="Move back to the top" title="Move back to the top">&uarr;</button>
+  <div class="footer-inner">
+    <div class="footer-columns">
+      <div class="footer-column">
+        <h2>Company</h2>
+        <ul>
+          <li><a href="/about">About Us</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-column">
+        <h2>Support</h2>
+        <ul>
+          <li><a href="/help-center">Customer Service</a></li>
+          <li><a href="/faq">Frequently Asked Questions</a></li>
+          <li><a href="/#contact">Contact Us</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-column">
+        <h2>Follow Us</h2>
+        <ul class="social-media-list"></ul>
+      </div>
+    </div>
+
+    <div class="footer-contact">
+      <p>NEST &amp; LIVING</p>
+      <p>Email: <a href="mailto:support@nestliving.dk">support@nestliving.dk</a></p>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; 2026 NEST &amp; LIVING. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
 </body>
-
 </html>

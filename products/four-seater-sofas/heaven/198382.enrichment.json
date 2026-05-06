@@ -1,0 +1,365 @@
+{
+  "sku": "198382",
+  "displayName": "Heaven 4-Seater Sofa, Beige, 296 x 182 cm",
+  "metaTitle": "Heaven 4-Seater Sofa, Beige, 296 x 182 cm - NEST & LIVING",
+  "metaDescription": "Beige fabric upholstery with reversible chaise and low armrests.",
+  "ogTitle": "Heaven 4-Seater Sofa, Beige, 296 x 182 cm",
+  "ogDescription": "Beige fabric upholstery with reversible chaise and low armrests.",
+  "shortDescription": "Beige fabric upholstery with reversible chaise and low armrests.",
+  "familyDescription": "The Heaven 4-seater divan sofa features a reversible chaise to suit your space. It combines a supportive pocket spring seat with foam cushioning and a sturdy frame of wood, plywood, and metal. Low rectangular armrests and textured fabric upholstery create a calm and practical design that fits various interiors.",
+  "schemaCategory": "4-Seater Sofas",
+  "selectionAttributes": {
+    "dimensions": "296 x 182 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Beige",
+    "material": "Metal, Fabric, Plywood, Wood, Foam"
+  },
+  "attributes": [
+    {
+      "key": "seatCount",
+      "label": "Seat count",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "3 seat",
+      "valueSlug": "3-seat",
+      "rawValue": "3 kpl",
+      "valueType": "enum",
+      "numericValue": 3,
+      "unit": "seat",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Istuinmäärä",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "handednessConfiguration",
+      "label": "Handedness configuration",
+      "group": "configuration",
+      "groupLabel": "Configuration",
+      "value": "Reversible",
+      "valueSlug": "reversible",
+      "rawValue": "Kyllä",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Ominaisuudet",
+      "sourceLabel": "Vaihdettava kätisyys",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "cleaningMethod",
+      "label": "Cleaning method",
+      "group": "care",
+      "groupLabel": "Care",
+      "value": "Dry clean",
+      "valueSlug": "dry-clean",
+      "rawValue": "kemiallinen pesu",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Ominaisuudet",
+      "sourceLabel": "Puhdistustapa",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "296 cm",
+      "valueSlug": "296-cm",
+      "rawValue": "296 cm",
+      "valueType": "enum",
+      "numericValue": 296,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "182 cm",
+      "valueSlug": "182-cm",
+      "rawValue": "182 cm",
+      "valueType": "enum",
+      "numericValue": 182,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "89 cm",
+      "valueSlug": "89-cm",
+      "rawValue": "89 cm",
+      "valueType": "enum",
+      "numericValue": 89,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "118 kg",
+      "valueSlug": "118-kg",
+      "rawValue": "118 kg",
+      "valueType": "enum",
+      "numericValue": 118,
+      "unit": "kg",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Weight",
+      "sourceType": "specs"
+    },
+    {
+      "key": "mainSectionDepth",
+      "label": "Main section depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "106 cm",
+      "valueSlug": "106-cm",
+      "rawValue": "106cm",
+      "valueType": "enum",
+      "numericValue": 106,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Syvyys 2",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "priceGuarantee",
+      "label": "Price guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "30 days",
+      "valueSlug": "30-days",
+      "rawValue": "30 päivää",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Hintatakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "30 min",
+      "valueSlug": "30-min",
+      "rawValue": "30 min",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.58 m³",
+      "valueSlug": "0-58-m3",
+      "rawValue": "0.58 m³",
+      "valueType": "enum",
+      "numericValue": 0.58,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "37 kg",
+      "valueSlug": "37-kg",
+      "rawValue": "37 kg",
+      "valueType": "enum",
+      "numericValue": 37,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Metal, Fabric, Plywood, Wood, Foam",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    },
+    {
+      "key": "foamDensity",
+      "label": "Foam density",
+      "group": "padding",
+      "groupLabel": "Padding",
+      "value": "24 kg/m³",
+      "numericValue": 24,
+      "unit": "kg/m³",
+      "allowSpecificationAttributeLinking": true
+    },
+    {
+      "key": "lightfastness",
+      "label": "Lightfastness",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "4",
+      "numericValue": 4,
+      "unit": "",
+      "allowSpecificationAttributeLinking": true
+    },
+    {
+      "key": "pilling",
+      "label": "Pilling",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "4",
+      "numericValue": 4,
+      "unit": "",
+      "allowSpecificationAttributeLinking": true
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Beige",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/beige/\">Beige</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Metal, Fabric, Plywood, Wood, Foam",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/metal/\">Metal</a><a class=\"spec-link-chip\" href=\"/materials/fabric/\">Fabric</a><a class=\"spec-link-chip\" href=\"/materials/plywood/\">Plywood</a><a class=\"spec-link-chip\" href=\"/materials/wood/\">Wood</a><a class=\"spec-link-chip\" href=\"/materials/foam/\">Foam</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "296 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "296 cm",
+          "href": "/attributes/dimensions/width/296-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/296-cm/\">296 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "182 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "182 cm",
+          "href": "/attributes/dimensions/depth/182-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/182-cm/\">182 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "89 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "89 cm",
+          "href": "/attributes/dimensions/height/89-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/89-cm/\">89 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "118 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "118 kg",
+          "href": "/attributes/logistics/weight/118-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/118-kg/\">118 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+  "imageUrls": [
+    "/products/four-seater-sofas/heaven/198382_1.avif",
+    "/products/four-seater-sofas/heaven/198382_2.avif",
+    "/products/four-seater-sofas/heaven/198382_3.avif",
+    "/products/four-seater-sofas/heaven/198382_4.avif",
+    "/products/four-seater-sofas/heaven/198382_5.avif",
+    "/products/four-seater-sofas/heaven/198382_6.avif",
+    "/products/four-seater-sofas/heaven/198382_7.avif",
+    "/products/four-seater-sofas/heaven/198382_8.avif",
+    "/products/four-seater-sofas/heaven/198382_9.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/storyblok.product/198382-heaven-divaanisohva-beige-katisyys-vaihdettavissa"
+}

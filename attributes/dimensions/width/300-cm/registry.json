@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "300 cm",
+  "valueSlug": "300-cm",
+  "valueType": "measurement",
+  "numericValue": 300,
+  "unit": "cm",
+  "productTypes": [
+    "Gazebos & Pergolas"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/gazebos-pergolas/nordic/nordic_gazebo_black_10.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Nordic gazebo and pergola variants with adjustable slatted roofs, sturdy aluminium and steel frames, and terrace-ready shelter for outdoor living.",
+      "primaryImageUrl": "/products/gazebos-pergolas/nordic/nordic_gazebo_black_10.avif",
+      "schemaCategory": "Gazebos & Pergolas",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 300,
+        "max": 300,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "300 cm is a published width used across selected Nest & Living products. Common on Gazebos & Pergola."
+}

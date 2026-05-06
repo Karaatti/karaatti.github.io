@@ -1,0 +1,56 @@
+{
+  "label": "Polyester",
+  "description": "Polyester in furniture: Durable, low-absorbency and comparatively easy to maintain.",
+  "intro": "Polyester appears across 26 product families and 105 options, especially on 3-Seater Sofas, Chaise Sofas, Corner Sofas, Duvet & Pillow Sets, Duvets and Footstools and 10 more.",
+  "chemistry": [
+    "Polyester is a synthetic polymer fibre with low moisture absorption and good colour stability. Those traits make it a workhorse in upholstery, decorative textiles and performance outdoor fabrics.",
+    "It does not breathe like cotton and it lacks the natural spring of wool, but it handles abrasion, sunlight and everyday maintenance more predictably in many furniture settings."
+  ],
+  "furnitureUse": [
+    "In furniture polyester works well for family seating, decorative cushions, rugs and many mixed-fibre fabrics because it offers a practical balance of cost, durability and colour retention.",
+    "Its best role is often as part of a blend. Combined with cotton, wool or viscose, it adds resilience and easier cleaning while the natural fibre improves touch and visual depth."
+  ],
+  "care": [
+    "Moisture and wear note: Hydrophobic fibre that dries faster than cotton and resists water uptake.",
+    "Care note: Vacuum regularly and lift oil-based stains before they migrate into backing layers."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [],
+  "durability": [],
+  "relatedSpecifications": [],
+  "lifecycleRows": [],
+  "strengths": [
+    "good abrasion performance",
+    "fast drying",
+    "stable colour and shape"
+  ],
+  "watchouts": [
+    "less breathable than natural fibres",
+    "can build static",
+    "cheap variants may feel flat or shiny"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Synthetic polymer fibre"
+    },
+    {
+      "label": "Composition",
+      "value": "PET-based synthetic fibre used in upholstery, fills and outdoor textiles."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Durable, low-absorbency and comparatively easy to maintain."
+    },
+    {
+      "label": "Key strengths",
+      "value": "good abrasion performance, fast drying and stable colour and shape"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "less breathable than natural fibres, can build static and cheap variants may feel flat or shiny"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

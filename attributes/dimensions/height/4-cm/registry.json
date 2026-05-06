@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "4 cm",
+  "valueSlug": "4-cm",
+  "valueType": "measurement",
+  "numericValue": 4,
+  "unit": "cm",
+  "productTypes": [
+    "Duvets"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nest-living-gold",
+      "familyTitle": "Nest & Living Gold",
+      "familySummary": "Warm duvets with a breathable fabric blend and a fuller feel.",
+      "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+      "schemaCategory": "Duvets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 4,
+        "max": 4,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "4 cm is a published height used across selected Nest & Living products. Common on Duvet."
+}

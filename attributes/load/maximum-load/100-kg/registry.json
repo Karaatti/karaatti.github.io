@@ -1,0 +1,53 @@
+{
+  "group": "load",
+  "groupLabel": "Load",
+  "attributeKey": "maximumLoad",
+  "attributeLabel": "Maximum load",
+  "value": "100 kg",
+  "valueSlug": "100-kg",
+  "valueType": "measurement",
+  "numericValue": 100,
+  "unit": "kg",
+  "productTypes": [
+    "Cabinets Display",
+    "Outdoor Lounge Sets"
+  ],
+  "familyCount": 2,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/outdoor-lounge-sets/haven/206767_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/haven",
+      "familyTitle": "Haven",
+      "familySummary": "Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies.",
+      "primaryImageUrl": "/products/outdoor-lounge-sets/haven/206767_1.avif",
+      "schemaCategory": "Outdoor Lounge Sets",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/mystery",
+      "familyTitle": "Mystery",
+      "familySummary": "The Mystery Shelf in black combines metal and oak veneer in a minimalist design. It provides four spacious shelves suitable for books and decorative items, fitting well in modern and industrial interiors.",
+      "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+      "schemaCategory": "Shelves",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 100,
+        "max": 100,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "100 kg is a published maximum load used across selected Nest & Living products. Common on Cabinets Display and Outdoor Lounge Set."
+}

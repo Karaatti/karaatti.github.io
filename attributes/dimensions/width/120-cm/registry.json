@@ -1,0 +1,109 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "120 cm",
+  "valueSlug": "120-cm",
+  "valueType": "measurement",
+  "numericValue": 120,
+  "unit": "cm",
+  "productTypes": [
+    "Cabinets Display",
+    "Console Tables",
+    "Continental Beds",
+    "Dining Tables",
+    "Divan Bed",
+    "Divan Beds",
+    "Headboards",
+    "Mattress Protectors",
+    "Mattresses",
+    "Toppers"
+  ],
+  "familyCount": 8,
+  "variantCount": 41,
+  "primaryImageUrl": "/products/toppers/moon-gold/197744_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Grey latex mattress topper offers good support and breathability for a single bed. Suitable for improving sleep quality in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-gold/197744_1.avif",
+      "schemaCategory": "Continental Beds, Divan Beds, Headboards and Mattresses and 1 more",
+      "variantCount": 18
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+      "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
+      "schemaCategory": "Continental Beds, Divan Beds, Headboards and Mattresses and 1 more",
+      "variantCount": 8
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Moon Bronze Basic is a lightweight, breathable mattress topper that adds gentle cushioning and supports a neutral sleeping posture. Its white tone with subtle leaf patterns fits well in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+      "schemaCategory": "Continental Beds, Divan Beds, Headboards and Toppers",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/metz",
+      "familyTitle": "Metz",
+      "familySummary": "A round dining table with a natural Beige veneer surface and a light, sturdy base. Designed to comfortably seat four and fit modern interiors.",
+      "primaryImageUrl": "/products/dining-tables/metz/208710_1.avif",
+      "schemaCategory": "Dining Tables",
+      "variantCount": 5
+    },
+    {
+      "familyRelativeDir": "families/islet",
+      "familyTitle": "Islet",
+      "familySummary": "Islet round dining table, 120 cm diameter, walnut finish. Combines modern design with a natural wood look. Durable and easy to care for, fitting both small and larger dining areas.",
+      "primaryImageUrl": "/products/dining-tables/islet/198066_1.avif",
+      "schemaCategory": "Dining Tables",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/mystery",
+      "familyTitle": "Mystery",
+      "familySummary": "The Mystery Shelf in black combines metal and oak veneer in a minimalist design. It provides four spacious shelves suitable for books and decorative items, fitting well in modern and industrial interiors.",
+      "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+      "schemaCategory": "Shelves",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nest-living",
+      "familyTitle": "Nest & Living",
+      "familySummary": "Quilted mattress protector with elastic corners to keep it in place. Protects and extends the life of your mattress.",
+      "primaryImageUrl": "/products/mattress-protectors/nest-living/nest_living_mattress_protector_white_1.avif",
+      "schemaCategory": "Mattress Protectors",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/oak",
+      "familyTitle": "Oak",
+      "familySummary": "Oak console table in natural oak veneer offers a modern Scandinavian look for living rooms, hallways or offices. The warm brown tone creates a cozy atmosphere. Two integrated drawers provide practical storage. A versatile and durable piece that complements the home.",
+      "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+      "schemaCategory": "Console Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 120,
+        "max": 120,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "120 cm is a published width used across selected Nest & Living products. Common on Cabinets Display, Console Table, Continental Bed, Dining Table, Divan Bed and Headboard and 3 more."
+}

@@ -1,0 +1,82 @@
+{
+  "label": "Furniture board",
+  "description": "Furniture board in furniture: Economical, flat and consistent across large surfaces.",
+  "intro": "Furniture board appears across 1 product family and 2 options, especially on Corner Sofas.",
+  "chemistry": [
+    "Furniture board is a trade-style term rather than one exact chemistry. In practice it usually refers to an engineered panel system designed for case goods, often particle-based and surfaced for a finished look.",
+    "The decorative face provides colour and abrasion resistance, while the core gives thickness and machining stability. Performance therefore depends strongly on the edge finish and the actual core material."
+  ],
+  "furnitureUse": [
+    "It is common in hidden sofa components, cabinet carcasses and broad flat planes where dimensional consistency and cost control matter more than exposed natural grain.",
+    "Its main weakness is moisture entry at seams, edges and damaged laminate. Once water reaches the core, swelling is usually permanent."
+  ],
+  "care": [
+    "Moisture and wear note: Edges and drill points are vulnerable if water penetrates the decorative face.",
+    "Care note: Keep standing water away from edges and use coasters on faced surfaces."
+  ],
+  "terminology": [],
+  "thermal": [
+    "Board materials do not store body heat like dense foams, but faced panels can still feel cool at first touch because the decorative surface is relatively closed and smooth.",
+    "In furniture use the bigger long-term heat issue is not expansion like in metal springs but moisture plus temperature cycling at joints and edges, which can accelerate laminate failure or core swelling."
+  ],
+  "recycling": [
+    "Finland-first sorting baseline: board furniture and cut panels are usually handled through municipal bulky-furniture or treated-wood style acceptance points, not packaging bins.",
+    "If the panel is still bonded to hardware, veneer, upholstery or laminate, direct the whole component to municipal bulky-waste handling unless the local operator publishes a cleaner separated-board route."
+  ],
+  "durability": [
+    "Wear depends on the face finish first and the core second. The decorative surface can look good for years while the weak point remains impact damage and swelling at exposed edges.",
+    "This kind of board usually fails through local moisture damage, blown corners or loosening fasteners rather than through graceful even ageing."
+  ],
+  "relatedSpecifications": [
+    "Furniture board core",
+    "Case-good panel build",
+    "Melamine-faced board"
+  ],
+  "lifecycleRows": [
+    {
+      "label": "Recycling in Finland",
+      "value": "Use municipal bulky-furniture handling or the local treated-board route; do not place in packaging streams."
+    },
+    {
+      "label": "Expected wear profile",
+      "value": "Surface can stay tidy for years, while edges, corners and wet points remain the usual failure zones."
+    },
+    {
+      "label": "Retail warranty note",
+      "value": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+    }
+  ],
+  "strengths": [
+    "economical flat panels",
+    "consistent dimensions",
+    "works well for hidden structural boards"
+  ],
+  "watchouts": [
+    "edge swelling if wet",
+    "limited refinishability",
+    "screw holding depends on the core"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Engineered wood board"
+    },
+    {
+      "label": "Composition",
+      "value": "Board substrate used for flat furniture panels, often with a decorative melamine or laminate face."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Economical, flat and consistent across large surfaces."
+    },
+    {
+      "label": "Key strengths",
+      "value": "economical flat panels, consistent dimensions and works well for hidden structural boards"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "edge swelling if wet, limited refinishability and screw holding depends on the core"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

@@ -1,0 +1,62 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.73 m³",
+  "valueSlug": "0-73-m3",
+  "valueType": "measurement",
+  "numericValue": 0.73,
+  "unit": "m³",
+  "productTypes": [
+    "Adjustable Beds",
+    "Corner Sofas",
+    "Outdoor Lounge Sets"
+  ],
+  "familyCount": 3,
+  "variantCount": 7,
+  "primaryImageUrl": "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_313_x_200_cm_10.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+      "primaryImageUrl": "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_313_x_200_cm_10.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+      "schemaCategory": "Adjustable Beds",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/palazzo",
+      "familyTitle": "Palazzo",
+      "familySummary": "A modern and airy outdoor sofa set featuring a three-seat sofa, two armchairs, and lightweight tables. Designed for comfort and easy maintenance.",
+      "primaryImageUrl": "/products/outdoor-lounge-sets/palazzo/208993_1.avif",
+      "schemaCategory": "Outdoor Lounge Sets",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.73,
+        "max": 0.73,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.73 m³ is a published volume used across selected Nest & Living products. Common on Adjustable Bed, Corner Sofa and Outdoor Lounge Set."
+}

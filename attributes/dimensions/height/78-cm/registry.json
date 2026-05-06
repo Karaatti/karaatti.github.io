@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "78 cm",
+  "valueSlug": "78-cm",
+  "valueType": "measurement",
+  "numericValue": 78,
+  "unit": "cm",
+  "productTypes": [
+    "Chaise Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/aava",
+      "familyTitle": "Aava",
+      "familySummary": "Spacious 4-seater chaise sofa with durable fabric upholstery and natural oak legs. Features reversible chaise for flexible layout.",
+      "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+      "schemaCategory": "Chaise Sofas",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 78,
+        "max": 78,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "78 cm is a published height used across selected Nest & Living products. Common on Chaise Sofa."
+}

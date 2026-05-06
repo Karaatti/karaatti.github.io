@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "setPieceWidth",
+  "attributeLabel": "Set piece width",
+  "value": "75 cm",
+  "valueSlug": "75-cm",
+  "valueType": "measurement",
+  "numericValue": 75,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Lounge Sets"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/outdoor-lounge-sets/haven/206767_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/haven",
+      "familyTitle": "Haven",
+      "familySummary": "Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies.",
+      "primaryImageUrl": "/products/outdoor-lounge-sets/haven/206767_1.avif",
+      "schemaCategory": "Outdoor Lounge Sets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 75,
+        "max": 75,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "75 cm is a published set piece width used across selected Nest & Living products. Common on Outdoor Lounge Set."
+}

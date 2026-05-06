@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "154 cm",
+  "valueSlug": "154-cm",
+  "valueType": "measurement",
+  "numericValue": 154,
+  "unit": "cm",
+  "productTypes": [
+    "Cabinets Display"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/mystery",
+      "familyTitle": "Mystery",
+      "familySummary": "The Mystery Shelf in black combines metal and oak veneer in a minimalist design. It provides four spacious shelves suitable for books and decorative items, fitting well in modern and industrial interiors.",
+      "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+      "schemaCategory": "Shelves",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 154,
+        "max": 154,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "154 cm is a published height used across selected Nest & Living products. Common on Cabinets Display."
+}

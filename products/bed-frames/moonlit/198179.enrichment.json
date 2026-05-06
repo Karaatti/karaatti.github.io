@@ -1,0 +1,291 @@
+{
+  "sku": "198179",
+  "displayName": "Moonlit Bed Frame, 160 x 200 cm",
+  "metaTitle": "Moonlit Bed Frame, 160 x 200 cm - NEST & LIVING",
+  "metaDescription": "Beige upholstered bed frame, 160 x 200 cm. Durable and easy-care bouclé fabric.",
+  "ogTitle": "Moonlit Bed Frame, 160 x 200 cm",
+  "ogDescription": "Beige upholstered bed frame, 160 x 200 cm. Durable and easy-care bouclé fabric.",
+  "shortDescription": "Beige upholstered bed frame, 160 x 200 cm. Durable and easy-care bouclé fabric.",
+  "familyDescription": "The Moonlit bed frame brings soft elegance and a calm atmosphere to the bedroom. Its durable structure supports restful sleep, while the high upholstered headboard provides comfortable support for sitting or relaxing. The beige bouclé fabric is easy to maintain and complements natural, understated interiors.",
+  "schemaCategory": "Bed Frames",
+  "selectionAttributes": {
+    "dimensions": "160 x 200 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Beige",
+    "material": "Fabric, Wood"
+  },
+  "attributes": [
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "184 cm",
+      "valueSlug": "184-cm",
+      "rawValue": "184 cm",
+      "valueType": "enum",
+      "numericValue": 184,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "240 cm",
+      "valueSlug": "240-cm",
+      "rawValue": "240 cm",
+      "valueType": "enum",
+      "numericValue": 240,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "107 cm",
+      "valueSlug": "107-cm",
+      "rawValue": "107 cm",
+      "valueType": "enum",
+      "numericValue": 107,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "35 kg",
+      "valueSlug": "35-kg",
+      "rawValue": "35 kg",
+      "valueType": "enum",
+      "numericValue": 35,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "innerWidth",
+      "label": "Inner width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "160 cm",
+      "valueSlug": "160-cm",
+      "rawValue": "160 cm",
+      "valueType": "enum",
+      "numericValue": 160,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Leveys 2",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "innerHeight",
+      "label": "Inner height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "36 cm",
+      "valueSlug": "36-cm",
+      "rawValue": "36cm",
+      "valueType": "enum",
+      "numericValue": 36,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Korkeus 2",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "innerDepth",
+      "label": "Inner depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "200 cm",
+      "valueSlug": "200-cm",
+      "rawValue": "200cm",
+      "valueType": "enum",
+      "numericValue": 200,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Syvyys 2",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "priceGuarantee",
+      "label": "Price guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "30 days",
+      "valueSlug": "30-days",
+      "rawValue": "30 päivää",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Hintatakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.32 m³",
+      "valueSlug": "0-32-m3",
+      "rawValue": "0.32 m³",
+      "valueType": "enum",
+      "numericValue": 0.32,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "53 kg",
+      "valueSlug": "53-kg",
+      "rawValue": "53 kg",
+      "valueType": "enum",
+      "numericValue": 53,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Beige",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/beige/\">Beige</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Fabric, Wood",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/fabric/\">Fabric</a><a class=\"spec-link-chip\" href=\"/materials/wood/\">Wood</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "184 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "184 cm",
+          "href": "/attributes/dimensions/width/184-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/184-cm/\">184 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "240 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "240 cm",
+          "href": "/attributes/dimensions/depth/240-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/240-cm/\">240 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "107 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "107 cm",
+          "href": "/attributes/dimensions/height/107-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/107-cm/\">107 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "35 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "35 kg",
+          "href": "/attributes/logistics/weight/35-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/35-kg/\">35 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
+  "imageUrls": [
+    "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
+    "/products/bed-frames/moonlit/moonlit_bed_frame_beige_2.avif",
+    "/products/bed-frames/moonlit/moonlit_bed_frame_beige_3.avif",
+    "/products/bed-frames/moonlit/moonlit_bed_frame_beige_4.jpg",
+    "/products/bed-frames/moonlit/198179_1.avif",
+    "/products/bed-frames/moonlit/198179_2.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/198179"
+}

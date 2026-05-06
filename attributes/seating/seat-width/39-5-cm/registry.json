@@ -1,0 +1,44 @@
+{
+  "group": "seating",
+  "groupLabel": "Seating",
+  "attributeKey": "seatWidth",
+  "attributeLabel": "Seat width",
+  "value": "39.5 cm",
+  "valueSlug": "39-5-cm",
+  "valueType": "measurement",
+  "numericValue": 39.5,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Dining Chairs"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/saarni",
+      "familyTitle": "Saarni",
+      "familySummary": "Light brown stackable dining chair with aluminium frame and nonwood surfaces. Suitable for indoor and outdoor use.",
+      "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+      "schemaCategory": "Outdoor Dining Chairs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 39.5,
+        "max": 39.5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "39.5 cm is a published seat width used across selected Nest & Living products. Common on Outdoor Dining Chair."
+}

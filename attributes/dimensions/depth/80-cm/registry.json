@@ -1,0 +1,69 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "80 cm",
+  "valueSlug": "80-cm",
+  "valueType": "measurement",
+  "numericValue": 80,
+  "unit": "cm",
+  "productTypes": [
+    "Coffee Tables",
+    "Mattress Protectors"
+  ],
+  "familyCount": 4,
+  "variantCount": 5,
+  "primaryImageUrl": "/products/coffee-tables/reef/198072_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/reef",
+      "familyTitle": "Reef",
+      "familySummary": "Compact coffee table with a warm American walnut finish and practical dimensions suitable for various interiors.",
+      "primaryImageUrl": "/products/coffee-tables/reef/198072_1.avif",
+      "schemaCategory": "Coffee Tables",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/islet",
+      "familyTitle": "Islet",
+      "familySummary": "Islet round coffee table in walnut brown with an 80 cm diameter. Features a durable MDF frame and a stable conical leg for everyday use.",
+      "primaryImageUrl": "/products/coffee-tables/islet/198067_1.avif",
+      "schemaCategory": "Coffee Tables",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/staycool",
+      "familyTitle": "Staycool",
+      "familySummary": "Cooling mattress protectors from the Staycool series.",
+      "primaryImageUrl": "/products/mattress-protectors/staycool/214011_1.jpg",
+      "schemaCategory": "Mattress Protectors",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/staygentle",
+      "familyTitle": "Staygentle",
+      "familySummary": "Tencel mattress protectors from the Staygentle series.",
+      "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
+      "schemaCategory": "Mattress Protectors",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 80,
+        "max": 80,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "80 cm is a published depth used across selected Nest & Living products. Common on Coffee Table and Mattress Protector."
+}

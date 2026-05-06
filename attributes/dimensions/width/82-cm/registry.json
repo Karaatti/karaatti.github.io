@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "82 cm",
+  "valueSlug": "82-cm",
+  "valueType": "measurement",
+  "numericValue": 82,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Lounge Seating"
+  ],
+  "familyCount": 1,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/outdoor-lounge-seating/nordic/198246_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Modular outdoor lounge seating from the Nordic collection, including corner sections, middle sections, ottomans, and larger sofa configurations in white aluminium and beige fabric.",
+      "primaryImageUrl": "/products/outdoor-lounge-seating/nordic/198246_1.avif",
+      "schemaCategory": "Outdoor Lounge Seating",
+      "variantCount": 3
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 82,
+        "max": 82,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "82 cm is a published width used across selected Nest & Living products. Common on Outdoor Lounge Seating."
+}

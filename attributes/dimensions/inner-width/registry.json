@@ -1,0 +1,121 @@
+{
+  "attributeKey": "innerWidth",
+  "attributeLabel": "Inner width",
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 2,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 160,
+        "max": 180,
+        "count": 2,
+        "distinctCount": 2
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "attributeKey": "innerWidth",
+      "attributeLabel": "Inner width",
+      "value": "160 cm",
+      "valueSlug": "160-cm",
+      "valueType": "measurement",
+      "numericValue": 160,
+      "unit": "cm",
+      "productTypes": [
+        "Bed Frames"
+      ],
+      "familyCount": 2,
+      "variantCount": 2,
+      "primaryImageUrl": "/products/bed-frames/casa/209017_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/casa",
+          "familyTitle": "Casa",
+          "familySummary": "Bed frame with padded high headboard and beige fabric upholstery. Designed for 160 x 200 cm mattresses.",
+          "primaryImageUrl": "/products/bed-frames/casa/209017_1.avif",
+          "schemaCategory": "Bed Frames",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/moonlit",
+          "familyTitle": "Moonlit",
+          "familySummary": "Upholstered bed frame in beige bouclé fabric with a sturdy construction. Suitable for various mattresses and bedroom styles.",
+          "primaryImageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
+          "schemaCategory": "Bed Frames",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 160,
+            "max": 160,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "160 cm is a published inner width used across selected Nest & Living products. Common on Bed Frame."
+    },
+    {
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "attributeKey": "innerWidth",
+      "attributeLabel": "Inner width",
+      "value": "180 cm",
+      "valueSlug": "180-cm",
+      "valueType": "measurement",
+      "numericValue": 180,
+      "unit": "cm",
+      "productTypes": [
+        "Bed Frames"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/moonlit",
+          "familyTitle": "Moonlit",
+          "familySummary": "Upholstered bed frame in beige bouclé fabric with a sturdy construction. Suitable for various mattresses and bedroom styles.",
+          "primaryImageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
+          "schemaCategory": "Bed Frames",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 180,
+            "max": 180,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "180 cm is a published inner width used across selected Nest & Living products. Common on Bed Frame."
+    }
+  ]
+}

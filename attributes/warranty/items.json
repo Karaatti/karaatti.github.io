@@ -1,0 +1,152 @@
+[
+  {
+    "name": "frame-warranty",
+    "label": "Frame warranty",
+    "href": "/attributes/warranty/frame-warranty/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 78,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "days"
+      ],
+      "ranges": [
+        {
+          "unit": "days",
+          "min": 4000,
+          "max": 4000,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "memory-warranty",
+    "label": "Memory warranty",
+    "href": "/attributes/warranty/memory-warranty/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 31,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "days"
+      ],
+      "ranges": [
+        {
+          "unit": "days",
+          "min": 2000,
+          "max": 2000,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "motor-warranty",
+    "label": "Motor warranty",
+    "href": "/attributes/warranty/motor-warranty/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 12,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "days"
+      ],
+      "ranges": [
+        {
+          "unit": "days",
+          "min": 2000,
+          "max": 2000,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "price-guarantee",
+    "label": "Price guarantee",
+    "href": "/attributes/warranty/price-guarantee/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 269,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "days"
+      ],
+      "ranges": [
+        {
+          "unit": "days",
+          "min": 30,
+          "max": 30,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "quality-guarantee",
+    "label": "Quality guarantee",
+    "href": "/attributes/warranty/quality-guarantee/",
+    "type": "dir",
+    "entryCount": 2,
+    "variantCount": 422,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        "days"
+      ],
+      "ranges": [
+        {
+          "unit": "days",
+          "min": 1000,
+          "max": 4000,
+          "count": 2,
+          "distinctCount": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "spring-warranty",
+    "label": "Spring warranty",
+    "href": "/attributes/warranty/spring-warranty/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 65,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "days"
+      ],
+      "ranges": [
+        {
+          "unit": "days",
+          "min": 4000,
+          "max": 4000,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  }
+]

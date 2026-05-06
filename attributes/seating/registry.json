@@ -1,0 +1,1389 @@
+[
+  {
+    "attributeKey": "armrestWidth",
+    "attributeLabel": "Armrest width",
+    "entries": [
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "armrestWidth",
+        "attributeLabel": "Armrest width",
+        "value": "26 cm",
+        "valueSlug": "26-cm",
+        "valueType": "measurement",
+        "numericValue": 26,
+        "unit": "cm",
+        "productTypes": [
+          "3-Seater Sofas",
+          "Chaise Sofas",
+          "Corner Sofas"
+        ],
+        "familyCount": 2,
+        "variantCount": 12,
+        "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/lugo",
+            "familyTitle": "Lugo",
+            "familySummary": "A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame.",
+            "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+            "schemaCategory": "Chaise Sofas, Corner Sofas and 3-Seater Sofas",
+            "variantCount": 10
+          },
+          {
+            "familyRelativeDir": "families/haave",
+            "familyTitle": "Haave",
+            "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+            "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 2
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 26,
+              "max": 26,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "26 cm is a published armrest width used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa and Corner Sofa."
+      }
+    ],
+    "familyCount": 2,
+    "variantCount": 12,
+    "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 26,
+          "max": 26,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    },
+    "valueType": "measurement"
+  },
+  {
+    "attributeKey": "backrestHeight",
+    "attributeLabel": "Backrest height",
+    "entries": [
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "backrestHeight",
+        "attributeLabel": "Backrest height",
+        "value": "27 cm",
+        "valueSlug": "27-cm",
+        "valueType": "measurement",
+        "numericValue": 27,
+        "unit": "cm",
+        "productTypes": [
+          "3-Seater Sofas",
+          "Chaise Sofas",
+          "Corner Sofas"
+        ],
+        "familyCount": 1,
+        "variantCount": 10,
+        "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/lugo",
+            "familyTitle": "Lugo",
+            "familySummary": "A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame.",
+            "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+            "schemaCategory": "Chaise Sofas, Corner Sofas and 3-Seater Sofas",
+            "variantCount": 10
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 27,
+              "max": 27,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "27 cm is a published backrest height used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa and Corner Sofa."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "backrestHeight",
+        "attributeLabel": "Backrest height",
+        "value": "68 cm",
+        "valueSlug": "68-cm",
+        "valueType": "measurement",
+        "numericValue": 68,
+        "unit": "cm",
+        "productTypes": [
+          "Corner Sofas"
+        ],
+        "familyCount": 1,
+        "variantCount": 2,
+        "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/haave",
+            "familyTitle": "Haave",
+            "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+            "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 2
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 68,
+              "max": 68,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "68 cm is a published backrest height used across selected Nest & Living products. Common on Corner Sofa."
+      }
+    ],
+    "familyCount": 2,
+    "variantCount": 12,
+    "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 27,
+          "max": 68,
+          "count": 2,
+          "distinctCount": 2
+        }
+      ]
+    },
+    "valueType": "measurement"
+  },
+  {
+    "attributeKey": "seatCount",
+    "attributeLabel": "Seat count",
+    "entries": [
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatCount",
+        "attributeLabel": "Seat count",
+        "value": "1 seat",
+        "valueSlug": "1-seat",
+        "valueType": "measurement",
+        "numericValue": 1,
+        "unit": "seat",
+        "productTypes": [
+          "Outdoor Dining Chairs",
+          "Swivel Chairs"
+        ],
+        "familyCount": 5,
+        "variantCount": 7,
+        "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/blow",
+            "familyTitle": "Blow",
+            "familySummary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+            "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+            "schemaCategory": "Swivel Chairs",
+            "variantCount": 2
+          },
+          {
+            "familyRelativeDir": "families/wind",
+            "familyTitle": "Wind",
+            "familySummary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+            "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+            "schemaCategory": "Swivel Chairs",
+            "variantCount": 2
+          },
+          {
+            "familyRelativeDir": "families/bay",
+            "familyTitle": "Bay",
+            "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+            "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+            "schemaCategory": "Swivel Chairs",
+            "variantCount": 1
+          },
+          {
+            "familyRelativeDir": "families/breeze",
+            "familyTitle": "Breeze",
+            "familySummary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
+            "primaryImageUrl": "/products/swivel-chairs/breeze/198262_1.avif",
+            "schemaCategory": "Swivel Chairs",
+            "variantCount": 1
+          },
+          {
+            "familyRelativeDir": "families/saarni",
+            "familyTitle": "Saarni",
+            "familySummary": "Light brown stackable dining chair with aluminium frame and nonwood surfaces. Suitable for indoor and outdoor use.",
+            "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+            "schemaCategory": "Outdoor Dining Chairs",
+            "variantCount": 1
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "seat"
+          ],
+          "ranges": [
+            {
+              "unit": "seat",
+              "min": 1,
+              "max": 1,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "1 seat is a published seat count used across selected Nest & Living products. Common on Outdoor Dining Chair and Swivel Chair."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatCount",
+        "attributeLabel": "Seat count",
+        "value": "3 seat",
+        "valueSlug": "3-seat",
+        "valueType": "measurement",
+        "numericValue": 3,
+        "unit": "seat",
+        "productTypes": [
+          "4-Seater Sofas"
+        ],
+        "familyCount": 1,
+        "variantCount": 3,
+        "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/heaven",
+            "familyTitle": "Heaven",
+            "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+            "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+            "schemaCategory": "4-Seater Sofas",
+            "variantCount": 3
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "seat"
+          ],
+          "ranges": [
+            {
+              "unit": "seat",
+              "min": 3,
+              "max": 3,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "3 seat is a published seat count used across selected Nest & Living products. Common on 4-Seater Sofa."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatCount",
+        "attributeLabel": "Seat count",
+        "value": "4 seat",
+        "valueSlug": "4-seat",
+        "valueType": "measurement",
+        "numericValue": 4,
+        "unit": "seat",
+        "productTypes": [
+          "4-Seater Sofas"
+        ],
+        "familyCount": 1,
+        "variantCount": 3,
+        "primaryImageUrl": "/products/four-seater-sofas/heaven/198384_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/heaven",
+            "familyTitle": "Heaven",
+            "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+            "primaryImageUrl": "/products/four-seater-sofas/heaven/198384_1.avif",
+            "schemaCategory": "4-Seater Sofas",
+            "variantCount": 3
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "seat"
+          ],
+          "ranges": [
+            {
+              "unit": "seat",
+              "min": 4,
+              "max": 4,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "4 seat is a published seat count used across selected Nest & Living products. Common on 4-Seater Sofa."
+      }
+    ],
+    "familyCount": 7,
+    "variantCount": 13,
+    "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+    "numericFilter": {
+      "numericEntryCount": 3,
+      "unitCount": 1,
+      "units": [
+        "seat"
+      ],
+      "ranges": [
+        {
+          "unit": "seat",
+          "min": 1,
+          "max": 4,
+          "count": 3,
+          "distinctCount": 3
+        }
+      ]
+    },
+    "valueType": "measurement"
+  },
+  {
+    "attributeKey": "seatDepth",
+    "attributeLabel": "Seat depth",
+    "entries": [
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatDepth",
+        "attributeLabel": "Seat depth",
+        "value": "43.5 cm",
+        "valueSlug": "43-5-cm",
+        "valueType": "measurement",
+        "numericValue": 43.5,
+        "unit": "cm",
+        "productTypes": [
+          "Outdoor Dining Chairs"
+        ],
+        "familyCount": 1,
+        "variantCount": 1,
+        "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/saarni",
+            "familyTitle": "Saarni",
+            "familySummary": "Light brown stackable dining chair with aluminium frame and nonwood surfaces. Suitable for indoor and outdoor use.",
+            "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+            "schemaCategory": "Outdoor Dining Chairs",
+            "variantCount": 1
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 43.5,
+              "max": 43.5,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "43.5 cm is a published seat depth used across selected Nest & Living products. Common on Outdoor Dining Chair."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatDepth",
+        "attributeLabel": "Seat depth",
+        "value": "48 cm",
+        "valueSlug": "48-cm",
+        "valueType": "measurement",
+        "numericValue": 48,
+        "unit": "cm",
+        "productTypes": [
+          "Outdoor Dining Chairs"
+        ],
+        "familyCount": 1,
+        "variantCount": 1,
+        "primaryImageUrl": "/products/outdoor-dining-chairs/messina/206762_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/messina",
+            "familyTitle": "Messina",
+            "familySummary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
+            "primaryImageUrl": "/products/outdoor-dining-chairs/messina/206762_1.avif",
+            "schemaCategory": "Outdoor Dining Chairs",
+            "variantCount": 1
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 48,
+              "max": 48,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "48 cm is a published seat depth used across selected Nest & Living products. Common on Outdoor Dining Chair."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatDepth",
+        "attributeLabel": "Seat depth",
+        "value": "57 cm",
+        "valueSlug": "57-cm",
+        "valueType": "measurement",
+        "numericValue": 57,
+        "unit": "cm",
+        "productTypes": [
+          "Outdoor Dining Chairs"
+        ],
+        "familyCount": 1,
+        "variantCount": 1,
+        "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/messina",
+            "familyTitle": "Messina",
+            "familySummary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
+            "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+            "schemaCategory": "Outdoor Dining Chairs",
+            "variantCount": 1
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 57,
+              "max": 57,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "57 cm is a published seat depth used across selected Nest & Living products. Common on Outdoor Dining Chair."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatDepth",
+        "attributeLabel": "Seat depth",
+        "value": "60 cm",
+        "valueSlug": "60-cm",
+        "valueType": "measurement",
+        "numericValue": 60,
+        "unit": "cm",
+        "productTypes": [
+          "Corner Sofas"
+        ],
+        "familyCount": 1,
+        "variantCount": 2,
+        "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/haave",
+            "familyTitle": "Haave",
+            "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+            "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 2
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 60,
+              "max": 60,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "60 cm is a published seat depth used across selected Nest & Living products. Common on Corner Sofa."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatDepth",
+        "attributeLabel": "Seat depth",
+        "value": "63 cm",
+        "valueSlug": "63-cm",
+        "valueType": "measurement",
+        "numericValue": 63,
+        "unit": "cm",
+        "productTypes": [
+          "3-Seater Sofas",
+          "Chaise Sofas",
+          "Corner Sofas"
+        ],
+        "familyCount": 1,
+        "variantCount": 10,
+        "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/lugo",
+            "familyTitle": "Lugo",
+            "familySummary": "A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame.",
+            "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+            "schemaCategory": "Chaise Sofas, Corner Sofas and 3-Seater Sofas",
+            "variantCount": 10
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 63,
+              "max": 63,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "63 cm is a published seat depth used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa and Corner Sofa."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatDepth",
+        "attributeLabel": "Seat depth",
+        "value": "65 cm",
+        "valueSlug": "65-cm",
+        "valueType": "measurement",
+        "numericValue": 65,
+        "unit": "cm",
+        "productTypes": [
+          "Outdoor Sun Loungers"
+        ],
+        "familyCount": 1,
+        "variantCount": 1,
+        "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/house-nordic-derby",
+            "familyTitle": "House Nordic Derby",
+            "familySummary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+            "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+            "schemaCategory": "Outdoor Sun Loungers",
+            "variantCount": 1
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 65,
+              "max": 65,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "65 cm is a published seat depth used across selected Nest & Living products. Common on Outdoor Sun Lounger."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatDepth",
+        "attributeLabel": "Seat depth",
+        "value": "66 cm",
+        "valueSlug": "66-cm",
+        "valueType": "measurement",
+        "numericValue": 66,
+        "unit": "cm",
+        "productTypes": [
+          "Footstools"
+        ],
+        "familyCount": 1,
+        "variantCount": 2,
+        "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/lugo",
+            "familyTitle": "Lugo",
+            "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+            "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+            "schemaCategory": "Footstools",
+            "variantCount": 2
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 66,
+              "max": 66,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "66 cm is a published seat depth used across selected Nest & Living products. Common on Footstool."
+      }
+    ],
+    "familyCount": 7,
+    "variantCount": 18,
+    "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+    "numericFilter": {
+      "numericEntryCount": 7,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 43.5,
+          "max": 66,
+          "count": 7,
+          "distinctCount": 7
+        }
+      ]
+    },
+    "valueType": "measurement"
+  },
+  {
+    "attributeKey": "seatHeight",
+    "attributeLabel": "Seat height",
+    "entries": [
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatHeight",
+        "attributeLabel": "Seat height",
+        "value": "38 cm",
+        "valueSlug": "38-cm",
+        "valueType": "measurement",
+        "numericValue": 38,
+        "unit": "cm",
+        "productTypes": [
+          "Outdoor Sun Loungers"
+        ],
+        "familyCount": 1,
+        "variantCount": 1,
+        "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/house-nordic-derby",
+            "familyTitle": "House Nordic Derby",
+            "familySummary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+            "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+            "schemaCategory": "Outdoor Sun Loungers",
+            "variantCount": 1
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 38,
+              "max": 38,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "38 cm is a published seat height used across selected Nest & Living products. Common on Outdoor Sun Lounger."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatHeight",
+        "attributeLabel": "Seat height",
+        "value": "40 cm",
+        "valueSlug": "40-cm",
+        "valueType": "measurement",
+        "numericValue": 40,
+        "unit": "cm",
+        "productTypes": [
+          "Outdoor Lounge Seating",
+          "Swivel Chairs"
+        ],
+        "familyCount": 2,
+        "variantCount": 3,
+        "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/wind",
+            "familyTitle": "Wind",
+            "familySummary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+            "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+            "schemaCategory": "Swivel Chairs",
+            "variantCount": 2
+          },
+          {
+            "familyRelativeDir": "families/house-nordic-derby",
+            "familyTitle": "House Nordic Derby",
+            "familySummary": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
+            "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+            "schemaCategory": "Outdoor Lounge Seating",
+            "variantCount": 1
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 40,
+              "max": 40,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "40 cm is a published seat height used across selected Nest & Living products. Common on Outdoor Lounge Seating and Swivel Chair."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatHeight",
+        "attributeLabel": "Seat height",
+        "value": "41 cm",
+        "valueSlug": "41-cm",
+        "valueType": "measurement",
+        "numericValue": 41,
+        "unit": "cm",
+        "productTypes": [
+          "Outdoor Dining Chairs"
+        ],
+        "familyCount": 1,
+        "variantCount": 1,
+        "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/saarni",
+            "familyTitle": "Saarni",
+            "familySummary": "Light brown stackable dining chair with aluminium frame and nonwood surfaces. Suitable for indoor and outdoor use.",
+            "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+            "schemaCategory": "Outdoor Dining Chairs",
+            "variantCount": 1
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 41,
+              "max": 41,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "41 cm is a published seat height used across selected Nest & Living products. Common on Outdoor Dining Chair."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatHeight",
+        "attributeLabel": "Seat height",
+        "value": "44 cm",
+        "valueSlug": "44-cm",
+        "valueType": "measurement",
+        "numericValue": 44,
+        "unit": "cm",
+        "productTypes": [
+          "3-Seater Sofas",
+          "Chaise Sofas",
+          "Corner Sofas",
+          "Footstools",
+          "Outdoor Dining Chairs",
+          "Swivel Chairs"
+        ],
+        "familyCount": 3,
+        "variantCount": 16,
+        "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/lugo",
+            "familyTitle": "Lugo",
+            "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+            "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+            "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+            "variantCount": 12
+          },
+          {
+            "familyRelativeDir": "families/blow",
+            "familyTitle": "Blow",
+            "familySummary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+            "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+            "schemaCategory": "Swivel Chairs",
+            "variantCount": 2
+          },
+          {
+            "familyRelativeDir": "families/messina",
+            "familyTitle": "Messina",
+            "familySummary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
+            "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+            "schemaCategory": "Outdoor Dining Chairs",
+            "variantCount": 2
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 44,
+              "max": 44,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "44 cm is a published seat height used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa, Corner Sofa, Footstool, Outdoor Dining Chair and Swivel Chair."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatHeight",
+        "attributeLabel": "Seat height",
+        "value": "47 cm",
+        "valueSlug": "47-cm",
+        "valueType": "measurement",
+        "numericValue": 47,
+        "unit": "cm",
+        "productTypes": [
+          "Swivel Chairs"
+        ],
+        "familyCount": 1,
+        "variantCount": 2,
+        "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/breeze",
+            "familyTitle": "Breeze",
+            "familySummary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
+            "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+            "schemaCategory": "Swivel Chairs",
+            "variantCount": 2
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 47,
+              "max": 47,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "47 cm is a published seat height used across selected Nest & Living products. Common on Swivel Chair."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatHeight",
+        "attributeLabel": "Seat height",
+        "value": "48 cm",
+        "valueSlug": "48-cm",
+        "valueType": "measurement",
+        "numericValue": 48,
+        "unit": "cm",
+        "productTypes": [
+          "Corner Sofas"
+        ],
+        "familyCount": 1,
+        "variantCount": 2,
+        "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/haave",
+            "familyTitle": "Haave",
+            "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+            "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 2
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 48,
+              "max": 48,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "48 cm is a published seat height used across selected Nest & Living products. Common on Corner Sofa."
+      }
+    ],
+    "familyCount": 9,
+    "variantCount": 25,
+    "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+    "numericFilter": {
+      "numericEntryCount": 6,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 38,
+          "max": 48,
+          "count": 6,
+          "distinctCount": 6
+        }
+      ]
+    },
+    "valueType": "measurement"
+  },
+  {
+    "attributeKey": "seatWidth",
+    "attributeLabel": "Seat width",
+    "entries": [
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatWidth",
+        "attributeLabel": "Seat width",
+        "value": "39.5 cm",
+        "valueSlug": "39-5-cm",
+        "valueType": "measurement",
+        "numericValue": 39.5,
+        "unit": "cm",
+        "productTypes": [
+          "Outdoor Dining Chairs"
+        ],
+        "familyCount": 1,
+        "variantCount": 1,
+        "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/saarni",
+            "familyTitle": "Saarni",
+            "familySummary": "Light brown stackable dining chair with aluminium frame and nonwood surfaces. Suitable for indoor and outdoor use.",
+            "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+            "schemaCategory": "Outdoor Dining Chairs",
+            "variantCount": 1
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 39.5,
+              "max": 39.5,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "39.5 cm is a published seat width used across selected Nest & Living products. Common on Outdoor Dining Chair."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatWidth",
+        "attributeLabel": "Seat width",
+        "value": "44 cm",
+        "valueSlug": "44-cm",
+        "valueType": "measurement",
+        "numericValue": 44,
+        "unit": "cm",
+        "productTypes": [
+          "Outdoor Dining Chairs"
+        ],
+        "familyCount": 1,
+        "variantCount": 2,
+        "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/messina",
+            "familyTitle": "Messina",
+            "familySummary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
+            "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+            "schemaCategory": "Outdoor Dining Chairs",
+            "variantCount": 2
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 44,
+              "max": 44,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "44 cm is a published seat width used across selected Nest & Living products. Common on Outdoor Dining Chair."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatWidth",
+        "attributeLabel": "Seat width",
+        "value": "47 cm",
+        "valueSlug": "47-cm",
+        "valueType": "measurement",
+        "numericValue": 47,
+        "unit": "cm",
+        "productTypes": [
+          "Outdoor Lounge Seating"
+        ],
+        "familyCount": 1,
+        "variantCount": 1,
+        "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/house-nordic-derby",
+            "familyTitle": "House Nordic Derby",
+            "familySummary": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
+            "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+            "schemaCategory": "Outdoor Lounge Seating",
+            "variantCount": 1
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 47,
+              "max": 47,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "47 cm is a published seat width used across selected Nest & Living products. Common on Outdoor Lounge Seating."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatWidth",
+        "attributeLabel": "Seat width",
+        "value": "65 cm",
+        "valueSlug": "65-cm",
+        "valueType": "measurement",
+        "numericValue": 65,
+        "unit": "cm",
+        "productTypes": [
+          "Outdoor Sun Loungers"
+        ],
+        "familyCount": 1,
+        "variantCount": 1,
+        "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/house-nordic-derby",
+            "familyTitle": "House Nordic Derby",
+            "familySummary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+            "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+            "schemaCategory": "Outdoor Sun Loungers",
+            "variantCount": 1
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 65,
+              "max": 65,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "65 cm is a published seat width used across selected Nest & Living products. Common on Outdoor Sun Lounger."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatWidth",
+        "attributeLabel": "Seat width",
+        "value": "75 cm",
+        "valueSlug": "75-cm",
+        "valueType": "measurement",
+        "numericValue": 75,
+        "unit": "cm",
+        "productTypes": [
+          "Chaise Sofas",
+          "Corner Sofas"
+        ],
+        "familyCount": 1,
+        "variantCount": 8,
+        "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/lugo",
+            "familyTitle": "Lugo",
+            "familySummary": "A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame.",
+            "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+            "schemaCategory": "Chaise Sofas and Corner Sofas",
+            "variantCount": 8
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 75,
+              "max": 75,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "75 cm is a published seat width used across selected Nest & Living products. Common on Chaise Sofa and Corner Sofa."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatWidth",
+        "attributeLabel": "Seat width",
+        "value": "85 cm",
+        "valueSlug": "85-cm",
+        "valueType": "measurement",
+        "numericValue": 85,
+        "unit": "cm",
+        "productTypes": [
+          "3-Seater Sofas",
+          "Corner Sofas"
+        ],
+        "familyCount": 2,
+        "variantCount": 4,
+        "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/haave",
+            "familyTitle": "Haave",
+            "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+            "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+            "schemaCategory": "Corner Sofas",
+            "variantCount": 2
+          },
+          {
+            "familyRelativeDir": "families/lugo",
+            "familyTitle": "Lugo",
+            "familySummary": "A modern 3-seater sofa with a durable wooden frame and easy-care fabric upholstery. Available in beige and green.",
+            "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_1.avif",
+            "schemaCategory": "3-Seater Sofas",
+            "variantCount": 2
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 85,
+              "max": 85,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "85 cm is a published seat width used across selected Nest & Living products. Common on 3-Seater Sofa and Corner Sofa."
+      },
+      {
+        "group": "seating",
+        "groupLabel": "Seating",
+        "attributeKey": "seatWidth",
+        "attributeLabel": "Seat width",
+        "value": "92 cm",
+        "valueSlug": "92-cm",
+        "valueType": "measurement",
+        "numericValue": 92,
+        "unit": "cm",
+        "productTypes": [
+          "Footstools"
+        ],
+        "familyCount": 1,
+        "variantCount": 2,
+        "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+        "usageEntries": [
+          {
+            "familyRelativeDir": "families/lugo",
+            "familyTitle": "Lugo",
+            "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+            "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+            "schemaCategory": "Footstools",
+            "variantCount": 2
+          }
+        ],
+        "numericFilter": {
+          "numericEntryCount": 1,
+          "unitCount": 1,
+          "units": [
+            "cm"
+          ],
+          "ranges": [
+            {
+              "unit": "cm",
+              "min": 92,
+              "max": 92,
+              "count": 1,
+              "distinctCount": 1
+            }
+          ]
+        },
+        "summary": "92 cm is a published seat width used across selected Nest & Living products. Common on Footstool."
+      }
+    ],
+    "familyCount": 8,
+    "variantCount": 19,
+    "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+    "numericFilter": {
+      "numericEntryCount": 7,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 39.5,
+          "max": 92,
+          "count": 7,
+          "distinctCount": 7
+        }
+      ]
+    },
+    "valueType": "measurement"
+  }
+]

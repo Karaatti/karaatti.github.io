@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "53 cm",
+  "valueSlug": "53-cm",
+  "valueType": "measurement",
+  "numericValue": 53,
+  "unit": "cm",
+  "productTypes": [
+    "Continental Beds"
+  ],
+  "familyCount": 1,
+  "variantCount": 10,
+  "primaryImageUrl": "/products/continental-beds/moon-silver/197712_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "A practical and comfortable continental bed featuring 5-zone pocket springs for individual support. Available in grey or beige with high wooden legs for ease of cleaning.",
+      "primaryImageUrl": "/products/continental-beds/moon-silver/197712_1.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 10
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 53,
+        "max": 53,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "53 cm is a published height used across selected Nest & Living products. Common on Continental Bed."
+}

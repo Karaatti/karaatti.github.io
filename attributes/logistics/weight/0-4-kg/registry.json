@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "0.4 kg",
+  "valueSlug": "0-4-kg",
+  "valueType": "measurement",
+  "numericValue": 0.4,
+  "unit": "kg",
+  "productTypes": [
+    "Mobile Phone Pockets"
+  ],
+  "familyCount": 1,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/mobile-phone-pockets/moon/202837_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon",
+      "familyTitle": "Moon",
+      "familySummary": "A narrow fabric pocket for keeping phones and small items organised beside the bed or armchair.",
+      "primaryImageUrl": "/products/mobile-phone-pockets/moon/202837_1.avif",
+      "schemaCategory": "Mobile Phone Pockets",
+      "variantCount": 3
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 0.4,
+        "max": 0.4,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.4 kg is a published weight used across selected Nest & Living products. Common on Mobile Phone Pocket."
+}

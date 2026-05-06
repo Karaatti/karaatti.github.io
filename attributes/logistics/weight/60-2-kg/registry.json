@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "60.2 kg",
+  "valueSlug": "60-2-kg",
+  "valueType": "measurement",
+  "numericValue": 60.2,
+  "unit": "kg",
+  "productTypes": [
+    "Corner Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/corner-sofas/lugo/210100_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "Spacious corner sofa with a solid wood frame and breathable fabric upholstery, available in beige and green.",
+      "primaryImageUrl": "/products/corner-sofas/lugo/210100_1.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 60.2,
+        "max": 60.2,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "60.2 kg is a published weight used across selected Nest & Living products. Common on Corner Sofa."
+}

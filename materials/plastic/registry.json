@@ -1,0 +1,56 @@
+{
+  "label": "Plastic",
+  "description": "Plastic in furniture: Easy to shape, moisture proof and often lighter than metal or wood.",
+  "intro": "Plastic appears across 2 product families and 5 options, especially on Outdoor Dining Chairs, Outdoor Dining Tables and Outdoor Lounge Sets.",
+  "chemistry": [
+    "Plastic is an umbrella term. It may refer to polypropylene, ABS, polyethylene or another polymer depending on the furniture part.",
+    "Polymers are attractive because they mould into complex forms, resist water and can integrate colour into the material itself. Their trade-offs are heat sensitivity, creep under long loads and finish ageing."
+  ],
+  "furnitureUse": [
+    "Plastic is strong in chairs, shells, tabletops and accessory parts where designers want low weight, easy cleaning and repeatable shapes.",
+    "For premium long-life furniture the question is grade and thickness. A well-designed technical polymer part can last, while thin commodity plastic can scratch, chalk or flex more than expected."
+  ],
+  "care": [
+    "Moisture and wear note: Not harmed by water itself, though UV and heat can age many plastics outdoors.",
+    "Care note: Use mild cleaners and protect from unnecessary UV and scratching where appearance matters."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [],
+  "durability": [],
+  "relatedSpecifications": [],
+  "lifecycleRows": [],
+  "strengths": [
+    "lightweight",
+    "water resistant",
+    "shape flexibility"
+  ],
+  "watchouts": [
+    "heat and UV ageing",
+    "surface scratching",
+    "generic label does not reveal the exact polymer quality"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Polymer family"
+    },
+    {
+      "label": "Composition",
+      "value": "Generic moulded plastic, exact polymer not specified in the label."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Easy to shape, moisture proof and often lighter than metal or wood."
+    },
+    {
+      "label": "Key strengths",
+      "value": "lightweight, water resistant and shape flexibility"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "heat and UV ageing, surface scratching and generic label does not reveal the exact polymer quality"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

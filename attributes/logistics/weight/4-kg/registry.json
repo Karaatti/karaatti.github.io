@@ -1,0 +1,95 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "4 kg",
+  "valueSlug": "4-kg",
+  "valueType": "measurement",
+  "numericValue": 4,
+  "unit": "kg",
+  "productTypes": [
+    "Outdoor Dining Chairs",
+    "Pillows",
+    "Rugs",
+    "Toppers"
+  ],
+  "familyCount": 7,
+  "variantCount": 9,
+  "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/messina",
+      "familyTitle": "Messina",
+      "familySummary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
+      "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+      "schemaCategory": "Outdoor Dining Chairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+      "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
+      "schemaCategory": "Toppers",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/bilbao",
+      "familyTitle": "Bilbao",
+      "familySummary": "Durable polypropylene rug with vintage-style grey, pink, and beige patterns. Suitable for living and dining rooms, easy to maintain.",
+      "primaryImageUrl": "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_2.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/dozza",
+      "familyTitle": "Dozza",
+      "familySummary": "Dozza is a modern grey polypropylene rug featuring a timeless oriental-inspired pattern. Its muted tones and low pile add warmth and style to living rooms, bedrooms, or hallways while offering practical durability.",
+      "primaryImageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/lucca",
+      "familyTitle": "Lucca",
+      "familySummary": "A smooth-surfaced oriental-style rug that offers a soft and pleasant feel underfoot while maintaining durability. Its carefully chosen plain or subtly patterned elements create a calm and stylish atmosphere suitable for various interiors.",
+      "primaryImageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/sevilla",
+      "familyTitle": "Sevilla",
+      "familySummary": "Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
+      "primaryImageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/staycool",
+      "familyTitle": "Staycool",
+      "familySummary": "Cooling pillows and pillow protectors from the Staycool series.",
+      "primaryImageUrl": "/products/pillows/staycool/214014_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 4,
+        "max": 4,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "4 kg is a published weight used across selected Nest & Living products. Common on Outdoor Dining Chair, Pillow, Rug and Topper."
+}

@@ -1,0 +1,45 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.8 m³",
+  "valueSlug": "0-8-m3",
+  "valueType": "measurement",
+  "numericValue": 0.8,
+  "unit": "m³",
+  "productTypes": [
+    "Adjustable Beds",
+    "Continental Beds"
+  ],
+  "familyCount": 1,
+  "variantCount": 5,
+  "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+      "schemaCategory": "Adjustable Beds and Continental Beds",
+      "variantCount": 5
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.8,
+        "max": 0.8,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.8 m³ is a published volume used across selected Nest & Living products. Common on Adjustable Bed and Continental Bed."
+}

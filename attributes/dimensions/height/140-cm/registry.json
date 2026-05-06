@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "140 cm",
+  "valueSlug": "140-cm",
+  "valueType": "measurement",
+  "numericValue": 140,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Lounge Seating"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/outdoor-lounge-seating/haven/197618_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/haven",
+      "familyTitle": "Haven",
+      "familySummary": "Haven lounge chair combines natural colored polyrattan with beige cushions and a black frame for a practical and comfortable outdoor seat.",
+      "primaryImageUrl": "/products/outdoor-lounge-seating/haven/197618_1.avif",
+      "schemaCategory": "Outdoor Lounge Seating",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 140,
+        "max": 140,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "140 cm is a published height used across selected Nest & Living products. Common on Outdoor Lounge Seating."
+}

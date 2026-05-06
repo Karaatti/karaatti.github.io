@@ -1,0 +1,268 @@
+{
+  "sku": "201090",
+  "displayName": "Nest & Living Bronze Duvet Set",
+  "metaTitle": "Nest & Living Bronze Duvet Set - NEST & LIVING",
+  "metaDescription": "Light duvet set with a matching pillow for practical daily comfort.",
+  "ogTitle": "Nest & Living Bronze Duvet Set",
+  "ogDescription": "Light duvet set with a matching pillow for practical daily comfort.",
+  "shortDescription": "Light duvet set with a matching pillow for practical daily comfort.",
+  "familyDescription": "Light duvet set with practical everyday comfort.",
+  "schemaCategory": "Duvet & Pillow Sets",
+  "selectionAttributes": {
+    "dimensions": "150 x 200 x 3 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "",
+    "material": "Polyester, Cotton"
+  },
+  "attributes": [
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "2 kg",
+      "valueSlug": "2-kg",
+      "rawValue": "2 kg",
+      "valueType": "enum",
+      "numericValue": 2,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "pillowWidth",
+      "label": "Pillow width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "60 cm",
+      "valueSlug": "60-cm",
+      "rawValue": "60 cm",
+      "valueType": "enum",
+      "numericValue": 60,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Leveys 2",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "pillowHeight",
+      "label": "Pillow height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "15 cm",
+      "valueSlug": "15-cm",
+      "rawValue": "15cm",
+      "valueType": "enum",
+      "numericValue": 15,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Korkeus 2",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "pillowDepth",
+      "label": "Pillow depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "50 cm",
+      "valueSlug": "50-cm",
+      "rawValue": "50cm",
+      "valueType": "enum",
+      "numericValue": 50,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Syvyys 2",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "cleaningMethod",
+      "label": "Cleaning method",
+      "group": "care",
+      "groupLabel": "Care",
+      "value": "Water wash",
+      "valueSlug": "water-wash",
+      "rawValue": "vesipesu",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Ominaisuudet",
+      "sourceLabel": "Puhdistustapa",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "priceGuarantee",
+      "label": "Price guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "30 days",
+      "valueSlug": "30-days",
+      "rawValue": "30 päivää",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Hintatakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "150 cm",
+      "valueSlug": "150-cm",
+      "rawValue": "150 cm",
+      "valueType": "enum",
+      "numericValue": 150,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "200 cm",
+      "valueSlug": "200-cm",
+      "rawValue": "200 cm",
+      "valueType": "enum",
+      "numericValue": 200,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "3 cm",
+      "valueSlug": "3-cm",
+      "rawValue": "3 cm",
+      "valueType": "enum",
+      "numericValue": 3,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Polyester, Cotton",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "White",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/white/\">White</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Polyester, Cotton",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/polyester/\">Polyester</a><a class=\"spec-link-chip\" href=\"/materials/cotton/\">Cotton</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "150 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "150 cm",
+          "href": "/attributes/dimensions/width/150-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/150-cm/\">150 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "200 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/200-cm/\">200 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "3 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "3 cm",
+          "href": "/attributes/dimensions/height/3-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/3-cm/\">3 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "2 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "2 kg",
+          "href": "/attributes/logistics/weight/2-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/2-kg/\">2 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
+  "imageUrls": [
+    "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
+    "/products/duvet-pillow-sets/nest-living-bronze/201090_2.jpg"
+  ],
+  "retailerUrl": ""
+}

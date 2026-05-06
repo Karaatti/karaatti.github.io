@@ -1,0 +1,61 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "42 kg",
+  "valueSlug": "42-kg",
+  "valueType": "measurement",
+  "numericValue": 42,
+  "unit": "kg",
+  "productTypes": [
+    "Chaise Sofas",
+    "Outdoor Dining Tables"
+  ],
+  "familyCount": 3,
+  "variantCount": 7,
+  "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey.",
+      "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+      "schemaCategory": "Chaise Sofas",
+      "variantCount": 5
+    },
+    {
+      "familyRelativeDir": "families/haven",
+      "familyTitle": "Haven",
+      "familySummary": "The Haven dining table features a sleek design with a durable aluminium frame and warm polyrattan finish. Its elegant glass top is easy to maintain. Measuring 200 x 100 cm, it provides ample space and assembles in about 30 minutes.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/haven/197626_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/messina",
+      "familyTitle": "Messina",
+      "familySummary": "Messina dining table 220x100 cm provides a practical and elegant outdoor dining option. Its natural toned top and aluminium frame create a modern Scandinavian look. Suitable for garden, terrace or large balcony, it offers a spacious and low-maintenance surface.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/messina/195643_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 42,
+        "max": 42,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "42 kg is a published weight used across selected Nest & Living products. Common on Chaise Sofa and Outdoor Dining Table."
+}

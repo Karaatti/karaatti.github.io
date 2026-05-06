@@ -1,0 +1,61 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "5 cm",
+  "valueSlug": "5-cm",
+  "valueType": "measurement",
+  "numericValue": 5,
+  "unit": "cm",
+  "productTypes": [
+    "Duvets",
+    "Toppers"
+  ],
+  "familyCount": 3,
+  "variantCount": 16,
+  "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+      "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
+      "schemaCategory": "Toppers",
+      "variantCount": 8
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Moon Bronze Basic is a lightweight, breathable mattress topper that adds gentle cushioning and supports a neutral sleeping posture. Its white tone with subtle leaf patterns fits well in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+      "schemaCategory": "Toppers",
+      "variantCount": 7
+    },
+    {
+      "familyRelativeDir": "families/nest-living-gold",
+      "familyTitle": "Nest & Living Gold",
+      "familySummary": "Warm duvets with a breathable fabric blend and a fuller feel.",
+      "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+      "schemaCategory": "Duvets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 5,
+        "max": 5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "5 cm is a published height used across selected Nest & Living products. Common on Duvet and Topper."
+}

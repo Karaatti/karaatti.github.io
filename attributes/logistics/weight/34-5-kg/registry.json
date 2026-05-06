@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "34.5 kg",
+  "valueSlug": "34-5-kg",
+  "valueType": "measurement",
+  "numericValue": 34.5,
+  "unit": "kg",
+  "productTypes": [
+    "Mattresses"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Comfortable mattress with 7-zone pocket springs or memory foam, available in beige or anthracite and various sizes.",
+      "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+      "schemaCategory": "Mattresses",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 34.5,
+        "max": 34.5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "34.5 kg is a published weight used across selected Nest & Living products. Common on Mattress."
+}

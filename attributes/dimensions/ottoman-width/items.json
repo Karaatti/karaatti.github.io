@@ -1,0 +1,26 @@
+[
+  {
+    "name": "46-cm",
+    "label": "46 cm",
+    "href": "/attributes/dimensions/ottoman-width/46-cm/",
+    "type": "dir",
+    "description": "46 cm is a published ottoman width used across selected Nest & Living products. Common on Swivel Chair.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 46,
+    "unit": "cm"
+  },
+  {
+    "name": "49-cm",
+    "label": "49 cm",
+    "href": "/attributes/dimensions/ottoman-width/49-cm/",
+    "type": "dir",
+    "description": "49 cm is a published ottoman width used across selected Nest & Living products. Common on Swivel Chair.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 49,
+    "unit": "cm"
+  }
+]

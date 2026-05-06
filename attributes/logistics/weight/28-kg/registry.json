@@ -1,0 +1,54 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "28 kg",
+  "valueSlug": "28-kg",
+  "valueType": "measurement",
+  "numericValue": 28,
+  "unit": "kg",
+  "productTypes": [
+    "Divan Bed",
+    "Headboards",
+    "Mattresses"
+  ],
+  "familyCount": 2,
+  "variantCount": 5,
+  "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Moon Silver headboard features a buttoned fabric surface that breathes well and adds a subtle, elegant touch to the bedroom. Its timeless design suits various interiors and provides comfortable back support.",
+      "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+      "schemaCategory": "Headboards and Mattresses",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Divan bed with 5-zone pocket spring support and a durable wooden frame. Comes with smoked ash tapered legs and a choice of sizes.",
+      "primaryImageUrl": "/products/divan-beds/moon-bronze/moon_bronze_divan_bed_grey_1.avif",
+      "schemaCategory": "Divan Beds",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 28,
+        "max": 28,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "28 kg is a published weight used across selected Nest & Living products. Common on Divan Bed, Headboard and Mattress."
+}

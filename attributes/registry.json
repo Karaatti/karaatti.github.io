@@ -1,0 +1,114 @@
+[
+  {
+    "group": "care",
+    "groupLabel": "Care",
+    "href": "/attributes/care/",
+    "entryCount": 6,
+    "variantCount": 112,
+    "numericAttributeKeyCount": 0
+  },
+  {
+    "group": "comfort",
+    "groupLabel": "Comfort",
+    "href": "/attributes/comfort/",
+    "entryCount": 2,
+    "variantCount": 78,
+    "numericAttributeKeyCount": 0
+  },
+  {
+    "group": "configuration",
+    "groupLabel": "Configuration",
+    "href": "/attributes/configuration/",
+    "entryCount": 8,
+    "variantCount": 99,
+    "numericAttributeKeyCount": 1
+  },
+  {
+    "group": "dimensions",
+    "groupLabel": "Dimensions",
+    "href": "/attributes/dimensions/",
+    "entryCount": 199,
+    "variantCount": 1312,
+    "numericAttributeKeyCount": 24
+  },
+  {
+    "group": "finish",
+    "groupLabel": "Finish",
+    "href": "/attributes/finish/",
+    "entryCount": 2,
+    "variantCount": 3,
+    "numericAttributeKeyCount": 0
+  },
+  {
+    "group": "accessories",
+    "groupLabel": "Included components",
+    "href": "/attributes/accessories/",
+    "entryCount": 3,
+    "variantCount": 208,
+    "numericAttributeKeyCount": 0
+  },
+  {
+    "group": "load",
+    "groupLabel": "Load",
+    "href": "/attributes/load/",
+    "entryCount": 9,
+    "variantCount": 35,
+    "numericAttributeKeyCount": 1
+  },
+  {
+    "group": "logistics",
+    "groupLabel": "Logistics",
+    "href": "/attributes/logistics/",
+    "entryCount": 269,
+    "variantCount": 1984,
+    "numericAttributeKeyCount": 4
+  },
+  {
+    "group": "padding",
+    "groupLabel": "Padding",
+    "href": "/attributes/padding/",
+    "entryCount": 6,
+    "variantCount": 34,
+    "numericAttributeKeyCount": 2
+  },
+  {
+    "group": "seating",
+    "groupLabel": "Seating",
+    "href": "/attributes/seating/",
+    "entryCount": 26,
+    "variantCount": 99,
+    "numericAttributeKeyCount": 6
+  },
+  {
+    "group": "setup",
+    "groupLabel": "Setup",
+    "href": "/attributes/setup/",
+    "entryCount": 8,
+    "variantCount": 405,
+    "numericAttributeKeyCount": 1
+  },
+  {
+    "group": "support",
+    "groupLabel": "Support",
+    "href": "/attributes/support/",
+    "entryCount": 3,
+    "variantCount": 82,
+    "numericAttributeKeyCount": 1
+  },
+  {
+    "group": "upholstery",
+    "groupLabel": "Upholstery",
+    "href": "/attributes/upholstery/",
+    "entryCount": 7,
+    "variantCount": 171,
+    "numericAttributeKeyCount": 3
+  },
+  {
+    "group": "warranty",
+    "groupLabel": "Warranty",
+    "href": "/attributes/warranty/",
+    "entryCount": 7,
+    "variantCount": 877,
+    "numericAttributeKeyCount": 6
+  }
+]

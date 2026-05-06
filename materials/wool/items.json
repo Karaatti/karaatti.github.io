@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lyra",
+    "href": "/products/rugs/lyra/",
+    "type": "dir",
+    "title": "Lyra",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "saaga",
+    "href": "/products/rugs/saaga/",
+    "type": "dir",
+    "title": "Saaga",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  }
+]

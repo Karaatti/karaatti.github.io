@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "313 cm",
+  "valueSlug": "313-cm",
+  "valueType": "measurement",
+  "numericValue": 313,
+  "unit": "cm",
+  "productTypes": [
+    "Corner Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 6,
+  "primaryImageUrl": "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_313_x_200_cm_10.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+      "primaryImageUrl": "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_313_x_200_cm_10.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 6
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 313,
+        "max": 313,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "313 cm is a published width used across selected Nest & Living products. Common on Corner Sofa."
+}

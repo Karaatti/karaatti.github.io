@@ -1,0 +1,61 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "89 kg",
+  "valueSlug": "89-kg",
+  "valueType": "measurement",
+  "numericValue": 89,
+  "unit": "kg",
+  "productTypes": [
+    "Chaise Sofas",
+    "Continental Beds"
+  ],
+  "familyCount": 3,
+  "variantCount": 10,
+  "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame.",
+      "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+      "schemaCategory": "Chaise Sofas",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Continental bed with 7-zone pocket spring system providing ergonomic support. Available in beige or grey upholstery with a choice of sizes.",
+      "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/aava",
+      "familyTitle": "Aava",
+      "familySummary": "Spacious 4-seater chaise sofa with durable fabric upholstery and natural oak legs. Features reversible chaise for flexible layout.",
+      "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+      "schemaCategory": "Chaise Sofas",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 89,
+        "max": 89,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "89 kg is a published weight used across selected Nest & Living products. Common on Chaise Sofa and Continental Bed."
+}

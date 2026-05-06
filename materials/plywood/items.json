@@ -1,0 +1,74 @@
+[
+  {
+    "name": "lugo",
+    "href": "/products/footstools/lugo/",
+    "type": "dir",
+    "title": "Lugo",
+    "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+    "variantCount": 12
+  },
+  {
+    "name": "heaven",
+    "href": "/products/four-seater-sofas/heaven/",
+    "type": "dir",
+    "title": "Heaven",
+    "schemaCategory": "4-Seater Sofas",
+    "variantCount": 6
+  },
+  {
+    "name": "voyage",
+    "href": "/products/armchairs/voyage/",
+    "type": "dir",
+    "title": "Voyage",
+    "schemaCategory": "Armchairs and 3-Seater Sofas",
+    "variantCount": 4
+  },
+  {
+    "name": "bow",
+    "href": "/products/dining-chairs/bow/",
+    "type": "dir",
+    "title": "Bow",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 3
+  },
+  {
+    "name": "eagle",
+    "href": "/products/armchairs/eagle/",
+    "type": "dir",
+    "title": "Eagle",
+    "schemaCategory": "Armchairs",
+    "variantCount": 3
+  },
+  {
+    "name": "aava",
+    "href": "/products/chaise-sofas/aava/",
+    "type": "dir",
+    "title": "Aava",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 2
+  },
+  {
+    "name": "cloud",
+    "href": "/products/corner-sofas/cloud/",
+    "type": "dir",
+    "title": "Cloud",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 2
+  },
+  {
+    "name": "haave",
+    "href": "/products/corner-sofas/haave/",
+    "type": "dir",
+    "title": "Haave",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 2
+  },
+  {
+    "name": "metz",
+    "href": "/products/dining-tables/metz/",
+    "type": "dir",
+    "title": "Metz",
+    "schemaCategory": "Dining Tables",
+    "variantCount": 1
+  }
+]

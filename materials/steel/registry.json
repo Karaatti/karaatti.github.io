@@ -1,0 +1,83 @@
+{
+  "label": "Steel",
+  "description": "Steel in furniture: High stiffness and strength, excellent for thin load-bearing frames.",
+  "intro": "Steel appears across 7 product families and 15 options, especially on Adjustable Beds, Gazebos & Pergolas, Outdoor Lounge Seating, Outdoor Lounge Sets and Swivel Chairs.",
+  "chemistry": [
+    "Steel is stronger and stiffer than aluminium for a given section, which is why it appears in bed mechanisms, chair bases and outdoor frames that need slim but robust structure.",
+    "Unlike aluminium, steel is not naturally rust-proof. Its corrosion behaviour depends heavily on galvanising, paint, powder coating or stainless alloy choice."
+  ],
+  "furnitureUse": [
+    "Steel shines where a designer wants crisp geometry and dependable load capacity: swivel bases, adjustable-bed components, pergola frames and outdoor lounge structures.",
+    "The trade-offs are weight and corrosion management. A good steel frame can last a long time, but a damaged coating in the wrong environment invites rust."
+  ],
+  "care": [
+    "Moisture and wear note: Unprotected steel can rust, so coatings and sealed welds matter in humid and outdoor settings.",
+    "Care note: Treat chips in the finish early and keep drainage points clean in outdoor constructions."
+  ],
+  "terminology": [],
+  "thermal": [
+    "Steel conducts heat quickly and expands slightly as temperature rises. In furniture that expansion is usually small, but coating cracks, weld quality and humidity matter more over long service life.",
+    "For spring systems, the more important performance issue is fatigue and loss of elastic behaviour under repeated cycles. Good steel and good corrosion protection delay that loss; weak gauge and poor protection accelerate it."
+  ],
+  "recycling": [
+    "Finland-first sorting baseline: clean metal parts belong to metal recycling when they can be separated from the full furniture product.",
+    "If the steel is fixed inside a larger bed, sofa or mechanism and separation is not practical for the customer, use municipal bulky-furniture handling and let the operator manage metal recovery."
+  ],
+  "durability": [
+    "Steel generally has strong long-term load-bearing potential when the section size, welds and corrosion protection are correctly specified.",
+    "Real-life degradation usually comes from coating failure, corrosion at hidden joints, or fatigue in repeatedly flexing components such as springs and mechanisms."
+  ],
+  "relatedSpecifications": [
+    "Pocket spring",
+    "Bonell spring",
+    "No-zag spring",
+    "Adjustable bed mechanism"
+  ],
+  "lifecycleRows": [
+    {
+      "label": "Recycling in Finland",
+      "value": "Direct clean separated parts to metal recycling; otherwise use municipal bulky-furniture handling."
+    },
+    {
+      "label": "Expected wear profile",
+      "value": "Often long-lived, with corrosion and fatigue as the main failure drivers in repeated-load parts."
+    },
+    {
+      "label": "Retail warranty note",
+      "value": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+    }
+  ],
+  "strengths": [
+    "high strength and stiffness",
+    "excellent for slim structures",
+    "good fatigue performance in quality builds"
+  ],
+  "watchouts": [
+    "can rust if the finish fails",
+    "heavier than aluminium",
+    "temperature-conductive hard feel"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Ferrous structural metal"
+    },
+    {
+      "label": "Composition",
+      "value": "Iron-carbon alloy, often powder coated, painted or plated in furniture use."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "High stiffness and strength, excellent for thin load-bearing frames."
+    },
+    {
+      "label": "Key strengths",
+      "value": "high strength and stiffness, excellent for slim structures and good fatigue performance in quality builds"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "can rust if the finish fails, heavier than aluminium and temperature-conductive hard feel"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

@@ -1,0 +1,47 @@
+{
+  "group": "support",
+  "groupLabel": "Support",
+  "attributeKey": "zoneCount",
+  "attributeLabel": "Zone count",
+  "value": "7-zone",
+  "valueSlug": "7-zone",
+  "valueType": "measurement",
+  "numericValue": 7,
+  "unit": "",
+  "productTypes": [
+    "Adjustable Beds",
+    "Continental Beds",
+    "Divan Beds",
+    "Mattresses"
+  ],
+  "familyCount": 1,
+  "variantCount": 47,
+  "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Divan bed with 7-zone pocket spring system offering firm support and ergonomic comfort. Available in various sizes and neutral tones.",
+      "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+      "schemaCategory": "Adjustable Beds, Continental Beds, Divan Beds and Mattresses",
+      "variantCount": 47
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      ""
+    ],
+    "ranges": [
+      {
+        "unit": "",
+        "min": 7,
+        "max": 7,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "7-zone is a published zone count used across selected Nest & Living products. Common on Adjustable Bed, Continental Bed, Divan Bed and Mattress."
+}

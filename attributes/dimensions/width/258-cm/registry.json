@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "258 cm",
+  "valueSlug": "258-cm",
+  "valueType": "measurement",
+  "numericValue": 258,
+  "unit": "cm",
+  "productTypes": [
+    "Corner Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/cloud",
+      "familyTitle": "Cloud",
+      "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+      "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 258,
+        "max": 258,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "258 cm is a published width used across selected Nest & Living products. Common on Corner Sofa."
+}

@@ -1,0 +1,168 @@
+[
+  {
+    "sku": "201093",
+    "name": "201093",
+    "title": "Nest & Living Silver Duvet",
+    "variantSummary": "150 x 200 x 3 cm",
+    "shortDescription": "Everyday duvet with breathable microfiber filling and easy-care fabric.",
+    "selectionAttributes": {
+      "dimensions": "150 x 200 x 3 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "",
+      "material": "Polyester, Cotton"
+    },
+    "primaryImageUrl": "/products/duvets/nest-living-silver/201093_1.jpg",
+    "imageUrl": "/products/duvets/nest-living-silver/201093_1.jpg",
+    "imageUrls": [
+      "/products/duvets/nest-living-silver/201093_1.jpg",
+      "/products/duvets/nest-living-silver/201093_2.jpg"
+    ],
+    "href": "/products/duvets/nest-living-silver/201093",
+    "type": "file",
+    "filterData": {
+      "searchText": "Nest & Living Silver Duvet Everyday duvet with breathable microfiber filling and easy-care fabric. Duvets Bedroom Nest & Living Silver Bedroom Duvets Nest & Living Silver Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 3 cm cm Dimensions Width 150 cm cm Logistics Weight 1.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "duvets",
+          "label": "Duvets",
+          "href": "/products/duvets/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "nest-living-silver",
+          "label": "Nest & Living Silver",
+          "href": "/families/nest-living-silver/"
+        }
+      ],
+      "colors": [],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "water-wash",
+          "valueLabel": "Water wash",
+          "href": "/attributes/care/cleaning-method/water-wash/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "3-cm",
+          "valueLabel": "3 cm",
+          "href": "/attributes/dimensions/height/3-cm/",
+          "valueType": "enum",
+          "numericValue": 3,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "150-cm",
+          "valueLabel": "150 cm",
+          "href": "/attributes/dimensions/width/150-cm/",
+          "valueType": "enum",
+          "numericValue": 150,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-5-kg",
+          "valueLabel": "1.5 kg",
+          "href": "/attributes/logistics/weight/1-5-kg/",
+          "valueType": "enum",
+          "numericValue": 1.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Nest & Living Silver Duvet",
+      "summary": "Everyday duvet with breathable microfiber filling and easy-care fabric.",
+      "variantCount": 1,
+      "categoryLabel": "Duvets",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Nest & Living Silver"
+    }
+  }
+]

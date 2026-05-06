@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "222 cm",
+  "valueSlug": "222-cm",
+  "valueType": "measurement",
+  "numericValue": 222,
+  "unit": "cm",
+  "productTypes": [
+    "3-Seater Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "A modern 3-seater sofa with a durable wooden frame and easy-care fabric upholstery. Available in beige and green.",
+      "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_1.avif",
+      "schemaCategory": "3-Seater Sofas",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 222,
+        "max": 222,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "222 cm is a published width used across selected Nest & Living products. Common on 3-Seater Sofa."
+}

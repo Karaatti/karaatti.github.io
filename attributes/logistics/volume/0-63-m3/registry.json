@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.63 m³",
+  "valueSlug": "0-63-m3",
+  "valueType": "measurement",
+  "numericValue": 0.63,
+  "unit": "m³",
+  "productTypes": [
+    "Adjustable Beds",
+    "Continental Beds"
+  ],
+  "familyCount": 2,
+  "variantCount": 5,
+  "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Continental bed with 7-zone pocket spring system providing ergonomic support. Available in beige or grey upholstery with a choice of sizes.",
+      "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Adjustable bed with 5-zone pocket spring support and wooden legs. Durable steel frame and ergonomic design for comfort.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+      "schemaCategory": "Adjustable Beds and Continental Beds",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.63,
+        "max": 0.63,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.63 m³ is a published volume used across selected Nest & Living products. Common on Adjustable Bed and Continental Bed."
+}

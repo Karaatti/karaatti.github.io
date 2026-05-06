@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "120 cm",
+  "valueSlug": "120-cm",
+  "valueType": "measurement",
+  "numericValue": 120,
+  "unit": "cm",
+  "productTypes": [
+    "Headboards"
+  ],
+  "familyCount": 1,
+  "variantCount": 15,
+  "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "A practical and understated headboard featuring button detailing in five rows. Available in several widths and neutral fabric colours.",
+      "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+      "schemaCategory": "Headboards",
+      "variantCount": 15
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 120,
+        "max": 120,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "120 cm is a published height used across selected Nest & Living products. Common on Headboard."
+}

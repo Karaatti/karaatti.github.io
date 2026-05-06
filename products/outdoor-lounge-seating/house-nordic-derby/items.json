@@ -1,0 +1,255 @@
+[
+  {
+    "sku": "201102",
+    "name": "201102",
+    "title": "House Nordic Derby Outdoor Lounge Seating",
+    "variantSummary": "60 x 61 x 73 cm / Beige",
+    "shortDescription": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
+    "selectionAttributes": {
+      "dimensions": "60 x 61 x 73 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Beige",
+      "material": "Polyrattan, Teak"
+    },
+    "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+    "imageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+    "imageUrls": [
+      "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_2.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_3.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_4.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_5.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_6.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_7.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_8.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_9.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/201102_1.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/201102_2.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/201102_3.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/201102_4.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/201102_5.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/201102_6.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/201102_7.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/201102_8.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/201102_9.avif"
+    ],
+    "href": "/products/outdoor-lounge-seating/house-nordic-derby/201102",
+    "type": "file",
+    "filterData": {
+      "searchText": "House Nordic Derby Outdoor Lounge Seating Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors. Outdoor Lounge Seating Outdoor House Nordic Derby Outdoor Outdoor Lounge Seating House Nordic Derby Beige Polyrattan Teak Wood Dimensions Depth 61 cm cm Dimensions Height 73 cm cm Dimensions Width 60 cm cm Load Maximum load 125 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 6 kg kg Logistics Weight 9.4 kg kg Seating Seat height 40 cm cm Seating Seat width 47 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "outdoor",
+          "label": "Outdoor",
+          "href": "/collections/outdoor"
+        }
+      ],
+      "categories": [
+        {
+          "key": "outdoor-lounge-seating",
+          "label": "Outdoor Lounge Seating",
+          "href": "/products/outdoor-lounge-seating/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "house-nordic-derby",
+          "label": "House Nordic Derby",
+          "href": "/families/house-nordic-derby/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "polyrattan",
+          "label": "Polyrattan",
+          "href": "/materials/polyrattan/"
+        },
+        {
+          "key": "teak",
+          "label": "Teak",
+          "href": "/materials/teak/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "61-cm",
+          "valueLabel": "61 cm",
+          "href": "/attributes/dimensions/depth/61-cm/",
+          "valueType": "enum",
+          "numericValue": 61,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "73-cm",
+          "valueLabel": "73 cm",
+          "href": "/attributes/dimensions/height/73-cm/",
+          "valueType": "enum",
+          "numericValue": 73,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/width/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "load",
+          "groupLabel": "Load",
+          "key": "maximum-load",
+          "label": "Maximum load",
+          "valueKey": "125-kg",
+          "valueLabel": "125 kg",
+          "href": "/attributes/load/maximum-load/125-kg/",
+          "valueType": "enum",
+          "numericValue": 125,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-37-m3",
+          "valueLabel": "0.37 m³",
+          "href": "/attributes/logistics/volume/0-37-m3/",
+          "valueType": "enum",
+          "numericValue": 0.37,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "6-kg",
+          "valueLabel": "6 kg",
+          "href": "/attributes/logistics/weight/6-kg/",
+          "valueType": "enum",
+          "numericValue": 6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-4-kg",
+          "valueLabel": "9.4 kg",
+          "href": "/attributes/logistics/weight/9-4-kg/",
+          "valueType": "enum",
+          "numericValue": 9.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/seating/seat-height/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-width",
+          "label": "Seat width",
+          "valueKey": "47-cm",
+          "valueLabel": "47 cm",
+          "href": "/attributes/seating/seat-width/47-cm/",
+          "valueType": "enum",
+          "numericValue": 47,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "House Nordic Derby Outdoor Lounge Seating",
+      "summary": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
+      "variantCount": 1,
+      "categoryLabel": "Outdoor Lounge Seating",
+      "collectionLabel": "Outdoor",
+      "productFamilyLabel": "House Nordic Derby"
+    }
+  }
+]

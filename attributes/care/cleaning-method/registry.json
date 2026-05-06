@@ -1,0 +1,361 @@
+{
+  "attributeKey": "cleaningMethod",
+  "attributeLabel": "Cleaning method",
+  "group": "care",
+  "groupLabel": "Care",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 4,
+    "unitCount": 1,
+    "units": [
+      ""
+    ],
+    "ranges": [
+      {
+        "unit": "",
+        "min": 0,
+        "max": 0,
+        "count": 4,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "care",
+      "groupLabel": "Care",
+      "attributeKey": "cleaningMethod",
+      "attributeLabel": "Cleaning method",
+      "value": "Dry clean",
+      "valueSlug": "dry-clean",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "productTypes": [
+        "4-Seater Sofas",
+        "Swivel Chairs"
+      ],
+      "familyCount": 5,
+      "variantCount": 13,
+      "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/heaven",
+          "familyTitle": "Heaven",
+          "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+          "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+          "schemaCategory": "4-Seater Sofas",
+          "variantCount": 6
+        },
+        {
+          "familyRelativeDir": "families/blow",
+          "familyTitle": "Blow",
+          "familySummary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+          "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/breeze",
+          "familyTitle": "Breeze",
+          "familySummary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
+          "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/wind",
+          "familyTitle": "Wind",
+          "familySummary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+          "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/bay",
+          "familyTitle": "Bay",
+          "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+          "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          ""
+        ],
+        "ranges": [
+          {
+            "unit": "",
+            "min": 0,
+            "max": 0,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "Dry clean is a published cleaning method option used across selected Nest & Living products. Common on 4-Seater Sofa and Swivel Chair."
+    },
+    {
+      "group": "care",
+      "groupLabel": "Care",
+      "attributeKey": "cleaningMethod",
+      "attributeLabel": "Cleaning method",
+      "value": "Wash 30°C",
+      "valueSlug": "wash-30c",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "productTypes": [
+        "Corner Sofas"
+      ],
+      "familyCount": 2,
+      "variantCount": 4,
+      "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/cloud",
+          "familyTitle": "Cloud",
+          "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+          "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+          "schemaCategory": "Corner Sofas",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/haave",
+          "familyTitle": "Haave",
+          "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+          "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+          "schemaCategory": "Corner Sofas",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          ""
+        ],
+        "ranges": [
+          {
+            "unit": "",
+            "min": 0,
+            "max": 0,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "Wash 30°C is a published cleaning method option used across selected Nest & Living products. Common on Corner Sofa."
+    },
+    {
+      "group": "care",
+      "groupLabel": "Care",
+      "attributeKey": "cleaningMethod",
+      "attributeLabel": "Cleaning method",
+      "value": "Wash 60°C",
+      "valueSlug": "wash-60c",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "productTypes": [
+        "Duvets",
+        "Mattress Protectors",
+        "Pillows"
+      ],
+      "familyCount": 5,
+      "variantCount": 16,
+      "primaryImageUrl": "/products/mattress-protectors/nest-living/nest_living_mattress_protector_white_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/nest-living",
+          "familyTitle": "Nest & Living",
+          "familySummary": "Quilted mattress protector with elastic corners to keep it in place. Protects and extends the life of your mattress.",
+          "primaryImageUrl": "/products/mattress-protectors/nest-living/nest_living_mattress_protector_white_1.avif",
+          "schemaCategory": "Mattress Protectors",
+          "variantCount": 6
+        },
+        {
+          "familyRelativeDir": "families/staycool",
+          "familyTitle": "Staycool",
+          "familySummary": "Cooling duvets from the Staycool series.",
+          "primaryImageUrl": "/products/duvets/staycool/214013_1.jpg",
+          "schemaCategory": "Duvets, Mattress Protectors and Pillows",
+          "variantCount": 4
+        },
+        {
+          "familyRelativeDir": "families/staygentle",
+          "familyTitle": "Staygentle",
+          "familySummary": "Tencel mattress protectors from the Staygentle series.",
+          "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
+          "schemaCategory": "Mattress Protectors",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/staycation",
+          "familyTitle": "Staycation",
+          "familySummary": "Bedroom pillows from the Staycation series.",
+          "primaryImageUrl": "/products/pillows/staycation/214016_1.jpg",
+          "schemaCategory": "Pillows",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/staycomfort",
+          "familyTitle": "Staycomfort",
+          "familySummary": "Everyday pillows from the Staycomfort series.",
+          "primaryImageUrl": "/products/pillows/staycomfort/214015_1.jpg",
+          "schemaCategory": "Pillows",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          ""
+        ],
+        "ranges": [
+          {
+            "unit": "",
+            "min": 0,
+            "max": 0,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "Wash 60°C is a published cleaning method option used across selected Nest & Living products. Common on Duvet, Mattress Protector and Pillow."
+    },
+    {
+      "group": "care",
+      "groupLabel": "Care",
+      "attributeKey": "cleaningMethod",
+      "attributeLabel": "Cleaning method",
+      "value": "Water wash",
+      "valueSlug": "water-wash",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "productTypes": [
+        "3-Seater Sofas",
+        "Armchairs",
+        "Duvet & Pillow Sets",
+        "Duvets",
+        "Pillows",
+        "Rugs"
+      ],
+      "familyCount": 11,
+      "variantCount": 27,
+      "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/nest-living-gold",
+          "familyTitle": "Nest & Living Gold",
+          "familySummary": "Warm duvets with a breathable fabric blend and a fuller feel.",
+          "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+          "schemaCategory": "Duvets and Pillows",
+          "variantCount": 4
+        },
+        {
+          "familyRelativeDir": "families/ruutu",
+          "familyTitle": "Ruutu",
+          "familySummary": "A densely woven rug with a matte finish and a calm check pattern in beige or grey. Finished with short fringes for a neat look.",
+          "primaryImageUrl": "/products/rugs/ruutu/ruutu_rug_beige_4.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 4
+        },
+        {
+          "familyRelativeDir": "families/voyage",
+          "familyTitle": "Voyage",
+          "familySummary": "A fixed armchair with a solid wood frame, soft foam and feather seat, and removable cotton covers in white or green.",
+          "primaryImageUrl": "/products/armchairs/voyage/208784_1.avif",
+          "schemaCategory": "Armchairs and 3-Seater Sofas",
+          "variantCount": 4
+        },
+        {
+          "familyRelativeDir": "families/moderni",
+          "familyTitle": "Moderni",
+          "familySummary": "Modern rugs with graphic patterns in grey and beige. Soft surface and non-slip backing for practical use.",
+          "primaryImageUrl": "/products/rugs/moderni/202736_1.jpg",
+          "schemaCategory": "Rugs",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/nest-living-silver",
+          "familyTitle": "Nest & Living Silver",
+          "familySummary": "Duvets selected for everyday warmth, breathable fabrics, and practical bedroom use.",
+          "primaryImageUrl": "/products/duvets/nest-living-silver/201093_1.jpg",
+          "schemaCategory": "Duvets and Pillows",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/sirmione",
+          "familyTitle": "Sirmione",
+          "familySummary": "Calm and textured rug in green or beige, made from polyester and cotton. Suitable for living rooms, bedrooms, or dining areas.",
+          "primaryImageUrl": "/products/rugs/sirmione/202747_1.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/yanam",
+          "familyTitle": "Yanam",
+          "familySummary": "Textured blue rug with a worn look and multicolor nuances. Made of polyester and cotton. Easy to clean and non-slip backing.",
+          "primaryImageUrl": "/products/rugs/yanam/yanam_rug_blue_2.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/desenzano",
+          "familyTitle": "Desenzano",
+          "familySummary": "A modern rug with a graphic pattern and soft muted tones. Made of cotton and polyester, it has a soft surface and delicate fringes.",
+          "primaryImageUrl": "/products/rugs/desenzano/202751_1.jpg",
+          "schemaCategory": "Rugs",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/garda",
+          "familyTitle": "Garda",
+          "familySummary": "Oriental patterned rug in a cotton and polyester blend. Soft, easy to care for and designed for living and dining spaces.",
+          "primaryImageUrl": "/products/rugs/garda/202743_1.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/nest-living-basic",
+          "familyTitle": "Nest & Living Basic",
+          "familySummary": "Soft and lightweight duvet set for easy-care everyday bedroom use.",
+          "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-basic/201089_1.avif",
+          "schemaCategory": "Duvet & Pillow Sets",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/nest-living-bronze",
+          "familyTitle": "Nest & Living Bronze",
+          "familySummary": "Light duvet set with practical everyday comfort.",
+          "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
+          "schemaCategory": "Duvet & Pillow Sets",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          ""
+        ],
+        "ranges": [
+          {
+            "unit": "",
+            "min": 0,
+            "max": 0,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "Water wash is a published cleaning method option used across selected Nest & Living products. Common on 3-Seater Sofa, Armchair, Duvet & Pillow Set, Duvet, Pillow and Rug."
+    }
+  ]
+}

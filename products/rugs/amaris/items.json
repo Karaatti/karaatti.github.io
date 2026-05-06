@@ -1,0 +1,386 @@
+[
+  {
+    "sku": "200725",
+    "name": "200725",
+    "title": "Amaris Rug, 160 x 230 cm",
+    "variantSummary": "160 x 230 cm / Multicolour",
+    "shortDescription": "Amaris rug, 160 x 230 cm, with a soft viscose pile and classic pattern.",
+    "selectionAttributes": {
+      "dimensions": "160 x 230 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Multicolour",
+      "material": "Viscose, Polyester"
+    },
+    "primaryImageUrl": "/products/rugs/amaris/amaris_rug_multicolour_1.avif",
+    "imageUrl": "/products/rugs/amaris/amaris_rug_multicolour_1.avif",
+    "imageUrls": [
+      "/products/rugs/amaris/amaris_rug_multicolour_1.avif",
+      "/products/rugs/amaris/amaris_rug_multicolour_2.avif",
+      "/products/rugs/amaris/amaris_rug_multicolour_3.avif",
+      "/products/rugs/amaris/amaris_rug_multicolour_4.avif",
+      "/products/rugs/amaris/amaris_rug_multicolour_6.avif",
+      "/products/rugs/amaris/amaris_rug_multicolour_7.avif",
+      "/products/rugs/amaris/amaris_rug_multicolour_5.jpg",
+      "/products/rugs/amaris/amaris_rug_multicolour_8.jpg",
+      "/products/rugs/amaris/amaris_rug_multicolour_9.jpg",
+      "/products/rugs/amaris/200725_1.avif",
+      "/products/rugs/amaris/200725_2.jpg",
+      "/products/rugs/amaris/200725_3.jpg",
+      "/products/rugs/amaris/200725_4.jpg",
+      "/products/rugs/amaris/200725_5.jpg",
+      "/products/rugs/amaris/200725_6.jpg",
+      "/products/rugs/amaris/200725_7.jpg"
+    ],
+    "href": "/products/rugs/amaris/200725",
+    "type": "file",
+    "filterData": {
+      "searchText": "Amaris Rug, 160 x 230 cm Amaris rug, 160 x 230 cm, with a soft viscose pile and classic pattern. Rugs Home Details Amaris Home Details Rugs Amaris Multicolour Polyester Viscose Dimensions Depth 230 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.03 m³ m³ Logistics Weight 6 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "rugs",
+          "label": "Rugs",
+          "href": "/products/rugs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "amaris",
+          "label": "Amaris",
+          "href": "/families/amaris/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "multicolour",
+          "label": "Multicolour",
+          "href": "/colors/multicolour/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        },
+        {
+          "key": "viscose",
+          "label": "Viscose",
+          "href": "/materials/viscose/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "230-cm",
+          "valueLabel": "230 cm",
+          "href": "/attributes/dimensions/depth/230-cm/",
+          "valueType": "enum",
+          "numericValue": 230,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "160-cm",
+          "valueLabel": "160 cm",
+          "href": "/attributes/dimensions/width/160-cm/",
+          "valueType": "enum",
+          "numericValue": 160,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-03-m3",
+          "valueLabel": "0.03 m³",
+          "href": "/attributes/logistics/volume/0-03-m3/",
+          "valueType": "enum",
+          "numericValue": 0.03,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "6-kg",
+          "valueLabel": "6 kg",
+          "href": "/attributes/logistics/weight/6-kg/",
+          "valueType": "enum",
+          "numericValue": 6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Amaris Rug, 160 x 230 cm",
+      "summary": "Amaris rug, 160 x 230 cm, with a soft viscose pile and classic pattern.",
+      "variantCount": 1,
+      "categoryLabel": "Rugs",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Amaris"
+    }
+  },
+  {
+    "sku": "200726",
+    "name": "200726",
+    "title": "Amaris Rug, 200 x 290 cm",
+    "variantSummary": "200 x 290 cm / Multicolour",
+    "shortDescription": "Amaris rug, 200 x 290 cm, with a soft viscose pile and classic pattern.",
+    "selectionAttributes": {
+      "dimensions": "200 x 290 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Multicolour",
+      "material": "Viscose, Polyester"
+    },
+    "primaryImageUrl": "/products/rugs/amaris/amaris_rug_multicolour_1.avif",
+    "imageUrl": "/products/rugs/amaris/amaris_rug_multicolour_1.avif",
+    "imageUrls": [
+      "/products/rugs/amaris/amaris_rug_multicolour_1.avif",
+      "/products/rugs/amaris/amaris_rug_multicolour_2.avif",
+      "/products/rugs/amaris/amaris_rug_multicolour_3.avif",
+      "/products/rugs/amaris/amaris_rug_multicolour_4.avif",
+      "/products/rugs/amaris/amaris_rug_multicolour_6.avif",
+      "/products/rugs/amaris/amaris_rug_multicolour_7.avif",
+      "/products/rugs/amaris/amaris_rug_multicolour_5.jpg",
+      "/products/rugs/amaris/amaris_rug_multicolour_8.jpg",
+      "/products/rugs/amaris/amaris_rug_multicolour_9.jpg",
+      "/products/rugs/amaris/200726_1.avif",
+      "/products/rugs/amaris/200726_2.avif",
+      "/products/rugs/amaris/200726_3.avif",
+      "/products/rugs/amaris/200726_4.avif",
+      "/products/rugs/amaris/200726_5.avif",
+      "/products/rugs/amaris/200726_6.avif",
+      "/products/rugs/amaris/200726_7.avif"
+    ],
+    "href": "/products/rugs/amaris/200726",
+    "type": "file",
+    "filterData": {
+      "searchText": "Amaris Rug, 200 x 290 cm Amaris rug, 200 x 290 cm, with a soft viscose pile and classic pattern. Rugs Home Details Amaris Home Details Rugs Amaris Multicolour Polyester Viscose Dimensions Depth 290 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 9 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "rugs",
+          "label": "Rugs",
+          "href": "/products/rugs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "amaris",
+          "label": "Amaris",
+          "href": "/families/amaris/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "multicolour",
+          "label": "Multicolour",
+          "href": "/colors/multicolour/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        },
+        {
+          "key": "viscose",
+          "label": "Viscose",
+          "href": "/materials/viscose/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "290-cm",
+          "valueLabel": "290 cm",
+          "href": "/attributes/dimensions/depth/290-cm/",
+          "valueType": "enum",
+          "numericValue": 290,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-05-m3",
+          "valueLabel": "0.05 m³",
+          "href": "/attributes/logistics/volume/0-05-m3/",
+          "valueType": "enum",
+          "numericValue": 0.05,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-kg",
+          "valueLabel": "9 kg",
+          "href": "/attributes/logistics/weight/9-kg/",
+          "valueType": "enum",
+          "numericValue": 9,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Amaris Rug, 200 x 290 cm",
+      "summary": "Amaris rug, 200 x 290 cm, with a soft viscose pile and classic pattern.",
+      "variantCount": 1,
+      "categoryLabel": "Rugs",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Amaris"
+    }
+  }
+]

@@ -1,0 +1,237 @@
+{
+  "sku": "202858",
+  "displayName": "Hix Decorative Cushion, White, 60 x 40 cm",
+  "metaTitle": "Hix Decorative Cushion, White, 60 x 40 cm - NEST & LIVING",
+  "metaDescription": "60 x 40 cm decorative cushion in Hix upholstery, white tone.",
+  "ogTitle": "Hix Decorative Cushion, White, 60 x 40 cm",
+  "ogDescription": "60 x 40 cm decorative cushion in Hix upholstery, white tone.",
+  "shortDescription": "60 x 40 cm decorative cushion in Hix upholstery, white tone.",
+  "familyDescription": "Decorative cushions in Hix upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+  "schemaCategory": "Decorative Cushions",
+  "selectionAttributes": {
+    "dimensions": "60 x 40 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "White",
+    "material": ""
+  },
+  "attributes": [
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "40 cm",
+      "valueSlug": "40-cm",
+      "rawValue": "40 cm",
+      "valueType": "enum",
+      "numericValue": 40,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "60 cm",
+      "valueSlug": "60-cm",
+      "rawValue": "60 cm",
+      "valueType": "enum",
+      "numericValue": 60,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "15 cm",
+      "valueSlug": "15-cm",
+      "rawValue": "15 cm",
+      "valueType": "enum",
+      "numericValue": 15,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 kg",
+      "valueSlug": "1-kg",
+      "rawValue": "1 kg",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "12 product",
+      "valueSlug": "12-product",
+      "rawValue": "12 kpl",
+      "valueType": "enum",
+      "numericValue": 12,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.22 m³",
+      "valueSlug": "0-22-m3",
+      "rawValue": "0,22 m³",
+      "valueType": "enum",
+      "numericValue": 0.22,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "9.8 kg",
+      "valueSlug": "9-8-kg",
+      "rawValue": "9,8 kg",
+      "valueType": "enum",
+      "numericValue": 9.8,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "White",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/white/\">White</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "40 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "40 cm",
+          "href": "/attributes/dimensions/width/40-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/40-cm/\">40 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "60 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "60 cm",
+          "href": "/attributes/dimensions/depth/60-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/60-cm/\">60 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "15 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/15-cm/\">15 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "1 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/1-kg/\">1 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/decorative-cushions/hix/202858_1.avif",
+  "imageUrls": [
+    "/products/decorative-cushions/hix/202858_1.avif",
+    "/products/decorative-cushions/hix/202858_2.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/202858-nest-living-sisustustyyny-60x40-cm-luonnonvalkoinen-storm-02"
+}

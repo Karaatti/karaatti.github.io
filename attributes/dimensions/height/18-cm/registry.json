@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "18 cm",
+  "valueSlug": "18-cm",
+  "valueType": "measurement",
+  "numericValue": 18,
+  "unit": "cm",
+  "productTypes": [
+    "Pillows"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/pillows/staycation/214017_1.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/staycation",
+      "familyTitle": "Staycation",
+      "familySummary": "Bedroom pillows from the Staycation series.",
+      "primaryImageUrl": "/products/pillows/staycation/214017_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 18,
+        "max": 18,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "18 cm is a published height used across selected Nest & Living products. Common on Pillow."
+}

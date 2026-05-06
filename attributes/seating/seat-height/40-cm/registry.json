@@ -1,0 +1,53 @@
+{
+  "group": "seating",
+  "groupLabel": "Seating",
+  "attributeKey": "seatHeight",
+  "attributeLabel": "Seat height",
+  "value": "40 cm",
+  "valueSlug": "40-cm",
+  "valueType": "measurement",
+  "numericValue": 40,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Lounge Seating",
+    "Swivel Chairs"
+  ],
+  "familyCount": 2,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/wind",
+      "familyTitle": "Wind",
+      "familySummary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+      "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/house-nordic-derby",
+      "familyTitle": "House Nordic Derby",
+      "familySummary": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
+      "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+      "schemaCategory": "Outdoor Lounge Seating",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 40,
+        "max": 40,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "40 cm is a published seat height used across selected Nest & Living products. Common on Outdoor Lounge Seating and Swivel Chair."
+}

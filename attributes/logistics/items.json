@@ -1,0 +1,102 @@
+[
+  {
+    "name": "package-count",
+    "label": "Package count",
+    "href": "/attributes/logistics/package-count/",
+    "type": "dir",
+    "entryCount": 3,
+    "variantCount": 406,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 3,
+      "unitCount": 1,
+      "units": [
+        "package"
+      ],
+      "ranges": [
+        {
+          "unit": "package",
+          "min": 1,
+          "max": 3,
+          "count": 3,
+          "distinctCount": 3
+        }
+      ]
+    }
+  },
+  {
+    "name": "product-count",
+    "label": "Product count",
+    "href": "/attributes/logistics/product-count/",
+    "type": "dir",
+    "entryCount": 9,
+    "variantCount": 406,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 9,
+      "unitCount": 1,
+      "units": [
+        "product"
+      ],
+      "ranges": [
+        {
+          "unit": "product",
+          "min": 1,
+          "max": 20,
+          "count": 9,
+          "distinctCount": 9
+        }
+      ]
+    }
+  },
+  {
+    "name": "volume",
+    "label": "Volume",
+    "href": "/attributes/logistics/volume/",
+    "type": "dir",
+    "entryCount": 92,
+    "variantCount": 406,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 92,
+      "unitCount": 1,
+      "units": [
+        "m³"
+      ],
+      "ranges": [
+        {
+          "unit": "m³",
+          "min": 0.01,
+          "max": 1.5,
+          "count": 92,
+          "distinctCount": 92
+        }
+      ]
+    }
+  },
+  {
+    "name": "weight",
+    "label": "Weight",
+    "href": "/attributes/logistics/weight/",
+    "type": "dir",
+    "entryCount": 165,
+    "variantCount": 766,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 165,
+      "unitCount": 1,
+      "units": [
+        "kg"
+      ],
+      "ranges": [
+        {
+          "unit": "kg",
+          "min": 0.4,
+          "max": 144,
+          "count": 165,
+          "distinctCount": 165
+        }
+      ]
+    }
+  }
+]

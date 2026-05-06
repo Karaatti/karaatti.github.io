@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "20 cm",
+  "valueSlug": "20-cm",
+  "valueType": "measurement",
+  "numericValue": 20,
+  "unit": "cm",
+  "productTypes": [
+    "Mobile Phone Pockets"
+  ],
+  "familyCount": 1,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/mobile-phone-pockets/moon/202837_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon",
+      "familyTitle": "Moon",
+      "familySummary": "A narrow fabric pocket for keeping phones and small items organised beside the bed or armchair.",
+      "primaryImageUrl": "/products/mobile-phone-pockets/moon/202837_1.avif",
+      "schemaCategory": "Mobile Phone Pockets",
+      "variantCount": 3
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 20,
+        "max": 20,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "20 cm is a published width used across selected Nest & Living products. Common on Mobile Phone Pocket."
+}

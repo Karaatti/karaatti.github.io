@@ -1,0 +1,42 @@
+[
+  {
+    "name": "heaven",
+    "href": "/families/heaven/",
+    "type": "dir",
+    "title": "Heaven",
+    "schemaCategory": "4-Seater Sofas",
+    "variantCount": 6
+  },
+  {
+    "name": "blow",
+    "href": "/families/blow/",
+    "type": "dir",
+    "title": "Blow",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "breeze",
+    "href": "/families/breeze/",
+    "type": "dir",
+    "title": "Breeze",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "wind",
+    "href": "/families/wind/",
+    "type": "dir",
+    "title": "Wind",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "bay",
+    "href": "/families/bay/",
+    "type": "dir",
+    "title": "Bay",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1
+  }
+]

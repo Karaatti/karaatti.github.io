@@ -1,0 +1,188 @@
+{
+  "type": "product-family",
+  "productFamilyName": "Nest & Living Bronze",
+  "productFamilyKey": "nest-living-bronze",
+  "summary": "Light duvet set with practical everyday comfort.",
+  "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
+  "familyCount": 1,
+  "filterData": {
+    "searchText": "Nest & Living Bronze Light duvet set with practical everyday comfort. Nest & Living Bronze Bedroom Duvet & Pillow Sets Nest & Living Bronze Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 3 cm cm Dimensions Pillow depth 50 cm cm Dimensions Pillow height 15 cm cm Dimensions Pillow width 60 cm cm Dimensions Width 150 cm cm Logistics Weight 2 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+    "collections": [
+      {
+        "key": "bedroom",
+        "label": "Bedroom",
+        "href": "/collections/bedroom"
+      }
+    ],
+    "categories": [
+      {
+        "key": "duvet-pillow-sets",
+        "label": "Duvet & Pillow Sets",
+        "href": "/products/duvet-pillow-sets/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "nest-living-bronze",
+        "label": "Nest & Living Bronze",
+        "href": "/families/nest-living-bronze/"
+      }
+    ],
+    "colors": [],
+    "materials": [
+      {
+        "key": "cotton",
+        "label": "Cotton",
+        "href": "/materials/cotton/"
+      },
+      {
+        "key": "polyester",
+        "label": "Polyester",
+        "href": "/materials/polyester/"
+      }
+    ],
+    "specifications": [],
+    "attributes": [
+      {
+        "groupKey": "care",
+        "groupLabel": "Care",
+        "key": "cleaning-method",
+        "label": "Cleaning method",
+        "valueKey": "water-wash",
+        "valueLabel": "Water wash",
+        "href": "/attributes/care/cleaning-method/water-wash/",
+        "valueType": "enum",
+        "numericValue": 0,
+        "unit": ""
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "depth",
+        "label": "Depth",
+        "valueKey": "200-cm",
+        "valueLabel": "200 cm",
+        "href": "/attributes/dimensions/depth/200-cm/",
+        "valueType": "enum",
+        "numericValue": 200,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "height",
+        "label": "Height",
+        "valueKey": "3-cm",
+        "valueLabel": "3 cm",
+        "href": "/attributes/dimensions/height/3-cm/",
+        "valueType": "enum",
+        "numericValue": 3,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "pillow-depth",
+        "label": "Pillow depth",
+        "valueKey": "50-cm",
+        "valueLabel": "50 cm",
+        "href": "/attributes/dimensions/pillow-depth/50-cm/",
+        "valueType": "enum",
+        "numericValue": 50,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "pillow-height",
+        "label": "Pillow height",
+        "valueKey": "15-cm",
+        "valueLabel": "15 cm",
+        "href": "/attributes/dimensions/pillow-height/15-cm/",
+        "valueType": "enum",
+        "numericValue": 15,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "pillow-width",
+        "label": "Pillow width",
+        "valueKey": "60-cm",
+        "valueLabel": "60 cm",
+        "href": "/attributes/dimensions/pillow-width/60-cm/",
+        "valueType": "enum",
+        "numericValue": 60,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "150-cm",
+        "valueLabel": "150 cm",
+        "href": "/attributes/dimensions/width/150-cm/",
+        "valueType": "enum",
+        "numericValue": 150,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "2-kg",
+        "valueLabel": "2 kg",
+        "href": "/attributes/logistics/weight/2-kg/",
+        "valueType": "enum",
+        "numericValue": 2,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "setup",
+        "groupLabel": "Setup",
+        "key": "assembly-time",
+        "label": "Assembly time",
+        "valueKey": "0-min",
+        "valueLabel": "0 min",
+        "href": "/attributes/setup/assembly-time/0-min/",
+        "valueType": "enum",
+        "numericValue": 0,
+        "unit": "min"
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "price-guarantee",
+        "label": "Price guarantee",
+        "valueKey": "30-days",
+        "valueLabel": "30 days",
+        "href": "/attributes/warranty/price-guarantee/30-days/",
+        "valueType": "enum",
+        "numericValue": 30,
+        "unit": "days"
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "quality-guarantee",
+        "label": "Quality guarantee",
+        "valueKey": "1000-days",
+        "valueLabel": "1000 days",
+        "href": "/attributes/warranty/quality-guarantee/1000-days/",
+        "valueType": "enum",
+        "numericValue": 1000,
+        "unit": "days"
+      }
+    ]
+  },
+  "sortData": {
+    "title": "Nest & Living Bronze",
+    "summary": "Light duvet set with practical everyday comfort.",
+    "variantCount": 1,
+    "categoryLabel": "",
+    "collectionLabel": "",
+    "productFamilyLabel": "Nest & Living Bronze"
+  }
+}

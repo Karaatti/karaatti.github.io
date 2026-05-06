@@ -1,0 +1,62 @@
+{
+  "group": "setup",
+  "groupLabel": "Setup",
+  "attributeKey": "assemblyTime",
+  "attributeLabel": "Assembly time",
+  "value": "45 min",
+  "valueSlug": "45-min",
+  "valueType": "measurement",
+  "numericValue": 45,
+  "unit": "min",
+  "productTypes": [
+    "Cabinets Display",
+    "Console Tables",
+    "Corner Sofas"
+  ],
+  "familyCount": 3,
+  "variantCount": 5,
+  "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/haave",
+      "familyTitle": "Haave",
+      "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+      "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/mystery",
+      "familyTitle": "Mystery",
+      "familySummary": "The Mystery Shelf in black combines metal and oak veneer in a minimalist design. It provides four spacious shelves suitable for books and decorative items, fitting well in modern and industrial interiors.",
+      "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+      "schemaCategory": "Shelves",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/oak",
+      "familyTitle": "Oak",
+      "familySummary": "Oak console table in natural oak veneer offers a modern Scandinavian look for living rooms, hallways or offices. The warm brown tone creates a cozy atmosphere. Two integrated drawers provide practical storage. A versatile and durable piece that complements the home.",
+      "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+      "schemaCategory": "Console Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "min"
+    ],
+    "ranges": [
+      {
+        "unit": "min",
+        "min": 45,
+        "max": 45,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "45 min is a published assembly time used across selected Nest & Living products. Common on Cabinets Display, Console Table and Corner Sofa."
+}

@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "25.5 kg",
+  "valueSlug": "25-5-kg",
+  "valueType": "measurement",
+  "numericValue": 25.5,
+  "unit": "kg",
+  "productTypes": [
+    "Headboards"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "A practical and understated headboard featuring button detailing in five rows. Available in several widths and neutral fabric colours.",
+      "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
+      "schemaCategory": "Headboards",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 25.5,
+        "max": 25.5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "25.5 kg is a published weight used across selected Nest & Living products. Common on Headboard."
+}

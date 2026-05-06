@@ -1,0 +1,26 @@
+[
+  {
+    "name": "island",
+    "href": "/products/coffee-tables/island/",
+    "type": "dir",
+    "title": "Island",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 2
+  },
+  {
+    "name": "reef",
+    "href": "/products/coffee-tables/reef/",
+    "type": "dir",
+    "title": "Reef",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 2
+  },
+  {
+    "name": "islet",
+    "href": "/products/coffee-tables/islet/",
+    "type": "dir",
+    "title": "Islet",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 1
+  }
+]

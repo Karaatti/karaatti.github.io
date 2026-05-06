@@ -1,0 +1,62 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.1 m³",
+  "valueSlug": "0-1-m3",
+  "valueType": "measurement",
+  "numericValue": 0.1,
+  "unit": "m³",
+  "productTypes": [
+    "Continental Beds",
+    "Outdoor Dining Tables",
+    "Toppers"
+  ],
+  "familyCount": 3,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Moon Bronze Basic is a lightweight, breathable mattress topper that adds gentle cushioning and supports a neutral sleeping posture. Its white tone with subtle leaf patterns fits well in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+      "schemaCategory": "Toppers",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Continental bed with 7-zone pocket spring system providing ergonomic support. Available in beige or grey upholstery with a choice of sizes.",
+      "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/saarni",
+      "familyTitle": "Saarni",
+      "familySummary": "Outdoor dining table with aluminium frame and nonwood surface in a light Beige tone. Practical and easy to maintain.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206641_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.1,
+        "max": 0.1,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.1 m³ is a published volume used across selected Nest & Living products. Common on Continental Bed, Outdoor Dining Table and Topper."
+}

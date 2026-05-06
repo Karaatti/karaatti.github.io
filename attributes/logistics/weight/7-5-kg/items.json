@@ -1,0 +1,26 @@
+[
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Toppers",
+    "variantCount": 3
+  },
+  {
+    "name": "haven",
+    "href": "/families/haven/",
+    "type": "dir",
+    "title": "Haven",
+    "schemaCategory": "Outdoor Dining Chairs",
+    "variantCount": 1
+  },
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Toppers",
+    "variantCount": 1
+  }
+]

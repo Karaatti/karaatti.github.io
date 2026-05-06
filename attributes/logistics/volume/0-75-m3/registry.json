@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.75 m³",
+  "valueSlug": "0-75-m3",
+  "valueType": "measurement",
+  "numericValue": 0.75,
+  "unit": "m³",
+  "productTypes": [
+    "Chaise Sofas",
+    "Mattresses"
+  ],
+  "familyCount": 2,
+  "variantCount": 7,
+  "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey.",
+      "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+      "schemaCategory": "Chaise Sofas",
+      "variantCount": 5
+    },
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Comfortable mattress with 7-zone pocket springs or memory foam, available in beige or anthracite and various sizes.",
+      "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+      "schemaCategory": "Mattresses",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.75,
+        "max": 0.75,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.75 m³ is a published volume used across selected Nest & Living products. Common on Chaise Sofa and Mattress."
+}

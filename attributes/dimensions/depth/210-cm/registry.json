@@ -1,0 +1,54 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "210 cm",
+  "valueSlug": "210-cm",
+  "valueType": "measurement",
+  "numericValue": 210,
+  "unit": "cm",
+  "productTypes": [
+    "Continental Beds",
+    "Corner Sofas",
+    "Divan Beds"
+  ],
+  "familyCount": 2,
+  "variantCount": 14,
+  "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Divan bed with 7-zone pocket spring system offering firm support and ergonomic comfort. Available in various sizes and neutral tones.",
+      "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+      "schemaCategory": "Continental Beds and Divan Beds",
+      "variantCount": 10
+    },
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "Spacious corner sofa with a solid wood frame and breathable fabric upholstery, available in beige and green.",
+      "primaryImageUrl": "/products/corner-sofas/lugo/210100_1.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 4
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 210,
+        "max": 210,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "210 cm is a published depth used across selected Nest & Living products. Common on Continental Bed, Corner Sofa and Divan Bed."
+}

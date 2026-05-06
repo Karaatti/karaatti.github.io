@@ -1,0 +1,60 @@
+{
+  "group": "warranty",
+  "groupLabel": "Warranty",
+  "attributeKey": "motorWarranty",
+  "attributeLabel": "Motor warranty",
+  "value": "2000 days",
+  "valueSlug": "2000-days",
+  "valueType": "measurement",
+  "numericValue": 2000,
+  "unit": "days",
+  "productTypes": [
+    "Adjustable Beds"
+  ],
+  "familyCount": 3,
+  "variantCount": 12,
+  "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+      "schemaCategory": "Adjustable Beds",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "A practical and stylish adjustable bed with a pocket spring base and tall smoked ash legs. Designed for comfort and easy maintenance.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-bronze/moon_bronze_adjustable_bed_grey_1.avif",
+      "schemaCategory": "Adjustable Beds",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Adjustable bed with 5-zone pocket spring support and wooden legs. Durable steel frame and ergonomic design for comfort.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+      "schemaCategory": "Adjustable Beds",
+      "variantCount": 3
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "days"
+    ],
+    "ranges": [
+      {
+        "unit": "days",
+        "min": 2000,
+        "max": 2000,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "2000 days is a published motor warranty used across selected Nest & Living products. Common on Adjustable Bed."
+}

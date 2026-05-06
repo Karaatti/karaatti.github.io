@@ -1,0 +1,40 @@
+{
+  "label": "Multicolour",
+  "description": "Multicolour in interiors: Adds movement, layering and narrative, but needs hierarchy to avoid visual noise.",
+  "intro": "Multicolour appears across 1 product family and 2 options, especially on Rugs.",
+  "theory": [
+    "Multicolour pieces work through hierarchy, not through using every colour equally around the room. The eye needs to recognise one dominant tone, one supporting neutral and only a small number of repeated accents.",
+    "Pattern, texture and colour interact here. A multicolour rug or upholstery can solve the whole room palette if you sample from it carefully instead of competing against it."
+  ],
+  "palette": [
+    "Pick the calmest neutral visible inside the item and repeat it on the largest surrounding surfaces. Then echo one stronger colour once or twice in cushions, art or lighting.",
+    "Avoid introducing new unrelated accent colours nearby. With multicolour furniture, editing is the design skill that keeps the room coherent."
+  ],
+  "partners": [
+    "one repeated dominant colour",
+    "one bridge neutral",
+    "one accent lifted from the pattern"
+  ],
+  "profileRows": [
+    {
+      "label": "Colour role",
+      "value": "Pattern-led mixed palette"
+    },
+    {
+      "label": "Undertone",
+      "value": "Depends on the dominant colour family inside the pattern or weave."
+    },
+    {
+      "label": "Visual effect",
+      "value": "Adds movement, layering and narrative, but needs hierarchy to avoid visual noise."
+    },
+    {
+      "label": "Works well with",
+      "value": "one repeated dominant colour, one bridge neutral and one accent lifted from the pattern"
+    },
+    {
+      "label": "Balancing move",
+      "value": "Let the multicolour item lead and keep surrounding large furniture quieter."
+    }
+  ]
+}

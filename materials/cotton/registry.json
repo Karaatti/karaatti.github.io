@@ -1,0 +1,56 @@
+{
+  "label": "Cotton",
+  "description": "Cotton in furniture: Soft, breathable and absorbent, with a dry hand feel.",
+  "intro": "Cotton appears across 14 product families and 38 options, especially on Duvet & Pillow Sets, Duvets, Mattress Protectors, Pillows and Rugs.",
+  "chemistry": [
+    "Cotton fibres are almost entirely cellulose. That chemistry gives them a matte natural look, good breathability and high moisture absorption.",
+    "Because the fibre readily takes up water, oils and dyes, cotton feels comfortable against skin but also tends to stain, wrinkle and wear faster than tighter performance synthetics."
+  ],
+  "furnitureUse": [
+    "Cotton works best where softness and natural tactility are more important than maximum abrasion resistance: cushions, removable covers, bedroom textiles and some rugs.",
+    "For heavy-use seating it often performs best as part of a blend, where synthetic fibres improve recovery and stain resistance without losing the soft surface character."
+  ],
+  "care": [
+    "Moisture and wear note: Absorbs moisture readily, so it can hold spills and dry more slowly than hydrophobic synthetics.",
+    "Care note: Vacuum regularly and treat spills early to limit staining and moisture retention."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [],
+  "durability": [],
+  "relatedSpecifications": [],
+  "lifecycleRows": [],
+  "strengths": [
+    "soft touch",
+    "breathability",
+    "natural look"
+  ],
+  "watchouts": [
+    "absorbs stains and moisture",
+    "can wrinkle and fade",
+    "wears faster than performance synthetics in heavy seating"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Natural cellulosic fibre"
+    },
+    {
+      "label": "Composition",
+      "value": "Mostly cellulose spun into yarn and woven or knitted into textile covers."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Soft, breathable and absorbent, with a dry hand feel."
+    },
+    {
+      "label": "Key strengths",
+      "value": "soft touch, breathability and natural look"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "absorbs stains and moisture, can wrinkle and fade and wears faster than performance synthetics in heavy seating"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

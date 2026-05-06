@@ -1,0 +1,344 @@
+{
+  "sku": "207498",
+  "displayName": "Cloud Corner Sofas, Left",
+  "metaTitle": "Cloud Corner Sofas, Left - NEST & LIVING",
+  "metaDescription": "Left-hand corner sofa in beige polyester fabric with plywood and foam construction.",
+  "ogTitle": "Cloud Corner Sofas, Left",
+  "ogDescription": "Left-hand corner sofa in beige polyester fabric with plywood and foam construction.",
+  "shortDescription": "Left-hand corner sofa in beige polyester fabric with plywood and foam construction.",
+  "familyDescription": "The Cloud corner sofa offers a modern and understated design with soft, rounded lines and a spacious seating area. Its beige polyester fabric is durable and easy to maintain, fitting well in contemporary living rooms or lounge areas.",
+  "schemaCategory": "Corner Sofas",
+  "selectionAttributes": {
+    "dimensions": "258 x 205 cm",
+    "handedness": "Left",
+    "comfortType": "Comfort foam",
+    "color": "Beige",
+    "material": "Polyester, Plywood, Wood, Foam"
+  },
+  "attributes": [
+    {
+      "key": "removableCovers",
+      "label": "Removable covers",
+      "group": "care",
+      "groupLabel": "Care",
+      "value": "No",
+      "valueSlug": "no",
+      "rawValue": "Ei",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Ominaisuudet",
+      "sourceLabel": "Irrotettavat päälliset",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "cleaningMethod",
+      "label": "Cleaning method",
+      "group": "care",
+      "groupLabel": "Care",
+      "value": "Wash 30°C",
+      "valueSlug": "wash-30c",
+      "rawValue": "Vesipesu 30",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Ominaisuudet",
+      "sourceLabel": "Puhdistustapa",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "handednessConfiguration",
+      "label": "Handedness configuration",
+      "group": "configuration",
+      "groupLabel": "Configuration",
+      "value": "Fixed",
+      "valueSlug": "fixed",
+      "rawValue": "Ei",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Ominaisuudet",
+      "sourceLabel": "Vaihdettava kätisyys",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "258 cm",
+      "valueSlug": "258-cm",
+      "rawValue": "258 cm",
+      "valueType": "enum",
+      "numericValue": 258,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "205 cm",
+      "valueSlug": "205-cm",
+      "rawValue": "205 cm",
+      "valueType": "enum",
+      "numericValue": 205,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "83 cm",
+      "valueSlug": "83-cm",
+      "rawValue": "83 cm",
+      "valueType": "enum",
+      "numericValue": 83,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "110 kg",
+      "valueSlug": "110-kg",
+      "rawValue": "110 kg",
+      "valueType": "enum",
+      "numericValue": 110,
+      "unit": "kg",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Weight",
+      "sourceType": "specs"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "4000 days",
+      "valueSlug": "4000-days",
+      "rawValue": "4000 päivää",
+      "valueType": "enum",
+      "numericValue": 4000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "priceGuarantee",
+      "label": "Price guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "30 days",
+      "valueSlug": "30-days",
+      "rawValue": "30 päivää",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Hintatakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "30 min",
+      "valueSlug": "30-min",
+      "rawValue": "30 min",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.82 m³",
+      "valueSlug": "0-82-m3",
+      "rawValue": "0,82 m³",
+      "valueType": "enum",
+      "numericValue": 0.82,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "50 kg",
+      "valueSlug": "50-kg",
+      "rawValue": "50 kg",
+      "valueType": "enum",
+      "numericValue": 50,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "foamDensity",
+      "label": "Foam density",
+      "group": "padding",
+      "groupLabel": "Padding",
+      "value": "30 kg/m³",
+      "numericValue": 30,
+      "unit": "kg/m³",
+      "allowSpecificationAttributeLinking": true
+    },
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Polyester, Plywood, Wood, Foam",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    },
+    {
+      "key": "lightfastness",
+      "label": "Lightfastness",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "4",
+      "numericValue": 4,
+      "unit": "",
+      "allowSpecificationAttributeLinking": true
+    },
+    {
+      "key": "pilling",
+      "label": "Pilling",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "3.5",
+      "numericValue": 3.5,
+      "unit": "",
+      "allowSpecificationAttributeLinking": true
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Beige",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/beige/\">Beige</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Polyester, Plywood, Wood, Foam",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/polyester/\">Polyester</a><a class=\"spec-link-chip\" href=\"/materials/plywood/\">Plywood</a><a class=\"spec-link-chip\" href=\"/materials/wood/\">Wood</a><a class=\"spec-link-chip\" href=\"/materials/foam/\">Foam</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "258 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "258 cm",
+          "href": "/attributes/dimensions/width/258-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/258-cm/\">258 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "205 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "205 cm",
+          "href": "/attributes/dimensions/depth/205-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/205-cm/\">205 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "83 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "83 cm",
+          "href": "/attributes/dimensions/height/83-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/83-cm/\">83 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "110 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "110 kg",
+          "href": "/attributes/logistics/weight/110-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/110-kg/\">110 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/corner-sofas/cloud/207498_1.avif",
+  "imageUrls": [
+    "/products/corner-sofas/cloud/207498_1.avif",
+    "/products/corner-sofas/cloud/207498_2.avif",
+    "/products/corner-sofas/cloud/207498_3.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/207498-cloud-avokulmasohva-vasen-beige"
+}

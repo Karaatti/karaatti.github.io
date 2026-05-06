@@ -1,0 +1,82 @@
+{
+  "label": "Oak",
+  "description": "Oak in furniture: Strong, hard-wearing and visually expressive with open grain.",
+  "intro": "Oak appears across 6 product families and 15 options, especially on Bar Stools, Cabinets Display, Console Tables, Dining Chairs, Dining Tables and Fixed Armchairs.",
+  "chemistry": [
+    "Oak is a hardwood with relatively high density and tannin content. Those tannins contribute to durability and character, but they also mean iron contamination plus moisture can create dark reaction stains.",
+    "Its open grain and clear growth pattern give oak a strong natural identity. Compared with softer woods it resists dents better, though it remains hygroscopic and will respond to humidity changes."
+  ],
+  "furnitureUse": [
+    "Oak is well suited to dining tables, shelving, chair frames and visible joinery where the furniture benefits from real wood depth and long service life.",
+    "It bridges modern and classic interiors easily because it can be finished from pale matte tones to deeper smoked shades. The main design question is controlling movement with good joinery and finish."
+  ],
+  "care": [
+    "Moisture and wear note: Handles normal indoor humidity well, but still moves seasonally and can stain if water and iron react on the surface.",
+    "Care note: Keep finish maintained, wipe spills promptly and avoid leaving wet metal objects on bare or lightly oiled oak."
+  ],
+  "terminology": [],
+  "thermal": [
+    "Oak feels warmer and less temperature-reactive than metal because it does not conduct heat as quickly. In sleeping or seating products it contributes more to tactile warmth than to heat retention in the body-contact zone.",
+    "The bigger long-term environmental variable is humidity cycling rather than thermal expansion. Seasonal moisture swings drive movement, gaps and finish stress."
+  ],
+  "recycling": [
+    "Finland-first sorting baseline: reusable solid-wood furniture should go to reuse first. Broken oak parts typically belong to municipal bulky-furniture or local wood acceptance depending on coatings and local rules.",
+    "Oiled, lacquered or hardware-fixed oak components should be directed through municipal bulky-waste handling unless the local operator explicitly accepts them in a clean wood stream."
+  ],
+  "durability": [
+    "Oak is one of the more durable visible furniture timbers. It resists everyday dents and wear better than many softwoods, especially when joinery and finish are sound.",
+    "Real-life wear still shows through scratches, finish drying and movement at joints, not through immunity to use."
+  ],
+  "relatedSpecifications": [
+    "Oak leg",
+    "Solid oak frame",
+    "Oak veneer finish"
+  ],
+  "lifecycleRows": [
+    {
+      "label": "Recycling in Finland",
+      "value": "Prioritise reuse first; otherwise use municipal bulky-furniture or the local wood route depending on finish and operator rules."
+    },
+    {
+      "label": "Expected wear profile",
+      "value": "Generally durable, with visible scratches, finish wear and seasonal movement as the normal ageing pattern."
+    },
+    {
+      "label": "Retail warranty note",
+      "value": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+    }
+  ],
+  "strengths": [
+    "high wear resistance",
+    "strong visible grain",
+    "good structural performance"
+  ],
+  "watchouts": [
+    "moves with humidity",
+    "tannin staining with iron and water",
+    "heavier than many softwoods"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Hardwood"
+    },
+    {
+      "label": "Composition",
+      "value": "Dense hardwood with tannin-rich cellular structure."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Strong, hard-wearing and visually expressive with open grain."
+    },
+    {
+      "label": "Key strengths",
+      "value": "high wear resistance, strong visible grain and good structural performance"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "moves with humidity, tannin staining with iron and water and heavier than many softwoods"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

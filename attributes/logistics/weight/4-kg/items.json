@@ -1,0 +1,58 @@
+[
+  {
+    "name": "messina",
+    "href": "/families/messina/",
+    "type": "dir",
+    "title": "Messina",
+    "schemaCategory": "Outdoor Dining Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Toppers",
+    "variantCount": 2
+  },
+  {
+    "name": "bilbao",
+    "href": "/families/bilbao/",
+    "type": "dir",
+    "title": "Bilbao",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "dozza",
+    "href": "/families/dozza/",
+    "type": "dir",
+    "title": "Dozza",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "lucca",
+    "href": "/families/lucca/",
+    "type": "dir",
+    "title": "Lucca",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "sevilla",
+    "href": "/families/sevilla/",
+    "type": "dir",
+    "title": "Sevilla",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "staycool",
+    "href": "/families/staycool/",
+    "type": "dir",
+    "title": "Staycool",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  }
+]

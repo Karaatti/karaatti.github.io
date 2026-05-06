@@ -1,0 +1,317 @@
+{
+  "type": "product-family",
+  "productFamilyName": "Wind",
+  "productFamilyKey": "wind",
+  "summary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+  "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+  "familyCount": 1,
+  "filterData": {
+    "searchText": "Wind Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery. Wind Living room Swivel Chairs Wind Beige Grey Foam Metal Polyester Steel Care Cleaning method Dry clean Care Removable covers No Dimensions Depth 86 cm cm Dimensions Height 96 cm cm Dimensions Ottoman depth 36 cm cm Dimensions Ottoman height 37 cm cm Dimensions Ottoman width 46 cm cm Dimensions Width 76 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 19 kg kg Padding Foam density 28 kg/m³ kg/m³ Seating Seat count 1 seat seat Seating Seat height 40 cm cm Setup Assembly time 30 min min Upholstery Lightfastness 5 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+    "collections": [
+      {
+        "key": "living-room",
+        "label": "Living room",
+        "href": "/collections/living-room"
+      }
+    ],
+    "categories": [
+      {
+        "key": "swivel-chairs",
+        "label": "Swivel Chairs",
+        "href": "/products/swivel-chairs/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "wind",
+        "label": "Wind",
+        "href": "/families/wind/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "beige",
+        "label": "Beige",
+        "href": "/colors/beige/"
+      },
+      {
+        "key": "grey",
+        "label": "Grey",
+        "href": "/colors/grey/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "foam",
+        "label": "Foam",
+        "href": "/materials/foam/"
+      },
+      {
+        "key": "metal",
+        "label": "Metal",
+        "href": "/materials/metal/"
+      },
+      {
+        "key": "polyester",
+        "label": "Polyester",
+        "href": "/materials/polyester/"
+      },
+      {
+        "key": "steel",
+        "label": "Steel",
+        "href": "/materials/steel/"
+      }
+    ],
+    "specifications": [],
+    "attributes": [
+      {
+        "groupKey": "care",
+        "groupLabel": "Care",
+        "key": "cleaning-method",
+        "label": "Cleaning method",
+        "valueKey": "dry-clean",
+        "valueLabel": "Dry clean",
+        "href": "/attributes/care/cleaning-method/dry-clean/",
+        "valueType": "enum",
+        "numericValue": 0,
+        "unit": ""
+      },
+      {
+        "groupKey": "care",
+        "groupLabel": "Care",
+        "key": "removable-covers",
+        "label": "Removable covers",
+        "valueKey": "no",
+        "valueLabel": "No",
+        "href": "/attributes/care/removable-covers/no/",
+        "valueType": "enum",
+        "numericValue": 0,
+        "unit": ""
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "depth",
+        "label": "Depth",
+        "valueKey": "86-cm",
+        "valueLabel": "86 cm",
+        "href": "/attributes/dimensions/depth/86-cm/",
+        "valueType": "enum",
+        "numericValue": 86,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "height",
+        "label": "Height",
+        "valueKey": "96-cm",
+        "valueLabel": "96 cm",
+        "href": "/attributes/dimensions/height/96-cm/",
+        "valueType": "enum",
+        "numericValue": 96,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "ottoman-depth",
+        "label": "Ottoman depth",
+        "valueKey": "36-cm",
+        "valueLabel": "36 cm",
+        "href": "/attributes/dimensions/ottoman-depth/36-cm/",
+        "valueType": "enum",
+        "numericValue": 36,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "ottoman-height",
+        "label": "Ottoman height",
+        "valueKey": "37-cm",
+        "valueLabel": "37 cm",
+        "href": "/attributes/dimensions/ottoman-height/37-cm/",
+        "valueType": "enum",
+        "numericValue": 37,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "ottoman-width",
+        "label": "Ottoman width",
+        "valueKey": "46-cm",
+        "valueLabel": "46 cm",
+        "href": "/attributes/dimensions/ottoman-width/46-cm/",
+        "valueType": "enum",
+        "numericValue": 46,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "76-cm",
+        "valueLabel": "76 cm",
+        "href": "/attributes/dimensions/width/76-cm/",
+        "valueType": "enum",
+        "numericValue": 76,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-count",
+        "label": "Package count",
+        "valueKey": "1-package",
+        "valueLabel": "1 package",
+        "href": "/attributes/logistics/package-count/1-package/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "package"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "product-count",
+        "label": "Product count",
+        "valueKey": "1-product",
+        "valueLabel": "1 product",
+        "href": "/attributes/logistics/product-count/1-product/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "product"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-35-m3",
+        "valueLabel": "0.35 m³",
+        "href": "/attributes/logistics/volume/0-35-m3/",
+        "valueType": "enum",
+        "numericValue": 0.35,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "19-kg",
+        "valueLabel": "19 kg",
+        "href": "/attributes/logistics/weight/19-kg/",
+        "valueType": "enum",
+        "numericValue": 19,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "padding",
+        "groupLabel": "Padding",
+        "key": "foam-density",
+        "label": "Foam density",
+        "valueKey": "28-kg-m3",
+        "valueLabel": "28 kg/m³",
+        "href": "/attributes/padding/foam-density/28-kg-m3/",
+        "valueType": "enum",
+        "numericValue": 28,
+        "unit": "kg/m³"
+      },
+      {
+        "groupKey": "seating",
+        "groupLabel": "Seating",
+        "key": "seat-count",
+        "label": "Seat count",
+        "valueKey": "1-seat",
+        "valueLabel": "1 seat",
+        "href": "/attributes/seating/seat-count/1-seat/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "seat"
+      },
+      {
+        "groupKey": "seating",
+        "groupLabel": "Seating",
+        "key": "seat-height",
+        "label": "Seat height",
+        "valueKey": "40-cm",
+        "valueLabel": "40 cm",
+        "href": "/attributes/seating/seat-height/40-cm/",
+        "valueType": "enum",
+        "numericValue": 40,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "setup",
+        "groupLabel": "Setup",
+        "key": "assembly-time",
+        "label": "Assembly time",
+        "valueKey": "30-min",
+        "valueLabel": "30 min",
+        "href": "/attributes/setup/assembly-time/30-min/",
+        "valueType": "enum",
+        "numericValue": 30,
+        "unit": "min"
+      },
+      {
+        "groupKey": "upholstery",
+        "groupLabel": "Upholstery",
+        "key": "lightfastness",
+        "label": "Lightfastness",
+        "valueKey": "5",
+        "valueLabel": "5",
+        "href": "/attributes/upholstery/lightfastness/5/",
+        "valueType": "enum",
+        "numericValue": 5,
+        "unit": ""
+      },
+      {
+        "groupKey": "upholstery",
+        "groupLabel": "Upholstery",
+        "key": "pilling",
+        "label": "Pilling",
+        "valueKey": "4",
+        "valueLabel": "4",
+        "href": "/attributes/upholstery/pilling/4/",
+        "valueType": "enum",
+        "numericValue": 4,
+        "unit": ""
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "price-guarantee",
+        "label": "Price guarantee",
+        "valueKey": "30-days",
+        "valueLabel": "30 days",
+        "href": "/attributes/warranty/price-guarantee/30-days/",
+        "valueType": "enum",
+        "numericValue": 30,
+        "unit": "days"
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "quality-guarantee",
+        "label": "Quality guarantee",
+        "valueKey": "1000-days",
+        "valueLabel": "1000 days",
+        "href": "/attributes/warranty/quality-guarantee/1000-days/",
+        "valueType": "enum",
+        "numericValue": 1000,
+        "unit": "days"
+      }
+    ]
+  },
+  "sortData": {
+    "title": "Wind",
+    "summary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+    "variantCount": 2,
+    "categoryLabel": "",
+    "collectionLabel": "",
+    "productFamilyLabel": "Wind"
+  }
+}

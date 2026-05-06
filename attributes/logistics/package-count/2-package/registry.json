@@ -1,0 +1,61 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "packageCount",
+  "attributeLabel": "Package count",
+  "value": "2 package",
+  "valueSlug": "2-package",
+  "valueType": "measurement",
+  "numericValue": 2,
+  "unit": "package",
+  "productTypes": [
+    "Continental Beds",
+    "Outdoor Lounge Sets"
+  ],
+  "familyCount": 3,
+  "variantCount": 10,
+  "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_11.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Continental bed with 7-zone pocket spring system providing ergonomic support. Available in beige or grey upholstery with a choice of sizes.",
+      "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_11.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 7
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "A practical and comfortable continental bed featuring 5-zone pocket springs for individual support. Available in grey or beige with high wooden legs for ease of cleaning.",
+      "primaryImageUrl": "/products/continental-beds/moon-silver/moon_silver_continental_bed_grey_1.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Outdoor lounge set configurations from the Nordic collection with white aluminium frames, beige cushions, and selected layouts with integrated coffee tables.",
+      "primaryImageUrl": "/products/outdoor-lounge-sets/nordic/MYYKESA2217_1.avif",
+      "schemaCategory": "Outdoor Lounge Sets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "package"
+    ],
+    "ranges": [
+      {
+        "unit": "package",
+        "min": 2,
+        "max": 2,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "2 package is a published package count used across selected Nest & Living products. Common on Continental Bed and Outdoor Lounge Set."
+}

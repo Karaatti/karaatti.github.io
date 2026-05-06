@@ -1,0 +1,79 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "19 kg",
+  "valueSlug": "19-kg",
+  "valueType": "measurement",
+  "numericValue": 19,
+  "unit": "kg",
+  "productTypes": [
+    "Headboards",
+    "Mattresses",
+    "Outdoor Lounge Seating",
+    "Swivel Chairs"
+  ],
+  "familyCount": 5,
+  "variantCount": 8,
+  "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_grey_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "A smooth, upholstered headboard offered in three neutral colours and multiple widths.",
+      "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_grey_1.avif",
+      "schemaCategory": "Headboards",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Comfortable mattress with 7-zone pocket springs or memory foam, available in beige or anthracite and various sizes.",
+      "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+      "schemaCategory": "Mattresses",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/wind",
+      "familyTitle": "Wind",
+      "familySummary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+      "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/haven",
+      "familyTitle": "Haven",
+      "familySummary": "Haven lounge chair combines natural colored polyrattan with beige cushions and a black frame for a practical and comfortable outdoor seat.",
+      "primaryImageUrl": "/products/outdoor-lounge-seating/haven/197618_1.avif",
+      "schemaCategory": "Outdoor Lounge Seating",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Pocket spring mattress with 5-zone support for individual body comfort. Available in various sizes and designed for practical, lasting use.",
+      "primaryImageUrl": "/products/mattresses/moon-silver/moon_silver_mattress_grey_2.avif",
+      "schemaCategory": "Mattresses",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 19,
+        "max": 19,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "19 kg is a published weight used across selected Nest & Living products. Common on Headboard, Mattress, Outdoor Lounge Seating and Swivel Chair."
+}

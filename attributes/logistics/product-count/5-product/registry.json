@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "productCount",
+  "attributeLabel": "Product count",
+  "value": "5 product",
+  "valueSlug": "5-product",
+  "valueType": "measurement",
+  "numericValue": 5,
+  "unit": "product",
+  "productTypes": [
+    "Pillows"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/pillows/staycation/214016_1.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/staycation",
+      "familyTitle": "Staycation",
+      "familySummary": "Bedroom pillows from the Staycation series.",
+      "primaryImageUrl": "/products/pillows/staycation/214016_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "product"
+    ],
+    "ranges": [
+      {
+        "unit": "product",
+        "min": 5,
+        "max": 5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "5 product is a published product count used across selected Nest & Living products. Common on Pillow."
+}

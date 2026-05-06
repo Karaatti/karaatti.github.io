@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "7.1 kg",
+  "valueSlug": "7-1-kg",
+  "valueType": "measurement",
+  "numericValue": 7.1,
+  "unit": "kg",
+  "productTypes": [
+    "Mattress Protectors"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/mattress-protectors/staycool/214011_1.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/staycool",
+      "familyTitle": "Staycool",
+      "familySummary": "Cooling mattress protectors from the Staycool series.",
+      "primaryImageUrl": "/products/mattress-protectors/staycool/214011_1.jpg",
+      "schemaCategory": "Mattress Protectors",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 7.1,
+        "max": 7.1,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "7.1 kg is a published weight used across selected Nest & Living products. Common on Mattress Protector."
+}

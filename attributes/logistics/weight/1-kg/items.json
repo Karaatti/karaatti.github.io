@@ -1,0 +1,66 @@
+[
+  {
+    "name": "hike",
+    "href": "/families/hike/",
+    "type": "dir",
+    "title": "Hike",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 10
+  },
+  {
+    "name": "haley",
+    "href": "/families/haley/",
+    "type": "dir",
+    "title": "Haley",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 8
+  },
+  {
+    "name": "hix",
+    "href": "/families/hix/",
+    "type": "dir",
+    "title": "Hix",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 6
+  },
+  {
+    "name": "nest-living",
+    "href": "/families/nest-living/",
+    "type": "dir",
+    "title": "Nest & Living",
+    "schemaCategory": "Mattress Protectors",
+    "variantCount": 3
+  },
+  {
+    "name": "nest-living-silver",
+    "href": "/families/nest-living-silver/",
+    "type": "dir",
+    "title": "Nest & Living Silver",
+    "schemaCategory": "Pillows",
+    "variantCount": 2
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/families/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 1
+  },
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 1
+  },
+  {
+    "name": "staycation",
+    "href": "/families/staycation/",
+    "type": "dir",
+    "title": "Staycation",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  }
+]

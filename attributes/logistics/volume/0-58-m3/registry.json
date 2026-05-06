@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.58 m³",
+  "valueSlug": "0-58-m3",
+  "valueType": "measurement",
+  "numericValue": 0.58,
+  "unit": "m³",
+  "productTypes": [
+    "4-Seater Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/heaven",
+      "familyTitle": "Heaven",
+      "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+      "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+      "schemaCategory": "4-Seater Sofas",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.58,
+        "max": 0.58,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.58 m³ is a published volume used across selected Nest & Living products. Common on 4-Seater Sofa."
+}

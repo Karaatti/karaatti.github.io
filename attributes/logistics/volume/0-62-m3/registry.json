@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.62 m³",
+  "valueSlug": "0-62-m3",
+  "valueType": "measurement",
+  "numericValue": 0.62,
+  "unit": "m³",
+  "productTypes": [
+    "Continental Beds",
+    "Mattresses"
+  ],
+  "familyCount": 2,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/mattresses/moon-silver/moon_silver_mattress_grey_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Pocket spring mattress with 5-zone support for individual body comfort. Available in various sizes and designed for practical, lasting use.",
+      "primaryImageUrl": "/products/mattresses/moon-silver/moon_silver_mattress_grey_3.avif",
+      "schemaCategory": "Continental Beds and Mattresses",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Continental bed with 7-zone pocket spring system providing ergonomic support. Available in beige or grey upholstery with a choice of sizes.",
+      "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_5.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.62,
+        "max": 0.62,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.62 m³ is a published volume used across selected Nest & Living products. Common on Continental Bed and Mattress."
+}

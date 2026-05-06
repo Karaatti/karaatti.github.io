@@ -1,0 +1,406 @@
+[
+  {
+    "sku": "200721",
+    "name": "200721",
+    "title": "Lyra Rug, 160 x 230 cm",
+    "variantSummary": "160 x 230 cm / Brown, Orange, Beige",
+    "shortDescription": "Brown, orange and beige rug, 160 x 230 cm, with a soft viscose pile and wool base.",
+    "selectionAttributes": {
+      "dimensions": "160 x 230 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Brown, Orange, Beige",
+      "material": "Viscose, Wool"
+    },
+    "primaryImageUrl": "/products/rugs/lyra/lyra_rug_brown_orange_beige_1.avif",
+    "imageUrl": "/products/rugs/lyra/lyra_rug_brown_orange_beige_1.avif",
+    "imageUrls": [
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_1.avif",
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_2.avif",
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_3.avif",
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_4.avif",
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_5.avif",
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_7.avif",
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_6.jpg",
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_8.jpg",
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_9.jpg",
+      "/products/rugs/lyra/200721_1.avif",
+      "/products/rugs/lyra/200721_2.jpg",
+      "/products/rugs/lyra/200721_3.jpg",
+      "/products/rugs/lyra/200721_4.jpg",
+      "/products/rugs/lyra/200721_5.jpg",
+      "/products/rugs/lyra/200721_6.jpg",
+      "/products/rugs/lyra/200721_7.jpg"
+    ],
+    "href": "/products/rugs/lyra/200721",
+    "type": "file",
+    "filterData": {
+      "searchText": "Lyra Rug, 160 x 230 cm Brown, orange and beige rug, 160 x 230 cm, with a soft viscose pile and wool base. Rugs Home Details Lyra Home Details Rugs Lyra Beige Brown Orange Viscose Wool Dimensions Depth 230 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.03 m³ m³ Logistics Weight 6 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "rugs",
+          "label": "Rugs",
+          "href": "/products/rugs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "lyra",
+          "label": "Lyra",
+          "href": "/families/lyra/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        },
+        {
+          "key": "orange",
+          "label": "Orange",
+          "href": "/colors/orange/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "viscose",
+          "label": "Viscose",
+          "href": "/materials/viscose/"
+        },
+        {
+          "key": "wool",
+          "label": "Wool",
+          "href": "/materials/wool/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "230-cm",
+          "valueLabel": "230 cm",
+          "href": "/attributes/dimensions/depth/230-cm/",
+          "valueType": "enum",
+          "numericValue": 230,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "160-cm",
+          "valueLabel": "160 cm",
+          "href": "/attributes/dimensions/width/160-cm/",
+          "valueType": "enum",
+          "numericValue": 160,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-03-m3",
+          "valueLabel": "0.03 m³",
+          "href": "/attributes/logistics/volume/0-03-m3/",
+          "valueType": "enum",
+          "numericValue": 0.03,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "6-kg",
+          "valueLabel": "6 kg",
+          "href": "/attributes/logistics/weight/6-kg/",
+          "valueType": "enum",
+          "numericValue": 6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Lyra Rug, 160 x 230 cm",
+      "summary": "Brown, orange and beige rug, 160 x 230 cm, with a soft viscose pile and wool base.",
+      "variantCount": 1,
+      "categoryLabel": "Rugs",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Lyra"
+    }
+  },
+  {
+    "sku": "200722",
+    "name": "200722",
+    "title": "Lyra Rug, 200 x 290 cm",
+    "variantSummary": "200 x 290 cm / Brown, Orange, Beige",
+    "shortDescription": "Brown, orange and beige rug, 200 x 290 cm, with a soft viscose pile and wool base.",
+    "selectionAttributes": {
+      "dimensions": "200 x 290 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Brown, Orange, Beige",
+      "material": "Viscose, Wool"
+    },
+    "primaryImageUrl": "/products/rugs/lyra/lyra_rug_brown_orange_beige_1.avif",
+    "imageUrl": "/products/rugs/lyra/lyra_rug_brown_orange_beige_1.avif",
+    "imageUrls": [
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_1.avif",
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_2.avif",
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_3.avif",
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_4.avif",
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_5.avif",
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_7.avif",
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_6.jpg",
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_8.jpg",
+      "/products/rugs/lyra/lyra_rug_brown_orange_beige_9.jpg",
+      "/products/rugs/lyra/200722_1.avif",
+      "/products/rugs/lyra/200722_2.avif",
+      "/products/rugs/lyra/200722_3.avif",
+      "/products/rugs/lyra/200722_4.avif",
+      "/products/rugs/lyra/200722_5.avif",
+      "/products/rugs/lyra/200722_6.avif",
+      "/products/rugs/lyra/200722_7.avif"
+    ],
+    "href": "/products/rugs/lyra/200722",
+    "type": "file",
+    "filterData": {
+      "searchText": "Lyra Rug, 200 x 290 cm Brown, orange and beige rug, 200 x 290 cm, with a soft viscose pile and wool base. Rugs Home Details Lyra Home Details Rugs Lyra Beige Brown Orange Viscose Wool Dimensions Depth 290 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 9 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "rugs",
+          "label": "Rugs",
+          "href": "/products/rugs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "lyra",
+          "label": "Lyra",
+          "href": "/families/lyra/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        },
+        {
+          "key": "orange",
+          "label": "Orange",
+          "href": "/colors/orange/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "viscose",
+          "label": "Viscose",
+          "href": "/materials/viscose/"
+        },
+        {
+          "key": "wool",
+          "label": "Wool",
+          "href": "/materials/wool/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "290-cm",
+          "valueLabel": "290 cm",
+          "href": "/attributes/dimensions/depth/290-cm/",
+          "valueType": "enum",
+          "numericValue": 290,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-05-m3",
+          "valueLabel": "0.05 m³",
+          "href": "/attributes/logistics/volume/0-05-m3/",
+          "valueType": "enum",
+          "numericValue": 0.05,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-kg",
+          "valueLabel": "9 kg",
+          "href": "/attributes/logistics/weight/9-kg/",
+          "valueType": "enum",
+          "numericValue": 9,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Lyra Rug, 200 x 290 cm",
+      "summary": "Brown, orange and beige rug, 200 x 290 cm, with a soft viscose pile and wool base.",
+      "variantCount": 1,
+      "categoryLabel": "Rugs",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Lyra"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "71 cm",
+  "valueSlug": "71-cm",
+  "valueType": "measurement",
+  "numericValue": 71,
+  "unit": "cm",
+  "productTypes": [
+    "Fixed Armchairs"
+  ],
+  "familyCount": 1,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/eagle",
+      "familyTitle": "Eagle",
+      "familySummary": "A modern armchair with a natural wood frame and soft upholstery, designed for comfort and understated style.",
+      "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
+      "schemaCategory": "Armchairs",
+      "variantCount": 3
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 71,
+        "max": 71,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "71 cm is a published height used across selected Nest & Living products. Common on Fixed Armchair."
+}

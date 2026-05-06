@@ -1,0 +1,277 @@
+{
+  "sku": "202733",
+  "displayName": "Ruutu Rug, Beige, 200 x 290 cm",
+  "metaTitle": "Ruutu Rug, Beige, 200 x 290 cm - NEST & LIVING",
+  "metaDescription": "Beige, 200 x 290 cm. Durable polyester and cotton rug with a subtle check pattern and short fringes.",
+  "ogTitle": "Ruutu Rug, Beige, 200 x 290 cm",
+  "ogDescription": "Beige, 200 x 290 cm. Durable polyester and cotton rug with a subtle check pattern and short fringes.",
+  "shortDescription": "Beige, 200 x 290 cm. Durable polyester and cotton rug with a subtle check pattern and short fringes.",
+  "familyDescription": "The Ruutu Rug offers a quiet, modern pattern that fits well in living rooms, bedrooms, or dining spaces. Made from a durable polyester and cotton blend, it has a matte texture and short fringes that add a subtle warmth to the room. Its design balances simplicity with a dynamic check pattern.",
+  "schemaCategory": "Rugs",
+  "selectionAttributes": {
+    "dimensions": "200 x 290 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Beige",
+    "material": "Polyester, Cotton"
+  },
+  "attributes": [
+    {
+      "key": "cleaningMethod",
+      "label": "Cleaning method",
+      "group": "care",
+      "groupLabel": "Care",
+      "value": "Water wash",
+      "valueSlug": "water-wash",
+      "rawValue": "vesipesu",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Ominaisuudet",
+      "sourceLabel": "Puhdistustapa",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "200 cm",
+      "valueSlug": "200-cm",
+      "rawValue": "200 cm",
+      "valueType": "enum",
+      "numericValue": 200,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "290 cm",
+      "valueSlug": "290-cm",
+      "rawValue": "290 cm",
+      "valueType": "enum",
+      "numericValue": 290,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "2 cm",
+      "valueSlug": "2-cm",
+      "rawValue": "2 cm",
+      "valueType": "enum",
+      "numericValue": 2,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "8.5 kg",
+      "valueSlug": "8-5-kg",
+      "rawValue": "8.5 kg",
+      "valueType": "enum",
+      "numericValue": 8.5,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.06 m³",
+      "valueSlug": "0-06-m3",
+      "rawValue": "0.06 m³",
+      "valueType": "enum",
+      "numericValue": 0.06,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "8.7 kg",
+      "valueSlug": "8-7-kg",
+      "rawValue": "8.7 kg",
+      "valueType": "enum",
+      "numericValue": 8.7,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Polyester, Cotton",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Beige",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/beige/\">Beige</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Polyester, Cotton",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/polyester/\">Polyester</a><a class=\"spec-link-chip\" href=\"/materials/cotton/\">Cotton</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "200 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/200-cm/\">200 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "290 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "290 cm",
+          "href": "/attributes/dimensions/depth/290-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/290-cm/\">290 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "2 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "2 cm",
+          "href": "/attributes/dimensions/height/2-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/2-cm/\">2 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "8.5 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "8.5 kg",
+          "href": "/attributes/logistics/weight/8-5-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/8-5-kg/\">8.5 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/rugs/ruutu/ruutu_rug_beige_4.avif",
+  "imageUrls": [
+    "/products/rugs/ruutu/ruutu_rug_beige_4.avif",
+    "/products/rugs/ruutu/ruutu_rug_beige_5.avif",
+    "/products/rugs/ruutu/ruutu_rug_beige_1.jpg",
+    "/products/rugs/ruutu/ruutu_rug_beige_2.jpg",
+    "/products/rugs/ruutu/ruutu_rug_beige_3.jpg",
+    "/products/rugs/ruutu/ruutu_rug_beige_6.jpg",
+    "/products/rugs/ruutu/202733_1.avif",
+    "/products/rugs/ruutu/202733_2.avif",
+    "/products/rugs/ruutu/202733_3.avif",
+    "/products/rugs/ruutu/202733_4.avif",
+    "/products/rugs/ruutu/202733_5.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/202733-ruutu-matto-200x290cm-beige"
+}

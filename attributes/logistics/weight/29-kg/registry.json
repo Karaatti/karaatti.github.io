@@ -1,0 +1,55 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "29 kg",
+  "valueSlug": "29-kg",
+  "valueType": "measurement",
+  "numericValue": 29,
+  "unit": "kg",
+  "productTypes": [
+    "Continental Beds",
+    "Divan Beds",
+    "Mattresses",
+    "Outdoor Dining Tables"
+  ],
+  "familyCount": 2,
+  "variantCount": 17,
+  "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Divan bed with 7-zone pocket spring system offering firm support and ergonomic comfort. Available in various sizes and neutral tones.",
+      "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+      "schemaCategory": "Continental Beds, Divan Beds and Mattresses",
+      "variantCount": 16
+    },
+    {
+      "familyRelativeDir": "families/messina",
+      "familyTitle": "Messina",
+      "familySummary": "Messina dining table 220x100 cm provides a practical and elegant outdoor dining option. Its natural toned top and aluminium frame create a modern Scandinavian look. Suitable for garden, terrace or large balcony, it offers a spacious and low-maintenance surface.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/messina/197906_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 29,
+        "max": 29,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "29 kg is a published weight used across selected Nest & Living products. Common on Continental Bed, Divan Bed, Mattress and Outdoor Dining Table."
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "36-cm",
+    "label": "36 cm",
+    "href": "/attributes/dimensions/ottoman-depth/36-cm/",
+    "type": "dir",
+    "description": "36 cm is a published ottoman depth used across selected Nest & Living products. Common on Swivel Chair.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 36,
+    "unit": "cm"
+  },
+  {
+    "name": "42-cm",
+    "label": "42 cm",
+    "href": "/attributes/dimensions/ottoman-depth/42-cm/",
+    "type": "dir",
+    "description": "42 cm is a published ottoman depth used across selected Nest & Living products. Common on Swivel Chair.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 42,
+    "unit": "cm"
+  }
+]

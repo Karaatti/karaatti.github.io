@@ -1,0 +1,261 @@
+[
+  {
+    "name": "sirmione",
+    "title": "Sirmione Rug",
+    "href": "/products/rugs/sirmione/",
+    "type": "dir",
+    "summary": "Calm and textured rug in green or beige, made from polyester and cotton. Suitable for living rooms, bedrooms, or dining areas.",
+    "primaryImageUrl": "/products/rugs/sirmione/202747_1.avif",
+    "filterData": {
+      "searchText": "Sirmione Calm and textured rug in green or beige, made from polyester and cotton. Suitable for living rooms, bedrooms, or dining areas. Rugs Home Details Sirmione Home Details Rugs Sirmione Beige Green Cotton Polyester Care Cleaning method Water wash Dimensions Depth 230 cm cm Dimensions Depth 290 cm cm Dimensions Height 2 cm cm Dimensions Width 160 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.03 m³ m³ Logistics Volume 0.06 m³ m³ Logistics Weight 5.5 kg kg Logistics Weight 5.6 kg kg Logistics Weight 8.5 kg kg Logistics Weight 8.7 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "rugs",
+          "label": "Rugs",
+          "href": "/products/rugs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "sirmione",
+          "label": "Sirmione",
+          "href": "/families/sirmione/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "green",
+          "label": "Green",
+          "href": "/colors/green/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "water-wash",
+          "valueLabel": "Water wash",
+          "href": "/attributes/care/cleaning-method/water-wash/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "230-cm",
+          "valueLabel": "230 cm",
+          "href": "/attributes/dimensions/depth/230-cm/",
+          "valueType": "enum",
+          "numericValue": 230,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "290-cm",
+          "valueLabel": "290 cm",
+          "href": "/attributes/dimensions/depth/290-cm/",
+          "valueType": "enum",
+          "numericValue": 290,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "2-cm",
+          "valueLabel": "2 cm",
+          "href": "/attributes/dimensions/height/2-cm/",
+          "valueType": "enum",
+          "numericValue": 2,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "160-cm",
+          "valueLabel": "160 cm",
+          "href": "/attributes/dimensions/width/160-cm/",
+          "valueType": "enum",
+          "numericValue": 160,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-03-m3",
+          "valueLabel": "0.03 m³",
+          "href": "/attributes/logistics/volume/0-03-m3/",
+          "valueType": "enum",
+          "numericValue": 0.03,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-06-m3",
+          "valueLabel": "0.06 m³",
+          "href": "/attributes/logistics/volume/0-06-m3/",
+          "valueType": "enum",
+          "numericValue": 0.06,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "5-5-kg",
+          "valueLabel": "5.5 kg",
+          "href": "/attributes/logistics/weight/5-5-kg/",
+          "valueType": "enum",
+          "numericValue": 5.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "5-6-kg",
+          "valueLabel": "5.6 kg",
+          "href": "/attributes/logistics/weight/5-6-kg/",
+          "valueType": "enum",
+          "numericValue": 5.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "8-5-kg",
+          "valueLabel": "8.5 kg",
+          "href": "/attributes/logistics/weight/8-5-kg/",
+          "valueType": "enum",
+          "numericValue": 8.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "8-7-kg",
+          "valueLabel": "8.7 kg",
+          "href": "/attributes/logistics/weight/8-7-kg/",
+          "valueType": "enum",
+          "numericValue": 8.7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Sirmione",
+      "summary": "Calm and textured rug in green or beige, made from polyester and cotton. Suitable for living rooms, bedrooms, or dining areas.",
+      "variantCount": 3,
+      "categoryLabel": "Rugs",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Sirmione"
+    }
+  }
+]

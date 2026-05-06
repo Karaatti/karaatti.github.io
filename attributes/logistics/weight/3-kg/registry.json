@@ -1,0 +1,70 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "3 kg",
+  "valueSlug": "3-kg",
+  "valueType": "measurement",
+  "numericValue": 3,
+  "unit": "kg",
+  "productTypes": [
+    "Outdoor Dining Chairs",
+    "Side Tables",
+    "Toppers"
+  ],
+  "familyCount": 4,
+  "variantCount": 6,
+  "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/messina",
+      "familyTitle": "Messina",
+      "familySummary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
+      "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+      "schemaCategory": "Outdoor Dining Chairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Moon Bronze Basic is a lightweight, breathable mattress topper that adds gentle cushioning and supports a neutral sleeping posture. Its white tone with subtle leaf patterns fits well in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+      "schemaCategory": "Toppers",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+      "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
+      "schemaCategory": "Toppers",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/swallow",
+      "familyTitle": "Swallow",
+      "familySummary": "Round side table made of natural rubberwood with a 45 cm diameter top. Minimalist design with smooth, rounded edges.",
+      "primaryImageUrl": "/products/side-tables/swallow/198080_1.avif",
+      "schemaCategory": "Side Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 3,
+        "max": 3,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "3 kg is a published weight used across selected Nest & Living products. Common on Outdoor Dining Chair, Side Table and Topper."
+}

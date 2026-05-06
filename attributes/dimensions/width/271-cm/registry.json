@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "271 cm",
+  "valueSlug": "271-cm",
+  "valueType": "measurement",
+  "numericValue": 271,
+  "unit": "cm",
+  "productTypes": [
+    "Corner Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/corner-sofas/lugo/210100_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "Spacious corner sofa with a solid wood frame and breathable fabric upholstery, available in beige and green.",
+      "primaryImageUrl": "/products/corner-sofas/lugo/210100_1.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 4
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 271,
+        "max": 271,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "271 cm is a published width used across selected Nest & Living products. Common on Corner Sofa."
+}

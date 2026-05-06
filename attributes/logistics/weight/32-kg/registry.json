@@ -1,0 +1,72 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "32 kg",
+  "valueSlug": "32-kg",
+  "valueType": "measurement",
+  "numericValue": 32,
+  "unit": "kg",
+  "productTypes": [
+    "Continental Beds",
+    "Corner Sofas",
+    "Divan Bed",
+    "Divan Beds",
+    "Mattresses"
+  ],
+  "familyCount": 4,
+  "variantCount": 9,
+  "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Comfortable mattress with 7-zone pocket springs or memory foam, available in beige or anthracite and various sizes.",
+      "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+      "schemaCategory": "Continental Beds and Mattresses",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/haave",
+      "familyTitle": "Haave",
+      "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+      "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Divan bed with 5-zone pocket spring support and a durable wooden frame. Comes with smoked ash tapered legs and a choice of sizes.",
+      "primaryImageUrl": "/products/divan-beds/moon-bronze/moon_bronze_divan_bed_grey_1.avif",
+      "schemaCategory": "Divan Beds",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Available sizes: 80 x 200 cm, 90 x 200 cm, 120 x 200 cm and 140 x 200 cm. Light grey Primo 84 upholstery, 5-zone pocket spring support and smoked ash cone legs. 4 active variants available.",
+      "primaryImageUrl": "/products/divan-beds/moon-silver/moon_silver_divan_bed_grey_1.avif",
+      "schemaCategory": "Divan Beds",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 32,
+        "max": 32,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "32 kg is a published weight used across selected Nest & Living products. Common on Continental Bed, Corner Sofa, Divan Bed and Mattress."
+}

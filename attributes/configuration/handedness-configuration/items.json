@@ -1,0 +1,38 @@
+[
+  {
+    "name": "fixed",
+    "label": "Fixed",
+    "href": "/attributes/configuration/handedness-configuration/fixed/",
+    "type": "dir",
+    "description": "Fixed is a published handedness configuration option used across selected Nest & Living products. Common on Chaise Sofa and Corner Sofa.",
+    "familyCount": 4,
+    "variantCount": 36,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  },
+  {
+    "name": "reversible",
+    "label": "Reversible",
+    "href": "/attributes/configuration/handedness-configuration/reversible/",
+    "type": "dir",
+    "description": "Reversible is a published handedness configuration option used across selected Nest & Living products. Common on 4-Seater Sofa.",
+    "familyCount": 1,
+    "variantCount": 3,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  },
+  {
+    "name": "self-configurable",
+    "label": "Self-configurable",
+    "href": "/attributes/configuration/handedness-configuration/self-configurable/",
+    "type": "dir",
+    "description": "Self-configurable is a published handedness configuration option used across selected Nest & Living products. Common on Chaise Sofa.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  }
+]

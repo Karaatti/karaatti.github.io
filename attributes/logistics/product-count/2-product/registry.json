@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "productCount",
+  "attributeLabel": "Product count",
+  "value": "2 product",
+  "valueSlug": "2-product",
+  "valueType": "measurement",
+  "numericValue": 2,
+  "unit": "product",
+  "productTypes": [
+    "Bar Stools",
+    "Dining Chairs"
+  ],
+  "familyCount": 2,
+  "variantCount": 5,
+  "primaryImageUrl": "/products/dining-chairs/bow/198099_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/bow",
+      "familyTitle": "Bow",
+      "familySummary": "Upholstered dining chair with metal frame and plywood structure, available in three colours.",
+      "primaryImageUrl": "/products/dining-chairs/bow/198099_1.avif",
+      "schemaCategory": "Dining Chairs",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/merida",
+      "familyTitle": "Merida",
+      "familySummary": "Bar stool with natural oak frame and light fabric seat. Scandinavian style suitable for kitchen bars and dining areas.",
+      "primaryImageUrl": "/products/bar-stools/merida/198084_1.avif",
+      "schemaCategory": "Bar Stools",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "product"
+    ],
+    "ranges": [
+      {
+        "unit": "product",
+        "min": 2,
+        "max": 2,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "2 product is a published product count used across selected Nest & Living products. Common on Bar Stool and Dining Chair."
+}

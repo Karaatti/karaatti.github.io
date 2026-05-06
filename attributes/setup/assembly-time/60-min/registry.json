@@ -1,0 +1,53 @@
+{
+  "group": "setup",
+  "groupLabel": "Setup",
+  "attributeKey": "assemblyTime",
+  "attributeLabel": "Assembly time",
+  "value": "60 min",
+  "valueSlug": "60-min",
+  "valueType": "measurement",
+  "numericValue": 60,
+  "unit": "min",
+  "productTypes": [
+    "Bed Frames",
+    "Outdoor Lounge Sets"
+  ],
+  "familyCount": 2,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/outdoor-lounge-sets/palazzo/208993_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/palazzo",
+      "familyTitle": "Palazzo",
+      "familySummary": "A modern and airy outdoor sofa set featuring a three-seat sofa, two armchairs, and lightweight tables. Designed for comfort and easy maintenance.",
+      "primaryImageUrl": "/products/outdoor-lounge-sets/palazzo/208993_1.avif",
+      "schemaCategory": "Outdoor Lounge Sets",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/casa",
+      "familyTitle": "Casa",
+      "familySummary": "Bed frame with padded high headboard and beige fabric upholstery. Designed for 160 x 200 cm mattresses.",
+      "primaryImageUrl": "/products/bed-frames/casa/209017_1.avif",
+      "schemaCategory": "Bed Frames",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "min"
+    ],
+    "ranges": [
+      {
+        "unit": "min",
+        "min": 60,
+        "max": 60,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "60 min is a published assembly time used across selected Nest & Living products. Common on Bed Frame and Outdoor Lounge Set."
+}

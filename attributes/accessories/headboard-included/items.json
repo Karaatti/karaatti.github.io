@@ -1,0 +1,26 @@
+[
+  {
+    "name": "no",
+    "label": "No",
+    "href": "/attributes/accessories/headboard-included/no/",
+    "type": "dir",
+    "description": "No is a published headboard included option used across selected Nest & Living products. Common on Adjustable Bed, Continental Bed and Divan Bed.",
+    "familyCount": 3,
+    "variantCount": 78,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  },
+  {
+    "name": "yes",
+    "label": "Yes",
+    "href": "/attributes/accessories/headboard-included/yes/",
+    "type": "dir",
+    "description": "Yes is a published headboard included option used across selected Nest & Living products. Common on Headboard.",
+    "familyCount": 3,
+    "variantCount": 45,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  }
+]

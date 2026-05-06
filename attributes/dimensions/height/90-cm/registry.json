@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "90 cm",
+  "valueSlug": "90-cm",
+  "valueType": "measurement",
+  "numericValue": 90,
+  "unit": "cm",
+  "productTypes": [
+    "Bar Stools"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/bar-stools/merida/198085_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/merida",
+      "familyTitle": "Merida",
+      "familySummary": "Bar stool with natural oak frame and light fabric seat. Scandinavian style suitable for kitchen bars and dining areas.",
+      "primaryImageUrl": "/products/bar-stools/merida/198085_1.avif",
+      "schemaCategory": "Bar Stools",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 90,
+        "max": 90,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "90 cm is a published height used across selected Nest & Living products. Common on Bar Stool."
+}

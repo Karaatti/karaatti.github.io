@@ -1,0 +1,44 @@
+{
+  "group": "padding",
+  "groupLabel": "Padding",
+  "attributeKey": "foamDensity",
+  "attributeLabel": "Foam density",
+  "value": "25 kg/m³",
+  "valueSlug": "25-kg-m3",
+  "valueType": "measurement",
+  "numericValue": 25,
+  "unit": "kg/m³",
+  "productTypes": [
+    "Swivel Chairs"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/bay",
+      "familyTitle": "Bay",
+      "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+      "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg/m³"
+    ],
+    "ranges": [
+      {
+        "unit": "kg/m³",
+        "min": 25,
+        "max": 25,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "25 kg/m³ is a published foam density used across selected Nest & Living products. Common on Swivel Chair."
+}

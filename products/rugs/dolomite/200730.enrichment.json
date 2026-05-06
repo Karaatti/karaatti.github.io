@@ -1,0 +1,198 @@
+{
+  "sku": "200730",
+  "displayName": "Dolomite Rug",
+  "metaTitle": "Dolomite Rug - NEST & LIVING",
+  "metaDescription": "Grey tones with a subtle stone pattern, 200 x 290 cm. Soft and durable with easy-care materials.",
+  "ogTitle": "Dolomite Rug",
+  "ogDescription": "Grey tones with a subtle stone pattern, 200 x 290 cm. Soft and durable with easy-care materials.",
+  "shortDescription": "Grey tones with a subtle stone pattern, 200 x 290 cm. Soft and durable with easy-care materials.",
+  "familyDescription": "The Dolomite rug offers a calm and modern look with its soft texture and understated stone pattern. Its versatile grey tones blend easily with various interiors. Made from durable, easy-care materials, it maintains its appearance over time.",
+  "schemaCategory": "Rugs",
+  "selectionAttributes": {
+    "dimensions": "200 x 290 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "",
+    "material": ""
+  },
+  "attributes": [
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "200 cm",
+      "valueSlug": "200-cm",
+      "rawValue": "200 cm",
+      "valueType": "enum",
+      "numericValue": 200,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "290 cm",
+      "valueSlug": "290-cm",
+      "rawValue": "290 cm",
+      "valueType": "enum",
+      "numericValue": 290,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "9 kg",
+      "valueSlug": "9-kg",
+      "rawValue": "9 kg",
+      "valueType": "enum",
+      "numericValue": 9,
+      "unit": "kg",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Weight",
+      "sourceType": "specs"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.05 m³",
+      "valueSlug": "0-05-m3",
+      "rawValue": "0,05 m³",
+      "valueType": "enum",
+      "numericValue": 0.05,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Multicolour",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/multicolour/\">Multicolour</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "200 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/200-cm/\">200 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "290 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "290 cm",
+          "href": "/attributes/dimensions/depth/290-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/290-cm/\">290 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "9 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "9 kg",
+          "href": "/attributes/logistics/weight/9-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/9-kg/\">9 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/rugs/dolomite/200730_1.avif",
+  "retailerUrl": "https://www.masku.com/tuote/200730-dolomite-matto-200x290cm",
+  "imageUrls": [
+    "/products/rugs/dolomite/200730_1.avif",
+    "/products/rugs/dolomite/200730_2.avif",
+    "/products/rugs/dolomite/200730_3.avif",
+    "/products/rugs/dolomite/200730_4.avif",
+    "/products/rugs/dolomite/200730_5.jpg",
+    "/products/rugs/dolomite/200730_6.avif"
+  ]
+}

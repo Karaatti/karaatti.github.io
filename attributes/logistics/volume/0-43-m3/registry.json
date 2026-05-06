@@ -1,0 +1,62 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.43 m³",
+  "valueSlug": "0-43-m3",
+  "valueType": "measurement",
+  "numericValue": 0.43,
+  "unit": "m³",
+  "productTypes": [
+    "Continental Beds",
+    "Divan Beds",
+    "Swivel Chairs"
+  ],
+  "familyCount": 3,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/bay",
+      "familyTitle": "Bay",
+      "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+      "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Continental bed with 7-zone pocket spring system providing ergonomic support. Available in beige or grey upholstery with a choice of sizes.",
+      "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_4.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Available sizes: 80 x 200 cm, 90 x 200 cm, 120 x 200 cm and 140 x 200 cm. Light grey Primo 84 upholstery, 5-zone pocket spring support and smoked ash cone legs. 4 active variants available.",
+      "primaryImageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_1.avif",
+      "schemaCategory": "Divan Beds",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.43,
+        "max": 0.43,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.43 m³ is a published volume used across selected Nest & Living products. Common on Continental Bed, Divan Bed and Swivel Chair."
+}

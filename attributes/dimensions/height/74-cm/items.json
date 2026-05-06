@@ -1,0 +1,34 @@
+[
+  {
+    "name": "saarni",
+    "href": "/families/saarni/",
+    "type": "dir",
+    "title": "Saarni",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 4
+  },
+  {
+    "name": "messina",
+    "href": "/families/messina/",
+    "type": "dir",
+    "title": "Messina",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 2
+  },
+  {
+    "name": "palazzo",
+    "href": "/families/palazzo/",
+    "type": "dir",
+    "title": "Palazzo",
+    "schemaCategory": "Outdoor Lounge Sets",
+    "variantCount": 2
+  },
+  {
+    "name": "haven",
+    "href": "/families/haven/",
+    "type": "dir",
+    "title": "Haven",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 1
+  }
+]

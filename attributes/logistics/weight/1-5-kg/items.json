@@ -1,0 +1,50 @@
+[
+  {
+    "name": "nest-living",
+    "href": "/families/nest-living/",
+    "type": "dir",
+    "title": "Nest & Living",
+    "schemaCategory": "Mattress Protectors",
+    "variantCount": 2
+  },
+  {
+    "name": "dozza",
+    "href": "/families/dozza/",
+    "type": "dir",
+    "title": "Dozza",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "lucca",
+    "href": "/families/lucca/",
+    "type": "dir",
+    "title": "Lucca",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "nest-living-gold",
+    "href": "/families/nest-living-gold/",
+    "type": "dir",
+    "title": "Nest & Living Gold",
+    "schemaCategory": "Duvets",
+    "variantCount": 1
+  },
+  {
+    "name": "nest-living-silver",
+    "href": "/families/nest-living-silver/",
+    "type": "dir",
+    "title": "Nest & Living Silver",
+    "schemaCategory": "Duvets",
+    "variantCount": 1
+  },
+  {
+    "name": "sevilla",
+    "href": "/families/sevilla/",
+    "type": "dir",
+    "title": "Sevilla",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  }
+]

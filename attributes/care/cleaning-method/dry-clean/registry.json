@@ -1,0 +1,77 @@
+{
+  "group": "care",
+  "groupLabel": "Care",
+  "attributeKey": "cleaningMethod",
+  "attributeLabel": "Cleaning method",
+  "value": "Dry clean",
+  "valueSlug": "dry-clean",
+  "valueType": "enum",
+  "numericValue": null,
+  "unit": "",
+  "productTypes": [
+    "4-Seater Sofas",
+    "Swivel Chairs"
+  ],
+  "familyCount": 5,
+  "variantCount": 13,
+  "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/heaven",
+      "familyTitle": "Heaven",
+      "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+      "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+      "schemaCategory": "4-Seater Sofas",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/blow",
+      "familyTitle": "Blow",
+      "familySummary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+      "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/breeze",
+      "familyTitle": "Breeze",
+      "familySummary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
+      "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/wind",
+      "familyTitle": "Wind",
+      "familySummary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+      "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/bay",
+      "familyTitle": "Bay",
+      "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+      "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      ""
+    ],
+    "ranges": [
+      {
+        "unit": "",
+        "min": 0,
+        "max": 0,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "Dry clean is a published cleaning method option used across selected Nest & Living products. Common on 4-Seater Sofa and Swivel Chair."
+}

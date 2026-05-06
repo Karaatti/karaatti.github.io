@@ -1,0 +1,82 @@
+{
+  "label": "Solid wood",
+  "description": "Solid wood in furniture: Load bearing, repairable and rich in natural grain variation.",
+  "intro": "Solid wood appears across 2 product families and 16 options, especially on 3-Seater Sofas, Armchairs, Chaise Sofas, Corner Sofas and Footstools.",
+  "chemistry": [
+    "Solid wood is a living-material category in the sense that its cell structure still reacts to humidity after machining. That is why real timber changes dimension across the grain and develops a natural patina with age.",
+    "Its advantage is not just appearance. Solid wood can often be repaired, sanded and re-oiled in ways that thin veneer or fibreboard cannot."
+  ],
+  "furnitureUse": [
+    "It works best where the material itself is part of the product value: visible frames, table tops, chair structures and crafted joinery.",
+    "The design discipline lies in allowing the wood to move. Good furniture uses floating fixings, proper joinery and finish choices that respect seasonal change rather than fighting it."
+  ],
+  "care": [
+    "Moisture and wear note: Hygroscopic: takes in and releases moisture, so it expands and contracts with the seasons.",
+    "Care note: Maintain the finish, keep humidity reasonably stable and expect some natural patina over time."
+  ],
+  "terminology": [],
+  "thermal": [
+    "Solid wood usually feels warmer and less temperature-reactive than metal because conductivity is lower. That improves tactile comfort on bed frames, headboards and hand-contact surfaces.",
+    "Its long-term movement is driven more by moisture balance than thermal expansion. Dry heating seasons and humid summers can both change fit, gaps and finish tension."
+  ],
+  "recycling": [
+    "Finland-first sorting baseline: intact solid-wood furniture should be directed to reuse first. Damaged pieces usually go to municipal bulky-furniture or local wood acceptance depending on coatings, glue and hardware.",
+    "Because real products often mix finish, screws and upholstery, customer guidance should default to local municipal acceptance unless a clean wood route is explicitly available."
+  ],
+  "durability": [
+    "Solid wood can outlast many engineered boards because it is repairable, refinishable and structurally forgiving when well designed.",
+    "Its wear pattern is visible and honest: scratches, patina, movement and occasional checking rather than soft collapse."
+  ],
+  "relatedSpecifications": [
+    "Solid wood frame",
+    "Timber leg",
+    "Wood slat construction"
+  ],
+  "lifecycleRows": [
+    {
+      "label": "Recycling in Finland",
+      "value": "Prioritise reuse first; otherwise use municipal bulky-furniture or the local wood route depending on finish and local rules."
+    },
+    {
+      "label": "Expected wear profile",
+      "value": "Potentially long-lived and repairable, with patina, movement and finish wear as typical ageing signs."
+    },
+    {
+      "label": "Retail warranty note",
+      "value": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+    }
+  ],
+  "strengths": [
+    "repairable and refinishable",
+    "strong natural character",
+    "good load-bearing potential"
+  ],
+  "watchouts": [
+    "moves with humidity",
+    "can crack if design ignores movement",
+    "quality varies by species and cut"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Natural timber"
+    },
+    {
+      "label": "Composition",
+      "value": "Continuous solid timber rather than a veneered or engineered board core."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Load bearing, repairable and rich in natural grain variation."
+    },
+    {
+      "label": "Key strengths",
+      "value": "repairable and refinishable, strong natural character and good load-bearing potential"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "moves with humidity, can crack if design ignores movement and quality varies by species and cut"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

@@ -1,0 +1,72 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.37 m³",
+  "valueSlug": "0-37-m3",
+  "valueType": "measurement",
+  "numericValue": 0.37,
+  "unit": "m³",
+  "productTypes": [
+    "Continental Beds",
+    "Dining Tables",
+    "Headboards",
+    "Outdoor Dining Chairs",
+    "Outdoor Lounge Seating"
+  ],
+  "familyCount": 4,
+  "variantCount": 11,
+  "primaryImageUrl": "/products/dining-tables/metz/208710_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/metz",
+      "familyTitle": "Metz",
+      "familySummary": "A round dining table with a natural Beige veneer surface and a light, sturdy base. Designed to comfortably seat four and fit modern interiors.",
+      "primaryImageUrl": "/products/dining-tables/metz/208710_1.avif",
+      "schemaCategory": "Dining Tables",
+      "variantCount": 5
+    },
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "A practical and understated headboard featuring button detailing in five rows. Available in several widths and neutral fabric colours.",
+      "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+      "schemaCategory": "Continental Beds and Headboards",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/haven",
+      "familyTitle": "Haven",
+      "familySummary": "Haven dining chair offers a stylish and comfortable addition to summer dining spaces. Made from natural colored polyrattan with beige cushions, it combines aluminium, fabric and polyrattan for durability and comfort.",
+      "primaryImageUrl": "/products/outdoor-dining-chairs/haven/197625_1.avif",
+      "schemaCategory": "Outdoor Dining Chairs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/house-nordic-derby",
+      "familyTitle": "House Nordic Derby",
+      "familySummary": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
+      "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+      "schemaCategory": "Outdoor Lounge Seating",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.37,
+        "max": 0.37,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.37 m³ is a published volume used across selected Nest & Living products. Common on Continental Bed, Dining Table, Headboard, Outdoor Dining Chair and Outdoor Lounge Seating."
+}

@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "19.7 kg",
+  "valueSlug": "19-7-kg",
+  "valueType": "measurement",
+  "numericValue": 19.7,
+  "unit": "kg",
+  "productTypes": [
+    "Headboards"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Moon Silver headboard features a buttoned fabric surface that breathes well and adds a subtle, elegant touch to the bedroom. Its timeless design suits various interiors and provides comfortable back support.",
+      "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
+      "schemaCategory": "Headboards",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 19.7,
+        "max": 19.7,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "19.7 kg is a published weight used across selected Nest & Living products. Common on Headboard."
+}

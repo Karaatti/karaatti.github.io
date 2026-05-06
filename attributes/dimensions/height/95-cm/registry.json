@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "95 cm",
+  "valueSlug": "95-cm",
+  "valueType": "measurement",
+  "numericValue": 95,
+  "unit": "cm",
+  "productTypes": [
+    "Armchairs"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/armchairs/dove/198105_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/dove",
+      "familyTitle": "Dove",
+      "familySummary": "Armchair with a walnut rubberwood frame and beige fabric upholstery. Offers comfortable seating with a high back and soft seat.",
+      "primaryImageUrl": "/products/armchairs/dove/198105_1.avif",
+      "schemaCategory": "Armchairs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 95,
+        "max": 95,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "95 cm is a published height used across selected Nest & Living products. Common on Armchair."
+}

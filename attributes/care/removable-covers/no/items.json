@@ -1,0 +1,26 @@
+[
+  {
+    "name": "cloud",
+    "href": "/families/cloud/",
+    "type": "dir",
+    "title": "Cloud",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 2
+  },
+  {
+    "name": "wind",
+    "href": "/families/wind/",
+    "type": "dir",
+    "title": "Wind",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "bay",
+    "href": "/families/bay/",
+    "type": "dir",
+    "title": "Bay",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1
+  }
+]

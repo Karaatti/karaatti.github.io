@@ -1,0 +1,98 @@
+[
+  {
+    "name": "moderni",
+    "href": "/families/moderni/",
+    "type": "dir",
+    "title": "Moderni",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "ruutu",
+    "href": "/families/ruutu/",
+    "type": "dir",
+    "title": "Ruutu",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "amaris",
+    "href": "/families/amaris/",
+    "type": "dir",
+    "title": "Amaris",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "bilbao",
+    "href": "/families/bilbao/",
+    "type": "dir",
+    "title": "Bilbao",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "dozza",
+    "href": "/families/dozza/",
+    "type": "dir",
+    "title": "Dozza",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "lucca",
+    "href": "/families/lucca/",
+    "type": "dir",
+    "title": "Lucca",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "lyra",
+    "href": "/families/lyra/",
+    "type": "dir",
+    "title": "Lyra",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "saaga",
+    "href": "/families/saaga/",
+    "type": "dir",
+    "title": "Saaga",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "sevilla",
+    "href": "/families/sevilla/",
+    "type": "dir",
+    "title": "Sevilla",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "sirmione",
+    "href": "/families/sirmione/",
+    "type": "dir",
+    "title": "Sirmione",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "swallow",
+    "href": "/families/swallow/",
+    "type": "dir",
+    "title": "Swallow",
+    "schemaCategory": "Side Tables",
+    "variantCount": 1
+  },
+  {
+    "name": "yanam",
+    "href": "/families/yanam/",
+    "type": "dir",
+    "title": "Yanam",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  }
+]

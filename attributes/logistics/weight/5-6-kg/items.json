@@ -1,0 +1,42 @@
+[
+  {
+    "name": "moderni",
+    "href": "/families/moderni/",
+    "type": "dir",
+    "title": "Moderni",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "ruutu",
+    "href": "/families/ruutu/",
+    "type": "dir",
+    "title": "Ruutu",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Toppers",
+    "variantCount": 1
+  },
+  {
+    "name": "sirmione",
+    "href": "/families/sirmione/",
+    "type": "dir",
+    "title": "Sirmione",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "yanam",
+    "href": "/families/yanam/",
+    "type": "dir",
+    "title": "Yanam",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  }
+]

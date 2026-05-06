@@ -1,0 +1,42 @@
+[
+  {
+    "name": "staygentle",
+    "href": "/families/staygentle/",
+    "type": "dir",
+    "title": "Staygentle",
+    "schemaCategory": "Mattress Protectors",
+    "variantCount": 3
+  },
+  {
+    "name": "staycation",
+    "href": "/families/staycation/",
+    "type": "dir",
+    "title": "Staycation",
+    "schemaCategory": "Pillows",
+    "variantCount": 2
+  },
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Toppers",
+    "variantCount": 1
+  },
+  {
+    "name": "staycomfort",
+    "href": "/families/staycomfort/",
+    "type": "dir",
+    "title": "Staycomfort",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  },
+  {
+    "name": "staycool",
+    "href": "/families/staycool/",
+    "type": "dir",
+    "title": "Staycool",
+    "schemaCategory": "Duvets",
+    "variantCount": 1
+  }
+]

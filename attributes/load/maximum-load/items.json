@@ -1,0 +1,110 @@
+[
+  {
+    "name": "10-kg",
+    "label": "10 kg",
+    "href": "/attributes/load/maximum-load/10-kg/",
+    "type": "dir",
+    "description": "10 kg is a published maximum load used across selected Nest & Living products. Common on Cabinets Display, Coffee Table and Side Table.",
+    "familyCount": 4,
+    "variantCount": 6,
+    "valueType": "measurement",
+    "numericValue": 10,
+    "unit": "kg"
+  },
+  {
+    "name": "30-kg",
+    "label": "30 kg",
+    "href": "/attributes/load/maximum-load/30-kg/",
+    "type": "dir",
+    "description": "30 kg is a published maximum load used across selected Nest & Living products. Common on Console Table.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 30,
+    "unit": "kg"
+  },
+  {
+    "name": "50-kg",
+    "label": "50 kg",
+    "href": "/attributes/load/maximum-load/50-kg/",
+    "type": "dir",
+    "description": "50 kg is a published maximum load used across selected Nest & Living products. Common on Outdoor Dining Table.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 50,
+    "unit": "kg"
+  },
+  {
+    "name": "100-kg",
+    "label": "100 kg",
+    "href": "/attributes/load/maximum-load/100-kg/",
+    "type": "dir",
+    "description": "100 kg is a published maximum load used across selected Nest & Living products. Common on Cabinets Display and Outdoor Lounge Set.",
+    "familyCount": 2,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 100,
+    "unit": "kg"
+  },
+  {
+    "name": "110-kg",
+    "label": "110 kg",
+    "href": "/attributes/load/maximum-load/110-kg/",
+    "type": "dir",
+    "description": "110 kg is a published maximum load used across selected Nest & Living products. Common on Armchair, Bar Stool, Fixed Armchair and Outdoor Sun Lounger.",
+    "familyCount": 4,
+    "variantCount": 7,
+    "valueType": "measurement",
+    "numericValue": 110,
+    "unit": "kg"
+  },
+  {
+    "name": "120-kg",
+    "label": "120 kg",
+    "href": "/attributes/load/maximum-load/120-kg/",
+    "type": "dir",
+    "description": "120 kg is a published maximum load used across selected Nest & Living products. Common on Dining Chair, Outdoor Dining Chair, Outdoor Dining Table, Outdoor Lounge Seating and Swivel Chair.",
+    "familyCount": 6,
+    "variantCount": 15,
+    "valueType": "measurement",
+    "numericValue": 120,
+    "unit": "kg"
+  },
+  {
+    "name": "125-kg",
+    "label": "125 kg",
+    "href": "/attributes/load/maximum-load/125-kg/",
+    "type": "dir",
+    "description": "125 kg is a published maximum load used across selected Nest & Living products. Common on Outdoor Lounge Seating.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 125,
+    "unit": "kg"
+  },
+  {
+    "name": "150-kg",
+    "label": "150 kg",
+    "href": "/attributes/load/maximum-load/150-kg/",
+    "type": "dir",
+    "description": "150 kg is a published maximum load used across selected Nest & Living products. Common on Outdoor Dining Chair.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 150,
+    "unit": "kg"
+  },
+  {
+    "name": "200-kg",
+    "label": "200 kg",
+    "href": "/attributes/load/maximum-load/200-kg/",
+    "type": "dir",
+    "description": "200 kg is a published maximum load used across selected Nest & Living products. Common on Chaise Sofa.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 200,
+    "unit": "kg"
+  }
+]

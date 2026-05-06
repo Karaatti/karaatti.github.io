@@ -1,0 +1,367 @@
+{
+  "sku": "197714",
+  "displayName": "Moon Silver continental bed, Grey, 160 x 200 cm",
+  "metaTitle": "Moon Silver continental bed, Grey, 160 x 200 cm - NEST & LIVING",
+  "metaDescription": "Grey, 160 x 200 cm. 5-zone pocket spring continental bed with high wooden legs.",
+  "ogTitle": "Moon Silver continental bed, Grey, 160 x 200 cm",
+  "ogDescription": "Grey, 160 x 200 cm. 5-zone pocket spring continental bed with high wooden legs.",
+  "shortDescription": "Grey, 160 x 200 cm. 5-zone pocket spring continental bed with high wooden legs.",
+  "familyDescription": "The Moon Silver continental bed combines comfort and timeless style for the bedroom. It features a 5-zone pocket spring system that supports the body individually. The bed frame is made from durable wood and chipboard, complemented by high wooden legs that make cleaning simple. Optional headboards and mattress toppers are available to tailor the bed to your needs.",
+  "schemaCategory": "Continental Beds",
+  "selectionAttributes": {
+    "dimensions": "160 x 200 cm",
+    "handedness": "",
+    "comfortType": "Pocket spring",
+    "color": "Grey",
+    "material": "Wood, Particle board, Fabric"
+  },
+  "attributes": [
+    {
+      "key": "headboardIncluded",
+      "label": "Headboard included",
+      "group": "accessories",
+      "groupLabel": "Included components",
+      "value": "No",
+      "valueSlug": "no",
+      "rawValue": "Ei sisällä päätyä",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Patjan tiedot",
+      "sourceLabel": "Sängynpääty",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "topperIncluded",
+      "label": "Topper included",
+      "group": "accessories",
+      "groupLabel": "Included components",
+      "value": "No",
+      "valueSlug": "no",
+      "rawValue": "Ilman petauspatjaa",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Patjan tiedot",
+      "sourceLabel": "Petauspatja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "firmness",
+      "label": "Firmness",
+      "group": "comfort",
+      "groupLabel": "Comfort",
+      "value": "Medium firm",
+      "valueSlug": "medium-firm",
+      "rawValue": "Keskikova",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Patjan tiedot",
+      "sourceLabel": "Patjan kovuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "160 cm",
+      "valueSlug": "160-cm",
+      "rawValue": "160 cm",
+      "valueType": "enum",
+      "numericValue": 160,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "200 cm",
+      "valueSlug": "200-cm",
+      "rawValue": "200 cm",
+      "valueType": "enum",
+      "numericValue": 200,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "53 cm",
+      "valueSlug": "53-cm",
+      "rawValue": "53 cm",
+      "valueType": "enum",
+      "numericValue": 53,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "63 kg",
+      "valueSlug": "63-kg",
+      "rawValue": "63 kg",
+      "valueType": "enum",
+      "numericValue": 63,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "springWarranty",
+      "label": "Spring warranty",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "4000 days",
+      "valueSlug": "4000-days",
+      "rawValue": "4000 päivää",
+      "valueType": "enum",
+      "numericValue": 4000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Takuu - Jousen katkeamattomuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "frameWarranty",
+      "label": "Frame warranty",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "4000 days",
+      "valueSlug": "4000-days",
+      "rawValue": "4000 päivää",
+      "valueType": "enum",
+      "numericValue": 4000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Takuu - Runko",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "priceGuarantee",
+      "label": "Price guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "30 days",
+      "valueSlug": "30-days",
+      "rawValue": "30 päivää",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Hintatakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "30 min",
+      "valueSlug": "30-min",
+      "rawValue": "30 min",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "2 package",
+      "valueSlug": "2-package",
+      "rawValue": "2 kpl",
+      "valueType": "enum",
+      "numericValue": 2,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.36 m³",
+      "valueSlug": "0-36-m3",
+      "rawValue": "0.36 m³",
+      "valueType": "enum",
+      "numericValue": 0.36,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "22 kg",
+      "valueSlug": "22-kg",
+      "rawValue": "22 kg",
+      "valueType": "enum",
+      "numericValue": 22,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [
+    {
+      "key": "mattressType",
+      "label": "Mattress type",
+      "group": "mattress-types",
+      "groupLabel": "Mattress types",
+      "specLabel": "Pocket spring mattress",
+      "specSlug": "pocket-spring-mattress",
+      "rawValue": "Pocket spring",
+      "materials": [
+        {
+          "label": "Metal",
+          "slug": "metal",
+          "type": "material"
+        }
+      ],
+      "materialRoleLabel": "Core material",
+      "attributes": [
+        {
+          "group": "support",
+          "groupLabel": "Support",
+          "key": "zoneCount",
+          "label": "Zone count",
+          "value": "5-zone",
+          "numericValue": 5
+        }
+      ],
+      "sourceSection": "Selection attributes",
+      "sourceLabel": "Comfort type",
+      "sourceType": "comfortType"
+    }
+  ],
+  "materialSpecifications": [],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Grey",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/grey/\">Grey</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Wood, Particle board, Fabric",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/wood/\">Wood</a><a class=\"spec-link-chip\" href=\"/materials/particle-board/\">Particle board</a><a class=\"spec-link-chip\" href=\"/materials/fabric/\">Fabric</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "160 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "160 cm",
+          "href": "/attributes/dimensions/width/160-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/160-cm/\">160 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "200 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/200-cm/\">200 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "53 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "53 cm",
+          "href": "/attributes/dimensions/height/53-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/53-cm/\">53 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "63 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "63 kg",
+          "href": "/attributes/logistics/weight/63-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/63-kg/\">63 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/continental-beds/moon-silver/moon_silver_continental_bed_grey_1.avif",
+  "imageUrls": [
+    "/products/continental-beds/moon-silver/moon_silver_continental_bed_grey_1.avif",
+    "/products/continental-beds/moon-silver/moon_silver_continental_bed_grey_2.avif",
+    "/products/continental-beds/moon-silver/moon_silver_continental_bed_grey_3.avif",
+    "/products/continental-beds/moon-silver/moon_silver_continental_bed_grey_4.jpg",
+    "/products/continental-beds/moon-silver/197714_1.avif",
+    "/products/continental-beds/moon-silver/197714_2.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/197714"
+}

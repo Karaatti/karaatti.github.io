@@ -1,0 +1,42 @@
+{
+  "label": "Orange",
+  "description": "Orange in interiors: Brings warmth, movement and sociability, so it reads more active than beige, grey or blue.",
+  "intro": "Orange appears across 2 product families and 5 options, especially on Decorative Cushions and Rugs.",
+  "theory": [
+    "Orange sits opposite blue in classic colour theory, so even a small amount can wake up a cool interior. In furniture, however, fully saturated orange is rarely the safest route; muted rust and clay versions are easier to live with.",
+    "Because orange advances visually, it makes objects feel closer and more present. That is useful for focal chairs, cushions and rugs but can overwhelm large rooms if repeated without restraint."
+  ],
+  "palette": [
+    "Balance orange with cool or neutral structure: blue-grey textiles, black framing, beige walls or natural wood. That turns energy into warmth instead of chaos.",
+    "A practical rule is one orange focal element supported by quieter warm neighbours such as tan, walnut or sand. Let the accent work, then stop."
+  ],
+  "partners": [
+    "blue",
+    "brown",
+    "beige",
+    "olive",
+    "walnut"
+  ],
+  "profileRows": [
+    {
+      "label": "Colour role",
+      "value": "Warm energetic accent"
+    },
+    {
+      "label": "Undertone",
+      "value": "Ranges from muted terracotta to clearer citrus and rust-orange notes."
+    },
+    {
+      "label": "Visual effect",
+      "value": "Brings warmth, movement and sociability, so it reads more active than beige, grey or blue."
+    },
+    {
+      "label": "Works well with",
+      "value": "blue, brown, beige, olive and walnut"
+    },
+    {
+      "label": "Balancing move",
+      "value": "Use on smaller surfaces unless the rest of the room is intentionally quiet and low-saturation."
+    }
+  ]
+}

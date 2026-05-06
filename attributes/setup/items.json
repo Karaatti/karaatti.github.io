@@ -1,0 +1,27 @@
+[
+  {
+    "name": "assembly-time",
+    "label": "Assembly time",
+    "href": "/attributes/setup/assembly-time/",
+    "type": "dir",
+    "entryCount": 8,
+    "variantCount": 405,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 8,
+      "unitCount": 1,
+      "units": [
+        "min"
+      ],
+      "ranges": [
+        {
+          "unit": "min",
+          "min": 0,
+          "max": 240,
+          "count": 8,
+          "distinctCount": 8
+        }
+      ]
+    }
+  }
+]

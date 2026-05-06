@@ -1,0 +1,346 @@
+{
+  "sku": "206770",
+  "displayName": "Nordic Outdoor Storage, Beige, 130 x 60 cm",
+  "metaTitle": "Nordic Outdoor Storage, Beige, 130 x 60 cm - NEST & LIVING",
+  "metaDescription": "Outdoor storage box with an aluminium frame and Beige finish, sized for compact terrace and garden storage.",
+  "ogTitle": "Nordic Outdoor Storage, Beige, 130 x 60 cm",
+  "ogDescription": "Outdoor storage box with an aluminium frame and Beige finish, sized for compact terrace and garden storage.",
+  "shortDescription": "Outdoor storage box with an aluminium frame and Beige finish, sized for compact terrace and garden storage.",
+  "familyDescription": "Outdoor storage boxes from the Nordic collection with aluminium frames and weather-ready fabric-lined lids, available in two sizes and beige or black finishes.",
+  "schemaCategory": "Outdoor Storage",
+  "selectionAttributes": {
+    "dimensions": "130 x 60 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Beige",
+    "material": "Aluminium"
+  },
+  "attributes": [
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "16.5 kg",
+      "valueSlug": "16-5-kg",
+      "rawValue": "16.5 kg",
+      "valueType": "enum",
+      "numericValue": 16.5,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "30 min",
+      "valueSlug": "30-min",
+      "rawValue": "30 min",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.16 m³",
+      "valueSlug": "0-16-m3",
+      "rawValue": "0.16 m³",
+      "valueType": "enum",
+      "numericValue": 0.16,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "20 kg",
+      "valueSlug": "20-kg",
+      "rawValue": "20 kg",
+      "valueType": "enum",
+      "numericValue": 20,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "130 cm",
+      "valueSlug": "130-cm",
+      "rawValue": "130 cm",
+      "valueType": "enum",
+      "numericValue": 130,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "60 cm",
+      "valueSlug": "60-cm",
+      "rawValue": "60 cm",
+      "valueType": "enum",
+      "numericValue": 60,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "75 cm",
+      "valueSlug": "75-cm",
+      "rawValue": "75 cm",
+      "valueType": "enum",
+      "numericValue": 75,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Aluminium",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Colors",
+      "value": "Beige",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/beige/\">Beige</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Aluminium",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/aluminium/\">Aluminium</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "130 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "130 cm",
+          "href": "/attributes/dimensions/width/130-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/130-cm/\">130 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "60 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "60 cm",
+          "href": "/attributes/dimensions/depth/60-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/60-cm/\">60 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "75 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "75 cm",
+          "href": "/attributes/dimensions/height/75-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/75-cm/\">75 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "16.5 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "16.5 kg",
+          "href": "/attributes/logistics/weight/16-5-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/16-5-kg/\">16.5 kg</a></span>"
+    },
+    {
+      "label": "Quality guarantee",
+      "value": "1000 days",
+      "key": "quality-guarantee",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/warranty/quality-guarantee/1000-days/\">1000 days</a></span>"
+    },
+    {
+      "label": "Assembly time",
+      "value": "30 min",
+      "key": "assembly-time",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/setup/assembly-time/30-min/\">30 min</a></span>"
+    },
+    {
+      "label": "Package count",
+      "value": "1 package",
+      "key": "package-count",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/package-count/1-package/\">1 package</a></span>"
+    },
+    {
+      "label": "Product count",
+      "value": "1 product",
+      "key": "product-count",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/product-count/1-product/\">1 product</a></span>"
+    },
+    {
+      "label": "Volume",
+      "value": "0.16 m³",
+      "key": "volume",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "0.16 m³",
+          "href": "/attributes/logistics/volume/0-16-m3/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/volume/0-16-m3/\">0.16 m³</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "16.5 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "16.5 kg",
+          "href": "/attributes/logistics/weight/16-5-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/16-5-kg/\">16.5 kg</a></span>"
+    },
+    {
+      "label": "Color",
+      "value": "Beige",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/beige/\">Beige</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/outdoor-storage/nordic/206770_1.avif",
+  "imageUrls": [
+    "/products/outdoor-storage/nordic/206770_1.avif",
+    "/products/outdoor-storage/nordic/206770_2.avif",
+    "/products/outdoor-storage/nordic/206770_3.avif",
+    "/products/outdoor-storage/nordic/206770_4.avif",
+    "/products/outdoor-storage/nordic/206770_5.avif",
+    "/products/outdoor-storage/nordic/206770_6.avif",
+    "/products/outdoor-storage/nordic/206770_7.avif",
+    "/products/outdoor-storage/nordic/206770_8.avif",
+    "/products/outdoor-storage/nordic/206770_9.avif",
+    "/products/outdoor-storage/nordic/206770_10.avif",
+    "/products/outdoor-storage/nordic/206770_11.avif",
+    "/products/outdoor-storage/nordic/206770_12.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/206770-nordic-pehmustelaatikko-130x60cm-khaki"
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Divan Beds, Headboards, Mattresses and Toppers",
+    "variantCount": 6
+  },
+  {
+    "name": "metz",
+    "href": "/families/metz/",
+    "type": "dir",
+    "title": "Metz",
+    "schemaCategory": "Dining Tables",
+    "variantCount": 3
+  },
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Continental Beds, Headboards and Mattresses",
+    "variantCount": 3
+  },
+  {
+    "name": "breeze",
+    "href": "/families/breeze/",
+    "type": "dir",
+    "title": "Breeze",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "lugo",
+    "href": "/families/lugo/",
+    "type": "dir",
+    "title": "Lugo",
+    "schemaCategory": "Footstools",
+    "variantCount": 2
+  },
+  {
+    "name": "nordic",
+    "href": "/families/nordic/",
+    "type": "dir",
+    "title": "Nordic",
+    "schemaCategory": "Outdoor Storage",
+    "variantCount": 2
+  },
+  {
+    "name": "house-nordic-beckley",
+    "href": "/families/house-nordic-beckley/",
+    "type": "dir",
+    "title": "House Nordic Beckley",
+    "schemaCategory": "Planters & Pots",
+    "variantCount": 1
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/families/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Divan Beds",
+    "variantCount": 1
+  }
+]

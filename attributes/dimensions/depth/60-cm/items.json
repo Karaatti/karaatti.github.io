@@ -1,0 +1,66 @@
+[
+  {
+    "name": "hike",
+    "href": "/families/hike/",
+    "type": "dir",
+    "title": "Hike",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 5
+  },
+  {
+    "name": "haley",
+    "href": "/families/haley/",
+    "type": "dir",
+    "title": "Haley",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 4
+  },
+  {
+    "name": "hix",
+    "href": "/families/hix/",
+    "type": "dir",
+    "title": "Hix",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 3
+  },
+  {
+    "name": "moon",
+    "href": "/families/moon/",
+    "type": "dir",
+    "title": "Moon",
+    "schemaCategory": "Mobile Phone Pockets",
+    "variantCount": 3
+  },
+  {
+    "name": "westcoast",
+    "href": "/families/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Footstools",
+    "variantCount": 3
+  },
+  {
+    "name": "island",
+    "href": "/families/island/",
+    "type": "dir",
+    "title": "Island",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 2
+  },
+  {
+    "name": "nordic",
+    "href": "/families/nordic/",
+    "type": "dir",
+    "title": "Nordic",
+    "schemaCategory": "Outdoor Storage",
+    "variantCount": 2
+  },
+  {
+    "name": "staycation",
+    "href": "/families/staycation/",
+    "type": "dir",
+    "title": "Staycation",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  }
+]

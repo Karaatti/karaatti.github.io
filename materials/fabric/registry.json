@@ -1,0 +1,56 @@
+{
+  "label": "Fabric",
+  "description": "Fabric in furniture: Comfort-led surface layer whose feel depends on fibre mix, weave density and backing.",
+  "intro": "Fabric appears across 17 product families and 163 options, especially on 3-Seater Sofas, 4-Seater Sofas, Adjustable Beds, Armchairs, Bar Stools and Bed Frames and 13 more.",
+  "chemistry": [
+    "Fabric is not one chemistry but a category. Upholstery fabric can be cotton, polyester, wool, viscose, olefin or a blend, and the fibre recipe decides abrasion resistance, colour fastness and moisture behaviour.",
+    "Weave structure matters just as much as chemistry. A tight plain weave behaves differently from chenille, boucle or brushed fabric even when the fibre names are similar."
+  ],
+  "furnitureUse": [
+    "Fabric is the default comfort surface for sofas, armchairs, dining chairs and headboards because it softens contact surfaces and offers the broadest range of colours and textures.",
+    "The practical question is not just whether an item is fabric, but what kind. Dense performance fabric works in family rooms, while open decorative weaves are better for lower-friction accent pieces."
+  ],
+  "care": [
+    "Moisture and wear note: Performance varies by fibre: natural-rich fabrics absorb more, synthetics usually dry faster.",
+    "Care note: Vacuum grit out of the weave and match cleaning to the actual fibre blend and backing."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [],
+  "durability": [],
+  "relatedSpecifications": [],
+  "lifecycleRows": [],
+  "strengths": [
+    "wide design range",
+    "comfortable hand feel",
+    "good acoustic softening"
+  ],
+  "watchouts": [
+    "performance depends on fibre blend",
+    "open weaves can trap lint",
+    "light colours show dirt faster"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Textile umbrella term"
+    },
+    {
+      "label": "Composition",
+      "value": "A woven or knitted cover that may be natural, synthetic or blended."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Comfort-led surface layer whose feel depends on fibre mix, weave density and backing."
+    },
+    {
+      "label": "Key strengths",
+      "value": "wide design range, comfortable hand feel and good acoustic softening"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "performance depends on fibre blend, open weaves can trap lint and light colours show dirt faster"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

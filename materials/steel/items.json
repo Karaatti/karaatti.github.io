@@ -1,0 +1,58 @@
+[
+  {
+    "name": "moon-silver",
+    "href": "/products/adjustable-beds/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Adjustable Beds",
+    "variantCount": 3
+  },
+  {
+    "name": "nordic",
+    "href": "/products/gazebos-pergolas/nordic/",
+    "type": "dir",
+    "title": "Nordic",
+    "schemaCategory": "Gazebos & Pergolas",
+    "variantCount": 3
+  },
+  {
+    "name": "blow",
+    "href": "/products/swivel-chairs/blow/",
+    "type": "dir",
+    "title": "Blow",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "breeze",
+    "href": "/products/swivel-chairs/breeze/",
+    "type": "dir",
+    "title": "Breeze",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "palazzo",
+    "href": "/products/outdoor-lounge-sets/palazzo/",
+    "type": "dir",
+    "title": "Palazzo",
+    "schemaCategory": "Outdoor Lounge Sets",
+    "variantCount": 2
+  },
+  {
+    "name": "wind",
+    "href": "/products/swivel-chairs/wind/",
+    "type": "dir",
+    "title": "Wind",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "haven",
+    "href": "/products/outdoor-lounge-seating/haven/",
+    "type": "dir",
+    "title": "Haven",
+    "schemaCategory": "Outdoor Lounge Seating",
+    "variantCount": 1
+  }
+]

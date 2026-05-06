@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "41 kg",
+  "valueSlug": "41-kg",
+  "valueType": "measurement",
+  "numericValue": 41,
+  "unit": "kg",
+  "productTypes": [
+    "Corner Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/haave",
+      "familyTitle": "Haave",
+      "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+      "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 41,
+        "max": 41,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "41 kg is a published weight used across selected Nest & Living products. Common on Corner Sofa."
+}

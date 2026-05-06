@@ -1,0 +1,26 @@
+[
+  {
+    "name": "moon-bronze",
+    "href": "/families/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Headboards",
+    "variantCount": 3
+  },
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Headboards",
+    "variantCount": 2
+  },
+  {
+    "name": "saarni",
+    "href": "/families/saarni/",
+    "type": "dir",
+    "title": "Saarni",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 1
+  }
+]

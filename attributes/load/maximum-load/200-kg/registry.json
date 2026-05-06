@@ -1,0 +1,44 @@
+{
+  "group": "load",
+  "groupLabel": "Load",
+  "attributeKey": "maximumLoad",
+  "attributeLabel": "Maximum load",
+  "value": "200 kg",
+  "valueSlug": "200-kg",
+  "valueType": "measurement",
+  "numericValue": 200,
+  "unit": "kg",
+  "productTypes": [
+    "Chaise Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/aava",
+      "familyTitle": "Aava",
+      "familySummary": "Spacious 4-seater chaise sofa with durable fabric upholstery and natural oak legs. Features reversible chaise for flexible layout.",
+      "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+      "schemaCategory": "Chaise Sofas",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 200,
+        "max": 200,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "200 kg is a published maximum load used across selected Nest & Living products. Common on Chaise Sofa."
+}

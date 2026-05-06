@@ -1,0 +1,70 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.35 m³",
+  "valueSlug": "0-35-m3",
+  "valueType": "measurement",
+  "numericValue": 0.35,
+  "unit": "m³",
+  "productTypes": [
+    "Headboards",
+    "Mattresses",
+    "Swivel Chairs"
+  ],
+  "familyCount": 4,
+  "variantCount": 8,
+  "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "A practical and understated headboard featuring button detailing in five rows. Available in several widths and neutral fabric colours.",
+      "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
+      "schemaCategory": "Headboards and Mattresses",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/blow",
+      "familyTitle": "Blow",
+      "familySummary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+      "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/wind",
+      "familyTitle": "Wind",
+      "familySummary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+      "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/breeze",
+      "familyTitle": "Breeze",
+      "familySummary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
+      "primaryImageUrl": "/products/swivel-chairs/breeze/198262_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.35,
+        "max": 0.35,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.35 m³ is a published volume used across selected Nest & Living products. Common on Headboard, Mattress and Swivel Chair."
+}

@@ -1,0 +1,56 @@
+{
+  "label": "Nonwood",
+  "description": "Nonwood in furniture: Stable and low-maintenance compared with natural wood, but exact performance depends on the composite recipe.",
+  "intro": "Nonwood appears across 1 product family and 6 options, especially on Outdoor Dining Chairs and Outdoor Dining Tables.",
+  "chemistry": [
+    "Nonwood is a broad label rather than a precise chemistry. In furniture retail it often means a wood-look composite, polymer-based slat or other substitute selected for weather stability and reduced upkeep.",
+    "Because the label is generic, the core engineering question is not only what it looks like but what carries the load beneath it. Many nonwood surfaces depend on a separate metal frame for real structure."
+  ],
+  "furnitureUse": [
+    "This type of material is useful outdoors and in easy-care dining furniture where the customer wants a timber-like appearance without the swelling, oiling and seasonal movement of real wood.",
+    "The compromise is authenticity and reparability. Composites usually cannot be refinished like solid wood, and thermal expansion can be more noticeable in long dark-coloured sections."
+  ],
+  "care": [
+    "Moisture and wear note: Often chosen for better weather tolerance than timber, yet joints and supports still matter.",
+    "Care note: Treat as a composite surface: mild cleaning, no aggressive sanding and check manufacturer finish notes when available."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [],
+  "durability": [],
+  "relatedSpecifications": [],
+  "lifecycleRows": [],
+  "strengths": [
+    "lower maintenance than timber",
+    "dimensionally stable look surfaces",
+    "often weather-friendly"
+  ],
+  "watchouts": [
+    "exact composition may vary",
+    "less repairable than wood",
+    "heat expansion and surface ageing depend on formulation"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Wood-alternative composite"
+    },
+    {
+      "label": "Composition",
+      "value": "Generic non-wood material used where a wood look or slatted format is desired without true timber."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Stable and low-maintenance compared with natural wood, but exact performance depends on the composite recipe."
+    },
+    {
+      "label": "Key strengths",
+      "value": "lower maintenance than timber, dimensionally stable look surfaces and often weather-friendly"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "exact composition may vary, less repairable than wood and heat expansion and surface ageing depend on formulation"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

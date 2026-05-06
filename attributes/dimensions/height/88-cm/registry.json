@@ -1,0 +1,45 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "88 cm",
+  "valueSlug": "88-cm",
+  "valueType": "measurement",
+  "numericValue": 88,
+  "unit": "cm",
+  "productTypes": [
+    "3-Seater Sofas",
+    "Armchairs"
+  ],
+  "familyCount": 1,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/armchairs/voyage/208784_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/voyage",
+      "familyTitle": "Voyage",
+      "familySummary": "A fixed armchair with a solid wood frame, soft foam and feather seat, and removable cotton covers in white or green.",
+      "primaryImageUrl": "/products/armchairs/voyage/208784_1.avif",
+      "schemaCategory": "Armchairs and 3-Seater Sofas",
+      "variantCount": 4
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 88,
+        "max": 88,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "88 cm is a published height used across selected Nest & Living products. Common on 3-Seater Sofa and Armchair."
+}

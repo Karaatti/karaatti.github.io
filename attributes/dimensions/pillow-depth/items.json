@@ -1,0 +1,14 @@
+[
+  {
+    "name": "50-cm",
+    "label": "50 cm",
+    "href": "/attributes/dimensions/pillow-depth/50-cm/",
+    "type": "dir",
+    "description": "50 cm is a published pillow depth used across selected Nest & Living products. Common on Duvet & Pillow Set.",
+    "familyCount": 2,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 50,
+    "unit": "cm"
+  }
+]

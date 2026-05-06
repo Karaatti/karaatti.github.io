@@ -1,0 +1,129 @@
+{
+  "group": "care",
+  "groupLabel": "Care",
+  "attributeKey": "cleaningMethod",
+  "attributeLabel": "Cleaning method",
+  "value": "Water wash",
+  "valueSlug": "water-wash",
+  "valueType": "enum",
+  "numericValue": null,
+  "unit": "",
+  "productTypes": [
+    "3-Seater Sofas",
+    "Armchairs",
+    "Duvet & Pillow Sets",
+    "Duvets",
+    "Pillows",
+    "Rugs"
+  ],
+  "familyCount": 11,
+  "variantCount": 27,
+  "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nest-living-gold",
+      "familyTitle": "Nest & Living Gold",
+      "familySummary": "Warm duvets with a breathable fabric blend and a fuller feel.",
+      "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+      "schemaCategory": "Duvets and Pillows",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/ruutu",
+      "familyTitle": "Ruutu",
+      "familySummary": "A densely woven rug with a matte finish and a calm check pattern in beige or grey. Finished with short fringes for a neat look.",
+      "primaryImageUrl": "/products/rugs/ruutu/ruutu_rug_beige_4.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/voyage",
+      "familyTitle": "Voyage",
+      "familySummary": "A fixed armchair with a solid wood frame, soft foam and feather seat, and removable cotton covers in white or green.",
+      "primaryImageUrl": "/products/armchairs/voyage/208784_1.avif",
+      "schemaCategory": "Armchairs and 3-Seater Sofas",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/moderni",
+      "familyTitle": "Moderni",
+      "familySummary": "Modern rugs with graphic patterns in grey and beige. Soft surface and non-slip backing for practical use.",
+      "primaryImageUrl": "/products/rugs/moderni/202736_1.jpg",
+      "schemaCategory": "Rugs",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/nest-living-silver",
+      "familyTitle": "Nest & Living Silver",
+      "familySummary": "Duvets selected for everyday warmth, breathable fabrics, and practical bedroom use.",
+      "primaryImageUrl": "/products/duvets/nest-living-silver/201093_1.jpg",
+      "schemaCategory": "Duvets and Pillows",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/sirmione",
+      "familyTitle": "Sirmione",
+      "familySummary": "Calm and textured rug in green or beige, made from polyester and cotton. Suitable for living rooms, bedrooms, or dining areas.",
+      "primaryImageUrl": "/products/rugs/sirmione/202747_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/yanam",
+      "familyTitle": "Yanam",
+      "familySummary": "Textured blue rug with a worn look and multicolor nuances. Made of polyester and cotton. Easy to clean and non-slip backing.",
+      "primaryImageUrl": "/products/rugs/yanam/yanam_rug_blue_2.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/desenzano",
+      "familyTitle": "Desenzano",
+      "familySummary": "A modern rug with a graphic pattern and soft muted tones. Made of cotton and polyester, it has a soft surface and delicate fringes.",
+      "primaryImageUrl": "/products/rugs/desenzano/202751_1.jpg",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/garda",
+      "familyTitle": "Garda",
+      "familySummary": "Oriental patterned rug in a cotton and polyester blend. Soft, easy to care for and designed for living and dining spaces.",
+      "primaryImageUrl": "/products/rugs/garda/202743_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nest-living-basic",
+      "familyTitle": "Nest & Living Basic",
+      "familySummary": "Soft and lightweight duvet set for easy-care everyday bedroom use.",
+      "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-basic/201089_1.avif",
+      "schemaCategory": "Duvet & Pillow Sets",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nest-living-bronze",
+      "familyTitle": "Nest & Living Bronze",
+      "familySummary": "Light duvet set with practical everyday comfort.",
+      "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
+      "schemaCategory": "Duvet & Pillow Sets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      ""
+    ],
+    "ranges": [
+      {
+        "unit": "",
+        "min": 0,
+        "max": 0,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "Water wash is a published cleaning method option used across selected Nest & Living products. Common on 3-Seater Sofa, Armchair, Duvet & Pillow Set, Duvet, Pillow and Rug."
+}

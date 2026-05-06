@@ -1,0 +1,38 @@
+[
+  {
+    "name": "1-zone",
+    "label": "1-zone",
+    "href": "/attributes/support/zone-count/1-zone/",
+    "type": "dir",
+    "description": "1-zone is a published zone count used across selected Nest & Living products. Common on Adjustable Bed and Continental Bed.",
+    "familyCount": 1,
+    "variantCount": 7,
+    "valueType": "measurement",
+    "numericValue": 1,
+    "unit": ""
+  },
+  {
+    "name": "5-zone",
+    "label": "5-zone",
+    "href": "/attributes/support/zone-count/5-zone/",
+    "type": "dir",
+    "description": "5-zone is a published zone count used across selected Nest & Living products. Common on Adjustable Bed, Continental Bed, Divan Bed and Mattress.",
+    "familyCount": 2,
+    "variantCount": 28,
+    "valueType": "measurement",
+    "numericValue": 5,
+    "unit": ""
+  },
+  {
+    "name": "7-zone",
+    "label": "7-zone",
+    "href": "/attributes/support/zone-count/7-zone/",
+    "type": "dir",
+    "description": "7-zone is a published zone count used across selected Nest & Living products. Common on Adjustable Bed, Continental Bed, Divan Bed and Mattress.",
+    "familyCount": 1,
+    "variantCount": 47,
+    "valueType": "measurement",
+    "numericValue": 7,
+    "unit": ""
+  }
+]

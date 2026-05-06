@@ -1,0 +1,126 @@
+[
+  {
+    "name": "moon-silver",
+    "href": "/products/toppers/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver topper",
+    "schemaCategory": "Toppers",
+    "variantCount": 8,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/products/toppers/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze topper",
+    "schemaCategory": "Toppers",
+    "variantCount": 7,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "nest-living",
+    "href": "/products/mattress-protectors/nest-living/",
+    "type": "dir",
+    "title": "Nest & Living Mattress Protector",
+    "schemaCategory": "Mattress Protectors",
+    "variantCount": 6,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "nordic",
+    "href": "/products/outdoor-lounge-sets/nordic/",
+    "type": "dir",
+    "title": "Nordic Outdoor Lounge Set",
+    "schemaCategory": "Outdoor Lounge Sets",
+    "variantCount": 4,
+    "displayColors": [
+      "White",
+      "Beige"
+    ]
+  },
+  {
+    "name": "nordic",
+    "href": "/products/outdoor-lounge-seating/nordic/",
+    "type": "dir",
+    "title": "Nordic Outdoor Lounge Seating",
+    "schemaCategory": "Outdoor Lounge Seating",
+    "variantCount": 3,
+    "displayColors": [
+      "White",
+      "Beige"
+    ]
+  },
+  {
+    "name": "hix",
+    "href": "/products/decorative-cushions/hix/",
+    "type": "dir",
+    "title": "Hix Decorative Cushion",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 2,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "merida",
+    "href": "/products/bar-stools/merida/",
+    "type": "dir",
+    "title": "Merida",
+    "schemaCategory": "Bar Stools",
+    "variantCount": 2,
+    "displayColors": [
+      "White",
+      "Beige"
+    ]
+  },
+  {
+    "name": "metz",
+    "href": "/products/dining-tables/metz/",
+    "type": "dir",
+    "title": "Metz",
+    "schemaCategory": "Dining Tables",
+    "variantCount": 2,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "sulo",
+    "href": "/products/three-seater-sofas/sulo/",
+    "type": "dir",
+    "title": "Sulo",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "voyage",
+    "href": "/products/armchairs/voyage/",
+    "type": "dir",
+    "title": "Voyage",
+    "schemaCategory": "Armchairs",
+    "variantCount": 1,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "voyage",
+    "href": "/products/three-seater-sofas/voyage/",
+    "type": "dir",
+    "title": "Voyage",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1,
+    "displayColors": [
+      "White"
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "label": "Latex",
+  "description": "Latex in furniture: Responsive, resilient and comparatively breathable for a foam material.",
+  "intro": "Latex appears across 1 product family and 8 options, especially on Toppers.",
+  "chemistry": [
+    "Latex foam is an elastomeric network rather than a typical polyurethane cushion foam. It compresses and rebounds quickly, giving a buoyant feel instead of the slower sink associated with memory foam.",
+    "Its cellular structure often allows better airflow than denser viscoelastic foams, which is why latex is popular in toppers and mattresses focused on pressure relief without excessive heat build-up."
+  ],
+  "furnitureUse": [
+    "Latex suits sleep products and premium cushioning where resilience, breathability and long-term recovery are priorities. It keeps the body more lifted than memory foam.",
+    "The trade-off is weight and cost. It is also more specialised than generic seat foam, so manufacturers usually reserve it for performance comfort layers rather than for every upholstered part."
+  ],
+  "care": [
+    "Moisture and wear note: Open structure allows airflow, but the material should still stay dry and ventilated.",
+    "Care note: Protect from strong UV, ozone and heat, which accelerate ageing in elastomer foams."
+  ],
+  "terminology": [],
+  "thermal": [
+    "Latex usually sleeps cooler than memory foam because the structure rebounds faster and tends to let more air move through the comfort layer.",
+    "Compared with spring-led builds, latex still keeps more continuous body contact, but it generally avoids the heat-retaining feel associated with dense viscoelastic foam."
+  ],
+  "recycling": [
+    "Finland-first sorting baseline: latex cores are not a household packaging stream. Direct loose latex layers to municipal bulky-furniture or mixed-furniture handling unless your local operator offers a dedicated mattress-material route.",
+    "For complete toppers and mattresses, prioritise reuse first and then use municipal bulky-waste handling if material separation is not supported locally."
+  ],
+  "durability": [
+    "Latex is usually more resilient than memory foam and many standard polyurethane foams, especially in premium topper and mattress comfort layers.",
+    "UV, ozone, heat and poor storage conditions still accelerate ageing. The practical wear pattern is gradual loss of elasticity rather than instant collapse."
+  ],
+  "relatedSpecifications": [
+    "Latex mattress",
+    "Latex topper",
+    "Resilient comfort layer"
+  ],
+  "lifecycleRows": [
+    {
+      "label": "Recycling in Finland",
+      "value": "Use municipal bulky-furniture or mattress handling unless a local operator explicitly accepts separated latex."
+    },
+    {
+      "label": "Expected wear profile",
+      "value": "Generally strong resilience and recovery, with ageing accelerated by UV, ozone and heat."
+    },
+    {
+      "label": "Retail warranty note",
+      "value": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+    }
+  ],
+  "strengths": [
+    "springy resilience",
+    "good airflow",
+    "durable comfort layer"
+  ],
+  "watchouts": [
+    "heavier and costlier than standard foam",
+    "sensitive to UV and ozone",
+    "feel may be too buoyant for users who prefer deep sink-in comfort"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Elastic foam"
+    },
+    {
+      "label": "Composition",
+      "value": "Natural latex, synthetic latex or a blend foamed into an open, springy structure."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Responsive, resilient and comparatively breathable for a foam material."
+    },
+    {
+      "label": "Key strengths",
+      "value": "springy resilience, good airflow and durable comfort layer"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "heavier and costlier than standard foam, sensitive to UV and ozone and feel may be too buoyant for users who prefer deep sink-in comfort"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

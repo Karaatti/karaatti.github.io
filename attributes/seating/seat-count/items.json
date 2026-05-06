@@ -1,0 +1,38 @@
+[
+  {
+    "name": "1-seat",
+    "label": "1 seat",
+    "href": "/attributes/seating/seat-count/1-seat/",
+    "type": "dir",
+    "description": "1 seat is a published seat count used across selected Nest & Living products. Common on Outdoor Dining Chair and Swivel Chair.",
+    "familyCount": 5,
+    "variantCount": 7,
+    "valueType": "measurement",
+    "numericValue": 1,
+    "unit": "seat"
+  },
+  {
+    "name": "3-seat",
+    "label": "3 seat",
+    "href": "/attributes/seating/seat-count/3-seat/",
+    "type": "dir",
+    "description": "3 seat is a published seat count used across selected Nest & Living products. Common on 4-Seater Sofa.",
+    "familyCount": 1,
+    "variantCount": 3,
+    "valueType": "measurement",
+    "numericValue": 3,
+    "unit": "seat"
+  },
+  {
+    "name": "4-seat",
+    "label": "4 seat",
+    "href": "/attributes/seating/seat-count/4-seat/",
+    "type": "dir",
+    "description": "4 seat is a published seat count used across selected Nest & Living products. Common on 4-Seater Sofa.",
+    "familyCount": 1,
+    "variantCount": 3,
+    "valueType": "measurement",
+    "numericValue": 4,
+    "unit": "seat"
+  }
+]

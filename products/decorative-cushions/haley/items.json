@@ -1,0 +1,1482 @@
+[
+  {
+    "sku": "202854",
+    "name": "202854",
+    "title": "Haley Decorative Cushion, Beige, 45 x 45 cm",
+    "variantSummary": "45 x 45 cm / Beige",
+    "shortDescription": "45 x 45 cm decorative cushion in Haley upholstery, beige tone.",
+    "selectionAttributes": {
+      "dimensions": "45 x 45 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Beige",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/haley/202854_1.avif",
+    "imageUrl": "/products/decorative-cushions/haley/202854_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/haley/202854_1.avif",
+      "/products/decorative-cushions/haley/202854_2.avif"
+    ],
+    "href": "/products/decorative-cushions/haley/202854",
+    "type": "file",
+    "filterData": {
+      "searchText": "Haley Decorative Cushion, Beige, 45 x 45 cm 45 x 45 cm decorative cushion in Haley upholstery, beige tone. Decorative Cushions Home Details Haley Home Details Decorative Cushions Haley Beige Dimensions Depth 45 cm cm Dimensions Height 15 cm cm Dimensions Width 45 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.15 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.2 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "haley",
+          "label": "Haley",
+          "href": "/families/haley/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/depth/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/width/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-15-m3",
+          "valueLabel": "0.15 m³",
+          "href": "/attributes/logistics/volume/0-15-m3/",
+          "valueType": "enum",
+          "numericValue": 0.15,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-2-kg",
+          "valueLabel": "9.2 kg",
+          "href": "/attributes/logistics/weight/9-2-kg/",
+          "valueType": "enum",
+          "numericValue": 9.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Haley Decorative Cushion, Beige, 45 x 45 cm",
+      "summary": "45 x 45 cm decorative cushion in Haley upholstery, beige tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Haley"
+    }
+  },
+  {
+    "sku": "202855",
+    "name": "202855",
+    "title": "Haley Decorative Cushion, Brown, 45 x 45 cm",
+    "variantSummary": "45 x 45 cm / Brown",
+    "shortDescription": "45 x 45 cm decorative cushion in Haley upholstery, brown tone.",
+    "selectionAttributes": {
+      "dimensions": "45 x 45 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Brown",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/haley/202855_1.avif",
+    "imageUrl": "/products/decorative-cushions/haley/202855_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/haley/202855_1.avif",
+      "/products/decorative-cushions/haley/202855_2.avif"
+    ],
+    "href": "/products/decorative-cushions/haley/202855",
+    "type": "file",
+    "filterData": {
+      "searchText": "Haley Decorative Cushion, Brown, 45 x 45 cm 45 x 45 cm decorative cushion in Haley upholstery, brown tone. Decorative Cushions Home Details Haley Home Details Decorative Cushions Haley Brown Dimensions Depth 45 cm cm Dimensions Height 15 cm cm Dimensions Width 45 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.15 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.2 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "haley",
+          "label": "Haley",
+          "href": "/families/haley/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/depth/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/width/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-15-m3",
+          "valueLabel": "0.15 m³",
+          "href": "/attributes/logistics/volume/0-15-m3/",
+          "valueType": "enum",
+          "numericValue": 0.15,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-2-kg",
+          "valueLabel": "9.2 kg",
+          "href": "/attributes/logistics/weight/9-2-kg/",
+          "valueType": "enum",
+          "numericValue": 9.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Haley Decorative Cushion, Brown, 45 x 45 cm",
+      "summary": "45 x 45 cm decorative cushion in Haley upholstery, brown tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Haley"
+    }
+  },
+  {
+    "sku": "202856",
+    "name": "202856",
+    "title": "Haley Decorative Cushion, Green, 45 x 45 cm",
+    "variantSummary": "45 x 45 cm / Green",
+    "shortDescription": "45 x 45 cm decorative cushion in Haley upholstery, green tone.",
+    "selectionAttributes": {
+      "dimensions": "45 x 45 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Green",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/haley/202856_1.avif",
+    "imageUrl": "/products/decorative-cushions/haley/202856_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/haley/202856_1.avif",
+      "/products/decorative-cushions/haley/202856_2.avif"
+    ],
+    "href": "/products/decorative-cushions/haley/202856",
+    "type": "file",
+    "filterData": {
+      "searchText": "Haley Decorative Cushion, Green, 45 x 45 cm 45 x 45 cm decorative cushion in Haley upholstery, green tone. Decorative Cushions Home Details Haley Home Details Decorative Cushions Haley Green Dimensions Depth 45 cm cm Dimensions Height 15 cm cm Dimensions Width 45 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.15 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.2 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "haley",
+          "label": "Haley",
+          "href": "/families/haley/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "green",
+          "label": "Green",
+          "href": "/colors/green/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/depth/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/width/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-15-m3",
+          "valueLabel": "0.15 m³",
+          "href": "/attributes/logistics/volume/0-15-m3/",
+          "valueType": "enum",
+          "numericValue": 0.15,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-2-kg",
+          "valueLabel": "9.2 kg",
+          "href": "/attributes/logistics/weight/9-2-kg/",
+          "valueType": "enum",
+          "numericValue": 9.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Haley Decorative Cushion, Green, 45 x 45 cm",
+      "summary": "45 x 45 cm decorative cushion in Haley upholstery, green tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Haley"
+    }
+  },
+  {
+    "sku": "202857",
+    "name": "202857",
+    "title": "Haley Decorative Cushion, Grey, 45 x 45 cm",
+    "variantSummary": "45 x 45 cm / Grey",
+    "shortDescription": "45 x 45 cm decorative cushion in Haley upholstery, grey tone.",
+    "selectionAttributes": {
+      "dimensions": "45 x 45 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Grey",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/haley/202857_1.avif",
+    "imageUrl": "/products/decorative-cushions/haley/202857_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/haley/202857_1.avif",
+      "/products/decorative-cushions/haley/202857_2.avif"
+    ],
+    "href": "/products/decorative-cushions/haley/202857",
+    "type": "file",
+    "filterData": {
+      "searchText": "Haley Decorative Cushion, Grey, 45 x 45 cm 45 x 45 cm decorative cushion in Haley upholstery, grey tone. Decorative Cushions Home Details Haley Home Details Decorative Cushions Haley Grey Dimensions Depth 45 cm cm Dimensions Height 15 cm cm Dimensions Width 45 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.15 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.2 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "haley",
+          "label": "Haley",
+          "href": "/families/haley/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/depth/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/width/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-15-m3",
+          "valueLabel": "0.15 m³",
+          "href": "/attributes/logistics/volume/0-15-m3/",
+          "valueType": "enum",
+          "numericValue": 0.15,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-2-kg",
+          "valueLabel": "9.2 kg",
+          "href": "/attributes/logistics/weight/9-2-kg/",
+          "valueType": "enum",
+          "numericValue": 9.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Haley Decorative Cushion, Grey, 45 x 45 cm",
+      "summary": "45 x 45 cm decorative cushion in Haley upholstery, grey tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Haley"
+    }
+  },
+  {
+    "sku": "202866",
+    "name": "202866",
+    "title": "Haley Decorative Cushion, Beige, 60 x 40 cm",
+    "variantSummary": "60 x 40 cm / Beige",
+    "shortDescription": "60 x 40 cm decorative cushion in Haley upholstery, beige tone.",
+    "selectionAttributes": {
+      "dimensions": "60 x 40 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Beige",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/haley/202866_1.avif",
+    "imageUrl": "/products/decorative-cushions/haley/202866_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/haley/202866_1.avif",
+      "/products/decorative-cushions/haley/202866_2.avif"
+    ],
+    "href": "/products/decorative-cushions/haley/202866",
+    "type": "file",
+    "filterData": {
+      "searchText": "Haley Decorative Cushion, Beige, 60 x 40 cm 60 x 40 cm decorative cushion in Haley upholstery, beige tone. Decorative Cushions Home Details Haley Home Details Decorative Cushions Haley Beige Dimensions Depth 60 cm cm Dimensions Height 15 cm cm Dimensions Width 40 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.22 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.8 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "haley",
+          "label": "Haley",
+          "href": "/families/haley/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/depth/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/dimensions/width/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-22-m3",
+          "valueLabel": "0.22 m³",
+          "href": "/attributes/logistics/volume/0-22-m3/",
+          "valueType": "enum",
+          "numericValue": 0.22,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-8-kg",
+          "valueLabel": "9.8 kg",
+          "href": "/attributes/logistics/weight/9-8-kg/",
+          "valueType": "enum",
+          "numericValue": 9.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Haley Decorative Cushion, Beige, 60 x 40 cm",
+      "summary": "60 x 40 cm decorative cushion in Haley upholstery, beige tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Haley"
+    }
+  },
+  {
+    "sku": "202867",
+    "name": "202867",
+    "title": "Haley Decorative Cushion, Brown, 60 x 40 cm",
+    "variantSummary": "60 x 40 cm / Brown",
+    "shortDescription": "60 x 40 cm decorative cushion in Haley upholstery, brown tone.",
+    "selectionAttributes": {
+      "dimensions": "60 x 40 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Brown",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/haley/202867_1.avif",
+    "imageUrl": "/products/decorative-cushions/haley/202867_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/haley/202867_1.avif",
+      "/products/decorative-cushions/haley/202867_2.avif"
+    ],
+    "href": "/products/decorative-cushions/haley/202867",
+    "type": "file",
+    "filterData": {
+      "searchText": "Haley Decorative Cushion, Brown, 60 x 40 cm 60 x 40 cm decorative cushion in Haley upholstery, brown tone. Decorative Cushions Home Details Haley Home Details Decorative Cushions Haley Brown Dimensions Depth 60 cm cm Dimensions Height 15 cm cm Dimensions Width 40 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.22 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.8 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "haley",
+          "label": "Haley",
+          "href": "/families/haley/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/depth/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/dimensions/width/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-22-m3",
+          "valueLabel": "0.22 m³",
+          "href": "/attributes/logistics/volume/0-22-m3/",
+          "valueType": "enum",
+          "numericValue": 0.22,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-8-kg",
+          "valueLabel": "9.8 kg",
+          "href": "/attributes/logistics/weight/9-8-kg/",
+          "valueType": "enum",
+          "numericValue": 9.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Haley Decorative Cushion, Brown, 60 x 40 cm",
+      "summary": "60 x 40 cm decorative cushion in Haley upholstery, brown tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Haley"
+    }
+  },
+  {
+    "sku": "202868",
+    "name": "202868",
+    "title": "Haley Decorative Cushion, Green, 60 x 40 cm",
+    "variantSummary": "60 x 40 cm / Green",
+    "shortDescription": "60 x 40 cm decorative cushion in Haley upholstery, green tone.",
+    "selectionAttributes": {
+      "dimensions": "60 x 40 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Green",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/haley/202868_1.avif",
+    "imageUrl": "/products/decorative-cushions/haley/202868_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/haley/202868_1.avif",
+      "/products/decorative-cushions/haley/202868_2.avif"
+    ],
+    "href": "/products/decorative-cushions/haley/202868",
+    "type": "file",
+    "filterData": {
+      "searchText": "Haley Decorative Cushion, Green, 60 x 40 cm 60 x 40 cm decorative cushion in Haley upholstery, green tone. Decorative Cushions Home Details Haley Home Details Decorative Cushions Haley Green Dimensions Depth 60 cm cm Dimensions Height 15 cm cm Dimensions Width 40 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.22 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.8 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "haley",
+          "label": "Haley",
+          "href": "/families/haley/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "green",
+          "label": "Green",
+          "href": "/colors/green/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/depth/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/dimensions/width/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-22-m3",
+          "valueLabel": "0.22 m³",
+          "href": "/attributes/logistics/volume/0-22-m3/",
+          "valueType": "enum",
+          "numericValue": 0.22,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-8-kg",
+          "valueLabel": "9.8 kg",
+          "href": "/attributes/logistics/weight/9-8-kg/",
+          "valueType": "enum",
+          "numericValue": 9.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Haley Decorative Cushion, Green, 60 x 40 cm",
+      "summary": "60 x 40 cm decorative cushion in Haley upholstery, green tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Haley"
+    }
+  },
+  {
+    "sku": "202869",
+    "name": "202869",
+    "title": "Haley Decorative Cushion, Grey, 60 x 40 cm",
+    "variantSummary": "60 x 40 cm / Grey",
+    "shortDescription": "60 x 40 cm decorative cushion in Haley upholstery, grey tone.",
+    "selectionAttributes": {
+      "dimensions": "60 x 40 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Grey",
+      "material": ""
+    },
+    "primaryImageUrl": "/products/decorative-cushions/haley/202869_1.avif",
+    "imageUrl": "/products/decorative-cushions/haley/202869_1.avif",
+    "imageUrls": [
+      "/products/decorative-cushions/haley/202869_1.avif",
+      "/products/decorative-cushions/haley/202869_2.avif"
+    ],
+    "href": "/products/decorative-cushions/haley/202869",
+    "type": "file",
+    "filterData": {
+      "searchText": "Haley Decorative Cushion, Grey, 60 x 40 cm 60 x 40 cm decorative cushion in Haley upholstery, grey tone. Decorative Cushions Home Details Haley Home Details Decorative Cushions Haley Grey Dimensions Depth 60 cm cm Dimensions Height 15 cm cm Dimensions Width 40 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.22 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.8 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "decorative-cushions",
+          "label": "Decorative Cushions",
+          "href": "/products/decorative-cushions/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "haley",
+          "label": "Haley",
+          "href": "/families/haley/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/depth/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/dimensions/width/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "12-product",
+          "valueLabel": "12 product",
+          "href": "/attributes/logistics/product-count/12-product/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-22-m3",
+          "valueLabel": "0.22 m³",
+          "href": "/attributes/logistics/volume/0-22-m3/",
+          "valueType": "enum",
+          "numericValue": 0.22,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-8-kg",
+          "valueLabel": "9.8 kg",
+          "href": "/attributes/logistics/weight/9-8-kg/",
+          "valueType": "enum",
+          "numericValue": 9.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Haley Decorative Cushion, Grey, 60 x 40 cm",
+      "summary": "60 x 40 cm decorative cushion in Haley upholstery, grey tone.",
+      "variantCount": 1,
+      "categoryLabel": "Decorative Cushions",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Haley"
+    }
+  }
+]

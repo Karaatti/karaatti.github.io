@@ -1,0 +1,33 @@
+{
+  "group": "mattress-types",
+  "groupLabel": "Mattress types",
+  "slug": "memory-foam-mattress",
+  "label": "Memory foam mattress",
+  "aliases": [],
+  "productTypes": [
+    "Continental Beds",
+    "Divan Beds",
+    "Mattresses"
+  ],
+  "materials": [
+    {
+      "label": "Memory foam",
+      "href": "/materials/memory-foam/"
+    }
+  ],
+  "attributeSummaries": [],
+  "familyCount": 1,
+  "variantCount": 31,
+  "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Divan bed with 7-zone pocket spring system offering firm support and ergonomic comfort. Available in various sizes and neutral tones.",
+      "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+      "schemaCategory": "Continental Beds, Divan Beds and Mattresses",
+      "variantCount": 31
+    }
+  ],
+  "summary": "Memory foam mattress is a shared mattress type used across the Nest & Living range. Common on Continental Bed, Divan Bed and Mattress. Often paired with Memory foam."
+}

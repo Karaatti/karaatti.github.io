@@ -1,0 +1,26 @@
+[
+  {
+    "name": "casa",
+    "href": "/families/casa/",
+    "type": "dir",
+    "title": "Casa",
+    "schemaCategory": "Bed Frames",
+    "variantCount": 1
+  },
+  {
+    "name": "haave",
+    "href": "/families/haave/",
+    "type": "dir",
+    "title": "Haave",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 1
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/families/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Divan Beds",
+    "variantCount": 1
+  }
+]

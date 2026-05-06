@@ -1,0 +1,306 @@
+{
+  "sku": "202834",
+  "displayName": "Aava Chaise Sofa, Grey",
+  "metaTitle": "Aava Chaise Sofa, Grey - NEST & LIVING",
+  "metaDescription": "Grey fabric upholstery with natural oak legs and reversible chaise side.",
+  "ogTitle": "Aava Chaise Sofa, Grey",
+  "ogDescription": "Grey fabric upholstery with natural oak legs and reversible chaise side.",
+  "shortDescription": "Grey fabric upholstery with natural oak legs and reversible chaise side.",
+  "familyDescription": "The Aava chaise sofa combines durable fabric upholstery with natural oak legs for a warm and modern look. Its generous dimensions provide ample space for everyday relaxation. The reversible chaise side allows easy adaptation to different room layouts.",
+  "schemaCategory": "Chaise Sofas",
+  "selectionAttributes": {
+    "dimensions": "283 x 176 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Grey",
+    "material": "Wood veneer, Polyester, Plywood, Wood, Foam"
+  },
+  "attributes": [
+    {
+      "key": "handednessConfiguration",
+      "label": "Handedness configuration",
+      "group": "configuration",
+      "groupLabel": "Configuration",
+      "value": "Self-configurable",
+      "valueSlug": "self-configurable",
+      "rawValue": "Itse",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Ominaisuudet",
+      "sourceLabel": "Vaihdettava kätisyys",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "283 cm",
+      "valueSlug": "283-cm",
+      "rawValue": "283 cm",
+      "valueType": "enum",
+      "numericValue": 283,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "176 cm",
+      "valueSlug": "176-cm",
+      "rawValue": "176 cm",
+      "valueType": "enum",
+      "numericValue": 176,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "78 cm",
+      "valueSlug": "78-cm",
+      "rawValue": "78 cm",
+      "valueType": "enum",
+      "numericValue": 78,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "89 kg",
+      "valueSlug": "89-kg",
+      "rawValue": "89 kg",
+      "valueType": "enum",
+      "numericValue": 89,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "mainSectionDepth",
+      "label": "Main section depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "89 cm",
+      "valueSlug": "89-cm",
+      "rawValue": "89cm",
+      "valueType": "enum",
+      "numericValue": 89,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Syvyys 2",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "30 min",
+      "valueSlug": "30-min",
+      "rawValue": "30 min",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.68 m³",
+      "valueSlug": "0-68-m3",
+      "rawValue": "0,68 m³",
+      "valueType": "enum",
+      "numericValue": 0.68,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "55.1 kg",
+      "valueSlug": "55-1-kg",
+      "rawValue": "55,1 kg",
+      "valueType": "enum",
+      "numericValue": 55.1,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "legMaterial",
+      "label": "Leg material",
+      "group": "frame",
+      "groupLabel": "Frame and base",
+      "value": "Wood",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    },
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Wood veneer, Polyester, Plywood, Wood, Foam",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Grey",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/grey/\">Grey</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Wood veneer, Polyester, Plywood, Wood, Foam",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/wood-veneer/\">Wood veneer</a><a class=\"spec-link-chip\" href=\"/materials/polyester/\">Polyester</a><a class=\"spec-link-chip\" href=\"/materials/plywood/\">Plywood</a><a class=\"spec-link-chip\" href=\"/materials/wood/\">Wood</a><a class=\"spec-link-chip\" href=\"/materials/foam/\">Foam</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "283 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "283 cm",
+          "href": "/attributes/dimensions/width/283-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/283-cm/\">283 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "176 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "176 cm",
+          "href": "/attributes/dimensions/depth/176-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/176-cm/\">176 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "78 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "78 cm",
+          "href": "/attributes/dimensions/height/78-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/78-cm/\">78 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "89 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "89 kg",
+          "href": "/attributes/logistics/weight/89-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/89-kg/\">89 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/chaise-sofas/aava/202834_1.avif",
+  "imageUrls": [
+    "/products/chaise-sofas/aava/202834_1.avif",
+    "/products/chaise-sofas/aava/202834_2.avif",
+    "/products/chaise-sofas/aava/202834_3.avif",
+    "/products/chaise-sofas/aava/202834_4.avif",
+    "/products/chaise-sofas/aava/202834_5.avif",
+    "/products/chaise-sofas/aava/202834_6.avif",
+    "/products/chaise-sofas/aava/202834_7.avif",
+    "/products/chaise-sofas/aava/202834_8.avif",
+    "/products/chaise-sofas/aava/202834_9.avif",
+    "/products/chaise-sofas/aava/202834_10.avif",
+    "/products/chaise-sofas/aava/202834_11.avif",
+    "/products/chaise-sofas/aava/202834_12.avif",
+    "/products/chaise-sofas/aava/202834_13.avif",
+    "/products/chaise-sofas/aava/202834_14.avif",
+    "/products/chaise-sofas/aava/202834_15.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/202834-aava-4-istuttava-divaanisohva-harmaa"
+}

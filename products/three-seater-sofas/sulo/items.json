@@ -1,0 +1,211 @@
+[
+  {
+    "sku": "202841",
+    "name": "202841",
+    "title": "Sulo 3-Seater Sofa",
+    "variantSummary": "230 x 90 cm / White",
+    "shortDescription": "White corduroy upholstery with rounded armrests and low backrest for comfortable seating.",
+    "selectionAttributes": {
+      "dimensions": "230 x 90 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "White",
+      "material": "Fabric, Foam, Feather"
+    },
+    "primaryImageUrl": "/products/three-seater-sofas/sulo/202841_1.avif",
+    "imageUrl": "/products/three-seater-sofas/sulo/202841_1.avif",
+    "imageUrls": [
+      "/products/three-seater-sofas/sulo/202841_1.avif",
+      "/products/three-seater-sofas/sulo/202841_2.jpg",
+      "/products/three-seater-sofas/sulo/202841_3.avif",
+      "/products/three-seater-sofas/sulo/202841_4.avif",
+      "/products/three-seater-sofas/sulo/202841_5.avif",
+      "/products/three-seater-sofas/sulo/202841_6.avif",
+      "/products/three-seater-sofas/sulo/202841_7.avif",
+      "/products/three-seater-sofas/sulo/202841_8.avif",
+      "/products/three-seater-sofas/sulo/202841_9.avif",
+      "/products/three-seater-sofas/sulo/202841_10.avif"
+    ],
+    "href": "/products/three-seater-sofas/sulo/",
+    "type": "file",
+    "filterData": {
+      "searchText": "Sulo 3-Seater Sofa White corduroy upholstery with rounded armrests and low backrest for comfortable seating. 3-Seater Sofas Living room Sulo Living room 3-Seater Sofas Sulo White Fabric Feather Foam Dimensions Depth 90 cm cm Dimensions Height 75 cm cm Dimensions Width 230 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.32 m³ m³ Logistics Weight 50 kg kg Logistics Weight 60 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "three-seater-sofas",
+          "label": "3-Seater Sofas",
+          "href": "/products/three-seater-sofas/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "sulo",
+          "label": "Sulo",
+          "href": "/families/sulo/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "feather",
+          "label": "Feather",
+          "href": "/materials/feather/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "90-cm",
+          "valueLabel": "90 cm",
+          "href": "/attributes/dimensions/depth/90-cm/",
+          "valueType": "enum",
+          "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "75-cm",
+          "valueLabel": "75 cm",
+          "href": "/attributes/dimensions/height/75-cm/",
+          "valueType": "enum",
+          "numericValue": 75,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "230-cm",
+          "valueLabel": "230 cm",
+          "href": "/attributes/dimensions/width/230-cm/",
+          "valueType": "enum",
+          "numericValue": 230,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "1-32-m3",
+          "valueLabel": "1.32 m³",
+          "href": "/attributes/logistics/volume/1-32-m3/",
+          "valueType": "enum",
+          "numericValue": 1.32,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "50-kg",
+          "valueLabel": "50 kg",
+          "href": "/attributes/logistics/weight/50-kg/",
+          "valueType": "enum",
+          "numericValue": 50,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "60-kg",
+          "valueLabel": "60 kg",
+          "href": "/attributes/logistics/weight/60-kg/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Sulo 3-Seater Sofa",
+      "summary": "White corduroy upholstery with rounded armrests and low backrest for comfortable seating.",
+      "variantCount": 1,
+      "categoryLabel": "3-Seater Sofas",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": "Sulo"
+    }
+  }
+]

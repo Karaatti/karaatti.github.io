@@ -1,0 +1,26 @@
+[
+  {
+    "name": "westcoast",
+    "href": "/families/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Chaise Sofas, Corner Sofas and 3-Seater Sofas",
+    "variantCount": 27
+  },
+  {
+    "name": "bow",
+    "href": "/families/bow/",
+    "type": "dir",
+    "title": "Bow",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 3
+  },
+  {
+    "name": "oak",
+    "href": "/families/oak/",
+    "type": "dir",
+    "title": "Oak",
+    "schemaCategory": "Console Tables",
+    "variantCount": 1
+  }
+]

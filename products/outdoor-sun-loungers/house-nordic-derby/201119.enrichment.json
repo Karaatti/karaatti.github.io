@@ -1,0 +1,328 @@
+{
+  "sku": "201119",
+  "displayName": "House Nordic Derby Outdoor Sun Lounger",
+  "metaTitle": "House Nordic Derby Outdoor Sun Lounger - NEST & LIVING",
+  "metaDescription": "Teak frame with light beige polyrattan seat. Adjustable backrest for comfort.",
+  "ogTitle": "House Nordic Derby Outdoor Sun Lounger",
+  "ogDescription": "Teak frame with light beige polyrattan seat. Adjustable backrest for comfort.",
+  "shortDescription": "Teak frame with light beige polyrattan seat. Adjustable backrest for comfort.",
+  "familyDescription": "The House Nordic Derby sun lounger offers a blend of natural teak warmth and airy polyrattan comfort. Its adjustable backrest allows for personalized seating positions. The minimalist design fits well in both modern and classic outdoor settings.",
+  "schemaCategory": "Outdoor Sun Loungers",
+  "selectionAttributes": {
+    "dimensions": "65 x 190 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Beige",
+    "material": "Polyrattan, Teak"
+  },
+  "attributes": [
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "22.5 kg",
+      "valueSlug": "22-5-kg",
+      "rawValue": "22.5 kg",
+      "valueType": "enum",
+      "numericValue": 22.5,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "seatDepth",
+      "label": "Seat depth",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "65 cm",
+      "valueSlug": "65-cm",
+      "rawValue": "65 cm",
+      "valueType": "enum",
+      "numericValue": 65,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Istuinsyvyys",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "seatHeight",
+      "label": "Seat height",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "38 cm",
+      "valueSlug": "38-cm",
+      "rawValue": "38 cm",
+      "valueType": "enum",
+      "numericValue": 38,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Istuinkorkeus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "maximumLoad",
+      "label": "Maximum load",
+      "group": "load",
+      "groupLabel": "Load",
+      "value": "110 kg",
+      "valueSlug": "110-kg",
+      "rawValue": "110 kg",
+      "valueType": "enum",
+      "numericValue": 110,
+      "unit": "kg",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Maksimikuorma",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "seatWidth",
+      "label": "Seat width",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "65 cm",
+      "valueSlug": "65-cm",
+      "rawValue": "65 cm",
+      "valueType": "enum",
+      "numericValue": 65,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Istuinleveys",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.5 m³",
+      "valueSlug": "0-5-m3",
+      "rawValue": "0.5 m³",
+      "valueType": "enum",
+      "numericValue": 0.5,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "27 kg",
+      "valueSlug": "27-kg",
+      "rawValue": "27 kg",
+      "valueType": "enum",
+      "numericValue": 27,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "65 cm",
+      "valueSlug": "65-cm",
+      "rawValue": "65 cm",
+      "valueType": "enum",
+      "numericValue": 65,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "190 cm",
+      "valueSlug": "190-cm",
+      "rawValue": "190 cm",
+      "valueType": "enum",
+      "numericValue": 190,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "38 cm",
+      "valueSlug": "38-cm",
+      "rawValue": "38 cm",
+      "valueType": "enum",
+      "numericValue": 38,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "legMaterial",
+      "label": "Leg material",
+      "group": "frame",
+      "groupLabel": "Frame and base",
+      "value": "Wood",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    },
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Polyrattan, Teak",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Material",
+      "value": "Polyrattan, Teak",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/polyrattan/\">Polyrattan</a><a class=\"spec-link-chip\" href=\"/materials/teak/\">Teak</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "65 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "65 cm",
+          "href": "/attributes/dimensions/width/65-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/65-cm/\">65 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "190 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "190 cm",
+          "href": "/attributes/dimensions/depth/190-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/190-cm/\">190 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "38 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "38 cm",
+          "href": "/attributes/dimensions/height/38-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/38-cm/\">38 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "22.5 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "22.5 kg",
+          "href": "/attributes/logistics/weight/22-5-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/22-5-kg/\">22.5 kg</a></span>"
+    },
+    {
+      "label": "Color",
+      "value": "Beige",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/beige/\">Beige</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+  "imageUrls": [
+    "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+    "/products/outdoor-sun-loungers/house-nordic-derby/201119_2.avif",
+    "/products/outdoor-sun-loungers/house-nordic-derby/201119_3.avif",
+    "/products/outdoor-sun-loungers/house-nordic-derby/201119_4.avif",
+    "/products/outdoor-sun-loungers/house-nordic-derby/201119_5.avif",
+    "/products/outdoor-sun-loungers/house-nordic-derby/201119_6.avif",
+    "/products/outdoor-sun-loungers/house-nordic-derby/201119_7.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/201119-house-nordic-derby-aurinkosanky-tiikkipolyrottinki"
+}

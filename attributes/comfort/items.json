@@ -1,0 +1,27 @@
+[
+  {
+    "name": "firmness",
+    "label": "Firmness",
+    "href": "/attributes/comfort/firmness/",
+    "type": "dir",
+    "entryCount": 2,
+    "variantCount": 78,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        ""
+      ],
+      "ranges": [
+        {
+          "unit": "",
+          "min": 0,
+          "max": 0,
+          "count": 2,
+          "distinctCount": 1
+        }
+      ]
+    }
+  }
+]

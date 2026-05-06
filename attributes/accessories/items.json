@@ -1,0 +1,52 @@
+[
+  {
+    "name": "headboard-included",
+    "label": "Headboard included",
+    "href": "/attributes/accessories/headboard-included/",
+    "type": "dir",
+    "entryCount": 2,
+    "variantCount": 123,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        ""
+      ],
+      "ranges": [
+        {
+          "unit": "",
+          "min": 0,
+          "max": 0,
+          "count": 2,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "topper-included",
+    "label": "Topper included",
+    "href": "/attributes/accessories/topper-included/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 85,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        ""
+      ],
+      "ranges": [
+        {
+          "unit": "",
+          "min": 0,
+          "max": 0,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  }
+]

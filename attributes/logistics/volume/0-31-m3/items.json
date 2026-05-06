@@ -1,0 +1,26 @@
+[
+  {
+    "name": "nordic",
+    "href": "/families/nordic/",
+    "type": "dir",
+    "title": "Nordic",
+    "schemaCategory": "Outdoor Lounge Seating and Outdoor Lounge Sets",
+    "variantCount": 2
+  },
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Mattresses",
+    "variantCount": 1
+  },
+  {
+    "name": "saarni",
+    "href": "/families/saarni/",
+    "type": "dir",
+    "title": "Saarni",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 1
+  }
+]

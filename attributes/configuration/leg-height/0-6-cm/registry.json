@@ -1,0 +1,47 @@
+{
+  "group": "configuration",
+  "groupLabel": "Configuration",
+  "attributeKey": "legHeight",
+  "attributeLabel": "Leg height",
+  "value": "0.6 cm",
+  "valueSlug": "0-6-cm",
+  "valueType": "measurement",
+  "numericValue": 0.6,
+  "unit": "cm",
+  "productTypes": [
+    "3-Seater Sofas",
+    "Chaise Sofas",
+    "Corner Sofas",
+    "Footstools"
+  ],
+  "familyCount": 1,
+  "variantCount": 12,
+  "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+      "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+      "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+      "variantCount": 12
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 0.6,
+        "max": 0.6,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.6 cm is a published leg height used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa, Corner Sofa and Footstool."
+}

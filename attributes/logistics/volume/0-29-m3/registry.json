@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.29 m³",
+  "valueSlug": "0-29-m3",
+  "valueType": "measurement",
+  "numericValue": 0.29,
+  "unit": "m³",
+  "productTypes": [
+    "Coffee Tables"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/island",
+      "familyTitle": "Island",
+      "familySummary": "Stackable two-piece coffee table in brown or beige with a soft asymmetrical shape for flexible living room layouts.",
+      "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
+      "schemaCategory": "Coffee Tables",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.29,
+        "max": 0.29,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.29 m³ is a published volume used across selected Nest & Living products. Common on Coffee Table."
+}

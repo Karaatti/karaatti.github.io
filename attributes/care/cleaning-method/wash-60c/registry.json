@@ -1,0 +1,78 @@
+{
+  "group": "care",
+  "groupLabel": "Care",
+  "attributeKey": "cleaningMethod",
+  "attributeLabel": "Cleaning method",
+  "value": "Wash 60°C",
+  "valueSlug": "wash-60c",
+  "valueType": "enum",
+  "numericValue": null,
+  "unit": "",
+  "productTypes": [
+    "Duvets",
+    "Mattress Protectors",
+    "Pillows"
+  ],
+  "familyCount": 5,
+  "variantCount": 16,
+  "primaryImageUrl": "/products/mattress-protectors/nest-living/nest_living_mattress_protector_white_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nest-living",
+      "familyTitle": "Nest & Living",
+      "familySummary": "Quilted mattress protector with elastic corners to keep it in place. Protects and extends the life of your mattress.",
+      "primaryImageUrl": "/products/mattress-protectors/nest-living/nest_living_mattress_protector_white_1.avif",
+      "schemaCategory": "Mattress Protectors",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/staycool",
+      "familyTitle": "Staycool",
+      "familySummary": "Cooling duvets from the Staycool series.",
+      "primaryImageUrl": "/products/duvets/staycool/214013_1.jpg",
+      "schemaCategory": "Duvets, Mattress Protectors and Pillows",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/staygentle",
+      "familyTitle": "Staygentle",
+      "familySummary": "Tencel mattress protectors from the Staygentle series.",
+      "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
+      "schemaCategory": "Mattress Protectors",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/staycation",
+      "familyTitle": "Staycation",
+      "familySummary": "Bedroom pillows from the Staycation series.",
+      "primaryImageUrl": "/products/pillows/staycation/214016_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/staycomfort",
+      "familyTitle": "Staycomfort",
+      "familySummary": "Everyday pillows from the Staycomfort series.",
+      "primaryImageUrl": "/products/pillows/staycomfort/214015_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      ""
+    ],
+    "ranges": [
+      {
+        "unit": "",
+        "min": 0,
+        "max": 0,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "Wash 60°C is a published cleaning method option used across selected Nest & Living products. Common on Duvet, Mattress Protector and Pillow."
+}

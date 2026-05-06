@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.07 m³",
+  "valueSlug": "0-07-m3",
+  "valueType": "measurement",
+  "numericValue": 0.07,
+  "unit": "m³",
+  "productTypes": [
+    "Dining Chairs"
+  ],
+  "familyCount": 1,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/dining-chairs/nicola/200739_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nicola",
+      "familyTitle": "Nicola",
+      "familySummary": "Dining chair with an oak frame and beige fabric upholstery, designed for comfort and understated style.",
+      "primaryImageUrl": "/products/dining-chairs/nicola/200739_1.avif",
+      "schemaCategory": "Dining Chairs",
+      "variantCount": 3
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.07,
+        "max": 0.07,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.07 m³ is a published volume used across selected Nest & Living products. Common on Dining Chair."
+}

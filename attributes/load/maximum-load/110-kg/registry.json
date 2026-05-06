@@ -1,0 +1,71 @@
+{
+  "group": "load",
+  "groupLabel": "Load",
+  "attributeKey": "maximumLoad",
+  "attributeLabel": "Maximum load",
+  "value": "110 kg",
+  "valueSlug": "110-kg",
+  "valueType": "measurement",
+  "numericValue": 110,
+  "unit": "kg",
+  "productTypes": [
+    "Armchairs",
+    "Bar Stools",
+    "Fixed Armchairs",
+    "Outdoor Sun Loungers"
+  ],
+  "familyCount": 4,
+  "variantCount": 7,
+  "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/eagle",
+      "familyTitle": "Eagle",
+      "familySummary": "A modern armchair with a natural wood frame and soft upholstery, designed for comfort and understated style.",
+      "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
+      "schemaCategory": "Armchairs",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/merida",
+      "familyTitle": "Merida",
+      "familySummary": "Bar stool with natural oak frame and light fabric seat. Scandinavian style suitable for kitchen bars and dining areas.",
+      "primaryImageUrl": "/products/bar-stools/merida/198084_1.avif",
+      "schemaCategory": "Bar Stools",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/dove",
+      "familyTitle": "Dove",
+      "familySummary": "Armchair with a walnut rubberwood frame and beige fabric upholstery. Offers comfortable seating with a high back and soft seat.",
+      "primaryImageUrl": "/products/armchairs/dove/198105_1.avif",
+      "schemaCategory": "Armchairs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/house-nordic-derby",
+      "familyTitle": "House Nordic Derby",
+      "familySummary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+      "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+      "schemaCategory": "Outdoor Sun Loungers",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 110,
+        "max": 110,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "110 kg is a published maximum load used across selected Nest & Living products. Common on Armchair, Bar Stool, Fixed Armchair and Outdoor Sun Lounger."
+}

@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "29.5 kg",
+  "valueSlug": "29-5-kg",
+  "valueType": "measurement",
+  "numericValue": 29.5,
+  "unit": "kg",
+  "productTypes": [
+    "Chaise Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/aava",
+      "familyTitle": "Aava",
+      "familySummary": "Spacious 4-seater chaise sofa with durable fabric upholstery and natural oak legs. Features reversible chaise for flexible layout.",
+      "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+      "schemaCategory": "Chaise Sofas",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 29.5,
+        "max": 29.5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "29.5 kg is a published weight used across selected Nest & Living products. Common on Chaise Sofa."
+}

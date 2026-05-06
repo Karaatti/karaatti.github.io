@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "17.6 kg",
+  "valueSlug": "17-6-kg",
+  "valueType": "measurement",
+  "numericValue": 17.6,
+  "unit": "kg",
+  "productTypes": [
+    "Footstools"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+      "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+      "schemaCategory": "Footstools",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 17.6,
+        "max": 17.6,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "17.6 kg is a published weight used across selected Nest & Living products. Common on Footstool."
+}

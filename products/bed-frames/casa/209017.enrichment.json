@@ -1,0 +1,258 @@
+{
+  "sku": "209017",
+  "displayName": "Casa Bed Frame, Beige",
+  "metaTitle": "Casa Bed Frame, Beige - NEST & LIVING",
+  "metaDescription": "Beige fabric upholstery with padded high headboard, fits 160 x 200 cm mattresses.",
+  "ogTitle": "Casa Bed Frame, Beige",
+  "ogDescription": "Beige fabric upholstery with padded high headboard, fits 160 x 200 cm mattresses.",
+  "shortDescription": "Beige fabric upholstery with padded high headboard, fits 160 x 200 cm mattresses.",
+  "familyDescription": "The Casa bed frame features a padded high headboard for comfortable support when reading or relaxing. Its low-profile frame and beige fabric create a harmonious and warm bedroom atmosphere. Made from durable wood and easy-care breathable fabric.",
+  "schemaCategory": "Bed Frame",
+  "selectionAttributes": {
+    "dimensions": "160 x 200 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Beige",
+    "material": "Fabric, Wood"
+  },
+  "attributes": [
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "184 cm",
+      "valueSlug": "184-cm",
+      "rawValue": "184 cm",
+      "valueType": "enum",
+      "numericValue": 184,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "240 cm",
+      "valueSlug": "240-cm",
+      "rawValue": "240 cm",
+      "valueType": "enum",
+      "numericValue": 240,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "50 kg",
+      "valueSlug": "50-kg",
+      "rawValue": "50 kg",
+      "valueType": "enum",
+      "numericValue": 50,
+      "unit": "kg",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Weight",
+      "sourceType": "specs"
+    },
+    {
+      "key": "innerWidth",
+      "label": "Inner width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "160 cm",
+      "valueSlug": "160-cm",
+      "rawValue": "160 cm",
+      "valueType": "enum",
+      "numericValue": 160,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Leveys 2",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "innerDepth",
+      "label": "Inner depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "200 cm",
+      "valueSlug": "200-cm",
+      "rawValue": "200cm",
+      "valueType": "enum",
+      "numericValue": 200,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Syvyys 2",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "60 min",
+      "valueSlug": "60-min",
+      "rawValue": "60 min",
+      "valueType": "enum",
+      "numericValue": 60,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.64 m³",
+      "valueSlug": "0-64-m3",
+      "rawValue": "0.64 m³",
+      "valueType": "enum",
+      "numericValue": 0.64,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "30 kg",
+      "valueSlug": "30-kg",
+      "rawValue": "30 kg",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Fabric, Wood",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Beige",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/beige/\">Beige</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Fabric, Wood",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/fabric/\">Fabric</a><a class=\"spec-link-chip\" href=\"/materials/wood/\">Wood</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "184 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "184 cm",
+          "href": "/attributes/dimensions/width/184-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/184-cm/\">184 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "240 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "240 cm",
+          "href": "/attributes/dimensions/depth/240-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/240-cm/\">240 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "50 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "50 kg",
+          "href": "/attributes/logistics/weight/50-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/50-kg/\">50 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/bed-frames/casa/209017_1.avif",
+  "retailerUrl": "https://www.masku.com/tuote/209017",
+  "imageUrls": [
+    "/products/bed-frames/casa/209017_1.avif",
+    "/products/bed-frames/casa/209017_2.avif",
+    "/products/bed-frames/casa/209017_3.avif",
+    "/products/bed-frames/casa/209017_4.avif",
+    "/products/bed-frames/casa/209017_5.avif"
+  ]
+}

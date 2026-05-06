@@ -1,0 +1,143 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.06 m³",
+  "valueSlug": "0-06-m3",
+  "valueType": "measurement",
+  "numericValue": 0.06,
+  "unit": "m³",
+  "productTypes": [
+    "Bar Stools",
+    "Continental Beds",
+    "Outdoor Dining Tables",
+    "Rugs"
+  ],
+  "familyCount": 13,
+  "variantCount": 15,
+  "primaryImageUrl": "/products/rugs/ruutu/ruutu_rug_beige_4.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/ruutu",
+      "familyTitle": "Ruutu",
+      "familySummary": "A densely woven rug with a matte finish and a calm check pattern in beige or grey. Finished with short fringes for a neat look.",
+      "primaryImageUrl": "/products/rugs/ruutu/ruutu_rug_beige_4.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/sirmione",
+      "familyTitle": "Sirmione",
+      "familySummary": "Calm and textured rug in green or beige, made from polyester and cotton. Suitable for living rooms, bedrooms, or dining areas.",
+      "primaryImageUrl": "/products/rugs/sirmione/202747_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/bilbao",
+      "familyTitle": "Bilbao",
+      "familySummary": "Durable polypropylene rug with vintage-style grey, pink, and beige patterns. Suitable for living and dining rooms, easy to maintain.",
+      "primaryImageUrl": "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_2.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/desenzano",
+      "familyTitle": "Desenzano",
+      "familySummary": "A modern rug with a graphic pattern and soft muted tones. Made of cotton and polyester, it has a soft surface and delicate fringes.",
+      "primaryImageUrl": "/products/rugs/desenzano/202751_1.jpg",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/dozza",
+      "familyTitle": "Dozza",
+      "familySummary": "Dozza is a modern grey polypropylene rug featuring a timeless oriental-inspired pattern. Its muted tones and low pile add warmth and style to living rooms, bedrooms, or hallways while offering practical durability.",
+      "primaryImageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/garda",
+      "familyTitle": "Garda",
+      "familySummary": "Oriental patterned rug in a cotton and polyester blend. Soft, easy to care for and designed for living and dining spaces.",
+      "primaryImageUrl": "/products/rugs/garda/202743_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/lucca",
+      "familyTitle": "Lucca",
+      "familySummary": "A smooth-surfaced oriental-style rug that offers a soft and pleasant feel underfoot while maintaining durability. Its carefully chosen plain or subtly patterned elements create a calm and stylish atmosphere suitable for various interiors.",
+      "primaryImageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/merida",
+      "familyTitle": "Merida",
+      "familySummary": "Bar stool with natural oak frame and light fabric seat. Scandinavian style suitable for kitchen bars and dining areas.",
+      "primaryImageUrl": "/products/bar-stools/merida/198084_1.avif",
+      "schemaCategory": "Bar Stools",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moderni",
+      "familyTitle": "Moderni",
+      "familySummary": "Modern rugs with graphic patterns in grey and beige. Soft surface and non-slip backing for practical use.",
+      "primaryImageUrl": "/products/rugs/moderni/moderni_rug_beige_2.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Continental bed with 7-zone pocket spring system providing ergonomic support. Available in beige or grey upholstery with a choice of sizes.",
+      "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/saarni",
+      "familyTitle": "Saarni",
+      "familySummary": "Outdoor dining table with aluminium frame and nonwood surface in a light Beige tone. Practical and easy to maintain.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206640_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/sevilla",
+      "familyTitle": "Sevilla",
+      "familySummary": "Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
+      "primaryImageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/yanam",
+      "familyTitle": "Yanam",
+      "familySummary": "Textured blue rug with a worn look and multicolor nuances. Made of polyester and cotton. Easy to clean and non-slip backing.",
+      "primaryImageUrl": "/products/rugs/yanam/yanam_rug_blue_2.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.06,
+        "max": 0.06,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.06 m³ is a published volume used across selected Nest & Living products. Common on Bar Stool, Continental Bed, Outdoor Dining Table and Rug."
+}

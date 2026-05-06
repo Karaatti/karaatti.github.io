@@ -1,0 +1,81 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "27 kg",
+  "valueSlug": "27-kg",
+  "valueType": "measurement",
+  "numericValue": 27,
+  "unit": "kg",
+  "productTypes": [
+    "Coffee Tables",
+    "Continental Beds",
+    "Corner Sofas",
+    "Divan Beds",
+    "Mattresses",
+    "Outdoor Sun Loungers"
+  ],
+  "familyCount": 5,
+  "variantCount": 19,
+  "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Divan bed with 7-zone pocket spring system offering firm support and ergonomic comfort. Available in various sizes and neutral tones.",
+      "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+      "schemaCategory": "Continental Beds, Divan Beds and Mattresses",
+      "variantCount": 11
+    },
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+      "primaryImageUrl": "/products/corner-sofas/westcoast/209126_1.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/island",
+      "familyTitle": "Island",
+      "familySummary": "Stackable two-piece coffee table in brown or beige with a soft asymmetrical shape for flexible living room layouts.",
+      "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
+      "schemaCategory": "Coffee Tables",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "A practical and comfortable continental bed featuring 5-zone pocket springs for individual support. Available in grey or beige with high wooden legs for ease of cleaning.",
+      "primaryImageUrl": "/products/continental-beds/moon-silver/moon_silver_continental_bed_grey_1.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/house-nordic-derby",
+      "familyTitle": "House Nordic Derby",
+      "familySummary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+      "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+      "schemaCategory": "Outdoor Sun Loungers",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 27,
+        "max": 27,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "27 kg is a published weight used across selected Nest & Living products. Common on Coffee Table, Continental Bed, Corner Sofa, Divan Bed, Mattress and Outdoor Sun Lounger."
+}

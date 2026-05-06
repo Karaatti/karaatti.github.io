@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "53 cm",
+  "valueSlug": "53-cm",
+  "valueType": "measurement",
+  "numericValue": 53,
+  "unit": "cm",
+  "productTypes": [
+    "Bar Stools"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/bar-stools/merida/198085_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/merida",
+      "familyTitle": "Merida",
+      "familySummary": "Bar stool with natural oak frame and light fabric seat. Scandinavian style suitable for kitchen bars and dining areas.",
+      "primaryImageUrl": "/products/bar-stools/merida/198085_1.avif",
+      "schemaCategory": "Bar Stools",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 53,
+        "max": 53,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "53 cm is a published width used across selected Nest & Living products. Common on Bar Stool."
+}

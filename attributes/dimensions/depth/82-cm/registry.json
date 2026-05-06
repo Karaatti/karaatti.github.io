@@ -1,0 +1,45 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "82 cm",
+  "valueSlug": "82-cm",
+  "valueType": "measurement",
+  "numericValue": 82,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Lounge Seating",
+    "Outdoor Storage"
+  ],
+  "familyCount": 1,
+  "variantCount": 5,
+  "primaryImageUrl": "/products/outdoor-storage/nordic/206771_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Outdoor storage boxes from the Nordic collection with aluminium frames and weather-ready fabric-lined lids, available in two sizes and beige or black finishes.",
+      "primaryImageUrl": "/products/outdoor-storage/nordic/206771_1.avif",
+      "schemaCategory": "Outdoor Lounge Seating and Outdoor Storage",
+      "variantCount": 5
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 82,
+        "max": 82,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "82 cm is a published depth used across selected Nest & Living products. Common on Outdoor Lounge Seating and Outdoor Storage."
+}

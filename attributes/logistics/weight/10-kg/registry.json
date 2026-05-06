@@ -1,0 +1,64 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "10 kg",
+  "valueSlug": "10-kg",
+  "valueType": "measurement",
+  "numericValue": 10,
+  "unit": "kg",
+  "productTypes": [
+    "Bar Stools",
+    "Headboards",
+    "Mattresses",
+    "Outdoor Lounge Seating",
+    "Toppers"
+  ],
+  "familyCount": 3,
+  "variantCount": 9,
+  "primaryImageUrl": "/products/toppers/moon-gold/197744_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Grey latex mattress topper offers good support and breathability for a single bed. Suitable for improving sleep quality in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-gold/197744_1.avif",
+      "schemaCategory": "Headboards, Mattresses and Toppers",
+      "variantCount": 7
+    },
+    {
+      "familyRelativeDir": "families/merida",
+      "familyTitle": "Merida",
+      "familySummary": "Bar stool with natural oak frame and light fabric seat. Scandinavian style suitable for kitchen bars and dining areas.",
+      "primaryImageUrl": "/products/bar-stools/merida/198084_1.avif",
+      "schemaCategory": "Bar Stools",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Modular outdoor lounge seating from the Nordic collection, including corner sections, middle sections, ottomans, and larger sofa configurations in white aluminium and beige fabric.",
+      "primaryImageUrl": "/products/outdoor-lounge-seating/nordic/198246_1.avif",
+      "schemaCategory": "Outdoor Lounge Seating",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 10,
+        "max": 10,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "10 kg is a published weight used across selected Nest & Living products. Common on Bar Stool, Headboard, Mattress, Outdoor Lounge Seating and Topper."
+}

@@ -1,0 +1,305 @@
+{
+  "sku": "198247",
+  "displayName": "Nordic Outdoor Lounge Seating",
+  "metaTitle": "Nordic Outdoor Lounge Seating - NEST & LIVING",
+  "metaDescription": "Middle section with a white aluminium frame and beige outdoor fabric upholstery.",
+  "ogTitle": "Nordic Outdoor Lounge Seating",
+  "ogDescription": "Middle section with a white aluminium frame and beige outdoor fabric upholstery.",
+  "shortDescription": "Middle section with a white aluminium frame and beige outdoor fabric upholstery.",
+  "familyDescription": "Modular outdoor lounge seating from the Nordic collection, including corner sections, middle sections, ottomans, and larger sofa configurations in white aluminium and beige fabric.",
+  "schemaCategory": "Outdoor Lounge Seating",
+  "selectionAttributes": {
+    "dimensions": "82 x 82 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "White, Beige",
+    "material": "Fabric, Aluminium"
+  },
+  "attributes": [
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "8.5 kg",
+      "valueSlug": "8-5-kg",
+      "rawValue": "8.5 kg",
+      "valueType": "enum",
+      "numericValue": 8.5,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.31 m³",
+      "valueSlug": "0-31-m3",
+      "rawValue": "0.31 m³",
+      "valueType": "enum",
+      "numericValue": 0.31,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "12 kg",
+      "valueSlug": "12-kg",
+      "rawValue": "12 kg",
+      "valueType": "enum",
+      "numericValue": 12,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "82 cm",
+      "valueSlug": "82-cm",
+      "rawValue": "82 cm",
+      "valueType": "enum",
+      "numericValue": 82,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "82 cm",
+      "valueSlug": "82-cm",
+      "rawValue": "82 cm",
+      "valueType": "enum",
+      "numericValue": 82,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "61 cm",
+      "valueSlug": "61-cm",
+      "rawValue": "61 cm",
+      "valueType": "enum",
+      "numericValue": 61,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Fabric, Aluminium",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Colors",
+      "value": "White, Beige",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/white/\">White</a><a class=\"spec-link-chip\" href=\"/colors/beige/\">Beige</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Fabric, Aluminium",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/fabric/\">Fabric</a><a class=\"spec-link-chip\" href=\"/materials/aluminium/\">Aluminium</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "82 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "82 cm",
+          "href": "/attributes/dimensions/width/82-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/82-cm/\">82 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "82 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "82 cm",
+          "href": "/attributes/dimensions/depth/82-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/82-cm/\">82 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "61 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "61 cm",
+          "href": "/attributes/dimensions/height/61-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/61-cm/\">61 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "8.5 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "8.5 kg",
+          "href": "/attributes/logistics/weight/8-5-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/8-5-kg/\">8.5 kg</a></span>"
+    },
+    {
+      "label": "Quality guarantee",
+      "value": "1000 days",
+      "key": "quality-guarantee",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/warranty/quality-guarantee/1000-days/\">1000 days</a></span>"
+    },
+    {
+      "label": "Package count",
+      "value": "1 package",
+      "key": "package-count",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/package-count/1-package/\">1 package</a></span>"
+    },
+    {
+      "label": "Product count",
+      "value": "1 product",
+      "key": "product-count",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/product-count/1-product/\">1 product</a></span>"
+    },
+    {
+      "label": "Volume",
+      "value": "0.31 m³",
+      "key": "volume",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "0.31 m³",
+          "href": "/attributes/logistics/volume/0-31-m3/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/volume/0-31-m3/\">0.31 m³</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "8.5 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "8.5 kg",
+          "href": "/attributes/logistics/weight/8-5-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/8-5-kg/\">8.5 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/outdoor-lounge-seating/nordic/198247_1.avif",
+  "imageUrls": [
+    "/products/outdoor-lounge-seating/nordic/198247_1.avif",
+    "/products/outdoor-lounge-seating/nordic/198247_2.avif",
+    "/products/outdoor-lounge-seating/nordic/198247_3.avif",
+    "/products/outdoor-lounge-seating/nordic/198247_4.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/198247-nordic-sohvan-valiosa-2026"
+}

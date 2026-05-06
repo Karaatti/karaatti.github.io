@@ -1,0 +1,26 @@
+[
+  {
+    "name": "voyage",
+    "href": "/families/voyage/",
+    "type": "dir",
+    "title": "Voyage",
+    "schemaCategory": "Armchairs",
+    "variantCount": 2
+  },
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 1
+  },
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 1
+  }
+]

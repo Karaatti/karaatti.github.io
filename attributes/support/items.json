@@ -1,0 +1,27 @@
+[
+  {
+    "name": "zone-count",
+    "label": "Zone count",
+    "href": "/attributes/support/zone-count/",
+    "type": "dir",
+    "entryCount": 3,
+    "variantCount": 82,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 3,
+      "unitCount": 1,
+      "units": [
+        ""
+      ],
+      "ranges": [
+        {
+          "unit": "",
+          "min": 1,
+          "max": 7,
+          "count": 3,
+          "distinctCount": 3
+        }
+      ]
+    }
+  }
+]

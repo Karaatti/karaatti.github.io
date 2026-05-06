@@ -1,0 +1,277 @@
+{
+  "sku": "195643",
+  "displayName": "Messina Outdoor Dining Table, Brown, Beige",
+  "metaTitle": "Messina Outdoor Dining Table, Brown, Beige - NEST & LIVING",
+  "metaDescription": "220 x 100 cm, Brown, Beige, Aluminium, Silicate. Practical and elegant outdoor dining table with a natural toned top and aluminium frame.",
+  "ogTitle": "Messina Outdoor Dining Table, Brown, Beige",
+  "ogDescription": "220 x 100 cm, Brown, Beige, Aluminium, Silicate. Practical and elegant outdoor dining table with a natural toned top and aluminium frame.",
+  "shortDescription": "220 x 100 cm, Brown, Beige, Aluminium, Silicate. Practical and elegant outdoor dining table with a natural toned top and aluminium frame.",
+  "familyDescription": "The Messina dining table 220x100 cm invites relaxed outdoor moments with its natural toned top and sculpted legs. Its modern Scandinavian design fits well with garden and terrace furniture. The table offers ample space and durability for everyday use. The combination of EasyWood and aluminium ensures easy care and long-lasting performance.",
+  "schemaCategory": "Outdoor Dining Tables",
+  "selectionAttributes": {
+    "dimensions": "220 x 100 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Brown, Beige",
+    "material": "Aluminium, Silicate"
+  },
+  "attributes": [
+    {
+      "key": "maximumLoad",
+      "label": "Maximum load",
+      "group": "load",
+      "groupLabel": "Load",
+      "value": "50 kg",
+      "valueSlug": "50-kg",
+      "rawValue": "50 kg",
+      "valueType": "enum",
+      "numericValue": 50,
+      "unit": "kg",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Maksimikuorma",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "220 cm",
+      "valueSlug": "220-cm",
+      "rawValue": "220 cm",
+      "valueType": "enum",
+      "numericValue": 220,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "100 cm",
+      "valueSlug": "100-cm",
+      "rawValue": "100 cm",
+      "valueType": "enum",
+      "numericValue": 100,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "74 cm",
+      "valueSlug": "74-cm",
+      "rawValue": "74 cm",
+      "valueType": "enum",
+      "numericValue": 74,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "43 kg",
+      "valueSlug": "43-kg",
+      "rawValue": "43 kg",
+      "valueType": "enum",
+      "numericValue": 43,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "30 min",
+      "valueSlug": "30-min",
+      "rawValue": "30 min",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.19 m³",
+      "valueSlug": "0-19-m3",
+      "rawValue": "0,19 m³",
+      "valueType": "enum",
+      "numericValue": 0.19,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "42 kg",
+      "valueSlug": "42-kg",
+      "rawValue": "42 kg",
+      "valueType": "enum",
+      "numericValue": 42,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Aluminium, Silicate",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Brown, Beige",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/brown/\">Brown</a><a class=\"spec-link-chip\" href=\"/colors/beige/\">Beige</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Aluminium, Silicate",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/aluminium/\">Aluminium</a><a class=\"spec-link-chip\" href=\"/materials/silicate/\">Silicate</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "220 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "220 cm",
+          "href": "/attributes/dimensions/width/220-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/220-cm/\">220 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "100 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "100 cm",
+          "href": "/attributes/dimensions/depth/100-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/100-cm/\">100 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "74 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "74 cm",
+          "href": "/attributes/dimensions/height/74-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/74-cm/\">74 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "43 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "43 kg",
+          "href": "/attributes/logistics/weight/43-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/43-kg/\">43 kg</a></span>"
+    },
+    {
+      "label": "Colors",
+      "value": "Brown, Beige",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/brown/\">Brown</a><a class=\"spec-link-chip\" href=\"/colors/beige/\">Beige</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/outdoor-dining-tables/messina/195643_1.avif",
+  "imageUrls": [
+    "/products/outdoor-dining-tables/messina/195643_1.avif",
+    "/products/outdoor-dining-tables/messina/195643_2.avif",
+    "/products/outdoor-dining-tables/messina/195643_3.avif",
+    "/products/outdoor-dining-tables/messina/195643_4.avif",
+    "/products/outdoor-dining-tables/messina/195643_5.avif",
+    "/products/outdoor-dining-tables/messina/195643_6.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/195643-messina-ruokapoyta-220x100-natural"
+}

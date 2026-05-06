@@ -1,0 +1,42 @@
+[
+  {
+    "name": "moon-gold",
+    "href": "/products/adjustable-beds/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Adjustable Beds and Continental Beds",
+    "variantCount": 31
+  },
+  {
+    "name": "heaven",
+    "href": "/products/four-seater-sofas/heaven/",
+    "type": "dir",
+    "title": "Heaven",
+    "schemaCategory": "4-Seater Sofas",
+    "variantCount": 6
+  },
+  {
+    "name": "bow",
+    "href": "/products/dining-chairs/bow/",
+    "type": "dir",
+    "title": "Bow",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 3
+  },
+  {
+    "name": "mystery",
+    "href": "/products/shelves/mystery/",
+    "type": "dir",
+    "title": "Mystery",
+    "schemaCategory": "Shelves",
+    "variantCount": 2
+  },
+  {
+    "name": "bay",
+    "href": "/products/swivel-chairs/bay/",
+    "type": "dir",
+    "title": "Bay",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1
+  }
+]

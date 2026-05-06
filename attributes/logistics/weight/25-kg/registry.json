@@ -1,0 +1,73 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "25 kg",
+  "valueSlug": "25-kg",
+  "valueType": "measurement",
+  "numericValue": 25,
+  "unit": "kg",
+  "productTypes": [
+    "Continental Beds",
+    "Dining Tables",
+    "Divan Beds",
+    "Headboards",
+    "Mattresses",
+    "Outdoor Lounge Sets"
+  ],
+  "familyCount": 4,
+  "variantCount": 19,
+  "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Divan bed with 7-zone pocket spring system offering firm support and ergonomic comfort. Available in various sizes and neutral tones.",
+      "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_2.avif",
+      "schemaCategory": "Continental Beds, Divan Beds, Headboards and Mattresses",
+      "variantCount": 14
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Available sizes: 80 x 200 cm, 90 x 200 cm, 120 x 200 cm and 140 x 200 cm. Light grey Primo 84 upholstery, 5-zone pocket spring support and smoked ash cone legs. 4 active variants available.",
+      "primaryImageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_1.avif",
+      "schemaCategory": "Continental Beds and Divan Beds",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/haven",
+      "familyTitle": "Haven",
+      "familySummary": "Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies.",
+      "primaryImageUrl": "/products/outdoor-lounge-sets/haven/197627_1.avif",
+      "schemaCategory": "Outdoor Lounge Sets",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/islet",
+      "familyTitle": "Islet",
+      "familySummary": "Islet round dining table, 120 cm diameter, walnut finish. Combines modern design with a natural wood look. Durable and easy to care for, fitting both small and larger dining areas.",
+      "primaryImageUrl": "/products/dining-tables/islet/198066_1.avif",
+      "schemaCategory": "Dining Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 25,
+        "max": 25,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "25 kg is a published weight used across selected Nest & Living products. Common on Continental Bed, Dining Table, Divan Bed, Headboard, Mattress and Outdoor Lounge Set."
+}

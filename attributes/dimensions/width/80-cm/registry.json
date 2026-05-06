@@ -1,0 +1,116 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "80 cm",
+  "valueSlug": "80-cm",
+  "valueType": "measurement",
+  "numericValue": 80,
+  "unit": "cm",
+  "productTypes": [
+    "Adjustable Beds",
+    "Coffee Tables",
+    "Divan Bed",
+    "Divan Beds",
+    "Mattress Protectors",
+    "Mattresses",
+    "Pillows",
+    "Rugs",
+    "Toppers"
+  ],
+  "familyCount": 9,
+  "variantCount": 28,
+  "primaryImageUrl": "/products/toppers/moon-gold/197741_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Grey latex mattress topper offers good support and breathability for a single bed. Suitable for improving sleep quality in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-gold/197741_1.avif",
+      "schemaCategory": "Adjustable Beds, Divan Beds, Mattresses and Toppers",
+      "variantCount": 15
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+      "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
+      "schemaCategory": "Adjustable Beds, Divan Beds, Mattresses and Toppers",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Moon Bronze Basic is a lightweight, breathable mattress topper that adds gentle cushioning and supports a neutral sleeping posture. Its white tone with subtle leaf patterns fits well in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+      "schemaCategory": "Adjustable Beds, Divan Beds and Toppers",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/dozza",
+      "familyTitle": "Dozza",
+      "familySummary": "Dozza is a modern grey polypropylene rug featuring a timeless oriental-inspired pattern. Its muted tones and low pile add warmth and style to living rooms, bedrooms, or hallways while offering practical durability.",
+      "primaryImageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/islet",
+      "familyTitle": "Islet",
+      "familySummary": "Islet round coffee table in walnut brown with an 80 cm diameter. Features a durable MDF frame and a stable conical leg for everyday use.",
+      "primaryImageUrl": "/products/coffee-tables/islet/198067_1.avif",
+      "schemaCategory": "Coffee Tables",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/lucca",
+      "familyTitle": "Lucca",
+      "familySummary": "A smooth-surfaced oriental-style rug that offers a soft and pleasant feel underfoot while maintaining durability. Its carefully chosen plain or subtly patterned elements create a calm and stylish atmosphere suitable for various interiors.",
+      "primaryImageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nest-living",
+      "familyTitle": "Nest & Living",
+      "familySummary": "Quilted mattress protector with elastic corners to keep it in place. Protects and extends the life of your mattress.",
+      "primaryImageUrl": "/products/mattress-protectors/nest-living/nest_living_mattress_protector_white_1.avif",
+      "schemaCategory": "Mattress Protectors",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/sevilla",
+      "familyTitle": "Sevilla",
+      "familySummary": "Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
+      "primaryImageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/staycation",
+      "familyTitle": "Staycation",
+      "familySummary": "Bedroom pillows from the Staycation series.",
+      "primaryImageUrl": "/products/pillows/staycation/214016_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 80,
+        "max": 80,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "80 cm is a published width used across selected Nest & Living products. Common on Adjustable Bed, Coffee Table, Divan Bed, Mattress Protector, Mattress and Pillow and 2 more."
+}

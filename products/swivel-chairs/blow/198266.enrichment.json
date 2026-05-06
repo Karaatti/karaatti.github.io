@@ -1,0 +1,360 @@
+{
+  "sku": "198266",
+  "displayName": "Blow Swivel Chair, Grey",
+  "metaTitle": "Blow Swivel Chair, Grey - NEST & LIVING",
+  "metaDescription": "Grey fabric with black steel legs.",
+  "ogTitle": "Blow Swivel Chair, Grey",
+  "ogDescription": "Grey fabric with black steel legs.",
+  "shortDescription": "Grey fabric with black steel legs.",
+  "familyDescription": "The Blow swivel chair combines comfort with a modern design. It features a high backrest and wide armrests for support and relaxation. The swivel steel legs add practicality and a light appearance.",
+  "schemaCategory": "Swivel Chairs",
+  "selectionAttributes": {
+    "dimensions": "74 x 81 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Grey",
+    "material": "Steel, Polyester, Foam"
+  },
+  "attributes": [
+    {
+      "key": "seatHeight",
+      "label": "Seat height",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "44 cm",
+      "valueSlug": "44-cm",
+      "rawValue": "44 cm",
+      "valueType": "enum",
+      "numericValue": 44,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Istuinkorkeus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "seatCount",
+      "label": "Seat count",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "1 seat",
+      "valueSlug": "1-seat",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "seat",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Istuinmäärä",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "cleaningMethod",
+      "label": "Cleaning method",
+      "group": "care",
+      "groupLabel": "Care",
+      "value": "Dry clean",
+      "valueSlug": "dry-clean",
+      "rawValue": "kemiallinen pesu",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Ominaisuudet",
+      "sourceLabel": "Puhdistustapa",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "74 cm",
+      "valueSlug": "74-cm",
+      "rawValue": "74 cm",
+      "valueType": "enum",
+      "numericValue": 74,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "81 cm",
+      "valueSlug": "81-cm",
+      "rawValue": "81 cm",
+      "valueType": "enum",
+      "numericValue": 81,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "102 cm",
+      "valueSlug": "102-cm",
+      "rawValue": "102 cm",
+      "valueType": "enum",
+      "numericValue": 102,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "13.5 kg",
+      "valueSlug": "13-5-kg",
+      "rawValue": "13.5 kg",
+      "valueType": "enum",
+      "numericValue": 13.5,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "priceGuarantee",
+      "label": "Price guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "30 days",
+      "valueSlug": "30-days",
+      "rawValue": "30 päivää",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Hintatakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "30 min",
+      "valueSlug": "30-min",
+      "rawValue": "30 min",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.35 m³",
+      "valueSlug": "0-35-m3",
+      "rawValue": "0,35 m³",
+      "valueType": "enum",
+      "numericValue": 0.35,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "14 kg",
+      "valueSlug": "14-kg",
+      "rawValue": "14 kg",
+      "valueType": "enum",
+      "numericValue": 14,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Steel, Polyester, Foam",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    },
+    {
+      "key": "foamDensity",
+      "label": "Foam density",
+      "group": "padding",
+      "groupLabel": "Padding",
+      "value": "35 kg/m³",
+      "numericValue": 35,
+      "unit": "kg/m³",
+      "allowSpecificationAttributeLinking": true
+    },
+    {
+      "key": "legMaterial",
+      "label": "Leg material",
+      "group": "frame",
+      "groupLabel": "Frame and base",
+      "value": "Metal",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    },
+    {
+      "key": "lightfastness",
+      "label": "Lightfastness",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "4",
+      "numericValue": 4,
+      "unit": "",
+      "allowSpecificationAttributeLinking": true
+    },
+    {
+      "key": "pilling",
+      "label": "Pilling",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "4",
+      "numericValue": 4,
+      "unit": "",
+      "allowSpecificationAttributeLinking": true
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Grey",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/grey/\">Grey</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Steel, Polyester, Foam",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/steel/\">Steel</a><a class=\"spec-link-chip\" href=\"/materials/polyester/\">Polyester</a><a class=\"spec-link-chip\" href=\"/materials/foam/\">Foam</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "74 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "74 cm",
+          "href": "/attributes/dimensions/width/74-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/74-cm/\">74 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "81 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "81 cm",
+          "href": "/attributes/dimensions/depth/81-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/81-cm/\">81 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "102 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "102 cm",
+          "href": "/attributes/dimensions/height/102-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/102-cm/\">102 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "13.5 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "13.5 kg",
+          "href": "/attributes/logistics/weight/13-5-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/13-5-kg/\">13.5 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/swivel-chairs/blow/198266_1.avif",
+  "imageUrls": [
+    "/products/swivel-chairs/blow/198266_1.avif",
+    "/products/swivel-chairs/blow/198266_2.avif",
+    "/products/swivel-chairs/blow/198266_3.avif",
+    "/products/swivel-chairs/blow/198266_4.avif",
+    "/products/swivel-chairs/blow/198266_5.avif",
+    "/products/swivel-chairs/blow/198266_6.avif",
+    "/products/swivel-chairs/blow/198266_7.avif",
+    "/products/swivel-chairs/blow/198266_8.avif",
+    "/products/swivel-chairs/blow/198266_9.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/198266-blow-tv-tuoli-tummanharmaa-kangas-musta-jalka"
+}

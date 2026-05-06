@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "130 cm",
+  "valueSlug": "130-cm",
+  "valueType": "measurement",
+  "numericValue": 130,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Dining Tables"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206639_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/saarni",
+      "familyTitle": "Saarni",
+      "familySummary": "Outdoor dining table with aluminium frame and nonwood surface in a light Beige tone. Practical and easy to maintain.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206639_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 130,
+        "max": 130,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "130 cm is a published depth used across selected Nest & Living products. Common on Outdoor Dining Table."
+}

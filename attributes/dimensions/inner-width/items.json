@@ -1,0 +1,26 @@
+[
+  {
+    "name": "160-cm",
+    "label": "160 cm",
+    "href": "/attributes/dimensions/inner-width/160-cm/",
+    "type": "dir",
+    "description": "160 cm is a published inner width used across selected Nest & Living products. Common on Bed Frame.",
+    "familyCount": 2,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 160,
+    "unit": "cm"
+  },
+  {
+    "name": "180-cm",
+    "label": "180 cm",
+    "href": "/attributes/dimensions/inner-width/180-cm/",
+    "type": "dir",
+    "description": "180 cm is a published inner width used across selected Nest & Living products. Common on Bed Frame.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 180,
+    "unit": "cm"
+  }
+]

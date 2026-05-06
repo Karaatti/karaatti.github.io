@@ -1,0 +1,240 @@
+{
+  "sku": "214015",
+  "displayName": "Staycomfort Pillow",
+  "metaTitle": "Staycomfort Pillow - NEST & LIVING",
+  "metaDescription": "Everyday pillows from the Staycomfort series.",
+  "ogTitle": "Staycomfort Pillow",
+  "ogDescription": "Everyday pillows from the Staycomfort series.",
+  "shortDescription": "Everyday pillows from the Staycomfort series.",
+  "familyDescription": "Everyday pillows from the Staycomfort series.",
+  "schemaCategory": "Pillows",
+  "selectionAttributes": {
+    "dimensions": "60 x 50 x 6 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "",
+    "material": "Polyester, Cotton"
+  },
+  "attributes": [
+    {
+      "key": "cleaningMethod",
+      "label": "Cleaning method",
+      "group": "care",
+      "groupLabel": "Care",
+      "value": "Wash 60°C",
+      "valueSlug": "wash-60c",
+      "rawValue": "Vesipesu 60",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Ominaisuudet",
+      "sourceLabel": "Puhdistustapa",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "10 product",
+      "valueSlug": "10-product",
+      "rawValue": "10 kpl",
+      "valueType": "enum",
+      "numericValue": 10,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.23 m³",
+      "valueSlug": "0-23-m3",
+      "rawValue": "0.23 m³",
+      "valueType": "enum",
+      "numericValue": 0.23,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "6.5 kg",
+      "valueSlug": "6-5-kg",
+      "rawValue": "6.5 kg",
+      "valueType": "enum",
+      "numericValue": 6.5,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "60 cm",
+      "valueSlug": "60-cm",
+      "rawValue": "60 cm",
+      "valueType": "enum",
+      "numericValue": 60,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "50 cm",
+      "valueSlug": "50-cm",
+      "rawValue": "50 cm",
+      "valueType": "enum",
+      "numericValue": 50,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "6 cm",
+      "valueSlug": "6-cm",
+      "rawValue": "6 cm",
+      "valueType": "enum",
+      "numericValue": 6,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Polyester, Cotton",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "White",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/white/\">White</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Polyester, Cotton",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/polyester/\">Polyester</a><a class=\"spec-link-chip\" href=\"/materials/cotton/\">Cotton</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "60 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "60 cm",
+          "href": "/attributes/dimensions/width/60-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/60-cm/\">60 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "50 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "50 cm",
+          "href": "/attributes/dimensions/depth/50-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/50-cm/\">50 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "6 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "6 cm",
+          "href": "/attributes/dimensions/height/6-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/6-cm/\">6 cm</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/pillows/staycomfort/214015_1.jpg",
+  "imageUrls": [
+    "/products/pillows/staycomfort/214015_1.jpg",
+    "/products/pillows/staycomfort/214015_2.jpg"
+  ],
+  "retailerUrl": ""
+}

@@ -1,0 +1,345 @@
+[
+  {
+    "name": "moon-gold",
+    "href": "/products/toppers/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold Topper",
+    "schemaCategory": "Toppers",
+    "variantCount": 24,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/products/headboards/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Headboards",
+    "variantCount": 10,
+    "displayColors": [
+      "Grey",
+      "Black"
+    ]
+  },
+  {
+    "name": "moon-silver",
+    "href": "/products/headboards/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Headboards",
+    "variantCount": 10,
+    "displayColors": [
+      "Grey",
+      "Black"
+    ]
+  },
+  {
+    "name": "moon-silver",
+    "href": "/products/mattresses/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver mattress",
+    "schemaCategory": "Mattresses",
+    "variantCount": 7,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "westcoast",
+    "href": "/products/corner-sofas/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 6,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "moon-gold",
+    "href": "/products/headboards/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold Headboard",
+    "schemaCategory": "Headboards",
+    "variantCount": 5,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "moon-silver",
+    "href": "/products/continental-beds/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver continental bed",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 5,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "dozza",
+    "href": "/products/rugs/dozza/",
+    "type": "dir",
+    "title": "Dozza",
+    "schemaCategory": "Rugs",
+    "variantCount": 4,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/products/continental-beds/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze continental bed",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 4,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/products/divan-beds/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze Divan Bed",
+    "schemaCategory": "Divan Beds",
+    "variantCount": 4,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "moon-silver",
+    "href": "/products/divan-beds/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver divan bed",
+    "schemaCategory": "Divan Beds",
+    "variantCount": 4,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/products/adjustable-beds/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze adjustable bed",
+    "schemaCategory": "Adjustable Beds",
+    "variantCount": 3,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "moon-gold",
+    "href": "/products/continental-beds/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold Continental Bed",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 3,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "moon-silver",
+    "href": "/products/adjustable-beds/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver adjustable bed",
+    "schemaCategory": "Adjustable Beds",
+    "variantCount": 3,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "haley",
+    "href": "/products/decorative-cushions/haley/",
+    "type": "dir",
+    "title": "Haley Decorative Cushion",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 2,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "heaven",
+    "href": "/products/four-seater-sofas/heaven/",
+    "type": "dir",
+    "title": "Heaven",
+    "schemaCategory": "4-Seater Sofas",
+    "variantCount": 2,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "hix",
+    "href": "/products/decorative-cushions/hix/",
+    "type": "dir",
+    "title": "Hix Decorative Cushion",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 2,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "moon-gold",
+    "href": "/products/divan-beds/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold Divan Bed",
+    "schemaCategory": "Divan Beds",
+    "variantCount": 2,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "ruutu",
+    "href": "/products/rugs/ruutu/",
+    "type": "dir",
+    "title": "Ruutu",
+    "schemaCategory": "Rugs",
+    "variantCount": 2,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "westcoast",
+    "href": "/products/chaise-sofas/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 2,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "aava",
+    "href": "/products/chaise-sofas/aava/",
+    "type": "dir",
+    "title": "Aava",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 1,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "blow",
+    "href": "/products/swivel-chairs/blow/",
+    "type": "dir",
+    "title": "Blow",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "breeze",
+    "href": "/products/swivel-chairs/breeze/",
+    "type": "dir",
+    "title": "Breeze",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "desenzano",
+    "href": "/products/rugs/desenzano/",
+    "type": "dir",
+    "title": "Desenzano",
+    "schemaCategory": "Rugs",
+    "variantCount": 1,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "haley",
+    "href": "/products/footstools/haley/",
+    "type": "dir",
+    "title": "Haley Footstool",
+    "schemaCategory": "Footstools",
+    "variantCount": 1,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "moderni",
+    "href": "/products/rugs/moderni/",
+    "type": "dir",
+    "title": "Moderni",
+    "schemaCategory": "Rugs",
+    "variantCount": 1,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "moon",
+    "href": "/products/mobile-phone-pockets/moon/",
+    "type": "dir",
+    "title": "Moon",
+    "schemaCategory": "Mobile Phone Pockets",
+    "variantCount": 1,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "westcoast",
+    "href": "/products/footstools/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Footstools",
+    "variantCount": 1,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "westcoast",
+    "href": "/products/sofa-accessories/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Sofa Accessories",
+    "variantCount": 1,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "westcoast",
+    "href": "/products/three-seater-sofas/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1,
+    "displayColors": [
+      "Grey"
+    ]
+  },
+  {
+    "name": "wind",
+    "href": "/products/swivel-chairs/wind/",
+    "type": "dir",
+    "title": "Wind",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Grey"
+    ]
+  }
+]

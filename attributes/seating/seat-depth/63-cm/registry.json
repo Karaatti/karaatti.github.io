@@ -1,0 +1,46 @@
+{
+  "group": "seating",
+  "groupLabel": "Seating",
+  "attributeKey": "seatDepth",
+  "attributeLabel": "Seat depth",
+  "value": "63 cm",
+  "valueSlug": "63-cm",
+  "valueType": "measurement",
+  "numericValue": 63,
+  "unit": "cm",
+  "productTypes": [
+    "3-Seater Sofas",
+    "Chaise Sofas",
+    "Corner Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 10,
+  "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame.",
+      "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+      "schemaCategory": "Chaise Sofas, Corner Sofas and 3-Seater Sofas",
+      "variantCount": 10
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 63,
+        "max": 63,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "63 cm is a published seat depth used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa and Corner Sofa."
+}

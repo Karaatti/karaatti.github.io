@@ -1,0 +1,216 @@
+[
+  {
+    "name": "house-nordic-beckley",
+    "href": "/products/planters-pots/house-nordic-beckley/",
+    "type": "dir",
+    "title": "House Nordic Beckley Planter",
+    "summary": "Three-piece set of brown terracotta planters with soft rounded edges and textured surfaces. Suitable for various plants and both indoor and outdoor settings.",
+    "primaryImageUrl": "/products/planters-pots/house-nordic-beckley/201120_1.avif",
+    "sourceHref": "/products/planters-pots/house-nordic-beckley/",
+    "filterData": {
+      "searchText": "House Nordic Beckley Planter Three-piece set of brown terracotta planters with soft rounded edges and textured surfaces. Suitable for various plants and both indoor and outdoor settings. Planters House Nordic Beckley Outdoor Planters & Pots House Nordic Beckley Brown Terracotta Dimensions Depth 54 cm cm Dimensions Depth 2 42 cm cm Dimensions Height 54 cm cm Dimensions Height 2 42 cm cm Dimensions Width 54 cm cm Dimensions Width 2 42 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.16 m³ m³ Logistics Weight 20 kg kg Logistics Weight 20.5 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "outdoor",
+          "label": "Outdoor",
+          "href": "/collections/outdoor"
+        }
+      ],
+      "categories": [
+        {
+          "key": "planters-pots",
+          "label": "Planters & Pots",
+          "href": "/products/planters-pots/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "house-nordic-beckley",
+          "label": "House Nordic Beckley",
+          "href": "/families/house-nordic-beckley/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "terracotta",
+          "label": "Terracotta",
+          "href": "/materials/terracotta/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "54-cm",
+          "valueLabel": "54 cm",
+          "href": "/attributes/dimensions/depth/54-cm/",
+          "valueType": "enum",
+          "numericValue": 54,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth2",
+          "label": "Depth 2",
+          "valueKey": "42-cm",
+          "valueLabel": "42 cm",
+          "href": "/attributes/dimensions/depth2/42-cm/",
+          "valueType": "enum",
+          "numericValue": 42,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "54-cm",
+          "valueLabel": "54 cm",
+          "href": "/attributes/dimensions/height/54-cm/",
+          "valueType": "enum",
+          "numericValue": 54,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height2",
+          "label": "Height 2",
+          "valueKey": "42-cm",
+          "valueLabel": "42 cm",
+          "href": "/attributes/dimensions/height2/42-cm/",
+          "valueType": "enum",
+          "numericValue": 42,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "54-cm",
+          "valueLabel": "54 cm",
+          "href": "/attributes/dimensions/width/54-cm/",
+          "valueType": "enum",
+          "numericValue": 54,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width2",
+          "label": "Width 2",
+          "valueKey": "42-cm",
+          "valueLabel": "42 cm",
+          "href": "/attributes/dimensions/width2/42-cm/",
+          "valueType": "enum",
+          "numericValue": 42,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-16-m3",
+          "valueLabel": "0.16 m³",
+          "href": "/attributes/logistics/volume/0-16-m3/",
+          "valueType": "enum",
+          "numericValue": 0.16,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "20-5-kg",
+          "valueLabel": "20.5 kg",
+          "href": "/attributes/logistics/weight/20-5-kg/",
+          "valueType": "enum",
+          "numericValue": 20.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "House Nordic Beckley Planter",
+      "summary": "Three-piece set of brown terracotta planters with soft rounded edges and textured surfaces. Suitable for various plants and both indoor and outdoor settings.",
+      "variantCount": 1,
+      "categoryLabel": "Planters",
+      "collectionLabel": "",
+      "productFamilyLabel": "House Nordic Beckley"
+    }
+  }
+]

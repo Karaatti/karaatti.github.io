@@ -1,0 +1,61 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.97 m³",
+  "valueSlug": "0-97-m3",
+  "valueType": "measurement",
+  "numericValue": 0.97,
+  "unit": "m³",
+  "productTypes": [
+    "Corner Sofas",
+    "Divan Beds"
+  ],
+  "familyCount": 3,
+  "variantCount": 6,
+  "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_140_x_200_x_33_cm_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Divan bed with 7-zone pocket spring system offering firm support and ergonomic comfort. Available in various sizes and neutral tones.",
+      "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_140_x_200_x_33_cm_1.avif",
+      "schemaCategory": "Divan Beds",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+      "primaryImageUrl": "/products/corner-sofas/westcoast/209121_1.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Available sizes: 80 x 200 cm, 90 x 200 cm, 120 x 200 cm and 140 x 200 cm. Light grey Primo 84 upholstery, 5-zone pocket spring support and smoked ash cone legs. 4 active variants available.",
+      "primaryImageUrl": "/products/divan-beds/moon-silver/moon_silver_divan_bed_grey_1.avif",
+      "schemaCategory": "Divan Beds",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.97,
+        "max": 0.97,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.97 m³ is a published volume used across selected Nest & Living products. Common on Corner Sofa and Divan Bed."
+}

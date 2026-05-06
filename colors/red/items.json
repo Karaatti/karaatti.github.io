@@ -1,0 +1,58 @@
+[
+  {
+    "name": "lucca",
+    "href": "/products/rugs/lucca/",
+    "type": "dir",
+    "title": "Lucca Rug",
+    "schemaCategory": "Rugs",
+    "variantCount": 4,
+    "displayColors": [
+      "Red"
+    ]
+  },
+  {
+    "name": "sevilla",
+    "href": "/products/rugs/sevilla/",
+    "type": "dir",
+    "title": "Sevilla",
+    "schemaCategory": "Rugs",
+    "variantCount": 4,
+    "displayColors": [
+      "Red"
+    ]
+  },
+  {
+    "name": "saaga",
+    "href": "/products/rugs/saaga/",
+    "type": "dir",
+    "title": "Saaga",
+    "schemaCategory": "Rugs",
+    "variantCount": 2,
+    "displayColors": [
+      "Red",
+      "Beige"
+    ]
+  },
+  {
+    "name": "bow",
+    "href": "/products/dining-chairs/bow/",
+    "type": "dir",
+    "title": "Bow",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Red"
+    ]
+  },
+  {
+    "name": "garda",
+    "href": "/products/rugs/garda/",
+    "type": "dir",
+    "title": "Garda",
+    "schemaCategory": "Rugs",
+    "variantCount": 1,
+    "displayColors": [
+      "Red"
+    ]
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "name": "depth",
+    "label": "Depth",
+    "href": "/attributes/dimensions/depth/",
+    "type": "dir",
+    "entryCount": 49,
+    "variantCount": 421,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 49,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 7,
+          "max": 300,
+          "count": 49,
+          "distinctCount": 49
+        }
+      ]
+    }
+  },
+  {
+    "name": "depth2",
+    "label": "Depth 2",
+    "href": "/attributes/dimensions/depth2/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 42,
+          "max": 42,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "diameter",
+    "label": "Diameter",
+    "href": "/attributes/dimensions/diameter/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 120,
+          "max": 120,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "extended-width",
+    "label": "Extended width",
+    "href": "/attributes/dimensions/extended-width/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 160,
+          "max": 160,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "height",
+    "label": "Height",
+    "href": "/attributes/dimensions/height/",
+    "type": "dir",
+    "entryCount": 59,
+    "variantCount": 411,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 59,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 1,
+          "max": 250,
+          "count": 59,
+          "distinctCount": 59
+        }
+      ]
+    }
+  },
+  {
+    "name": "height2",
+    "label": "Height 2",
+    "href": "/attributes/dimensions/height2/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 42,
+          "max": 42,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "inner-depth",
+    "label": "Inner depth",
+    "href": "/attributes/dimensions/inner-depth/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 3,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 200,
+          "max": 200,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "inner-height",
+    "label": "Inner height",
+    "href": "/attributes/dimensions/inner-height/",
+    "type": "dir",
+    "entryCount": 2,
+    "variantCount": 5,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 32,
+          "max": 36,
+          "count": 2,
+          "distinctCount": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "inner-width",
+    "label": "Inner width",
+    "href": "/attributes/dimensions/inner-width/",
+    "type": "dir",
+    "entryCount": 2,
+    "variantCount": 3,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 160,
+          "max": 180,
+          "count": 2,
+          "distinctCount": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "main-section-depth",
+    "label": "Main section depth",
+    "href": "/attributes/dimensions/main-section-depth/",
+    "type": "dir",
+    "entryCount": 2,
+    "variantCount": 5,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 89,
+          "max": 106,
+          "count": 2,
+          "distinctCount": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "ottoman-depth",
+    "label": "Ottoman depth",
+    "href": "/attributes/dimensions/ottoman-depth/",
+    "type": "dir",
+    "entryCount": 2,
+    "variantCount": 4,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 36,
+          "max": 42,
+          "count": 2,
+          "distinctCount": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "ottoman-height",
+    "label": "Ottoman height",
+    "href": "/attributes/dimensions/ottoman-height/",
+    "type": "dir",
+    "entryCount": 2,
+    "variantCount": 4,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 37,
+          "max": 38,
+          "count": 2,
+          "distinctCount": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "ottoman-width",
+    "label": "Ottoman width",
+    "href": "/attributes/dimensions/ottoman-width/",
+    "type": "dir",
+    "entryCount": 2,
+    "variantCount": 4,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 46,
+          "max": 49,
+          "count": 2,
+          "distinctCount": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "pillow-depth",
+    "label": "Pillow depth",
+    "href": "/attributes/dimensions/pillow-depth/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 50,
+          "max": 50,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "pillow-height",
+    "label": "Pillow height",
+    "href": "/attributes/dimensions/pillow-height/",
+    "type": "dir",
+    "entryCount": 2,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 13,
+          "max": 15,
+          "count": 2,
+          "distinctCount": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "pillow-width",
+    "label": "Pillow width",
+    "href": "/attributes/dimensions/pillow-width/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 60,
+          "max": 60,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "set-piece-depth",
+    "label": "Set piece depth",
+    "href": "/attributes/dimensions/set-piece-depth/",
+    "type": "dir",
+    "entryCount": 2,
+    "variantCount": 3,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 84,
+          "max": 110,
+          "count": 2,
+          "distinctCount": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "set-piece-height",
+    "label": "Set piece height",
+    "href": "/attributes/dimensions/set-piece-height/",
+    "type": "dir",
+    "entryCount": 3,
+    "variantCount": 4,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 3,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 65,
+          "max": 86,
+          "count": 3,
+          "distinctCount": 3
+        }
+      ]
+    }
+  },
+  {
+    "name": "set-piece-width",
+    "label": "Set piece width",
+    "href": "/attributes/dimensions/set-piece-width/",
+    "type": "dir",
+    "entryCount": 3,
+    "variantCount": 4,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 3,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 70,
+          "max": 110,
+          "count": 3,
+          "distinctCount": 3
+        }
+      ]
+    }
+  },
+  {
+    "name": "smaller-table-depth",
+    "label": "Smaller table depth",
+    "href": "/attributes/dimensions/smaller-table-depth/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 40,
+          "max": 40,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "smaller-table-height",
+    "label": "Smaller table height",
+    "href": "/attributes/dimensions/smaller-table-height/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 33,
+          "max": 33,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "smaller-table-width",
+    "label": "Smaller table width",
+    "href": "/attributes/dimensions/smaller-table-width/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 60,
+          "max": 60,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "width",
+    "label": "Width",
+    "href": "/attributes/dimensions/width/",
+    "type": "dir",
+    "entryCount": 58,
+    "variantCount": 422,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 58,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 20,
+          "max": 392,
+          "count": 58,
+          "distinctCount": 58
+        }
+      ]
+    }
+  },
+  {
+    "name": "width2",
+    "label": "Width 2",
+    "href": "/attributes/dimensions/width2/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 42,
+          "max": 42,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  }
+]

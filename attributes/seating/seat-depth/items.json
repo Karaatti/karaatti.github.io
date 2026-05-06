@@ -1,0 +1,86 @@
+[
+  {
+    "name": "43-5-cm",
+    "label": "43.5 cm",
+    "href": "/attributes/seating/seat-depth/43-5-cm/",
+    "type": "dir",
+    "description": "43.5 cm is a published seat depth used across selected Nest & Living products. Common on Outdoor Dining Chair.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 43.5,
+    "unit": "cm"
+  },
+  {
+    "name": "48-cm",
+    "label": "48 cm",
+    "href": "/attributes/seating/seat-depth/48-cm/",
+    "type": "dir",
+    "description": "48 cm is a published seat depth used across selected Nest & Living products. Common on Outdoor Dining Chair.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 48,
+    "unit": "cm"
+  },
+  {
+    "name": "57-cm",
+    "label": "57 cm",
+    "href": "/attributes/seating/seat-depth/57-cm/",
+    "type": "dir",
+    "description": "57 cm is a published seat depth used across selected Nest & Living products. Common on Outdoor Dining Chair.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 57,
+    "unit": "cm"
+  },
+  {
+    "name": "60-cm",
+    "label": "60 cm",
+    "href": "/attributes/seating/seat-depth/60-cm/",
+    "type": "dir",
+    "description": "60 cm is a published seat depth used across selected Nest & Living products. Common on Corner Sofa.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 60,
+    "unit": "cm"
+  },
+  {
+    "name": "63-cm",
+    "label": "63 cm",
+    "href": "/attributes/seating/seat-depth/63-cm/",
+    "type": "dir",
+    "description": "63 cm is a published seat depth used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa and Corner Sofa.",
+    "familyCount": 1,
+    "variantCount": 10,
+    "valueType": "measurement",
+    "numericValue": 63,
+    "unit": "cm"
+  },
+  {
+    "name": "65-cm",
+    "label": "65 cm",
+    "href": "/attributes/seating/seat-depth/65-cm/",
+    "type": "dir",
+    "description": "65 cm is a published seat depth used across selected Nest & Living products. Common on Outdoor Sun Lounger.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 65,
+    "unit": "cm"
+  },
+  {
+    "name": "66-cm",
+    "label": "66 cm",
+    "href": "/attributes/seating/seat-depth/66-cm/",
+    "type": "dir",
+    "description": "66 cm is a published seat depth used across selected Nest & Living products. Common on Footstool.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 66,
+    "unit": "cm"
+  }
+]

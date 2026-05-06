@@ -1,0 +1,324 @@
+{
+  "sku": "201102",
+  "displayName": "House Nordic Derby Outdoor Lounge Seating",
+  "metaTitle": "House Nordic Derby Outdoor Lounge Seating - NEST & LIVING",
+  "metaDescription": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
+  "ogTitle": "House Nordic Derby Outdoor Lounge Seating",
+  "ogDescription": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
+  "shortDescription": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
+  "familyDescription": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
+  "schemaCategory": "Outdoor Lounge Seating",
+  "selectionAttributes": {
+    "dimensions": "60 x 61 x 73 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Beige",
+    "material": "Polyrattan, Teak"
+  },
+  "attributes": [
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "6 kg",
+      "valueSlug": "6-kg",
+      "rawValue": "6 kg",
+      "valueType": "enum",
+      "numericValue": 6,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "seatHeight",
+      "label": "Seat height",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "40 cm",
+      "valueSlug": "40-cm",
+      "rawValue": "40 cm",
+      "valueType": "enum",
+      "numericValue": 40,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Istuinkorkeus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "maximumLoad",
+      "label": "Maximum load",
+      "group": "load",
+      "groupLabel": "Load",
+      "value": "125 kg",
+      "valueSlug": "125-kg",
+      "rawValue": "125 kg",
+      "valueType": "enum",
+      "numericValue": 125,
+      "unit": "kg",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Maksimikuorma",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "seatWidth",
+      "label": "Seat width",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "47 cm",
+      "valueSlug": "47-cm",
+      "rawValue": "47 cm",
+      "valueType": "enum",
+      "numericValue": 47,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Istuinleveys",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.37 m³",
+      "valueSlug": "0-37-m3",
+      "rawValue": "0.37 m³",
+      "valueType": "enum",
+      "numericValue": 0.37,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "9.4 kg",
+      "valueSlug": "9-4-kg",
+      "rawValue": "9.4 kg",
+      "valueType": "enum",
+      "numericValue": 9.4,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "60 cm",
+      "valueSlug": "60-cm",
+      "rawValue": "60 cm",
+      "valueType": "enum",
+      "numericValue": 60,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "61 cm",
+      "valueSlug": "61-cm",
+      "rawValue": "61 cm",
+      "valueType": "enum",
+      "numericValue": 61,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "73 cm",
+      "valueSlug": "73-cm",
+      "rawValue": "73 cm",
+      "valueType": "enum",
+      "numericValue": 73,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "legMaterial",
+      "label": "Leg material",
+      "group": "frame",
+      "groupLabel": "Frame and base",
+      "value": "Wood",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    },
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Polyrattan, Teak",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Beige",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/beige/\">Beige</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Polyrattan, Teak",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/polyrattan/\">Polyrattan</a><a class=\"spec-link-chip\" href=\"/materials/teak/\">Teak</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "60 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "60 cm",
+          "href": "/attributes/dimensions/width/60-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/60-cm/\">60 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "61 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "61 cm",
+          "href": "/attributes/dimensions/depth/61-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/61-cm/\">61 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "73 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "73 cm",
+          "href": "/attributes/dimensions/height/73-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/73-cm/\">73 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "6 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "6 kg",
+          "href": "/attributes/logistics/weight/6-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/6-kg/\">6 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+  "imageUrls": [
+    "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_2.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_3.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_4.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_5.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_6.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_7.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_8.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_9.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/201102_1.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/201102_2.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/201102_3.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/201102_4.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/201102_5.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/201102_6.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/201102_7.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/201102_8.avif",
+    "/products/outdoor-lounge-seating/house-nordic-derby/201102_9.avif"
+  ],
+  "retailerUrl": ""
+}

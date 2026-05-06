@@ -1,0 +1,574 @@
+[
+  {
+    "sku": "198246",
+    "name": "198246",
+    "title": "Nordic Outdoor Lounge Seating",
+    "variantSummary": "82 x 82 cm / White, Beige",
+    "shortDescription": "Corner section with a white aluminium frame and beige outdoor fabric upholstery.",
+    "selectionAttributes": {
+      "dimensions": "82 x 82 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "White, Beige",
+      "material": "Fabric, Aluminium"
+    },
+    "primaryImageUrl": "/products/outdoor-lounge-seating/nordic/198246_1.avif",
+    "imageUrl": "/products/outdoor-lounge-seating/nordic/198246_1.avif",
+    "imageUrls": [
+      "/products/outdoor-lounge-seating/nordic/198246_1.avif",
+      "/products/outdoor-lounge-seating/nordic/198246_2.avif",
+      "/products/outdoor-lounge-seating/nordic/198246_3.avif",
+      "/products/outdoor-lounge-seating/nordic/198246_4.avif"
+    ],
+    "href": "/products/outdoor-lounge-seating/nordic/198246",
+    "type": "file",
+    "filterData": {
+      "searchText": "Nordic Outdoor Lounge Seating Corner section with a white aluminium frame and beige outdoor fabric upholstery. Outdoor Lounge Seating Outdoor Nordic Outdoor Outdoor Lounge Seating Nordic Beige White Aluminium Fabric Dimensions Depth 82 cm cm Dimensions Height 61 cm cm Dimensions Width 82 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.33 m³ m³ Logistics Weight 10 kg kg Logistics Weight 14 kg kg Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "outdoor",
+          "label": "Outdoor",
+          "href": "/collections/outdoor"
+        }
+      ],
+      "categories": [
+        {
+          "key": "outdoor-lounge-seating",
+          "label": "Outdoor Lounge Seating",
+          "href": "/products/outdoor-lounge-seating/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "nordic",
+          "label": "Nordic",
+          "href": "/families/nordic/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "aluminium",
+          "label": "Aluminium",
+          "href": "/materials/aluminium/"
+        },
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "82-cm",
+          "valueLabel": "82 cm",
+          "href": "/attributes/dimensions/depth/82-cm/",
+          "valueType": "enum",
+          "numericValue": 82,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "61-cm",
+          "valueLabel": "61 cm",
+          "href": "/attributes/dimensions/height/61-cm/",
+          "valueType": "enum",
+          "numericValue": 61,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "82-cm",
+          "valueLabel": "82 cm",
+          "href": "/attributes/dimensions/width/82-cm/",
+          "valueType": "enum",
+          "numericValue": 82,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-33-m3",
+          "valueLabel": "0.33 m³",
+          "href": "/attributes/logistics/volume/0-33-m3/",
+          "valueType": "enum",
+          "numericValue": 0.33,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "10-kg",
+          "valueLabel": "10 kg",
+          "href": "/attributes/logistics/weight/10-kg/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "14-kg",
+          "valueLabel": "14 kg",
+          "href": "/attributes/logistics/weight/14-kg/",
+          "valueType": "enum",
+          "numericValue": 14,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Nordic Outdoor Lounge Seating",
+      "summary": "Corner section with a white aluminium frame and beige outdoor fabric upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Outdoor Lounge Seating",
+      "collectionLabel": "Outdoor",
+      "productFamilyLabel": "Nordic"
+    }
+  },
+  {
+    "sku": "198247",
+    "name": "198247",
+    "title": "Nordic Outdoor Lounge Seating",
+    "variantSummary": "82 x 82 cm / White, Beige",
+    "shortDescription": "Middle section with a white aluminium frame and beige outdoor fabric upholstery.",
+    "selectionAttributes": {
+      "dimensions": "82 x 82 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "White, Beige",
+      "material": "Fabric, Aluminium"
+    },
+    "primaryImageUrl": "/products/outdoor-lounge-seating/nordic/198247_1.avif",
+    "imageUrl": "/products/outdoor-lounge-seating/nordic/198247_1.avif",
+    "imageUrls": [
+      "/products/outdoor-lounge-seating/nordic/198247_1.avif",
+      "/products/outdoor-lounge-seating/nordic/198247_2.avif",
+      "/products/outdoor-lounge-seating/nordic/198247_3.avif",
+      "/products/outdoor-lounge-seating/nordic/198247_4.avif"
+    ],
+    "href": "/products/outdoor-lounge-seating/nordic/198247",
+    "type": "file",
+    "filterData": {
+      "searchText": "Nordic Outdoor Lounge Seating Middle section with a white aluminium frame and beige outdoor fabric upholstery. Outdoor Lounge Seating Outdoor Nordic Outdoor Outdoor Lounge Seating Nordic Beige White Aluminium Fabric Dimensions Depth 82 cm cm Dimensions Height 61 cm cm Dimensions Width 82 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.31 m³ m³ Logistics Weight 8.5 kg kg Logistics Weight 12 kg kg Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "outdoor",
+          "label": "Outdoor",
+          "href": "/collections/outdoor"
+        }
+      ],
+      "categories": [
+        {
+          "key": "outdoor-lounge-seating",
+          "label": "Outdoor Lounge Seating",
+          "href": "/products/outdoor-lounge-seating/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "nordic",
+          "label": "Nordic",
+          "href": "/families/nordic/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "aluminium",
+          "label": "Aluminium",
+          "href": "/materials/aluminium/"
+        },
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "82-cm",
+          "valueLabel": "82 cm",
+          "href": "/attributes/dimensions/depth/82-cm/",
+          "valueType": "enum",
+          "numericValue": 82,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "61-cm",
+          "valueLabel": "61 cm",
+          "href": "/attributes/dimensions/height/61-cm/",
+          "valueType": "enum",
+          "numericValue": 61,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "82-cm",
+          "valueLabel": "82 cm",
+          "href": "/attributes/dimensions/width/82-cm/",
+          "valueType": "enum",
+          "numericValue": 82,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-31-m3",
+          "valueLabel": "0.31 m³",
+          "href": "/attributes/logistics/volume/0-31-m3/",
+          "valueType": "enum",
+          "numericValue": 0.31,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "8-5-kg",
+          "valueLabel": "8.5 kg",
+          "href": "/attributes/logistics/weight/8-5-kg/",
+          "valueType": "enum",
+          "numericValue": 8.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "12-kg",
+          "valueLabel": "12 kg",
+          "href": "/attributes/logistics/weight/12-kg/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Nordic Outdoor Lounge Seating",
+      "summary": "Middle section with a white aluminium frame and beige outdoor fabric upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Outdoor Lounge Seating",
+      "collectionLabel": "Outdoor",
+      "productFamilyLabel": "Nordic"
+    }
+  },
+  {
+    "sku": "198248",
+    "name": "198248",
+    "title": "Nordic Outdoor Lounge Seating",
+    "variantSummary": "82 x 82 cm / White, Beige",
+    "shortDescription": "Ottoman with a white aluminium frame and beige outdoor fabric upholstery.",
+    "selectionAttributes": {
+      "dimensions": "82 x 82 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "White, Beige",
+      "material": "Fabric, Aluminium"
+    },
+    "primaryImageUrl": "/products/outdoor-lounge-seating/nordic/198248_1.avif",
+    "imageUrl": "/products/outdoor-lounge-seating/nordic/198248_1.avif",
+    "imageUrls": [
+      "/products/outdoor-lounge-seating/nordic/198248_1.avif",
+      "/products/outdoor-lounge-seating/nordic/198248_2.avif",
+      "/products/outdoor-lounge-seating/nordic/198248_3.avif"
+    ],
+    "href": "/products/outdoor-lounge-seating/nordic/198248",
+    "type": "file",
+    "filterData": {
+      "searchText": "Nordic Outdoor Lounge Seating Ottoman with a white aluminium frame and beige outdoor fabric upholstery. Outdoor Lounge Seating Outdoor Nordic Outdoor Outdoor Lounge Seating Nordic Beige White Aluminium Fabric Dimensions Depth 82 cm cm Dimensions Height 24 cm cm Dimensions Width 82 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Weight 6 kg kg Logistics Weight 11 kg kg Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "outdoor",
+          "label": "Outdoor",
+          "href": "/collections/outdoor"
+        }
+      ],
+      "categories": [
+        {
+          "key": "outdoor-lounge-seating",
+          "label": "Outdoor Lounge Seating",
+          "href": "/products/outdoor-lounge-seating/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "nordic",
+          "label": "Nordic",
+          "href": "/families/nordic/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "aluminium",
+          "label": "Aluminium",
+          "href": "/materials/aluminium/"
+        },
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "82-cm",
+          "valueLabel": "82 cm",
+          "href": "/attributes/dimensions/depth/82-cm/",
+          "valueType": "enum",
+          "numericValue": 82,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "24-cm",
+          "valueLabel": "24 cm",
+          "href": "/attributes/dimensions/height/24-cm/",
+          "valueType": "enum",
+          "numericValue": 24,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "82-cm",
+          "valueLabel": "82 cm",
+          "href": "/attributes/dimensions/width/82-cm/",
+          "valueType": "enum",
+          "numericValue": 82,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-15-m3",
+          "valueLabel": "0.15 m³",
+          "href": "/attributes/logistics/volume/0-15-m3/",
+          "valueType": "enum",
+          "numericValue": 0.15,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "6-kg",
+          "valueLabel": "6 kg",
+          "href": "/attributes/logistics/weight/6-kg/",
+          "valueType": "enum",
+          "numericValue": 6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "11-kg",
+          "valueLabel": "11 kg",
+          "href": "/attributes/logistics/weight/11-kg/",
+          "valueType": "enum",
+          "numericValue": 11,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Nordic Outdoor Lounge Seating",
+      "summary": "Ottoman with a white aluminium frame and beige outdoor fabric upholstery.",
+      "variantCount": 1,
+      "categoryLabel": "Outdoor Lounge Seating",
+      "collectionLabel": "Outdoor",
+      "productFamilyLabel": "Nordic"
+    }
+  }
+]

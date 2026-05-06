@@ -1,0 +1,289 @@
+{
+  "sku": "197816",
+  "displayName": "Moon Gold Headboard, Grey, 140 cm",
+  "metaTitle": "Moon Gold Headboard, Grey, 140 cm - NEST & LIVING",
+  "metaDescription": "Grey fabric, 140 cm width with five rows of buttons.",
+  "ogTitle": "Moon Gold Headboard, Grey, 140 cm",
+  "ogDescription": "Grey fabric, 140 cm width with five rows of buttons.",
+  "shortDescription": "Grey fabric, 140 cm width with five rows of buttons.",
+  "familyDescription": "The Moon Gold headboard offers a calm and simple design with button accents arranged in five rows. It comes in beige, grey and anthracite fabric options and multiple widths to fit different bed sizes. The headboard is delivered assembled for easy placement.",
+  "schemaCategory": "Headboards",
+  "selectionAttributes": {
+    "dimensions": "140 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Grey",
+    "material": "Fabric"
+  },
+  "attributes": [
+    {
+      "key": "headboardIncluded",
+      "label": "Headboard included",
+      "group": "accessories",
+      "groupLabel": "Included components",
+      "value": "Yes",
+      "valueSlug": "yes",
+      "rawValue": "Moon Gold pääty, napit viidessä rivissä",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Patjan tiedot",
+      "sourceLabel": "Sängynpääty",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "140 cm",
+      "valueSlug": "140-cm",
+      "rawValue": "140 cm",
+      "valueType": "enum",
+      "numericValue": 140,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "11 cm",
+      "valueSlug": "11-cm",
+      "rawValue": "11 cm",
+      "valueType": "enum",
+      "numericValue": 11,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "120 cm",
+      "valueSlug": "120-cm",
+      "rawValue": "120 cm",
+      "valueType": "enum",
+      "numericValue": 120,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "18.5 kg",
+      "valueSlug": "18-5-kg",
+      "rawValue": "18.5 kg",
+      "valueType": "enum",
+      "numericValue": 18.5,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "priceGuarantee",
+      "label": "Price guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "30 days",
+      "valueSlug": "30-days",
+      "rawValue": "30 päivää",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Hintatakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.28 m³",
+      "valueSlug": "0-28-m3",
+      "rawValue": "0.28 m³",
+      "valueType": "enum",
+      "numericValue": 0.28,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "18 kg",
+      "valueSlug": "18-kg",
+      "rawValue": "18 kg",
+      "valueType": "enum",
+      "numericValue": 18,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [
+    {
+      "key": "headboardType",
+      "label": "Headboard type",
+      "group": "headboard-types",
+      "groupLabel": "Headboard types",
+      "specLabel": "Moon Gold headboard, buttons in five rows",
+      "specSlug": "moon-gold-headboard-buttons-in-five-rows",
+      "rawValue": "Moon Gold pääty, napit viidessä rivissä",
+      "materials": [],
+      "materialRoleLabel": "",
+      "attributes": [],
+      "sourceSection": "Patjan tiedot",
+      "sourceLabel": "Sängynpääty",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "materialSpecifications": [],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Grey",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/grey/\">Grey</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Fabric",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/fabric/\">Fabric</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "140 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "140 cm",
+          "href": "/attributes/dimensions/width/140-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/140-cm/\">140 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "11 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "11 cm",
+          "href": "/attributes/dimensions/depth/11-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/11-cm/\">11 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "120 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "120 cm",
+          "href": "/attributes/dimensions/height/120-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/120-cm/\">120 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "18.5 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "18.5 kg",
+          "href": "/attributes/logistics/weight/18-5-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/18-5-kg/\">18.5 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
+  "imageUrls": [
+    "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
+    "/products/headboards/moon-gold/moon_gold_headboard_grey_2.jpg",
+    "/products/headboards/moon-gold/197816_1.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/197816-moon-gold-paaty-140cm-primo-84-vaaleanharmaa"
+}

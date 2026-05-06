@@ -1,0 +1,204 @@
+[
+  {
+    "sku": "214013",
+    "name": "214013",
+    "title": "Staycool Duvet",
+    "variantSummary": "200 x 150 x 2 cm",
+    "shortDescription": "Cooling duvets from the Staycool series.",
+    "selectionAttributes": {
+      "dimensions": "200 x 150 x 2 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "",
+      "material": "Polyester, Cotton"
+    },
+    "primaryImageUrl": "/products/duvets/staycool/214013_1.jpg",
+    "imageUrl": "/products/duvets/staycool/214013_1.jpg",
+    "imageUrls": [
+      "/products/duvets/staycool/214013_1.jpg",
+      "/products/duvets/staycool/214013_2.jpg"
+    ],
+    "href": "/products/duvets/staycool/214013",
+    "type": "file",
+    "filterData": {
+      "searchText": "Staycool Duvet Cooling duvets from the Staycool series. Duvets Bedroom Staycool Bedroom Duvets Staycool Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 150 cm cm Dimensions Height 2 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 8 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1.3 kg kg Logistics Weight 13.1 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "duvets",
+          "label": "Duvets",
+          "href": "/products/duvets/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "staycool",
+          "label": "Staycool",
+          "href": "/families/staycool/"
+        }
+      ],
+      "colors": [],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "wash-60c",
+          "valueLabel": "Wash 60°C",
+          "href": "/attributes/care/cleaning-method/wash-60c/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "150-cm",
+          "valueLabel": "150 cm",
+          "href": "/attributes/dimensions/depth/150-cm/",
+          "valueType": "enum",
+          "numericValue": 150,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "2-cm",
+          "valueLabel": "2 cm",
+          "href": "/attributes/dimensions/height/2-cm/",
+          "valueType": "enum",
+          "numericValue": 2,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "8-product",
+          "valueLabel": "8 product",
+          "href": "/attributes/logistics/product-count/8-product/",
+          "valueType": "enum",
+          "numericValue": 8,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-23-m3",
+          "valueLabel": "0.23 m³",
+          "href": "/attributes/logistics/volume/0-23-m3/",
+          "valueType": "enum",
+          "numericValue": 0.23,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-3-kg",
+          "valueLabel": "1.3 kg",
+          "href": "/attributes/logistics/weight/1-3-kg/",
+          "valueType": "enum",
+          "numericValue": 1.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "13-1-kg",
+          "valueLabel": "13.1 kg",
+          "href": "/attributes/logistics/weight/13-1-kg/",
+          "valueType": "enum",
+          "numericValue": 13.1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Staycool Duvet",
+      "summary": "Cooling duvets from the Staycool series.",
+      "variantCount": 1,
+      "categoryLabel": "Duvets",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Staycool"
+    }
+  }
+]

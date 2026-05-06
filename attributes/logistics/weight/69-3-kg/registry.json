@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "69.3 kg",
+  "valueSlug": "69-3-kg",
+  "valueType": "measurement",
+  "numericValue": 69.3,
+  "unit": "kg",
+  "productTypes": [
+    "3-Seater Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "A modern 3-seater sofa with a durable wooden frame and easy-care fabric upholstery. Available in beige and green.",
+      "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_1.avif",
+      "schemaCategory": "3-Seater Sofas",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 69.3,
+        "max": 69.3,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "69.3 kg is a published weight used across selected Nest & Living products. Common on 3-Seater Sofa."
+}

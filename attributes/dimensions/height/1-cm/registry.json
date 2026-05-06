@@ -1,0 +1,95 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "1 cm",
+  "valueSlug": "1-cm",
+  "valueType": "measurement",
+  "numericValue": 1,
+  "unit": "cm",
+  "productTypes": [
+    "Mattress Protectors",
+    "Mobile Phone Pockets",
+    "Pillows",
+    "Rugs"
+  ],
+  "familyCount": 7,
+  "variantCount": 26,
+  "primaryImageUrl": "/products/mattress-protectors/nest-living/nest_living_mattress_protector_white_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nest-living",
+      "familyTitle": "Nest & Living",
+      "familySummary": "Quilted mattress protector with elastic corners to keep it in place. Protects and extends the life of your mattress.",
+      "primaryImageUrl": "/products/mattress-protectors/nest-living/nest_living_mattress_protector_white_1.avif",
+      "schemaCategory": "Mattress Protectors",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/dozza",
+      "familyTitle": "Dozza",
+      "familySummary": "Dozza is a modern grey polypropylene rug featuring a timeless oriental-inspired pattern. Its muted tones and low pile add warmth and style to living rooms, bedrooms, or hallways while offering practical durability.",
+      "primaryImageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/lucca",
+      "familyTitle": "Lucca",
+      "familySummary": "A smooth-surfaced oriental-style rug that offers a soft and pleasant feel underfoot while maintaining durability. Its carefully chosen plain or subtly patterned elements create a calm and stylish atmosphere suitable for various interiors.",
+      "primaryImageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/sevilla",
+      "familyTitle": "Sevilla",
+      "familySummary": "Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
+      "primaryImageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/moon",
+      "familyTitle": "Moon",
+      "familySummary": "A narrow fabric pocket for keeping phones and small items organised beside the bed or armchair.",
+      "primaryImageUrl": "/products/mobile-phone-pockets/moon/202837_1.avif",
+      "schemaCategory": "Mobile Phone Pockets",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/staygentle",
+      "familyTitle": "Staygentle",
+      "familySummary": "Tencel mattress protectors from the Staygentle series.",
+      "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
+      "schemaCategory": "Mattress Protectors",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/staycool",
+      "familyTitle": "Staycool",
+      "familySummary": "Cooling pillows and pillow protectors from the Staycool series.",
+      "primaryImageUrl": "/products/pillows/staycool/214014_1.jpg",
+      "schemaCategory": "Mattress Protectors and Pillows",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 1,
+        "max": 1,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "1 cm is a published height used across selected Nest & Living products. Common on Mattress Protector, Mobile Phone Pocket, Pillow and Rug."
+}

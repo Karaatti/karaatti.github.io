@@ -1,0 +1,337 @@
+{
+  "sku": "208780",
+  "displayName": "Heaven 4-Seater Sofa, Brown, 266 x 106 cm",
+  "metaTitle": "Heaven 4-Seater Sofa, Brown, 266 x 106 cm - NEST & LIVING",
+  "metaDescription": "Brown fabric with pocket spring seats and foam filling.",
+  "ogTitle": "Heaven 4-Seater Sofa, Brown, 266 x 106 cm",
+  "ogDescription": "Brown fabric with pocket spring seats and foam filling.",
+  "shortDescription": "Brown fabric with pocket spring seats and foam filling.",
+  "familyDescription": "The Heaven 4-seater sofa offers comfortable seating with pocket springs and foam filling. Its Scandinavian design features separate seat and back cushions, supported by a metal, wood and plywood frame. Available in beige, grey and brown fabric, it suits larger living spaces and blends easily with various interiors.",
+  "schemaCategory": "4-Seater Sofas",
+  "selectionAttributes": {
+    "dimensions": "266 x 106 cm",
+    "handedness": "",
+    "comfortType": "Comfort foam",
+    "color": "Brown",
+    "material": "Metal, Fabric, Plywood, Wood, Foam"
+  },
+  "attributes": [
+    {
+      "key": "seatCount",
+      "label": "Seat count",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "4 seat",
+      "valueSlug": "4-seat",
+      "rawValue": "4 kpl",
+      "valueType": "enum",
+      "numericValue": 4,
+      "unit": "seat",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Istuinmäärä",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "cleaningMethod",
+      "label": "Cleaning method",
+      "group": "care",
+      "groupLabel": "Care",
+      "value": "Dry clean",
+      "valueSlug": "dry-clean",
+      "rawValue": "kemiallinen pesu",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Ominaisuudet",
+      "sourceLabel": "Puhdistustapa",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "266 cm",
+      "valueSlug": "266-cm",
+      "rawValue": "266 cm",
+      "valueType": "enum",
+      "numericValue": 266,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "106 cm",
+      "valueSlug": "106-cm",
+      "rawValue": "106 cm",
+      "valueType": "enum",
+      "numericValue": 106,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "89 cm",
+      "valueSlug": "89-cm",
+      "rawValue": "89 cm",
+      "valueType": "enum",
+      "numericValue": 89,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "87 kg",
+      "valueSlug": "87-kg",
+      "rawValue": "87 kg",
+      "valueType": "enum",
+      "numericValue": 87,
+      "unit": "kg",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Weight",
+      "sourceType": "specs"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "priceGuarantee",
+      "label": "Price guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "30 days",
+      "valueSlug": "30-days",
+      "rawValue": "30 päivää",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Hintatakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "15 min",
+      "valueSlug": "15-min",
+      "rawValue": "15 min",
+      "valueType": "enum",
+      "numericValue": 15,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.54 m³",
+      "valueSlug": "0-54-m3",
+      "rawValue": "0,54 m³",
+      "valueType": "enum",
+      "numericValue": 0.54,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "44.5 kg",
+      "valueSlug": "44-5-kg",
+      "rawValue": "44,5 kg",
+      "valueType": "enum",
+      "numericValue": 44.5,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "foamDensity",
+      "label": "Foam density",
+      "group": "padding",
+      "groupLabel": "Padding",
+      "value": "24 kg/m³",
+      "numericValue": 24,
+      "unit": "kg/m³",
+      "allowSpecificationAttributeLinking": true
+    },
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Metal, Fabric, Plywood, Wood, Foam",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    },
+    {
+      "key": "lightfastness",
+      "label": "Lightfastness",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "4",
+      "numericValue": 4,
+      "unit": "",
+      "allowSpecificationAttributeLinking": true
+    },
+    {
+      "key": "pilling",
+      "label": "Pilling",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "4",
+      "numericValue": 4,
+      "unit": "",
+      "allowSpecificationAttributeLinking": true
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Brown",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/brown/\">Brown</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Metal, Fabric, Plywood, Wood, Foam",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/metal/\">Metal</a><a class=\"spec-link-chip\" href=\"/materials/fabric/\">Fabric</a><a class=\"spec-link-chip\" href=\"/materials/plywood/\">Plywood</a><a class=\"spec-link-chip\" href=\"/materials/wood/\">Wood</a><a class=\"spec-link-chip\" href=\"/materials/foam/\">Foam</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "266 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "266 cm",
+          "href": "/attributes/dimensions/width/266-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/266-cm/\">266 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "106 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "106 cm",
+          "href": "/attributes/dimensions/depth/106-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/106-cm/\">106 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "89 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "89 cm",
+          "href": "/attributes/dimensions/height/89-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/89-cm/\">89 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "87 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "87 kg",
+          "href": "/attributes/logistics/weight/87-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/87-kg/\">87 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/four-seater-sofas/heaven/208780_1.avif",
+  "imageUrls": [
+    "/products/four-seater-sofas/heaven/208780_1.avif",
+    "/products/four-seater-sofas/heaven/208780_2.avif",
+    "/products/four-seater-sofas/heaven/208780_3.avif",
+    "/products/four-seater-sofas/heaven/208780_4.avif",
+    "/products/four-seater-sofas/heaven/208780_5.avif",
+    "/products/four-seater-sofas/heaven/208780_6.avif",
+    "/products/four-seater-sofas/heaven/208780_7.avif",
+    "/products/four-seater-sofas/heaven/208780_8.avif",
+    "/products/four-seater-sofas/heaven/208780_9.avif",
+    "/products/four-seater-sofas/heaven/208780_10.avif",
+    "/products/four-seater-sofas/heaven/208780_11.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/208780-heaven-4-ist-sohva-ruskea"
+}

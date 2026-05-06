@@ -1,0 +1,26 @@
+[
+  {
+    "name": "voyage",
+    "href": "/products/armchairs/voyage/",
+    "type": "dir",
+    "title": "Voyage",
+    "schemaCategory": "Armchairs and 3-Seater Sofas",
+    "variantCount": 4
+  },
+  {
+    "name": "staycation",
+    "href": "/products/pillows/staycation/",
+    "type": "dir",
+    "title": "Staycation",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  },
+  {
+    "name": "sulo",
+    "href": "/products/three-seater-sofas/sulo/",
+    "type": "dir",
+    "title": "Sulo",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1
+  }
+]

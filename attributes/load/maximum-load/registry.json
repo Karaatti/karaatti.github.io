@@ -1,0 +1,527 @@
+{
+  "attributeKey": "maximumLoad",
+  "attributeLabel": "Maximum load",
+  "group": "load",
+  "groupLabel": "Load",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 9,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 10,
+        "max": 200,
+        "count": 9,
+        "distinctCount": 9
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "load",
+      "groupLabel": "Load",
+      "attributeKey": "maximumLoad",
+      "attributeLabel": "Maximum load",
+      "value": "10 kg",
+      "valueSlug": "10-kg",
+      "valueType": "measurement",
+      "numericValue": 10,
+      "unit": "kg",
+      "productTypes": [
+        "Cabinets Display",
+        "Coffee Tables",
+        "Side Tables"
+      ],
+      "familyCount": 4,
+      "variantCount": 6,
+      "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/island",
+          "familyTitle": "Island",
+          "familySummary": "Stackable two-piece coffee table in brown or beige with a soft asymmetrical shape for flexible living room layouts.",
+          "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
+          "schemaCategory": "Coffee Tables",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/reef",
+          "familyTitle": "Reef",
+          "familySummary": "Compact coffee table with a warm American walnut finish and practical dimensions suitable for various interiors.",
+          "primaryImageUrl": "/products/coffee-tables/reef/198072_1.avif",
+          "schemaCategory": "Coffee Tables",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/mystery",
+          "familyTitle": "Mystery",
+          "familySummary": "The Mystery Shelf in black combines metal and oak veneer in a minimalist design. It provides four spacious shelves suitable for books and decorative items, fitting well in modern and industrial interiors.",
+          "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+          "schemaCategory": "Shelves",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/swallow",
+          "familyTitle": "Swallow",
+          "familySummary": "Round side table made of natural rubberwood with a 45 cm diameter top. Minimalist design with smooth, rounded edges.",
+          "primaryImageUrl": "/products/side-tables/swallow/198080_1.avif",
+          "schemaCategory": "Side Tables",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "kg"
+        ],
+        "ranges": [
+          {
+            "unit": "kg",
+            "min": 10,
+            "max": 10,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "10 kg is a published maximum load used across selected Nest & Living products. Common on Cabinets Display, Coffee Table and Side Table."
+    },
+    {
+      "group": "load",
+      "groupLabel": "Load",
+      "attributeKey": "maximumLoad",
+      "attributeLabel": "Maximum load",
+      "value": "30 kg",
+      "valueSlug": "30-kg",
+      "valueType": "measurement",
+      "numericValue": 30,
+      "unit": "kg",
+      "productTypes": [
+        "Console Tables"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/oak",
+          "familyTitle": "Oak",
+          "familySummary": "Oak console table in natural oak veneer offers a modern Scandinavian look for living rooms, hallways or offices. The warm brown tone creates a cozy atmosphere. Two integrated drawers provide practical storage. A versatile and durable piece that complements the home.",
+          "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+          "schemaCategory": "Console Tables",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "kg"
+        ],
+        "ranges": [
+          {
+            "unit": "kg",
+            "min": 30,
+            "max": 30,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "30 kg is a published maximum load used across selected Nest & Living products. Common on Console Table."
+    },
+    {
+      "group": "load",
+      "groupLabel": "Load",
+      "attributeKey": "maximumLoad",
+      "attributeLabel": "Maximum load",
+      "value": "50 kg",
+      "valueSlug": "50-kg",
+      "valueType": "measurement",
+      "numericValue": 50,
+      "unit": "kg",
+      "productTypes": [
+        "Outdoor Dining Tables"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/outdoor-dining-tables/messina/195643_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/messina",
+          "familyTitle": "Messina",
+          "familySummary": "Messina dining table 220x100 cm provides a practical and elegant outdoor dining option. Its natural toned top and aluminium frame create a modern Scandinavian look. Suitable for garden, terrace or large balcony, it offers a spacious and low-maintenance surface.",
+          "primaryImageUrl": "/products/outdoor-dining-tables/messina/195643_1.avif",
+          "schemaCategory": "Outdoor Dining Tables",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "kg"
+        ],
+        "ranges": [
+          {
+            "unit": "kg",
+            "min": 50,
+            "max": 50,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "50 kg is a published maximum load used across selected Nest & Living products. Common on Outdoor Dining Table."
+    },
+    {
+      "group": "load",
+      "groupLabel": "Load",
+      "attributeKey": "maximumLoad",
+      "attributeLabel": "Maximum load",
+      "value": "100 kg",
+      "valueSlug": "100-kg",
+      "valueType": "measurement",
+      "numericValue": 100,
+      "unit": "kg",
+      "productTypes": [
+        "Cabinets Display",
+        "Outdoor Lounge Sets"
+      ],
+      "familyCount": 2,
+      "variantCount": 2,
+      "primaryImageUrl": "/products/outdoor-lounge-sets/haven/206767_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/haven",
+          "familyTitle": "Haven",
+          "familySummary": "Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies.",
+          "primaryImageUrl": "/products/outdoor-lounge-sets/haven/206767_1.avif",
+          "schemaCategory": "Outdoor Lounge Sets",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/mystery",
+          "familyTitle": "Mystery",
+          "familySummary": "The Mystery Shelf in black combines metal and oak veneer in a minimalist design. It provides four spacious shelves suitable for books and decorative items, fitting well in modern and industrial interiors.",
+          "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+          "schemaCategory": "Shelves",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "kg"
+        ],
+        "ranges": [
+          {
+            "unit": "kg",
+            "min": 100,
+            "max": 100,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "100 kg is a published maximum load used across selected Nest & Living products. Common on Cabinets Display and Outdoor Lounge Set."
+    },
+    {
+      "group": "load",
+      "groupLabel": "Load",
+      "attributeKey": "maximumLoad",
+      "attributeLabel": "Maximum load",
+      "value": "110 kg",
+      "valueSlug": "110-kg",
+      "valueType": "measurement",
+      "numericValue": 110,
+      "unit": "kg",
+      "productTypes": [
+        "Armchairs",
+        "Bar Stools",
+        "Fixed Armchairs",
+        "Outdoor Sun Loungers"
+      ],
+      "familyCount": 4,
+      "variantCount": 7,
+      "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/eagle",
+          "familyTitle": "Eagle",
+          "familySummary": "A modern armchair with a natural wood frame and soft upholstery, designed for comfort and understated style.",
+          "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
+          "schemaCategory": "Armchairs",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/merida",
+          "familyTitle": "Merida",
+          "familySummary": "Bar stool with natural oak frame and light fabric seat. Scandinavian style suitable for kitchen bars and dining areas.",
+          "primaryImageUrl": "/products/bar-stools/merida/198084_1.avif",
+          "schemaCategory": "Bar Stools",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/dove",
+          "familyTitle": "Dove",
+          "familySummary": "Armchair with a walnut rubberwood frame and beige fabric upholstery. Offers comfortable seating with a high back and soft seat.",
+          "primaryImageUrl": "/products/armchairs/dove/198105_1.avif",
+          "schemaCategory": "Armchairs",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/house-nordic-derby",
+          "familyTitle": "House Nordic Derby",
+          "familySummary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+          "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+          "schemaCategory": "Outdoor Sun Loungers",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "kg"
+        ],
+        "ranges": [
+          {
+            "unit": "kg",
+            "min": 110,
+            "max": 110,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "110 kg is a published maximum load used across selected Nest & Living products. Common on Armchair, Bar Stool, Fixed Armchair and Outdoor Sun Lounger."
+    },
+    {
+      "group": "load",
+      "groupLabel": "Load",
+      "attributeKey": "maximumLoad",
+      "attributeLabel": "Maximum load",
+      "value": "120 kg",
+      "valueSlug": "120-kg",
+      "valueType": "measurement",
+      "numericValue": 120,
+      "unit": "kg",
+      "productTypes": [
+        "Dining Chairs",
+        "Outdoor Dining Chairs",
+        "Outdoor Dining Tables",
+        "Outdoor Lounge Seating",
+        "Swivel Chairs"
+      ],
+      "familyCount": 6,
+      "variantCount": 15,
+      "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/saarni",
+          "familyTitle": "Saarni",
+          "familySummary": "Light brown stackable dining chair with aluminium frame and nonwood surfaces. Suitable for indoor and outdoor use.",
+          "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+          "schemaCategory": "Outdoor Dining Chairs and Outdoor Dining Tables",
+          "variantCount": 6
+        },
+        {
+          "familyRelativeDir": "families/bow",
+          "familyTitle": "Bow",
+          "familySummary": "Upholstered dining chair with metal frame and plywood structure, available in three colours.",
+          "primaryImageUrl": "/products/dining-chairs/bow/198099_1.avif",
+          "schemaCategory": "Dining Chairs",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/nicola",
+          "familyTitle": "Nicola",
+          "familySummary": "Dining chair with an oak frame and beige fabric upholstery, designed for comfort and understated style.",
+          "primaryImageUrl": "/products/dining-chairs/nicola/200739_1.avif",
+          "schemaCategory": "Dining Chairs",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/bay",
+          "familyTitle": "Bay",
+          "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+          "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/haven",
+          "familyTitle": "Haven",
+          "familySummary": "Haven lounge chair combines natural colored polyrattan with beige cushions and a black frame for a practical and comfortable outdoor seat.",
+          "primaryImageUrl": "/products/outdoor-lounge-seating/haven/197618_1.avif",
+          "schemaCategory": "Outdoor Lounge Seating",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/messina",
+          "familyTitle": "Messina",
+          "familySummary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
+          "primaryImageUrl": "/products/outdoor-dining-chairs/messina/206762_1.avif",
+          "schemaCategory": "Outdoor Dining Chairs",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "kg"
+        ],
+        "ranges": [
+          {
+            "unit": "kg",
+            "min": 120,
+            "max": 120,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "120 kg is a published maximum load used across selected Nest & Living products. Common on Dining Chair, Outdoor Dining Chair, Outdoor Dining Table, Outdoor Lounge Seating and Swivel Chair."
+    },
+    {
+      "group": "load",
+      "groupLabel": "Load",
+      "attributeKey": "maximumLoad",
+      "attributeLabel": "Maximum load",
+      "value": "125 kg",
+      "valueSlug": "125-kg",
+      "valueType": "measurement",
+      "numericValue": 125,
+      "unit": "kg",
+      "productTypes": [
+        "Outdoor Lounge Seating"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/house-nordic-derby",
+          "familyTitle": "House Nordic Derby",
+          "familySummary": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
+          "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+          "schemaCategory": "Outdoor Lounge Seating",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "kg"
+        ],
+        "ranges": [
+          {
+            "unit": "kg",
+            "min": 125,
+            "max": 125,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "125 kg is a published maximum load used across selected Nest & Living products. Common on Outdoor Lounge Seating."
+    },
+    {
+      "group": "load",
+      "groupLabel": "Load",
+      "attributeKey": "maximumLoad",
+      "attributeLabel": "Maximum load",
+      "value": "150 kg",
+      "valueSlug": "150-kg",
+      "valueType": "measurement",
+      "numericValue": 150,
+      "unit": "kg",
+      "productTypes": [
+        "Outdoor Dining Chairs"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/messina",
+          "familyTitle": "Messina",
+          "familySummary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
+          "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+          "schemaCategory": "Outdoor Dining Chairs",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "kg"
+        ],
+        "ranges": [
+          {
+            "unit": "kg",
+            "min": 150,
+            "max": 150,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "150 kg is a published maximum load used across selected Nest & Living products. Common on Outdoor Dining Chair."
+    },
+    {
+      "group": "load",
+      "groupLabel": "Load",
+      "attributeKey": "maximumLoad",
+      "attributeLabel": "Maximum load",
+      "value": "200 kg",
+      "valueSlug": "200-kg",
+      "valueType": "measurement",
+      "numericValue": 200,
+      "unit": "kg",
+      "productTypes": [
+        "Chaise Sofas"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/aava",
+          "familyTitle": "Aava",
+          "familySummary": "Spacious 4-seater chaise sofa with durable fabric upholstery and natural oak legs. Features reversible chaise for flexible layout.",
+          "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+          "schemaCategory": "Chaise Sofas",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "kg"
+        ],
+        "ranges": [
+          {
+            "unit": "kg",
+            "min": 200,
+            "max": 200,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "200 kg is a published maximum load used across selected Nest & Living products. Common on Chaise Sofa."
+    }
+  ]
+}

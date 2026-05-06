@@ -1,0 +1,26 @@
+[
+  {
+    "name": "89-cm",
+    "label": "89 cm",
+    "href": "/attributes/dimensions/main-section-depth/89-cm/",
+    "type": "dir",
+    "description": "89 cm is a published main section depth used across selected Nest & Living products. Common on Chaise Sofa.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 89,
+    "unit": "cm"
+  },
+  {
+    "name": "106-cm",
+    "label": "106 cm",
+    "href": "/attributes/dimensions/main-section-depth/106-cm/",
+    "type": "dir",
+    "description": "106 cm is a published main section depth used across selected Nest & Living products. Common on 4-Seater Sofa.",
+    "familyCount": 1,
+    "variantCount": 3,
+    "valueType": "measurement",
+    "numericValue": 106,
+    "unit": "cm"
+  }
+]

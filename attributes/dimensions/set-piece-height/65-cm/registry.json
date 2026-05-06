@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "setPieceHeight",
+  "attributeLabel": "Set piece height",
+  "value": "65 cm",
+  "valueSlug": "65-cm",
+  "valueType": "measurement",
+  "numericValue": 65,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Lounge Sets"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/outdoor-lounge-sets/haven/197627_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/haven",
+      "familyTitle": "Haven",
+      "familySummary": "Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies.",
+      "primaryImageUrl": "/products/outdoor-lounge-sets/haven/197627_1.avif",
+      "schemaCategory": "Outdoor Lounge Sets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 65,
+        "max": 65,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "65 cm is a published set piece height used across selected Nest & Living products. Common on Outdoor Lounge Set."
+}

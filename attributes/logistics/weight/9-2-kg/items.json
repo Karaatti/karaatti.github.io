@@ -1,0 +1,26 @@
+[
+  {
+    "name": "hike",
+    "href": "/families/hike/",
+    "type": "dir",
+    "title": "Hike",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 5
+  },
+  {
+    "name": "haley",
+    "href": "/families/haley/",
+    "type": "dir",
+    "title": "Haley",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 4
+  },
+  {
+    "name": "hix",
+    "href": "/families/hix/",
+    "type": "dir",
+    "title": "Hix",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 3
+  }
+]

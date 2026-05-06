@@ -1,0 +1,79 @@
+{
+  "attributeKey": "armrestWidth",
+  "attributeLabel": "Armrest width",
+  "group": "seating",
+  "groupLabel": "Seating",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 26,
+        "max": 26,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "seating",
+      "groupLabel": "Seating",
+      "attributeKey": "armrestWidth",
+      "attributeLabel": "Armrest width",
+      "value": "26 cm",
+      "valueSlug": "26-cm",
+      "valueType": "measurement",
+      "numericValue": 26,
+      "unit": "cm",
+      "productTypes": [
+        "3-Seater Sofas",
+        "Chaise Sofas",
+        "Corner Sofas"
+      ],
+      "familyCount": 2,
+      "variantCount": 12,
+      "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/lugo",
+          "familyTitle": "Lugo",
+          "familySummary": "A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame.",
+          "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+          "schemaCategory": "Chaise Sofas, Corner Sofas and 3-Seater Sofas",
+          "variantCount": 10
+        },
+        {
+          "familyRelativeDir": "families/haave",
+          "familyTitle": "Haave",
+          "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+          "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+          "schemaCategory": "Corner Sofas",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 26,
+            "max": 26,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "26 cm is a published armrest width used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa and Corner Sofa."
+    }
+  ]
+}

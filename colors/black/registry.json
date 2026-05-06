@@ -1,0 +1,42 @@
+{
+  "label": "Black",
+  "description": "Black in interiors: Frames space, sharpens silhouettes and creates the strongest value contrast available in an interior palette.",
+  "intro": "Black appears across 17 product families and 63 options, especially on Adjustable Beds, Cabinets Display, Continental Beds, Dining Chairs, Divan Beds and Fixed Armchairs and 9 more.",
+  "theory": [
+    "Black is less a background colour than a visual anchor. It pulls edges into focus, increases contrast around neighbouring surfaces and can make surrounding colours appear cleaner and more saturated.",
+    "Because it absorbs light, black furniture visually recedes in bright rooms yet can feel heavy in low light. Finish matters: matte black feels softer, while glossy black behaves almost like a mirror."
+  ],
+  "palette": [
+    "Use black as the linework of the room: legs, frames, lamps, handles or one dominant statement piece rather than repeating full black masses everywhere.",
+    "The most reliable balance is black plus a light neutral plus one natural material. Wood, boucle, linen-like fabric and warm stone stop the palette becoming flat or severe."
+  ],
+  "partners": [
+    "white",
+    "beige",
+    "oak",
+    "walnut",
+    "brass"
+  ],
+  "profileRows": [
+    {
+      "label": "Colour role",
+      "value": "Deep anchor neutral"
+    },
+    {
+      "label": "Undertone",
+      "value": "Can read blue-black, charcoal-black or brown-black depending on finish."
+    },
+    {
+      "label": "Visual effect",
+      "value": "Frames space, sharpens silhouettes and creates the strongest value contrast available in an interior palette."
+    },
+    {
+      "label": "Works well with",
+      "value": "white, beige, oak, walnut and brass"
+    },
+    {
+      "label": "Balancing move",
+      "value": "Black already is the contrast tool, so soften it with texture, wood grain or warm neutrals when the room feels too stark."
+    }
+  ]
+}

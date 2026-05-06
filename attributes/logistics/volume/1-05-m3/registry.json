@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "1.05 m³",
+  "valueSlug": "1-05-m3",
+  "valueType": "measurement",
+  "numericValue": 1.05,
+  "unit": "m³",
+  "productTypes": [
+    "Corner Sofas",
+    "Outdoor Lounge Sets"
+  ],
+  "familyCount": 2,
+  "variantCount": 5,
+  "primaryImageUrl": "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_295_x_200_cm_9.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+      "primaryImageUrl": "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_295_x_200_cm_9.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/haven",
+      "familyTitle": "Haven",
+      "familySummary": "Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies.",
+      "primaryImageUrl": "/products/outdoor-lounge-sets/haven/197627_1.avif",
+      "schemaCategory": "Outdoor Lounge Sets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 1.05,
+        "max": 1.05,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "1.05 m³ is a published volume used across selected Nest & Living products. Common on Corner Sofa and Outdoor Lounge Set."
+}

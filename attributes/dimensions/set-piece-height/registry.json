@@ -1,0 +1,157 @@
+{
+  "attributeKey": "setPieceHeight",
+  "attributeLabel": "Set piece height",
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 3,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 65,
+        "max": 86,
+        "count": 3,
+        "distinctCount": 3
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "attributeKey": "setPieceHeight",
+      "attributeLabel": "Set piece height",
+      "value": "65 cm",
+      "valueSlug": "65-cm",
+      "valueType": "measurement",
+      "numericValue": 65,
+      "unit": "cm",
+      "productTypes": [
+        "Outdoor Lounge Sets"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/outdoor-lounge-sets/haven/197627_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/haven",
+          "familyTitle": "Haven",
+          "familySummary": "Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies.",
+          "primaryImageUrl": "/products/outdoor-lounge-sets/haven/197627_1.avif",
+          "schemaCategory": "Outdoor Lounge Sets",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 65,
+            "max": 65,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "65 cm is a published set piece height used across selected Nest & Living products. Common on Outdoor Lounge Set."
+    },
+    {
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "attributeKey": "setPieceHeight",
+      "attributeLabel": "Set piece height",
+      "value": "74 cm",
+      "valueSlug": "74-cm",
+      "valueType": "measurement",
+      "numericValue": 74,
+      "unit": "cm",
+      "productTypes": [
+        "Outdoor Lounge Sets"
+      ],
+      "familyCount": 1,
+      "variantCount": 2,
+      "primaryImageUrl": "/products/outdoor-lounge-sets/palazzo/208993_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/palazzo",
+          "familyTitle": "Palazzo",
+          "familySummary": "A modern and airy outdoor sofa set featuring a three-seat sofa, two armchairs, and lightweight tables. Designed for comfort and easy maintenance.",
+          "primaryImageUrl": "/products/outdoor-lounge-sets/palazzo/208993_1.avif",
+          "schemaCategory": "Outdoor Lounge Sets",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 74,
+            "max": 74,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "74 cm is a published set piece height used across selected Nest & Living products. Common on Outdoor Lounge Set."
+    },
+    {
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "attributeKey": "setPieceHeight",
+      "attributeLabel": "Set piece height",
+      "value": "86 cm",
+      "valueSlug": "86-cm",
+      "valueType": "measurement",
+      "numericValue": 86,
+      "unit": "cm",
+      "productTypes": [
+        "Outdoor Lounge Sets"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/outdoor-lounge-sets/haven/206767_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/haven",
+          "familyTitle": "Haven",
+          "familySummary": "Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies.",
+          "primaryImageUrl": "/products/outdoor-lounge-sets/haven/206767_1.avif",
+          "schemaCategory": "Outdoor Lounge Sets",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 86,
+            "max": 86,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "86 cm is a published set piece height used across selected Nest & Living products. Common on Outdoor Lounge Set."
+    }
+  ]
+}

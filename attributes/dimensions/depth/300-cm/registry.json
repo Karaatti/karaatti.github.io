@@ -1,0 +1,77 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "300 cm",
+  "valueSlug": "300-cm",
+  "valueType": "measurement",
+  "numericValue": 300,
+  "unit": "cm",
+  "productTypes": [
+    "Gazebos & Pergolas",
+    "Rugs"
+  ],
+  "familyCount": 5,
+  "variantCount": 7,
+  "primaryImageUrl": "/products/gazebos-pergolas/nordic/206776_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Nordic gazebo and pergola variants with adjustable slatted roofs, sturdy aluminium and steel frames, and terrace-ready shelter for outdoor living.",
+      "primaryImageUrl": "/products/gazebos-pergolas/nordic/206776_1.avif",
+      "schemaCategory": "Gazebos & Pergolas",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/bilbao",
+      "familyTitle": "Bilbao",
+      "familySummary": "Durable polypropylene rug with vintage-style grey, pink, and beige patterns. Suitable for living and dining rooms, easy to maintain.",
+      "primaryImageUrl": "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_2.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/dozza",
+      "familyTitle": "Dozza",
+      "familySummary": "Dozza is a modern grey polypropylene rug featuring a timeless oriental-inspired pattern. Its muted tones and low pile add warmth and style to living rooms, bedrooms, or hallways while offering practical durability.",
+      "primaryImageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/lucca",
+      "familyTitle": "Lucca",
+      "familySummary": "A smooth-surfaced oriental-style rug that offers a soft and pleasant feel underfoot while maintaining durability. Its carefully chosen plain or subtly patterned elements create a calm and stylish atmosphere suitable for various interiors.",
+      "primaryImageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/sevilla",
+      "familyTitle": "Sevilla",
+      "familySummary": "Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
+      "primaryImageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 300,
+        "max": 300,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "300 cm is a published depth used across selected Nest & Living products. Common on Gazebos & Pergola and Rug."
+}

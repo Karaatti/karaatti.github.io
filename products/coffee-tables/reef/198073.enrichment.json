@@ -1,0 +1,274 @@
+{
+  "sku": "198073",
+  "displayName": "Reef Coffee Table, Beige",
+  "metaTitle": "Reef Coffee Table, Beige - NEST & LIVING",
+  "metaDescription": "Beige travertin coffee table, 80 x 60 cm, with MDF and paper surface.",
+  "ogTitle": "Reef Coffee Table, Beige",
+  "ogDescription": "Beige travertin coffee table, 80 x 60 cm, with MDF and paper surface.",
+  "shortDescription": "Beige travertin coffee table, 80 x 60 cm, with MDF and paper surface.",
+  "familyDescription": "The Reef coffee table brings a natural and understated elegance to the home. Its beige travertin shade complements Scandinavian, minimalist, and bohemian interiors. The table’s compact size provides practical surface space while its durable and easy-care materials suit everyday use.",
+  "schemaCategory": "Coffee Tables",
+  "selectionAttributes": {
+    "dimensions": "80 x 60 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Beige",
+    "material": "MDF, Paper"
+  },
+  "attributes": [
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "60 cm",
+      "valueSlug": "60-cm",
+      "rawValue": "60 cm",
+      "valueType": "enum",
+      "numericValue": 60,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "80 cm",
+      "valueSlug": "80-cm",
+      "rawValue": "80 cm",
+      "valueType": "enum",
+      "numericValue": 80,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "40 cm",
+      "valueSlug": "40-cm",
+      "rawValue": "40 cm",
+      "valueType": "enum",
+      "numericValue": 40,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "21 kg",
+      "valueSlug": "21-kg",
+      "rawValue": "21 kg",
+      "valueType": "enum",
+      "numericValue": 21,
+      "unit": "kg",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Weight",
+      "sourceType": "specs"
+    },
+    {
+      "key": "maximumLoad",
+      "label": "Maximum load",
+      "group": "load",
+      "groupLabel": "Load",
+      "value": "10 kg",
+      "valueSlug": "10-kg",
+      "rawValue": "10 kg",
+      "valueType": "enum",
+      "numericValue": 10,
+      "unit": "kg",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Maksimikuorma",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "priceGuarantee",
+      "label": "Price guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "30 days",
+      "valueSlug": "30-days",
+      "rawValue": "30 päivää",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Hintatakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.24 m³",
+      "valueSlug": "0-24-m3",
+      "rawValue": "0,24 m³",
+      "valueType": "enum",
+      "numericValue": 0.24,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "23 kg",
+      "valueSlug": "23-kg",
+      "rawValue": "23 kg",
+      "valueType": "enum",
+      "numericValue": 23,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "MDF, Paper",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Beige",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/beige/\">Beige</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "MDF, Paper",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/mdf/\">MDF</a><a class=\"spec-link-chip\" href=\"/materials/paper/\">Paper</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "60 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "60 cm",
+          "href": "/attributes/dimensions/width/60-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/60-cm/\">60 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "80 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "80 cm",
+          "href": "/attributes/dimensions/depth/80-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/80-cm/\">80 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "40 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "40 cm",
+          "href": "/attributes/dimensions/height/40-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/40-cm/\">40 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "21 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "21 kg",
+          "href": "/attributes/logistics/weight/21-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/21-kg/\">21 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/coffee-tables/reef/198073_1.avif",
+  "imageUrls": [
+    "/products/coffee-tables/reef/198073_1.avif",
+    "/products/coffee-tables/reef/198073_2.avif",
+    "/products/coffee-tables/reef/198073_3.avif",
+    "/products/coffee-tables/reef/198073_4.avif",
+    "/products/coffee-tables/reef/198073_5.avif",
+    "/products/coffee-tables/reef/198073_6.avif",
+    "/products/coffee-tables/reef/198073_7.avif",
+    "/products/coffee-tables/reef/198073_8.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/198073-reef-sohvapoyta-80x60-beige"
+}

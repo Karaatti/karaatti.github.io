@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "40 kg",
+  "valueSlug": "40-kg",
+  "valueType": "measurement",
+  "numericValue": 40,
+  "unit": "kg",
+  "productTypes": [
+    "Cabinets Display"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/mystery",
+      "familyTitle": "Mystery",
+      "familySummary": "The Mystery Shelf in black combines metal and oak veneer in a minimalist design. It provides four spacious shelves suitable for books and decorative items, fitting well in modern and industrial interiors.",
+      "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+      "schemaCategory": "Shelves",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 40,
+        "max": 40,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "40 kg is a published weight used across selected Nest & Living products. Common on Cabinets Display."
+}

@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "13.5 kg",
+  "valueSlug": "13-5-kg",
+  "valueType": "measurement",
+  "numericValue": 13.5,
+  "unit": "kg",
+  "productTypes": [
+    "Headboards",
+    "Swivel Chairs"
+  ],
+  "familyCount": 2,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/blow",
+      "familyTitle": "Blow",
+      "familySummary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+      "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "A smooth, upholstered headboard offered in three neutral colours and multiple widths.",
+      "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_grey_1.avif",
+      "schemaCategory": "Headboards",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 13.5,
+        "max": 13.5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "13.5 kg is a published weight used across selected Nest & Living products. Common on Headboard and Swivel Chair."
+}

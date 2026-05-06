@@ -1,0 +1,53 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "205 cm",
+  "valueSlug": "205-cm",
+  "valueType": "measurement",
+  "numericValue": 205,
+  "unit": "cm",
+  "productTypes": [
+    "Corner Sofas",
+    "Outdoor Dining Tables"
+  ],
+  "familyCount": 2,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/cloud",
+      "familyTitle": "Cloud",
+      "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+      "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/saarni",
+      "familyTitle": "Saarni",
+      "familySummary": "Outdoor dining table with aluminium frame and nonwood surface in a light Beige tone. Practical and easy to maintain.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206642_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 205,
+        "max": 205,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "205 cm is a published depth used across selected Nest & Living products. Common on Corner Sofa and Outdoor Dining Table."
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "nordic",
+    "href": "/families/nordic/",
+    "type": "dir",
+    "title": "Nordic",
+    "schemaCategory": "Gazebos & Pergolas",
+    "variantCount": 3
+  },
+  {
+    "name": "bilbao",
+    "href": "/families/bilbao/",
+    "type": "dir",
+    "title": "Bilbao",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "dozza",
+    "href": "/families/dozza/",
+    "type": "dir",
+    "title": "Dozza",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "lucca",
+    "href": "/families/lucca/",
+    "type": "dir",
+    "title": "Lucca",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "sevilla",
+    "href": "/families/sevilla/",
+    "type": "dir",
+    "title": "Sevilla",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  }
+]

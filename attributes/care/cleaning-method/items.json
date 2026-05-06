@@ -1,0 +1,50 @@
+[
+  {
+    "name": "dry-clean",
+    "label": "Dry clean",
+    "href": "/attributes/care/cleaning-method/dry-clean/",
+    "type": "dir",
+    "description": "Dry clean is a published cleaning method option used across selected Nest & Living products. Common on 4-Seater Sofa and Swivel Chair.",
+    "familyCount": 5,
+    "variantCount": 13,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  },
+  {
+    "name": "wash-30c",
+    "label": "Wash 30°C",
+    "href": "/attributes/care/cleaning-method/wash-30c/",
+    "type": "dir",
+    "description": "Wash 30°C is a published cleaning method option used across selected Nest & Living products. Common on Corner Sofa.",
+    "familyCount": 2,
+    "variantCount": 4,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  },
+  {
+    "name": "wash-60c",
+    "label": "Wash 60°C",
+    "href": "/attributes/care/cleaning-method/wash-60c/",
+    "type": "dir",
+    "description": "Wash 60°C is a published cleaning method option used across selected Nest & Living products. Common on Duvet, Mattress Protector and Pillow.",
+    "familyCount": 5,
+    "variantCount": 16,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  },
+  {
+    "name": "water-wash",
+    "label": "Water wash",
+    "href": "/attributes/care/cleaning-method/water-wash/",
+    "type": "dir",
+    "description": "Water wash is a published cleaning method option used across selected Nest & Living products. Common on 3-Seater Sofa, Armchair, Duvet & Pillow Set, Duvet, Pillow and Rug.",
+    "familyCount": 11,
+    "variantCount": 27,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "no",
+    "label": "No",
+    "href": "/attributes/care/removable-covers/no/",
+    "type": "dir",
+    "description": "No is a published removable covers option used across selected Nest & Living products. Common on Corner Sofa and Swivel Chair.",
+    "familyCount": 3,
+    "variantCount": 5,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  },
+  {
+    "name": "yes",
+    "label": "Yes",
+    "href": "/attributes/care/removable-covers/yes/",
+    "type": "dir",
+    "description": "Yes is a published removable covers option used across selected Nest & Living products. Common on 3-Seater Sofa, Armchair, Corner Sofa, Outdoor Lounge Set and Topper.",
+    "familyCount": 6,
+    "variantCount": 47,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "westcoast",
+    "href": "/families/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 3
+  },
+  {
+    "name": "aava",
+    "href": "/families/aava/",
+    "type": "dir",
+    "title": "Aava",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 1
+  },
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Mattresses",
+    "variantCount": 1
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "13-cm",
+    "label": "13 cm",
+    "href": "/attributes/dimensions/pillow-height/13-cm/",
+    "type": "dir",
+    "description": "13 cm is a published pillow height used across selected Nest & Living products. Common on Duvet & Pillow Set.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 13,
+    "unit": "cm"
+  },
+  {
+    "name": "15-cm",
+    "label": "15 cm",
+    "href": "/attributes/dimensions/pillow-height/15-cm/",
+    "type": "dir",
+    "description": "15 cm is a published pillow height used across selected Nest & Living products. Common on Duvet & Pillow Set.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 15,
+    "unit": "cm"
+  }
+]

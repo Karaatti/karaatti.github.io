@@ -1,0 +1,26 @@
+[
+  {
+    "name": "westcoast",
+    "href": "/families/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 3
+  },
+  {
+    "name": "nest-living-gold",
+    "href": "/families/nest-living-gold/",
+    "type": "dir",
+    "title": "Nest & Living Gold",
+    "schemaCategory": "Duvets",
+    "variantCount": 1
+  },
+  {
+    "name": "sulo",
+    "href": "/families/sulo/",
+    "type": "dir",
+    "title": "Sulo",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1
+  }
+]

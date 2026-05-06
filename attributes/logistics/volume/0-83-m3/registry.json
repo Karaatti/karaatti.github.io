@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.83 m³",
+  "valueSlug": "0-83-m3",
+  "valueType": "measurement",
+  "numericValue": 0.83,
+  "unit": "m³",
+  "productTypes": [
+    "Divan Beds"
+  ],
+  "familyCount": 1,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Divan bed with 7-zone pocket spring system offering firm support and ergonomic comfort. Available in various sizes and neutral tones.",
+      "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_3.avif",
+      "schemaCategory": "Divan Beds",
+      "variantCount": 4
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.83,
+        "max": 0.83,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.83 m³ is a published volume used across selected Nest & Living products. Common on Divan Bed."
+}

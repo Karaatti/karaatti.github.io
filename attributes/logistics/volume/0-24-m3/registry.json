@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.24 m³",
+  "valueSlug": "0-24-m3",
+  "valueType": "measurement",
+  "numericValue": 0.24,
+  "unit": "m³",
+  "productTypes": [
+    "Coffee Tables",
+    "Headboards"
+  ],
+  "familyCount": 2,
+  "variantCount": 5,
+  "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "A practical and understated headboard featuring button detailing in five rows. Available in several widths and neutral fabric colours.",
+      "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+      "schemaCategory": "Headboards",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/reef",
+      "familyTitle": "Reef",
+      "familySummary": "Compact coffee table with a warm American walnut finish and practical dimensions suitable for various interiors.",
+      "primaryImageUrl": "/products/coffee-tables/reef/198072_1.avif",
+      "schemaCategory": "Coffee Tables",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.24,
+        "max": 0.24,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.24 m³ is a published volume used across selected Nest & Living products. Common on Coffee Table and Headboard."
+}

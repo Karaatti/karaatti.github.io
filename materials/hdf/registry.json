@@ -1,0 +1,82 @@
+{
+  "label": "HDF",
+  "description": "HDF in furniture: Dense, smooth and stable in thin sections, often used for backs and secondary panels.",
+  "intro": "HDF appears across 1 product family and 2 options, especially on Corner Sofas.",
+  "chemistry": [
+    "HDF uses fine wood fibres compressed more densely than MDF. The dense structure gives a smoother face, tighter dimensions and better suitability for thin components such as back panels and drawer bottoms.",
+    "Like other fibreboards, it depends on resin bonding and has no long natural grain to stop water ingress. Once moisture reaches the exposed fibre network, swelling can be severe."
+  ],
+  "furnitureUse": [
+    "HDF is useful where a manufacturer needs a flat, thin, paint-friendly panel rather than a visible solid-wood part. It helps furniture stay precise without adding much thickness.",
+    "It is not a moisture-tolerant exterior material and it is a poor choice for exposed edges that will take impacts. In furniture it performs best when enclosed and kept dry."
+  ],
+  "care": [
+    "Moisture and wear note: Swells badly if water reaches unsealed fibre edges.",
+    "Care note: Keep fibreboard panels dry and protect drilled edges and fastener points."
+  ],
+  "terminology": [],
+  "thermal": [
+    "HDF itself is not a heat-retaining comfort material. Compared with foam comfort layers it has little effect on sleeping temperature beyond the fact that enclosed panel builds reduce open airflow.",
+    "Temperature swings matter mainly because fibreboard plus humidity is a poor combination. Repeated damp-warm cycles stress finishes, joints and edge sealing."
+  ],
+  "recycling": [
+    "Finland-first sorting baseline: HDF belongs with bulky furniture or local treated-board acceptance, not with household paper, cardboard or packaging.",
+    "When HDF is bonded into drawers, back panels or upholstered furniture, sorting guidance should point to the full product through municipal bulky-waste handling unless clean separation is realistic."
+  ],
+  "durability": [
+    "HDF performs well in dry protected secondary parts, but it is unforgiving once water reaches the fibre structure.",
+    "The usual wear pattern is swelling, bowing or edge damage rather than gradual soft compression."
+  ],
+  "relatedSpecifications": [
+    "Back panel",
+    "Drawer-bottom panel",
+    "Thin fibreboard component"
+  ],
+  "lifecycleRows": [
+    {
+      "label": "Recycling in Finland",
+      "value": "Use municipal bulky-furniture or treated-board handling; keep it out of packaging and paper streams."
+    },
+    {
+      "label": "Expected wear profile",
+      "value": "Stable in dry protected use, but vulnerable to swelling and edge damage if moisture gets in."
+    },
+    {
+      "label": "Retail warranty note",
+      "value": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+    }
+  ],
+  "strengths": [
+    "smooth surface",
+    "stable thin panels",
+    "good dimensional precision"
+  ],
+  "watchouts": [
+    "poor wet performance",
+    "weak exposed edges",
+    "limited screw holding in thin sections"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "High-density fibreboard"
+    },
+    {
+      "label": "Composition",
+      "value": "Highly compressed wood fibres bonded with resin."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Dense, smooth and stable in thin sections, often used for backs and secondary panels."
+    },
+    {
+      "label": "Key strengths",
+      "value": "smooth surface, stable thin panels and good dimensional precision"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "poor wet performance, weak exposed edges and limited screw holding in thin sections"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

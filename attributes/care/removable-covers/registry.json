@@ -1,0 +1,174 @@
+{
+  "attributeKey": "removableCovers",
+  "attributeLabel": "Removable covers",
+  "group": "care",
+  "groupLabel": "Care",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 2,
+    "unitCount": 1,
+    "units": [
+      ""
+    ],
+    "ranges": [
+      {
+        "unit": "",
+        "min": 0,
+        "max": 0,
+        "count": 2,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "care",
+      "groupLabel": "Care",
+      "attributeKey": "removableCovers",
+      "attributeLabel": "Removable covers",
+      "value": "No",
+      "valueSlug": "no",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "productTypes": [
+        "Corner Sofas",
+        "Swivel Chairs"
+      ],
+      "familyCount": 3,
+      "variantCount": 5,
+      "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/cloud",
+          "familyTitle": "Cloud",
+          "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+          "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+          "schemaCategory": "Corner Sofas",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/wind",
+          "familyTitle": "Wind",
+          "familySummary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+          "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/bay",
+          "familyTitle": "Bay",
+          "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+          "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          ""
+        ],
+        "ranges": [
+          {
+            "unit": "",
+            "min": 0,
+            "max": 0,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "No is a published removable covers option used across selected Nest & Living products. Common on Corner Sofa and Swivel Chair."
+    },
+    {
+      "group": "care",
+      "groupLabel": "Care",
+      "attributeKey": "removableCovers",
+      "attributeLabel": "Removable covers",
+      "value": "Yes",
+      "valueSlug": "yes",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "productTypes": [
+        "3-Seater Sofas",
+        "Armchairs",
+        "Corner Sofas",
+        "Outdoor Lounge Sets",
+        "Toppers"
+      ],
+      "familyCount": 6,
+      "variantCount": 47,
+      "primaryImageUrl": "/products/toppers/moon-gold/197741_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/moon-gold",
+          "familyTitle": "Moon Gold",
+          "familySummary": "Grey latex mattress topper offers good support and breathability for a single bed. Suitable for improving sleep quality in the bedroom.",
+          "primaryImageUrl": "/products/toppers/moon-gold/197741_1.avif",
+          "schemaCategory": "Toppers",
+          "variantCount": 24
+        },
+        {
+          "familyRelativeDir": "families/moon-silver",
+          "familyTitle": "Moon Silver",
+          "familySummary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+          "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
+          "schemaCategory": "Toppers",
+          "variantCount": 8
+        },
+        {
+          "familyRelativeDir": "families/moon-bronze",
+          "familyTitle": "Moon Bronze",
+          "familySummary": "Moon Bronze Basic is a lightweight, breathable mattress topper that adds gentle cushioning and supports a neutral sleeping posture. Its white tone with subtle leaf patterns fits well in the bedroom.",
+          "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+          "schemaCategory": "Toppers",
+          "variantCount": 7
+        },
+        {
+          "familyRelativeDir": "families/voyage",
+          "familyTitle": "Voyage",
+          "familySummary": "A fixed armchair with a solid wood frame, soft foam and feather seat, and removable cotton covers in white or green.",
+          "primaryImageUrl": "/products/armchairs/voyage/208784_1.avif",
+          "schemaCategory": "Armchairs and 3-Seater Sofas",
+          "variantCount": 4
+        },
+        {
+          "familyRelativeDir": "families/haave",
+          "familyTitle": "Haave",
+          "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+          "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+          "schemaCategory": "Corner Sofas",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/palazzo",
+          "familyTitle": "Palazzo",
+          "familySummary": "A modern and airy outdoor sofa set featuring a three-seat sofa, two armchairs, and lightweight tables. Designed for comfort and easy maintenance.",
+          "primaryImageUrl": "/products/outdoor-lounge-sets/palazzo/208993_1.avif",
+          "schemaCategory": "Outdoor Lounge Sets",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          ""
+        ],
+        "ranges": [
+          {
+            "unit": "",
+            "min": 0,
+            "max": 0,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "Yes is a published removable covers option used across selected Nest & Living products. Common on 3-Seater Sofa, Armchair, Corner Sofa, Outdoor Lounge Set and Topper."
+    }
+  ]
+}

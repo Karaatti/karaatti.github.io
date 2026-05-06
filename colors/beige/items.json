@@ -1,0 +1,598 @@
+[
+  {
+    "name": "moon-gold",
+    "href": "/products/mattresses/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold Mattress",
+    "schemaCategory": "Mattresses",
+    "variantCount": 14,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "moon-gold",
+    "href": "/products/continental-beds/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold Continental Bed",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 12,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "moon-gold",
+    "href": "/products/divan-beds/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold Divan Bed",
+    "schemaCategory": "Divan Beds",
+    "variantCount": 9,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "westcoast",
+    "href": "/products/corner-sofas/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 6,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/products/headboards/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Headboards",
+    "variantCount": 5,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "moon-gold",
+    "href": "/products/headboards/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold Headboard",
+    "schemaCategory": "Headboards",
+    "variantCount": 5,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "moon-silver",
+    "href": "/products/headboards/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Headboards",
+    "variantCount": 5,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "moon-silver",
+    "href": "/products/continental-beds/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver continental bed",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 5,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "nordic",
+    "href": "/products/outdoor-lounge-sets/nordic/",
+    "type": "dir",
+    "title": "Nordic Outdoor Lounge Set",
+    "schemaCategory": "Outdoor Lounge Sets",
+    "variantCount": 4,
+    "displayColors": [
+      "Beige",
+      "White"
+    ]
+  },
+  {
+    "name": "saarni",
+    "href": "/products/outdoor-dining-tables/saarni/",
+    "type": "dir",
+    "title": "Saarni",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 4,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "moon-gold",
+    "href": "/products/adjustable-beds/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold Adjustable Bed",
+    "schemaCategory": "Adjustable Beds",
+    "variantCount": 3,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "nicola",
+    "href": "/products/dining-chairs/nicola/",
+    "type": "dir",
+    "title": "Nicola",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 3,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "nordic",
+    "href": "/products/outdoor-lounge-seating/nordic/",
+    "type": "dir",
+    "title": "Nordic Outdoor Lounge Seating",
+    "schemaCategory": "Outdoor Lounge Seating",
+    "variantCount": 3,
+    "displayColors": [
+      "Beige",
+      "White"
+    ]
+  },
+  {
+    "name": "cloud",
+    "href": "/products/corner-sofas/cloud/",
+    "type": "dir",
+    "title": "Cloud Corner Sofas",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "haave",
+    "href": "/products/corner-sofas/haave/",
+    "type": "dir",
+    "title": "Haave",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "haley",
+    "href": "/products/decorative-cushions/haley/",
+    "type": "dir",
+    "title": "Haley Decorative Cushion",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "haven",
+    "href": "/products/outdoor-lounge-sets/haven/",
+    "type": "dir",
+    "title": "Haven",
+    "schemaCategory": "Outdoor Lounge Sets",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige",
+      "Brown"
+    ]
+  },
+  {
+    "name": "heaven",
+    "href": "/products/four-seater-sofas/heaven/",
+    "type": "dir",
+    "title": "Heaven",
+    "schemaCategory": "4-Seater Sofas",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "hix",
+    "href": "/products/decorative-cushions/hix/",
+    "type": "dir",
+    "title": "Hix Decorative Cushion",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "lugo",
+    "href": "/products/chaise-sofas/lugo/",
+    "type": "dir",
+    "title": "Lugo",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "lugo",
+    "href": "/products/corner-sofas/lugo/",
+    "type": "dir",
+    "title": "Lugo",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "lyra",
+    "href": "/products/rugs/lyra/",
+    "type": "dir",
+    "title": "Lyra",
+    "schemaCategory": "Rugs",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige",
+      "Brown",
+      "Orange"
+    ]
+  },
+  {
+    "name": "merida",
+    "href": "/products/bar-stools/merida/",
+    "type": "dir",
+    "title": "Merida",
+    "schemaCategory": "Bar Stools",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige",
+      "White"
+    ]
+  },
+  {
+    "name": "metz",
+    "href": "/products/dining-tables/metz/",
+    "type": "dir",
+    "title": "Metz",
+    "schemaCategory": "Dining Tables",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige",
+      "Brown"
+    ]
+  },
+  {
+    "name": "moderni",
+    "href": "/products/rugs/moderni/",
+    "type": "dir",
+    "title": "Moderni",
+    "schemaCategory": "Rugs",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "moonlit",
+    "href": "/products/bed-frames/moonlit/",
+    "type": "dir",
+    "title": "Moonlit",
+    "schemaCategory": "Bed Frames",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "nordic",
+    "href": "/products/outdoor-storage/nordic/",
+    "type": "dir",
+    "title": "Nordic Outdoor Storage",
+    "schemaCategory": "Outdoor Storage",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "palazzo",
+    "href": "/products/outdoor-lounge-sets/palazzo/",
+    "type": "dir",
+    "title": "Palazzo",
+    "schemaCategory": "Outdoor Lounge Sets",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige",
+      "Black"
+    ]
+  },
+  {
+    "name": "ruutu",
+    "href": "/products/rugs/ruutu/",
+    "type": "dir",
+    "title": "Ruutu",
+    "schemaCategory": "Rugs",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "saaga",
+    "href": "/products/rugs/saaga/",
+    "type": "dir",
+    "title": "Saaga",
+    "schemaCategory": "Rugs",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige",
+      "Red"
+    ]
+  },
+  {
+    "name": "sirmione",
+    "href": "/products/rugs/sirmione/",
+    "type": "dir",
+    "title": "Sirmione",
+    "schemaCategory": "Rugs",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "westcoast",
+    "href": "/products/chaise-sofas/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "aava",
+    "href": "/products/chaise-sofas/aava/",
+    "type": "dir",
+    "title": "Aava",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "bay",
+    "href": "/products/swivel-chairs/bay/",
+    "type": "dir",
+    "title": "Bay",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige",
+      "Black"
+    ]
+  },
+  {
+    "name": "blow",
+    "href": "/products/swivel-chairs/blow/",
+    "type": "dir",
+    "title": "Blow",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "casa",
+    "href": "/products/bed-frames/casa/",
+    "type": "dir",
+    "title": "Casa",
+    "schemaCategory": "Bed Frames",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "dove",
+    "href": "/products/armchairs/dove/",
+    "type": "dir",
+    "title": "Dove",
+    "schemaCategory": "Armchairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige",
+      "Brown"
+    ]
+  },
+  {
+    "name": "eagle",
+    "href": "/products/armchairs/eagle/",
+    "type": "dir",
+    "title": "Eagle Fixed Armchair",
+    "schemaCategory": "Armchairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige",
+      "Brown"
+    ]
+  },
+  {
+    "name": "haley",
+    "href": "/products/footstools/haley/",
+    "type": "dir",
+    "title": "Haley Footstool",
+    "schemaCategory": "Footstools",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "house-nordic-derby",
+    "href": "/products/outdoor-lounge-seating/house-nordic-derby/",
+    "type": "dir",
+    "title": "House Nordic Derby Outdoor Lounge Seating",
+    "schemaCategory": "Outdoor Lounge Seating",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "house-nordic-derby",
+    "href": "/products/outdoor-sun-loungers/house-nordic-derby/",
+    "type": "dir",
+    "title": "House Nordic Derby Outdoor Sun Lounger",
+    "schemaCategory": "Outdoor Sun Loungers",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "island",
+    "href": "/products/coffee-tables/island/",
+    "type": "dir",
+    "title": "Island coffee table, stackable",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "lugo",
+    "href": "/products/footstools/lugo/",
+    "type": "dir",
+    "title": "Lugo",
+    "schemaCategory": "Footstools",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "lugo",
+    "href": "/products/three-seater-sofas/lugo/",
+    "type": "dir",
+    "title": "Lugo",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "messina",
+    "href": "/products/outdoor-dining-chairs/messina/",
+    "type": "dir",
+    "title": "Messina",
+    "schemaCategory": "Outdoor Dining Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "messina",
+    "href": "/products/outdoor-dining-tables/messina/",
+    "type": "dir",
+    "title": "Messina",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige",
+      "Brown"
+    ]
+  },
+  {
+    "name": "moon",
+    "href": "/products/mobile-phone-pockets/moon/",
+    "type": "dir",
+    "title": "Moon",
+    "schemaCategory": "Mobile Phone Pockets",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "nordic",
+    "href": "/products/gazebos-pergolas/nordic/",
+    "type": "dir",
+    "title": "Nordic Gazebos & Pergolas",
+    "schemaCategory": "Gazebos & Pergolas",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "reef",
+    "href": "/products/coffee-tables/reef/",
+    "type": "dir",
+    "title": "Reef",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "westcoast",
+    "href": "/products/footstools/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Footstools",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "westcoast",
+    "href": "/products/sofa-accessories/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Sofa Accessories",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "westcoast",
+    "href": "/products/three-seater-sofas/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "wind",
+    "href": "/products/swivel-chairs/wind/",
+    "type": "dir",
+    "title": "Wind",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  }
+]

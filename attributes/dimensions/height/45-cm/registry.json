@@ -1,0 +1,53 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "45 cm",
+  "valueSlug": "45-cm",
+  "valueType": "measurement",
+  "numericValue": 45,
+  "unit": "cm",
+  "productTypes": [
+    "Coffee Tables",
+    "Footstools"
+  ],
+  "familyCount": 2,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Compact footstool with a soft polyester cover and metal legs. Available in Beige, brown and grey.",
+      "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+      "schemaCategory": "Footstools",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/islet",
+      "familyTitle": "Islet",
+      "familySummary": "Islet round coffee table in walnut brown with an 80 cm diameter. Features a durable MDF frame and a stable conical leg for everyday use.",
+      "primaryImageUrl": "/products/coffee-tables/islet/198067_1.avif",
+      "schemaCategory": "Coffee Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 45,
+        "max": 45,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "45 cm is a published height used across selected Nest & Living products. Common on Coffee Table and Footstool."
+}

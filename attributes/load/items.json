@@ -1,0 +1,27 @@
+[
+  {
+    "name": "maximum-load",
+    "label": "Maximum load",
+    "href": "/attributes/load/maximum-load/",
+    "type": "dir",
+    "entryCount": 9,
+    "variantCount": 35,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 9,
+      "unitCount": 1,
+      "units": [
+        "kg"
+      ],
+      "ranges": [
+        {
+          "unit": "kg",
+          "min": 10,
+          "max": 200,
+          "count": 9,
+          "distinctCount": 9
+        }
+      ]
+    }
+  }
+]

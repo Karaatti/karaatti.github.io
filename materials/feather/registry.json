@@ -1,0 +1,56 @@
+{
+  "label": "Feather",
+  "description": "Feather in furniture: High loft, soft compression and airy comfort with a relaxed, lounge-like sit.",
+  "intro": "Feather appears across 3 product families and 6 options, especially on 3-Seater Sofas, Armchairs and Pillows.",
+  "chemistry": [
+    "Feathers are protein structures made mostly from keratin. They trap air efficiently, which is why feather-filled cushions feel light, insulating and compressible.",
+    "Unlike moulded foam, feather is a loose fill. It shifts under load, recovers through manual plumping and creates a softer, less sculpted silhouette."
+  ],
+  "furnitureUse": [
+    "Feather works best as a comfort layer in back cushions and premium seat toppers where a relaxed sink-in feel matters more than a crisp architectural edge.",
+    "It is rarely sufficient as the only support medium in a seat base. Most furniture pairs it with foam or a spring platform so the cushion keeps shape and does not bottom out."
+  ],
+  "care": [
+    "Moisture and wear note: Breathes well but should stay dry; persistent moisture can create odour and hygiene issues.",
+    "Care note: Plump cushions often and use lined covers to reduce migration through the shell fabric."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [],
+  "durability": [],
+  "relatedSpecifications": [],
+  "lifecycleRows": [],
+  "strengths": [
+    "soft loft",
+    "premium lounge comfort",
+    "good breathability"
+  ],
+  "watchouts": [
+    "needs regular plumping",
+    "can migrate inside covers",
+    "not ideal for sharply tailored shapes"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Natural protein fill"
+    },
+    {
+      "label": "Composition",
+      "value": "Keratin-based loose filling used inside cushions."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "High loft, soft compression and airy comfort with a relaxed, lounge-like sit."
+    },
+    {
+      "label": "Key strengths",
+      "value": "soft loft, premium lounge comfort and good breathability"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "needs regular plumping, can migrate inside covers and not ideal for sharply tailored shapes"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

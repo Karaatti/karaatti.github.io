@@ -1,0 +1,113 @@
+{
+  "attributeKey": "mainSectionDepth",
+  "attributeLabel": "Main section depth",
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 2,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 89,
+        "max": 106,
+        "count": 2,
+        "distinctCount": 2
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "attributeKey": "mainSectionDepth",
+      "attributeLabel": "Main section depth",
+      "value": "89 cm",
+      "valueSlug": "89-cm",
+      "valueType": "measurement",
+      "numericValue": 89,
+      "unit": "cm",
+      "productTypes": [
+        "Chaise Sofas"
+      ],
+      "familyCount": 1,
+      "variantCount": 2,
+      "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/aava",
+          "familyTitle": "Aava",
+          "familySummary": "Spacious 4-seater chaise sofa with durable fabric upholstery and natural oak legs. Features reversible chaise for flexible layout.",
+          "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+          "schemaCategory": "Chaise Sofas",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 89,
+            "max": 89,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "89 cm is a published main section depth used across selected Nest & Living products. Common on Chaise Sofa."
+    },
+    {
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "attributeKey": "mainSectionDepth",
+      "attributeLabel": "Main section depth",
+      "value": "106 cm",
+      "valueSlug": "106-cm",
+      "valueType": "measurement",
+      "numericValue": 106,
+      "unit": "cm",
+      "productTypes": [
+        "4-Seater Sofas"
+      ],
+      "familyCount": 1,
+      "variantCount": 3,
+      "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/heaven",
+          "familyTitle": "Heaven",
+          "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+          "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+          "schemaCategory": "4-Seater Sofas",
+          "variantCount": 3
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 106,
+            "max": 106,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "106 cm is a published main section depth used across selected Nest & Living products. Common on 4-Seater Sofa."
+    }
+  ]
+}

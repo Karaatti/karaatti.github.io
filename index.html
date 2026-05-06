@@ -5,12 +5,19 @@
   <meta charset="UTF-8" />
   <title>NEST &amp; LIVING</title>
   <meta name="description"
-    content="NEST & LIVING's exclusive collection of luxurious furniture. Elevate your space with stylish designs, ergonomic comfort, and exceptional quality at accessible prices. Explore our products today!">
-  <meta property="og:title" content="Nest & Living Furniture">
+    content="Nest &amp; Living offers good-quality furniture and bedroom essentials at a fair price. Browse beds, mattresses, seating, tables, and storage for everyday homes.">
+  <meta property="og:title" content="Nest &amp; Living Furniture">
+  <meta property="og:description"
+    content="Good-quality furniture and bedroom essentials at a fair price. Explore beds, mattresses, seating, tables, and storage from Nest &amp; Living.">
+  <meta property="og:image" content="/images/logo.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Nest &amp; Living Furniture">
+  <meta name="twitter:description"
+    content="Good-quality furniture and bedroom essentials at a fair price. Explore beds, mattresses, seating, tables, and storage from Nest &amp; Living.">
+  <meta name="twitter:image" content="/images/logo.svg">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="/styles.css" />
   <link rel="preload" as="image" href="images/hero.avif" type="image/avif">
-  <link rel="preload" href="/styles.css" as="style" onload="this.rel='stylesheet'">
   <link rel="preload" href="/fonts/Montserrat-VariableFont_wght.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/fonts/Vegur-Bold.woff2" as="font" type="font/woff2" crossorigin>
   <noscript>
@@ -19,6 +26,219 @@
 </head>
 
 <body>
+<header id="site-header" class="header">
+  <div class="header-container with-texture-2">
+    <a href="/" class="logo"><img src="/images/logo_small.svg" alt="Nest &amp; Living logo"><span class="logo-text">Nest &amp; Living</span></a>
+
+    <div class="header-search-slot" data-lazy-search-host="true">
+      <div class="search-wrapper search-wrapper--header">
+        <form class="search-form" role="search" aria-label="Product search" novalidate>
+          <div class="search-field">
+            <input
+              type="search"
+              class="search-input"
+              placeholder="Search products..."
+              autocomplete="off"
+              aria-label="Search products"
+              aria-controls="site-search-panel"
+              aria-expanded="false"
+            />
+            <button
+              type="button"
+              class="search-button"
+              title="Search products"
+              aria-label="Search products"
+              aria-expanded="false"
+              aria-controls="site-search-panel"
+            >
+              <svg viewBox="0 0 24 24" class="search-icon search-button-icon search-button-icon--search" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="6"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  fill="none"
+                />
+                <line
+                  x1="16.5"
+                  y1="16.5"
+                  x2="22"
+                  y2="22"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                />
+              </svg>
+              <svg viewBox="0 0 24 24" class="search-icon search-button-icon search-button-icon--clear" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                <line
+                  x1="6"
+                  y1="6"
+                  x2="18"
+                  y2="18"
+                  stroke="currentColor"
+                  stroke-width="2.2"
+                  stroke-linecap="round"
+                />
+                <line
+                  x1="18"
+                  y1="6"
+                  x2="6"
+                  y2="18"
+                  stroke="currentColor"
+                  stroke-width="2.2"
+                  stroke-linecap="round"
+                />
+              </svg>
+            </button>
+          </div>
+        </form>
+        <div
+          id="site-search-panel"
+          class="search-panel"
+          aria-hidden="true"
+        >
+          <div class="search-surface with-texture">
+            <div class="search-results-toolbar">
+              <p class="search-results-title">Search results</p>
+              <button type="button" class="search-results-close" aria-label="Close search results">Close</button>
+            </div>
+            <ul class="search-results" aria-live="polite"></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <nav class="nav">
+      <ul id="site-header-primary-nav" class="nav-links">
+        <li><a href="/#about">What is NEST &amp; LIVING?</a></li>
+        <li><a href="/#collection">Collections</a></li>
+        <li><a href="/#solutions">Bedroom Solutions</a></li>
+        <li class="nav-link-utility"><a href="/#retailers">Retailers</a></li>
+        <li class="nav-link-utility"><a href="/#contact">Contact</a></li>
+
+        <li class="dropdown">
+          <button type="button" class="dropdown-toggle">
+            Products <span class="arrow">&darr;</span>
+          </button>
+          <ul class="dropdown-menu">
+            <li>
+              <div class="dropdown-menu-group">
+                <a href="/collections/bedroom" data-submenu="/collections/bedroom">
+                  <img src="/images/bedroom.svg" alt="Bedroom icon" class="category-icon">
+                  Bedroom
+                </a>
+                <nav class="dropdown-menu-group-links" aria-label="Bedroom product groups">
+                    <a class="dropdown-menu-group-link" href="/products/adjustable-beds/">Adjustable Beds</a>
+                    <a class="dropdown-menu-group-link" href="/products/continental-beds/">Continental Beds</a>
+                    <a class="dropdown-menu-group-link" href="/products/divan-beds/">Divan Beds</a>
+                    <a class="dropdown-menu-group-link" href="/products/bed-frames/">Bed Frames</a>
+                    <a class="dropdown-menu-group-link" href="/products/headboards/">Headboards</a>
+                    <a class="dropdown-menu-group-link" href="/products/mattresses/">Mattresses</a>
+                    <a class="dropdown-menu-group-link" href="/products/toppers/">Toppers</a>
+                    <a class="dropdown-menu-group-link" href="/products/pillows/">Pillows</a>
+                    <a class="dropdown-menu-group-link" href="/products/duvets/">Duvets</a>
+                    <a class="dropdown-menu-group-link" href="/products/duvet-pillow-sets/">Duvet &amp; Pillow Sets</a>
+                    <a class="dropdown-menu-group-link" href="/products/mattress-protectors/">Mattress Protectors</a>
+                    <a class="dropdown-menu-group-link" href="/products/mobile-phone-pockets/">Mobile Phone Pockets</a>
+                </nav>
+              </div>
+            </li>
+            <li>
+              <div class="dropdown-menu-group">
+                <a href="/collections/living-room" data-submenu="/collections/living-room">
+                  <img src="/images/living-room.svg" alt="Living room icon" class="category-icon">
+                  Living room
+                </a>
+                <nav class="dropdown-menu-group-links" aria-label="Living room product groups">
+                    <a class="dropdown-menu-group-link" href="/products/three-seater-sofas/">3-Seater Sofas</a>
+                    <a class="dropdown-menu-group-link" href="/products/four-seater-sofas/">4-Seater Sofas</a>
+                    <a class="dropdown-menu-group-link" href="/products/chaise-sofas/">Chaise Sofas</a>
+                    <a class="dropdown-menu-group-link" href="/products/corner-sofas/">Corner Sofas</a>
+                    <a class="dropdown-menu-group-link" href="/products/armchairs/">Armchairs</a>
+                    <a class="dropdown-menu-group-link" href="/products/swivel-chairs/">Swivel Chairs</a>
+                    <a class="dropdown-menu-group-link" href="/products/footstools/">Footstools</a>
+                    <a class="dropdown-menu-group-link" href="/products/coffee-tables/">Coffee Tables</a>
+                    <a class="dropdown-menu-group-link" href="/products/side-tables/">Side Tables</a>
+                </nav>
+              </div>
+            </li>
+            <li>
+              <div class="dropdown-menu-group">
+                <a href="/collections/dining-room" data-submenu="/collections/dining-room">
+                  <img src="/images/dining-room.svg" alt="Dining room icon" class="category-icon">
+                  Dining room
+                </a>
+                <nav class="dropdown-menu-group-links" aria-label="Dining room product groups">
+                    <a class="dropdown-menu-group-link" href="/products/dining-tables/">Dining Tables</a>
+                    <a class="dropdown-menu-group-link" href="/products/dining-chairs/">Dining Chairs</a>
+                    <a class="dropdown-menu-group-link" href="/products/bar-stools/">Bar Stools</a>
+                </nav>
+              </div>
+            </li>
+            <li>
+              <div class="dropdown-menu-group">
+                <a href="/collections/storage-shelving" data-submenu="/collections/storage-shelving">
+                  <img src="/images/storage-shelving.svg" alt="Home Details icon" class="category-icon">
+                  Home Details
+                </a>
+                <nav class="dropdown-menu-group-links" aria-label="Home Details product groups">
+                    <a class="dropdown-menu-group-link" href="/products/decorative-cushions/">Decorative Cushions</a>
+                    <a class="dropdown-menu-group-link" href="/products/console-tables/">Console Tables</a>
+                    <a class="dropdown-menu-group-link" href="/products/shelves/">Shelves</a>
+                    <a class="dropdown-menu-group-link" href="/products/rugs/">Rugs</a>
+                </nav>
+              </div>
+            </li>
+            <li>
+              <div class="dropdown-menu-group">
+                <a href="/collections/outdoor" data-submenu="/collections/outdoor">
+                  <img src="/images/outdoor.svg" alt="Outdoor icon" class="category-icon">
+                  Outdoor
+                </a>
+                <nav class="dropdown-menu-group-links" aria-label="Outdoor product groups">
+                    <a class="dropdown-menu-group-link" href="/products/outdoor-dining-tables/">Outdoor Dining Tables</a>
+                    <a class="dropdown-menu-group-link" href="/products/outdoor-dining-chairs/">Outdoor Dining Chairs</a>
+                    <a class="dropdown-menu-group-link" href="/products/outdoor-lounge-sets/">Outdoor Lounge Sets</a>
+                    <a class="dropdown-menu-group-link" href="/products/outdoor-lounge-seating/">Outdoor Lounge Seating</a>
+                    <a class="dropdown-menu-group-link" href="/products/outdoor-sun-loungers/">Outdoor Sun Loungers</a>
+                    <a class="dropdown-menu-group-link" href="/products/outdoor-storage/">Outdoor Storage</a>
+                    <a class="dropdown-menu-group-link" href="/products/planters-pots/">Planters &amp; Pots</a>
+                    <a class="dropdown-menu-group-link" href="/products/gazebos-pergolas/">Gazebos &amp; Pergolas</a>
+                </nav>
+              </div>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+
+    <div class="nav-menu-control">
+      <button
+        type="button"
+        class="hamburger"
+        aria-label="Toggle menu"
+        aria-expanded="false"
+        aria-controls="site-header-primary-nav"
+      >
+        <span></span><span></span><span></span>
+      </button>
+      <div
+        id="site-header-overflow"
+        class="nav-overflow"
+        aria-hidden="true"
+      >
+        <ul class="nav-overflow-links"></ul>
+      </div>
+    </div>
+
+  </div>
+</header>
+
+
+
+
+
   <main id="content">
     <section id="hero">
       <div class="hero-wrapper">
@@ -26,40 +246,37 @@
           <span class="logo-blur" aria-hidden="true"></span>
           <img class="logo-main" src="/images/logo.svg" alt="Logo" fetchpriority="high" as="image">
         </div>
-        <h1>DISCOVER THE LUXURY OF<br />NEST &amp; LIVING</h1>
-        <p>EXCLUSIVE BEDROOM SOLUTIONS</p>
+        <h1>NEST &amp; LIVING<br />QUALITY AT A FAIR PRICE</h1>
+        <p>Furniture and bedroom essentials for everyday homes</p>
       </div>
     </section>
     <section class="with-texture-2" id="about">
       <h2>What is NEST &amp; LIVING?</h2>
       <p>
-        Welcome to NEST &amp; LIVING, your premier destination for luxurious yet accessible bedroom furniture. Our
-        thoughtfully curated collection is crafted to elevate your bedroom with stylish, timeless elegance while
-        providing
-        unmatched comfort and ergonomic support. Each piece in the NEST &amp; LIVING family combines high-quality
-        craftsmanship with contemporary designs, making it easier than ever to create a space that reflects your unique
-        taste and lifestyle.
+        Nest &amp; Living is built around a simple idea: offer good products at sensible prices. We focus on furniture
+        and bedroom essentials that look good, work well in daily use, and feel worth bringing home. No extra
+        promises, just solid choices for comfort, function, and value.
       </p>
 
     </section>
     <section class="with-texture" id="collection">
       <h2>NEST &amp; LIVING collection</h2>
       <p>
-        Explore our range to find everything you need to transform your bedroom into a sanctuary of style and
-        relaxation.
-        Discover the luxurious look you desire with the reliability of durable materials and refined craftsmanship.
-        Experience how the NEST &amp; LIVING collection can bring both elegance and tranquility to your home, creating a
-        lasting impact on your daily life without compromising on affordability.
+        Our collection covers the basics people actually need at home: beds, mattresses, toppers, pillows, seating,
+        tables, rugs, and practical home details. We choose products with clear design, dependable materials, and
+        prices that stay reasonable.
       </p>
       <div class="collection-buttons">
-        <a href="/collection/bedroom" class="collection-btn"><img src="/images/bedroom.svg"
+        <a href="/collections/bedroom" class="collection-btn"><img src="/images/bedroom.svg"
             alt="Bedroom icon">Bedroom</a>
-        <a href="/collection/living-room" class="collection-btn"><img src="/images/living-room.svg"
+        <a href="/collections/living-room" class="collection-btn"><img src="/images/living-room.svg"
             alt="Living room icon">Living room</a>
-        <a href="/collection/dining-room" class="collection-btn"><img src="/images/dining-room.svg"
+        <a href="/collections/dining-room" class="collection-btn"><img src="/images/dining-room.svg"
             alt="Dining room icon">Dining room</a>
-        <a href="/collection/storage-shelving" class="collection-btn"><img src="/images/storage-shelving.svg"
-            alt="Storage &amp; Shelving icon">Storage &amp; Shelving</a>
+        <a href="/collections/storage-shelving" class="collection-btn"><img src="/images/storage-shelving.svg"
+            alt="Home Details icon">Home Details</a>
+        <a href="/collections/outdoor" class="collection-btn"><img src="/images/outdoor.svg"
+            alt="Outdoor icon">Outdoor</a>
       </div>
       <div class="with-texture" id="collection-content"></div>
     </section>
@@ -67,68 +284,69 @@
       <div class="promo-banner-container">
         <a href="https://www.masku.com/brandit/nest-living" class="promo-link">
           <div class="promo-banner with-texture">
-            <h2 class="promo-banner__title">NOW IN STORES</h2>
-            <h3 class="promo-banner__subtitle with-texture">Special prices!*</h3>
+            <h2 class="promo-banner__title">AVAILABLE AT MASKU</h2>
+            <h3 class="promo-banner__subtitle with-texture">Good quality. Fair price.</h3>
           </div>
         </a>
       </div>
       <p>
-        *The prices might be special for you, but they are just a matter of business for us. At NEST &amp; LIVING, we
-        believe that exceptional quality should be within reach for everyone. Our furniture is
-        designed with both trend-conscious aesthetics and functionality in mind, seamlessly blending modern trends with
-        classic sophistication. From sleek, minimal bed frames to ergonomic mattresses that support a healthy spine, our
-        pieces offer more than just beauty—they enhance your comfort and well-being.
+        Nest &amp; Living is made for people who want well-made furniture without paying extra for empty marketing. The
+        idea is straightforward: practical products, everyday comfort, and a price point that makes sense.
       </p>
     </section>
     <section class="with-texture" id="solutions">
       <h2>Bedroom Solutions</h2>
       <p>
-        In bedrooms, people use a variety of solutions to suit their preferences and needs. Some prefer the aesthetic
-        appeal of classic box spring beds, while others seek a bold, statement look with a continental bed. A third
-        group
-        values the health benefits that adjustable beds provide. Regardless of the model a customer chooses, every
-        product
-        in our collections is crafted from premium materials and incorporates the same high-quality ergonomic sleep
-        solutions, ensuring comfort and durability across all styles.
+        Bedrooms are used in different ways, so the collection includes several bed types and the essentials around
+        them. Some people want a simple continental bed, some need an adjustable option, and some are updating
+        toppers, pillows, or headboards. The common thread is the same throughout: comfort, function, and good value.
       </p>
       <div class="solution-buttons">
-        <a href="/products/beds-mattresses/beds" class="solution-btn">
+        <a href="/collections/bedroom" class="solution-btn" data-solution-key="beds">
           <img src="/images/beds.svg" alt="Beds icon" />
           Beds
         </a>
-        <a href="collection/bedding-accessories" class="solution-btn">
+        <a href="/collections/bedroom" class="solution-btn" data-solution-key="bedding-accessories">
           <img src="/images/bedding-accessories.svg" alt="Bedding Accessories icon" />
           Bedding Accessories
         </a>
-        <a href="products/bedroom-furniture/headboards/moon" class="solution-btn">
+        <a href="/products/headboards/" class="solution-btn" data-solution-key="headboards">
           <img src="/images/headboards.svg" alt="Headboards icon" />
           Headboards
         </a>
-        <a href="products/beds-mattresses" class="solution-btn">
+        <a href="/collections/bedroom" class="solution-btn" data-solution-key="mattresses-toppers">
           <img src="/images/mattresses-toppers.svg" alt="Mattresses &amp; Toppers icon" />
           Mattresses &amp; Toppers
         </a>
       </div>
       <div class="with-texture" id="solution-content"></div>
     </section>
-    <section class="with-texture" id="clients">
-      <h2>Clients</h2>
+    <section class="with-texture" id="retailers">
+      <span id="clients" class="anchor-alias" aria-hidden="true"></span>
+      <h2>Retailers</h2>
       <p>
-        At NEST & LIVING, our clients are at the heart of everything we do. We believe that quality bedroom furniture
-        goes beyond aesthetics—it's about creating spaces that bring comfort, functionality, and style into your life.
-        Our commitment to customer satisfaction drives us to build lasting relationships, ensuring each piece we design
-        and deliver transforms not just your home but also enhances your daily lifestyle. We’re also proud to partner
-        with Masku, one of Finland’s largest furniture retailers, in distributing our NEST & Living collection.
+        Nest &amp; Living is available through selected Masku locations across Finland. Search by city or address,
+        open route guidance, and continue to the full store page when you need local contact details or opening hours.
       </p>
+      <div class="retailer-section__actions">
+        <a href="/retailers/" class="retailer-section__browse">Open full retailer page</a>
+      </div>
+      <div
+        id="retailer-content"
+        class="with-texture retailer-content-shell"
+        data-remote-fragment-url="/retailers/"
+        data-remote-fragment-selector="#retailers-embed"
+        data-load-on-init="true"
+      ></div>
     </section>
     <section class="with-texture-2" id="contact">
-      <h2>For further questions, leave a message:</h2>
-      <label for="message">Write your message here: *</label><br />
+      <h2>Questions? Send us a message</h2>
+      <label for="message">Your message:</label><br />
       <textarea id="message" name="message" rows="5" cols="40"
-        placeholder="*Required: Write your support request here..." required></textarea><br />
+        placeholder="Write your question here." required></textarea><br />
 
-      <label for="email">Enter your email here: *</label><br />
-      <input type="email" id="email" name="email" placeholder="*Required: example@nestliving.dk" required /><br /><br />
+      <label for="email">Your email:</label><br />
+      <input type="email" id="email" name="email" autocomplete="email" placeholder="example@nestliving.dk" required /><br /><br />
 
       <button onclick="sendMail(); return false;">
         Send Message
@@ -136,6 +354,45 @@
     </section>
   </main>
   <script src="/script.js" defer></script>
+
+<footer id="site-footer" class="footer with-texture">
+  <button id="scroll-btn" aria-label="Move back to the top" title="Move back to the top">&uarr;</button>
+  <div class="footer-inner">
+    <div class="footer-columns">
+      <div class="footer-column">
+        <h2>Company</h2>
+        <ul>
+          <li><a href="/about">About Us</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-column">
+        <h2>Support</h2>
+        <ul>
+          <li><a href="/help-center">Customer Service</a></li>
+          <li><a href="/faq">Frequently Asked Questions</a></li>
+          <li><a href="/#contact">Contact Us</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-column">
+        <h2>Follow Us</h2>
+        <ul class="social-media-list"></ul>
+      </div>
+    </div>
+
+    <div class="footer-contact">
+      <p>NEST &amp; LIVING</p>
+      <p>Email: <a href="mailto:support@nestliving.dk">support@nestliving.dk</a></p>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; 2026 NEST &amp; LIVING. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+
 
 </body>
 

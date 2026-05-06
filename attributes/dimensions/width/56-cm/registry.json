@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "56 cm",
+  "valueSlug": "56-cm",
+  "valueType": "measurement",
+  "numericValue": 56,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Dining Chairs"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/saarni",
+      "familyTitle": "Saarni",
+      "familySummary": "Light brown stackable dining chair with aluminium frame and nonwood surfaces. Suitable for indoor and outdoor use.",
+      "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+      "schemaCategory": "Outdoor Dining Chairs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 56,
+        "max": 56,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "56 cm is a published width used across selected Nest & Living products. Common on Outdoor Dining Chair."
+}

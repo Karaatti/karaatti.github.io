@@ -1,0 +1,77 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "15 cm",
+  "valueSlug": "15-cm",
+  "valueType": "measurement",
+  "numericValue": 15,
+  "unit": "cm",
+  "productTypes": [
+    "Decorative Cushions",
+    "Pillows"
+  ],
+  "familyCount": 5,
+  "variantCount": 26,
+  "primaryImageUrl": "/products/decorative-cushions/hike/202849_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/hike",
+      "familyTitle": "Hike",
+      "familySummary": "Decorative cushions in Hike upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/hike/202849_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 10
+    },
+    {
+      "familyRelativeDir": "families/haley",
+      "familyTitle": "Haley",
+      "familySummary": "Decorative cushions in Haley upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/haley/202854_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 8
+    },
+    {
+      "familyRelativeDir": "families/hix",
+      "familyTitle": "Hix",
+      "familySummary": "Decorative cushions in Hix upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/hix/202846_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/nest-living-silver",
+      "familyTitle": "Nest & Living Silver",
+      "familySummary": "Pillows for everyday bedroom comfort, including classic and box pillow options.",
+      "primaryImageUrl": "/products/pillows/nest-living-silver/201092_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/staycool",
+      "familyTitle": "Staycool",
+      "familySummary": "Cooling pillows and pillow protectors from the Staycool series.",
+      "primaryImageUrl": "/products/pillows/staycool/214012_1.jpg",
+      "schemaCategory": "Pillows",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 15,
+        "max": 15,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "15 cm is a published height used across selected Nest & Living products. Common on Decorative Cushion and Pillow."
+}

@@ -1,0 +1,88 @@
+{
+  "attributeKey": "frameWarranty",
+  "attributeLabel": "Frame warranty",
+  "group": "warranty",
+  "groupLabel": "Warranty",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "days"
+    ],
+    "ranges": [
+      {
+        "unit": "days",
+        "min": 4000,
+        "max": 4000,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "attributeKey": "frameWarranty",
+      "attributeLabel": "Frame warranty",
+      "value": "4000 days",
+      "valueSlug": "4000-days",
+      "valueType": "measurement",
+      "numericValue": 4000,
+      "unit": "days",
+      "productTypes": [
+        "Adjustable Beds",
+        "Continental Beds",
+        "Divan Bed",
+        "Divan Beds"
+      ],
+      "familyCount": 3,
+      "variantCount": 78,
+      "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/moon-gold",
+          "familyTitle": "Moon Gold",
+          "familySummary": "Divan bed with 7-zone pocket spring system offering firm support and ergonomic comfort. Available in various sizes and neutral tones.",
+          "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif",
+          "schemaCategory": "Adjustable Beds, Continental Beds and Divan Beds",
+          "variantCount": 50
+        },
+        {
+          "familyRelativeDir": "families/moon-silver",
+          "familyTitle": "Moon Silver",
+          "familySummary": "Available sizes: 80 x 200 cm, 90 x 200 cm, 120 x 200 cm and 140 x 200 cm. Light grey Primo 84 upholstery, 5-zone pocket spring support and smoked ash cone legs. 4 active variants available.",
+          "primaryImageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_1.avif",
+          "schemaCategory": "Adjustable Beds, Continental Beds and Divan Beds",
+          "variantCount": 17
+        },
+        {
+          "familyRelativeDir": "families/moon-bronze",
+          "familyTitle": "Moon Bronze",
+          "familySummary": "A practical and stylish adjustable bed with a pocket spring base and tall smoked ash legs. Designed for comfort and easy maintenance.",
+          "primaryImageUrl": "/products/adjustable-beds/moon-bronze/moon_bronze_adjustable_bed_grey_1.avif",
+          "schemaCategory": "Adjustable Beds, Continental Beds and Divan Beds",
+          "variantCount": 11
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "days"
+        ],
+        "ranges": [
+          {
+            "unit": "days",
+            "min": 4000,
+            "max": 4000,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "4000 days is a published frame warranty used across selected Nest & Living products. Common on Adjustable Bed, Continental Bed and Divan Bed."
+    }
+  ]
+}

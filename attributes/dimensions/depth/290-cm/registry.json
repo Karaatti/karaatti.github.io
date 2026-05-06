@@ -1,0 +1,124 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "290 cm",
+  "valueSlug": "290-cm",
+  "valueType": "measurement",
+  "numericValue": 290,
+  "unit": "cm",
+  "productTypes": [
+    "Rugs"
+  ],
+  "familyCount": 11,
+  "variantCount": 13,
+  "primaryImageUrl": "/products/rugs/ruutu/ruutu_rug_beige_4.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/ruutu",
+      "familyTitle": "Ruutu",
+      "familySummary": "A densely woven rug with a matte finish and a calm check pattern in beige or grey. Finished with short fringes for a neat look.",
+      "primaryImageUrl": "/products/rugs/ruutu/ruutu_rug_beige_4.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/sirmione",
+      "familyTitle": "Sirmione",
+      "familySummary": "Calm and textured rug in green or beige, made from polyester and cotton. Suitable for living rooms, bedrooms, or dining areas.",
+      "primaryImageUrl": "/products/rugs/sirmione/202747_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/amaris",
+      "familyTitle": "Amaris",
+      "familySummary": "A classic rug with a soft viscose pile and detailed pattern, available in two practical sizes.",
+      "primaryImageUrl": "/products/rugs/amaris/amaris_rug_multicolour_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/basalt",
+      "familyTitle": "Basalt",
+      "familySummary": "A soft viscose rug with a dark blue base and decorative floral pattern in light blue, cream, and white tones.",
+      "primaryImageUrl": "/products/rugs/basalt/200728_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/desenzano",
+      "familyTitle": "Desenzano",
+      "familySummary": "A modern rug with a graphic pattern and soft muted tones. Made of cotton and polyester, it has a soft surface and delicate fringes.",
+      "primaryImageUrl": "/products/rugs/desenzano/202751_1.jpg",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/dolomite",
+      "familyTitle": "Dolomite",
+      "familySummary": "A soft and durable rug with a subtle stone-inspired pattern in versatile grey shades. Suitable for living rooms and bedrooms.",
+      "primaryImageUrl": "/products/rugs/dolomite/200730_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/garda",
+      "familyTitle": "Garda",
+      "familySummary": "Oriental patterned rug in a cotton and polyester blend. Soft, easy to care for and designed for living and dining spaces.",
+      "primaryImageUrl": "/products/rugs/garda/202743_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/lyra",
+      "familyTitle": "Lyra",
+      "familySummary": "A rug with a soft viscose pile and a sturdy wool base, woven to create a subtle three-dimensional pattern in warm tones.",
+      "primaryImageUrl": "/products/rugs/lyra/lyra_rug_brown_orange_beige_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moderni",
+      "familyTitle": "Moderni",
+      "familySummary": "Modern rugs with graphic patterns in grey and beige. Soft surface and non-slip backing for practical use.",
+      "primaryImageUrl": "/products/rugs/moderni/moderni_rug_beige_2.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/saaga",
+      "familyTitle": "Saaga",
+      "familySummary": "Saaga Rug features a blend of viscose pile and wool base, offering a soft feel and natural durability in a harmonious colour palette.",
+      "primaryImageUrl": "/products/rugs/saaga/saaga_rug_red_beige_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/yanam",
+      "familyTitle": "Yanam",
+      "familySummary": "Textured blue rug with a worn look and multicolor nuances. Made of polyester and cotton. Easy to clean and non-slip backing.",
+      "primaryImageUrl": "/products/rugs/yanam/yanam_rug_blue_2.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 290,
+        "max": 290,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "290 cm is a published depth used across selected Nest & Living products. Common on Rug."
+}

@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "118 kg",
+  "valueSlug": "118-kg",
+  "valueType": "measurement",
+  "numericValue": 118,
+  "unit": "kg",
+  "productTypes": [
+    "4-Seater Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/heaven",
+      "familyTitle": "Heaven",
+      "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+      "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+      "schemaCategory": "4-Seater Sofas",
+      "variantCount": 3
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 118,
+        "max": 118,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "118 kg is a published weight used across selected Nest & Living products. Common on 4-Seater Sofa."
+}

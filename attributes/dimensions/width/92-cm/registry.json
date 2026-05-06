@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "92 cm",
+  "valueSlug": "92-cm",
+  "valueType": "measurement",
+  "numericValue": 92,
+  "unit": "cm",
+  "productTypes": [
+    "Footstools"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+      "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+      "schemaCategory": "Footstools",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 92,
+        "max": 92,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "92 cm is a published width used across selected Nest & Living products. Common on Footstool."
+}

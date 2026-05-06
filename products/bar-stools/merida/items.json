@@ -1,0 +1,454 @@
+[
+  {
+    "sku": "198084",
+    "name": "198084",
+    "title": "Merida Bar Stool, 40 x 40 cm",
+    "variantSummary": "40 x 40 cm / White, Beige",
+    "shortDescription": "Natural oak frame with light beige fabric seat, sold in pairs.",
+    "selectionAttributes": {
+      "dimensions": "40 x 40 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "White, Beige",
+      "material": "Fabric, Oak"
+    },
+    "primaryImageUrl": "/products/bar-stools/merida/198084_1.avif",
+    "imageUrl": "/products/bar-stools/merida/198084_1.avif",
+    "imageUrls": [
+      "/products/bar-stools/merida/198084_1.avif",
+      "/products/bar-stools/merida/198084_2.avif"
+    ],
+    "href": "/products/bar-stools/merida/198084",
+    "type": "file",
+    "filterData": {
+      "searchText": "Merida Bar Stool, 40 x 40 cm Natural oak frame with light beige fabric seat, sold in pairs. Bar Stools Dining room Merida Dining room Bar Stools Merida Beige White Fabric Oak Dimensions Depth 40 cm cm Dimensions Height 69 cm cm Dimensions Width 40 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Product count 2 product product Logistics Volume 0.06 m³ m³ Logistics Weight 10 kg kg Logistics Weight 14 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "dining-room",
+          "label": "Dining room",
+          "href": "/collections/dining-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "bar-stools",
+          "label": "Bar Stools",
+          "href": "/products/bar-stools/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "merida",
+          "label": "Merida",
+          "href": "/families/merida/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "oak",
+          "label": "Oak",
+          "href": "/materials/oak/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/dimensions/depth/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "69-cm",
+          "valueLabel": "69 cm",
+          "href": "/attributes/dimensions/height/69-cm/",
+          "valueType": "enum",
+          "numericValue": 69,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/dimensions/width/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "load",
+          "groupLabel": "Load",
+          "key": "maximum-load",
+          "label": "Maximum load",
+          "valueKey": "110-kg",
+          "valueLabel": "110 kg",
+          "href": "/attributes/load/maximum-load/110-kg/",
+          "valueType": "enum",
+          "numericValue": 110,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "2-product",
+          "valueLabel": "2 product",
+          "href": "/attributes/logistics/product-count/2-product/",
+          "valueType": "enum",
+          "numericValue": 2,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-06-m3",
+          "valueLabel": "0.06 m³",
+          "href": "/attributes/logistics/volume/0-06-m3/",
+          "valueType": "enum",
+          "numericValue": 0.06,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "10-kg",
+          "valueLabel": "10 kg",
+          "href": "/attributes/logistics/weight/10-kg/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "14-kg",
+          "valueLabel": "14 kg",
+          "href": "/attributes/logistics/weight/14-kg/",
+          "valueType": "enum",
+          "numericValue": 14,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Merida Bar Stool, 40 x 40 cm",
+      "summary": "Natural oak frame with light beige fabric seat, sold in pairs.",
+      "variantCount": 1,
+      "categoryLabel": "Bar Stools",
+      "collectionLabel": "Dining room",
+      "productFamilyLabel": "Merida"
+    }
+  },
+  {
+    "sku": "198085",
+    "name": "198085",
+    "title": "Merida Bar Stool, 53 x 52 cm",
+    "variantSummary": "53 x 52 cm / White, Beige",
+    "shortDescription": "Natural oak frame with white fabric seat, sold in pairs.",
+    "selectionAttributes": {
+      "dimensions": "53 x 52 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "White, Beige",
+      "material": "Fabric, Oak"
+    },
+    "primaryImageUrl": "/products/bar-stools/merida/198085_1.avif",
+    "imageUrl": "/products/bar-stools/merida/198085_1.avif",
+    "imageUrls": [
+      "/products/bar-stools/merida/198085_1.avif",
+      "/products/bar-stools/merida/198085_2.avif",
+      "/products/bar-stools/merida/198085_3.avif",
+      "/products/bar-stools/merida/198085_4.avif"
+    ],
+    "href": "/products/bar-stools/merida/198085",
+    "type": "file",
+    "filterData": {
+      "searchText": "Merida Bar Stool, 53 x 52 cm Natural oak frame with white fabric seat, sold in pairs. Bar Stools Dining room Merida Dining room Bar Stools Merida Beige White Fabric Oak Dimensions Depth 52 cm cm Dimensions Height 90 cm cm Dimensions Width 53 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Product count 2 product product Logistics Volume 0.15 m³ m³ Logistics Weight 12 kg kg Logistics Weight 18.6 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "dining-room",
+          "label": "Dining room",
+          "href": "/collections/dining-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "bar-stools",
+          "label": "Bar Stools",
+          "href": "/products/bar-stools/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "merida",
+          "label": "Merida",
+          "href": "/families/merida/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "oak",
+          "label": "Oak",
+          "href": "/materials/oak/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "52-cm",
+          "valueLabel": "52 cm",
+          "href": "/attributes/dimensions/depth/52-cm/",
+          "valueType": "enum",
+          "numericValue": 52,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "90-cm",
+          "valueLabel": "90 cm",
+          "href": "/attributes/dimensions/height/90-cm/",
+          "valueType": "enum",
+          "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "53-cm",
+          "valueLabel": "53 cm",
+          "href": "/attributes/dimensions/width/53-cm/",
+          "valueType": "enum",
+          "numericValue": 53,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "load",
+          "groupLabel": "Load",
+          "key": "maximum-load",
+          "label": "Maximum load",
+          "valueKey": "110-kg",
+          "valueLabel": "110 kg",
+          "href": "/attributes/load/maximum-load/110-kg/",
+          "valueType": "enum",
+          "numericValue": 110,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "2-product",
+          "valueLabel": "2 product",
+          "href": "/attributes/logistics/product-count/2-product/",
+          "valueType": "enum",
+          "numericValue": 2,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-15-m3",
+          "valueLabel": "0.15 m³",
+          "href": "/attributes/logistics/volume/0-15-m3/",
+          "valueType": "enum",
+          "numericValue": 0.15,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "12-kg",
+          "valueLabel": "12 kg",
+          "href": "/attributes/logistics/weight/12-kg/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "18-6-kg",
+          "valueLabel": "18.6 kg",
+          "href": "/attributes/logistics/weight/18-6-kg/",
+          "valueType": "enum",
+          "numericValue": 18.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Merida Bar Stool, 53 x 52 cm",
+      "summary": "Natural oak frame with white fabric seat, sold in pairs.",
+      "variantCount": 1,
+      "categoryLabel": "Bar Stools",
+      "collectionLabel": "Dining room",
+      "productFamilyLabel": "Merida"
+    }
+  }
+]

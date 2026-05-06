@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "63.2 kg",
+  "valueSlug": "63-2-kg",
+  "valueType": "measurement",
+  "numericValue": 63.2,
+  "unit": "kg",
+  "productTypes": [
+    "Continental Beds"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/continental-beds/moon-bronze/moon_bronze_continental_bed_grey_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Moon Bronze Continental Beds combines practical design with understated style. It features pocket spring support without zoning and a durable wooden frame with black wooden legs. The base is delivered in parts for easy assembly.",
+      "primaryImageUrl": "/products/continental-beds/moon-bronze/moon_bronze_continental_bed_grey_1.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 63.2,
+        "max": 63.2,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "63.2 kg is a published weight used across selected Nest & Living products. Common on Continental Bed."
+}

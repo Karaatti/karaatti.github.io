@@ -1,0 +1,62 @@
+[
+  {
+    "name": "24-kg-m3",
+    "label": "24 kg/m³",
+    "href": "/attributes/padding/foam-density/24-kg-m3/",
+    "type": "dir",
+    "description": "24 kg/m³ is a published foam density used across selected Nest & Living products. Common on 4-Seater Sofa.",
+    "familyCount": 1,
+    "variantCount": 6,
+    "valueType": "measurement",
+    "numericValue": 24,
+    "unit": "kg/m³"
+  },
+  {
+    "name": "25-kg-m3",
+    "label": "25 kg/m³",
+    "href": "/attributes/padding/foam-density/25-kg-m3/",
+    "type": "dir",
+    "description": "25 kg/m³ is a published foam density used across selected Nest & Living products. Common on Swivel Chair.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 25,
+    "unit": "kg/m³"
+  },
+  {
+    "name": "28-kg-m3",
+    "label": "28 kg/m³",
+    "href": "/attributes/padding/foam-density/28-kg-m3/",
+    "type": "dir",
+    "description": "28 kg/m³ is a published foam density used across selected Nest & Living products. Common on Swivel Chair.",
+    "familyCount": 2,
+    "variantCount": 4,
+    "valueType": "measurement",
+    "numericValue": 28,
+    "unit": "kg/m³"
+  },
+  {
+    "name": "30-kg-m3",
+    "label": "30 kg/m³",
+    "href": "/attributes/padding/foam-density/30-kg-m3/",
+    "type": "dir",
+    "description": "30 kg/m³ is a published foam density used across selected Nest & Living products. Common on 3-Seater Sofa, Armchair, Chaise Sofa, Corner Sofa and Footstool.",
+    "familyCount": 4,
+    "variantCount": 20,
+    "valueType": "measurement",
+    "numericValue": 30,
+    "unit": "kg/m³"
+  },
+  {
+    "name": "35-kg-m3",
+    "label": "35 kg/m³",
+    "href": "/attributes/padding/foam-density/35-kg-m3/",
+    "type": "dir",
+    "description": "35 kg/m³ is a published foam density used across selected Nest & Living products. Common on Swivel Chair.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 35,
+    "unit": "kg/m³"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "lacquered",
+    "label": "Lacquered",
+    "href": "/attributes/finish/surface-finish/lacquered/",
+    "type": "dir",
+    "description": "Lacquered is a published surface finish option used across selected Nest & Living products. Common on Dining Table.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  },
+  {
+    "name": "painted",
+    "label": "Painted",
+    "href": "/attributes/finish/surface-finish/painted/",
+    "type": "dir",
+    "description": "Painted is a published surface finish option used across selected Nest & Living products. Common on Gazebos & Pergola.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  }
+]

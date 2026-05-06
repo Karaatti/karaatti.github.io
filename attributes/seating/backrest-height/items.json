@@ -1,0 +1,26 @@
+[
+  {
+    "name": "27-cm",
+    "label": "27 cm",
+    "href": "/attributes/seating/backrest-height/27-cm/",
+    "type": "dir",
+    "description": "27 cm is a published backrest height used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa and Corner Sofa.",
+    "familyCount": 1,
+    "variantCount": 10,
+    "valueType": "measurement",
+    "numericValue": 27,
+    "unit": "cm"
+  },
+  {
+    "name": "68-cm",
+    "label": "68 cm",
+    "href": "/attributes/seating/backrest-height/68-cm/",
+    "type": "dir",
+    "description": "68 cm is a published backrest height used across selected Nest & Living products. Common on Corner Sofa.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 68,
+    "unit": "cm"
+  }
+]

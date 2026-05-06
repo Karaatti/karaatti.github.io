@@ -1,0 +1,61 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "105 cm",
+  "valueSlug": "105-cm",
+  "valueType": "measurement",
+  "numericValue": 105,
+  "unit": "cm",
+  "productTypes": [
+    "Adjustable Beds",
+    "Toppers"
+  ],
+  "familyCount": 3,
+  "variantCount": 9,
+  "primaryImageUrl": "/products/toppers/moon-gold/197743_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Grey latex mattress topper offers good support and breathability for a single bed. Suitable for improving sleep quality in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-gold/197743_1.avif",
+      "schemaCategory": "Adjustable Beds and Toppers",
+      "variantCount": 5
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Moon Bronze Basic is a lightweight, breathable mattress topper that adds gentle cushioning and supports a neutral sleeping posture. Its white tone with subtle leaf patterns fits well in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+      "schemaCategory": "Adjustable Beds and Toppers",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+      "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
+      "schemaCategory": "Adjustable Beds and Toppers",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 105,
+        "max": 105,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "105 cm is a published width used across selected Nest & Living products. Common on Adjustable Bed and Topper."
+}

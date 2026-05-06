@@ -1,0 +1,26 @@
+[
+  {
+    "name": "moon-gold",
+    "href": "/products/continental-beds/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 25
+  },
+  {
+    "name": "lugo",
+    "href": "/products/footstools/lugo/",
+    "type": "dir",
+    "title": "Lugo",
+    "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+    "variantCount": 12
+  },
+  {
+    "name": "moon-silver",
+    "href": "/products/continental-beds/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 10
+  }
+]

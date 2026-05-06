@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "43.5 kg",
+  "valueSlug": "43-5-kg",
+  "valueType": "measurement",
+  "numericValue": 43.5,
+  "unit": "kg",
+  "productTypes": [
+    "Chaise Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_green_7.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame.",
+      "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_green_7.avif",
+      "schemaCategory": "Chaise Sofas",
+      "variantCount": 3
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 43.5,
+        "max": 43.5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "43.5 kg is a published weight used across selected Nest & Living products. Common on Chaise Sofa."
+}

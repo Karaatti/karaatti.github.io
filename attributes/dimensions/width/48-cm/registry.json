@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "48 cm",
+  "valueSlug": "48-cm",
+  "valueType": "measurement",
+  "numericValue": 48,
+  "unit": "cm",
+  "productTypes": [
+    "Dining Chairs"
+  ],
+  "familyCount": 1,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/dining-chairs/bow/198099_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/bow",
+      "familyTitle": "Bow",
+      "familySummary": "Upholstered dining chair with metal frame and plywood structure, available in three colours.",
+      "primaryImageUrl": "/products/dining-chairs/bow/198099_1.avif",
+      "schemaCategory": "Dining Chairs",
+      "variantCount": 3
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 48,
+        "max": 48,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "48 cm is a published width used across selected Nest & Living products. Common on Dining Chair."
+}

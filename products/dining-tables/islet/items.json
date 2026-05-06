@@ -1,0 +1,207 @@
+[
+  {
+    "sku": "198066",
+    "name": "198066",
+    "title": "Islet Dining Table",
+    "variantSummary": "120 x 120 cm / Brown",
+    "shortDescription": "Round dining table, 120 cm diameter, walnut finish with MDF material and sturdy tapered leg.",
+    "selectionAttributes": {
+      "dimensions": "120 x 120 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Brown",
+      "material": "MDF"
+    },
+    "primaryImageUrl": "/products/dining-tables/islet/198066_1.avif",
+    "imageUrl": "/products/dining-tables/islet/198066_1.avif",
+    "imageUrls": [
+      "/products/dining-tables/islet/198066_1.avif",
+      "/products/dining-tables/islet/198066_2.avif",
+      "/products/dining-tables/islet/198066_3.avif",
+      "/products/dining-tables/islet/198066_4.avif"
+    ],
+    "href": "/products/dining-tables/islet/",
+    "type": "file",
+    "filterData": {
+      "searchText": "Islet Dining Table Round dining table, 120 cm diameter, walnut finish with MDF material and sturdy tapered leg. Dining Tables Dining room Islet Dining room Dining Tables Islet Brown MDF Dimensions Depth 120 cm cm Dimensions Height 75 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.18 m³ m³ Logistics Weight 22 kg kg Logistics Weight 25 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "dining-room",
+          "label": "Dining room",
+          "href": "/collections/dining-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "dining-tables",
+          "label": "Dining Tables",
+          "href": "/products/dining-tables/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "islet",
+          "label": "Islet",
+          "href": "/families/islet/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "mdf",
+          "label": "MDF",
+          "href": "/materials/mdf/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "120-cm",
+          "valueLabel": "120 cm",
+          "href": "/attributes/dimensions/depth/120-cm/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "75-cm",
+          "valueLabel": "75 cm",
+          "href": "/attributes/dimensions/height/75-cm/",
+          "valueType": "enum",
+          "numericValue": 75,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "120-cm",
+          "valueLabel": "120 cm",
+          "href": "/attributes/dimensions/width/120-cm/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-18-m3",
+          "valueLabel": "0.18 m³",
+          "href": "/attributes/logistics/volume/0-18-m3/",
+          "valueType": "enum",
+          "numericValue": 0.18,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "22-kg",
+          "valueLabel": "22 kg",
+          "href": "/attributes/logistics/weight/22-kg/",
+          "valueType": "enum",
+          "numericValue": 22,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Islet Dining Table",
+      "summary": "Round dining table, 120 cm diameter, walnut finish with MDF material and sturdy tapered leg.",
+      "variantCount": 1,
+      "categoryLabel": "Dining Tables",
+      "collectionLabel": "Dining room",
+      "productFamilyLabel": "Islet"
+    }
+  }
+]

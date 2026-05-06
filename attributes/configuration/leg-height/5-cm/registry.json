@@ -1,0 +1,44 @@
+{
+  "group": "configuration",
+  "groupLabel": "Configuration",
+  "attributeKey": "legHeight",
+  "attributeLabel": "Leg height",
+  "value": "5 cm",
+  "valueSlug": "5-cm",
+  "valueType": "measurement",
+  "numericValue": 5,
+  "unit": "cm",
+  "productTypes": [
+    "Corner Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/haave",
+      "familyTitle": "Haave",
+      "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+      "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 5,
+        "max": 5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "5 cm is a published leg height used across selected Nest & Living products. Common on Corner Sofa."
+}

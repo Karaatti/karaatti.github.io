@@ -1,0 +1,14 @@
+[
+  {
+    "name": "4000-days",
+    "label": "4000 days",
+    "href": "/attributes/warranty/frame-warranty/4000-days/",
+    "type": "dir",
+    "description": "4000 days is a published frame warranty used across selected Nest & Living products. Common on Adjustable Bed, Continental Bed and Divan Bed.",
+    "familyCount": 3,
+    "variantCount": 78,
+    "valueType": "measurement",
+    "numericValue": 4000,
+    "unit": "days"
+  }
+]

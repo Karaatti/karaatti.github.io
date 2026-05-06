@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "46 cm",
+  "valueSlug": "46-cm",
+  "valueType": "measurement",
+  "numericValue": 46,
+  "unit": "cm",
+  "productTypes": [
+    "Divan Bed"
+  ],
+  "familyCount": 1,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/divan-beds/moon-bronze/197653_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Divan bed with 5-zone pocket spring support and a durable wooden frame. Comes with smoked ash tapered legs and a choice of sizes.",
+      "primaryImageUrl": "/products/divan-beds/moon-bronze/197653_1.avif",
+      "schemaCategory": "Divan Beds",
+      "variantCount": 4
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 46,
+        "max": 46,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "46 cm is a published height used across selected Nest & Living products. Common on Divan Bed."
+}

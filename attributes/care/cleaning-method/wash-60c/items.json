@@ -1,0 +1,42 @@
+[
+  {
+    "name": "nest-living",
+    "href": "/families/nest-living/",
+    "type": "dir",
+    "title": "Nest & Living",
+    "schemaCategory": "Mattress Protectors",
+    "variantCount": 6
+  },
+  {
+    "name": "staycool",
+    "href": "/families/staycool/",
+    "type": "dir",
+    "title": "Staycool",
+    "schemaCategory": "Duvets, Mattress Protectors and Pillows",
+    "variantCount": 4
+  },
+  {
+    "name": "staygentle",
+    "href": "/families/staygentle/",
+    "type": "dir",
+    "title": "Staygentle",
+    "schemaCategory": "Mattress Protectors",
+    "variantCount": 3
+  },
+  {
+    "name": "staycation",
+    "href": "/families/staycation/",
+    "type": "dir",
+    "title": "Staycation",
+    "schemaCategory": "Pillows",
+    "variantCount": 2
+  },
+  {
+    "name": "staycomfort",
+    "href": "/families/staycomfort/",
+    "type": "dir",
+    "title": "Staycomfort",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  }
+]

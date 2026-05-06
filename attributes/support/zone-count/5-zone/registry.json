@@ -1,0 +1,56 @@
+{
+  "group": "support",
+  "groupLabel": "Support",
+  "attributeKey": "zoneCount",
+  "attributeLabel": "Zone count",
+  "value": "5-zone",
+  "valueSlug": "5-zone",
+  "valueType": "measurement",
+  "numericValue": 5,
+  "unit": "",
+  "productTypes": [
+    "Adjustable Beds",
+    "Continental Beds",
+    "Divan Bed",
+    "Divan Beds",
+    "Mattresses"
+  ],
+  "familyCount": 2,
+  "variantCount": 28,
+  "primaryImageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Available sizes: 80 x 200 cm, 90 x 200 cm, 120 x 200 cm and 140 x 200 cm. Light grey Primo 84 upholstery, 5-zone pocket spring support and smoked ash cone legs. 4 active variants available.",
+      "primaryImageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_1.avif",
+      "schemaCategory": "Adjustable Beds, Continental Beds, Divan Beds and Mattresses",
+      "variantCount": 24
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Divan bed with 5-zone pocket spring support and a durable wooden frame. Comes with smoked ash tapered legs and a choice of sizes.",
+      "primaryImageUrl": "/products/divan-beds/moon-bronze/197653_1.avif",
+      "schemaCategory": "Divan Beds",
+      "variantCount": 4
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      ""
+    ],
+    "ranges": [
+      {
+        "unit": "",
+        "min": 5,
+        "max": 5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "5-zone is a published zone count used across selected Nest & Living products. Common on Adjustable Bed, Continental Bed, Divan Bed and Mattress."
+}

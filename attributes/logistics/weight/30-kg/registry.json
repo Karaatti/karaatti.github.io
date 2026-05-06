@@ -1,0 +1,100 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "30 kg",
+  "valueSlug": "30-kg",
+  "valueType": "measurement",
+  "numericValue": 30,
+  "unit": "kg",
+  "productTypes": [
+    "Adjustable Beds",
+    "Armchairs",
+    "Bed Frames",
+    "Divan Bed",
+    "Divan Beds",
+    "Headboards",
+    "Mattresses",
+    "Outdoor Dining Tables",
+    "Outdoor Storage"
+  ],
+  "familyCount": 7,
+  "variantCount": 20,
+  "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_6.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Divan bed with 7-zone pocket spring system offering firm support and ergonomic comfort. Available in various sizes and neutral tones.",
+      "primaryImageUrl": "/products/divan-beds/moon-gold/moon_gold_divan_bed_beige_6.avif",
+      "schemaCategory": "Adjustable Beds, Divan Beds and Mattresses",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "A smooth, upholstered headboard offered in three neutral colours and multiple widths.",
+      "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_grey_1.avif",
+      "schemaCategory": "Adjustable Beds, Divan Beds and Headboards",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Available sizes: 80 x 200 cm, 90 x 200 cm, 120 x 200 cm and 140 x 200 cm. Light grey Primo 84 upholstery, 5-zone pocket spring support and smoked ash cone legs. 4 active variants available.",
+      "primaryImageUrl": "/products/divan-beds/moon-silver/moon_silver_divan_bed_grey_1.avif",
+      "schemaCategory": "Divan Beds and Headboards",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Outdoor storage boxes from the Nordic collection with aluminium frames and weather-ready fabric-lined lids, available in two sizes and beige or black finishes.",
+      "primaryImageUrl": "/products/outdoor-storage/nordic/206771_1.avif",
+      "schemaCategory": "Outdoor Storage",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/voyage",
+      "familyTitle": "Voyage",
+      "familySummary": "A fixed armchair with a solid wood frame, soft foam and feather seat, and removable cotton covers in white or green.",
+      "primaryImageUrl": "/products/armchairs/voyage/208784_1.avif",
+      "schemaCategory": "Armchairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/casa",
+      "familyTitle": "Casa",
+      "familySummary": "Bed frame with padded high headboard and beige fabric upholstery. Designed for 160 x 200 cm mattresses.",
+      "primaryImageUrl": "/products/bed-frames/casa/209017_1.avif",
+      "schemaCategory": "Bed Frames",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/messina",
+      "familyTitle": "Messina",
+      "familySummary": "Messina dining table 220x100 cm provides a practical and elegant outdoor dining option. Its natural toned top and aluminium frame create a modern Scandinavian look. Suitable for garden, terrace or large balcony, it offers a spacious and low-maintenance surface.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/messina/197906_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 30,
+        "max": 30,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "30 kg is a published weight used across selected Nest & Living products. Common on Adjustable Bed, Armchair, Bed Frame, Divan Bed, Headboard and Mattress and 2 more."
+}

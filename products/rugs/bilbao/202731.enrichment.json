@@ -1,0 +1,217 @@
+{
+  "sku": "202731",
+  "displayName": "Bilbao Rug, 200 x 300 cm",
+  "metaTitle": "Bilbao Rug, 200 x 300 cm - NEST & LIVING",
+  "metaDescription": "200 x 300 cm. Polypropylene rug with vintage-inspired grey and beige floral patterns, easy to maintain.",
+  "ogTitle": "Bilbao Rug, 200 x 300 cm",
+  "ogDescription": "200 x 300 cm. Polypropylene rug with vintage-inspired grey and beige floral patterns, easy to maintain.",
+  "shortDescription": "200 x 300 cm. Polypropylene rug with vintage-inspired grey and beige floral patterns, easy to maintain.",
+  "familyDescription": "The Bilbao rug brings warmth and a vintage touch with its grey and blue-grey tones accented by soft pink and beige floral motifs. It is designed for daily use in busy spaces and is easy to clean, making it suitable for homes with children or pets.",
+  "schemaCategory": "Rugs",
+  "selectionAttributes": {
+    "dimensions": "200 x 300 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "",
+    "material": "Polypropylene"
+  },
+  "attributes": [
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "200 cm",
+      "valueSlug": "200-cm",
+      "rawValue": "200 cm",
+      "valueType": "enum",
+      "numericValue": 200,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "300 cm",
+      "valueSlug": "300-cm",
+      "rawValue": "300 cm",
+      "valueType": "enum",
+      "numericValue": 300,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "7 kg",
+      "valueSlug": "7-kg",
+      "rawValue": "7 kg",
+      "valueType": "enum",
+      "numericValue": 7,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.06 m³",
+      "valueSlug": "0-06-m3",
+      "rawValue": "0,06 m³",
+      "valueType": "enum",
+      "numericValue": 0.06,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Polypropylene",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Material",
+      "value": "Polypropylene",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/polypropylene/\">Polypropylene</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "200 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/200-cm/\">200 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "300 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "300 cm",
+          "href": "/attributes/dimensions/depth/300-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/300-cm/\">300 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "7 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "7 kg",
+          "href": "/attributes/logistics/weight/7-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/7-kg/\">7 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_2.avif",
+  "imageUrls": [
+    "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_2.avif",
+    "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_3.avif",
+    "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_4.avif",
+    "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_5.avif",
+    "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_8.avif",
+    "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_1.jpg",
+    "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_6.jpg",
+    "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_7.jpg",
+    "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_9.jpg",
+    "/products/rugs/bilbao/202731_1.avif",
+    "/products/rugs/bilbao/202731_2.avif",
+    "/products/rugs/bilbao/202731_3.avif",
+    "/products/rugs/bilbao/202731_4.avif",
+    "/products/rugs/bilbao/202731_5.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/202731-bilbao-matto-200x300cm"
+}

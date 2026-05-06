@@ -1,0 +1,14 @@
+[
+  {
+    "name": "2000-days",
+    "label": "2000 days",
+    "href": "/attributes/warranty/memory-warranty/2000-days/",
+    "type": "dir",
+    "description": "2000 days is a published memory warranty used across selected Nest & Living products. Common on Continental Bed, Divan Bed and Mattress.",
+    "familyCount": 1,
+    "variantCount": 31,
+    "valueType": "measurement",
+    "numericValue": 2000,
+    "unit": "days"
+  }
+]

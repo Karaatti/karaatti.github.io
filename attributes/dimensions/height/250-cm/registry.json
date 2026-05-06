@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "250 cm",
+  "valueSlug": "250-cm",
+  "valueType": "measurement",
+  "numericValue": 250,
+  "unit": "cm",
+  "productTypes": [
+    "Gazebos & Pergolas"
+  ],
+  "familyCount": 1,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/gazebos-pergolas/nordic/206776_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Nordic gazebo and pergola variants with adjustable slatted roofs, sturdy aluminium and steel frames, and terrace-ready shelter for outdoor living.",
+      "primaryImageUrl": "/products/gazebos-pergolas/nordic/206776_1.avif",
+      "schemaCategory": "Gazebos & Pergolas",
+      "variantCount": 3
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 250,
+        "max": 250,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "250 cm is a published height used across selected Nest & Living products. Common on Gazebos & Pergola."
+}

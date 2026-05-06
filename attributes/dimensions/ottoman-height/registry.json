@@ -1,0 +1,113 @@
+{
+  "attributeKey": "ottomanHeight",
+  "attributeLabel": "Ottoman height",
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 2,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 37,
+        "max": 38,
+        "count": 2,
+        "distinctCount": 2
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "attributeKey": "ottomanHeight",
+      "attributeLabel": "Ottoman height",
+      "value": "37 cm",
+      "valueSlug": "37-cm",
+      "valueType": "measurement",
+      "numericValue": 37,
+      "unit": "cm",
+      "productTypes": [
+        "Swivel Chairs"
+      ],
+      "familyCount": 1,
+      "variantCount": 2,
+      "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/wind",
+          "familyTitle": "Wind",
+          "familySummary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+          "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 37,
+            "max": 37,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "37 cm is a published ottoman height used across selected Nest & Living products. Common on Swivel Chair."
+    },
+    {
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "attributeKey": "ottomanHeight",
+      "attributeLabel": "Ottoman height",
+      "value": "38 cm",
+      "valueSlug": "38-cm",
+      "valueType": "measurement",
+      "numericValue": 38,
+      "unit": "cm",
+      "productTypes": [
+        "Swivel Chairs"
+      ],
+      "familyCount": 1,
+      "variantCount": 2,
+      "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/breeze",
+          "familyTitle": "Breeze",
+          "familySummary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
+          "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 38,
+            "max": 38,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "38 cm is a published ottoman height used across selected Nest & Living products. Common on Swivel Chair."
+    }
+  ]
+}

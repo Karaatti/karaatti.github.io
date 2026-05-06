@@ -1,0 +1,14 @@
+[
+  {
+    "name": "60-cm",
+    "label": "60 cm",
+    "href": "/attributes/dimensions/smaller-table-width/60-cm/",
+    "type": "dir",
+    "description": "60 cm is a published smaller table width used across selected Nest & Living products. Common on Coffee Table.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 60,
+    "unit": "cm"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "westcoast",
+    "href": "/families/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and Sofa Accessories and 1 more",
+    "variantCount": 33
+  },
+  {
+    "name": "lugo",
+    "href": "/families/lugo/",
+    "type": "dir",
+    "title": "Lugo",
+    "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+    "variantCount": 12
+  },
+  {
+    "name": "heaven",
+    "href": "/families/heaven/",
+    "type": "dir",
+    "title": "Heaven",
+    "schemaCategory": "4-Seater Sofas",
+    "variantCount": 6
+  },
+  {
+    "name": "blow",
+    "href": "/families/blow/",
+    "type": "dir",
+    "title": "Blow",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "breeze",
+    "href": "/families/breeze/",
+    "type": "dir",
+    "title": "Breeze",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "haave",
+    "href": "/families/haave/",
+    "type": "dir",
+    "title": "Haave",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 2
+  },
+  {
+    "name": "wind",
+    "href": "/families/wind/",
+    "type": "dir",
+    "title": "Wind",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "bay",
+    "href": "/families/bay/",
+    "type": "dir",
+    "title": "Bay",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1
+  }
+]

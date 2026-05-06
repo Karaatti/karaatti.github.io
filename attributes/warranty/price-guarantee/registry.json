@@ -1,0 +1,366 @@
+{
+  "attributeKey": "priceGuarantee",
+  "attributeLabel": "Price guarantee",
+  "group": "warranty",
+  "groupLabel": "Warranty",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "days"
+    ],
+    "ranges": [
+      {
+        "unit": "days",
+        "min": 30,
+        "max": 30,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "attributeKey": "priceGuarantee",
+      "attributeLabel": "Price guarantee",
+      "value": "30 days",
+      "valueSlug": "30-days",
+      "valueType": "measurement",
+      "numericValue": 30,
+      "unit": "days",
+      "productTypes": [
+        "4-Seater Sofas",
+        "Adjustable Beds",
+        "Armchairs",
+        "Bar Stools",
+        "Bed Frames",
+        "Cabinets Display",
+        "Coffee Tables",
+        "Console Tables",
+        "Continental Beds",
+        "Corner Sofas",
+        "Dining Chairs",
+        "Dining Tables",
+        "Divan Bed",
+        "Divan Beds",
+        "Duvet & Pillow Sets",
+        "Duvets",
+        "Fixed Armchairs",
+        "Headboards",
+        "Mattress Protectors",
+        "Mattresses",
+        "Mobile Phone Pockets",
+        "Pillows",
+        "Rugs",
+        "Side Tables",
+        "Swivel Chairs",
+        "Toppers"
+      ],
+      "familyCount": 35,
+      "variantCount": 269,
+      "primaryImageUrl": "/products/toppers/moon-gold/197741_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/moon-gold",
+          "familyTitle": "Moon Gold",
+          "familySummary": "Grey latex mattress topper offers good support and breathability for a single bed. Suitable for improving sleep quality in the bedroom.",
+          "primaryImageUrl": "/products/toppers/moon-gold/197741_1.avif",
+          "schemaCategory": "Adjustable Beds, Continental Beds, Divan Beds and Headboards and 2 more",
+          "variantCount": 117
+        },
+        {
+          "familyRelativeDir": "families/moon-silver",
+          "familyTitle": "Moon Silver",
+          "familySummary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+          "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
+          "schemaCategory": "Adjustable Beds, Continental Beds, Divan Beds and Headboards and 2 more",
+          "variantCount": 42
+        },
+        {
+          "familyRelativeDir": "families/moon-bronze",
+          "familyTitle": "Moon Bronze",
+          "familySummary": "Moon Bronze Basic is a lightweight, breathable mattress topper that adds gentle cushioning and supports a neutral sleeping posture. Its white tone with subtle leaf patterns fits well in the bedroom.",
+          "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+          "schemaCategory": "Adjustable Beds, Continental Beds, Divan Beds and Headboards and 1 more",
+          "variantCount": 33
+        },
+        {
+          "familyRelativeDir": "families/heaven",
+          "familyTitle": "Heaven",
+          "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+          "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+          "schemaCategory": "4-Seater Sofas",
+          "variantCount": 6
+        },
+        {
+          "familyRelativeDir": "families/nest-living",
+          "familyTitle": "Nest & Living",
+          "familySummary": "Quilted mattress protector with elastic corners to keep it in place. Protects and extends the life of your mattress.",
+          "primaryImageUrl": "/products/mattress-protectors/nest-living/nest_living_mattress_protector_white_1.avif",
+          "schemaCategory": "Mattress Protectors",
+          "variantCount": 6
+        },
+        {
+          "familyRelativeDir": "families/metz",
+          "familyTitle": "Metz",
+          "familySummary": "A round dining table with a natural Beige veneer surface and a light, sturdy base. Designed to comfortably seat four and fit modern interiors.",
+          "primaryImageUrl": "/products/dining-tables/metz/208710_1.avif",
+          "schemaCategory": "Dining Tables",
+          "variantCount": 5
+        },
+        {
+          "familyRelativeDir": "families/dozza",
+          "familyTitle": "Dozza",
+          "familySummary": "Dozza is a modern grey polypropylene rug featuring a timeless oriental-inspired pattern. Its muted tones and low pile add warmth and style to living rooms, bedrooms, or hallways while offering practical durability.",
+          "primaryImageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 4
+        },
+        {
+          "familyRelativeDir": "families/lucca",
+          "familyTitle": "Lucca",
+          "familySummary": "A smooth-surfaced oriental-style rug that offers a soft and pleasant feel underfoot while maintaining durability. Its carefully chosen plain or subtly patterned elements create a calm and stylish atmosphere suitable for various interiors.",
+          "primaryImageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 4
+        },
+        {
+          "familyRelativeDir": "families/nest-living-gold",
+          "familyTitle": "Nest & Living Gold",
+          "familySummary": "Warm duvets with a breathable fabric blend and a fuller feel.",
+          "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+          "schemaCategory": "Duvets and Pillows",
+          "variantCount": 4
+        },
+        {
+          "familyRelativeDir": "families/sevilla",
+          "familyTitle": "Sevilla",
+          "familySummary": "Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
+          "primaryImageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 4
+        },
+        {
+          "familyRelativeDir": "families/bow",
+          "familyTitle": "Bow",
+          "familySummary": "Upholstered dining chair with metal frame and plywood structure, available in three colours.",
+          "primaryImageUrl": "/products/dining-chairs/bow/198099_1.avif",
+          "schemaCategory": "Dining Chairs",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/eagle",
+          "familyTitle": "Eagle",
+          "familySummary": "A modern armchair with a natural wood frame and soft upholstery, designed for comfort and understated style.",
+          "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
+          "schemaCategory": "Armchairs",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/moon",
+          "familyTitle": "Moon",
+          "familySummary": "A narrow fabric pocket for keeping phones and small items organised beside the bed or armchair.",
+          "primaryImageUrl": "/products/mobile-phone-pockets/moon/202837_1.avif",
+          "schemaCategory": "Mobile Phone Pockets",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/nest-living-silver",
+          "familyTitle": "Nest & Living Silver",
+          "familySummary": "Duvets selected for everyday warmth, breathable fabrics, and practical bedroom use.",
+          "primaryImageUrl": "/products/duvets/nest-living-silver/201093_1.jpg",
+          "schemaCategory": "Duvets and Pillows",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/blow",
+          "familyTitle": "Blow",
+          "familySummary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+          "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/breeze",
+          "familyTitle": "Breeze",
+          "familySummary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
+          "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/cloud",
+          "familyTitle": "Cloud",
+          "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+          "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+          "schemaCategory": "Corner Sofas",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/haave",
+          "familyTitle": "Haave",
+          "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+          "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+          "schemaCategory": "Corner Sofas",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/island",
+          "familyTitle": "Island",
+          "familySummary": "Stackable two-piece coffee table in brown or beige with a soft asymmetrical shape for flexible living room layouts.",
+          "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
+          "schemaCategory": "Coffee Tables",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/islet",
+          "familyTitle": "Islet",
+          "familySummary": "Islet round coffee table in walnut brown with an 80 cm diameter. Features a durable MDF frame and a stable conical leg for everyday use.",
+          "primaryImageUrl": "/products/coffee-tables/islet/198067_1.avif",
+          "schemaCategory": "Coffee Tables and Dining Tables",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/merida",
+          "familyTitle": "Merida",
+          "familySummary": "Bar stool with natural oak frame and light fabric seat. Scandinavian style suitable for kitchen bars and dining areas.",
+          "primaryImageUrl": "/products/bar-stools/merida/198084_1.avif",
+          "schemaCategory": "Bar Stools",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/moonlit",
+          "familyTitle": "Moonlit",
+          "familySummary": "Upholstered bed frame in beige bouclé fabric with a sturdy construction. Suitable for various mattresses and bedroom styles.",
+          "primaryImageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
+          "schemaCategory": "Bed Frames",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/mystery",
+          "familyTitle": "Mystery",
+          "familySummary": "The Mystery Shelf in black combines metal and oak veneer in a minimalist design. It provides four spacious shelves suitable for books and decorative items, fitting well in modern and industrial interiors.",
+          "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+          "schemaCategory": "Shelves",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/reef",
+          "familyTitle": "Reef",
+          "familySummary": "Compact coffee table with a warm American walnut finish and practical dimensions suitable for various interiors.",
+          "primaryImageUrl": "/products/coffee-tables/reef/198072_1.avif",
+          "schemaCategory": "Coffee Tables",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/wind",
+          "familyTitle": "Wind",
+          "familySummary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+          "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/amaris",
+          "familyTitle": "Amaris",
+          "familySummary": "A classic rug with a soft viscose pile and detailed pattern, available in two practical sizes.",
+          "primaryImageUrl": "/products/rugs/amaris/amaris_rug_multicolour_1.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/bay",
+          "familyTitle": "Bay",
+          "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+          "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/dove",
+          "familyTitle": "Dove",
+          "familySummary": "Armchair with a walnut rubberwood frame and beige fabric upholstery. Offers comfortable seating with a high back and soft seat.",
+          "primaryImageUrl": "/products/armchairs/dove/198105_1.avif",
+          "schemaCategory": "Armchairs",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/lyra",
+          "familyTitle": "Lyra",
+          "familySummary": "A rug with a soft viscose pile and a sturdy wool base, woven to create a subtle three-dimensional pattern in warm tones.",
+          "primaryImageUrl": "/products/rugs/lyra/lyra_rug_brown_orange_beige_1.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/nest-living-basic",
+          "familyTitle": "Nest & Living Basic",
+          "familySummary": "Soft and lightweight duvet set for easy-care everyday bedroom use.",
+          "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-basic/201089_1.avif",
+          "schemaCategory": "Duvet & Pillow Sets",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/nest-living-bronze",
+          "familyTitle": "Nest & Living Bronze",
+          "familySummary": "Light duvet set with practical everyday comfort.",
+          "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
+          "schemaCategory": "Duvet & Pillow Sets",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/nicola",
+          "familyTitle": "Nicola",
+          "familySummary": "Dining chair with an oak frame and beige fabric upholstery, designed for comfort and understated style.",
+          "primaryImageUrl": "/products/dining-chairs/nicola/200739_1.avif",
+          "schemaCategory": "Dining Chairs",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/oak",
+          "familyTitle": "Oak",
+          "familySummary": "Oak console table in natural oak veneer offers a modern Scandinavian look for living rooms, hallways or offices. The warm brown tone creates a cozy atmosphere. Two integrated drawers provide practical storage. A versatile and durable piece that complements the home.",
+          "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+          "schemaCategory": "Console Tables",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/saaga",
+          "familyTitle": "Saaga",
+          "familySummary": "Saaga Rug features a blend of viscose pile and wool base, offering a soft feel and natural durability in a harmonious colour palette.",
+          "primaryImageUrl": "/products/rugs/saaga/saaga_rug_red_beige_1.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/swallow",
+          "familyTitle": "Swallow",
+          "familySummary": "Round side table made of natural rubberwood with a 45 cm diameter top. Minimalist design with smooth, rounded edges.",
+          "primaryImageUrl": "/products/side-tables/swallow/198080_1.avif",
+          "schemaCategory": "Side Tables",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "days"
+        ],
+        "ranges": [
+          {
+            "unit": "days",
+            "min": 30,
+            "max": 30,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "30 days is a published price guarantee used across selected Nest & Living products. Common on 4-Seater Sofa, Adjustable Bed, Armchair, Bar Stool, Bed Frame and Cabinets Display and 19 more."
+    }
+  ]
+}

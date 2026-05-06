@@ -1,0 +1,38 @@
+[
+  {
+    "name": "65-cm",
+    "label": "65 cm",
+    "href": "/attributes/dimensions/set-piece-height/65-cm/",
+    "type": "dir",
+    "description": "65 cm is a published set piece height used across selected Nest & Living products. Common on Outdoor Lounge Set.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 65,
+    "unit": "cm"
+  },
+  {
+    "name": "74-cm",
+    "label": "74 cm",
+    "href": "/attributes/dimensions/set-piece-height/74-cm/",
+    "type": "dir",
+    "description": "74 cm is a published set piece height used across selected Nest & Living products. Common on Outdoor Lounge Set.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 74,
+    "unit": "cm"
+  },
+  {
+    "name": "86-cm",
+    "label": "86 cm",
+    "href": "/attributes/dimensions/set-piece-height/86-cm/",
+    "type": "dir",
+    "description": "86 cm is a published set piece height used across selected Nest & Living products. Common on Outdoor Lounge Set.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 86,
+    "unit": "cm"
+  }
+]

@@ -1,0 +1,113 @@
+{
+  "attributeKey": "surfaceFinish",
+  "attributeLabel": "Surface finish",
+  "group": "finish",
+  "groupLabel": "Finish",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 2,
+    "unitCount": 1,
+    "units": [
+      ""
+    ],
+    "ranges": [
+      {
+        "unit": "",
+        "min": 0,
+        "max": 0,
+        "count": 2,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "finish",
+      "groupLabel": "Finish",
+      "attributeKey": "surfaceFinish",
+      "attributeLabel": "Surface finish",
+      "value": "Lacquered",
+      "valueSlug": "lacquered",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "productTypes": [
+        "Dining Tables"
+      ],
+      "familyCount": 1,
+      "variantCount": 2,
+      "primaryImageUrl": "/products/dining-tables/metz/208714_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/metz",
+          "familyTitle": "Metz",
+          "familySummary": "A round dining table with a natural Beige veneer surface and a light, sturdy base. Designed to comfortably seat four and fit modern interiors.",
+          "primaryImageUrl": "/products/dining-tables/metz/208714_1.avif",
+          "schemaCategory": "Dining Tables",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          ""
+        ],
+        "ranges": [
+          {
+            "unit": "",
+            "min": 0,
+            "max": 0,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "Lacquered is a published surface finish option used across selected Nest & Living products. Common on Dining Table."
+    },
+    {
+      "group": "finish",
+      "groupLabel": "Finish",
+      "attributeKey": "surfaceFinish",
+      "attributeLabel": "Surface finish",
+      "value": "Painted",
+      "valueSlug": "painted",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "productTypes": [
+        "Gazebos & Pergolas"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/gazebos-pergolas/nordic/nordic_gazebo_black_7.jpg",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/nordic",
+          "familyTitle": "Nordic",
+          "familySummary": "Nordic gazebo and pergola variants with adjustable slatted roofs, sturdy aluminium and steel frames, and terrace-ready shelter for outdoor living.",
+          "primaryImageUrl": "/products/gazebos-pergolas/nordic/nordic_gazebo_black_7.jpg",
+          "schemaCategory": "Gazebos & Pergolas",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          ""
+        ],
+        "ranges": [
+          {
+            "unit": "",
+            "min": 0,
+            "max": 0,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "Painted is a published surface finish option used across selected Nest & Living products. Common on Gazebos & Pergola."
+    }
+  ]
+}

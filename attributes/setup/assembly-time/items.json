@@ -1,0 +1,98 @@
+[
+  {
+    "name": "0-min",
+    "label": "0 min",
+    "href": "/attributes/setup/assembly-time/0-min/",
+    "type": "dir",
+    "description": "0 min is a published assembly time used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa, Corner Sofa, Decorative Cushion, Duvet & Pillow Set and Duvet and 12 more.",
+    "familyCount": 35,
+    "variantCount": 225,
+    "valueType": "measurement",
+    "numericValue": 0,
+    "unit": "min"
+  },
+  {
+    "name": "10-min",
+    "label": "10 min",
+    "href": "/attributes/setup/assembly-time/10-min/",
+    "type": "dir",
+    "description": "10 min is a published assembly time used across selected Nest & Living products. Common on Dining Chair, Footstool and Modular Sofa.",
+    "familyCount": 2,
+    "variantCount": 8,
+    "valueType": "measurement",
+    "numericValue": 10,
+    "unit": "min"
+  },
+  {
+    "name": "15-min",
+    "label": "15 min",
+    "href": "/attributes/setup/assembly-time/15-min/",
+    "type": "dir",
+    "description": "15 min is a published assembly time used across selected Nest & Living products. Common on 3-Seater Sofa, 4-Seater Sofa, Armchair, Bar Stool, Chaise Sofa and Coffee Table and 8 more.",
+    "familyCount": 17,
+    "variantCount": 82,
+    "valueType": "measurement",
+    "numericValue": 15,
+    "unit": "min"
+  },
+  {
+    "name": "30-min",
+    "label": "30 min",
+    "href": "/attributes/setup/assembly-time/30-min/",
+    "type": "dir",
+    "description": "30 min is a published assembly time used across selected Nest & Living products. Common on 3-Seater Sofa, 4-Seater Sofa, Adjustable Bed, Armchair, Chaise Sofa and Continental Bed and 7 more.",
+    "familyCount": 14,
+    "variantCount": 75,
+    "valueType": "measurement",
+    "numericValue": 30,
+    "unit": "min"
+  },
+  {
+    "name": "45-min",
+    "label": "45 min",
+    "href": "/attributes/setup/assembly-time/45-min/",
+    "type": "dir",
+    "description": "45 min is a published assembly time used across selected Nest & Living products. Common on Cabinets Display, Console Table and Corner Sofa.",
+    "familyCount": 3,
+    "variantCount": 5,
+    "valueType": "measurement",
+    "numericValue": 45,
+    "unit": "min"
+  },
+  {
+    "name": "60-min",
+    "label": "60 min",
+    "href": "/attributes/setup/assembly-time/60-min/",
+    "type": "dir",
+    "description": "60 min is a published assembly time used across selected Nest & Living products. Common on Bed Frame and Outdoor Lounge Set.",
+    "familyCount": 2,
+    "variantCount": 3,
+    "valueType": "measurement",
+    "numericValue": 60,
+    "unit": "min"
+  },
+  {
+    "name": "90-min",
+    "label": "90 min",
+    "href": "/attributes/setup/assembly-time/90-min/",
+    "type": "dir",
+    "description": "90 min is a published assembly time used across selected Nest & Living products. Common on Continental Bed.",
+    "familyCount": 1,
+    "variantCount": 4,
+    "valueType": "measurement",
+    "numericValue": 90,
+    "unit": "min"
+  },
+  {
+    "name": "240-min",
+    "label": "240 min",
+    "href": "/attributes/setup/assembly-time/240-min/",
+    "type": "dir",
+    "description": "240 min is a published assembly time used across selected Nest & Living products. Common on Gazebos & Pergola.",
+    "familyCount": 1,
+    "variantCount": 3,
+    "valueType": "measurement",
+    "numericValue": 240,
+    "unit": "min"
+  }
+]

@@ -1,0 +1,1005 @@
+[
+  {
+    "name": "nest-living-gold",
+    "href": "/products/pillows/nest-living-gold/",
+    "type": "dir",
+    "title": "Nest & Living Gold Pillow",
+    "summary": "Pillows designed for a fuller feel, including comfort and quilted options.",
+    "primaryImageUrl": "/products/pillows/nest-living-gold/201094_1.jpg",
+    "sourceHref": "/products/pillows/nest-living-gold/",
+    "filterData": {
+      "searchText": "Nest & Living Gold Pillow Pillows designed for a fuller feel, including comfort and quilted options. Pillows Nest & Living Gold Bedroom Pillows Nest & Living Gold Cotton Polyester Care Cleaning method Water wash Dimensions Depth 50 cm cm Dimensions Height 14 cm cm Dimensions Height 16 cm cm Dimensions Width 60 cm cm Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "pillows",
+          "label": "Pillows",
+          "href": "/products/pillows/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "nest-living-gold",
+          "label": "Nest & Living Gold",
+          "href": "/families/nest-living-gold/"
+        }
+      ],
+      "colors": [],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "water-wash",
+          "valueLabel": "Water wash",
+          "href": "/attributes/care/cleaning-method/water-wash/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "50-cm",
+          "valueLabel": "50 cm",
+          "href": "/attributes/dimensions/depth/50-cm/",
+          "valueType": "enum",
+          "numericValue": 50,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "14-cm",
+          "valueLabel": "14 cm",
+          "href": "/attributes/dimensions/height/14-cm/",
+          "valueType": "enum",
+          "numericValue": 14,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "16-cm",
+          "valueLabel": "16 cm",
+          "href": "/attributes/dimensions/height/16-cm/",
+          "valueType": "enum",
+          "numericValue": 16,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/width/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Nest & Living Gold Pillow",
+      "summary": "Pillows designed for a fuller feel, including comfort and quilted options.",
+      "variantCount": 2,
+      "categoryLabel": "Pillows",
+      "collectionLabel": "",
+      "productFamilyLabel": "Nest & Living Gold"
+    }
+  },
+  {
+    "name": "nest-living-silver",
+    "href": "/products/pillows/nest-living-silver/",
+    "type": "dir",
+    "title": "Nest & Living Silver Pillow",
+    "summary": "Pillows for everyday bedroom comfort, including classic and box pillow options.",
+    "primaryImageUrl": "/products/pillows/nest-living-silver/201091_1.jpg",
+    "sourceHref": "/products/pillows/nest-living-silver/",
+    "filterData": {
+      "searchText": "Nest & Living Silver Pillow Pillows for everyday bedroom comfort, including classic and box pillow options. Pillows Nest & Living Silver Bedroom Pillows Nest & Living Silver Cotton Polyester Care Cleaning method Water wash Dimensions Depth 50 cm cm Dimensions Depth 52 cm cm Dimensions Height 14 cm cm Dimensions Height 15 cm cm Dimensions Width 60 cm cm Dimensions Width 62 cm cm Logistics Weight 1 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "pillows",
+          "label": "Pillows",
+          "href": "/products/pillows/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "nest-living-silver",
+          "label": "Nest & Living Silver",
+          "href": "/families/nest-living-silver/"
+        }
+      ],
+      "colors": [],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "water-wash",
+          "valueLabel": "Water wash",
+          "href": "/attributes/care/cleaning-method/water-wash/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "50-cm",
+          "valueLabel": "50 cm",
+          "href": "/attributes/dimensions/depth/50-cm/",
+          "valueType": "enum",
+          "numericValue": 50,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "52-cm",
+          "valueLabel": "52 cm",
+          "href": "/attributes/dimensions/depth/52-cm/",
+          "valueType": "enum",
+          "numericValue": 52,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "14-cm",
+          "valueLabel": "14 cm",
+          "href": "/attributes/dimensions/height/14-cm/",
+          "valueType": "enum",
+          "numericValue": 14,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/width/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "62-cm",
+          "valueLabel": "62 cm",
+          "href": "/attributes/dimensions/width/62-cm/",
+          "valueType": "enum",
+          "numericValue": 62,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Nest & Living Silver Pillow",
+      "summary": "Pillows for everyday bedroom comfort, including classic and box pillow options.",
+      "variantCount": 2,
+      "categoryLabel": "Pillows",
+      "collectionLabel": "",
+      "productFamilyLabel": "Nest & Living Silver"
+    }
+  },
+  {
+    "name": "staycation",
+    "href": "/products/pillows/staycation/",
+    "type": "dir",
+    "title": "Staycation Pillow",
+    "summary": "Bedroom pillows from the Staycation series.",
+    "primaryImageUrl": "/products/pillows/staycation/214016_1.jpg",
+    "sourceHref": "/products/pillows/staycation/",
+    "filterData": {
+      "searchText": "Staycation Pillow Bedroom pillows from the Staycation series. Pillows Staycation Bedroom Pillows Staycation Cotton Feather Mikrofiber Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Depth 60 cm cm Dimensions Height 18 cm cm Dimensions Height 20 cm cm Dimensions Width 60 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 5 product product Logistics Product count 8 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1 kg kg Logistics Weight 7.3 kg kg Logistics Weight 8.3 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "pillows",
+          "label": "Pillows",
+          "href": "/products/pillows/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "staycation",
+          "label": "Staycation",
+          "href": "/families/staycation/"
+        }
+      ],
+      "colors": [],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "feather",
+          "label": "Feather",
+          "href": "/materials/feather/"
+        },
+        {
+          "key": "mikrofiber",
+          "label": "Mikrofiber",
+          "href": "/materials/mikrofiber/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "wash-60c",
+          "valueLabel": "Wash 60°C",
+          "href": "/attributes/care/cleaning-method/wash-60c/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "50-cm",
+          "valueLabel": "50 cm",
+          "href": "/attributes/dimensions/depth/50-cm/",
+          "valueType": "enum",
+          "numericValue": 50,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/depth/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "18-cm",
+          "valueLabel": "18 cm",
+          "href": "/attributes/dimensions/height/18-cm/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "20-cm",
+          "valueLabel": "20 cm",
+          "href": "/attributes/dimensions/height/20-cm/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/width/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/width/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "5-product",
+          "valueLabel": "5 product",
+          "href": "/attributes/logistics/product-count/5-product/",
+          "valueType": "enum",
+          "numericValue": 5,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "8-product",
+          "valueLabel": "8 product",
+          "href": "/attributes/logistics/product-count/8-product/",
+          "valueType": "enum",
+          "numericValue": 8,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-23-m3",
+          "valueLabel": "0.23 m³",
+          "href": "/attributes/logistics/volume/0-23-m3/",
+          "valueType": "enum",
+          "numericValue": 0.23,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "7-3-kg",
+          "valueLabel": "7.3 kg",
+          "href": "/attributes/logistics/weight/7-3-kg/",
+          "valueType": "enum",
+          "numericValue": 7.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "8-3-kg",
+          "valueLabel": "8.3 kg",
+          "href": "/attributes/logistics/weight/8-3-kg/",
+          "valueType": "enum",
+          "numericValue": 8.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Staycation Pillow",
+      "summary": "Bedroom pillows from the Staycation series.",
+      "variantCount": 2,
+      "categoryLabel": "Pillows",
+      "collectionLabel": "",
+      "productFamilyLabel": "Staycation"
+    }
+  },
+  {
+    "name": "staycomfort",
+    "href": "/products/pillows/staycomfort/",
+    "type": "dir",
+    "title": "Staycomfort Pillow",
+    "summary": "Everyday pillows from the Staycomfort series.",
+    "primaryImageUrl": "/products/pillows/staycomfort/214015_1.jpg",
+    "sourceHref": "/products/pillows/staycomfort/",
+    "filterData": {
+      "searchText": "Staycomfort Pillow Everyday pillows from the Staycomfort series. Pillows Staycomfort Bedroom Pillows Staycomfort Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Height 6 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Product count 10 product product Logistics Volume 0.23 m³ m³ Logistics Weight 6.5 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "pillows",
+          "label": "Pillows",
+          "href": "/products/pillows/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "staycomfort",
+          "label": "Staycomfort",
+          "href": "/families/staycomfort/"
+        }
+      ],
+      "colors": [],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "wash-60c",
+          "valueLabel": "Wash 60°C",
+          "href": "/attributes/care/cleaning-method/wash-60c/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "50-cm",
+          "valueLabel": "50 cm",
+          "href": "/attributes/dimensions/depth/50-cm/",
+          "valueType": "enum",
+          "numericValue": 50,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "6-cm",
+          "valueLabel": "6 cm",
+          "href": "/attributes/dimensions/height/6-cm/",
+          "valueType": "enum",
+          "numericValue": 6,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/width/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "10-product",
+          "valueLabel": "10 product",
+          "href": "/attributes/logistics/product-count/10-product/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-23-m3",
+          "valueLabel": "0.23 m³",
+          "href": "/attributes/logistics/volume/0-23-m3/",
+          "valueType": "enum",
+          "numericValue": 0.23,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "6-5-kg",
+          "valueLabel": "6.5 kg",
+          "href": "/attributes/logistics/weight/6-5-kg/",
+          "valueType": "enum",
+          "numericValue": 6.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Staycomfort Pillow",
+      "summary": "Everyday pillows from the Staycomfort series.",
+      "variantCount": 1,
+      "categoryLabel": "Pillows",
+      "collectionLabel": "",
+      "productFamilyLabel": "Staycomfort"
+    }
+  },
+  {
+    "name": "staycool",
+    "href": "/products/pillows/staycool/",
+    "type": "dir",
+    "title": "Staycool Pillow",
+    "summary": "Cooling pillows and pillow protectors from the Staycool series.",
+    "primaryImageUrl": "/products/pillows/staycool/214012_1.jpg",
+    "sourceHref": "/products/pillows/staycool/",
+    "filterData": {
+      "searchText": "Staycool Pillow Cooling pillows and pillow protectors from the Staycool series. Pillows Staycool Bedroom Pillows Staycool Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Height 1 cm cm Dimensions Height 15 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Product count 10 product product Logistics Product count 20 product product Logistics Volume 0.04 m³ m³ Logistics Volume 0.22 m³ m³ Logistics Weight 4 kg kg Logistics Weight 9.4 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "pillows",
+          "label": "Pillows",
+          "href": "/products/pillows/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "staycool",
+          "label": "Staycool",
+          "href": "/families/staycool/"
+        }
+      ],
+      "colors": [],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "wash-60c",
+          "valueLabel": "Wash 60°C",
+          "href": "/attributes/care/cleaning-method/wash-60c/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "50-cm",
+          "valueLabel": "50 cm",
+          "href": "/attributes/dimensions/depth/50-cm/",
+          "valueType": "enum",
+          "numericValue": 50,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "1-cm",
+          "valueLabel": "1 cm",
+          "href": "/attributes/dimensions/height/1-cm/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "15-cm",
+          "valueLabel": "15 cm",
+          "href": "/attributes/dimensions/height/15-cm/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/width/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "10-product",
+          "valueLabel": "10 product",
+          "href": "/attributes/logistics/product-count/10-product/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "20-product",
+          "valueLabel": "20 product",
+          "href": "/attributes/logistics/product-count/20-product/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-04-m3",
+          "valueLabel": "0.04 m³",
+          "href": "/attributes/logistics/volume/0-04-m3/",
+          "valueType": "enum",
+          "numericValue": 0.04,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-22-m3",
+          "valueLabel": "0.22 m³",
+          "href": "/attributes/logistics/volume/0-22-m3/",
+          "valueType": "enum",
+          "numericValue": 0.22,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "4-kg",
+          "valueLabel": "4 kg",
+          "href": "/attributes/logistics/weight/4-kg/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-4-kg",
+          "valueLabel": "9.4 kg",
+          "href": "/attributes/logistics/weight/9-4-kg/",
+          "valueType": "enum",
+          "numericValue": 9.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Staycool Pillow",
+      "summary": "Cooling pillows and pillow protectors from the Staycool series.",
+      "variantCount": 2,
+      "categoryLabel": "Pillows",
+      "collectionLabel": "",
+      "productFamilyLabel": "Staycool"
+    }
+  }
+]

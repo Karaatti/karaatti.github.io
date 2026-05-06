@@ -1,0 +1,82 @@
+{
+  "label": "Metal",
+  "description": "Metal in furniture: Strong, precise and well suited to slim structural parts.",
+  "intro": "Metal appears across 5 product families and 43 options, especially on 4-Seater Sofas, Adjustable Beds, Cabinets Display, Continental Beds, Dining Chairs and Swivel Chairs.",
+  "chemistry": [
+    "Metal is a category label rather than a full material specification. In furniture it usually signals a structural frame, base or hardware component made from steel, aluminium or another alloy.",
+    "That matters because the chemistry controls corrosion, stiffness and weight. A powder-coated steel leg behaves differently from an anodised aluminium frame even when the store only says metal."
+  ],
+  "furnitureUse": [
+    "Metal excels where furniture needs slender sections, strong joints and reliable load paths: chair legs, bed mechanisms, shelving frames and outdoor skeletons.",
+    "Its main user-facing trade-offs are tactile. Uncovered metal feels hard and temperature-responsive, so designers often pair it with wood, fabric or cushions to soften contact points."
+  ],
+  "care": [
+    "Moisture and wear note: Performance depends on alloy and coating: bare steel can rust, while aluminium stays corrosion resistant.",
+    "Care note: Check the actual finish, keep coatings intact and treat chips before corrosion spreads on ferrous parts."
+  ],
+  "terminology": [],
+  "thermal": [
+    "Metal reacts to ambient temperature quickly, so it feels colder than wood and upholstery in a cool room and hotter in direct sun. That is usually a tactile issue rather than a sleep-temperature issue.",
+    "In mechanisms and springs, thermal expansion exists but the practical ageing questions are corrosion, coating failure and fatigue under repeated load."
+  ],
+  "recycling": [
+    "Finland-first sorting baseline: clean separated metal parts belong to metal recycling. Mixed furniture with fixed upholstery, wood or motors should go through municipal bulky-furniture handling unless the customer can separate the metal safely.",
+    "When the product is a bed mechanism or spring build, keep the user instruction simple: reuse first, then bulky-furniture handling if separation is not practical at home."
+  ],
+  "durability": [
+    "Metal durability depends mostly on alloy, section size, coatings and joint design. Good metal structure can outlast surrounding softer materials by a wide margin.",
+    "Typical real-life failure modes are scratches that expose corrosion risk, wobble at joints, and fatigue in moving or repeatedly flexing parts."
+  ],
+  "relatedSpecifications": [
+    "Metal leg",
+    "Bed mechanism",
+    "Support frame"
+  ],
+  "lifecycleRows": [
+    {
+      "label": "Recycling in Finland",
+      "value": "Direct clean separated parts to metal recycling; otherwise use municipal bulky-furniture handling for mixed products."
+    },
+    {
+      "label": "Expected wear profile",
+      "value": "Usually long-lived, with coatings, joints and fatigue-prone moving parts deciding the practical lifespan."
+    },
+    {
+      "label": "Retail warranty note",
+      "value": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+    }
+  ],
+  "strengths": [
+    "high structural strength",
+    "slim profiles",
+    "good dimensional accuracy"
+  ],
+  "watchouts": [
+    "finish and alloy matter",
+    "can feel cold or hot to touch",
+    "coating damage may expose corrosion risk on steel"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Metal umbrella term"
+    },
+    {
+      "label": "Composition",
+      "value": "Generic metal construction, often steel or aluminium depending the product."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Strong, precise and well suited to slim structural parts."
+    },
+    {
+      "label": "Key strengths",
+      "value": "high structural strength, slim profiles and good dimensional accuracy"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "finish and alloy matter, can feel cold or hot to touch and coating damage may expose corrosion risk on steel"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

@@ -1,0 +1,53 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "54 cm",
+  "valueSlug": "54-cm",
+  "valueType": "measurement",
+  "numericValue": 54,
+  "unit": "cm",
+  "productTypes": [
+    "Dining Chairs",
+    "Planters"
+  ],
+  "familyCount": 2,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/dining-chairs/nicola/200739_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nicola",
+      "familyTitle": "Nicola",
+      "familySummary": "Dining chair with an oak frame and beige fabric upholstery, designed for comfort and understated style.",
+      "primaryImageUrl": "/products/dining-chairs/nicola/200739_1.avif",
+      "schemaCategory": "Dining Chairs",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/house-nordic-beckley",
+      "familyTitle": "House Nordic Beckley",
+      "familySummary": "Three-piece set of brown terracotta planters with soft rounded edges and textured surfaces. Suitable for various plants and both indoor and outdoor settings.",
+      "primaryImageUrl": "/products/planters-pots/house-nordic-beckley/201120_1.avif",
+      "schemaCategory": "Planters & Pots",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 54,
+        "max": 54,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "54 cm is a published width used across selected Nest & Living products. Common on Dining Chair and Planter."
+}

@@ -1,0 +1,87 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "2 kg",
+  "valueSlug": "2-kg",
+  "valueType": "measurement",
+  "numericValue": 2,
+  "unit": "kg",
+  "productTypes": [
+    "Duvet & Pillow Sets",
+    "Mattress Protectors",
+    "Modular Sofas",
+    "Rugs"
+  ],
+  "familyCount": 6,
+  "variantCount": 8,
+  "primaryImageUrl": "/products/sofa-accessories/westcoast/209199_1.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Minimalist neck support cushion with polyester cover, easy to attach to most sofas. Available in Beige, brown, and grey.",
+      "primaryImageUrl": "/products/sofa-accessories/westcoast/209199_1.jpg",
+      "schemaCategory": "Sofa Accessories",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/dozza",
+      "familyTitle": "Dozza",
+      "familySummary": "Dozza is a modern grey polypropylene rug featuring a timeless oriental-inspired pattern. Its muted tones and low pile add warmth and style to living rooms, bedrooms, or hallways while offering practical durability.",
+      "primaryImageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/lucca",
+      "familyTitle": "Lucca",
+      "familySummary": "A smooth-surfaced oriental-style rug that offers a soft and pleasant feel underfoot while maintaining durability. Its carefully chosen plain or subtly patterned elements create a calm and stylish atmosphere suitable for various interiors.",
+      "primaryImageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nest-living",
+      "familyTitle": "Nest & Living",
+      "familySummary": "Quilted mattress protector with elastic corners to keep it in place. Protects and extends the life of your mattress.",
+      "primaryImageUrl": "/products/mattress-protectors/nest-living/nest_living_mattress_protector_white_1.avif",
+      "schemaCategory": "Mattress Protectors",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nest-living-bronze",
+      "familyTitle": "Nest & Living Bronze",
+      "familySummary": "Light duvet set with practical everyday comfort.",
+      "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
+      "schemaCategory": "Duvet & Pillow Sets",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/sevilla",
+      "familyTitle": "Sevilla",
+      "familySummary": "Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
+      "primaryImageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
+      "schemaCategory": "Rugs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 2,
+        "max": 2,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "2 kg is a published weight used across selected Nest & Living products. Common on Duvet & Pillow Set, Mattress Protector, Modular Sofa and Rug."
+}

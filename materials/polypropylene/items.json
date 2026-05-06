@@ -1,0 +1,34 @@
+[
+  {
+    "name": "dozza",
+    "href": "/products/rugs/dozza/",
+    "type": "dir",
+    "title": "Dozza",
+    "schemaCategory": "Rugs",
+    "variantCount": 4
+  },
+  {
+    "name": "lucca",
+    "href": "/products/rugs/lucca/",
+    "type": "dir",
+    "title": "Lucca",
+    "schemaCategory": "Rugs",
+    "variantCount": 4
+  },
+  {
+    "name": "sevilla",
+    "href": "/products/rugs/sevilla/",
+    "type": "dir",
+    "title": "Sevilla",
+    "schemaCategory": "Rugs",
+    "variantCount": 4
+  },
+  {
+    "name": "bilbao",
+    "href": "/products/rugs/bilbao/",
+    "type": "dir",
+    "title": "Bilbao",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  }
+]

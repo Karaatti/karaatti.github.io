@@ -1,0 +1,632 @@
+[
+  {
+    "sku": "198260",
+    "name": "198260",
+    "title": "Breeze Swivel Chair, Grey",
+    "variantSummary": "77 x 85 cm / Grey",
+    "shortDescription": "Grey fabric with black legs. Swivel chair and ottoman set.",
+    "selectionAttributes": {
+      "dimensions": "77 x 85 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Grey",
+      "material": "Steel, Polyester, Foam"
+    },
+    "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+    "imageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+    "imageUrls": [
+      "/products/swivel-chairs/breeze/198260_1.avif",
+      "/products/swivel-chairs/breeze/198260_2.avif",
+      "/products/swivel-chairs/breeze/198260_3.avif",
+      "/products/swivel-chairs/breeze/198260_4.avif",
+      "/products/swivel-chairs/breeze/198260_5.avif",
+      "/products/swivel-chairs/breeze/198260_6.avif",
+      "/products/swivel-chairs/breeze/198260_7.avif",
+      "/products/swivel-chairs/breeze/198260_8.avif",
+      "/products/swivel-chairs/breeze/198260_9.avif"
+    ],
+    "href": "/products/swivel-chairs/breeze/198260",
+    "type": "file",
+    "filterData": {
+      "searchText": "Breeze Swivel Chair, Grey Grey fabric with black legs. Swivel chair and ottoman set. Swivel Chairs Living room Breeze Living room Swivel Chairs Breeze Grey Foam Metal Polyester Steel Care Cleaning method Dry clean Dimensions Depth 85 cm cm Dimensions Height 108 cm cm Dimensions Ottoman depth 42 cm cm Dimensions Ottoman height 38 cm cm Dimensions Ottoman width 49 cm cm Dimensions Width 77 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.44 m³ m³ Logistics Weight 20 kg kg Padding Foam density 28 kg/m³ kg/m³ Seating Seat height 47 cm cm Setup Assembly time 30 min min Upholstery Lightfastness 5 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "swivel-chairs",
+          "label": "Swivel Chairs",
+          "href": "/products/swivel-chairs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "breeze",
+          "label": "Breeze",
+          "href": "/families/breeze/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        },
+        {
+          "key": "steel",
+          "label": "Steel",
+          "href": "/materials/steel/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "dry-clean",
+          "valueLabel": "Dry clean",
+          "href": "/attributes/care/cleaning-method/dry-clean/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "85-cm",
+          "valueLabel": "85 cm",
+          "href": "/attributes/dimensions/depth/85-cm/",
+          "valueType": "enum",
+          "numericValue": 85,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "108-cm",
+          "valueLabel": "108 cm",
+          "href": "/attributes/dimensions/height/108-cm/",
+          "valueType": "enum",
+          "numericValue": 108,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "ottoman-depth",
+          "label": "Ottoman depth",
+          "valueKey": "42-cm",
+          "valueLabel": "42 cm",
+          "href": "/attributes/dimensions/ottoman-depth/42-cm/",
+          "valueType": "enum",
+          "numericValue": 42,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "ottoman-height",
+          "label": "Ottoman height",
+          "valueKey": "38-cm",
+          "valueLabel": "38 cm",
+          "href": "/attributes/dimensions/ottoman-height/38-cm/",
+          "valueType": "enum",
+          "numericValue": 38,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "ottoman-width",
+          "label": "Ottoman width",
+          "valueKey": "49-cm",
+          "valueLabel": "49 cm",
+          "href": "/attributes/dimensions/ottoman-width/49-cm/",
+          "valueType": "enum",
+          "numericValue": 49,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "77-cm",
+          "valueLabel": "77 cm",
+          "href": "/attributes/dimensions/width/77-cm/",
+          "valueType": "enum",
+          "numericValue": 77,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-44-m3",
+          "valueLabel": "0.44 m³",
+          "href": "/attributes/logistics/volume/0-44-m3/",
+          "valueType": "enum",
+          "numericValue": 0.44,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "foam-density",
+          "label": "Foam density",
+          "valueKey": "28-kg-m3",
+          "valueLabel": "28 kg/m³",
+          "href": "/attributes/padding/foam-density/28-kg-m3/",
+          "valueType": "enum",
+          "numericValue": 28,
+          "unit": "kg/m³"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "47-cm",
+          "valueLabel": "47 cm",
+          "href": "/attributes/seating/seat-height/47-cm/",
+          "valueType": "enum",
+          "numericValue": 47,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "lightfastness",
+          "label": "Lightfastness",
+          "valueKey": "5",
+          "valueLabel": "5",
+          "href": "/attributes/upholstery/lightfastness/5/",
+          "valueType": "enum",
+          "numericValue": 5,
+          "unit": ""
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "pilling",
+          "label": "Pilling",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/pilling/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Breeze Swivel Chair, Grey",
+      "summary": "Grey fabric with black legs. Swivel chair and ottoman set.",
+      "variantCount": 1,
+      "categoryLabel": "Swivel Chairs",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": "Breeze"
+    }
+  },
+  {
+    "sku": "198262",
+    "name": "198262",
+    "title": "Breeze Swivel Chair, Brown",
+    "variantSummary": "77 x 85 cm / Brown",
+    "shortDescription": "Brown fabric with black legs. Swivel chair and ottoman set.",
+    "selectionAttributes": {
+      "dimensions": "77 x 85 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Brown",
+      "material": "Steel, Polyester, Foam"
+    },
+    "primaryImageUrl": "/products/swivel-chairs/breeze/198262_1.avif",
+    "imageUrl": "/products/swivel-chairs/breeze/198262_1.avif",
+    "imageUrls": [
+      "/products/swivel-chairs/breeze/198262_1.avif",
+      "/products/swivel-chairs/breeze/198262_2.avif",
+      "/products/swivel-chairs/breeze/198262_3.avif",
+      "/products/swivel-chairs/breeze/198262_4.avif",
+      "/products/swivel-chairs/breeze/198262_5.avif",
+      "/products/swivel-chairs/breeze/198262_6.avif",
+      "/products/swivel-chairs/breeze/198262_7.avif",
+      "/products/swivel-chairs/breeze/198262_8.avif",
+      "/products/swivel-chairs/breeze/198262_9.avif"
+    ],
+    "href": "/products/swivel-chairs/breeze/198262",
+    "type": "file",
+    "filterData": {
+      "searchText": "Breeze Swivel Chair, Brown Brown fabric with black legs. Swivel chair and ottoman set. Swivel Chairs Living room Breeze Living room Swivel Chairs Breeze Brown Foam Metal Polyester Steel Care Cleaning method Dry clean Dimensions Depth 85 cm cm Dimensions Height 108 cm cm Dimensions Ottoman depth 42 cm cm Dimensions Ottoman height 38 cm cm Dimensions Ottoman width 49 cm cm Dimensions Width 77 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 20 kg kg Padding Foam density 28 kg/m³ kg/m³ Seating Seat count 1 seat seat Seating Seat height 47 cm cm Setup Assembly time 30 min min Upholstery Lightfastness 5 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "swivel-chairs",
+          "label": "Swivel Chairs",
+          "href": "/products/swivel-chairs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "breeze",
+          "label": "Breeze",
+          "href": "/families/breeze/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        },
+        {
+          "key": "steel",
+          "label": "Steel",
+          "href": "/materials/steel/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "dry-clean",
+          "valueLabel": "Dry clean",
+          "href": "/attributes/care/cleaning-method/dry-clean/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "85-cm",
+          "valueLabel": "85 cm",
+          "href": "/attributes/dimensions/depth/85-cm/",
+          "valueType": "enum",
+          "numericValue": 85,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "108-cm",
+          "valueLabel": "108 cm",
+          "href": "/attributes/dimensions/height/108-cm/",
+          "valueType": "enum",
+          "numericValue": 108,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "ottoman-depth",
+          "label": "Ottoman depth",
+          "valueKey": "42-cm",
+          "valueLabel": "42 cm",
+          "href": "/attributes/dimensions/ottoman-depth/42-cm/",
+          "valueType": "enum",
+          "numericValue": 42,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "ottoman-height",
+          "label": "Ottoman height",
+          "valueKey": "38-cm",
+          "valueLabel": "38 cm",
+          "href": "/attributes/dimensions/ottoman-height/38-cm/",
+          "valueType": "enum",
+          "numericValue": 38,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "ottoman-width",
+          "label": "Ottoman width",
+          "valueKey": "49-cm",
+          "valueLabel": "49 cm",
+          "href": "/attributes/dimensions/ottoman-width/49-cm/",
+          "valueType": "enum",
+          "numericValue": 49,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "77-cm",
+          "valueLabel": "77 cm",
+          "href": "/attributes/dimensions/width/77-cm/",
+          "valueType": "enum",
+          "numericValue": 77,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-35-m3",
+          "valueLabel": "0.35 m³",
+          "href": "/attributes/logistics/volume/0-35-m3/",
+          "valueType": "enum",
+          "numericValue": 0.35,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "foam-density",
+          "label": "Foam density",
+          "valueKey": "28-kg-m3",
+          "valueLabel": "28 kg/m³",
+          "href": "/attributes/padding/foam-density/28-kg-m3/",
+          "valueType": "enum",
+          "numericValue": 28,
+          "unit": "kg/m³"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-count",
+          "label": "Seat count",
+          "valueKey": "1-seat",
+          "valueLabel": "1 seat",
+          "href": "/attributes/seating/seat-count/1-seat/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "seat"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "47-cm",
+          "valueLabel": "47 cm",
+          "href": "/attributes/seating/seat-height/47-cm/",
+          "valueType": "enum",
+          "numericValue": 47,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "lightfastness",
+          "label": "Lightfastness",
+          "valueKey": "5",
+          "valueLabel": "5",
+          "href": "/attributes/upholstery/lightfastness/5/",
+          "valueType": "enum",
+          "numericValue": 5,
+          "unit": ""
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "pilling",
+          "label": "Pilling",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/pilling/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Breeze Swivel Chair, Brown",
+      "summary": "Brown fabric with black legs. Swivel chair and ottoman set.",
+      "variantCount": 1,
+      "categoryLabel": "Swivel Chairs",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": "Breeze"
+    }
+  }
+]

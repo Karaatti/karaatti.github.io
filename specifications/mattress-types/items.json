@@ -1,0 +1,20 @@
+[
+  {
+    "name": "memory-foam-mattress",
+    "label": "Memory foam mattress",
+    "href": "/specifications/mattress-types/memory-foam-mattress/",
+    "type": "dir",
+    "description": "Memory foam mattress is a shared mattress type used across the Nest & Living range. Common on Continental Bed, Divan Bed and Mattress. Often paired with Memory foam.",
+    "familyCount": 1,
+    "variantCount": 31
+  },
+  {
+    "name": "pocket-spring-mattress",
+    "label": "Pocket spring mattress",
+    "href": "/specifications/mattress-types/pocket-spring-mattress/",
+    "type": "dir",
+    "description": "Pocket spring mattress is a shared mattress type used across the Nest & Living range. Common on Adjustable Bed, Continental Bed, Divan Bed and Mattress. Often paired with Metal.",
+    "familyCount": 3,
+    "variantCount": 82
+  }
+]

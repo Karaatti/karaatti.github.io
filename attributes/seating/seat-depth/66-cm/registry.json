@@ -1,0 +1,44 @@
+{
+  "group": "seating",
+  "groupLabel": "Seating",
+  "attributeKey": "seatDepth",
+  "attributeLabel": "Seat depth",
+  "value": "66 cm",
+  "valueSlug": "66-cm",
+  "valueType": "measurement",
+  "numericValue": 66,
+  "unit": "cm",
+  "productTypes": [
+    "Footstools"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+      "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+      "schemaCategory": "Footstools",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 66,
+        "max": 66,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "66 cm is a published seat depth used across selected Nest & Living products. Common on Footstool."
+}

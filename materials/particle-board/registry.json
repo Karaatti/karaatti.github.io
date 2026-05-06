@@ -1,0 +1,82 @@
+{
+  "label": "Particle board",
+  "description": "Particle board in furniture: Flat and economical, with acceptable bulk for hidden structures and faced panels.",
+  "intro": "Particle board appears across 3 product families and 47 options, especially on 3-Seater Sofas, Chaise Sofas, Continental Beds, Corner Sofas and Footstools.",
+  "chemistry": [
+    "Particle board is made from wood chips and particles bound with resin under pressure. It is efficient and economical, which is why it is common in secondary structures and cost-sensitive furniture.",
+    "Compared with plywood or solid wood it has weaker screw holding, especially at edges, and it has no natural long fibres to resist moisture-driven swelling."
+  ],
+  "furnitureUse": [
+    "Inside upholstered furniture it can work as a flat support element where it stays dry and hidden. In cabinet and table applications it usually needs a melamine, veneer or laminate face to become a finished surface.",
+    "The main caution is exactly the one you highlighted: particle board does not tolerate moisture well. Bathrooms, covered terraces and wet floor cleaning are hard on exposed edges and joints."
+  ],
+  "care": [
+    "Moisture and wear note: Poor moisture tolerance: when water enters, the board swells and usually does not recover.",
+    "Care note: Keep edges sealed and avoid wet mopping or persistent condensation on exposed particle-board components."
+  ],
+  "terminology": [],
+  "thermal": [
+    "Particle board is not a heat-storing comfort layer. It behaves as a structural panel with modest tactile temperature response compared with metal, and far less heat retention than dense foam.",
+    "Its environmental weakness is again moisture plus temperature cycling at vulnerable edges. Swelling and joint loosening matter more than thermal expansion itself."
+  ],
+  "recycling": [
+    "Finland-first sorting baseline: particle-board furniture and offcuts usually belong to municipal bulky-furniture or treated-board acceptance, not packaging streams.",
+    "If laminate, veneer, upholstery or hardware is still attached, route the whole part through municipal bulky-waste handling unless the local operator gives a cleaner separated-board instruction."
+  ],
+  "durability": [
+    "Particle board durability is strongly edge-dependent. Protected inside a dry carcass it can last well, but wet mopping, floor moisture and impacts shorten life quickly.",
+    "Once swelling starts, recovery is usually poor. That makes local water damage the most common end-of-life trigger."
+  ],
+  "relatedSpecifications": [
+    "Particle-board core",
+    "Melamine board",
+    "Budget carcass panel"
+  ],
+  "lifecycleRows": [
+    {
+      "label": "Recycling in Finland",
+      "value": "Use municipal bulky-furniture or treated-board handling; do not place in packaging streams."
+    },
+    {
+      "label": "Expected wear profile",
+      "value": "Serviceable in dry interiors, but very vulnerable to edge swelling, corner impacts and loosening fixings."
+    },
+    {
+      "label": "Retail warranty note",
+      "value": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+    }
+  ],
+  "strengths": [
+    "low cost",
+    "flat stable panels in dry interiors",
+    "efficient use of wood residue"
+  ],
+  "watchouts": [
+    "does not tolerate moisture well",
+    "edge screw holding is modest",
+    "swelling is often permanent once wet"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Engineered wood panel"
+    },
+    {
+      "label": "Composition",
+      "value": "Wood particles bonded with resin and pressed into a sheet."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Flat and economical, with acceptable bulk for hidden structures and faced panels."
+    },
+    {
+      "label": "Key strengths",
+      "value": "low cost, flat stable panels in dry interiors and efficient use of wood residue"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "does not tolerate moisture well, edge screw holding is modest and swelling is often permanent once wet"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

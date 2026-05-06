@@ -1,0 +1,82 @@
+{
+  "label": "Foam",
+  "description": "Foam in furniture: Shape-forming, pressure-distributing and available from soft comfort layers to firm support cores.",
+  "intro": "Foam appears across 17 product families and 109 options, especially on 3-Seater Sofas, 4-Seater Sofas, Armchairs, Chaise Sofas, Continental Beds and Corner Sofas and 6 more.",
+  "chemistry": [
+    "Furniture foam is typically polyurethane built as an open-cell network. Density and firmness are separate variables: density relates to durability, while firmness describes how quickly the foam pushes back.",
+    "Foam slowly ages through oxidation, repeated compression and heat. Better grades keep resilience longer, while lower-density foams soften and lose height sooner."
+  ],
+  "furnitureUse": [
+    "Foam is the core comfort material in seats, backs, headboards and toppers because it can be cut, layered and tuned very precisely for support, softness and edge definition.",
+    "A furniture build usually matters more than the word foam alone. A high-density support core with softer wrap behaves very differently from a single cheap slab."
+  ],
+  "care": [
+    "Moisture and wear note: Open-cell foams can hold moisture; drying speed depends on density, airflow and cover construction.",
+    "Care note: Keep ventilated, avoid prolonged damp storage and rotate reversible cushions when possible."
+  ],
+  "terminology": [],
+  "thermal": [
+    "Standard furniture foam usually sits between memory foam and latex in perceived warmth. It tends to breathe better than dense memory foam, but the exact result depends on density, perforation, cover fabric and the amount of body sink.",
+    "Higher-density foam and poorly ventilated upholstery stacks dry more slowly and can feel warmer than lighter open builds."
+  ],
+  "recycling": [
+    "Finland-first sorting baseline: polyurethane furniture foam is not a plastic-packaging stream. Treat loose foam parts as municipal bulky furniture or mixed furniture waste unless your local operator publishes a separate foam route.",
+    "When the foam is built into a sofa, mattress or headboard, prioritise reuse first and then direct the full product to municipal bulky-waste handling if separation is not practical."
+  ],
+  "durability": [
+    "Foam durability tracks density more than marketing adjectives. Higher-density support foam usually keeps height and rebound longer than low-density commodity foam.",
+    "Repeated compression, heat, oxidation and trapped humidity slowly reduce resilience. Well-designed layered builds age more gracefully than single low-cost foam slabs."
+  ],
+  "relatedSpecifications": [
+    "Foam mattress",
+    "Comfort foam layer",
+    "Seat support foam"
+  ],
+  "lifecycleRows": [
+    {
+      "label": "Recycling in Finland",
+      "value": "Use municipal bulky-furniture or mixed-furniture handling unless a local operator explicitly accepts separated foam."
+    },
+    {
+      "label": "Expected wear profile",
+      "value": "Gradual softening and lower rebound over time; density is the main durability driver."
+    },
+    {
+      "label": "Retail warranty note",
+      "value": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+    }
+  ],
+  "strengths": [
+    "tunable support",
+    "shape retention",
+    "works well in layered cushions"
+  ],
+  "watchouts": [
+    "quality depends heavily on density",
+    "can soften with age",
+    "trapped moisture slows recovery and hygiene"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Cellular polymer cushioning"
+    },
+    {
+      "label": "Composition",
+      "value": "Most often polyurethane foam, sometimes with multiple densities in one cushion build."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Shape-forming, pressure-distributing and available from soft comfort layers to firm support cores."
+    },
+    {
+      "label": "Key strengths",
+      "value": "tunable support, shape retention and works well in layered cushions"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "quality depends heavily on density, can soften with age and trapped moisture slows recovery and hygiene"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

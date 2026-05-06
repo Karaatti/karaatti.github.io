@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "31.5 kg",
+  "valueSlug": "31-5-kg",
+  "valueType": "measurement",
+  "numericValue": 31.5,
+  "unit": "kg",
+  "productTypes": [
+    "Gazebos & Pergolas",
+    "Headboards"
+  ],
+  "familyCount": 2,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Moon Silver headboard features a buttoned fabric surface that breathes well and adds a subtle, elegant touch to the bedroom. Its timeless design suits various interiors and provides comfortable back support.",
+      "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+      "schemaCategory": "Headboards",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Nordic gazebo and pergola variants with adjustable slatted roofs, sturdy aluminium and steel frames, and terrace-ready shelter for outdoor living.",
+      "primaryImageUrl": "/products/gazebos-pergolas/nordic/nordic_gazebo_black_7.jpg",
+      "schemaCategory": "Gazebos & Pergolas",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 31.5,
+        "max": 31.5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "31.5 kg is a published weight used across selected Nest & Living products. Common on Gazebos & Pergola and Headboard."
+}

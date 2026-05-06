@@ -1,0 +1,82 @@
+{
+  "label": "Wood",
+  "description": "Wood in furniture: Warm, stiff and naturally variable in grain and tone.",
+  "intro": "Wood appears across 11 product families and 89 options, especially on 4-Seater Sofas, Adjustable Beds, Armchairs, Bed Frames, Chaise Sofas and Continental Beds and 4 more.",
+  "chemistry": [
+    "Wood is a broad biological material made from cellulose, hemicellulose and lignin arranged in a directional grain structure. That grain is what gives wood both strength and movement.",
+    "Because the exact species is not named, the label tells you more about character than exact hardness. The furniture will still share the core timber traits of warmth, texture and hygroscopic behaviour."
+  ],
+  "furnitureUse": [
+    "Wood adds tactile warmth and visual depth to frames, slats, legs and exposed surfaces. It is often the material that makes a room feel less synthetic and less acoustically hard.",
+    "The design caution is always movement and surface wear. Timber rewards good detailing and ages attractively, but it is not a zero-maintenance material."
+  ],
+  "care": [
+    "Moisture and wear note: Like all wood, it responds to humidity and needs finish protection in daily use.",
+    "Care note: Assume normal timber care: wipe spills promptly, control humidity and maintain the finish over time."
+  ],
+  "terminology": [],
+  "thermal": [
+    "Wood generally feels warmer than metal and less heat-retentive than dense foam comfort layers. In furniture it shapes tactile climate more than it changes the sleeper's body-temperature profile.",
+    "Moisture balance remains the main ageing driver. Seasonal indoor climate changes affect movement, gap width and finish stability more than plain thermal expansion does."
+  ],
+  "recycling": [
+    "Finland-first sorting baseline: if a wood product is still usable, prioritise reuse or donation. Broken wood furniture usually belongs to municipal bulky-furniture handling or a local wood stream depending on treatment and attached materials.",
+    "Because the exact species and finish are unspecified, do not promise a clean untreated-wood route unless the local operator accepts that specific component."
+  ],
+  "durability": [
+    "Durability varies by species, section size and finish, which is why a generic wood label should be read as a family clue rather than a guarantee of oak-like hardness.",
+    "Typical wear is gradual: dents, scratches, finish drying and humidity-driven movement before structural failure."
+  ],
+  "relatedSpecifications": [
+    "Wood leg",
+    "Wood frame",
+    "Wood slat"
+  ],
+  "lifecycleRows": [
+    {
+      "label": "Recycling in Finland",
+      "value": "Prioritise reuse first; otherwise use municipal bulky-furniture handling or the local wood route if the finish and local rules allow it."
+    },
+    {
+      "label": "Expected wear profile",
+      "value": "Ageing is usually gradual, with dents, scratches and humidity-related movement as the common signs."
+    },
+    {
+      "label": "Retail warranty note",
+      "value": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+    }
+  ],
+  "strengths": [
+    "warm natural appearance",
+    "good structural versatility",
+    "repairable surface character"
+  ],
+  "watchouts": [
+    "species not specified",
+    "moves with humidity",
+    "surface can dent or dry out if neglected"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "General wood category"
+    },
+    {
+      "label": "Composition",
+      "value": "Wood-based component where the exact species is not specified."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Warm, stiff and naturally variable in grain and tone."
+    },
+    {
+      "label": "Key strengths",
+      "value": "warm natural appearance, good structural versatility and repairable surface character"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "species not specified, moves with humidity and surface can dent or dry out if neglected"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "lightfastness",
+    "label": "Lightfastness",
+    "href": "/attributes/upholstery/lightfastness/",
+    "type": "dir",
+    "entryCount": 2,
+    "variantCount": 62,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        ""
+      ],
+      "ranges": [
+        {
+          "unit": "",
+          "min": 4,
+          "max": 5,
+          "count": 2,
+          "distinctCount": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "martindale",
+    "label": "Martindale",
+    "href": "/attributes/upholstery/martindale/",
+    "type": "dir",
+    "entryCount": 3,
+    "variantCount": 47,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 3,
+      "unitCount": 1,
+      "units": [
+        "Martindale"
+      ],
+      "ranges": [
+        {
+          "unit": "Martindale",
+          "min": 30000,
+          "max": 120000,
+          "count": 3,
+          "distinctCount": 3
+        }
+      ]
+    }
+  },
+  {
+    "name": "pilling",
+    "label": "Pilling",
+    "href": "/attributes/upholstery/pilling/",
+    "type": "dir",
+    "entryCount": 2,
+    "variantCount": 62,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 2,
+      "unitCount": 1,
+      "units": [
+        ""
+      ],
+      "ranges": [
+        {
+          "unit": "",
+          "min": 3.5,
+          "max": 4,
+          "count": 2,
+          "distinctCount": 2
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "72 cm",
+  "valueSlug": "72-cm",
+  "valueType": "measurement",
+  "numericValue": 72,
+  "unit": "cm",
+  "productTypes": [
+    "Fixed Armchairs",
+    "Outdoor Dining Chairs"
+  ],
+  "familyCount": 2,
+  "variantCount": 4,
+  "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/eagle",
+      "familyTitle": "Eagle",
+      "familySummary": "A modern armchair with a natural wood frame and soft upholstery, designed for comfort and understated style.",
+      "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
+      "schemaCategory": "Armchairs",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/haven",
+      "familyTitle": "Haven",
+      "familySummary": "Haven dining chair offers a stylish and comfortable addition to summer dining spaces. Made from natural colored polyrattan with beige cushions, it combines aluminium, fabric and polyrattan for durability and comfort.",
+      "primaryImageUrl": "/products/outdoor-dining-chairs/haven/197625_1.avif",
+      "schemaCategory": "Outdoor Dining Chairs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 72,
+        "max": 72,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "72 cm is a published depth used across selected Nest & Living products. Common on Fixed Armchair and Outdoor Dining Chair."
+}

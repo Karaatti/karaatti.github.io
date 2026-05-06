@@ -1,0 +1,26 @@
+[
+  {
+    "name": "hike",
+    "href": "/products/decorative-cushions/hike/",
+    "type": "dir",
+    "title": "Hike Decorative Cushion",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 3,
+    "displayColors": [
+      "Orange"
+    ]
+  },
+  {
+    "name": "lyra",
+    "href": "/products/rugs/lyra/",
+    "type": "dir",
+    "title": "Lyra",
+    "schemaCategory": "Rugs",
+    "variantCount": 2,
+    "displayColors": [
+      "Orange",
+      "Beige",
+      "Brown"
+    ]
+  }
+]

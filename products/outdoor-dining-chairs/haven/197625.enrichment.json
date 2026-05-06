@@ -1,0 +1,243 @@
+{
+  "sku": "197625",
+  "displayName": "Haven Outdoor Dining Chair, Brown",
+  "metaTitle": "Haven Outdoor Dining Chair, Brown - NEST & LIVING",
+  "metaDescription": "Brown chair with fabric, polyrattan, aluminium and polyester materials; beige cushions for comfort and a warm look.",
+  "ogTitle": "Haven Outdoor Dining Chair, Brown",
+  "ogDescription": "Brown chair with fabric, polyrattan, aluminium and polyester materials; beige cushions for comfort and a warm look.",
+  "shortDescription": "Brown chair with fabric, polyrattan, aluminium and polyester materials; beige cushions for comfort and a warm look.",
+  "familyDescription": "The Haven dining chair brings a calm and comfortable presence to outdoor dining areas. Crafted from natural colored polyrattan with beige cushions, it combines aluminium, fabric and polyrattan materials for lasting comfort and durability. Designed for summer use, it suits various outdoor spaces and is easy to maintain.",
+  "schemaCategory": "Dining Chairs",
+  "selectionAttributes": {
+    "dimensions": "64 x 72 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Brown",
+    "material": "Fabric, Polyrattan, Aluminium, Polyester"
+  },
+  "attributes": [
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "64 cm",
+      "valueSlug": "64-cm",
+      "rawValue": "64 cm",
+      "valueType": "enum",
+      "numericValue": 64,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "72 cm",
+      "valueSlug": "72-cm",
+      "rawValue": "72 cm",
+      "valueType": "enum",
+      "numericValue": 72,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "92 cm",
+      "valueSlug": "92-cm",
+      "rawValue": "92 cm",
+      "valueType": "enum",
+      "numericValue": 92,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "7.5 kg",
+      "valueSlug": "7-5-kg",
+      "rawValue": "7.5 kg",
+      "valueType": "enum",
+      "numericValue": 7.5,
+      "unit": "kg",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Weight",
+      "sourceType": "specs"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.37 m³",
+      "valueSlug": "0-37-m3",
+      "rawValue": "0.37 m³",
+      "valueType": "enum",
+      "numericValue": 0.37,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "8.8 kg",
+      "valueSlug": "8-8-kg",
+      "rawValue": "8.8 kg",
+      "valueType": "enum",
+      "numericValue": 8.8,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Fabric, Polyrattan, Aluminium, Polyester",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Brown",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/brown/\">Brown</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Fabric, Polyrattan, Aluminium, Polyester",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/fabric/\">Fabric</a><a class=\"spec-link-chip\" href=\"/materials/polyrattan/\">Polyrattan</a><a class=\"spec-link-chip\" href=\"/materials/aluminium/\">Aluminium</a><a class=\"spec-link-chip\" href=\"/materials/polyester/\">Polyester</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "64 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "64 cm",
+          "href": "/attributes/dimensions/width/64-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/64-cm/\">64 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "72 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "72 cm",
+          "href": "/attributes/dimensions/depth/72-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/72-cm/\">72 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "92 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "92 cm",
+          "href": "/attributes/dimensions/height/92-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/92-cm/\">92 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "7.5 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "7.5 kg",
+          "href": "/attributes/logistics/weight/7-5-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/7-5-kg/\">7.5 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/outdoor-dining-chairs/haven/197625_1.avif",
+  "retailerUrl": "https://www.masku.com/tuote/197625-haven-ruokatuoli-natural-polyrottinki-beige-pehmuste",
+  "imageUrls": [
+    "/products/outdoor-dining-chairs/haven/197625_1.avif",
+    "/products/outdoor-dining-chairs/haven/197625_2.avif",
+    "/products/outdoor-dining-chairs/haven/197625_3.avif",
+    "/products/outdoor-dining-chairs/haven/197625_4.avif",
+    "/products/outdoor-dining-chairs/haven/197625_5.avif",
+    "/products/outdoor-dining-chairs/haven/197625_6.avif",
+    "/products/outdoor-dining-chairs/haven/197625_7.avif"
+  ]
+}

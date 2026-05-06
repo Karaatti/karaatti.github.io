@@ -1,0 +1,335 @@
+{
+  "attributeKey": "seatDepth",
+  "attributeLabel": "Seat depth",
+  "group": "seating",
+  "groupLabel": "Seating",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 7,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 43.5,
+        "max": 66,
+        "count": 7,
+        "distinctCount": 7
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "seating",
+      "groupLabel": "Seating",
+      "attributeKey": "seatDepth",
+      "attributeLabel": "Seat depth",
+      "value": "43.5 cm",
+      "valueSlug": "43-5-cm",
+      "valueType": "measurement",
+      "numericValue": 43.5,
+      "unit": "cm",
+      "productTypes": [
+        "Outdoor Dining Chairs"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/saarni",
+          "familyTitle": "Saarni",
+          "familySummary": "Light brown stackable dining chair with aluminium frame and nonwood surfaces. Suitable for indoor and outdoor use.",
+          "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+          "schemaCategory": "Outdoor Dining Chairs",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 43.5,
+            "max": 43.5,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "43.5 cm is a published seat depth used across selected Nest & Living products. Common on Outdoor Dining Chair."
+    },
+    {
+      "group": "seating",
+      "groupLabel": "Seating",
+      "attributeKey": "seatDepth",
+      "attributeLabel": "Seat depth",
+      "value": "48 cm",
+      "valueSlug": "48-cm",
+      "valueType": "measurement",
+      "numericValue": 48,
+      "unit": "cm",
+      "productTypes": [
+        "Outdoor Dining Chairs"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/outdoor-dining-chairs/messina/206762_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/messina",
+          "familyTitle": "Messina",
+          "familySummary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
+          "primaryImageUrl": "/products/outdoor-dining-chairs/messina/206762_1.avif",
+          "schemaCategory": "Outdoor Dining Chairs",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 48,
+            "max": 48,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "48 cm is a published seat depth used across selected Nest & Living products. Common on Outdoor Dining Chair."
+    },
+    {
+      "group": "seating",
+      "groupLabel": "Seating",
+      "attributeKey": "seatDepth",
+      "attributeLabel": "Seat depth",
+      "value": "57 cm",
+      "valueSlug": "57-cm",
+      "valueType": "measurement",
+      "numericValue": 57,
+      "unit": "cm",
+      "productTypes": [
+        "Outdoor Dining Chairs"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/messina",
+          "familyTitle": "Messina",
+          "familySummary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
+          "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+          "schemaCategory": "Outdoor Dining Chairs",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 57,
+            "max": 57,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "57 cm is a published seat depth used across selected Nest & Living products. Common on Outdoor Dining Chair."
+    },
+    {
+      "group": "seating",
+      "groupLabel": "Seating",
+      "attributeKey": "seatDepth",
+      "attributeLabel": "Seat depth",
+      "value": "60 cm",
+      "valueSlug": "60-cm",
+      "valueType": "measurement",
+      "numericValue": 60,
+      "unit": "cm",
+      "productTypes": [
+        "Corner Sofas"
+      ],
+      "familyCount": 1,
+      "variantCount": 2,
+      "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/haave",
+          "familyTitle": "Haave",
+          "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+          "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+          "schemaCategory": "Corner Sofas",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 60,
+            "max": 60,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "60 cm is a published seat depth used across selected Nest & Living products. Common on Corner Sofa."
+    },
+    {
+      "group": "seating",
+      "groupLabel": "Seating",
+      "attributeKey": "seatDepth",
+      "attributeLabel": "Seat depth",
+      "value": "63 cm",
+      "valueSlug": "63-cm",
+      "valueType": "measurement",
+      "numericValue": 63,
+      "unit": "cm",
+      "productTypes": [
+        "3-Seater Sofas",
+        "Chaise Sofas",
+        "Corner Sofas"
+      ],
+      "familyCount": 1,
+      "variantCount": 10,
+      "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/lugo",
+          "familyTitle": "Lugo",
+          "familySummary": "A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame.",
+          "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+          "schemaCategory": "Chaise Sofas, Corner Sofas and 3-Seater Sofas",
+          "variantCount": 10
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 63,
+            "max": 63,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "63 cm is a published seat depth used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa and Corner Sofa."
+    },
+    {
+      "group": "seating",
+      "groupLabel": "Seating",
+      "attributeKey": "seatDepth",
+      "attributeLabel": "Seat depth",
+      "value": "65 cm",
+      "valueSlug": "65-cm",
+      "valueType": "measurement",
+      "numericValue": 65,
+      "unit": "cm",
+      "productTypes": [
+        "Outdoor Sun Loungers"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/house-nordic-derby",
+          "familyTitle": "House Nordic Derby",
+          "familySummary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+          "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+          "schemaCategory": "Outdoor Sun Loungers",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 65,
+            "max": 65,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "65 cm is a published seat depth used across selected Nest & Living products. Common on Outdoor Sun Lounger."
+    },
+    {
+      "group": "seating",
+      "groupLabel": "Seating",
+      "attributeKey": "seatDepth",
+      "attributeLabel": "Seat depth",
+      "value": "66 cm",
+      "valueSlug": "66-cm",
+      "valueType": "measurement",
+      "numericValue": 66,
+      "unit": "cm",
+      "productTypes": [
+        "Footstools"
+      ],
+      "familyCount": 1,
+      "variantCount": 2,
+      "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/lugo",
+          "familyTitle": "Lugo",
+          "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+          "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+          "schemaCategory": "Footstools",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 66,
+            "max": 66,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "66 cm is a published seat depth used across selected Nest & Living products. Common on Footstool."
+    }
+  ]
+}

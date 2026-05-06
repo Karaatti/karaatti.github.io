@@ -1,0 +1,53 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "57 cm",
+  "valueSlug": "57-cm",
+  "valueType": "measurement",
+  "numericValue": 57,
+  "unit": "cm",
+  "productTypes": [
+    "Footstools",
+    "Outdoor Dining Chairs"
+  ],
+  "familyCount": 2,
+  "variantCount": 5,
+  "primaryImageUrl": "/products/footstools/haley/202842_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/haley",
+      "familyTitle": "Haley",
+      "familySummary": "Compact upholstered footstool in Hevra fabric, available in selected neutral tones.",
+      "primaryImageUrl": "/products/footstools/haley/202842_1.avif",
+      "schemaCategory": "Footstools",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/saarni",
+      "familyTitle": "Saarni",
+      "familySummary": "Light brown stackable dining chair with aluminium frame and nonwood surfaces. Suitable for indoor and outdoor use.",
+      "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+      "schemaCategory": "Outdoor Dining Chairs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 57,
+        "max": 57,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "57 cm is a published depth used across selected Nest & Living products. Common on Footstool and Outdoor Dining Chair."
+}

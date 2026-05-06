@@ -1,0 +1,62 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "16 kg",
+  "valueSlug": "16-kg",
+  "valueType": "measurement",
+  "numericValue": 16,
+  "unit": "kg",
+  "productTypes": [
+    "Console Tables",
+    "Headboards",
+    "Mattresses"
+  ],
+  "familyCount": 3,
+  "variantCount": 5,
+  "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "A practical and understated headboard featuring button detailing in five rows. Available in several widths and neutral fabric colours.",
+      "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+      "schemaCategory": "Headboards and Mattresses",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Pocket spring mattress with 5-zone support for individual body comfort. Available in various sizes and designed for practical, lasting use.",
+      "primaryImageUrl": "/products/mattresses/moon-silver/moon_silver_mattress_grey_1.avif",
+      "schemaCategory": "Mattresses",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/oak",
+      "familyTitle": "Oak",
+      "familySummary": "Oak console table in natural oak veneer offers a modern Scandinavian look for living rooms, hallways or offices. The warm brown tone creates a cozy atmosphere. Two integrated drawers provide practical storage. A versatile and durable piece that complements the home.",
+      "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+      "schemaCategory": "Console Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 16,
+        "max": 16,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "16 kg is a published weight used across selected Nest & Living products. Common on Console Table, Headboard and Mattress."
+}

@@ -1,0 +1,44 @@
+{
+  "group": "seating",
+  "groupLabel": "Seating",
+  "attributeKey": "seatDepth",
+  "attributeLabel": "Seat depth",
+  "value": "57 cm",
+  "valueSlug": "57-cm",
+  "valueType": "measurement",
+  "numericValue": 57,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Dining Chairs"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/messina",
+      "familyTitle": "Messina",
+      "familySummary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
+      "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+      "schemaCategory": "Outdoor Dining Chairs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 57,
+        "max": 57,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "57 cm is a published seat depth used across selected Nest & Living products. Common on Outdoor Dining Chair."
+}

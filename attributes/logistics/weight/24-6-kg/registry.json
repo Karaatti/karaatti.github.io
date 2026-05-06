@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "24.6 kg",
+  "valueSlug": "24-6-kg",
+  "valueType": "measurement",
+  "numericValue": 24.6,
+  "unit": "kg",
+  "productTypes": [
+    "Outdoor Storage"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/outdoor-storage/nordic/206771_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Outdoor storage boxes from the Nordic collection with aluminium frames and weather-ready fabric-lined lids, available in two sizes and beige or black finishes.",
+      "primaryImageUrl": "/products/outdoor-storage/nordic/206771_1.avif",
+      "schemaCategory": "Outdoor Storage",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 24.6,
+        "max": 24.6,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "24.6 kg is a published weight used across selected Nest & Living products. Common on Outdoor Storage."
+}

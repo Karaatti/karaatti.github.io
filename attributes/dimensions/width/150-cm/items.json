@@ -1,0 +1,42 @@
+[
+  {
+    "name": "mystery",
+    "href": "/families/mystery/",
+    "type": "dir",
+    "title": "Mystery",
+    "schemaCategory": "Shelves",
+    "variantCount": 1
+  },
+  {
+    "name": "nest-living-basic",
+    "href": "/families/nest-living-basic/",
+    "type": "dir",
+    "title": "Nest & Living Basic",
+    "schemaCategory": "Duvet & Pillow Sets",
+    "variantCount": 1
+  },
+  {
+    "name": "nest-living-bronze",
+    "href": "/families/nest-living-bronze/",
+    "type": "dir",
+    "title": "Nest & Living Bronze",
+    "schemaCategory": "Duvet & Pillow Sets",
+    "variantCount": 1
+  },
+  {
+    "name": "nest-living-gold",
+    "href": "/families/nest-living-gold/",
+    "type": "dir",
+    "title": "Nest & Living Gold",
+    "schemaCategory": "Duvets",
+    "variantCount": 1
+  },
+  {
+    "name": "nest-living-silver",
+    "href": "/families/nest-living-silver/",
+    "type": "dir",
+    "title": "Nest & Living Silver",
+    "schemaCategory": "Duvets",
+    "variantCount": 1
+  }
+]

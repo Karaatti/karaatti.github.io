@@ -1,0 +1,74 @@
+[
+  {
+    "name": "38-cm",
+    "label": "38 cm",
+    "href": "/attributes/seating/seat-height/38-cm/",
+    "type": "dir",
+    "description": "38 cm is a published seat height used across selected Nest & Living products. Common on Outdoor Sun Lounger.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 38,
+    "unit": "cm"
+  },
+  {
+    "name": "40-cm",
+    "label": "40 cm",
+    "href": "/attributes/seating/seat-height/40-cm/",
+    "type": "dir",
+    "description": "40 cm is a published seat height used across selected Nest & Living products. Common on Outdoor Lounge Seating and Swivel Chair.",
+    "familyCount": 2,
+    "variantCount": 3,
+    "valueType": "measurement",
+    "numericValue": 40,
+    "unit": "cm"
+  },
+  {
+    "name": "41-cm",
+    "label": "41 cm",
+    "href": "/attributes/seating/seat-height/41-cm/",
+    "type": "dir",
+    "description": "41 cm is a published seat height used across selected Nest & Living products. Common on Outdoor Dining Chair.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 41,
+    "unit": "cm"
+  },
+  {
+    "name": "44-cm",
+    "label": "44 cm",
+    "href": "/attributes/seating/seat-height/44-cm/",
+    "type": "dir",
+    "description": "44 cm is a published seat height used across selected Nest & Living products. Common on 3-Seater Sofa, Chaise Sofa, Corner Sofa, Footstool, Outdoor Dining Chair and Swivel Chair.",
+    "familyCount": 3,
+    "variantCount": 16,
+    "valueType": "measurement",
+    "numericValue": 44,
+    "unit": "cm"
+  },
+  {
+    "name": "47-cm",
+    "label": "47 cm",
+    "href": "/attributes/seating/seat-height/47-cm/",
+    "type": "dir",
+    "description": "47 cm is a published seat height used across selected Nest & Living products. Common on Swivel Chair.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 47,
+    "unit": "cm"
+  },
+  {
+    "name": "48-cm",
+    "label": "48 cm",
+    "href": "/attributes/seating/seat-height/48-cm/",
+    "type": "dir",
+    "description": "48 cm is a published seat height used across selected Nest & Living products. Common on Corner Sofa.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 48,
+    "unit": "cm"
+  }
+]

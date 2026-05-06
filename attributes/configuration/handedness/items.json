@@ -1,0 +1,26 @@
+[
+  {
+    "name": "left",
+    "label": "Left",
+    "href": "/attributes/configuration/handedness/left/",
+    "type": "dir",
+    "description": "Left is a published handedness option used across selected Nest & Living products. Common on Chaise Sofa and Corner Sofa.",
+    "familyCount": 4,
+    "variantCount": 18,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  },
+  {
+    "name": "right",
+    "label": "Right",
+    "href": "/attributes/configuration/handedness/right/",
+    "type": "dir",
+    "description": "Right is a published handedness option used across selected Nest & Living products. Common on Chaise Sofa and Corner Sofa.",
+    "familyCount": 4,
+    "variantCount": 18,
+    "valueType": "enum",
+    "numericValue": null,
+    "unit": ""
+  }
+]

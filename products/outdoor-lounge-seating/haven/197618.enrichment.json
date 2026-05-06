@@ -1,0 +1,274 @@
+{
+  "sku": "197618",
+  "displayName": "Haven Outdoor Lounge Seating, Brown",
+  "metaTitle": "Haven Outdoor Lounge Seating, Brown - NEST & LIVING",
+  "metaDescription": "Brown, natural colored polyrattan with beige cushions and black steel frame.",
+  "ogTitle": "Haven Outdoor Lounge Seating, Brown",
+  "ogDescription": "Brown, natural colored polyrattan with beige cushions and black steel frame.",
+  "shortDescription": "Brown, natural colored polyrattan with beige cushions and black steel frame.",
+  "familyDescription": "The Haven lounge chair blends natural materials with modern design. Made from durable polyrattan with beige cushions and a black frame, it provides a relaxed and understated seating option for outdoor spaces.",
+  "schemaCategory": "Lounge Seating",
+  "selectionAttributes": {
+    "dimensions": "96 x 101 cm",
+    "handedness": "",
+    "comfortType": "",
+    "color": "Brown",
+    "material": "Polyrattan, Steel, Polyester"
+  },
+  "attributes": [
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "96 cm",
+      "valueSlug": "96-cm",
+      "rawValue": "96 cm",
+      "valueType": "enum",
+      "numericValue": 96,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "101 cm",
+      "valueSlug": "101-cm",
+      "rawValue": "101 cm",
+      "valueType": "enum",
+      "numericValue": 101,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "140 cm",
+      "valueSlug": "140-cm",
+      "rawValue": "140 cm",
+      "valueType": "enum",
+      "numericValue": 140,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "16.5 kg",
+      "valueSlug": "16-5-kg",
+      "rawValue": "16.5 kg",
+      "valueType": "enum",
+      "numericValue": 16.5,
+      "unit": "kg",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Weight",
+      "sourceType": "specs"
+    },
+    {
+      "key": "maximumLoad",
+      "label": "Maximum load",
+      "group": "load",
+      "groupLabel": "Load",
+      "value": "120 kg",
+      "valueSlug": "120-kg",
+      "rawValue": "120 kg",
+      "valueType": "enum",
+      "numericValue": 120,
+      "unit": "kg",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Maksimikuorma",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "30 min",
+      "valueSlug": "30-min",
+      "rawValue": "30 min",
+      "valueType": "enum",
+      "numericValue": 30,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "0.27 m³",
+      "valueSlug": "0-27-m3",
+      "rawValue": "0.27 m³",
+      "valueType": "enum",
+      "numericValue": 0.27,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "19 kg",
+      "valueSlug": "19-kg",
+      "rawValue": "19 kg",
+      "valueType": "enum",
+      "numericValue": 19,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Polyrattan, Steel, Polyester",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Brown",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/brown/\">Brown</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Polyrattan, Steel, Polyester",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/polyrattan/\">Polyrattan</a><a class=\"spec-link-chip\" href=\"/materials/steel/\">Steel</a><a class=\"spec-link-chip\" href=\"/materials/polyester/\">Polyester</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "96 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "96 cm",
+          "href": "/attributes/dimensions/width/96-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/96-cm/\">96 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "101 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "101 cm",
+          "href": "/attributes/dimensions/depth/101-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/101-cm/\">101 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "140 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "140 cm",
+          "href": "/attributes/dimensions/height/140-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/140-cm/\">140 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "16.5 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "16.5 kg",
+          "href": "/attributes/logistics/weight/16-5-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/16-5-kg/\">16.5 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/outdoor-lounge-seating/haven/197618_1.avif",
+  "retailerUrl": "https://www.masku.com/tuote/197618-haven-korituoli-natural-polyrottinki-beige-pehmuste-musta-runko",
+  "imageUrls": [
+    "/products/outdoor-lounge-seating/haven/197618_1.avif",
+    "/products/outdoor-lounge-seating/haven/197618_2.avif",
+    "/products/outdoor-lounge-seating/haven/197618_3.avif",
+    "/products/outdoor-lounge-seating/haven/197618_4.avif",
+    "/products/outdoor-lounge-seating/haven/197618_5.avif",
+    "/products/outdoor-lounge-seating/haven/197618_6.avif",
+    "/products/outdoor-lounge-seating/haven/197618_7.avif",
+    "/products/outdoor-lounge-seating/haven/197618_8.avif"
+  ]
+}

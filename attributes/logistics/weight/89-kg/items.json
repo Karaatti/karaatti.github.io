@@ -1,0 +1,26 @@
+[
+  {
+    "name": "lugo",
+    "href": "/families/lugo/",
+    "type": "dir",
+    "title": "Lugo",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 4
+  },
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 4
+  },
+  {
+    "name": "aava",
+    "href": "/families/aava/",
+    "type": "dir",
+    "title": "Aava",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 2
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "group": "configuration",
+  "groupLabel": "Configuration",
+  "attributeKey": "handedness",
+  "attributeLabel": "Handedness",
+  "value": "Right",
+  "valueSlug": "right",
+  "valueType": "enum",
+  "numericValue": null,
+  "unit": "",
+  "productTypes": [
+    "Chaise Sofas",
+    "Corner Sofas"
+  ],
+  "familyCount": 4,
+  "variantCount": 18,
+  "primaryImageUrl": "/products/chaise-sofas/westcoast/209134_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey.",
+      "primaryImageUrl": "/products/chaise-sofas/westcoast/209134_1.avif",
+      "schemaCategory": "Chaise Sofas and Corner Sofas",
+      "variantCount": 12
+    },
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame.",
+      "primaryImageUrl": "/products/chaise-sofas/lugo/210106_1.avif",
+      "schemaCategory": "Chaise Sofas and Corner Sofas",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/cloud",
+      "familyTitle": "Cloud",
+      "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+      "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/haave",
+      "familyTitle": "Haave",
+      "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+      "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      ""
+    ],
+    "ranges": [
+      {
+        "unit": "",
+        "min": 0,
+        "max": 0,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "Right is a published handedness option used across selected Nest & Living products. Common on Chaise Sofa and Corner Sofa."
+}

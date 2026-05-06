@@ -1,0 +1,904 @@
+{
+  "attributeKey": "productCount",
+  "attributeLabel": "Product count",
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 9,
+    "unitCount": 1,
+    "units": [
+      "product"
+    ],
+    "ranges": [
+      {
+        "unit": "product",
+        "min": 1,
+        "max": 20,
+        "count": 9,
+        "distinctCount": 9
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "attributeKey": "productCount",
+      "attributeLabel": "Product count",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "valueType": "measurement",
+      "numericValue": 1,
+      "unit": "product",
+      "productTypes": [
+        "3-Seater Sofas",
+        "4-Seater Sofas",
+        "Adjustable Beds",
+        "Armchairs",
+        "Bed Frames",
+        "Cabinets Display",
+        "Chaise Sofas",
+        "Coffee Tables",
+        "Console Tables",
+        "Continental Beds",
+        "Corner Sofas",
+        "Dining Chairs",
+        "Dining Tables",
+        "Divan Bed",
+        "Divan Beds",
+        "Fixed Armchairs",
+        "Footstools",
+        "Gazebos & Pergolas",
+        "Headboards",
+        "Mattresses",
+        "Mobile Phone Pockets",
+        "Modular Sofas",
+        "Outdoor Dining Chairs",
+        "Outdoor Dining Tables",
+        "Outdoor Lounge Seating",
+        "Outdoor Lounge Sets",
+        "Outdoor Storage",
+        "Outdoor Sun Loungers",
+        "Planters",
+        "Rugs",
+        "Side Tables",
+        "Swivel Chairs",
+        "Toppers"
+      ],
+      "familyCount": 51,
+      "variantCount": 367,
+      "primaryImageUrl": "/products/toppers/moon-gold/197741_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/moon-gold",
+          "familyTitle": "Moon Gold",
+          "familySummary": "Grey latex mattress topper offers good support and breathability for a single bed. Suitable for improving sleep quality in the bedroom.",
+          "primaryImageUrl": "/products/toppers/moon-gold/197741_1.avif",
+          "schemaCategory": "Adjustable Beds, Continental Beds, Divan Beds and Headboards and 2 more",
+          "variantCount": 116
+        },
+        {
+          "familyRelativeDir": "families/moon-silver",
+          "familyTitle": "Moon Silver",
+          "familySummary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+          "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
+          "schemaCategory": "Adjustable Beds, Continental Beds, Divan Beds and Headboards and 2 more",
+          "variantCount": 47
+        },
+        {
+          "familyRelativeDir": "families/moon-bronze",
+          "familyTitle": "Moon Bronze",
+          "familySummary": "Moon Bronze Basic is a lightweight, breathable mattress topper that adds gentle cushioning and supports a neutral sleeping posture. Its white tone with subtle leaf patterns fits well in the bedroom.",
+          "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+          "schemaCategory": "Adjustable Beds, Continental Beds, Divan Beds and Headboards and 1 more",
+          "variantCount": 33
+        },
+        {
+          "familyRelativeDir": "families/westcoast",
+          "familyTitle": "Westcoast",
+          "familySummary": "Compact footstool with a soft polyester cover and metal legs. Available in Beige, brown and grey.",
+          "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+          "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and Sofa Accessories and 1 more",
+          "variantCount": 33
+        },
+        {
+          "familyRelativeDir": "families/nordic",
+          "familyTitle": "Nordic",
+          "familySummary": "Outdoor storage boxes from the Nordic collection with aluminium frames and weather-ready fabric-lined lids, available in two sizes and beige or black finishes.",
+          "primaryImageUrl": "/products/outdoor-storage/nordic/206769_1.avif",
+          "schemaCategory": "Gazebos & Pergolas, Outdoor Lounge Seating, Outdoor Lounge Sets and Outdoor Storage",
+          "variantCount": 14
+        },
+        {
+          "familyRelativeDir": "families/lugo",
+          "familyTitle": "Lugo",
+          "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+          "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+          "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+          "variantCount": 12
+        },
+        {
+          "familyRelativeDir": "families/heaven",
+          "familyTitle": "Heaven",
+          "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+          "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+          "schemaCategory": "4-Seater Sofas",
+          "variantCount": 6
+        },
+        {
+          "familyRelativeDir": "families/saarni",
+          "familyTitle": "Saarni",
+          "familySummary": "Light brown stackable dining chair with aluminium frame and nonwood surfaces. Suitable for indoor and outdoor use.",
+          "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+          "schemaCategory": "Outdoor Dining Chairs and Outdoor Dining Tables",
+          "variantCount": 6
+        },
+        {
+          "familyRelativeDir": "families/haven",
+          "familyTitle": "Haven",
+          "familySummary": "Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies.",
+          "primaryImageUrl": "/products/outdoor-lounge-sets/haven/197627_1.avif",
+          "schemaCategory": "Outdoor Dining Chairs, Outdoor Dining Tables, Outdoor Lounge Seating and Outdoor Lounge Sets",
+          "variantCount": 5
+        },
+        {
+          "familyRelativeDir": "families/metz",
+          "familyTitle": "Metz",
+          "familySummary": "A round dining table with a natural Beige veneer surface and a light, sturdy base. Designed to comfortably seat four and fit modern interiors.",
+          "primaryImageUrl": "/products/dining-tables/metz/208710_1.avif",
+          "schemaCategory": "Dining Tables",
+          "variantCount": 5
+        },
+        {
+          "familyRelativeDir": "families/dozza",
+          "familyTitle": "Dozza",
+          "familySummary": "Dozza is a modern grey polypropylene rug featuring a timeless oriental-inspired pattern. Its muted tones and low pile add warmth and style to living rooms, bedrooms, or hallways while offering practical durability.",
+          "primaryImageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 4
+        },
+        {
+          "familyRelativeDir": "families/haley",
+          "familyTitle": "Haley",
+          "familySummary": "Compact upholstered footstool in Hevra fabric, available in selected neutral tones.",
+          "primaryImageUrl": "/products/footstools/haley/202842_1.avif",
+          "schemaCategory": "Footstools",
+          "variantCount": 4
+        },
+        {
+          "familyRelativeDir": "families/lucca",
+          "familyTitle": "Lucca",
+          "familySummary": "A smooth-surfaced oriental-style rug that offers a soft and pleasant feel underfoot while maintaining durability. Its carefully chosen plain or subtly patterned elements create a calm and stylish atmosphere suitable for various interiors.",
+          "primaryImageUrl": "/products/rugs/lucca/lucca_rug_red_2.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 4
+        },
+        {
+          "familyRelativeDir": "families/messina",
+          "familyTitle": "Messina",
+          "familySummary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
+          "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+          "schemaCategory": "Outdoor Dining Chairs and Outdoor Dining Tables",
+          "variantCount": 4
+        },
+        {
+          "familyRelativeDir": "families/ruutu",
+          "familyTitle": "Ruutu",
+          "familySummary": "A densely woven rug with a matte finish and a calm check pattern in beige or grey. Finished with short fringes for a neat look.",
+          "primaryImageUrl": "/products/rugs/ruutu/ruutu_rug_beige_4.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 4
+        },
+        {
+          "familyRelativeDir": "families/sevilla",
+          "familyTitle": "Sevilla",
+          "familySummary": "Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
+          "primaryImageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 4
+        },
+        {
+          "familyRelativeDir": "families/voyage",
+          "familyTitle": "Voyage",
+          "familySummary": "A fixed armchair with a solid wood frame, soft foam and feather seat, and removable cotton covers in white or green.",
+          "primaryImageUrl": "/products/armchairs/voyage/208784_1.avif",
+          "schemaCategory": "Armchairs and 3-Seater Sofas",
+          "variantCount": 4
+        },
+        {
+          "familyRelativeDir": "families/eagle",
+          "familyTitle": "Eagle",
+          "familySummary": "A modern armchair with a natural wood frame and soft upholstery, designed for comfort and understated style.",
+          "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
+          "schemaCategory": "Armchairs",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/moderni",
+          "familyTitle": "Moderni",
+          "familySummary": "Modern rugs with graphic patterns in grey and beige. Soft surface and non-slip backing for practical use.",
+          "primaryImageUrl": "/products/rugs/moderni/202736_1.jpg",
+          "schemaCategory": "Rugs",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/moon",
+          "familyTitle": "Moon",
+          "familySummary": "A narrow fabric pocket for keeping phones and small items organised beside the bed or armchair.",
+          "primaryImageUrl": "/products/mobile-phone-pockets/moon/202837_1.avif",
+          "schemaCategory": "Mobile Phone Pockets",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/nicola",
+          "familyTitle": "Nicola",
+          "familySummary": "Dining chair with an oak frame and beige fabric upholstery, designed for comfort and understated style.",
+          "primaryImageUrl": "/products/dining-chairs/nicola/200739_1.avif",
+          "schemaCategory": "Dining Chairs",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/sirmione",
+          "familyTitle": "Sirmione",
+          "familySummary": "Calm and textured rug in green or beige, made from polyester and cotton. Suitable for living rooms, bedrooms, or dining areas.",
+          "primaryImageUrl": "/products/rugs/sirmione/202747_1.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/aava",
+          "familyTitle": "Aava",
+          "familySummary": "Spacious 4-seater chaise sofa with durable fabric upholstery and natural oak legs. Features reversible chaise for flexible layout.",
+          "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+          "schemaCategory": "Chaise Sofas",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/amaris",
+          "familyTitle": "Amaris",
+          "familySummary": "A classic rug with a soft viscose pile and detailed pattern, available in two practical sizes.",
+          "primaryImageUrl": "/products/rugs/amaris/amaris_rug_multicolour_1.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/bilbao",
+          "familyTitle": "Bilbao",
+          "familySummary": "Durable polypropylene rug with vintage-style grey, pink, and beige patterns. Suitable for living and dining rooms, easy to maintain.",
+          "primaryImageUrl": "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_2.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/blow",
+          "familyTitle": "Blow",
+          "familySummary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+          "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/breeze",
+          "familyTitle": "Breeze",
+          "familySummary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
+          "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/cloud",
+          "familyTitle": "Cloud",
+          "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+          "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+          "schemaCategory": "Corner Sofas",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/haave",
+          "familyTitle": "Haave",
+          "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+          "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+          "schemaCategory": "Corner Sofas",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/house-nordic-derby",
+          "familyTitle": "House Nordic Derby",
+          "familySummary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+          "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+          "schemaCategory": "Outdoor Lounge Seating and Outdoor Sun Loungers",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/island",
+          "familyTitle": "Island",
+          "familySummary": "Stackable two-piece coffee table in brown or beige with a soft asymmetrical shape for flexible living room layouts.",
+          "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
+          "schemaCategory": "Coffee Tables",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/islet",
+          "familyTitle": "Islet",
+          "familySummary": "Islet round coffee table in walnut brown with an 80 cm diameter. Features a durable MDF frame and a stable conical leg for everyday use.",
+          "primaryImageUrl": "/products/coffee-tables/islet/198067_1.avif",
+          "schemaCategory": "Coffee Tables and Dining Tables",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/lyra",
+          "familyTitle": "Lyra",
+          "familySummary": "A rug with a soft viscose pile and a sturdy wool base, woven to create a subtle three-dimensional pattern in warm tones.",
+          "primaryImageUrl": "/products/rugs/lyra/lyra_rug_brown_orange_beige_1.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/moonlit",
+          "familyTitle": "Moonlit",
+          "familySummary": "Upholstered bed frame in beige bouclé fabric with a sturdy construction. Suitable for various mattresses and bedroom styles.",
+          "primaryImageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
+          "schemaCategory": "Bed Frames",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/mystery",
+          "familyTitle": "Mystery",
+          "familySummary": "The Mystery Shelf in black combines metal and oak veneer in a minimalist design. It provides four spacious shelves suitable for books and decorative items, fitting well in modern and industrial interiors.",
+          "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+          "schemaCategory": "Shelves",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/palazzo",
+          "familyTitle": "Palazzo",
+          "familySummary": "A modern and airy outdoor sofa set featuring a three-seat sofa, two armchairs, and lightweight tables. Designed for comfort and easy maintenance.",
+          "primaryImageUrl": "/products/outdoor-lounge-sets/palazzo/208993_1.avif",
+          "schemaCategory": "Outdoor Lounge Sets",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/reef",
+          "familyTitle": "Reef",
+          "familySummary": "Compact coffee table with a warm American walnut finish and practical dimensions suitable for various interiors.",
+          "primaryImageUrl": "/products/coffee-tables/reef/198072_1.avif",
+          "schemaCategory": "Coffee Tables",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/saaga",
+          "familyTitle": "Saaga",
+          "familySummary": "Saaga Rug features a blend of viscose pile and wool base, offering a soft feel and natural durability in a harmonious colour palette.",
+          "primaryImageUrl": "/products/rugs/saaga/saaga_rug_red_beige_1.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/wind",
+          "familyTitle": "Wind",
+          "familySummary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+          "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/yanam",
+          "familyTitle": "Yanam",
+          "familySummary": "Textured blue rug with a worn look and multicolor nuances. Made of polyester and cotton. Easy to clean and non-slip backing.",
+          "primaryImageUrl": "/products/rugs/yanam/yanam_rug_blue_2.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/basalt",
+          "familyTitle": "Basalt",
+          "familySummary": "A soft viscose rug with a dark blue base and decorative floral pattern in light blue, cream, and white tones.",
+          "primaryImageUrl": "/products/rugs/basalt/200728_1.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/bay",
+          "familyTitle": "Bay",
+          "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+          "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+          "schemaCategory": "Swivel Chairs",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/casa",
+          "familyTitle": "Casa",
+          "familySummary": "Bed frame with padded high headboard and beige fabric upholstery. Designed for 160 x 200 cm mattresses.",
+          "primaryImageUrl": "/products/bed-frames/casa/209017_1.avif",
+          "schemaCategory": "Bed Frames",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/desenzano",
+          "familyTitle": "Desenzano",
+          "familySummary": "A modern rug with a graphic pattern and soft muted tones. Made of cotton and polyester, it has a soft surface and delicate fringes.",
+          "primaryImageUrl": "/products/rugs/desenzano/202751_1.jpg",
+          "schemaCategory": "Rugs",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/dolomite",
+          "familyTitle": "Dolomite",
+          "familySummary": "A soft and durable rug with a subtle stone-inspired pattern in versatile grey shades. Suitable for living rooms and bedrooms.",
+          "primaryImageUrl": "/products/rugs/dolomite/200730_1.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/dove",
+          "familyTitle": "Dove",
+          "familySummary": "Armchair with a walnut rubberwood frame and beige fabric upholstery. Offers comfortable seating with a high back and soft seat.",
+          "primaryImageUrl": "/products/armchairs/dove/198105_1.avif",
+          "schemaCategory": "Armchairs",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/garda",
+          "familyTitle": "Garda",
+          "familySummary": "Oriental patterned rug in a cotton and polyester blend. Soft, easy to care for and designed for living and dining spaces.",
+          "primaryImageUrl": "/products/rugs/garda/202743_1.avif",
+          "schemaCategory": "Rugs",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/house-nordic-beckley",
+          "familyTitle": "House Nordic Beckley",
+          "familySummary": "Three-piece set of brown terracotta planters with soft rounded edges and textured surfaces. Suitable for various plants and both indoor and outdoor settings.",
+          "primaryImageUrl": "/products/planters-pots/house-nordic-beckley/201120_1.avif",
+          "schemaCategory": "Planters & Pots",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/oak",
+          "familyTitle": "Oak",
+          "familySummary": "Oak console table in natural oak veneer offers a modern Scandinavian look for living rooms, hallways or offices. The warm brown tone creates a cozy atmosphere. Two integrated drawers provide practical storage. A versatile and durable piece that complements the home.",
+          "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+          "schemaCategory": "Console Tables",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/sulo",
+          "familyTitle": "Sulo",
+          "familySummary": "A modern three-seater sofa in white corduroy with rounded armrests and a low backrest for relaxed seating.",
+          "primaryImageUrl": "/products/three-seater-sofas/sulo/202841_1.avif",
+          "schemaCategory": "3-Seater Sofas",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/swallow",
+          "familyTitle": "Swallow",
+          "familySummary": "Round side table made of natural rubberwood with a 45 cm diameter top. Minimalist design with smooth, rounded edges.",
+          "primaryImageUrl": "/products/side-tables/swallow/198080_1.avif",
+          "schemaCategory": "Side Tables",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "product"
+        ],
+        "ranges": [
+          {
+            "unit": "product",
+            "min": 1,
+            "max": 1,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "1 product is a published product count used across selected Nest & Living products. Common on 3-Seater Sofa, 4-Seater Sofa, Adjustable Bed, Armchair, Bed Frame and Cabinets Display and 26 more."
+    },
+    {
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "attributeKey": "productCount",
+      "attributeLabel": "Product count",
+      "value": "2 product",
+      "valueSlug": "2-product",
+      "valueType": "measurement",
+      "numericValue": 2,
+      "unit": "product",
+      "productTypes": [
+        "Bar Stools",
+        "Dining Chairs"
+      ],
+      "familyCount": 2,
+      "variantCount": 5,
+      "primaryImageUrl": "/products/dining-chairs/bow/198099_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/bow",
+          "familyTitle": "Bow",
+          "familySummary": "Upholstered dining chair with metal frame and plywood structure, available in three colours.",
+          "primaryImageUrl": "/products/dining-chairs/bow/198099_1.avif",
+          "schemaCategory": "Dining Chairs",
+          "variantCount": 3
+        },
+        {
+          "familyRelativeDir": "families/merida",
+          "familyTitle": "Merida",
+          "familySummary": "Bar stool with natural oak frame and light fabric seat. Scandinavian style suitable for kitchen bars and dining areas.",
+          "primaryImageUrl": "/products/bar-stools/merida/198084_1.avif",
+          "schemaCategory": "Bar Stools",
+          "variantCount": 2
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "product"
+        ],
+        "ranges": [
+          {
+            "unit": "product",
+            "min": 2,
+            "max": 2,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "2 product is a published product count used across selected Nest & Living products. Common on Bar Stool and Dining Chair."
+    },
+    {
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "attributeKey": "productCount",
+      "attributeLabel": "Product count",
+      "value": "5 product",
+      "valueSlug": "5-product",
+      "valueType": "measurement",
+      "numericValue": 5,
+      "unit": "product",
+      "productTypes": [
+        "Pillows"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/pillows/staycation/214016_1.jpg",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/staycation",
+          "familyTitle": "Staycation",
+          "familySummary": "Bedroom pillows from the Staycation series.",
+          "primaryImageUrl": "/products/pillows/staycation/214016_1.jpg",
+          "schemaCategory": "Pillows",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "product"
+        ],
+        "ranges": [
+          {
+            "unit": "product",
+            "min": 5,
+            "max": 5,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "5 product is a published product count used across selected Nest & Living products. Common on Pillow."
+    },
+    {
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "attributeKey": "productCount",
+      "attributeLabel": "Product count",
+      "value": "6 product",
+      "valueSlug": "6-product",
+      "valueType": "measurement",
+      "numericValue": 6,
+      "unit": "product",
+      "productTypes": [
+        "Mattress Protectors"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/staygentle",
+          "familyTitle": "Staygentle",
+          "familySummary": "Tencel mattress protectors from the Staygentle series.",
+          "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
+          "schemaCategory": "Mattress Protectors",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "product"
+        ],
+        "ranges": [
+          {
+            "unit": "product",
+            "min": 6,
+            "max": 6,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "6 product is a published product count used across selected Nest & Living products. Common on Mattress Protector."
+    },
+    {
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "attributeKey": "productCount",
+      "attributeLabel": "Product count",
+      "value": "7 product",
+      "valueSlug": "7-product",
+      "valueType": "measurement",
+      "numericValue": 7,
+      "unit": "product",
+      "productTypes": [
+        "Mattress Protectors"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/staygentle",
+          "familyTitle": "Staygentle",
+          "familySummary": "Tencel mattress protectors from the Staygentle series.",
+          "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
+          "schemaCategory": "Mattress Protectors",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "product"
+        ],
+        "ranges": [
+          {
+            "unit": "product",
+            "min": 7,
+            "max": 7,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "7 product is a published product count used across selected Nest & Living products. Common on Mattress Protector."
+    },
+    {
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "attributeKey": "productCount",
+      "attributeLabel": "Product count",
+      "value": "8 product",
+      "valueSlug": "8-product",
+      "valueType": "measurement",
+      "numericValue": 8,
+      "unit": "product",
+      "productTypes": [
+        "Duvets",
+        "Pillows"
+      ],
+      "familyCount": 2,
+      "variantCount": 2,
+      "primaryImageUrl": "/products/pillows/staycation/214017_1.jpg",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/staycation",
+          "familyTitle": "Staycation",
+          "familySummary": "Bedroom pillows from the Staycation series.",
+          "primaryImageUrl": "/products/pillows/staycation/214017_1.jpg",
+          "schemaCategory": "Pillows",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/staycool",
+          "familyTitle": "Staycool",
+          "familySummary": "Cooling duvets from the Staycool series.",
+          "primaryImageUrl": "/products/duvets/staycool/214013_1.jpg",
+          "schemaCategory": "Duvets",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "product"
+        ],
+        "ranges": [
+          {
+            "unit": "product",
+            "min": 8,
+            "max": 8,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "8 product is a published product count used across selected Nest & Living products. Common on Duvet and Pillow."
+    },
+    {
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "attributeKey": "productCount",
+      "attributeLabel": "Product count",
+      "value": "10 product",
+      "valueSlug": "10-product",
+      "valueType": "measurement",
+      "numericValue": 10,
+      "unit": "product",
+      "productTypes": [
+        "Mattress Protectors",
+        "Pillows"
+      ],
+      "familyCount": 3,
+      "variantCount": 4,
+      "primaryImageUrl": "/products/pillows/staycool/214012_1.jpg",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/staycool",
+          "familyTitle": "Staycool",
+          "familySummary": "Cooling pillows and pillow protectors from the Staycool series.",
+          "primaryImageUrl": "/products/pillows/staycool/214012_1.jpg",
+          "schemaCategory": "Mattress Protectors and Pillows",
+          "variantCount": 2
+        },
+        {
+          "familyRelativeDir": "families/staycomfort",
+          "familyTitle": "Staycomfort",
+          "familySummary": "Everyday pillows from the Staycomfort series.",
+          "primaryImageUrl": "/products/pillows/staycomfort/214015_1.jpg",
+          "schemaCategory": "Pillows",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/staygentle",
+          "familyTitle": "Staygentle",
+          "familySummary": "Tencel mattress protectors from the Staygentle series.",
+          "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
+          "schemaCategory": "Mattress Protectors",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "product"
+        ],
+        "ranges": [
+          {
+            "unit": "product",
+            "min": 10,
+            "max": 10,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "10 product is a published product count used across selected Nest & Living products. Common on Mattress Protector and Pillow."
+    },
+    {
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "attributeKey": "productCount",
+      "attributeLabel": "Product count",
+      "value": "12 product",
+      "valueSlug": "12-product",
+      "valueType": "measurement",
+      "numericValue": 12,
+      "unit": "product",
+      "productTypes": [
+        "Decorative Cushions"
+      ],
+      "familyCount": 3,
+      "variantCount": 24,
+      "primaryImageUrl": "/products/decorative-cushions/hike/202849_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/hike",
+          "familyTitle": "Hike",
+          "familySummary": "Decorative cushions in Hike upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+          "primaryImageUrl": "/products/decorative-cushions/hike/202849_1.avif",
+          "schemaCategory": "Decorative Cushions",
+          "variantCount": 10
+        },
+        {
+          "familyRelativeDir": "families/haley",
+          "familyTitle": "Haley",
+          "familySummary": "Decorative cushions in Haley upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+          "primaryImageUrl": "/products/decorative-cushions/haley/202854_1.avif",
+          "schemaCategory": "Decorative Cushions",
+          "variantCount": 8
+        },
+        {
+          "familyRelativeDir": "families/hix",
+          "familyTitle": "Hix",
+          "familySummary": "Decorative cushions in Hix upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+          "primaryImageUrl": "/products/decorative-cushions/hix/202846_1.avif",
+          "schemaCategory": "Decorative Cushions",
+          "variantCount": 6
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "product"
+        ],
+        "ranges": [
+          {
+            "unit": "product",
+            "min": 12,
+            "max": 12,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "12 product is a published product count used across selected Nest & Living products. Common on Decorative Cushion."
+    },
+    {
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "attributeKey": "productCount",
+      "attributeLabel": "Product count",
+      "value": "20 product",
+      "valueSlug": "20-product",
+      "valueType": "measurement",
+      "numericValue": 20,
+      "unit": "product",
+      "productTypes": [
+        "Pillows"
+      ],
+      "familyCount": 1,
+      "variantCount": 1,
+      "primaryImageUrl": "/products/pillows/staycool/214014_1.jpg",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/staycool",
+          "familyTitle": "Staycool",
+          "familySummary": "Cooling pillows and pillow protectors from the Staycool series.",
+          "primaryImageUrl": "/products/pillows/staycool/214014_1.jpg",
+          "schemaCategory": "Pillows",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "product"
+        ],
+        "ranges": [
+          {
+            "unit": "product",
+            "min": 20,
+            "max": 20,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "20 product is a published product count used across selected Nest & Living products. Common on Pillow."
+    }
+  ]
+}

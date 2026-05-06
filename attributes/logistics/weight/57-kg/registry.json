@@ -1,0 +1,71 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "57 kg",
+  "valueSlug": "57-kg",
+  "valueType": "measurement",
+  "numericValue": 57,
+  "unit": "kg",
+  "productTypes": [
+    "4-Seater Sofas",
+    "Adjustable Beds",
+    "Continental Beds",
+    "Outdoor Lounge Sets"
+  ],
+  "familyCount": 4,
+  "variantCount": 6,
+  "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+      "schemaCategory": "Adjustable Beds",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "A practical and comfortable continental bed featuring 5-zone pocket springs for individual support. Available in grey or beige with high wooden legs for ease of cleaning.",
+      "primaryImageUrl": "/products/continental-beds/moon-silver/197713_1.avif",
+      "schemaCategory": "Continental Beds",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/heaven",
+      "familyTitle": "Heaven",
+      "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+      "primaryImageUrl": "/products/four-seater-sofas/heaven/198383_1.avif",
+      "schemaCategory": "4-Seater Sofas",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Outdoor lounge set configurations from the Nordic collection with white aluminium frames, beige cushions, and selected layouts with integrated coffee tables.",
+      "primaryImageUrl": "/products/outdoor-lounge-sets/nordic/MYYKESA2215_1.avif",
+      "schemaCategory": "Outdoor Lounge Sets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 57,
+        "max": 57,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "57 kg is a published weight used across selected Nest & Living products. Common on 4-Seater Sofa, Adjustable Bed, Continental Bed and Outdoor Lounge Set."
+}

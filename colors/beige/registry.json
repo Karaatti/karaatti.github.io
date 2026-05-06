@@ -1,0 +1,42 @@
+{
+  "label": "Beige",
+  "description": "Beige in interiors: Softens a room, reflects light gently and makes large upholstered forms feel calm instead of dominant.",
+  "intro": "Beige appears across 53 product families and 137 options, especially on 3-Seater Sofas, 4-Seater Sofas, Adjustable Beds, Armchairs, Bar Stools and Bed Frames and 23 more.",
+  "theory": [
+    "Beige sits in the neutral family but it is rarely neutral in temperature. Undertones decide whether it belongs with creamy whites, cooler greys or warm woods.",
+    "Because beige reflects light softly instead of sharply, it is one of the safest base colours for large sofas, beds and rugs. It keeps a room open without the harder glare of pure white."
+  ],
+  "palette": [
+    "Build beige as the main base, then add one darker anchor such as walnut, black or deep brown so the room does not drift into one-value monotony.",
+    "A balanced palette often works as 60 percent beige base, 30 percent secondary natural materials and 10 percent sharper accents in black, deep green, muted blue or terracotta."
+  ],
+  "partners": [
+    "oak",
+    "brown",
+    "olive green",
+    "soft blue",
+    "black accents"
+  ],
+  "profileRows": [
+    {
+      "label": "Colour role",
+      "value": "Warm light neutral"
+    },
+    {
+      "label": "Undertone",
+      "value": "Usually yellow, sand or greige undertones rather than stark grey."
+    },
+    {
+      "label": "Visual effect",
+      "value": "Softens a room, reflects light gently and makes large upholstered forms feel calm instead of dominant."
+    },
+    {
+      "label": "Works well with",
+      "value": "oak, brown, olive green, soft blue and black accents"
+    },
+    {
+      "label": "Balancing move",
+      "value": "Use darker woods, black framing or charcoal textiles when the room needs more definition."
+    }
+  ]
+}

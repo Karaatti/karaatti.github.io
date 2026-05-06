@@ -1,0 +1,69 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "40 cm",
+  "valueSlug": "40-cm",
+  "valueType": "measurement",
+  "numericValue": 40,
+  "unit": "cm",
+  "productTypes": [
+    "Bar Stools",
+    "Decorative Cushions"
+  ],
+  "familyCount": 4,
+  "variantCount": 13,
+  "primaryImageUrl": "/products/decorative-cushions/hike/202861_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/hike",
+      "familyTitle": "Hike",
+      "familySummary": "Decorative cushions in Hike upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/hike/202861_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 5
+    },
+    {
+      "familyRelativeDir": "families/haley",
+      "familyTitle": "Haley",
+      "familySummary": "Decorative cushions in Haley upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/haley/202866_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/hix",
+      "familyTitle": "Hix",
+      "familySummary": "Decorative cushions in Hix upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+      "primaryImageUrl": "/products/decorative-cushions/hix/202858_1.avif",
+      "schemaCategory": "Decorative Cushions",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/merida",
+      "familyTitle": "Merida",
+      "familySummary": "Bar stool with natural oak frame and light fabric seat. Scandinavian style suitable for kitchen bars and dining areas.",
+      "primaryImageUrl": "/products/bar-stools/merida/198084_1.avif",
+      "schemaCategory": "Bar Stools",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 40,
+        "max": 40,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "40 cm is a published width used across selected Nest & Living products. Common on Bar Stool and Decorative Cushion."
+}

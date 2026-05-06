@@ -1,0 +1,34 @@
+[
+  {
+    "name": "westcoast",
+    "href": "/families/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Footstools",
+    "variantCount": 3
+  },
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Toppers",
+    "variantCount": 2
+  },
+  {
+    "name": "nordic",
+    "href": "/families/nordic/",
+    "type": "dir",
+    "title": "Nordic",
+    "schemaCategory": "Outdoor Lounge Seating and Outdoor Lounge Sets",
+    "variantCount": 2
+  },
+  {
+    "name": "merida",
+    "href": "/families/merida/",
+    "type": "dir",
+    "title": "Merida",
+    "schemaCategory": "Bar Stools",
+    "variantCount": 1
+  }
+]

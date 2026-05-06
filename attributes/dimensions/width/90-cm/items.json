@@ -1,0 +1,58 @@
+[
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Adjustable Beds, Divan Beds, Mattresses and Toppers",
+    "variantCount": 14
+  },
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Adjustable Beds, Divan Beds, Mattresses and Toppers",
+    "variantCount": 4
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/families/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Adjustable Beds, Divan Beds and Toppers",
+    "variantCount": 3
+  },
+  {
+    "name": "island",
+    "href": "/families/island/",
+    "type": "dir",
+    "title": "Island",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 2
+  },
+  {
+    "name": "saarni",
+    "href": "/families/saarni/",
+    "type": "dir",
+    "title": "Saarni",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 2
+  },
+  {
+    "name": "voyage",
+    "href": "/families/voyage/",
+    "type": "dir",
+    "title": "Voyage",
+    "schemaCategory": "Armchairs",
+    "variantCount": 2
+  },
+  {
+    "name": "nest-living",
+    "href": "/families/nest-living/",
+    "type": "dir",
+    "title": "Nest & Living",
+    "schemaCategory": "Mattress Protectors",
+    "variantCount": 1
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "pillowHeight",
+  "attributeLabel": "Pillow height",
+  "value": "15 cm",
+  "valueSlug": "15-cm",
+  "valueType": "measurement",
+  "numericValue": 15,
+  "unit": "cm",
+  "productTypes": [
+    "Duvet & Pillow Sets"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/nest-living-bronze",
+      "familyTitle": "Nest & Living Bronze",
+      "familySummary": "Light duvet set with practical everyday comfort.",
+      "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
+      "schemaCategory": "Duvet & Pillow Sets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 15,
+        "max": 15,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "15 cm is a published pillow height used across selected Nest & Living products. Common on Duvet & Pillow Set."
+}

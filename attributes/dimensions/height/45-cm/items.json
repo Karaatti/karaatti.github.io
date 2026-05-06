@@ -1,0 +1,18 @@
+[
+  {
+    "name": "westcoast",
+    "href": "/families/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Footstools",
+    "variantCount": 3
+  },
+  {
+    "name": "islet",
+    "href": "/families/islet/",
+    "type": "dir",
+    "title": "Islet",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 1
+  }
+]

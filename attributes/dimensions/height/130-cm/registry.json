@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "130 cm",
+  "valueSlug": "130-cm",
+  "valueType": "measurement",
+  "numericValue": 130,
+  "unit": "cm",
+  "productTypes": [
+    "Headboards"
+  ],
+  "familyCount": 1,
+  "variantCount": 15,
+  "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Moon Silver headboard features a buttoned fabric surface that breathes well and adds a subtle, elegant touch to the bedroom. Its timeless design suits various interiors and provides comfortable back support.",
+      "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
+      "schemaCategory": "Headboards",
+      "variantCount": 15
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 130,
+        "max": 130,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "130 cm is a published height used across selected Nest & Living products. Common on Headboard."
+}

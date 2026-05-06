@@ -1,0 +1,34 @@
+[
+  {
+    "name": "westcoast",
+    "href": "/families/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "Chaise Sofas and Corner Sofas",
+    "variantCount": 24
+  },
+  {
+    "name": "lugo",
+    "href": "/families/lugo/",
+    "type": "dir",
+    "title": "Lugo",
+    "schemaCategory": "Chaise Sofas and Corner Sofas",
+    "variantCount": 8
+  },
+  {
+    "name": "cloud",
+    "href": "/families/cloud/",
+    "type": "dir",
+    "title": "Cloud",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 2
+  },
+  {
+    "name": "haave",
+    "href": "/families/haave/",
+    "type": "dir",
+    "title": "Haave",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 2
+  }
+]

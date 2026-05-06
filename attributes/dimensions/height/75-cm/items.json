@@ -1,0 +1,42 @@
+[
+  {
+    "name": "metz",
+    "href": "/families/metz/",
+    "type": "dir",
+    "title": "Metz",
+    "schemaCategory": "Dining Tables",
+    "variantCount": 5
+  },
+  {
+    "name": "nordic",
+    "href": "/families/nordic/",
+    "type": "dir",
+    "title": "Nordic",
+    "schemaCategory": "Outdoor Storage",
+    "variantCount": 2
+  },
+  {
+    "name": "bay",
+    "href": "/families/bay/",
+    "type": "dir",
+    "title": "Bay",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1
+  },
+  {
+    "name": "islet",
+    "href": "/families/islet/",
+    "type": "dir",
+    "title": "Islet",
+    "schemaCategory": "Dining Tables",
+    "variantCount": 1
+  },
+  {
+    "name": "sulo",
+    "href": "/families/sulo/",
+    "type": "dir",
+    "title": "Sulo",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1
+  }
+]

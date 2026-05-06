@@ -1,0 +1,66 @@
+[
+  {
+    "name": "hike",
+    "href": "/families/hike/",
+    "type": "dir",
+    "title": "Hike",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 5
+  },
+  {
+    "name": "haley",
+    "href": "/families/haley/",
+    "type": "dir",
+    "title": "Haley",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 4
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/families/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Headboards",
+    "variantCount": 4
+  },
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Headboards and Toppers",
+    "variantCount": 4
+  },
+  {
+    "name": "hix",
+    "href": "/families/hix/",
+    "type": "dir",
+    "title": "Hix",
+    "schemaCategory": "Decorative Cushions",
+    "variantCount": 3
+  },
+  {
+    "name": "nordic",
+    "href": "/families/nordic/",
+    "type": "dir",
+    "title": "Nordic",
+    "schemaCategory": "Outdoor Lounge Seating and Outdoor Lounge Sets",
+    "variantCount": 2
+  },
+  {
+    "name": "merida",
+    "href": "/families/merida/",
+    "type": "dir",
+    "title": "Merida",
+    "schemaCategory": "Bar Stools",
+    "variantCount": 1
+  },
+  {
+    "name": "saarni",
+    "href": "/families/saarni/",
+    "type": "dir",
+    "title": "Saarni",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 1
+  }
+]

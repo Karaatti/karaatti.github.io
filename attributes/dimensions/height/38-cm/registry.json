@@ -1,0 +1,53 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "38 cm",
+  "valueSlug": "38-cm",
+  "valueType": "measurement",
+  "numericValue": 38,
+  "unit": "cm",
+  "productTypes": [
+    "Footstools",
+    "Outdoor Sun Loungers"
+  ],
+  "familyCount": 2,
+  "variantCount": 5,
+  "primaryImageUrl": "/products/footstools/haley/202842_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/haley",
+      "familyTitle": "Haley",
+      "familySummary": "Compact upholstered footstool in Hevra fabric, available in selected neutral tones.",
+      "primaryImageUrl": "/products/footstools/haley/202842_1.avif",
+      "schemaCategory": "Footstools",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/house-nordic-derby",
+      "familyTitle": "House Nordic Derby",
+      "familySummary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+      "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
+      "schemaCategory": "Outdoor Sun Loungers",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 38,
+        "max": 38,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "38 cm is a published height used across selected Nest & Living products. Common on Footstool and Outdoor Sun Lounger."
+}

@@ -1,0 +1,42 @@
+{
+  "label": "Brown",
+  "description": "Brown in interiors: Grounds a room, adds warmth and connects strongly with wood, leather and natural-fibre textures.",
+  "intro": "Brown appears across 29 product families and 42 options, especially on 3-Seater Sofas, 4-Seater Sofas, Armchairs, Chaise Sofas, Coffee Tables and Console Tables and 15 more.",
+  "theory": [
+    "Brown is essentially a darkened, muted warm colour, so it behaves like a neutral while still carrying emotional warmth. It is especially strong when the room needs depth without the hardness of black.",
+    "Material finish changes brown dramatically. Walnut veneer, oak stain, leather-like surfaces and boucle in chocolate tones all sit in the same family but reflect light very differently."
+  ],
+  "palette": [
+    "Use brown as a stabilising mid-to-dark layer between pale walls and black details. It performs particularly well with beige upholstery and green planting or textiles.",
+    "If the room already has many wood tones, limit the browns to two undertone families at most. Mixing red-brown, grey-brown and yellow-brown without a plan quickly looks accidental."
+  ],
+  "partners": [
+    "beige",
+    "cream",
+    "green",
+    "blue",
+    "black"
+  ],
+  "profileRows": [
+    {
+      "label": "Colour role",
+      "value": "Earth-based neutral"
+    },
+    {
+      "label": "Undertone",
+      "value": "Ranges from red-brown and cocoa to cooler taupe-brown depending on material."
+    },
+    {
+      "label": "Visual effect",
+      "value": "Grounds a room, adds warmth and connects strongly with wood, leather and natural-fibre textures."
+    },
+    {
+      "label": "Works well with",
+      "value": "beige, cream, green, blue and black"
+    },
+    {
+      "label": "Balancing move",
+      "value": "Light textiles and pale walls keep brown furniture from making the room feel too visually dense."
+    }
+  ]
+}

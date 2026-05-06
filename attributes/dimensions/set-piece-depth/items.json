@@ -1,0 +1,26 @@
+[
+  {
+    "name": "84-cm",
+    "label": "84 cm",
+    "href": "/attributes/dimensions/set-piece-depth/84-cm/",
+    "type": "dir",
+    "description": "84 cm is a published set piece depth used across selected Nest & Living products. Common on Outdoor Lounge Set.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 84,
+    "unit": "cm"
+  },
+  {
+    "name": "110-cm",
+    "label": "110 cm",
+    "href": "/attributes/dimensions/set-piece-depth/110-cm/",
+    "type": "dir",
+    "description": "110 cm is a published set piece depth used across selected Nest & Living products. Common on Outdoor Lounge Set.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 110,
+    "unit": "cm"
+  }
+]

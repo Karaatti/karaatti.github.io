@@ -1,0 +1,34 @@
+[
+  {
+    "name": "nordic",
+    "href": "/products/outdoor-storage/nordic/",
+    "type": "dir",
+    "title": "Nordic",
+    "schemaCategory": "Gazebos & Pergolas, Outdoor Lounge Seating, Outdoor Lounge Sets and Outdoor Storage",
+    "variantCount": 13
+  },
+  {
+    "name": "saarni",
+    "href": "/products/outdoor-dining-chairs/saarni/",
+    "type": "dir",
+    "title": "Saarni",
+    "schemaCategory": "Outdoor Dining Chairs and Outdoor Dining Tables",
+    "variantCount": 6
+  },
+  {
+    "name": "haven",
+    "href": "/products/outdoor-lounge-sets/haven/",
+    "type": "dir",
+    "title": "Haven",
+    "schemaCategory": "Outdoor Dining Chairs, Outdoor Dining Tables and Outdoor Lounge Sets",
+    "variantCount": 4
+  },
+  {
+    "name": "messina",
+    "href": "/products/outdoor-dining-chairs/messina/",
+    "type": "dir",
+    "title": "Messina",
+    "schemaCategory": "Outdoor Dining Chairs and Outdoor Dining Tables",
+    "variantCount": 4
+  }
+]

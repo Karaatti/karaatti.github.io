@@ -1,0 +1,14 @@
+[
+  {
+    "name": "160-cm",
+    "label": "160 cm",
+    "href": "/attributes/dimensions/extended-width/160-cm/",
+    "type": "dir",
+    "description": "160 cm is a published extended width used across selected Nest & Living products. Common on Dining Table.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 160,
+    "unit": "cm"
+  }
+]

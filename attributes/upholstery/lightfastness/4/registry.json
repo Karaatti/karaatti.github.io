@@ -1,0 +1,98 @@
+{
+  "group": "upholstery",
+  "groupLabel": "Upholstery",
+  "attributeKey": "lightfastness",
+  "attributeLabel": "Lightfastness",
+  "value": "4",
+  "valueSlug": "4",
+  "valueType": "measurement",
+  "numericValue": 4,
+  "unit": "",
+  "productTypes": [
+    "3-Seater Sofas",
+    "4-Seater Sofas",
+    "Chaise Sofas",
+    "Corner Sofas",
+    "Footstools",
+    "Modular Sofas",
+    "Swivel Chairs"
+  ],
+  "familyCount": 7,
+  "variantCount": 58,
+  "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Compact footstool with a soft polyester cover and metal legs. Available in Beige, brown and grey.",
+      "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+      "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and Sofa Accessories and 1 more",
+      "variantCount": 33
+    },
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+      "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+      "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+      "variantCount": 12
+    },
+    {
+      "familyRelativeDir": "families/heaven",
+      "familyTitle": "Heaven",
+      "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+      "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+      "schemaCategory": "4-Seater Sofas",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/blow",
+      "familyTitle": "Blow",
+      "familySummary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
+      "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/cloud",
+      "familyTitle": "Cloud",
+      "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+      "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/haave",
+      "familyTitle": "Haave",
+      "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+      "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/bay",
+      "familyTitle": "Bay",
+      "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+      "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      ""
+    ],
+    "ranges": [
+      {
+        "unit": "",
+        "min": 4,
+        "max": 4,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "4 is a published lightfastness used across selected Nest & Living products. Common on 3-Seater Sofa, 4-Seater Sofa, Chaise Sofa, Corner Sofa, Footstool and Modular Sofa and 1 more."
+}

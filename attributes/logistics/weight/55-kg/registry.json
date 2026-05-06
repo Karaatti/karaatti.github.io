@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "55 kg",
+  "valueSlug": "55-kg",
+  "valueType": "measurement",
+  "numericValue": 55,
+  "unit": "kg",
+  "productTypes": [
+    "Bed Frames",
+    "Dining Tables"
+  ],
+  "familyCount": 2,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/dining-tables/metz/208712_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/metz",
+      "familyTitle": "Metz",
+      "familySummary": "A round dining table with a natural Beige veneer surface and a light, sturdy base. Designed to comfortably seat four and fit modern interiors.",
+      "primaryImageUrl": "/products/dining-tables/metz/208712_1.avif",
+      "schemaCategory": "Dining Tables",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/moonlit",
+      "familyTitle": "Moonlit",
+      "familySummary": "Upholstered bed frame in beige bouclé fabric with a sturdy construction. Suitable for various mattresses and bedroom styles.",
+      "primaryImageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
+      "schemaCategory": "Bed Frames",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 55,
+        "max": 55,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "55 kg is a published weight used across selected Nest & Living products. Common on Bed Frame and Dining Table."
+}

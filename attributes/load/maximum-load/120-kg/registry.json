@@ -1,0 +1,88 @@
+{
+  "group": "load",
+  "groupLabel": "Load",
+  "attributeKey": "maximumLoad",
+  "attributeLabel": "Maximum load",
+  "value": "120 kg",
+  "valueSlug": "120-kg",
+  "valueType": "measurement",
+  "numericValue": 120,
+  "unit": "kg",
+  "productTypes": [
+    "Dining Chairs",
+    "Outdoor Dining Chairs",
+    "Outdoor Dining Tables",
+    "Outdoor Lounge Seating",
+    "Swivel Chairs"
+  ],
+  "familyCount": 6,
+  "variantCount": 15,
+  "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/saarni",
+      "familyTitle": "Saarni",
+      "familySummary": "Light brown stackable dining chair with aluminium frame and nonwood surfaces. Suitable for indoor and outdoor use.",
+      "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+      "schemaCategory": "Outdoor Dining Chairs and Outdoor Dining Tables",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/bow",
+      "familyTitle": "Bow",
+      "familySummary": "Upholstered dining chair with metal frame and plywood structure, available in three colours.",
+      "primaryImageUrl": "/products/dining-chairs/bow/198099_1.avif",
+      "schemaCategory": "Dining Chairs",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/nicola",
+      "familyTitle": "Nicola",
+      "familySummary": "Dining chair with an oak frame and beige fabric upholstery, designed for comfort and understated style.",
+      "primaryImageUrl": "/products/dining-chairs/nicola/200739_1.avif",
+      "schemaCategory": "Dining Chairs",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/bay",
+      "familyTitle": "Bay",
+      "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+      "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/haven",
+      "familyTitle": "Haven",
+      "familySummary": "Haven lounge chair combines natural colored polyrattan with beige cushions and a black frame for a practical and comfortable outdoor seat.",
+      "primaryImageUrl": "/products/outdoor-lounge-seating/haven/197618_1.avif",
+      "schemaCategory": "Outdoor Lounge Seating",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/messina",
+      "familyTitle": "Messina",
+      "familySummary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
+      "primaryImageUrl": "/products/outdoor-dining-chairs/messina/206762_1.avif",
+      "schemaCategory": "Outdoor Dining Chairs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 120,
+        "max": 120,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "120 kg is a published maximum load used across selected Nest & Living products. Common on Dining Chair, Outdoor Dining Chair, Outdoor Dining Table, Outdoor Lounge Seating and Swivel Chair."
+}

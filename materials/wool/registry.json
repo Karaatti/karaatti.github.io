@@ -1,0 +1,56 @@
+{
+  "label": "Wool",
+  "description": "Wool in furniture: Warm, springy and naturally textured, with good recovery under foot and hand.",
+  "intro": "Wool appears across 2 product families and 4 options, especially on Rugs.",
+  "chemistry": [
+    "Wool is a protein fibre with natural crimp, which helps it spring back and trap air. That gives wool rugs and textiles warmth, resilience and a richer tactile body than many synthetics.",
+    "It also has inherent flame resistance and good soil-hiding texture, though the fibre can felt or shrink if treated harshly with heat, agitation and moisture."
+  ],
+  "furnitureUse": [
+    "In furniture contexts wool is especially strong in rugs and premium upholstery blends where thermal comfort, resilience and a natural matte finish matter.",
+    "Its trade-off is care sensitivity and price. It feels elevated, but it usually asks for a more considered maintenance routine than mass-market synthetics."
+  ],
+  "care": [
+    "Moisture and wear note: Can absorb moisture vapour without feeling wet, but still needs proper drying after spills.",
+    "Care note: Vacuum gently, keep moth risk in mind in storage and use fibre-appropriate spot cleaning."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [],
+  "durability": [],
+  "relatedSpecifications": [],
+  "lifecycleRows": [],
+  "strengths": [
+    "natural resilience",
+    "warm tactile comfort",
+    "premium matte texture"
+  ],
+  "watchouts": [
+    "can felt or shrink",
+    "requires fibre-aware cleaning",
+    "higher cost than commodity synthetics"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Natural protein fibre"
+    },
+    {
+      "label": "Composition",
+      "value": "Keratin-based animal fibre with a crimped, resilient structure."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Warm, springy and naturally textured, with good recovery under foot and hand."
+    },
+    {
+      "label": "Key strengths",
+      "value": "natural resilience, warm tactile comfort and premium matte texture"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "can felt or shrink, requires fibre-aware cleaning and higher cost than commodity synthetics"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

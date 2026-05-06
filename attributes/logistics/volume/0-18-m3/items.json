@@ -1,0 +1,26 @@
+[
+  {
+    "name": "moon-bronze",
+    "href": "/families/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Continental Beds and Toppers",
+    "variantCount": 2
+  },
+  {
+    "name": "islet",
+    "href": "/families/islet/",
+    "type": "dir",
+    "title": "Islet",
+    "schemaCategory": "Dining Tables",
+    "variantCount": 1
+  },
+  {
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold",
+    "schemaCategory": "Toppers",
+    "variantCount": 1
+  }
+]

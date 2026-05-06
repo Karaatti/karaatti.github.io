@@ -1,0 +1,62 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "16.5 kg",
+  "valueSlug": "16-5-kg",
+  "valueType": "measurement",
+  "numericValue": 16.5,
+  "unit": "kg",
+  "productTypes": [
+    "Fixed Armchairs",
+    "Outdoor Lounge Seating",
+    "Outdoor Storage"
+  ],
+  "familyCount": 3,
+  "variantCount": 6,
+  "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/eagle",
+      "familyTitle": "Eagle",
+      "familySummary": "A modern armchair with a natural wood frame and soft upholstery, designed for comfort and understated style.",
+      "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
+      "schemaCategory": "Armchairs",
+      "variantCount": 3
+    },
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Outdoor storage boxes from the Nordic collection with aluminium frames and weather-ready fabric-lined lids, available in two sizes and beige or black finishes.",
+      "primaryImageUrl": "/products/outdoor-storage/nordic/206769_1.avif",
+      "schemaCategory": "Outdoor Storage",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/haven",
+      "familyTitle": "Haven",
+      "familySummary": "Haven lounge chair combines natural colored polyrattan with beige cushions and a black frame for a practical and comfortable outdoor seat.",
+      "primaryImageUrl": "/products/outdoor-lounge-seating/haven/197618_1.avif",
+      "schemaCategory": "Outdoor Lounge Seating",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 16.5,
+        "max": 16.5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "16.5 kg is a published weight used across selected Nest & Living products. Common on Fixed Armchair, Outdoor Lounge Seating and Outdoor Storage."
+}

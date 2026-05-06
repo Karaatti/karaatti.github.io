@@ -1,0 +1,97 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "volume",
+  "attributeLabel": "Volume",
+  "value": "0.16 m³",
+  "valueSlug": "0-16-m3",
+  "valueType": "measurement",
+  "numericValue": 0.16,
+  "unit": "m³",
+  "productTypes": [
+    "Continental Beds",
+    "Footstools",
+    "Outdoor Dining Tables",
+    "Outdoor Storage",
+    "Planters",
+    "Toppers"
+  ],
+  "familyCount": 7,
+  "variantCount": 11,
+  "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Moon Bronze Basic is a lightweight, breathable mattress topper that adds gentle cushioning and supports a neutral sleeping posture. Its white tone with subtle leaf patterns fits well in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+      "schemaCategory": "Continental Beds and Toppers",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "Grey latex mattress topper offers good support and breathability for a single bed. Suitable for improving sleep quality in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-gold/197744_1.avif",
+      "schemaCategory": "Toppers",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/nordic",
+      "familyTitle": "Nordic",
+      "familySummary": "Outdoor storage boxes from the Nordic collection with aluminium frames and weather-ready fabric-lined lids, available in two sizes and beige or black finishes.",
+      "primaryImageUrl": "/products/outdoor-storage/nordic/206769_1.avif",
+      "schemaCategory": "Outdoor Storage",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/westcoast",
+      "familyTitle": "Westcoast",
+      "familySummary": "Compact footstool with a soft polyester cover and metal legs. Available in Beige, brown and grey.",
+      "primaryImageUrl": "/products/footstools/westcoast/209196_1.avif",
+      "schemaCategory": "Footstools",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/house-nordic-beckley",
+      "familyTitle": "House Nordic Beckley",
+      "familySummary": "Three-piece set of brown terracotta planters with soft rounded edges and textured surfaces. Suitable for various plants and both indoor and outdoor settings.",
+      "primaryImageUrl": "/products/planters-pots/house-nordic-beckley/201120_1.avif",
+      "schemaCategory": "Planters & Pots",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/messina",
+      "familyTitle": "Messina",
+      "familySummary": "Messina dining table 220x100 cm provides a practical and elegant outdoor dining option. Its natural toned top and aluminium frame create a modern Scandinavian look. Suitable for garden, terrace or large balcony, it offers a spacious and low-maintenance surface.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/messina/197906_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+      "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
+      "schemaCategory": "Toppers",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "m³"
+    ],
+    "ranges": [
+      {
+        "unit": "m³",
+        "min": 0.16,
+        "max": 0.16,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "0.16 m³ is a published volume used across selected Nest & Living products. Common on Continental Bed, Footstool, Outdoor Dining Table, Outdoor Storage, Planter and Topper."
+}

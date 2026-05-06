@@ -1,0 +1,56 @@
+{
+  "label": "Aluminium",
+  "description": "Aluminium in furniture: Lightweight, corrosion resistant and dimensionally stable outdoors.",
+  "intro": "Aluminium appears across 4 product families and 27 options, especially on Gazebos & Pergolas, Outdoor Dining Chairs, Outdoor Dining Tables, Outdoor Lounge Seating, Outdoor Lounge Sets and Outdoor Storage.",
+  "chemistry": [
+    "Aluminium forms a thin oxide layer almost immediately. That passive layer is why it is widely described as rust-free in furniture use.",
+    "The metal has low density relative to steel and conducts heat quickly. Outdoor frames stay easy to move, but the surface can feel cold in winter and hot in direct sun."
+  ],
+  "furnitureUse": [
+    "It is strongest as a frame, leg or structural shell material where low weight and weather tolerance matter.",
+    "Its trade-off is softness compared with steel. Thin sections can dent, and threaded joints need careful design so repeated tightening does not strip the softer parent metal."
+  ],
+  "care": [
+    "Moisture and wear note: Does not rust like ferrous steel, but salty and acidic conditions can still stain or pit the surface over time.",
+    "Care note: Wash with mild soap, rinse off salt and avoid abrasive pads on coated frames."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [],
+  "durability": [],
+  "relatedSpecifications": [],
+  "lifecycleRows": [],
+  "strengths": [
+    "corrosion resistance",
+    "low weight",
+    "outdoor suitability"
+  ],
+  "watchouts": [
+    "surface dents more easily than steel",
+    "can heat up or cool down quickly",
+    "coating damage should be monitored in coastal use"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Light metal"
+    },
+    {
+      "label": "Composition",
+      "value": "Aluminium alloy protected by a natural oxide layer."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Lightweight, corrosion resistant and dimensionally stable outdoors."
+    },
+    {
+      "label": "Key strengths",
+      "value": "corrosion resistance, low weight and outdoor suitability"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "surface dents more easily than steel, can heat up or cool down quickly and coating damage should be monitored in coastal use"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

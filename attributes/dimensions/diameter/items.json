@@ -1,0 +1,14 @@
+[
+  {
+    "name": "120-cm",
+    "label": "120 cm",
+    "href": "/attributes/dimensions/diameter/120-cm/",
+    "type": "dir",
+    "description": "120 cm is a published diameter used across selected Nest & Living products. Common on Dining Table.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 120,
+    "unit": "cm"
+  }
+]

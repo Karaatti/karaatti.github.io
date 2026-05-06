@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "innerHeight",
+  "attributeLabel": "Inner height",
+  "value": "32 cm",
+  "valueSlug": "32-cm",
+  "valueType": "measurement",
+  "numericValue": 32,
+  "unit": "cm",
+  "productTypes": [
+    "Adjustable Beds"
+  ],
+  "familyCount": 1,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Adjustable bed with 5-zone pocket spring support and wooden legs. Durable steel frame and ergonomic design for comfort.",
+      "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+      "schemaCategory": "Adjustable Beds",
+      "variantCount": 3
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 32,
+        "max": 32,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "32 cm is a published inner height used across selected Nest & Living products. Common on Adjustable Bed."
+}

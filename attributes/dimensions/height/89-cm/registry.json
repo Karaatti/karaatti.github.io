@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "height",
+  "attributeLabel": "Height",
+  "value": "89 cm",
+  "valueSlug": "89-cm",
+  "valueType": "measurement",
+  "numericValue": 89,
+  "unit": "cm",
+  "productTypes": [
+    "4-Seater Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 6,
+  "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/heaven",
+      "familyTitle": "Heaven",
+      "familySummary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
+      "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+      "schemaCategory": "4-Seater Sofas",
+      "variantCount": 6
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 89,
+        "max": 89,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "89 cm is a published height used across selected Nest & Living products. Common on 4-Seater Sofa."
+}

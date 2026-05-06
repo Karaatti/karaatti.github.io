@@ -1,0 +1,193 @@
+[
+  {
+    "name": "moon-gold",
+    "href": "/products/mattresses/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold Mattress",
+    "schemaCategory": "Mattresses",
+    "variantCount": 14,
+    "displayColors": [
+      "Black"
+    ]
+  },
+  {
+    "name": "moon-gold",
+    "href": "/products/continental-beds/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold Continental Bed",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 10,
+    "displayColors": [
+      "Black"
+    ]
+  },
+  {
+    "name": "moon-gold",
+    "href": "/products/divan-beds/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold Divan Bed",
+    "schemaCategory": "Divan Beds",
+    "variantCount": 8,
+    "displayColors": [
+      "Black"
+    ]
+  },
+  {
+    "name": "moon-bronze",
+    "href": "/products/headboards/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Headboards",
+    "variantCount": 5,
+    "displayColors": [
+      "Black",
+      "Grey"
+    ]
+  },
+  {
+    "name": "moon-gold",
+    "href": "/products/headboards/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold Headboard",
+    "schemaCategory": "Headboards",
+    "variantCount": 5,
+    "displayColors": [
+      "Black"
+    ]
+  },
+  {
+    "name": "moon-silver",
+    "href": "/products/headboards/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Headboards",
+    "variantCount": 5,
+    "displayColors": [
+      "Black",
+      "Grey"
+    ]
+  },
+  {
+    "name": "moon-gold",
+    "href": "/products/adjustable-beds/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold Adjustable Bed",
+    "schemaCategory": "Adjustable Beds",
+    "variantCount": 3,
+    "displayColors": [
+      "Black"
+    ]
+  },
+  {
+    "name": "mystery",
+    "href": "/products/shelves/mystery/",
+    "type": "dir",
+    "title": "Mystery",
+    "schemaCategory": "Shelves",
+    "variantCount": 2,
+    "displayColors": [
+      "Black"
+    ]
+  },
+  {
+    "name": "nordic",
+    "href": "/products/gazebos-pergolas/nordic/",
+    "type": "dir",
+    "title": "Nordic Gazebos & Pergolas",
+    "schemaCategory": "Gazebos & Pergolas",
+    "variantCount": 2,
+    "displayColors": [
+      "Black"
+    ]
+  },
+  {
+    "name": "nordic",
+    "href": "/products/outdoor-storage/nordic/",
+    "type": "dir",
+    "title": "Nordic Outdoor Storage",
+    "schemaCategory": "Outdoor Storage",
+    "variantCount": 2,
+    "displayColors": [
+      "Black"
+    ]
+  },
+  {
+    "name": "bay",
+    "href": "/products/swivel-chairs/bay/",
+    "type": "dir",
+    "title": "Bay",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Black",
+      "Beige"
+    ]
+  },
+  {
+    "name": "bow",
+    "href": "/products/dining-chairs/bow/",
+    "type": "dir",
+    "title": "Bow",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Black"
+    ]
+  },
+  {
+    "name": "eagle",
+    "href": "/products/armchairs/eagle/",
+    "type": "dir",
+    "title": "Eagle Fixed Armchair",
+    "schemaCategory": "Armchairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Black"
+    ]
+  },
+  {
+    "name": "messina",
+    "href": "/products/outdoor-dining-chairs/messina/",
+    "type": "dir",
+    "title": "Messina",
+    "schemaCategory": "Outdoor Dining Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Black"
+    ]
+  },
+  {
+    "name": "messina",
+    "href": "/products/outdoor-dining-tables/messina/",
+    "type": "dir",
+    "title": "Messina",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Black"
+    ]
+  },
+  {
+    "name": "moon",
+    "href": "/products/mobile-phone-pockets/moon/",
+    "type": "dir",
+    "title": "Moon",
+    "schemaCategory": "Mobile Phone Pockets",
+    "variantCount": 1,
+    "displayColors": [
+      "Black"
+    ]
+  },
+  {
+    "name": "palazzo",
+    "href": "/products/outdoor-lounge-sets/palazzo/",
+    "type": "dir",
+    "title": "Palazzo",
+    "schemaCategory": "Outdoor Lounge Sets",
+    "variantCount": 1,
+    "displayColors": [
+      "Black",
+      "Beige"
+    ]
+  }
+]

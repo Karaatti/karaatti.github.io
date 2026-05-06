@@ -1,0 +1,26 @@
+[
+  {
+    "name": "37-cm",
+    "label": "37 cm",
+    "href": "/attributes/dimensions/ottoman-height/37-cm/",
+    "type": "dir",
+    "description": "37 cm is a published ottoman height used across selected Nest & Living products. Common on Swivel Chair.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 37,
+    "unit": "cm"
+  },
+  {
+    "name": "38-cm",
+    "label": "38 cm",
+    "href": "/attributes/dimensions/ottoman-height/38-cm/",
+    "type": "dir",
+    "description": "38 cm is a published ottoman height used across selected Nest & Living products. Common on Swivel Chair.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 38,
+    "unit": "cm"
+  }
+]

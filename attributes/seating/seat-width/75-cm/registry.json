@@ -1,0 +1,45 @@
+{
+  "group": "seating",
+  "groupLabel": "Seating",
+  "attributeKey": "seatWidth",
+  "attributeLabel": "Seat width",
+  "value": "75 cm",
+  "valueSlug": "75-cm",
+  "valueType": "measurement",
+  "numericValue": 75,
+  "unit": "cm",
+  "productTypes": [
+    "Chaise Sofas",
+    "Corner Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 8,
+  "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame.",
+      "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+      "schemaCategory": "Chaise Sofas and Corner Sofas",
+      "variantCount": 8
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 75,
+        "max": 75,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "75 cm is a published seat width used across selected Nest & Living products. Common on Chaise Sofa and Corner Sofa."
+}

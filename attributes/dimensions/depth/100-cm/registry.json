@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "100 cm",
+  "valueSlug": "100-cm",
+  "valueType": "measurement",
+  "numericValue": 100,
+  "unit": "cm",
+  "productTypes": [
+    "Outdoor Dining Tables"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/outdoor-dining-tables/messina/195643_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/messina",
+      "familyTitle": "Messina",
+      "familySummary": "Messina dining table 220x100 cm provides a practical and elegant outdoor dining option. Its natural toned top and aluminium frame create a modern Scandinavian look. Suitable for garden, terrace or large balcony, it offers a spacious and low-maintenance surface.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/messina/195643_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 100,
+        "max": 100,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "100 cm is a published depth used across selected Nest & Living products. Common on Outdoor Dining Table."
+}

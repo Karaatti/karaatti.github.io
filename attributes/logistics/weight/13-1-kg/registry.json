@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "13.1 kg",
+  "valueSlug": "13-1-kg",
+  "valueType": "measurement",
+  "numericValue": 13.1,
+  "unit": "kg",
+  "productTypes": [
+    "Duvets"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/duvets/staycool/214013_1.jpg",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/staycool",
+      "familyTitle": "Staycool",
+      "familySummary": "Cooling duvets from the Staycool series.",
+      "primaryImageUrl": "/products/duvets/staycool/214013_1.jpg",
+      "schemaCategory": "Duvets",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 13.1,
+        "max": 13.1,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "13.1 kg is a published weight used across selected Nest & Living products. Common on Duvet."
+}

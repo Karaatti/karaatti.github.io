@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width2",
+  "attributeLabel": "Width 2",
+  "value": "42 cm",
+  "valueSlug": "42-cm",
+  "valueType": "measurement",
+  "numericValue": 42,
+  "unit": "cm",
+  "productTypes": [
+    "Planters"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/planters-pots/house-nordic-beckley/201120_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/house-nordic-beckley",
+      "familyTitle": "House Nordic Beckley",
+      "familySummary": "Three-piece set of brown terracotta planters with soft rounded edges and textured surfaces. Suitable for various plants and both indoor and outdoor settings.",
+      "primaryImageUrl": "/products/planters-pots/house-nordic-beckley/201120_1.avif",
+      "schemaCategory": "Planters & Pots",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 42,
+        "max": 42,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "42 cm is a published width 2 used across selected Nest & Living products. Common on Planter."
+}

@@ -1,0 +1,72 @@
+{
+  "group": "padding",
+  "groupLabel": "Padding",
+  "attributeKey": "foamDensity",
+  "attributeLabel": "Foam density",
+  "value": "30 kg/m³",
+  "valueSlug": "30-kg-m3",
+  "valueType": "measurement",
+  "numericValue": 30,
+  "unit": "kg/m³",
+  "productTypes": [
+    "3-Seater Sofas",
+    "Armchairs",
+    "Chaise Sofas",
+    "Corner Sofas",
+    "Footstools"
+  ],
+  "familyCount": 4,
+  "variantCount": 20,
+  "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "Compact and versatile footstool with a durable frame and soft upholstery, designed to complement Scandinavian and modern interiors.",
+      "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
+      "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
+      "variantCount": 12
+    },
+    {
+      "familyRelativeDir": "families/voyage",
+      "familyTitle": "Voyage",
+      "familySummary": "A fixed armchair with a solid wood frame, soft foam and feather seat, and removable cotton covers in white or green.",
+      "primaryImageUrl": "/products/armchairs/voyage/208784_1.avif",
+      "schemaCategory": "Armchairs and 3-Seater Sofas",
+      "variantCount": 4
+    },
+    {
+      "familyRelativeDir": "families/cloud",
+      "familyTitle": "Cloud",
+      "familySummary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
+      "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/haave",
+      "familyTitle": "Haave",
+      "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+      "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg/m³"
+    ],
+    "ranges": [
+      {
+        "unit": "kg/m³",
+        "min": 30,
+        "max": 30,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "30 kg/m³ is a published foam density used across selected Nest & Living products. Common on 3-Seater Sofa, Armchair, Chaise Sofa, Corner Sofa and Footstool."
+}

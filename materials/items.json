@@ -1,0 +1,317 @@
+[
+  {
+    "description": "Aluminium in furniture: Lightweight, corrosion resistant and dimensionally stable outdoors.",
+    "name": "aluminium",
+    "label": "Aluminium",
+    "href": "/materials/aluminium/",
+    "type": "dir",
+    "familyCount": 4,
+    "variantCount": 27
+  },
+  {
+    "description": "Cotton in furniture: Soft, breathable and absorbent, with a dry hand feel.",
+    "name": "cotton",
+    "label": "Cotton",
+    "href": "/materials/cotton/",
+    "type": "dir",
+    "familyCount": 14,
+    "variantCount": 38
+  },
+  {
+    "description": "Fabric in furniture: Comfort-led surface layer whose feel depends on fibre mix, weave density and backing.",
+    "name": "fabric",
+    "label": "Fabric",
+    "href": "/materials/fabric/",
+    "type": "dir",
+    "familyCount": 17,
+    "variantCount": 163
+  },
+  {
+    "description": "Faux leather in furniture: Smooth, easy to wipe and visually leather-like, but less breathable than real leather or fabric.",
+    "name": "faux-leather",
+    "label": "Faux leather",
+    "href": "/materials/faux-leather/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 1
+  },
+  {
+    "description": "Feather in furniture: High loft, soft compression and airy comfort with a relaxed, lounge-like sit.",
+    "name": "feather",
+    "label": "Feather",
+    "href": "/materials/feather/",
+    "type": "dir",
+    "familyCount": 3,
+    "variantCount": 6
+  },
+  {
+    "description": "Foam in furniture: Shape-forming, pressure-distributing and available from soft comfort layers to firm support cores.",
+    "name": "foam",
+    "label": "Foam",
+    "href": "/materials/foam/",
+    "type": "dir",
+    "familyCount": 17,
+    "variantCount": 109
+  },
+  {
+    "description": "Furniture board in furniture: Economical, flat and consistent across large surfaces.",
+    "name": "furniture-board",
+    "label": "Furniture board",
+    "href": "/materials/furniture-board/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 2
+  },
+  {
+    "description": "Glass in furniture: Hard, non-porous and visually light, with a clean reflective surface.",
+    "name": "glass",
+    "label": "Glass",
+    "href": "/materials/glass/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 3
+  },
+  {
+    "description": "HDF in furniture: Dense, smooth and stable in thin sections, often used for backs and secondary panels.",
+    "name": "hdf",
+    "label": "HDF",
+    "href": "/materials/hdf/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 2
+  },
+  {
+    "description": "Latex in furniture: Responsive, resilient and comparatively breathable for a foam material.",
+    "name": "latex",
+    "label": "Latex",
+    "href": "/materials/latex/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 8
+  },
+  {
+    "description": "MDF in furniture: Uniform, machinable and excellent for painted or veneered flat surfaces.",
+    "name": "mdf",
+    "label": "MDF",
+    "href": "/materials/mdf/",
+    "type": "dir",
+    "familyCount": 4,
+    "variantCount": 10
+  },
+  {
+    "description": "Memory foam in furniture: Conforms closely to the body and rebounds more slowly than standard foam.",
+    "name": "memory-foam",
+    "label": "Memory foam",
+    "href": "/materials/memory-foam/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 9
+  },
+  {
+    "description": "Metal in furniture: Strong, precise and well suited to slim structural parts.",
+    "name": "metal",
+    "label": "Metal",
+    "href": "/materials/metal/",
+    "type": "dir",
+    "familyCount": 5,
+    "variantCount": 43
+  },
+  {
+    "description": "Mikrofiber in furniture: Evaluate it through structure, moisture tolerance, maintenance needs and how it supports the furniture's intended use.",
+    "name": "mikrofiber",
+    "label": "Mikrofiber",
+    "href": "/materials/mikrofiber/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 1
+  },
+  {
+    "description": "Nonwood in furniture: Stable and low-maintenance compared with natural wood, but exact performance depends on the composite recipe.",
+    "name": "nonwood",
+    "label": "Nonwood",
+    "href": "/materials/nonwood/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 6
+  },
+  {
+    "description": "Oak in furniture: Strong, hard-wearing and visually expressive with open grain.",
+    "name": "oak",
+    "label": "Oak",
+    "href": "/materials/oak/",
+    "type": "dir",
+    "familyCount": 6,
+    "variantCount": 15
+  },
+  {
+    "description": "Paper in furniture: Lightweight and design-flexible, but heavily dependent on coating and substrate support.",
+    "name": "paper",
+    "label": "Paper",
+    "href": "/materials/paper/",
+    "type": "dir",
+    "familyCount": 3,
+    "variantCount": 5
+  },
+  {
+    "description": "Particle board in furniture: Flat and economical, with acceptable bulk for hidden structures and faced panels.",
+    "name": "particle-board",
+    "label": "Particle board",
+    "href": "/materials/particle-board/",
+    "type": "dir",
+    "familyCount": 3,
+    "variantCount": 47
+  },
+  {
+    "description": "Pine in furniture: Light, warm-looking and easy to machine, but softer under impact.",
+    "name": "pine",
+    "label": "Pine",
+    "href": "/materials/pine/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 3
+  },
+  {
+    "description": "Plastic in furniture: Easy to shape, moisture proof and often lighter than metal or wood.",
+    "name": "plastic",
+    "label": "Plastic",
+    "href": "/materials/plastic/",
+    "type": "dir",
+    "familyCount": 2,
+    "variantCount": 5
+  },
+  {
+    "description": "Plywood in furniture: Stronger and more dimensionally stable than many fibre or particle boards.",
+    "name": "plywood",
+    "label": "Plywood",
+    "href": "/materials/plywood/",
+    "type": "dir",
+    "familyCount": 9,
+    "variantCount": 35
+  },
+  {
+    "description": "Polyester in furniture: Durable, low-absorbency and comparatively easy to maintain.",
+    "name": "polyester",
+    "label": "Polyester",
+    "href": "/materials/polyester/",
+    "type": "dir",
+    "familyCount": 26,
+    "variantCount": 105
+  },
+  {
+    "description": "Polypropylene in furniture: Light, stain resistant and highly moisture tolerant.",
+    "name": "polypropylene",
+    "label": "Polypropylene",
+    "href": "/materials/polypropylene/",
+    "type": "dir",
+    "familyCount": 4,
+    "variantCount": 14
+  },
+  {
+    "description": "Polyrattan in furniture: Flexible, weather-oriented and visually lighter than solid panel furniture.",
+    "name": "polyrattan",
+    "label": "Polyrattan",
+    "href": "/materials/polyrattan/",
+    "type": "dir",
+    "familyCount": 2,
+    "variantCount": 7
+  },
+  {
+    "description": "Silicate in furniture: Hard, heat tolerant and visually crisp, with a dense mineral feel.",
+    "name": "silicate",
+    "label": "Silicate",
+    "href": "/materials/silicate/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 1
+  },
+  {
+    "description": "Solid wood in furniture: Load bearing, repairable and rich in natural grain variation.",
+    "name": "solid-wood",
+    "label": "Solid wood",
+    "href": "/materials/solid-wood/",
+    "type": "dir",
+    "familyCount": 2,
+    "variantCount": 16
+  },
+  {
+    "description": "Steel in furniture: High stiffness and strength, excellent for thin load-bearing frames.",
+    "name": "steel",
+    "label": "Steel",
+    "href": "/materials/steel/",
+    "type": "dir",
+    "familyCount": 7,
+    "variantCount": 15
+  },
+  {
+    "description": "Teak in furniture: Evaluate it through structure, moisture tolerance, maintenance needs and how it supports the furniture's intended use.",
+    "name": "teak",
+    "label": "Teak",
+    "href": "/materials/teak/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 2
+  },
+  {
+    "description": "Tencel in furniture: Evaluate it through structure, moisture tolerance, maintenance needs and how it supports the furniture's intended use.",
+    "name": "tencel",
+    "label": "Tencel",
+    "href": "/materials/tencel/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 3
+  },
+  {
+    "description": "Terracotta in furniture: Evaluate it through structure, moisture tolerance, maintenance needs and how it supports the furniture's intended use.",
+    "name": "terracotta",
+    "label": "Terracotta",
+    "href": "/materials/terracotta/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 1
+  },
+  {
+    "description": "Textilene in furniture: Taut, quick drying and supportive without thick cushioning.",
+    "name": "textilene",
+    "label": "Textilene",
+    "href": "/materials/textilene/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 2
+  },
+  {
+    "description": "Viscose in furniture: Soft, drapey and often slightly lustrous, with strong colour depth.",
+    "name": "viscose",
+    "label": "Viscose",
+    "href": "/materials/viscose/",
+    "type": "dir",
+    "familyCount": 4,
+    "variantCount": 7
+  },
+  {
+    "description": "Wood in furniture: Warm, stiff and naturally variable in grain and tone.",
+    "name": "wood",
+    "label": "Wood",
+    "href": "/materials/wood/",
+    "type": "dir",
+    "familyCount": 11,
+    "variantCount": 89
+  },
+  {
+    "description": "Wood veneer in furniture: Gives authentic wood grain with more stable panel geometry than solid timber alone.",
+    "name": "wood-veneer",
+    "label": "Wood veneer",
+    "href": "/materials/wood-veneer/",
+    "type": "dir",
+    "familyCount": 4,
+    "variantCount": 6
+  },
+  {
+    "description": "Wool in furniture: Warm, springy and naturally textured, with good recovery under foot and hand.",
+    "name": "wool",
+    "label": "Wool",
+    "href": "/materials/wool/",
+    "type": "dir",
+    "familyCount": 2,
+    "variantCount": 4
+  }
+]

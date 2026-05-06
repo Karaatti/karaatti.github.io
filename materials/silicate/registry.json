@@ -1,0 +1,56 @@
+{
+  "label": "Silicate",
+  "description": "Silicate in furniture: Hard, heat tolerant and visually crisp, with a dense mineral feel.",
+  "intro": "Silicate appears across 1 product family and 1 option, especially on Outdoor Dining Tables.",
+  "chemistry": [
+    "Silicate-labelled furniture surfaces usually refer to mineral-heavy ceramic or stone-like slab materials rather than soft organic substrates. Their chemistry gives them hardness, low porosity and good resistance to heat and staining.",
+    "What they do not lose is brittleness. Mineral-rich tops can outperform laminate in scratch and heat resistance, yet a concentrated edge impact can still chip them."
+  ],
+  "furnitureUse": [
+    "They are strong tabletop materials where the user wants a premium stone expression with easier wiping and better everyday resistance than many porous natural stones.",
+    "The design trade-off is weight and edge sensitivity. The base and handling quality become important because the top itself is unforgiving if knocked."
+  ],
+  "care": [
+    "Moisture and wear note: Typically low-porosity and easy to wipe, but joints and edge detailing still matter.",
+    "Care note: Protect corners from impact and avoid assuming the material is unbreakable because mineral slabs remain brittle at edges."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [],
+  "durability": [],
+  "relatedSpecifications": [],
+  "lifecycleRows": [],
+  "strengths": [
+    "hard wearing surface",
+    "good stain and heat resistance",
+    "premium stone-like expression"
+  ],
+  "watchouts": [
+    "edge brittleness",
+    "heavy construction",
+    "performance depends on support and handling"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Mineral-based slab material"
+    },
+    {
+      "label": "Composition",
+      "value": "Silicate-rich ceramic or stone-like composite surface."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Hard, heat tolerant and visually crisp, with a dense mineral feel."
+    },
+    {
+      "label": "Key strengths",
+      "value": "hard wearing surface, good stain and heat resistance and premium stone-like expression"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "edge brittleness, heavy construction and performance depends on support and handling"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

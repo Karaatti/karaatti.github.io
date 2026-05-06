@@ -1,0 +1,82 @@
+[
+  {
+    "name": "nest-living-gold",
+    "href": "/families/nest-living-gold/",
+    "type": "dir",
+    "title": "Nest & Living Gold",
+    "schemaCategory": "Pillows",
+    "variantCount": 2
+  },
+  {
+    "name": "reef",
+    "href": "/families/reef/",
+    "type": "dir",
+    "title": "Reef",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 2
+  },
+  {
+    "name": "staycool",
+    "href": "/families/staycool/",
+    "type": "dir",
+    "title": "Staycool",
+    "schemaCategory": "Pillows",
+    "variantCount": 2
+  },
+  {
+    "name": "dozza",
+    "href": "/families/dozza/",
+    "type": "dir",
+    "title": "Dozza",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "house-nordic-derby",
+    "href": "/families/house-nordic-derby/",
+    "type": "dir",
+    "title": "House Nordic Derby",
+    "schemaCategory": "Outdoor Lounge Seating",
+    "variantCount": 1
+  },
+  {
+    "name": "lucca",
+    "href": "/families/lucca/",
+    "type": "dir",
+    "title": "Lucca",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "nest-living-silver",
+    "href": "/families/nest-living-silver/",
+    "type": "dir",
+    "title": "Nest & Living Silver",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  },
+  {
+    "name": "sevilla",
+    "href": "/families/sevilla/",
+    "type": "dir",
+    "title": "Sevilla",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "staycation",
+    "href": "/families/staycation/",
+    "type": "dir",
+    "title": "Staycation",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  },
+  {
+    "name": "staycomfort",
+    "href": "/families/staycomfort/",
+    "type": "dir",
+    "title": "Staycomfort",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "slug": "beige",
+    "label": "Beige",
+    "aliases": [],
+    "productTypes": [
+      "3-Seater Sofas",
+      "4-Seater Sofas",
+      "Adjustable Beds",
+      "Armchairs",
+      "Bar Stools",
+      "Bed Frames",
+      "Chaise Sofas",
+      "Coffee Tables",
+      "Continental Beds",
+      "Corner Sofas",
+      "Decorative Cushions",
+      "Dining Chairs",
+      "Dining Tables",
+      "Divan Beds",
+      "Fixed Armchairs",
+      "Footstools",
+      "Gazebos & Pergolas",
+      "Headboards",
+      "Mattresses",
+      "Mobile Phone Pockets",
+      "Modular Sofas",
+      "Outdoor Dining Chairs",
+      "Outdoor Dining Tables",
+      "Outdoor Lounge Seating",
+      "Outdoor Lounge Sets",
+      "Outdoor Storage",
+      "Outdoor Sun Loungers",
+      "Rugs",
+      "Swivel Chairs"
+    ],
+    "familyCount": 53,
+    "variantCount": 137,
+    "description": "Beige in interiors: Softens a room, reflects light gently and makes large upholstered forms feel calm instead of dominant.",
+    "partners": [
+      "oak",
+      "brown",
+      "olive green",
+      "soft blue",
+      "black accents"
+    ],
+    "href": "/colors/beige/"
+  },
+  {
+    "slug": "black",
+    "label": "Black",
+    "aliases": [],
+    "productTypes": [
+      "Adjustable Beds",
+      "Cabinets Display",
+      "Continental Beds",
+      "Dining Chairs",
+      "Divan Beds",
+      "Fixed Armchairs",
+      "Gazebos & Pergolas",
+      "Headboards",
+      "Mattresses",
+      "Mobile Phone Pockets",
+      "Outdoor Dining Chairs",
+      "Outdoor Dining Tables",
+      "Outdoor Lounge Sets",
+      "Outdoor Storage",
+      "Swivel Chairs"
+    ],
+    "familyCount": 17,
+    "variantCount": 63,
+    "description": "Black in interiors: Frames space, sharpens silhouettes and creates the strongest value contrast available in an interior palette.",
+    "partners": [
+      "white",
+      "beige",
+      "oak",
+      "walnut",
+      "brass"
+    ],
+    "href": "/colors/black/"
+  },
+  {
+    "slug": "blue",
+    "label": "Blue",
+    "aliases": [],
+    "productTypes": [
+      "Rugs"
+    ],
+    "familyCount": 1,
+    "variantCount": 2,
+    "description": "Blue in interiors: Feels calm, slightly distant and airier than warm colours of equal depth.",
+    "partners": [
+      "beige",
+      "white",
+      "warm oak",
+      "rust",
+      "camel"
+    ],
+    "href": "/colors/blue/"
+  },
+  {
+    "slug": "brown",
+    "label": "Brown",
+    "aliases": [],
+    "productTypes": [
+      "3-Seater Sofas",
+      "4-Seater Sofas",
+      "Armchairs",
+      "Chaise Sofas",
+      "Coffee Tables",
+      "Console Tables",
+      "Corner Sofas",
+      "Decorative Cushions",
+      "Dining Chairs",
+      "Dining Tables",
+      "Fixed Armchairs",
+      "Footstools",
+      "Modular Sofas",
+      "Outdoor Dining Chairs",
+      "Outdoor Dining Tables",
+      "Outdoor Lounge Seating",
+      "Outdoor Lounge Sets",
+      "Planters",
+      "Rugs",
+      "Side Tables",
+      "Swivel Chairs"
+    ],
+    "familyCount": 29,
+    "variantCount": 42,
+    "description": "Brown in interiors: Grounds a room, adds warmth and connects strongly with wood, leather and natural-fibre textures.",
+    "partners": [
+      "beige",
+      "cream",
+      "green",
+      "blue",
+      "black"
+    ],
+    "href": "/colors/brown/"
+  },
+  {
+    "slug": "green",
+    "label": "Green",
+    "aliases": [],
+    "productTypes": [
+      "3-Seater Sofas",
+      "Armchairs",
+      "Chaise Sofas",
+      "Corner Sofas",
+      "Decorative Cushions",
+      "Footstools",
+      "Rugs"
+    ],
+    "familyCount": 10,
+    "variantCount": 14,
+    "description": "Green in interiors: Feels organic and restorative, especially when paired with wood and stone-like neutrals.",
+    "partners": [
+      "beige",
+      "brown",
+      "oak",
+      "black",
+      "soft pink accents"
+    ],
+    "href": "/colors/green/"
+  },
+  {
+    "slug": "grey",
+    "label": "Grey",
+    "aliases": [],
+    "productTypes": [
+      "3-Seater Sofas",
+      "4-Seater Sofas",
+      "Adjustable Beds",
+      "Chaise Sofas",
+      "Continental Beds",
+      "Corner Sofas",
+      "Decorative Cushions",
+      "Divan Bed",
+      "Divan Beds",
+      "Footstools",
+      "Headboards",
+      "Mattresses",
+      "Mobile Phone Pockets",
+      "Modular Sofas",
+      "Rugs",
+      "Swivel Chairs",
+      "Toppers"
+    ],
+    "familyCount": 31,
+    "variantCount": 115,
+    "description": "Grey in interiors: Creates calm and flexibility, but can flatten a room if every surface sits at the same temperature and value.",
+    "partners": [
+      "white",
+      "beige",
+      "oak",
+      "black",
+      "dusty blue"
+    ],
+    "href": "/colors/grey/"
+  },
+  {
+    "slug": "multicolour",
+    "label": "Multicolour",
+    "aliases": [],
+    "productTypes": [
+      "Rugs"
+    ],
+    "familyCount": 1,
+    "variantCount": 2,
+    "description": "Multicolour in interiors: Adds movement, layering and narrative, but needs hierarchy to avoid visual noise.",
+    "partners": [
+      "one repeated dominant colour",
+      "one bridge neutral",
+      "one accent lifted from the pattern"
+    ],
+    "href": "/colors/multicolour/"
+  },
+  {
+    "slug": "orange",
+    "label": "Orange",
+    "aliases": [],
+    "productTypes": [
+      "Decorative Cushions",
+      "Rugs"
+    ],
+    "familyCount": 2,
+    "variantCount": 5,
+    "description": "Orange in interiors: Brings warmth, movement and sociability, so it reads more active than beige, grey or blue.",
+    "partners": [
+      "blue",
+      "brown",
+      "beige",
+      "olive",
+      "walnut"
+    ],
+    "href": "/colors/orange/"
+  },
+  {
+    "slug": "red",
+    "label": "Red",
+    "aliases": [],
+    "productTypes": [
+      "Dining Chairs",
+      "Rugs"
+    ],
+    "familyCount": 5,
+    "variantCount": 12,
+    "description": "Red in interiors: Signals energy and focus immediately, making it best as a controlled feature rather than background repetition.",
+    "partners": [
+      "beige",
+      "brown",
+      "black",
+      "ink blue",
+      "forest green"
+    ],
+    "href": "/colors/red/"
+  },
+  {
+    "slug": "white",
+    "label": "White",
+    "aliases": [],
+    "productTypes": [
+      "3-Seater Sofas",
+      "Armchairs",
+      "Bar Stools",
+      "Decorative Cushions",
+      "Dining Tables",
+      "Mattress Protectors",
+      "Outdoor Lounge Seating",
+      "Outdoor Lounge Sets",
+      "Toppers"
+    ],
+    "familyCount": 11,
+    "variantCount": 37,
+    "description": "White in interiors: Maximises perceived light and cleanliness, but reveals shadow, texture and dirt very clearly.",
+    "partners": [
+      "oak",
+      "beige",
+      "black",
+      "stone",
+      "soft pastel accents"
+    ],
+    "href": "/colors/white/"
+  },
+  {
+    "slug": "yellow",
+    "label": "Yellow",
+    "aliases": [],
+    "productTypes": [
+      "Decorative Cushions"
+    ],
+    "familyCount": 1,
+    "variantCount": 2,
+    "description": "Yellow in interiors: Adds optimism and visual lift, especially in darker rooms that need perceived warmth.",
+    "partners": [
+      "grey",
+      "blue",
+      "brown",
+      "green",
+      "white"
+    ],
+    "href": "/colors/yellow/"
+  }
+]

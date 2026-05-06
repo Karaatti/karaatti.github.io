@@ -1,0 +1,14 @@
+[
+  {
+    "name": "200-cm",
+    "label": "200 cm",
+    "href": "/attributes/dimensions/inner-depth/200-cm/",
+    "type": "dir",
+    "description": "200 cm is a published inner depth used across selected Nest & Living products. Common on Bed Frame.",
+    "familyCount": 2,
+    "variantCount": 3,
+    "valueType": "measurement",
+    "numericValue": 200,
+    "unit": "cm"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "3.7 kg",
+  "valueSlug": "3-7-kg",
+  "valueType": "measurement",
+  "numericValue": 3.7,
+  "unit": "kg",
+  "productTypes": [
+    "Toppers"
+  ],
+  "familyCount": 1,
+  "variantCount": 1,
+  "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "Moon Bronze Basic is a lightweight, breathable mattress topper that adds gentle cushioning and supports a neutral sleeping posture. Its white tone with subtle leaf patterns fits well in the bedroom.",
+      "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+      "schemaCategory": "Toppers",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 3.7,
+        "max": 3.7,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "3.7 kg is a published weight used across selected Nest & Living products. Common on Topper."
+}

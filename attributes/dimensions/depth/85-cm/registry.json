@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "85 cm",
+  "valueSlug": "85-cm",
+  "valueType": "measurement",
+  "numericValue": 85,
+  "unit": "cm",
+  "productTypes": [
+    "Swivel Chairs"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/breeze",
+      "familyTitle": "Breeze",
+      "familySummary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
+      "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 85,
+        "max": 85,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "85 cm is a published depth used across selected Nest & Living products. Common on Swivel Chair."
+}

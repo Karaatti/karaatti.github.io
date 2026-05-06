@@ -1,0 +1,279 @@
+[
+  {
+    "name": "staygentle",
+    "title": "Staygentle Mattress Protector",
+    "href": "/products/mattress-protectors/staygentle/",
+    "type": "dir",
+    "summary": "Tencel mattress protectors from the Staygentle series.",
+    "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
+    "filterData": {
+      "searchText": "Staygentle Mattress Protector Tencel mattress protectors from the Staygentle series. Mattress Protectors Bedroom Staygentle Bedroom Mattress Protectors Staygentle Cotton Polyester Tencel Care Cleaning method Wash 60°C Dimensions Depth 80 cm cm Dimensions Depth 160 cm cm Dimensions Depth 180 cm cm Dimensions Height 1 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 6 product product Logistics Product count 7 product product Logistics Product count 10 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1.2 kg kg Logistics Weight 1.4 kg kg Logistics Weight 8.9 kg kg Logistics Weight 10.6 kg kg Logistics Weight 11.1 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "mattress-protectors",
+          "label": "Mattress Protectors",
+          "href": "/products/mattress-protectors/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "staygentle",
+          "label": "Staygentle",
+          "href": "/families/staygentle/"
+        }
+      ],
+      "colors": [],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        },
+        {
+          "key": "tencel",
+          "label": "Tencel",
+          "href": "/materials/tencel/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "wash-60c",
+          "valueLabel": "Wash 60°C",
+          "href": "/attributes/care/cleaning-method/wash-60c/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/depth/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "160-cm",
+          "valueLabel": "160 cm",
+          "href": "/attributes/dimensions/depth/160-cm/",
+          "valueType": "enum",
+          "numericValue": 160,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "180-cm",
+          "valueLabel": "180 cm",
+          "href": "/attributes/dimensions/depth/180-cm/",
+          "valueType": "enum",
+          "numericValue": 180,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "1-cm",
+          "valueLabel": "1 cm",
+          "href": "/attributes/dimensions/height/1-cm/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/width/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "6-product",
+          "valueLabel": "6 product",
+          "href": "/attributes/logistics/product-count/6-product/",
+          "valueType": "enum",
+          "numericValue": 6,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "7-product",
+          "valueLabel": "7 product",
+          "href": "/attributes/logistics/product-count/7-product/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "10-product",
+          "valueLabel": "10 product",
+          "href": "/attributes/logistics/product-count/10-product/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-23-m3",
+          "valueLabel": "0.23 m³",
+          "href": "/attributes/logistics/volume/0-23-m3/",
+          "valueType": "enum",
+          "numericValue": 0.23,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-2-kg",
+          "valueLabel": "1.2 kg",
+          "href": "/attributes/logistics/weight/1-2-kg/",
+          "valueType": "enum",
+          "numericValue": 1.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "1-4-kg",
+          "valueLabel": "1.4 kg",
+          "href": "/attributes/logistics/weight/1-4-kg/",
+          "valueType": "enum",
+          "numericValue": 1.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "8-9-kg",
+          "valueLabel": "8.9 kg",
+          "href": "/attributes/logistics/weight/8-9-kg/",
+          "valueType": "enum",
+          "numericValue": 8.9,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "10-6-kg",
+          "valueLabel": "10.6 kg",
+          "href": "/attributes/logistics/weight/10-6-kg/",
+          "valueType": "enum",
+          "numericValue": 10.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "11-1-kg",
+          "valueLabel": "11.1 kg",
+          "href": "/attributes/logistics/weight/11-1-kg/",
+          "valueType": "enum",
+          "numericValue": 11.1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Staygentle Mattress Protector",
+      "summary": "Tencel mattress protectors from the Staygentle series.",
+      "variantCount": 3,
+      "categoryLabel": "Mattress Protectors",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Staygentle"
+    }
+  }
+]

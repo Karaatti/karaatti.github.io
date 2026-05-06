@@ -1,0 +1,56 @@
+{
+  "label": "Glass",
+  "description": "Glass in furniture: Hard, non-porous and visually light, with a clean reflective surface.",
+  "intro": "Glass appears across 1 product family and 3 options, especially on Outdoor Dining Tables and Outdoor Lounge Sets.",
+  "chemistry": [
+    "Glass is a silica-rich material with an amorphous structure rather than a crystalline grain. In furniture it is valued for chemical inertness, easy cleaning and the way it lets light move through a room.",
+    "The main engineering issue is brittleness. Tempering improves impact behaviour and safety break pattern, but edge damage remains critical because chips concentrate stress."
+  ],
+  "furnitureUse": [
+    "Glass works best on table tops, cabinet doors and shelves where the design wants visual openness and a surface that does not absorb spills or odours.",
+    "It is less forgiving in busy households than softer materials. It shows smudges quickly, can feel acoustically hard and should not be mistaken for an impact-proof material."
+  ],
+  "care": [
+    "Moisture and wear note: Unaffected by humidity, but water spots and fingerprints are visible on glossy finishes.",
+    "Care note: Clean with soft cloths and protect exposed edges from point impacts."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [],
+  "durability": [],
+  "relatedSpecifications": [],
+  "lifecycleRows": [],
+  "strengths": [
+    "easy to clean",
+    "visually light",
+    "moisture proof surface"
+  ],
+  "watchouts": [
+    "edge chipping risk",
+    "shows fingerprints",
+    "hard reflective surface increases glare and noise"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Amorphous inorganic solid"
+    },
+    {
+      "label": "Composition",
+      "value": "Usually tempered soda-lime glass in furniture tops and shelves."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Hard, non-porous and visually light, with a clean reflective surface."
+    },
+    {
+      "label": "Key strengths",
+      "value": "easy to clean, visually light and moisture proof surface"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "edge chipping risk, shows fingerprints and hard reflective surface increases glare and noise"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

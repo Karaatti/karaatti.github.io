@@ -1,0 +1,273 @@
+{
+  "familyTitle": "Mystery",
+  "familySummary": "The Mystery Shelf in black combines metal and oak veneer in a minimalist design. It provides four spacious shelves suitable for books and decorative items, fitting well in modern and industrial interiors.",
+  "primaryImageUrl": "/products/shelves/mystery/198063_1.avif",
+  "schemaCategory": "Cabinets Display",
+  "variantCount": 2,
+  "productFamilyName": "Mystery",
+  "productFamilyKey": "mystery",
+  "productFamilyRelativeDir": "families/mystery",
+  "filterData": {
+    "searchText": "Mystery The Mystery Shelf in black combines metal and oak veneer in a minimalist design. It provides four spacious shelves suitable for books and decorative items, fitting well in modern and industrial interiors. Shelves Home Details Mystery Home Details Shelves Mystery Black Metal Oak Wood veneer Dimensions Depth 40 cm cm Dimensions Height 154 cm cm Dimensions Width 120 cm cm Dimensions Width 150 cm cm Load Maximum load 10 kg kg Load Maximum load 100 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Volume 0.17 m³ m³ Logistics Weight 8 kg kg Logistics Weight 31 kg kg Logistics Weight 36 kg kg Logistics Weight 40 kg kg Setup Assembly time 45 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+    "collections": [
+      {
+        "key": "home-details",
+        "label": "Home Details",
+        "href": "/collections/storage-shelving"
+      }
+    ],
+    "categories": [
+      {
+        "key": "shelves",
+        "label": "Shelves",
+        "href": "/products/shelves/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "mystery",
+        "label": "Mystery",
+        "href": "/families/mystery/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "black",
+        "label": "Black",
+        "href": "/colors/black/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "metal",
+        "label": "Metal",
+        "href": "/materials/metal/"
+      },
+      {
+        "key": "oak",
+        "label": "Oak",
+        "href": "/materials/oak/"
+      },
+      {
+        "key": "wood-veneer",
+        "label": "Wood veneer",
+        "href": "/materials/wood-veneer/"
+      }
+    ],
+    "specifications": [],
+    "attributes": [
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "depth",
+        "label": "Depth",
+        "valueKey": "40-cm",
+        "valueLabel": "40 cm",
+        "href": "/attributes/dimensions/depth/40-cm/",
+        "valueType": "enum",
+        "numericValue": 40,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "height",
+        "label": "Height",
+        "valueKey": "154-cm",
+        "valueLabel": "154 cm",
+        "href": "/attributes/dimensions/height/154-cm/",
+        "valueType": "enum",
+        "numericValue": 154,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "120-cm",
+        "valueLabel": "120 cm",
+        "href": "/attributes/dimensions/width/120-cm/",
+        "valueType": "enum",
+        "numericValue": 120,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width",
+        "label": "Width",
+        "valueKey": "150-cm",
+        "valueLabel": "150 cm",
+        "href": "/attributes/dimensions/width/150-cm/",
+        "valueType": "enum",
+        "numericValue": 150,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "load",
+        "groupLabel": "Load",
+        "key": "maximum-load",
+        "label": "Maximum load",
+        "valueKey": "10-kg",
+        "valueLabel": "10 kg",
+        "href": "/attributes/load/maximum-load/10-kg/",
+        "valueType": "enum",
+        "numericValue": 10,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "load",
+        "groupLabel": "Load",
+        "key": "maximum-load",
+        "label": "Maximum load",
+        "valueKey": "100-kg",
+        "valueLabel": "100 kg",
+        "href": "/attributes/load/maximum-load/100-kg/",
+        "valueType": "enum",
+        "numericValue": 100,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-count",
+        "label": "Package count",
+        "valueKey": "1-package",
+        "valueLabel": "1 package",
+        "href": "/attributes/logistics/package-count/1-package/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "package"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "product-count",
+        "label": "Product count",
+        "valueKey": "1-product",
+        "valueLabel": "1 product",
+        "href": "/attributes/logistics/product-count/1-product/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "product"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-04-m3",
+        "valueLabel": "0.04 m³",
+        "href": "/attributes/logistics/volume/0-04-m3/",
+        "valueType": "enum",
+        "numericValue": 0.04,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "volume",
+        "label": "Volume",
+        "valueKey": "0-17-m3",
+        "valueLabel": "0.17 m³",
+        "href": "/attributes/logistics/volume/0-17-m3/",
+        "valueType": "enum",
+        "numericValue": 0.17,
+        "unit": "m³"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "8-kg",
+        "valueLabel": "8 kg",
+        "href": "/attributes/logistics/weight/8-kg/",
+        "valueType": "enum",
+        "numericValue": 8,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "31-kg",
+        "valueLabel": "31 kg",
+        "href": "/attributes/logistics/weight/31-kg/",
+        "valueType": "enum",
+        "numericValue": 31,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "36-kg",
+        "valueLabel": "36 kg",
+        "href": "/attributes/logistics/weight/36-kg/",
+        "valueType": "enum",
+        "numericValue": 36,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "weight",
+        "label": "Weight",
+        "valueKey": "40-kg",
+        "valueLabel": "40 kg",
+        "href": "/attributes/logistics/weight/40-kg/",
+        "valueType": "enum",
+        "numericValue": 40,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "setup",
+        "groupLabel": "Setup",
+        "key": "assembly-time",
+        "label": "Assembly time",
+        "valueKey": "45-min",
+        "valueLabel": "45 min",
+        "href": "/attributes/setup/assembly-time/45-min/",
+        "valueType": "enum",
+        "numericValue": 45,
+        "unit": "min"
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "price-guarantee",
+        "label": "Price guarantee",
+        "valueKey": "30-days",
+        "valueLabel": "30 days",
+        "href": "/attributes/warranty/price-guarantee/30-days/",
+        "valueType": "enum",
+        "numericValue": 30,
+        "unit": "days"
+      },
+      {
+        "groupKey": "warranty",
+        "groupLabel": "Warranty",
+        "key": "quality-guarantee",
+        "label": "Quality guarantee",
+        "valueKey": "1000-days",
+        "valueLabel": "1000 days",
+        "href": "/attributes/warranty/quality-guarantee/1000-days/",
+        "valueType": "enum",
+        "numericValue": 1000,
+        "unit": "days"
+      }
+    ]
+  },
+  "sortData": {
+    "title": "Mystery",
+    "summary": "The Mystery Shelf in black combines metal and oak veneer in a minimalist design. It provides four spacious shelves suitable for books and decorative items, fitting well in modern and industrial interiors.",
+    "variantCount": 2,
+    "categoryLabel": "Shelves",
+    "collectionLabel": "Home Details",
+    "productFamilyLabel": "Mystery"
+  }
+}

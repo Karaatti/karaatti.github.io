@@ -1,0 +1,26 @@
+[
+  {
+    "name": "staycool",
+    "href": "/families/staycool/",
+    "type": "dir",
+    "title": "Staycool",
+    "schemaCategory": "Mattress Protectors and Pillows",
+    "variantCount": 2
+  },
+  {
+    "name": "staycomfort",
+    "href": "/families/staycomfort/",
+    "type": "dir",
+    "title": "Staycomfort",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  },
+  {
+    "name": "staygentle",
+    "href": "/families/staygentle/",
+    "type": "dir",
+    "title": "Staygentle",
+    "schemaCategory": "Mattress Protectors",
+    "variantCount": 1
+  }
+]

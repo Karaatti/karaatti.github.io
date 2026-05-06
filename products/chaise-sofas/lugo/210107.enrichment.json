@@ -1,0 +1,417 @@
+{
+  "sku": "210107",
+  "displayName": "Lugo Chaise Sofa, Green, Right",
+  "metaTitle": "Lugo Chaise Sofa, Green, Right - NEST & LIVING",
+  "metaDescription": "Right-side chaise, green fabric upholstery with solid wood frame.",
+  "ogTitle": "Lugo Chaise Sofa, Green, Right",
+  "ogDescription": "Right-side chaise, green fabric upholstery with solid wood frame.",
+  "shortDescription": "Right-side chaise, green fabric upholstery with solid wood frame.",
+  "familyDescription": "The Lugo 3-seater chaise sofa combines a modern design with practical comfort. It features a spacious chaise section on the left or right side and is upholstered in easy-care, structured fabric. The sofa has a solid frame with soft foam cushions for everyday use.",
+  "schemaCategory": "Chaise Sofas",
+  "selectionAttributes": {
+    "dimensions": "277 x 161 cm",
+    "handedness": "Right",
+    "comfortType": "",
+    "color": "Green",
+    "material": "Solid wood, Plywood, Foam, Particle board"
+  },
+  "attributes": [
+    {
+      "key": "seatDepth",
+      "label": "Seat depth",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "63 cm",
+      "valueSlug": "63-cm",
+      "rawValue": "63 cm",
+      "valueType": "enum",
+      "numericValue": 63,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Istuinsyvyys",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "seatHeight",
+      "label": "Seat height",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "44 cm",
+      "valueSlug": "44-cm",
+      "rawValue": "44 cm",
+      "valueType": "enum",
+      "numericValue": 44,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Istuinkorkeus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "legHeight",
+      "label": "Leg height",
+      "group": "configuration",
+      "groupLabel": "Configuration",
+      "value": "0.6 cm",
+      "valueSlug": "0-6-cm",
+      "rawValue": "0.6cm",
+      "valueType": "enum",
+      "numericValue": 0.6,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Jalkojen korkeus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "seatWidth",
+      "label": "Seat width",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "75 cm",
+      "valueSlug": "75-cm",
+      "rawValue": "75 cm",
+      "valueType": "enum",
+      "numericValue": 75,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Istuinleveys",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "handednessConfiguration",
+      "label": "Handedness configuration",
+      "group": "configuration",
+      "groupLabel": "Configuration",
+      "value": "Fixed",
+      "valueSlug": "fixed",
+      "rawValue": "Ei",
+      "valueType": "enum",
+      "numericValue": null,
+      "unit": "",
+      "sourceSection": "Ominaisuudet",
+      "sourceLabel": "Vaihdettava kätisyys",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "armrestWidth",
+      "label": "Armrest width",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "26 cm",
+      "valueSlug": "26-cm",
+      "rawValue": "26 cm",
+      "valueType": "enum",
+      "numericValue": 26,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Käsinojan leveys",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "backrestHeight",
+      "label": "Backrest height",
+      "group": "seating",
+      "groupLabel": "Seating",
+      "value": "27 cm",
+      "valueSlug": "27-cm",
+      "rawValue": "27 cm",
+      "valueType": "enum",
+      "numericValue": 27,
+      "unit": "cm",
+      "sourceSection": "Muut mitat",
+      "sourceLabel": "Selkänojan korkeus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "277 cm",
+      "valueSlug": "277-cm",
+      "rawValue": "277 cm",
+      "valueType": "enum",
+      "numericValue": 277,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Width",
+      "sourceType": "specs"
+    },
+    {
+      "key": "depth",
+      "label": "Depth",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "161 cm",
+      "valueSlug": "161-cm",
+      "rawValue": "161 cm",
+      "valueType": "enum",
+      "numericValue": 161,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Depth",
+      "sourceType": "specs"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "value": "70 cm",
+      "valueSlug": "70-cm",
+      "rawValue": "70 cm",
+      "valueType": "enum",
+      "numericValue": 70,
+      "unit": "cm",
+      "sourceSection": "Technical specifications",
+      "sourceLabel": "Height",
+      "sourceType": "specs"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "89 kg",
+      "valueSlug": "89-kg",
+      "rawValue": "89 kg",
+      "valueType": "enum",
+      "numericValue": 89,
+      "unit": "kg",
+      "sourceSection": "Mitat",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "qualityGuarantee",
+      "label": "Quality guarantee",
+      "group": "warranty",
+      "groupLabel": "Warranty",
+      "value": "1000 days",
+      "valueSlug": "1000-days",
+      "rawValue": "1000 päivää",
+      "valueType": "enum",
+      "numericValue": 1000,
+      "unit": "days",
+      "sourceSection": "Takuu",
+      "sourceLabel": "Laatutakuu",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "assemblyTime",
+      "label": "Assembly time",
+      "group": "setup",
+      "groupLabel": "Setup",
+      "value": "0 min",
+      "valueSlug": "0-min",
+      "rawValue": "0 min",
+      "valueType": "enum",
+      "numericValue": 0,
+      "unit": "min",
+      "sourceSection": "Lisätiedot",
+      "sourceLabel": "Kokoonpanoaika",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "packageCount",
+      "label": "Package count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 package",
+      "valueSlug": "1-package",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "package",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paketteja",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "productCount",
+      "label": "Product count",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1 product",
+      "valueSlug": "1-product",
+      "rawValue": "1 kpl",
+      "valueType": "enum",
+      "numericValue": 1,
+      "unit": "product",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tuotteita",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "1.16 m³",
+      "valueSlug": "1-16-m3",
+      "rawValue": "1.16 m³",
+      "valueType": "enum",
+      "numericValue": 1.16,
+      "unit": "m³",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Tilavuus",
+      "sourceType": "technicalDetails"
+    },
+    {
+      "key": "weight",
+      "label": "Weight",
+      "group": "logistics",
+      "groupLabel": "Logistics",
+      "value": "43.5 kg",
+      "valueSlug": "43-5-kg",
+      "rawValue": "43.5 kg",
+      "valueType": "enum",
+      "numericValue": 43.5,
+      "unit": "kg",
+      "sourceSection": "Pakkaustiedot",
+      "sourceLabel": "Paino",
+      "sourceType": "technicalDetails"
+    }
+  ],
+  "specifications": [],
+  "materialSpecifications": [
+    {
+      "key": "foamDensity",
+      "label": "Foam density",
+      "group": "padding",
+      "groupLabel": "Padding",
+      "value": "30 kg/m³",
+      "numericValue": 30,
+      "unit": "kg/m³",
+      "allowSpecificationAttributeLinking": true
+    },
+    {
+      "key": "legMaterial",
+      "label": "Leg material",
+      "group": "frame",
+      "groupLabel": "Frame and base",
+      "value": "Plastic",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    },
+    {
+      "key": "materials",
+      "label": "Materials",
+      "group": "materials",
+      "groupLabel": "Materials",
+      "value": "Solid wood, Plywood, Foam, Particle board",
+      "numericValue": null,
+      "unit": "",
+      "allowSpecificationAttributeLinking": false
+    },
+    {
+      "key": "martindale",
+      "label": "Martindale",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "30,000 Martindale",
+      "numericValue": 30000,
+      "unit": "Martindale",
+      "allowSpecificationAttributeLinking": true
+    },
+    {
+      "key": "lightfastness",
+      "label": "Lightfastness",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "4",
+      "numericValue": 4,
+      "unit": "",
+      "allowSpecificationAttributeLinking": true
+    },
+    {
+      "key": "pilling",
+      "label": "Pilling",
+      "group": "upholstery",
+      "groupLabel": "Upholstery",
+      "value": "4",
+      "numericValue": 4,
+      "unit": "",
+      "allowSpecificationAttributeLinking": true
+    }
+  ],
+  "specs": [
+    {
+      "label": "Color",
+      "value": "Green",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/colors/green/\">Green</a></span>"
+    },
+    {
+      "label": "Material",
+      "value": "Solid wood, Plywood, Foam, Particle board",
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/materials/solid-wood/\">Solid wood</a><a class=\"spec-link-chip\" href=\"/materials/plywood/\">Plywood</a><a class=\"spec-link-chip\" href=\"/materials/foam/\">Foam</a><a class=\"spec-link-chip\" href=\"/materials/particle-board/\">Particle board</a></span>"
+    },
+    {
+      "label": "Width",
+      "value": "277 cm",
+      "key": "width",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "277 cm",
+          "href": "/attributes/dimensions/width/277-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/width/277-cm/\">277 cm</a></span>"
+    },
+    {
+      "label": "Depth",
+      "value": "161 cm",
+      "key": "depth",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "161 cm",
+          "href": "/attributes/dimensions/depth/161-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/depth/161-cm/\">161 cm</a></span>"
+    },
+    {
+      "label": "Height",
+      "value": "70 cm",
+      "key": "height",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "70 cm",
+          "href": "/attributes/dimensions/height/70-cm/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/dimensions/height/70-cm/\">70 cm</a></span>"
+    },
+    {
+      "label": "Weight",
+      "value": "89 kg",
+      "key": "weight",
+      "allowSpecificationAttributeLinking": true,
+      "registryRefs": [
+        {
+          "label": "89 kg",
+          "href": "/attributes/logistics/weight/89-kg/"
+        }
+      ],
+      "valueHtml": "<span class=\"spec-link-list\"><a class=\"spec-link-chip\" href=\"/attributes/logistics/weight/89-kg/\">89 kg</a></span>"
+    }
+  ],
+  "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_right_green_10.avif",
+  "imageUrls": [
+    "/products/chaise-sofas/lugo/lugo_chaise_sofa_right_green_10.avif",
+    "/products/chaise-sofas/lugo/lugo_chaise_sofa_right_green_9.avif",
+    "/products/chaise-sofas/lugo/210107_1.avif",
+    "/products/chaise-sofas/lugo/210107_2.avif",
+    "/products/chaise-sofas/lugo/210107_3.avif",
+    "/products/chaise-sofas/lugo/210107_4.avif",
+    "/products/chaise-sofas/lugo/210107_5.avif",
+    "/products/chaise-sofas/lugo/210107_6.avif",
+    "/products/chaise-sofas/lugo/210107_7.avif",
+    "/products/chaise-sofas/lugo/210107_8.avif",
+    "/products/chaise-sofas/lugo/210107_11.avif"
+  ],
+  "retailerUrl": "https://www.masku.com/tuote/210107-lugo-3-ist-divaanisohva-oikea-vihrea"
+}

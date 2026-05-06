@@ -1,0 +1,28 @@
+{
+  "group": "headboard-types",
+  "groupLabel": "Headboard types",
+  "slug": "moon-gold-headboard-buttons-in-five-rows",
+  "label": "Moon Gold headboard, buttons in five rows",
+  "aliases": [
+    "Moon Gold pääty, napit viidessä rivissä"
+  ],
+  "productTypes": [
+    "Headboards"
+  ],
+  "materials": [],
+  "attributeSummaries": [],
+  "familyCount": 1,
+  "variantCount": 15,
+  "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "A practical and understated headboard featuring button detailing in five rows. Available in several widths and neutral fabric colours.",
+      "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+      "schemaCategory": "Headboards",
+      "variantCount": 15
+    }
+  ],
+  "summary": "Moon Gold headboard, buttons in five rows is a shared headboard type used across the Nest & Living range. Common on Headboard."
+}

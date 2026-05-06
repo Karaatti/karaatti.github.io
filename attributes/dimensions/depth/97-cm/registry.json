@@ -1,0 +1,53 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "depth",
+  "attributeLabel": "Depth",
+  "value": "97 cm",
+  "valueSlug": "97-cm",
+  "valueType": "measurement",
+  "numericValue": 97,
+  "unit": "cm",
+  "productTypes": [
+    "3-Seater Sofas",
+    "Armchairs"
+  ],
+  "familyCount": 2,
+  "variantCount": 3,
+  "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/lugo",
+      "familyTitle": "Lugo",
+      "familySummary": "A modern 3-seater sofa with a durable wooden frame and easy-care fabric upholstery. Available in beige and green.",
+      "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_1.avif",
+      "schemaCategory": "3-Seater Sofas",
+      "variantCount": 2
+    },
+    {
+      "familyRelativeDir": "families/dove",
+      "familyTitle": "Dove",
+      "familySummary": "Armchair with a walnut rubberwood frame and beige fabric upholstery. Offers comfortable seating with a high back and soft seat.",
+      "primaryImageUrl": "/products/armchairs/dove/198105_1.avif",
+      "schemaCategory": "Armchairs",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 97,
+        "max": 97,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "97 cm is a published depth used across selected Nest & Living products. Common on 3-Seater Sofa and Armchair."
+}

@@ -1,0 +1,216 @@
+[
+  {
+    "name": "eagle",
+    "title": "Eagle Fixed Armchair",
+    "href": "/products/armchairs/eagle/",
+    "type": "dir",
+    "summary": "A modern armchair with a natural wood frame and soft upholstery, designed for comfort and understated style.",
+    "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
+    "filterData": {
+      "searchText": "Eagle Fixed Armchair A modern armchair with a natural wood frame and soft upholstery, designed for comfort and understated style. Armchairs Living room Eagle Living room Armchairs Eagle Beige Black Brown Fabric Faux leather Oak Plywood Dimensions Depth 72 cm cm Dimensions Height 71 cm cm Dimensions Width 75 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.41 m³ m³ Logistics Weight 11 kg kg Logistics Weight 16.5 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "armchairs",
+          "label": "Armchairs",
+          "href": "/products/armchairs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "eagle",
+          "label": "Eagle",
+          "href": "/families/eagle/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "faux-leather",
+          "label": "Faux leather",
+          "href": "/materials/faux-leather/"
+        },
+        {
+          "key": "oak",
+          "label": "Oak",
+          "href": "/materials/oak/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "72-cm",
+          "valueLabel": "72 cm",
+          "href": "/attributes/dimensions/depth/72-cm/",
+          "valueType": "enum",
+          "numericValue": 72,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "71-cm",
+          "valueLabel": "71 cm",
+          "href": "/attributes/dimensions/height/71-cm/",
+          "valueType": "enum",
+          "numericValue": 71,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "75-cm",
+          "valueLabel": "75 cm",
+          "href": "/attributes/dimensions/width/75-cm/",
+          "valueType": "enum",
+          "numericValue": 75,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "load",
+          "groupLabel": "Load",
+          "key": "maximum-load",
+          "label": "Maximum load",
+          "valueKey": "110-kg",
+          "valueLabel": "110 kg",
+          "href": "/attributes/load/maximum-load/110-kg/",
+          "valueType": "enum",
+          "numericValue": 110,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-41-m3",
+          "valueLabel": "0.41 m³",
+          "href": "/attributes/logistics/volume/0-41-m3/",
+          "valueType": "enum",
+          "numericValue": 0.41,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "11-kg",
+          "valueLabel": "11 kg",
+          "href": "/attributes/logistics/weight/11-kg/",
+          "valueType": "enum",
+          "numericValue": 11,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "16-5-kg",
+          "valueLabel": "16.5 kg",
+          "href": "/attributes/logistics/weight/16-5-kg/",
+          "valueType": "enum",
+          "numericValue": 16.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Eagle Fixed Armchair",
+      "summary": "A modern armchair with a natural wood frame and soft upholstery, designed for comfort and understated style.",
+      "variantCount": 3,
+      "categoryLabel": "Armchairs",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": "Eagle"
+    }
+  }
+]

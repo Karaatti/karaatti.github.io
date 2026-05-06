@@ -1,0 +1,52 @@
+[
+  {
+    "name": "foam-density",
+    "label": "Foam density",
+    "href": "/attributes/padding/foam-density/",
+    "type": "dir",
+    "entryCount": 5,
+    "variantCount": 33,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 5,
+      "unitCount": 1,
+      "units": [
+        "kg/m³"
+      ],
+      "ranges": [
+        {
+          "unit": "kg/m³",
+          "min": 24,
+          "max": 35,
+          "count": 5,
+          "distinctCount": 5
+        }
+      ]
+    }
+  },
+  {
+    "name": "seat-cushion-thickness",
+    "label": "Seat cushion thickness",
+    "href": "/attributes/padding/seat-cushion-thickness/",
+    "type": "dir",
+    "entryCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 1,
+      "unitCount": 1,
+      "units": [
+        "cm"
+      ],
+      "ranges": [
+        {
+          "unit": "cm",
+          "min": 8,
+          "max": 8,
+          "count": 1,
+          "distinctCount": 1
+        }
+      ]
+    }
+  }
+]

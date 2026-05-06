@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "width",
+  "attributeLabel": "Width",
+  "value": "77 cm",
+  "valueSlug": "77-cm",
+  "valueType": "measurement",
+  "numericValue": 77,
+  "unit": "cm",
+  "productTypes": [
+    "Swivel Chairs"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/breeze",
+      "familyTitle": "Breeze",
+      "familySummary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
+      "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+      "schemaCategory": "Swivel Chairs",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 77,
+        "max": 77,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "77 cm is a published width used across selected Nest & Living products. Common on Swivel Chair."
+}

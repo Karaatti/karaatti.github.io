@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "39 kg",
+  "valueSlug": "39-kg",
+  "valueType": "measurement",
+  "numericValue": 39,
+  "unit": "kg",
+  "productTypes": [
+    "Bed Frames",
+    "Outdoor Dining Tables"
+  ],
+  "familyCount": 2,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/outdoor-dining-tables/haven/197626_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/haven",
+      "familyTitle": "Haven",
+      "familySummary": "The Haven dining table features a sleek design with a durable aluminium frame and warm polyrattan finish. Its elegant glass top is easy to maintain. Measuring 200 x 100 cm, it provides ample space and assembles in about 30 minutes.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/haven/197626_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/moonlit",
+      "familyTitle": "Moonlit",
+      "familySummary": "Upholstered bed frame in beige bouclé fabric with a sturdy construction. Suitable for various mattresses and bedroom styles.",
+      "primaryImageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
+      "schemaCategory": "Bed Frames",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 39,
+        "max": 39,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "39 kg is a published weight used across selected Nest & Living products. Common on Bed Frame and Outdoor Dining Table."
+}

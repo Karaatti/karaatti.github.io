@@ -1,0 +1,26 @@
+[
+  {
+    "name": "32-cm",
+    "label": "32 cm",
+    "href": "/attributes/dimensions/inner-height/32-cm/",
+    "type": "dir",
+    "description": "32 cm is a published inner height used across selected Nest & Living products. Common on Adjustable Bed.",
+    "familyCount": 1,
+    "variantCount": 3,
+    "valueType": "measurement",
+    "numericValue": 32,
+    "unit": "cm"
+  },
+  {
+    "name": "36-cm",
+    "label": "36 cm",
+    "href": "/attributes/dimensions/inner-height/36-cm/",
+    "type": "dir",
+    "description": "36 cm is a published inner height used across selected Nest & Living products. Common on Bed Frame.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 36,
+    "unit": "cm"
+  }
+]

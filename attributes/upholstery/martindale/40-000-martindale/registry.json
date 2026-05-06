@@ -1,0 +1,44 @@
+{
+  "group": "upholstery",
+  "groupLabel": "Upholstery",
+  "attributeKey": "martindale",
+  "attributeLabel": "Martindale",
+  "value": "40,000 Martindale",
+  "valueSlug": "40-000-martindale",
+  "valueType": "measurement",
+  "numericValue": 40000,
+  "unit": "Martindale",
+  "productTypes": [
+    "Corner Sofas"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/haave",
+      "familyTitle": "Haave",
+      "familySummary": "Available sizes: 293 x 241 cm. Color: Beige. Material: Furniture board, Plywood, Wood, HDF. 2 variants available.",
+      "primaryImageUrl": "/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif",
+      "schemaCategory": "Corner Sofas",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "Martindale"
+    ],
+    "ranges": [
+      {
+        "unit": "Martindale",
+        "min": 40000,
+        "max": 40000,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "40,000 Martindale is a published martindale used across selected Nest & Living products. Common on Corner Sofa."
+}

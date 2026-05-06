@@ -1,0 +1,53 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "20.5 kg",
+  "valueSlug": "20-5-kg",
+  "valueType": "measurement",
+  "numericValue": 20.5,
+  "unit": "kg",
+  "productTypes": [
+    "Outdoor Dining Tables",
+    "Planters"
+  ],
+  "familyCount": 2,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/planters-pots/house-nordic-beckley/201120_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/house-nordic-beckley",
+      "familyTitle": "House Nordic Beckley",
+      "familySummary": "Three-piece set of brown terracotta planters with soft rounded edges and textured surfaces. Suitable for various plants and both indoor and outdoor settings.",
+      "primaryImageUrl": "/products/planters-pots/house-nordic-beckley/201120_1.avif",
+      "schemaCategory": "Planters & Pots",
+      "variantCount": 1
+    },
+    {
+      "familyRelativeDir": "families/saarni",
+      "familyTitle": "Saarni",
+      "familySummary": "Outdoor dining table with aluminium frame and nonwood surface in a light Beige tone. Practical and easy to maintain.",
+      "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206642_1.avif",
+      "schemaCategory": "Outdoor Dining Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 20.5,
+        "max": 20.5,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "20.5 kg is a published weight used across selected Nest & Living products. Common on Outdoor Dining Table and Planter."
+}

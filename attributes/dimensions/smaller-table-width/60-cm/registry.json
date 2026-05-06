@@ -1,0 +1,44 @@
+{
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "attributeKey": "smallerTableWidth",
+  "attributeLabel": "Smaller table width",
+  "value": "60 cm",
+  "valueSlug": "60-cm",
+  "valueType": "measurement",
+  "numericValue": 60,
+  "unit": "cm",
+  "productTypes": [
+    "Coffee Tables"
+  ],
+  "familyCount": 1,
+  "variantCount": 2,
+  "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/island",
+      "familyTitle": "Island",
+      "familySummary": "Stackable two-piece coffee table in brown or beige with a soft asymmetrical shape for flexible living room layouts.",
+      "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
+      "schemaCategory": "Coffee Tables",
+      "variantCount": 2
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 60,
+        "max": 60,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "60 cm is a published smaller table width used across selected Nest & Living products. Common on Coffee Table."
+}

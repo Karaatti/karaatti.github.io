@@ -1,0 +1,82 @@
+{
+  "label": "Plywood",
+  "description": "Plywood in furniture: Stronger and more dimensionally stable than many fibre or particle boards.",
+  "intro": "Plywood appears across 9 product families and 35 options, especially on 3-Seater Sofas, 4-Seater Sofas, Armchairs, Chaise Sofas, Corner Sofas and Dining Chairs and 3 more.",
+  "chemistry": [
+    "Plywood is built from real wood veneers layered with alternating grain. That cross-lamination reduces directional movement and spreads load more evenly than single-grain timber sheets.",
+    "Because the face and core are wood, plywood still behaves more like a natural wood product than a fibreboard. It holds screws better and usually tolerates humidity swings more gracefully."
+  ],
+  "furnitureUse": [
+    "It is one of the most versatile panel materials in furniture, suitable for seats, table structures, carcasses and curved shells when the grade is chosen well.",
+    "Plywood is especially useful where designers need a wood-based panel that is lighter and stronger than particle board but more stable and scalable than solid wood alone."
+  ],
+  "care": [
+    "Moisture and wear note: Better moisture resistance than MDF or particle board, but still not immune if edges stay wet.",
+    "Care note: Seal exposed edges when needed and keep the finish intact in demanding environments."
+  ],
+  "terminology": [],
+  "thermal": [
+    "Plywood behaves more like wood than like foam or metal in thermal terms. It feels relatively neutral-to-warm at touch and does not trap body heat the way dense foams do.",
+    "The layered build improves dimensional stability, but humidity and repeated wet-dry cycles still matter more than pure thermal expansion in long-term use."
+  ],
+  "recycling": [
+    "Finland-first sorting baseline: plywood furniture parts generally belong to municipal bulky-furniture or local wood acceptance depending on glue lines, coatings and local instructions.",
+    "If the plywood is veneered, painted, upholstered or fixed to metal hardware, the safest customer-facing route is municipal bulky-waste handling unless local guidance explicitly allows a cleaner wood stream."
+  ],
+  "durability": [
+    "Good plywood usually outperforms MDF and particle board in screw holding, impact tolerance and moisture robustness, though edge quality and glue quality matter.",
+    "Typical wear shows as chipped edges, surface finish wear and moisture stress at exposed laminations rather than sudden general collapse."
+  ],
+  "relatedSpecifications": [
+    "Plywood frame",
+    "Bent plywood shell",
+    "Cross-laminated panel"
+  ],
+  "lifecycleRows": [
+    {
+      "label": "Recycling in Finland",
+      "value": "Use municipal bulky-furniture or the local wood route depending on finish, glue system and operator rules."
+    },
+    {
+      "label": "Expected wear profile",
+      "value": "Often stronger and more forgiving than fibreboards, with edge chipping and finish wear as common ageing signs."
+    },
+    {
+      "label": "Retail warranty note",
+      "value": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+    }
+  ],
+  "strengths": [
+    "good strength-to-weight ratio",
+    "better screw holding than particle board",
+    "stable cross-laminated structure"
+  ],
+  "watchouts": [
+    "edge plies may show or splinter",
+    "quality varies by veneer grade and glue line",
+    "needs protection in prolonged wet exposure"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Cross-laminated wood panel"
+    },
+    {
+      "label": "Composition",
+      "value": "Multiple wood veneers glued with alternating grain directions."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Stronger and more dimensionally stable than many fibre or particle boards."
+    },
+    {
+      "label": "Key strengths",
+      "value": "good strength-to-weight ratio, better screw holding than particle board and stable cross-laminated structure"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "edge plies may show or splinter, quality varies by veneer grade and glue line and needs protection in prolonged wet exposure"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

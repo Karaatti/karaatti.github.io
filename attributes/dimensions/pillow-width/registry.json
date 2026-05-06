@@ -1,0 +1,77 @@
+{
+  "attributeKey": "pillowWidth",
+  "attributeLabel": "Pillow width",
+  "group": "dimensions",
+  "groupLabel": "Dimensions",
+  "valueType": "measurement",
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "cm"
+    ],
+    "ranges": [
+      {
+        "unit": "cm",
+        "min": 60,
+        "max": 60,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "values": [
+    {
+      "group": "dimensions",
+      "groupLabel": "Dimensions",
+      "attributeKey": "pillowWidth",
+      "attributeLabel": "Pillow width",
+      "value": "60 cm",
+      "valueSlug": "60-cm",
+      "valueType": "measurement",
+      "numericValue": 60,
+      "unit": "cm",
+      "productTypes": [
+        "Duvet & Pillow Sets"
+      ],
+      "familyCount": 2,
+      "variantCount": 2,
+      "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-basic/201089_1.avif",
+      "usageEntries": [
+        {
+          "familyRelativeDir": "families/nest-living-basic",
+          "familyTitle": "Nest & Living Basic",
+          "familySummary": "Soft and lightweight duvet set for easy-care everyday bedroom use.",
+          "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-basic/201089_1.avif",
+          "schemaCategory": "Duvet & Pillow Sets",
+          "variantCount": 1
+        },
+        {
+          "familyRelativeDir": "families/nest-living-bronze",
+          "familyTitle": "Nest & Living Bronze",
+          "familySummary": "Light duvet set with practical everyday comfort.",
+          "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
+          "schemaCategory": "Duvet & Pillow Sets",
+          "variantCount": 1
+        }
+      ],
+      "numericFilter": {
+        "numericEntryCount": 1,
+        "unitCount": 1,
+        "units": [
+          "cm"
+        ],
+        "ranges": [
+          {
+            "unit": "cm",
+            "min": 60,
+            "max": 60,
+            "count": 1,
+            "distinctCount": 1
+          }
+        ]
+      },
+      "summary": "60 cm is a published pillow width used across selected Nest & Living products. Common on Duvet & Pillow Set."
+    }
+  ]
+}

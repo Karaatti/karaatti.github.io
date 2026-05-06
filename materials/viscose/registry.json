@@ -1,0 +1,56 @@
+{
+  "label": "Viscose",
+  "description": "Viscose in furniture: Soft, drapey and often slightly lustrous, with strong colour depth.",
+  "intro": "Viscose appears across 4 product families and 7 options, especially on Rugs.",
+  "chemistry": [
+    "Viscose begins as cellulose but is chemically regenerated into fibre. It keeps some of the softness and absorbency associated with plant-based fibres while adding a smoother, more fluid look.",
+    "In rugs and decorative textiles that gives it sheen and depth. The downside is lower wet strength and a greater tendency to show crush marks, shading and wear paths."
+  ],
+  "furnitureUse": [
+    "Viscose is at its best in lower-friction decorative applications, especially rugs, where visual richness matters and the user accepts a little more care sensitivity.",
+    "For rough family use it is usually strongest in a blend. Pure or high-viscose surfaces can look excellent, but they are rarely the hardest-wearing option in the room."
+  ],
+  "care": [
+    "Moisture and wear note: Can weaken and mark more easily when wet than polyester or wool blends.",
+    "Care note: Use gentle cleaning methods and avoid hard rubbing on pile or lustrous viscose surfaces."
+  ],
+  "terminology": [],
+  "thermal": [],
+  "recycling": [],
+  "durability": [],
+  "relatedSpecifications": [],
+  "lifecycleRows": [],
+  "strengths": [
+    "soft lustrous finish",
+    "good colour richness",
+    "elevated decorative feel"
+  ],
+  "watchouts": [
+    "weaker when wet",
+    "shows pile and pressure marks",
+    "not the toughest high-traffic fibre on its own"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Regenerated cellulose fibre"
+    },
+    {
+      "label": "Composition",
+      "value": "Cellulose dissolved and spun back into filament or staple fibre."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Soft, drapey and often slightly lustrous, with strong colour depth."
+    },
+    {
+      "label": "Key strengths",
+      "value": "soft lustrous finish, good colour richness and elevated decorative feel"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "weaker when wet, shows pile and pressure marks and not the toughest high-traffic fibre on its own"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}

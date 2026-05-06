@@ -1,0 +1,90 @@
+[
+  {
+    "name": "ruutu",
+    "href": "/families/ruutu/",
+    "type": "dir",
+    "title": "Ruutu",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "sirmione",
+    "href": "/families/sirmione/",
+    "type": "dir",
+    "title": "Sirmione",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "amaris",
+    "href": "/families/amaris/",
+    "type": "dir",
+    "title": "Amaris",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "basalt",
+    "href": "/families/basalt/",
+    "type": "dir",
+    "title": "Basalt",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "desenzano",
+    "href": "/families/desenzano/",
+    "type": "dir",
+    "title": "Desenzano",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "dolomite",
+    "href": "/families/dolomite/",
+    "type": "dir",
+    "title": "Dolomite",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "garda",
+    "href": "/families/garda/",
+    "type": "dir",
+    "title": "Garda",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "lyra",
+    "href": "/families/lyra/",
+    "type": "dir",
+    "title": "Lyra",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "moderni",
+    "href": "/families/moderni/",
+    "type": "dir",
+    "title": "Moderni",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "saaga",
+    "href": "/families/saaga/",
+    "type": "dir",
+    "title": "Saaga",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "yanam",
+    "href": "/families/yanam/",
+    "type": "dir",
+    "title": "Yanam",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  }
+]

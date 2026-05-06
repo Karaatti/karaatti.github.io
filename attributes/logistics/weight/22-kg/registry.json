@@ -1,0 +1,72 @@
+{
+  "group": "logistics",
+  "groupLabel": "Logistics",
+  "attributeKey": "weight",
+  "attributeLabel": "Weight",
+  "value": "22 kg",
+  "valueSlug": "22-kg",
+  "valueType": "measurement",
+  "numericValue": 22,
+  "unit": "kg",
+  "productTypes": [
+    "Continental Beds",
+    "Dining Tables",
+    "Divan Bed",
+    "Headboards",
+    "Mattresses"
+  ],
+  "familyCount": 4,
+  "variantCount": 18,
+  "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_beige_1.avif",
+  "usageEntries": [
+    {
+      "familyRelativeDir": "families/moon-bronze",
+      "familyTitle": "Moon Bronze",
+      "familySummary": "A smooth, upholstered headboard offered in three neutral colours and multiple widths.",
+      "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_beige_1.avif",
+      "schemaCategory": "Continental Beds, Divan Beds and Headboards",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/moon-gold",
+      "familyTitle": "Moon Gold",
+      "familySummary": "A practical and understated headboard featuring button detailing in five rows. Available in several widths and neutral fabric colours.",
+      "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+      "schemaCategory": "Continental Beds, Headboards and Mattresses",
+      "variantCount": 6
+    },
+    {
+      "familyRelativeDir": "families/moon-silver",
+      "familyTitle": "Moon Silver",
+      "familySummary": "Pocket spring mattress with 5-zone support for individual body comfort. Available in various sizes and designed for practical, lasting use.",
+      "primaryImageUrl": "/products/mattresses/moon-silver/moon_silver_mattress_grey_2.avif",
+      "schemaCategory": "Continental Beds and Mattresses",
+      "variantCount": 5
+    },
+    {
+      "familyRelativeDir": "families/islet",
+      "familyTitle": "Islet",
+      "familySummary": "Islet round dining table, 120 cm diameter, walnut finish. Combines modern design with a natural wood look. Durable and easy to care for, fitting both small and larger dining areas.",
+      "primaryImageUrl": "/products/dining-tables/islet/198066_1.avif",
+      "schemaCategory": "Dining Tables",
+      "variantCount": 1
+    }
+  ],
+  "numericFilter": {
+    "numericEntryCount": 1,
+    "unitCount": 1,
+    "units": [
+      "kg"
+    ],
+    "ranges": [
+      {
+        "unit": "kg",
+        "min": 22,
+        "max": 22,
+        "count": 1,
+        "distinctCount": 1
+      }
+    ]
+  },
+  "summary": "22 kg is a published weight used across selected Nest & Living products. Common on Continental Bed, Dining Table, Divan Bed, Headboard and Mattress."
+}

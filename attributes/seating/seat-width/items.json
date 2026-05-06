@@ -1,0 +1,86 @@
+[
+  {
+    "name": "39-5-cm",
+    "label": "39.5 cm",
+    "href": "/attributes/seating/seat-width/39-5-cm/",
+    "type": "dir",
+    "description": "39.5 cm is a published seat width used across selected Nest & Living products. Common on Outdoor Dining Chair.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 39.5,
+    "unit": "cm"
+  },
+  {
+    "name": "44-cm",
+    "label": "44 cm",
+    "href": "/attributes/seating/seat-width/44-cm/",
+    "type": "dir",
+    "description": "44 cm is a published seat width used across selected Nest & Living products. Common on Outdoor Dining Chair.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 44,
+    "unit": "cm"
+  },
+  {
+    "name": "47-cm",
+    "label": "47 cm",
+    "href": "/attributes/seating/seat-width/47-cm/",
+    "type": "dir",
+    "description": "47 cm is a published seat width used across selected Nest & Living products. Common on Outdoor Lounge Seating.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 47,
+    "unit": "cm"
+  },
+  {
+    "name": "65-cm",
+    "label": "65 cm",
+    "href": "/attributes/seating/seat-width/65-cm/",
+    "type": "dir",
+    "description": "65 cm is a published seat width used across selected Nest & Living products. Common on Outdoor Sun Lounger.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 65,
+    "unit": "cm"
+  },
+  {
+    "name": "75-cm",
+    "label": "75 cm",
+    "href": "/attributes/seating/seat-width/75-cm/",
+    "type": "dir",
+    "description": "75 cm is a published seat width used across selected Nest & Living products. Common on Chaise Sofa and Corner Sofa.",
+    "familyCount": 1,
+    "variantCount": 8,
+    "valueType": "measurement",
+    "numericValue": 75,
+    "unit": "cm"
+  },
+  {
+    "name": "85-cm",
+    "label": "85 cm",
+    "href": "/attributes/seating/seat-width/85-cm/",
+    "type": "dir",
+    "description": "85 cm is a published seat width used across selected Nest & Living products. Common on 3-Seater Sofa and Corner Sofa.",
+    "familyCount": 2,
+    "variantCount": 4,
+    "valueType": "measurement",
+    "numericValue": 85,
+    "unit": "cm"
+  },
+  {
+    "name": "92-cm",
+    "label": "92 cm",
+    "href": "/attributes/seating/seat-width/92-cm/",
+    "type": "dir",
+    "description": "92 cm is a published seat width used across selected Nest & Living products. Common on Footstool.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 92,
+    "unit": "cm"
+  }
+]

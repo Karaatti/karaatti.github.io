@@ -1,0 +1,110 @@
+[
+  {
+    "name": "1-product",
+    "label": "1 product",
+    "href": "/attributes/logistics/product-count/1-product/",
+    "type": "dir",
+    "description": "1 product is a published product count used across selected Nest & Living products. Common on 3-Seater Sofa, 4-Seater Sofa, Adjustable Bed, Armchair, Bed Frame and Cabinets Display and 26 more.",
+    "familyCount": 51,
+    "variantCount": 367,
+    "valueType": "measurement",
+    "numericValue": 1,
+    "unit": "product"
+  },
+  {
+    "name": "2-product",
+    "label": "2 product",
+    "href": "/attributes/logistics/product-count/2-product/",
+    "type": "dir",
+    "description": "2 product is a published product count used across selected Nest & Living products. Common on Bar Stool and Dining Chair.",
+    "familyCount": 2,
+    "variantCount": 5,
+    "valueType": "measurement",
+    "numericValue": 2,
+    "unit": "product"
+  },
+  {
+    "name": "5-product",
+    "label": "5 product",
+    "href": "/attributes/logistics/product-count/5-product/",
+    "type": "dir",
+    "description": "5 product is a published product count used across selected Nest & Living products. Common on Pillow.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 5,
+    "unit": "product"
+  },
+  {
+    "name": "6-product",
+    "label": "6 product",
+    "href": "/attributes/logistics/product-count/6-product/",
+    "type": "dir",
+    "description": "6 product is a published product count used across selected Nest & Living products. Common on Mattress Protector.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 6,
+    "unit": "product"
+  },
+  {
+    "name": "7-product",
+    "label": "7 product",
+    "href": "/attributes/logistics/product-count/7-product/",
+    "type": "dir",
+    "description": "7 product is a published product count used across selected Nest & Living products. Common on Mattress Protector.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 7,
+    "unit": "product"
+  },
+  {
+    "name": "8-product",
+    "label": "8 product",
+    "href": "/attributes/logistics/product-count/8-product/",
+    "type": "dir",
+    "description": "8 product is a published product count used across selected Nest & Living products. Common on Duvet and Pillow.",
+    "familyCount": 2,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 8,
+    "unit": "product"
+  },
+  {
+    "name": "10-product",
+    "label": "10 product",
+    "href": "/attributes/logistics/product-count/10-product/",
+    "type": "dir",
+    "description": "10 product is a published product count used across selected Nest & Living products. Common on Mattress Protector and Pillow.",
+    "familyCount": 3,
+    "variantCount": 4,
+    "valueType": "measurement",
+    "numericValue": 10,
+    "unit": "product"
+  },
+  {
+    "name": "12-product",
+    "label": "12 product",
+    "href": "/attributes/logistics/product-count/12-product/",
+    "type": "dir",
+    "description": "12 product is a published product count used across selected Nest & Living products. Common on Decorative Cushion.",
+    "familyCount": 3,
+    "variantCount": 24,
+    "valueType": "measurement",
+    "numericValue": 12,
+    "unit": "product"
+  },
+  {
+    "name": "20-product",
+    "label": "20 product",
+    "href": "/attributes/logistics/product-count/20-product/",
+    "type": "dir",
+    "description": "20 product is a published product count used across selected Nest & Living products. Common on Pillow.",
+    "familyCount": 1,
+    "variantCount": 1,
+    "valueType": "measurement",
+    "numericValue": 20,
+    "unit": "product"
+  }
+]

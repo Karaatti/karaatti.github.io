@@ -1,0 +1,90 @@
+[
+  {
+    "name": "nest-living-gold",
+    "href": "/families/nest-living-gold/",
+    "type": "dir",
+    "title": "Nest & Living Gold",
+    "schemaCategory": "Duvets and Pillows",
+    "variantCount": 4
+  },
+  {
+    "name": "ruutu",
+    "href": "/families/ruutu/",
+    "type": "dir",
+    "title": "Ruutu",
+    "schemaCategory": "Rugs",
+    "variantCount": 4
+  },
+  {
+    "name": "voyage",
+    "href": "/families/voyage/",
+    "type": "dir",
+    "title": "Voyage",
+    "schemaCategory": "Armchairs and 3-Seater Sofas",
+    "variantCount": 4
+  },
+  {
+    "name": "moderni",
+    "href": "/families/moderni/",
+    "type": "dir",
+    "title": "Moderni",
+    "schemaCategory": "Rugs",
+    "variantCount": 3
+  },
+  {
+    "name": "nest-living-silver",
+    "href": "/families/nest-living-silver/",
+    "type": "dir",
+    "title": "Nest & Living Silver",
+    "schemaCategory": "Duvets and Pillows",
+    "variantCount": 3
+  },
+  {
+    "name": "sirmione",
+    "href": "/families/sirmione/",
+    "type": "dir",
+    "title": "Sirmione",
+    "schemaCategory": "Rugs",
+    "variantCount": 3
+  },
+  {
+    "name": "yanam",
+    "href": "/families/yanam/",
+    "type": "dir",
+    "title": "Yanam",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "desenzano",
+    "href": "/families/desenzano/",
+    "type": "dir",
+    "title": "Desenzano",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "garda",
+    "href": "/families/garda/",
+    "type": "dir",
+    "title": "Garda",
+    "schemaCategory": "Rugs",
+    "variantCount": 1
+  },
+  {
+    "name": "nest-living-basic",
+    "href": "/families/nest-living-basic/",
+    "type": "dir",
+    "title": "Nest & Living Basic",
+    "schemaCategory": "Duvet & Pillow Sets",
+    "variantCount": 1
+  },
+  {
+    "name": "nest-living-bronze",
+    "href": "/families/nest-living-bronze/",
+    "type": "dir",
+    "title": "Nest & Living Bronze",
+    "schemaCategory": "Duvet & Pillow Sets",
+    "variantCount": 1
+  }
+]

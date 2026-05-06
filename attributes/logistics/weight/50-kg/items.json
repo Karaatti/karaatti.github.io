@@ -1,0 +1,58 @@
+[
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Adjustable Beds and Continental Beds",
+    "variantCount": 3
+  },
+  {
+    "name": "westcoast",
+    "href": "/families/westcoast/",
+    "type": "dir",
+    "title": "Westcoast",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 3
+  },
+  {
+    "name": "voyage",
+    "href": "/families/voyage/",
+    "type": "dir",
+    "title": "Voyage",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 2
+  },
+  {
+    "name": "casa",
+    "href": "/families/casa/",
+    "type": "dir",
+    "title": "Casa",
+    "schemaCategory": "Bed Frames",
+    "variantCount": 1
+  },
+  {
+    "name": "cloud",
+    "href": "/families/cloud/",
+    "type": "dir",
+    "title": "Cloud",
+    "schemaCategory": "Corner Sofas",
+    "variantCount": 1
+  },
+  {
+    "name": "saarni",
+    "href": "/families/saarni/",
+    "type": "dir",
+    "title": "Saarni",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 1
+  },
+  {
+    "name": "sulo",
+    "href": "/families/sulo/",
+    "type": "dir",
+    "title": "Sulo",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1
+  }
+]

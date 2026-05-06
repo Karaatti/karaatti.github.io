@@ -1,0 +1,42 @@
+{
+  "label": "Yellow",
+  "description": "Yellow in interiors: Adds optimism and visual lift, especially in darker rooms that need perceived warmth.",
+  "intro": "Yellow appears across 1 product family and 2 options, especially on Decorative Cushions.",
+  "theory": [
+    "Yellow reflects light strongly and is psychologically associated with warmth and alertness. That makes it useful for lifting neutral rooms, but too much high-saturation yellow can feel restless.",
+    "In furniture design the most versatile yellows are usually ochre, straw and mustard tones because they sit closer to natural materials and age more gracefully in a palette."
+  ],
+  "palette": [
+    "Use yellow as a spark inside a mostly neutral or blue-grey room. It works well in cushions, small rugs and occasional pieces where the eye benefits from one warm highlight.",
+    "When building a full palette, pair yellow with one stabiliser such as grey, walnut or olive. Without that grounding colour, the room can start to feel visually noisy."
+  ],
+  "partners": [
+    "grey",
+    "blue",
+    "brown",
+    "green",
+    "white"
+  ],
+  "profileRows": [
+    {
+      "label": "Colour role",
+      "value": "Light-enhancing warm accent"
+    },
+    {
+      "label": "Undertone",
+      "value": "Ranges from pale butter to ochre and mustard."
+    },
+    {
+      "label": "Visual effect",
+      "value": "Adds optimism and visual lift, especially in darker rooms that need perceived warmth."
+    },
+    {
+      "label": "Works well with",
+      "value": "grey, blue, brown, green and white"
+    },
+    {
+      "label": "Balancing move",
+      "value": "Muted yellows are easier to integrate than bright primary yellow on large furniture pieces."
+    }
+  ]
+}

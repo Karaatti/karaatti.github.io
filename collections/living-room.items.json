@@ -1,0 +1,4824 @@
+[
+  {
+    "name": "three-seater-sofas",
+    "href": "/products/three-seater-sofas/",
+    "type": "dir",
+    "title": "3-Seater Sofas",
+    "summary": "3-seater sofas.",
+    "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_1.avif",
+    "filterData": {
+      "searchText": "3-Seater Sofas 3-seater sofas. 3-Seater Sofas Living room Living room 3-Seater Sofas Lugo Sulo Voyage Westcoast Beige Brown Green Grey White Fabric Feather Foam Metal Particle board Plastic Plywood Polyester Solid wood Care Cleaning method Water wash Care Removable covers Yes Configuration Leg height 0.6 cm cm Dimensions Depth 88 cm cm Dimensions Depth 90 cm cm Dimensions Depth 97 cm cm Dimensions Height 70 cm cm Dimensions Height 75 cm cm Dimensions Height 80 cm cm Dimensions Height 88 cm cm Dimensions Width 220 cm cm Dimensions Width 222 cm cm Dimensions Width 230 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Volume 1.5 m³ m³ Logistics Volume 1.15 m³ m³ Logistics Volume 1.32 m³ m³ Logistics Weight 50 kg kg Logistics Weight 60 kg kg Logistics Weight 66 kg kg Logistics Weight 69.3 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 85 cm cm Setup Assembly time 0 min min Setup Assembly time 15 min min Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "three-seater-sofas",
+          "label": "3-Seater Sofas",
+          "href": "/products/three-seater-sofas/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "lugo",
+          "label": "Lugo",
+          "href": "/families/lugo/"
+        },
+        {
+          "key": "sulo",
+          "label": "Sulo",
+          "href": "/families/sulo/"
+        },
+        {
+          "key": "voyage",
+          "label": "Voyage",
+          "href": "/families/voyage/"
+        },
+        {
+          "key": "westcoast",
+          "label": "Westcoast",
+          "href": "/families/westcoast/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        },
+        {
+          "key": "green",
+          "label": "Green",
+          "href": "/colors/green/"
+        },
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        },
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "feather",
+          "label": "Feather",
+          "href": "/materials/feather/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "particle-board",
+          "label": "Particle board",
+          "href": "/materials/particle-board/"
+        },
+        {
+          "key": "plastic",
+          "label": "Plastic",
+          "href": "/materials/plastic/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        },
+        {
+          "key": "solid-wood",
+          "label": "Solid wood",
+          "href": "/materials/solid-wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "water-wash",
+          "valueLabel": "Water wash",
+          "href": "/attributes/care/cleaning-method/water-wash/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "removable-covers",
+          "label": "Removable covers",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/care/removable-covers/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "configuration",
+          "groupLabel": "Configuration",
+          "key": "leg-height",
+          "label": "Leg height",
+          "valueKey": "0-6-cm",
+          "valueLabel": "0.6 cm",
+          "href": "/attributes/configuration/leg-height/0-6-cm/",
+          "valueType": "enum",
+          "numericValue": 0.6,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "88-cm",
+          "valueLabel": "88 cm",
+          "href": "/attributes/dimensions/depth/88-cm/",
+          "valueType": "enum",
+          "numericValue": 88,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "90-cm",
+          "valueLabel": "90 cm",
+          "href": "/attributes/dimensions/depth/90-cm/",
+          "valueType": "enum",
+          "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "97-cm",
+          "valueLabel": "97 cm",
+          "href": "/attributes/dimensions/depth/97-cm/",
+          "valueType": "enum",
+          "numericValue": 97,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "70-cm",
+          "valueLabel": "70 cm",
+          "href": "/attributes/dimensions/height/70-cm/",
+          "valueType": "enum",
+          "numericValue": 70,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "75-cm",
+          "valueLabel": "75 cm",
+          "href": "/attributes/dimensions/height/75-cm/",
+          "valueType": "enum",
+          "numericValue": 75,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/height/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "88-cm",
+          "valueLabel": "88 cm",
+          "href": "/attributes/dimensions/height/88-cm/",
+          "valueType": "enum",
+          "numericValue": 88,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "220-cm",
+          "valueLabel": "220 cm",
+          "href": "/attributes/dimensions/width/220-cm/",
+          "valueType": "enum",
+          "numericValue": 220,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "222-cm",
+          "valueLabel": "222 cm",
+          "href": "/attributes/dimensions/width/222-cm/",
+          "valueType": "enum",
+          "numericValue": 222,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "230-cm",
+          "valueLabel": "230 cm",
+          "href": "/attributes/dimensions/width/230-cm/",
+          "valueType": "enum",
+          "numericValue": 230,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-59-m3",
+          "valueLabel": "0.59 m³",
+          "href": "/attributes/logistics/volume/0-59-m3/",
+          "valueType": "enum",
+          "numericValue": 0.59,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "1-5-m3",
+          "valueLabel": "1.5 m³",
+          "href": "/attributes/logistics/volume/1-5-m3/",
+          "valueType": "enum",
+          "numericValue": 1.5,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "1-15-m3",
+          "valueLabel": "1.15 m³",
+          "href": "/attributes/logistics/volume/1-15-m3/",
+          "valueType": "enum",
+          "numericValue": 1.15,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "1-32-m3",
+          "valueLabel": "1.32 m³",
+          "href": "/attributes/logistics/volume/1-32-m3/",
+          "valueType": "enum",
+          "numericValue": 1.32,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "50-kg",
+          "valueLabel": "50 kg",
+          "href": "/attributes/logistics/weight/50-kg/",
+          "valueType": "enum",
+          "numericValue": 50,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "60-kg",
+          "valueLabel": "60 kg",
+          "href": "/attributes/logistics/weight/60-kg/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "66-kg",
+          "valueLabel": "66 kg",
+          "href": "/attributes/logistics/weight/66-kg/",
+          "valueType": "enum",
+          "numericValue": 66,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "69-3-kg",
+          "valueLabel": "69.3 kg",
+          "href": "/attributes/logistics/weight/69-3-kg/",
+          "valueType": "enum",
+          "numericValue": 69.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "foam-density",
+          "label": "Foam density",
+          "valueKey": "30-kg-m3",
+          "valueLabel": "30 kg/m³",
+          "href": "/attributes/padding/foam-density/30-kg-m3/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg/m³"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "armrest-width",
+          "label": "Armrest width",
+          "valueKey": "26-cm",
+          "valueLabel": "26 cm",
+          "href": "/attributes/seating/armrest-width/26-cm/",
+          "valueType": "enum",
+          "numericValue": 26,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "backrest-height",
+          "label": "Backrest height",
+          "valueKey": "27-cm",
+          "valueLabel": "27 cm",
+          "href": "/attributes/seating/backrest-height/27-cm/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-depth",
+          "label": "Seat depth",
+          "valueKey": "63-cm",
+          "valueLabel": "63 cm",
+          "href": "/attributes/seating/seat-depth/63-cm/",
+          "valueType": "enum",
+          "numericValue": 63,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "44-cm",
+          "valueLabel": "44 cm",
+          "href": "/attributes/seating/seat-height/44-cm/",
+          "valueType": "enum",
+          "numericValue": 44,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-width",
+          "label": "Seat width",
+          "valueKey": "85-cm",
+          "valueLabel": "85 cm",
+          "href": "/attributes/seating/seat-width/85-cm/",
+          "valueType": "enum",
+          "numericValue": 85,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "lightfastness",
+          "label": "Lightfastness",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/lightfastness/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "martindale",
+          "label": "Martindale",
+          "valueKey": "30-000-martindale",
+          "valueLabel": "30,000 Martindale",
+          "href": "/attributes/upholstery/martindale/30-000-martindale/",
+          "valueType": "enum",
+          "numericValue": 30000,
+          "unit": "Martindale"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "martindale",
+          "label": "Martindale",
+          "valueKey": "120-000-martindale",
+          "valueLabel": "120,000 Martindale",
+          "href": "/attributes/upholstery/martindale/120-000-martindale/",
+          "valueType": "enum",
+          "numericValue": 120000,
+          "unit": "Martindale"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "pilling",
+          "label": "Pilling",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/pilling/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "3-Seater Sofas",
+      "summary": "3-seater sofas.",
+      "variantCount": 8,
+      "categoryLabel": "3-Seater Sofas",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": ""
+    }
+  },
+  {
+    "name": "four-seater-sofas",
+    "href": "/products/four-seater-sofas/",
+    "type": "dir",
+    "title": "4-Seater Sofas",
+    "summary": "4-seater sofas.",
+    "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+    "filterData": {
+      "searchText": "4-Seater Sofas 4-seater sofas. 4-Seater Sofas Living room Living room 4-Seater Sofas Heaven Beige Brown Grey Fabric Foam Metal Plywood Wood Care Cleaning method Dry clean Configuration Handedness configuration Reversible Dimensions Depth 106 cm cm Dimensions Depth 182 cm cm Dimensions Height 89 cm cm Dimensions Main section depth 106 cm cm Dimensions Width 266 cm cm Dimensions Width 296 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.45 m³ m³ Logistics Volume 0.54 m³ m³ Logistics Volume 0.58 m³ m³ Logistics Volume 0.86 m³ m³ Logistics Weight 37 kg kg Logistics Weight 37.5 kg kg Logistics Weight 44.5 kg kg Logistics Weight 57 kg kg Logistics Weight 87 kg kg Logistics Weight 118 kg kg Padding Foam density 24 kg/m³ kg/m³ Seating Seat count 3 seat seat Seating Seat count 4 seat seat Setup Assembly time 15 min min Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "four-seater-sofas",
+          "label": "4-Seater Sofas",
+          "href": "/products/four-seater-sofas/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "heaven",
+          "label": "Heaven",
+          "href": "/families/heaven/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        },
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "dry-clean",
+          "valueLabel": "Dry clean",
+          "href": "/attributes/care/cleaning-method/dry-clean/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "configuration",
+          "groupLabel": "Configuration",
+          "key": "handedness-configuration",
+          "label": "Handedness configuration",
+          "valueKey": "reversible",
+          "valueLabel": "Reversible",
+          "href": "/attributes/configuration/handedness-configuration/reversible/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "106-cm",
+          "valueLabel": "106 cm",
+          "href": "/attributes/dimensions/depth/106-cm/",
+          "valueType": "enum",
+          "numericValue": 106,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "182-cm",
+          "valueLabel": "182 cm",
+          "href": "/attributes/dimensions/depth/182-cm/",
+          "valueType": "enum",
+          "numericValue": 182,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "89-cm",
+          "valueLabel": "89 cm",
+          "href": "/attributes/dimensions/height/89-cm/",
+          "valueType": "enum",
+          "numericValue": 89,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "main-section-depth",
+          "label": "Main section depth",
+          "valueKey": "106-cm",
+          "valueLabel": "106 cm",
+          "href": "/attributes/dimensions/main-section-depth/106-cm/",
+          "valueType": "enum",
+          "numericValue": 106,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "266-cm",
+          "valueLabel": "266 cm",
+          "href": "/attributes/dimensions/width/266-cm/",
+          "valueType": "enum",
+          "numericValue": 266,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "296-cm",
+          "valueLabel": "296 cm",
+          "href": "/attributes/dimensions/width/296-cm/",
+          "valueType": "enum",
+          "numericValue": 296,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-45-m3",
+          "valueLabel": "0.45 m³",
+          "href": "/attributes/logistics/volume/0-45-m3/",
+          "valueType": "enum",
+          "numericValue": 0.45,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-54-m3",
+          "valueLabel": "0.54 m³",
+          "href": "/attributes/logistics/volume/0-54-m3/",
+          "valueType": "enum",
+          "numericValue": 0.54,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-58-m3",
+          "valueLabel": "0.58 m³",
+          "href": "/attributes/logistics/volume/0-58-m3/",
+          "valueType": "enum",
+          "numericValue": 0.58,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-86-m3",
+          "valueLabel": "0.86 m³",
+          "href": "/attributes/logistics/volume/0-86-m3/",
+          "valueType": "enum",
+          "numericValue": 0.86,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "37-kg",
+          "valueLabel": "37 kg",
+          "href": "/attributes/logistics/weight/37-kg/",
+          "valueType": "enum",
+          "numericValue": 37,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "37-5-kg",
+          "valueLabel": "37.5 kg",
+          "href": "/attributes/logistics/weight/37-5-kg/",
+          "valueType": "enum",
+          "numericValue": 37.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "44-5-kg",
+          "valueLabel": "44.5 kg",
+          "href": "/attributes/logistics/weight/44-5-kg/",
+          "valueType": "enum",
+          "numericValue": 44.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "57-kg",
+          "valueLabel": "57 kg",
+          "href": "/attributes/logistics/weight/57-kg/",
+          "valueType": "enum",
+          "numericValue": 57,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "87-kg",
+          "valueLabel": "87 kg",
+          "href": "/attributes/logistics/weight/87-kg/",
+          "valueType": "enum",
+          "numericValue": 87,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "118-kg",
+          "valueLabel": "118 kg",
+          "href": "/attributes/logistics/weight/118-kg/",
+          "valueType": "enum",
+          "numericValue": 118,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "foam-density",
+          "label": "Foam density",
+          "valueKey": "24-kg-m3",
+          "valueLabel": "24 kg/m³",
+          "href": "/attributes/padding/foam-density/24-kg-m3/",
+          "valueType": "enum",
+          "numericValue": 24,
+          "unit": "kg/m³"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-count",
+          "label": "Seat count",
+          "valueKey": "3-seat",
+          "valueLabel": "3 seat",
+          "href": "/attributes/seating/seat-count/3-seat/",
+          "valueType": "enum",
+          "numericValue": 3,
+          "unit": "seat"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-count",
+          "label": "Seat count",
+          "valueKey": "4-seat",
+          "valueLabel": "4 seat",
+          "href": "/attributes/seating/seat-count/4-seat/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": "seat"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "lightfastness",
+          "label": "Lightfastness",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/lightfastness/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "pilling",
+          "label": "Pilling",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/pilling/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "4-Seater Sofas",
+      "summary": "4-seater sofas.",
+      "variantCount": 6,
+      "categoryLabel": "4-Seater Sofas",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": ""
+    }
+  },
+  {
+    "name": "chaise-sofas",
+    "href": "/products/chaise-sofas/",
+    "type": "dir",
+    "title": "Chaise Sofas",
+    "summary": "Chaise sofas.",
+    "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+    "filterData": {
+      "searchText": "Chaise Sofas Chaise sofas. Chaise Sofas Living room Living room Chaise Sofas Aava Lugo Westcoast Beige Brown Green Grey Foam Metal Particle board Plastic Plywood Polyester Solid wood Wood Wood veneer Configuration Handedness configuration Fixed Configuration Handedness configuration Self-configurable Configuration Leg height 0.6 cm cm Dimensions Depth 145 cm cm Dimensions Depth 161 cm cm Dimensions Depth 176 cm cm Dimensions Height 70 cm cm Dimensions Height 78 cm cm Dimensions Height 80 cm cm Dimensions Main section depth 89 cm cm Dimensions Width 250 cm cm Dimensions Width 277 cm cm Dimensions Width 283 cm cm Load Maximum load 200 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.38 m³ m³ Logistics Volume 0.68 m³ m³ Logistics Volume 0.75 m³ m³ Logistics Volume 0.79 m³ m³ Logistics Volume 1.13 m³ m³ Logistics Volume 1.16 m³ m³ Logistics Weight 29.5 kg kg Logistics Weight 42 kg kg Logistics Weight 43.5 kg kg Logistics Weight 51.4 kg kg Logistics Weight 55.1 kg kg Logistics Weight 60 kg kg Logistics Weight 89 kg kg Logistics Weight 102 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Setup Assembly time 15 min min Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "chaise-sofas",
+          "label": "Chaise Sofas",
+          "href": "/products/chaise-sofas/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "aava",
+          "label": "Aava",
+          "href": "/families/aava/"
+        },
+        {
+          "key": "lugo",
+          "label": "Lugo",
+          "href": "/families/lugo/"
+        },
+        {
+          "key": "westcoast",
+          "label": "Westcoast",
+          "href": "/families/westcoast/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        },
+        {
+          "key": "green",
+          "label": "Green",
+          "href": "/colors/green/"
+        },
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "particle-board",
+          "label": "Particle board",
+          "href": "/materials/particle-board/"
+        },
+        {
+          "key": "plastic",
+          "label": "Plastic",
+          "href": "/materials/plastic/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        },
+        {
+          "key": "solid-wood",
+          "label": "Solid wood",
+          "href": "/materials/solid-wood/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        },
+        {
+          "key": "wood-veneer",
+          "label": "Wood veneer",
+          "href": "/materials/wood-veneer/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "configuration",
+          "groupLabel": "Configuration",
+          "key": "handedness-configuration",
+          "label": "Handedness configuration",
+          "valueKey": "fixed",
+          "valueLabel": "Fixed",
+          "href": "/attributes/configuration/handedness-configuration/fixed/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "configuration",
+          "groupLabel": "Configuration",
+          "key": "handedness-configuration",
+          "label": "Handedness configuration",
+          "valueKey": "self-configurable",
+          "valueLabel": "Self-configurable",
+          "href": "/attributes/configuration/handedness-configuration/self-configurable/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "configuration",
+          "groupLabel": "Configuration",
+          "key": "leg-height",
+          "label": "Leg height",
+          "valueKey": "0-6-cm",
+          "valueLabel": "0.6 cm",
+          "href": "/attributes/configuration/leg-height/0-6-cm/",
+          "valueType": "enum",
+          "numericValue": 0.6,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "145-cm",
+          "valueLabel": "145 cm",
+          "href": "/attributes/dimensions/depth/145-cm/",
+          "valueType": "enum",
+          "numericValue": 145,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "161-cm",
+          "valueLabel": "161 cm",
+          "href": "/attributes/dimensions/depth/161-cm/",
+          "valueType": "enum",
+          "numericValue": 161,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "176-cm",
+          "valueLabel": "176 cm",
+          "href": "/attributes/dimensions/depth/176-cm/",
+          "valueType": "enum",
+          "numericValue": 176,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "70-cm",
+          "valueLabel": "70 cm",
+          "href": "/attributes/dimensions/height/70-cm/",
+          "valueType": "enum",
+          "numericValue": 70,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "78-cm",
+          "valueLabel": "78 cm",
+          "href": "/attributes/dimensions/height/78-cm/",
+          "valueType": "enum",
+          "numericValue": 78,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/height/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "main-section-depth",
+          "label": "Main section depth",
+          "valueKey": "89-cm",
+          "valueLabel": "89 cm",
+          "href": "/attributes/dimensions/main-section-depth/89-cm/",
+          "valueType": "enum",
+          "numericValue": 89,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "250-cm",
+          "valueLabel": "250 cm",
+          "href": "/attributes/dimensions/width/250-cm/",
+          "valueType": "enum",
+          "numericValue": 250,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "277-cm",
+          "valueLabel": "277 cm",
+          "href": "/attributes/dimensions/width/277-cm/",
+          "valueType": "enum",
+          "numericValue": 277,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "283-cm",
+          "valueLabel": "283 cm",
+          "href": "/attributes/dimensions/width/283-cm/",
+          "valueType": "enum",
+          "numericValue": 283,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "load",
+          "groupLabel": "Load",
+          "key": "maximum-load",
+          "label": "Maximum load",
+          "valueKey": "200-kg",
+          "valueLabel": "200 kg",
+          "href": "/attributes/load/maximum-load/200-kg/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-38-m3",
+          "valueLabel": "0.38 m³",
+          "href": "/attributes/logistics/volume/0-38-m3/",
+          "valueType": "enum",
+          "numericValue": 0.38,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-68-m3",
+          "valueLabel": "0.68 m³",
+          "href": "/attributes/logistics/volume/0-68-m3/",
+          "valueType": "enum",
+          "numericValue": 0.68,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-75-m3",
+          "valueLabel": "0.75 m³",
+          "href": "/attributes/logistics/volume/0-75-m3/",
+          "valueType": "enum",
+          "numericValue": 0.75,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-79-m3",
+          "valueLabel": "0.79 m³",
+          "href": "/attributes/logistics/volume/0-79-m3/",
+          "valueType": "enum",
+          "numericValue": 0.79,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "1-13-m3",
+          "valueLabel": "1.13 m³",
+          "href": "/attributes/logistics/volume/1-13-m3/",
+          "valueType": "enum",
+          "numericValue": 1.13,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "1-16-m3",
+          "valueLabel": "1.16 m³",
+          "href": "/attributes/logistics/volume/1-16-m3/",
+          "valueType": "enum",
+          "numericValue": 1.16,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "29-5-kg",
+          "valueLabel": "29.5 kg",
+          "href": "/attributes/logistics/weight/29-5-kg/",
+          "valueType": "enum",
+          "numericValue": 29.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "42-kg",
+          "valueLabel": "42 kg",
+          "href": "/attributes/logistics/weight/42-kg/",
+          "valueType": "enum",
+          "numericValue": 42,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "43-5-kg",
+          "valueLabel": "43.5 kg",
+          "href": "/attributes/logistics/weight/43-5-kg/",
+          "valueType": "enum",
+          "numericValue": 43.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "51-4-kg",
+          "valueLabel": "51.4 kg",
+          "href": "/attributes/logistics/weight/51-4-kg/",
+          "valueType": "enum",
+          "numericValue": 51.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "55-1-kg",
+          "valueLabel": "55.1 kg",
+          "href": "/attributes/logistics/weight/55-1-kg/",
+          "valueType": "enum",
+          "numericValue": 55.1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "60-kg",
+          "valueLabel": "60 kg",
+          "href": "/attributes/logistics/weight/60-kg/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "89-kg",
+          "valueLabel": "89 kg",
+          "href": "/attributes/logistics/weight/89-kg/",
+          "valueType": "enum",
+          "numericValue": 89,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "102-kg",
+          "valueLabel": "102 kg",
+          "href": "/attributes/logistics/weight/102-kg/",
+          "valueType": "enum",
+          "numericValue": 102,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "foam-density",
+          "label": "Foam density",
+          "valueKey": "30-kg-m3",
+          "valueLabel": "30 kg/m³",
+          "href": "/attributes/padding/foam-density/30-kg-m3/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg/m³"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "armrest-width",
+          "label": "Armrest width",
+          "valueKey": "26-cm",
+          "valueLabel": "26 cm",
+          "href": "/attributes/seating/armrest-width/26-cm/",
+          "valueType": "enum",
+          "numericValue": 26,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "backrest-height",
+          "label": "Backrest height",
+          "valueKey": "27-cm",
+          "valueLabel": "27 cm",
+          "href": "/attributes/seating/backrest-height/27-cm/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-depth",
+          "label": "Seat depth",
+          "valueKey": "63-cm",
+          "valueLabel": "63 cm",
+          "href": "/attributes/seating/seat-depth/63-cm/",
+          "valueType": "enum",
+          "numericValue": 63,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "44-cm",
+          "valueLabel": "44 cm",
+          "href": "/attributes/seating/seat-height/44-cm/",
+          "valueType": "enum",
+          "numericValue": 44,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-width",
+          "label": "Seat width",
+          "valueKey": "75-cm",
+          "valueLabel": "75 cm",
+          "href": "/attributes/seating/seat-width/75-cm/",
+          "valueType": "enum",
+          "numericValue": 75,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "lightfastness",
+          "label": "Lightfastness",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/lightfastness/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "martindale",
+          "label": "Martindale",
+          "valueKey": "30-000-martindale",
+          "valueLabel": "30,000 Martindale",
+          "href": "/attributes/upholstery/martindale/30-000-martindale/",
+          "valueType": "enum",
+          "numericValue": 30000,
+          "unit": "Martindale"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "martindale",
+          "label": "Martindale",
+          "valueKey": "120-000-martindale",
+          "valueLabel": "120,000 Martindale",
+          "href": "/attributes/upholstery/martindale/120-000-martindale/",
+          "valueType": "enum",
+          "numericValue": 120000,
+          "unit": "Martindale"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "pilling",
+          "label": "Pilling",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/pilling/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Chaise Sofas",
+      "summary": "Chaise sofas.",
+      "variantCount": 12,
+      "categoryLabel": "Chaise Sofas",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": ""
+    }
+  },
+  {
+    "name": "corner-sofas",
+    "href": "/products/corner-sofas/",
+    "type": "dir",
+    "title": "Corner Sofas",
+    "summary": "Corner sofas.",
+    "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+    "filterData": {
+      "searchText": "Corner Sofas Corner sofas. Corner Sofas Living room Living room Corner Sofas Cloud Haave Lugo Westcoast Beige Brown Green Grey Foam Furniture board HDF Metal Particle board Plastic Plywood Polyester Solid wood Wood Care Cleaning method Wash 30°C Care Removable covers No Care Removable covers Yes Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Configuration Leg height 5 cm cm Dimensions Depth 200 cm cm Dimensions Depth 205 cm cm Dimensions Depth 210 cm cm Dimensions Depth 241 cm cm Dimensions Height 70 cm cm Dimensions Height 80 cm cm Dimensions Height 83 cm cm Dimensions Height 85 cm cm Dimensions Width 245 cm cm Dimensions Width 258 cm cm Dimensions Width 271 cm cm Dimensions Width 293 cm cm Dimensions Width 295 cm cm Dimensions Width 313 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.64 m³ m³ Logistics Volume 0.68 m³ m³ Logistics Volume 0.73 m³ m³ Logistics Volume 0.79 m³ m³ Logistics Volume 0.82 m³ m³ Logistics Volume 0.85 m³ m³ Logistics Volume 0.97 m³ m³ Logistics Volume 0.98 m³ m³ Logistics Volume 1.05 m³ m³ Logistics Volume 1.16 m³ m³ Logistics Volume 1.41 m³ m³ Logistics Weight 27 kg kg Logistics Weight 32 kg kg Logistics Weight 33 kg kg Logistics Weight 41 kg kg Logistics Weight 45.3 kg kg Logistics Weight 50 kg kg Logistics Weight 54 kg kg Logistics Weight 60 kg kg Logistics Weight 60.2 kg kg Logistics Weight 61 kg kg Logistics Weight 96.4 kg kg Logistics Weight 97 kg kg Logistics Weight 110 kg kg Logistics Weight 115 kg kg Logistics Weight 120 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Backrest height 68 cm cm Seating Seat depth 60 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat height 48 cm cm Seating Seat width 75 cm cm Seating Seat width 85 cm cm Setup Assembly time 0 min min Setup Assembly time 15 min min Setup Assembly time 30 min min Setup Assembly time 45 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Martindale 40,000 Martindale Martindale Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 3.5 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Quality guarantee 4000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "corner-sofas",
+          "label": "Corner Sofas",
+          "href": "/products/corner-sofas/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "cloud",
+          "label": "Cloud",
+          "href": "/families/cloud/"
+        },
+        {
+          "key": "haave",
+          "label": "Haave",
+          "href": "/families/haave/"
+        },
+        {
+          "key": "lugo",
+          "label": "Lugo",
+          "href": "/families/lugo/"
+        },
+        {
+          "key": "westcoast",
+          "label": "Westcoast",
+          "href": "/families/westcoast/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        },
+        {
+          "key": "green",
+          "label": "Green",
+          "href": "/colors/green/"
+        },
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "furniture-board",
+          "label": "Furniture board",
+          "href": "/materials/furniture-board/"
+        },
+        {
+          "key": "hdf",
+          "label": "HDF",
+          "href": "/materials/hdf/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "particle-board",
+          "label": "Particle board",
+          "href": "/materials/particle-board/"
+        },
+        {
+          "key": "plastic",
+          "label": "Plastic",
+          "href": "/materials/plastic/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        },
+        {
+          "key": "solid-wood",
+          "label": "Solid wood",
+          "href": "/materials/solid-wood/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "wash-30c",
+          "valueLabel": "Wash 30°C",
+          "href": "/attributes/care/cleaning-method/wash-30c/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "removable-covers",
+          "label": "Removable covers",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/care/removable-covers/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "removable-covers",
+          "label": "Removable covers",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/care/removable-covers/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "configuration",
+          "groupLabel": "Configuration",
+          "key": "handedness-configuration",
+          "label": "Handedness configuration",
+          "valueKey": "fixed",
+          "valueLabel": "Fixed",
+          "href": "/attributes/configuration/handedness-configuration/fixed/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "configuration",
+          "groupLabel": "Configuration",
+          "key": "leg-height",
+          "label": "Leg height",
+          "valueKey": "0-6-cm",
+          "valueLabel": "0.6 cm",
+          "href": "/attributes/configuration/leg-height/0-6-cm/",
+          "valueType": "enum",
+          "numericValue": 0.6,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "configuration",
+          "groupLabel": "Configuration",
+          "key": "leg-height",
+          "label": "Leg height",
+          "valueKey": "5-cm",
+          "valueLabel": "5 cm",
+          "href": "/attributes/configuration/leg-height/5-cm/",
+          "valueType": "enum",
+          "numericValue": 5,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "205-cm",
+          "valueLabel": "205 cm",
+          "href": "/attributes/dimensions/depth/205-cm/",
+          "valueType": "enum",
+          "numericValue": 205,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "210-cm",
+          "valueLabel": "210 cm",
+          "href": "/attributes/dimensions/depth/210-cm/",
+          "valueType": "enum",
+          "numericValue": 210,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "241-cm",
+          "valueLabel": "241 cm",
+          "href": "/attributes/dimensions/depth/241-cm/",
+          "valueType": "enum",
+          "numericValue": 241,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "70-cm",
+          "valueLabel": "70 cm",
+          "href": "/attributes/dimensions/height/70-cm/",
+          "valueType": "enum",
+          "numericValue": 70,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/height/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "83-cm",
+          "valueLabel": "83 cm",
+          "href": "/attributes/dimensions/height/83-cm/",
+          "valueType": "enum",
+          "numericValue": 83,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "85-cm",
+          "valueLabel": "85 cm",
+          "href": "/attributes/dimensions/height/85-cm/",
+          "valueType": "enum",
+          "numericValue": 85,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "245-cm",
+          "valueLabel": "245 cm",
+          "href": "/attributes/dimensions/width/245-cm/",
+          "valueType": "enum",
+          "numericValue": 245,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "258-cm",
+          "valueLabel": "258 cm",
+          "href": "/attributes/dimensions/width/258-cm/",
+          "valueType": "enum",
+          "numericValue": 258,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "271-cm",
+          "valueLabel": "271 cm",
+          "href": "/attributes/dimensions/width/271-cm/",
+          "valueType": "enum",
+          "numericValue": 271,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "293-cm",
+          "valueLabel": "293 cm",
+          "href": "/attributes/dimensions/width/293-cm/",
+          "valueType": "enum",
+          "numericValue": 293,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "295-cm",
+          "valueLabel": "295 cm",
+          "href": "/attributes/dimensions/width/295-cm/",
+          "valueType": "enum",
+          "numericValue": 295,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "313-cm",
+          "valueLabel": "313 cm",
+          "href": "/attributes/dimensions/width/313-cm/",
+          "valueType": "enum",
+          "numericValue": 313,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-64-m3",
+          "valueLabel": "0.64 m³",
+          "href": "/attributes/logistics/volume/0-64-m3/",
+          "valueType": "enum",
+          "numericValue": 0.64,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-68-m3",
+          "valueLabel": "0.68 m³",
+          "href": "/attributes/logistics/volume/0-68-m3/",
+          "valueType": "enum",
+          "numericValue": 0.68,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-73-m3",
+          "valueLabel": "0.73 m³",
+          "href": "/attributes/logistics/volume/0-73-m3/",
+          "valueType": "enum",
+          "numericValue": 0.73,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-79-m3",
+          "valueLabel": "0.79 m³",
+          "href": "/attributes/logistics/volume/0-79-m3/",
+          "valueType": "enum",
+          "numericValue": 0.79,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-82-m3",
+          "valueLabel": "0.82 m³",
+          "href": "/attributes/logistics/volume/0-82-m3/",
+          "valueType": "enum",
+          "numericValue": 0.82,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-85-m3",
+          "valueLabel": "0.85 m³",
+          "href": "/attributes/logistics/volume/0-85-m3/",
+          "valueType": "enum",
+          "numericValue": 0.85,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-97-m3",
+          "valueLabel": "0.97 m³",
+          "href": "/attributes/logistics/volume/0-97-m3/",
+          "valueType": "enum",
+          "numericValue": 0.97,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-98-m3",
+          "valueLabel": "0.98 m³",
+          "href": "/attributes/logistics/volume/0-98-m3/",
+          "valueType": "enum",
+          "numericValue": 0.98,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "1-05-m3",
+          "valueLabel": "1.05 m³",
+          "href": "/attributes/logistics/volume/1-05-m3/",
+          "valueType": "enum",
+          "numericValue": 1.05,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "1-16-m3",
+          "valueLabel": "1.16 m³",
+          "href": "/attributes/logistics/volume/1-16-m3/",
+          "valueType": "enum",
+          "numericValue": 1.16,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "1-41-m3",
+          "valueLabel": "1.41 m³",
+          "href": "/attributes/logistics/volume/1-41-m3/",
+          "valueType": "enum",
+          "numericValue": 1.41,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "32-kg",
+          "valueLabel": "32 kg",
+          "href": "/attributes/logistics/weight/32-kg/",
+          "valueType": "enum",
+          "numericValue": 32,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "33-kg",
+          "valueLabel": "33 kg",
+          "href": "/attributes/logistics/weight/33-kg/",
+          "valueType": "enum",
+          "numericValue": 33,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "41-kg",
+          "valueLabel": "41 kg",
+          "href": "/attributes/logistics/weight/41-kg/",
+          "valueType": "enum",
+          "numericValue": 41,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "45-3-kg",
+          "valueLabel": "45.3 kg",
+          "href": "/attributes/logistics/weight/45-3-kg/",
+          "valueType": "enum",
+          "numericValue": 45.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "50-kg",
+          "valueLabel": "50 kg",
+          "href": "/attributes/logistics/weight/50-kg/",
+          "valueType": "enum",
+          "numericValue": 50,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "54-kg",
+          "valueLabel": "54 kg",
+          "href": "/attributes/logistics/weight/54-kg/",
+          "valueType": "enum",
+          "numericValue": 54,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "60-kg",
+          "valueLabel": "60 kg",
+          "href": "/attributes/logistics/weight/60-kg/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "60-2-kg",
+          "valueLabel": "60.2 kg",
+          "href": "/attributes/logistics/weight/60-2-kg/",
+          "valueType": "enum",
+          "numericValue": 60.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "61-kg",
+          "valueLabel": "61 kg",
+          "href": "/attributes/logistics/weight/61-kg/",
+          "valueType": "enum",
+          "numericValue": 61,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "96-4-kg",
+          "valueLabel": "96.4 kg",
+          "href": "/attributes/logistics/weight/96-4-kg/",
+          "valueType": "enum",
+          "numericValue": 96.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "97-kg",
+          "valueLabel": "97 kg",
+          "href": "/attributes/logistics/weight/97-kg/",
+          "valueType": "enum",
+          "numericValue": 97,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "110-kg",
+          "valueLabel": "110 kg",
+          "href": "/attributes/logistics/weight/110-kg/",
+          "valueType": "enum",
+          "numericValue": 110,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "115-kg",
+          "valueLabel": "115 kg",
+          "href": "/attributes/logistics/weight/115-kg/",
+          "valueType": "enum",
+          "numericValue": 115,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "120-kg",
+          "valueLabel": "120 kg",
+          "href": "/attributes/logistics/weight/120-kg/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "foam-density",
+          "label": "Foam density",
+          "valueKey": "30-kg-m3",
+          "valueLabel": "30 kg/m³",
+          "href": "/attributes/padding/foam-density/30-kg-m3/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg/m³"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "armrest-width",
+          "label": "Armrest width",
+          "valueKey": "26-cm",
+          "valueLabel": "26 cm",
+          "href": "/attributes/seating/armrest-width/26-cm/",
+          "valueType": "enum",
+          "numericValue": 26,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "backrest-height",
+          "label": "Backrest height",
+          "valueKey": "27-cm",
+          "valueLabel": "27 cm",
+          "href": "/attributes/seating/backrest-height/27-cm/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "backrest-height",
+          "label": "Backrest height",
+          "valueKey": "68-cm",
+          "valueLabel": "68 cm",
+          "href": "/attributes/seating/backrest-height/68-cm/",
+          "valueType": "enum",
+          "numericValue": 68,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-depth",
+          "label": "Seat depth",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/seating/seat-depth/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-depth",
+          "label": "Seat depth",
+          "valueKey": "63-cm",
+          "valueLabel": "63 cm",
+          "href": "/attributes/seating/seat-depth/63-cm/",
+          "valueType": "enum",
+          "numericValue": 63,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "44-cm",
+          "valueLabel": "44 cm",
+          "href": "/attributes/seating/seat-height/44-cm/",
+          "valueType": "enum",
+          "numericValue": 44,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "48-cm",
+          "valueLabel": "48 cm",
+          "href": "/attributes/seating/seat-height/48-cm/",
+          "valueType": "enum",
+          "numericValue": 48,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-width",
+          "label": "Seat width",
+          "valueKey": "75-cm",
+          "valueLabel": "75 cm",
+          "href": "/attributes/seating/seat-width/75-cm/",
+          "valueType": "enum",
+          "numericValue": 75,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-width",
+          "label": "Seat width",
+          "valueKey": "85-cm",
+          "valueLabel": "85 cm",
+          "href": "/attributes/seating/seat-width/85-cm/",
+          "valueType": "enum",
+          "numericValue": 85,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "45-min",
+          "valueLabel": "45 min",
+          "href": "/attributes/setup/assembly-time/45-min/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "min"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "lightfastness",
+          "label": "Lightfastness",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/lightfastness/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "martindale",
+          "label": "Martindale",
+          "valueKey": "30-000-martindale",
+          "valueLabel": "30,000 Martindale",
+          "href": "/attributes/upholstery/martindale/30-000-martindale/",
+          "valueType": "enum",
+          "numericValue": 30000,
+          "unit": "Martindale"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "martindale",
+          "label": "Martindale",
+          "valueKey": "40-000-martindale",
+          "valueLabel": "40,000 Martindale",
+          "href": "/attributes/upholstery/martindale/40-000-martindale/",
+          "valueType": "enum",
+          "numericValue": 40000,
+          "unit": "Martindale"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "martindale",
+          "label": "Martindale",
+          "valueKey": "120-000-martindale",
+          "valueLabel": "120,000 Martindale",
+          "href": "/attributes/upholstery/martindale/120-000-martindale/",
+          "valueType": "enum",
+          "numericValue": 120000,
+          "unit": "Martindale"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "pilling",
+          "label": "Pilling",
+          "valueKey": "3-5",
+          "valueLabel": "3.5",
+          "href": "/attributes/upholstery/pilling/3-5/",
+          "valueType": "enum",
+          "numericValue": 3.5,
+          "unit": ""
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "pilling",
+          "label": "Pilling",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/pilling/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Corner Sofas",
+      "summary": "Corner sofas.",
+      "variantCount": 26,
+      "categoryLabel": "Corner Sofas",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": ""
+    }
+  },
+  {
+    "name": "armchairs",
+    "href": "/products/armchairs/",
+    "type": "dir",
+    "title": "Armchairs",
+    "summary": "Armchairs for living room navigation.",
+    "primaryImageUrl": "/products/armchairs/dove/198105_1.avif",
+    "filterData": {
+      "searchText": "Armchairs Armchairs for living room navigation. Armchairs Living room Living room Armchairs Dove Eagle Voyage Beige Black Brown Green White Fabric Faux leather Feather Foam Oak Plastic Plywood Solid wood Wood Care Cleaning method Water wash Care Removable covers Yes Dimensions Depth 72 cm cm Dimensions Depth 88 cm cm Dimensions Depth 97 cm cm Dimensions Height 71 cm cm Dimensions Height 88 cm cm Dimensions Height 95 cm cm Dimensions Width 65 cm cm Dimensions Width 75 cm cm Dimensions Width 90 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Volume 0.36 m³ m³ Logistics Volume 0.41 m³ m³ Logistics Weight 11 kg kg Logistics Weight 15.5 kg kg Logistics Weight 16.5 kg kg Logistics Weight 17 kg kg Logistics Weight 30 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 15 min min Setup Assembly time 30 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "armchairs",
+          "label": "Armchairs",
+          "href": "/products/armchairs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "dove",
+          "label": "Dove",
+          "href": "/families/dove/"
+        },
+        {
+          "key": "eagle",
+          "label": "Eagle",
+          "href": "/families/eagle/"
+        },
+        {
+          "key": "voyage",
+          "label": "Voyage",
+          "href": "/families/voyage/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        },
+        {
+          "key": "green",
+          "label": "Green",
+          "href": "/colors/green/"
+        },
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "faux-leather",
+          "label": "Faux leather",
+          "href": "/materials/faux-leather/"
+        },
+        {
+          "key": "feather",
+          "label": "Feather",
+          "href": "/materials/feather/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "oak",
+          "label": "Oak",
+          "href": "/materials/oak/"
+        },
+        {
+          "key": "plastic",
+          "label": "Plastic",
+          "href": "/materials/plastic/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "solid-wood",
+          "label": "Solid wood",
+          "href": "/materials/solid-wood/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "water-wash",
+          "valueLabel": "Water wash",
+          "href": "/attributes/care/cleaning-method/water-wash/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "removable-covers",
+          "label": "Removable covers",
+          "valueKey": "yes",
+          "valueLabel": "Yes",
+          "href": "/attributes/care/removable-covers/yes/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "72-cm",
+          "valueLabel": "72 cm",
+          "href": "/attributes/dimensions/depth/72-cm/",
+          "valueType": "enum",
+          "numericValue": 72,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "88-cm",
+          "valueLabel": "88 cm",
+          "href": "/attributes/dimensions/depth/88-cm/",
+          "valueType": "enum",
+          "numericValue": 88,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "97-cm",
+          "valueLabel": "97 cm",
+          "href": "/attributes/dimensions/depth/97-cm/",
+          "valueType": "enum",
+          "numericValue": 97,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "71-cm",
+          "valueLabel": "71 cm",
+          "href": "/attributes/dimensions/height/71-cm/",
+          "valueType": "enum",
+          "numericValue": 71,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "88-cm",
+          "valueLabel": "88 cm",
+          "href": "/attributes/dimensions/height/88-cm/",
+          "valueType": "enum",
+          "numericValue": 88,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "95-cm",
+          "valueLabel": "95 cm",
+          "href": "/attributes/dimensions/height/95-cm/",
+          "valueType": "enum",
+          "numericValue": 95,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "65-cm",
+          "valueLabel": "65 cm",
+          "href": "/attributes/dimensions/width/65-cm/",
+          "valueType": "enum",
+          "numericValue": 65,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "75-cm",
+          "valueLabel": "75 cm",
+          "href": "/attributes/dimensions/width/75-cm/",
+          "valueType": "enum",
+          "numericValue": 75,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "90-cm",
+          "valueLabel": "90 cm",
+          "href": "/attributes/dimensions/width/90-cm/",
+          "valueType": "enum",
+          "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "load",
+          "groupLabel": "Load",
+          "key": "maximum-load",
+          "label": "Maximum load",
+          "valueKey": "110-kg",
+          "valueLabel": "110 kg",
+          "href": "/attributes/load/maximum-load/110-kg/",
+          "valueType": "enum",
+          "numericValue": 110,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-21-m3",
+          "valueLabel": "0.21 m³",
+          "href": "/attributes/logistics/volume/0-21-m3/",
+          "valueType": "enum",
+          "numericValue": 0.21,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-36-m3",
+          "valueLabel": "0.36 m³",
+          "href": "/attributes/logistics/volume/0-36-m3/",
+          "valueType": "enum",
+          "numericValue": 0.36,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-41-m3",
+          "valueLabel": "0.41 m³",
+          "href": "/attributes/logistics/volume/0-41-m3/",
+          "valueType": "enum",
+          "numericValue": 0.41,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "11-kg",
+          "valueLabel": "11 kg",
+          "href": "/attributes/logistics/weight/11-kg/",
+          "valueType": "enum",
+          "numericValue": 11,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "15-5-kg",
+          "valueLabel": "15.5 kg",
+          "href": "/attributes/logistics/weight/15-5-kg/",
+          "valueType": "enum",
+          "numericValue": 15.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "16-5-kg",
+          "valueLabel": "16.5 kg",
+          "href": "/attributes/logistics/weight/16-5-kg/",
+          "valueType": "enum",
+          "numericValue": 16.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "foam-density",
+          "label": "Foam density",
+          "valueKey": "30-kg-m3",
+          "valueLabel": "30 kg/m³",
+          "href": "/attributes/padding/foam-density/30-kg-m3/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg/m³"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Armchairs",
+      "summary": "Armchairs for living room navigation.",
+      "variantCount": 6,
+      "categoryLabel": "Armchairs",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": ""
+    }
+  },
+  {
+    "name": "swivel-chairs",
+    "href": "/products/swivel-chairs/",
+    "type": "dir",
+    "title": "Swivel Chairs",
+    "summary": "Swivel chairs and recliner-style seating.",
+    "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+    "filterData": {
+      "searchText": "Swivel Chairs Swivel chairs and recliner-style seating. Swivel Chairs Living room Living room Swivel Chairs Bay Blow Breeze Wind Beige Black Brown Grey Fabric Foam Metal Polyester Steel Care Cleaning method Dry clean Care Removable covers No Dimensions Depth 81 cm cm Dimensions Depth 83 cm cm Dimensions Depth 85 cm cm Dimensions Depth 86 cm cm Dimensions Height 75 cm cm Dimensions Height 96 cm cm Dimensions Height 102 cm cm Dimensions Height 108 cm cm Dimensions Ottoman depth 36 cm cm Dimensions Ottoman depth 42 cm cm Dimensions Ottoman height 37 cm cm Dimensions Ottoman height 38 cm cm Dimensions Ottoman width 46 cm cm Dimensions Ottoman width 49 cm cm Dimensions Width 74 cm cm Dimensions Width 76 cm cm Dimensions Width 77 cm cm Dimensions Width 78 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Volume 0.43 m³ m³ Logistics Volume 0.44 m³ m³ Logistics Weight 13.5 kg kg Logistics Weight 14 kg kg Logistics Weight 19 kg kg Logistics Weight 19.5 kg kg Logistics Weight 20 kg kg Logistics Weight 24 kg kg Padding Foam density 25 kg/m³ kg/m³ Padding Foam density 28 kg/m³ kg/m³ Padding Foam density 35 kg/m³ kg/m³ Seating Seat count 1 seat seat Seating Seat height 40 cm cm Seating Seat height 44 cm cm Seating Seat height 47 cm cm Setup Assembly time 15 min min Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Lightfastness 5 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "swivel-chairs",
+          "label": "Swivel Chairs",
+          "href": "/products/swivel-chairs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "bay",
+          "label": "Bay",
+          "href": "/families/bay/"
+        },
+        {
+          "key": "blow",
+          "label": "Blow",
+          "href": "/families/blow/"
+        },
+        {
+          "key": "breeze",
+          "label": "Breeze",
+          "href": "/families/breeze/"
+        },
+        {
+          "key": "wind",
+          "label": "Wind",
+          "href": "/families/wind/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        },
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        },
+        {
+          "key": "steel",
+          "label": "Steel",
+          "href": "/materials/steel/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "cleaning-method",
+          "label": "Cleaning method",
+          "valueKey": "dry-clean",
+          "valueLabel": "Dry clean",
+          "href": "/attributes/care/cleaning-method/dry-clean/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "care",
+          "groupLabel": "Care",
+          "key": "removable-covers",
+          "label": "Removable covers",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/care/removable-covers/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "81-cm",
+          "valueLabel": "81 cm",
+          "href": "/attributes/dimensions/depth/81-cm/",
+          "valueType": "enum",
+          "numericValue": 81,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "83-cm",
+          "valueLabel": "83 cm",
+          "href": "/attributes/dimensions/depth/83-cm/",
+          "valueType": "enum",
+          "numericValue": 83,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "85-cm",
+          "valueLabel": "85 cm",
+          "href": "/attributes/dimensions/depth/85-cm/",
+          "valueType": "enum",
+          "numericValue": 85,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "86-cm",
+          "valueLabel": "86 cm",
+          "href": "/attributes/dimensions/depth/86-cm/",
+          "valueType": "enum",
+          "numericValue": 86,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "75-cm",
+          "valueLabel": "75 cm",
+          "href": "/attributes/dimensions/height/75-cm/",
+          "valueType": "enum",
+          "numericValue": 75,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "96-cm",
+          "valueLabel": "96 cm",
+          "href": "/attributes/dimensions/height/96-cm/",
+          "valueType": "enum",
+          "numericValue": 96,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "102-cm",
+          "valueLabel": "102 cm",
+          "href": "/attributes/dimensions/height/102-cm/",
+          "valueType": "enum",
+          "numericValue": 102,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "108-cm",
+          "valueLabel": "108 cm",
+          "href": "/attributes/dimensions/height/108-cm/",
+          "valueType": "enum",
+          "numericValue": 108,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "ottoman-depth",
+          "label": "Ottoman depth",
+          "valueKey": "36-cm",
+          "valueLabel": "36 cm",
+          "href": "/attributes/dimensions/ottoman-depth/36-cm/",
+          "valueType": "enum",
+          "numericValue": 36,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "ottoman-depth",
+          "label": "Ottoman depth",
+          "valueKey": "42-cm",
+          "valueLabel": "42 cm",
+          "href": "/attributes/dimensions/ottoman-depth/42-cm/",
+          "valueType": "enum",
+          "numericValue": 42,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "ottoman-height",
+          "label": "Ottoman height",
+          "valueKey": "37-cm",
+          "valueLabel": "37 cm",
+          "href": "/attributes/dimensions/ottoman-height/37-cm/",
+          "valueType": "enum",
+          "numericValue": 37,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "ottoman-height",
+          "label": "Ottoman height",
+          "valueKey": "38-cm",
+          "valueLabel": "38 cm",
+          "href": "/attributes/dimensions/ottoman-height/38-cm/",
+          "valueType": "enum",
+          "numericValue": 38,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "ottoman-width",
+          "label": "Ottoman width",
+          "valueKey": "46-cm",
+          "valueLabel": "46 cm",
+          "href": "/attributes/dimensions/ottoman-width/46-cm/",
+          "valueType": "enum",
+          "numericValue": 46,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "ottoman-width",
+          "label": "Ottoman width",
+          "valueKey": "49-cm",
+          "valueLabel": "49 cm",
+          "href": "/attributes/dimensions/ottoman-width/49-cm/",
+          "valueType": "enum",
+          "numericValue": 49,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "74-cm",
+          "valueLabel": "74 cm",
+          "href": "/attributes/dimensions/width/74-cm/",
+          "valueType": "enum",
+          "numericValue": 74,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "76-cm",
+          "valueLabel": "76 cm",
+          "href": "/attributes/dimensions/width/76-cm/",
+          "valueType": "enum",
+          "numericValue": 76,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "77-cm",
+          "valueLabel": "77 cm",
+          "href": "/attributes/dimensions/width/77-cm/",
+          "valueType": "enum",
+          "numericValue": 77,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "78-cm",
+          "valueLabel": "78 cm",
+          "href": "/attributes/dimensions/width/78-cm/",
+          "valueType": "enum",
+          "numericValue": 78,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "load",
+          "groupLabel": "Load",
+          "key": "maximum-load",
+          "label": "Maximum load",
+          "valueKey": "120-kg",
+          "valueLabel": "120 kg",
+          "href": "/attributes/load/maximum-load/120-kg/",
+          "valueType": "enum",
+          "numericValue": 120,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-35-m3",
+          "valueLabel": "0.35 m³",
+          "href": "/attributes/logistics/volume/0-35-m3/",
+          "valueType": "enum",
+          "numericValue": 0.35,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-43-m3",
+          "valueLabel": "0.43 m³",
+          "href": "/attributes/logistics/volume/0-43-m3/",
+          "valueType": "enum",
+          "numericValue": 0.43,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-44-m3",
+          "valueLabel": "0.44 m³",
+          "href": "/attributes/logistics/volume/0-44-m3/",
+          "valueType": "enum",
+          "numericValue": 0.44,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "13-5-kg",
+          "valueLabel": "13.5 kg",
+          "href": "/attributes/logistics/weight/13-5-kg/",
+          "valueType": "enum",
+          "numericValue": 13.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "14-kg",
+          "valueLabel": "14 kg",
+          "href": "/attributes/logistics/weight/14-kg/",
+          "valueType": "enum",
+          "numericValue": 14,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "19-kg",
+          "valueLabel": "19 kg",
+          "href": "/attributes/logistics/weight/19-kg/",
+          "valueType": "enum",
+          "numericValue": 19,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "19-5-kg",
+          "valueLabel": "19.5 kg",
+          "href": "/attributes/logistics/weight/19-5-kg/",
+          "valueType": "enum",
+          "numericValue": 19.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "24-kg",
+          "valueLabel": "24 kg",
+          "href": "/attributes/logistics/weight/24-kg/",
+          "valueType": "enum",
+          "numericValue": 24,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "foam-density",
+          "label": "Foam density",
+          "valueKey": "25-kg-m3",
+          "valueLabel": "25 kg/m³",
+          "href": "/attributes/padding/foam-density/25-kg-m3/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg/m³"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "foam-density",
+          "label": "Foam density",
+          "valueKey": "28-kg-m3",
+          "valueLabel": "28 kg/m³",
+          "href": "/attributes/padding/foam-density/28-kg-m3/",
+          "valueType": "enum",
+          "numericValue": 28,
+          "unit": "kg/m³"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "foam-density",
+          "label": "Foam density",
+          "valueKey": "35-kg-m3",
+          "valueLabel": "35 kg/m³",
+          "href": "/attributes/padding/foam-density/35-kg-m3/",
+          "valueType": "enum",
+          "numericValue": 35,
+          "unit": "kg/m³"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-count",
+          "label": "Seat count",
+          "valueKey": "1-seat",
+          "valueLabel": "1 seat",
+          "href": "/attributes/seating/seat-count/1-seat/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "seat"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/seating/seat-height/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "44-cm",
+          "valueLabel": "44 cm",
+          "href": "/attributes/seating/seat-height/44-cm/",
+          "valueType": "enum",
+          "numericValue": 44,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "47-cm",
+          "valueLabel": "47 cm",
+          "href": "/attributes/seating/seat-height/47-cm/",
+          "valueType": "enum",
+          "numericValue": 47,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "lightfastness",
+          "label": "Lightfastness",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/lightfastness/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "lightfastness",
+          "label": "Lightfastness",
+          "valueKey": "5",
+          "valueLabel": "5",
+          "href": "/attributes/upholstery/lightfastness/5/",
+          "valueType": "enum",
+          "numericValue": 5,
+          "unit": ""
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "pilling",
+          "label": "Pilling",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/pilling/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Swivel Chairs",
+      "summary": "Swivel chairs and recliner-style seating.",
+      "variantCount": 7,
+      "categoryLabel": "Swivel Chairs",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": ""
+    }
+  },
+  {
+    "name": "footstools",
+    "href": "/products/footstools/",
+    "type": "dir",
+    "title": "Footstools",
+    "summary": "Footstools and ottomans.",
+    "primaryImageUrl": "/products/footstools/haley/202842_1.avif",
+    "filterData": {
+      "searchText": "Footstools Footstools and ottomans. Footstools Living room Living room Footstools Haley Lugo Westcoast Beige Brown Green Grey Fabric Foam Metal Particle board Plastic Plywood Polyester Solid wood Configuration Leg height 0.6 cm cm Dimensions Depth 57 cm cm Dimensions Depth 60 cm cm Dimensions Depth 66 cm cm Dimensions Height 38 cm cm Dimensions Height 44 cm cm Dimensions Height 45 cm cm Dimensions Width 57 cm cm Dimensions Width 78 cm cm Dimensions Width 92 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.14 m³ m³ Logistics Volume 0.16 m³ m³ Logistics Volume 0.21 m³ m³ Logistics Volume 0.28 m³ m³ Logistics Weight 6 kg kg Logistics Weight 6.5 kg kg Logistics Weight 12 kg kg Logistics Weight 17.6 kg kg Logistics Weight 20 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Seat depth 66 cm cm Seating Seat height 44 cm cm Seating Seat width 92 cm cm Setup Assembly time 0 min min Setup Assembly time 10 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "footstools",
+          "label": "Footstools",
+          "href": "/products/footstools/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "haley",
+          "label": "Haley",
+          "href": "/families/haley/"
+        },
+        {
+          "key": "lugo",
+          "label": "Lugo",
+          "href": "/families/lugo/"
+        },
+        {
+          "key": "westcoast",
+          "label": "Westcoast",
+          "href": "/families/westcoast/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        },
+        {
+          "key": "green",
+          "label": "Green",
+          "href": "/colors/green/"
+        },
+        {
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "particle-board",
+          "label": "Particle board",
+          "href": "/materials/particle-board/"
+        },
+        {
+          "key": "plastic",
+          "label": "Plastic",
+          "href": "/materials/plastic/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        },
+        {
+          "key": "solid-wood",
+          "label": "Solid wood",
+          "href": "/materials/solid-wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "configuration",
+          "groupLabel": "Configuration",
+          "key": "leg-height",
+          "label": "Leg height",
+          "valueKey": "0-6-cm",
+          "valueLabel": "0.6 cm",
+          "href": "/attributes/configuration/leg-height/0-6-cm/",
+          "valueType": "enum",
+          "numericValue": 0.6,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "57-cm",
+          "valueLabel": "57 cm",
+          "href": "/attributes/dimensions/depth/57-cm/",
+          "valueType": "enum",
+          "numericValue": 57,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/depth/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "66-cm",
+          "valueLabel": "66 cm",
+          "href": "/attributes/dimensions/depth/66-cm/",
+          "valueType": "enum",
+          "numericValue": 66,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "38-cm",
+          "valueLabel": "38 cm",
+          "href": "/attributes/dimensions/height/38-cm/",
+          "valueType": "enum",
+          "numericValue": 38,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "44-cm",
+          "valueLabel": "44 cm",
+          "href": "/attributes/dimensions/height/44-cm/",
+          "valueType": "enum",
+          "numericValue": 44,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/height/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "57-cm",
+          "valueLabel": "57 cm",
+          "href": "/attributes/dimensions/width/57-cm/",
+          "valueType": "enum",
+          "numericValue": 57,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "78-cm",
+          "valueLabel": "78 cm",
+          "href": "/attributes/dimensions/width/78-cm/",
+          "valueType": "enum",
+          "numericValue": 78,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "92-cm",
+          "valueLabel": "92 cm",
+          "href": "/attributes/dimensions/width/92-cm/",
+          "valueType": "enum",
+          "numericValue": 92,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-14-m3",
+          "valueLabel": "0.14 m³",
+          "href": "/attributes/logistics/volume/0-14-m3/",
+          "valueType": "enum",
+          "numericValue": 0.14,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-16-m3",
+          "valueLabel": "0.16 m³",
+          "href": "/attributes/logistics/volume/0-16-m3/",
+          "valueType": "enum",
+          "numericValue": 0.16,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-21-m3",
+          "valueLabel": "0.21 m³",
+          "href": "/attributes/logistics/volume/0-21-m3/",
+          "valueType": "enum",
+          "numericValue": 0.21,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-28-m3",
+          "valueLabel": "0.28 m³",
+          "href": "/attributes/logistics/volume/0-28-m3/",
+          "valueType": "enum",
+          "numericValue": 0.28,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "6-kg",
+          "valueLabel": "6 kg",
+          "href": "/attributes/logistics/weight/6-kg/",
+          "valueType": "enum",
+          "numericValue": 6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "6-5-kg",
+          "valueLabel": "6.5 kg",
+          "href": "/attributes/logistics/weight/6-5-kg/",
+          "valueType": "enum",
+          "numericValue": 6.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "12-kg",
+          "valueLabel": "12 kg",
+          "href": "/attributes/logistics/weight/12-kg/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "17-6-kg",
+          "valueLabel": "17.6 kg",
+          "href": "/attributes/logistics/weight/17-6-kg/",
+          "valueType": "enum",
+          "numericValue": 17.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "foam-density",
+          "label": "Foam density",
+          "valueKey": "30-kg-m3",
+          "valueLabel": "30 kg/m³",
+          "href": "/attributes/padding/foam-density/30-kg-m3/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg/m³"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-depth",
+          "label": "Seat depth",
+          "valueKey": "66-cm",
+          "valueLabel": "66 cm",
+          "href": "/attributes/seating/seat-depth/66-cm/",
+          "valueType": "enum",
+          "numericValue": 66,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "44-cm",
+          "valueLabel": "44 cm",
+          "href": "/attributes/seating/seat-height/44-cm/",
+          "valueType": "enum",
+          "numericValue": 44,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-width",
+          "label": "Seat width",
+          "valueKey": "92-cm",
+          "valueLabel": "92 cm",
+          "href": "/attributes/seating/seat-width/92-cm/",
+          "valueType": "enum",
+          "numericValue": 92,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "10-min",
+          "valueLabel": "10 min",
+          "href": "/attributes/setup/assembly-time/10-min/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "min"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "lightfastness",
+          "label": "Lightfastness",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/lightfastness/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "martindale",
+          "label": "Martindale",
+          "valueKey": "30-000-martindale",
+          "valueLabel": "30,000 Martindale",
+          "href": "/attributes/upholstery/martindale/30-000-martindale/",
+          "valueType": "enum",
+          "numericValue": 30000,
+          "unit": "Martindale"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "martindale",
+          "label": "Martindale",
+          "valueKey": "120-000-martindale",
+          "valueLabel": "120,000 Martindale",
+          "href": "/attributes/upholstery/martindale/120-000-martindale/",
+          "valueType": "enum",
+          "numericValue": 120000,
+          "unit": "Martindale"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "pilling",
+          "label": "Pilling",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/pilling/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Footstools",
+      "summary": "Footstools and ottomans.",
+      "variantCount": 9,
+      "categoryLabel": "Footstools",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": ""
+    }
+  },
+  {
+    "name": "coffee-tables",
+    "href": "/products/coffee-tables/",
+    "type": "dir",
+    "title": "Coffee Tables",
+    "summary": "Coffee tables for living room layouts.",
+    "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
+    "filterData": {
+      "searchText": "Coffee Tables Coffee tables for living room layouts. Coffee Tables Living room Living room Coffee Tables Island Islet Reef Beige Brown MDF Paper Dimensions Depth 60 cm cm Dimensions Depth 80 cm cm Dimensions Height 40 cm cm Dimensions Height 45 cm cm Dimensions Smaller table depth 40 cm cm Dimensions Smaller table height 33 cm cm Dimensions Smaller table width 60 cm cm Dimensions Width 60 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.08 m³ m³ Logistics Volume 0.24 m³ m³ Logistics Volume 0.29 m³ m³ Logistics Weight 9 kg kg Logistics Weight 14 kg kg Logistics Weight 21 kg kg Logistics Weight 23 kg kg Logistics Weight 27 kg kg Logistics Weight 31 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "coffee-tables",
+          "label": "Coffee Tables",
+          "href": "/products/coffee-tables/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "island",
+          "label": "Island",
+          "href": "/families/island/"
+        },
+        {
+          "key": "islet",
+          "label": "Islet",
+          "href": "/families/islet/"
+        },
+        {
+          "key": "reef",
+          "label": "Reef",
+          "href": "/families/reef/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "mdf",
+          "label": "MDF",
+          "href": "/materials/mdf/"
+        },
+        {
+          "key": "paper",
+          "label": "Paper",
+          "href": "/materials/paper/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/depth/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/depth/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/dimensions/height/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/height/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "smaller-table-depth",
+          "label": "Smaller table depth",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/dimensions/smaller-table-depth/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "smaller-table-height",
+          "label": "Smaller table height",
+          "valueKey": "33-cm",
+          "valueLabel": "33 cm",
+          "href": "/attributes/dimensions/smaller-table-height/33-cm/",
+          "valueType": "enum",
+          "numericValue": 33,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "smaller-table-width",
+          "label": "Smaller table width",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/smaller-table-width/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/width/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/width/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "90-cm",
+          "valueLabel": "90 cm",
+          "href": "/attributes/dimensions/width/90-cm/",
+          "valueType": "enum",
+          "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "load",
+          "groupLabel": "Load",
+          "key": "maximum-load",
+          "label": "Maximum load",
+          "valueKey": "10-kg",
+          "valueLabel": "10 kg",
+          "href": "/attributes/load/maximum-load/10-kg/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-08-m3",
+          "valueLabel": "0.08 m³",
+          "href": "/attributes/logistics/volume/0-08-m3/",
+          "valueType": "enum",
+          "numericValue": 0.08,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-24-m3",
+          "valueLabel": "0.24 m³",
+          "href": "/attributes/logistics/volume/0-24-m3/",
+          "valueType": "enum",
+          "numericValue": 0.24,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-29-m3",
+          "valueLabel": "0.29 m³",
+          "href": "/attributes/logistics/volume/0-29-m3/",
+          "valueType": "enum",
+          "numericValue": 0.29,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "9-kg",
+          "valueLabel": "9 kg",
+          "href": "/attributes/logistics/weight/9-kg/",
+          "valueType": "enum",
+          "numericValue": 9,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "14-kg",
+          "valueLabel": "14 kg",
+          "href": "/attributes/logistics/weight/14-kg/",
+          "valueType": "enum",
+          "numericValue": 14,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "21-kg",
+          "valueLabel": "21 kg",
+          "href": "/attributes/logistics/weight/21-kg/",
+          "valueType": "enum",
+          "numericValue": 21,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "23-kg",
+          "valueLabel": "23 kg",
+          "href": "/attributes/logistics/weight/23-kg/",
+          "valueType": "enum",
+          "numericValue": 23,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "31-kg",
+          "valueLabel": "31 kg",
+          "href": "/attributes/logistics/weight/31-kg/",
+          "valueType": "enum",
+          "numericValue": 31,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Coffee Tables",
+      "summary": "Coffee tables for living room layouts.",
+      "variantCount": 5,
+      "categoryLabel": "Coffee Tables",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": ""
+    }
+  },
+  {
+    "name": "side-tables",
+    "href": "/products/side-tables/",
+    "type": "dir",
+    "title": "Side Tables",
+    "summary": "Side tables for sofas, beds, and small spaces.",
+    "primaryImageUrl": "/products/side-tables/swallow/198080_1.avif",
+    "filterData": {
+      "searchText": "Side Tables Side tables for sofas, beds, and small spaces. Side Tables Living room Living room Side Tables Swallow Brown Wood Dimensions Depth 45 cm cm Dimensions Height 58 cm cm Dimensions Width 45 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.03 m³ m³ Logistics Weight 3 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "side-tables",
+          "label": "Side Tables",
+          "href": "/products/side-tables/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "swallow",
+          "label": "Swallow",
+          "href": "/families/swallow/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/depth/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "58-cm",
+          "valueLabel": "58 cm",
+          "href": "/attributes/dimensions/height/58-cm/",
+          "valueType": "enum",
+          "numericValue": 58,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "45-cm",
+          "valueLabel": "45 cm",
+          "href": "/attributes/dimensions/width/45-cm/",
+          "valueType": "enum",
+          "numericValue": 45,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "load",
+          "groupLabel": "Load",
+          "key": "maximum-load",
+          "label": "Maximum load",
+          "valueKey": "10-kg",
+          "valueLabel": "10 kg",
+          "href": "/attributes/load/maximum-load/10-kg/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-03-m3",
+          "valueLabel": "0.03 m³",
+          "href": "/attributes/logistics/volume/0-03-m3/",
+          "valueType": "enum",
+          "numericValue": 0.03,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "3-kg",
+          "valueLabel": "3 kg",
+          "href": "/attributes/logistics/weight/3-kg/",
+          "valueType": "enum",
+          "numericValue": 3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "15-min",
+          "valueLabel": "15 min",
+          "href": "/attributes/setup/assembly-time/15-min/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "min"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Side Tables",
+      "summary": "Side tables for sofas, beds, and small spaces.",
+      "variantCount": 1,
+      "categoryLabel": "Side Tables",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": ""
+    }
+  }
+]

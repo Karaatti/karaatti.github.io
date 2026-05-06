@@ -1,0 +1,26 @@
+[
+  {
+    "name": "4",
+    "label": "4",
+    "href": "/attributes/upholstery/lightfastness/4/",
+    "type": "dir",
+    "description": "4 is a published lightfastness used across selected Nest & Living products. Common on 3-Seater Sofa, 4-Seater Sofa, Chaise Sofa, Corner Sofa, Footstool and Modular Sofa and 1 more.",
+    "familyCount": 7,
+    "variantCount": 58,
+    "valueType": "measurement",
+    "numericValue": 4,
+    "unit": ""
+  },
+  {
+    "name": "5",
+    "label": "5",
+    "href": "/attributes/upholstery/lightfastness/5/",
+    "type": "dir",
+    "description": "5 is a published lightfastness used across selected Nest & Living products. Common on Swivel Chair.",
+    "familyCount": 2,
+    "variantCount": 4,
+    "valueType": "measurement",
+    "numericValue": 5,
+    "unit": ""
+  }
+]

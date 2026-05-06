@@ -1,0 +1,91 @@
+[
+  {
+    "group": "support-systems",
+    "groupLabel": "Support systems",
+    "slug": "pocket-spring",
+    "label": "Pocket spring",
+    "aliases": [
+      "Pussijousi"
+    ],
+    "productTypes": [
+      "Mobile Phone Pockets",
+      "Swivel Chairs"
+    ],
+    "materials": [
+      {
+        "label": "Metal",
+        "href": "/materials/metal/"
+      }
+    ],
+    "attributeSummaries": [
+      {
+        "key": "foamDensity",
+        "label": "Foam density",
+        "refs": [
+          {
+            "label": "25 kg/m³",
+            "href": "/attributes/padding/foam-density/25-kg-m3/"
+          },
+          {
+            "label": "28 kg/m³",
+            "href": "/attributes/padding/foam-density/28-kg-m3/"
+          }
+        ]
+      },
+      {
+        "key": "lightfastness",
+        "label": "Lightfastness",
+        "refs": [
+          {
+            "label": "4",
+            "href": "/attributes/upholstery/lightfastness/4/"
+          },
+          {
+            "label": "5",
+            "href": "/attributes/upholstery/lightfastness/5/"
+          }
+        ]
+      },
+      {
+        "key": "pilling",
+        "label": "Pilling",
+        "refs": [
+          {
+            "label": "4",
+            "href": "/attributes/upholstery/pilling/4/"
+          }
+        ]
+      }
+    ],
+    "familyCount": 3,
+    "variantCount": 6,
+    "primaryImageUrl": "/products/mobile-phone-pockets/moon/202837_1.avif",
+    "usageEntries": [
+      {
+        "familyRelativeDir": "families/moon",
+        "familyTitle": "Moon",
+        "familySummary": "A narrow fabric pocket for keeping phones and small items organised beside the bed or armchair.",
+        "primaryImageUrl": "/products/mobile-phone-pockets/moon/202837_1.avif",
+        "schemaCategory": "Mobile Phone Pockets",
+        "variantCount": 3
+      },
+      {
+        "familyRelativeDir": "families/wind",
+        "familyTitle": "Wind",
+        "familySummary": "Modern swivel chair with ottoman, featuring a high backrest and slender legs. Available in beige or Grey fabric upholstery.",
+        "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+        "schemaCategory": "Swivel Chairs",
+        "variantCount": 2
+      },
+      {
+        "familyRelativeDir": "families/bay",
+        "familyTitle": "Bay",
+        "familySummary": "Compact swivel armchair with soft light beige upholstery and contrasting black metal base. Designed for comfort and a calm, harmonious look.",
+        "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+        "schemaCategory": "Swivel Chairs",
+        "variantCount": 1
+      }
+    ],
+    "summary": "Pocket spring is a shared support system used across the Nest & Living range. Common on Mobile Phone Pocket and Swivel Chair. Often paired with Metal."
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "sku": "210108",
+    "name": "210108",
+    "title": "Lugo 3-Seater Sofa, Beige",
+    "variantSummary": "222 x 97 cm / Comfort foam / Beige",
+    "shortDescription": "Beige fabric upholstery with a durable wooden frame and soft foam cushions.",
+    "selectionAttributes": {
+      "dimensions": "222 x 97 cm",
+      "handedness": "",
+      "comfortType": "Comfort foam",
+      "color": "Beige",
+      "material": "Solid wood, Plywood, Foam, Particle board"
+    },
+    "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_1.avif",
+    "imageUrl": "/products/three-seater-sofas/lugo/210108_1.avif",
+    "imageUrls": [
+      "/products/three-seater-sofas/lugo/210108_1.avif",
+      "/products/three-seater-sofas/lugo/210108_2.avif",
+      "/products/three-seater-sofas/lugo/210108_3.avif",
+      "/products/three-seater-sofas/lugo/210108_4.avif",
+      "/products/three-seater-sofas/lugo/210108_5.avif",
+      "/products/three-seater-sofas/lugo/210108_6.avif",
+      "/products/three-seater-sofas/lugo/210108_7.avif",
+      "/products/three-seater-sofas/lugo/210108_8.avif",
+      "/products/three-seater-sofas/lugo/210108_9.avif",
+      "/products/three-seater-sofas/lugo/210108_10.avif"
+    ],
+    "href": "/products/three-seater-sofas/lugo/210108",
+    "type": "file",
+    "filterData": {
+      "searchText": "Lugo 3-Seater Sofa, Beige Beige fabric upholstery with a durable wooden frame and soft foam cushions. 3-Seater Sofas Living room Lugo Living room 3-Seater Sofas Lugo Beige Foam Particle board Plastic Plywood Solid wood Configuration Leg height 0.6 cm cm Dimensions Depth 97 cm cm Dimensions Height 70 cm cm Dimensions Width 222 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.5 m³ m³ Logistics Weight 66 kg kg Logistics Weight 69.3 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 85 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "three-seater-sofas",
+          "label": "3-Seater Sofas",
+          "href": "/products/three-seater-sofas/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "lugo",
+          "label": "Lugo",
+          "href": "/families/lugo/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "particle-board",
+          "label": "Particle board",
+          "href": "/materials/particle-board/"
+        },
+        {
+          "key": "plastic",
+          "label": "Plastic",
+          "href": "/materials/plastic/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "solid-wood",
+          "label": "Solid wood",
+          "href": "/materials/solid-wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "configuration",
+          "groupLabel": "Configuration",
+          "key": "leg-height",
+          "label": "Leg height",
+          "valueKey": "0-6-cm",
+          "valueLabel": "0.6 cm",
+          "href": "/attributes/configuration/leg-height/0-6-cm/",
+          "valueType": "enum",
+          "numericValue": 0.6,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "97-cm",
+          "valueLabel": "97 cm",
+          "href": "/attributes/dimensions/depth/97-cm/",
+          "valueType": "enum",
+          "numericValue": 97,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "70-cm",
+          "valueLabel": "70 cm",
+          "href": "/attributes/dimensions/height/70-cm/",
+          "valueType": "enum",
+          "numericValue": 70,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "222-cm",
+          "valueLabel": "222 cm",
+          "href": "/attributes/dimensions/width/222-cm/",
+          "valueType": "enum",
+          "numericValue": 222,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "1-5-m3",
+          "valueLabel": "1.5 m³",
+          "href": "/attributes/logistics/volume/1-5-m3/",
+          "valueType": "enum",
+          "numericValue": 1.5,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "66-kg",
+          "valueLabel": "66 kg",
+          "href": "/attributes/logistics/weight/66-kg/",
+          "valueType": "enum",
+          "numericValue": 66,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "69-3-kg",
+          "valueLabel": "69.3 kg",
+          "href": "/attributes/logistics/weight/69-3-kg/",
+          "valueType": "enum",
+          "numericValue": 69.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "foam-density",
+          "label": "Foam density",
+          "valueKey": "30-kg-m3",
+          "valueLabel": "30 kg/m³",
+          "href": "/attributes/padding/foam-density/30-kg-m3/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg/m³"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "armrest-width",
+          "label": "Armrest width",
+          "valueKey": "26-cm",
+          "valueLabel": "26 cm",
+          "href": "/attributes/seating/armrest-width/26-cm/",
+          "valueType": "enum",
+          "numericValue": 26,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "backrest-height",
+          "label": "Backrest height",
+          "valueKey": "27-cm",
+          "valueLabel": "27 cm",
+          "href": "/attributes/seating/backrest-height/27-cm/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-depth",
+          "label": "Seat depth",
+          "valueKey": "63-cm",
+          "valueLabel": "63 cm",
+          "href": "/attributes/seating/seat-depth/63-cm/",
+          "valueType": "enum",
+          "numericValue": 63,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "44-cm",
+          "valueLabel": "44 cm",
+          "href": "/attributes/seating/seat-height/44-cm/",
+          "valueType": "enum",
+          "numericValue": 44,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-width",
+          "label": "Seat width",
+          "valueKey": "85-cm",
+          "valueLabel": "85 cm",
+          "href": "/attributes/seating/seat-width/85-cm/",
+          "valueType": "enum",
+          "numericValue": 85,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "lightfastness",
+          "label": "Lightfastness",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/lightfastness/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "martindale",
+          "label": "Martindale",
+          "valueKey": "30-000-martindale",
+          "valueLabel": "30,000 Martindale",
+          "href": "/attributes/upholstery/martindale/30-000-martindale/",
+          "valueType": "enum",
+          "numericValue": 30000,
+          "unit": "Martindale"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "pilling",
+          "label": "Pilling",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/pilling/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Lugo 3-Seater Sofa, Beige",
+      "summary": "Beige fabric upholstery with a durable wooden frame and soft foam cushions.",
+      "variantCount": 1,
+      "categoryLabel": "3-Seater Sofas",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": "Lugo"
+    }
+  },
+  {
+    "sku": "210109",
+    "name": "210109",
+    "title": "Lugo 3-Seater Sofa, Green",
+    "variantSummary": "222 x 97 cm / Comfort foam / Green",
+    "shortDescription": "Green fabric upholstery with a durable wooden frame and soft foam cushions.",
+    "selectionAttributes": {
+      "dimensions": "222 x 97 cm",
+      "handedness": "",
+      "comfortType": "Comfort foam",
+      "color": "Green",
+      "material": "Solid wood, Plywood, Foam, Particle board"
+    },
+    "primaryImageUrl": "/products/three-seater-sofas/lugo/210109_1.avif",
+    "imageUrl": "/products/three-seater-sofas/lugo/210109_1.avif",
+    "imageUrls": [
+      "/products/three-seater-sofas/lugo/210109_1.avif",
+      "/products/three-seater-sofas/lugo/210109_2.avif",
+      "/products/three-seater-sofas/lugo/210109_3.avif",
+      "/products/three-seater-sofas/lugo/210109_4.avif",
+      "/products/three-seater-sofas/lugo/210109_5.avif",
+      "/products/three-seater-sofas/lugo/210109_6.avif",
+      "/products/three-seater-sofas/lugo/210109_7.avif",
+      "/products/three-seater-sofas/lugo/210109_8.avif",
+      "/products/three-seater-sofas/lugo/210109_9.avif",
+      "/products/three-seater-sofas/lugo/210109_10.avif",
+      "/products/three-seater-sofas/lugo/210109_11.avif",
+      "/products/three-seater-sofas/lugo/210109_12.avif"
+    ],
+    "href": "/products/three-seater-sofas/lugo/210109",
+    "type": "file",
+    "filterData": {
+      "searchText": "Lugo 3-Seater Sofa, Green Green fabric upholstery with a durable wooden frame and soft foam cushions. 3-Seater Sofas Living room Lugo Living room 3-Seater Sofas Lugo Green Foam Particle board Plastic Plywood Solid wood Configuration Leg height 0.6 cm cm Dimensions Depth 97 cm cm Dimensions Height 70 cm cm Dimensions Width 222 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.5 m³ m³ Logistics Weight 66 kg kg Logistics Weight 69.3 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 85 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "three-seater-sofas",
+          "label": "3-Seater Sofas",
+          "href": "/products/three-seater-sofas/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "lugo",
+          "label": "Lugo",
+          "href": "/families/lugo/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "green",
+          "label": "Green",
+          "href": "/colors/green/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "particle-board",
+          "label": "Particle board",
+          "href": "/materials/particle-board/"
+        },
+        {
+          "key": "plastic",
+          "label": "Plastic",
+          "href": "/materials/plastic/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "solid-wood",
+          "label": "Solid wood",
+          "href": "/materials/solid-wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "configuration",
+          "groupLabel": "Configuration",
+          "key": "leg-height",
+          "label": "Leg height",
+          "valueKey": "0-6-cm",
+          "valueLabel": "0.6 cm",
+          "href": "/attributes/configuration/leg-height/0-6-cm/",
+          "valueType": "enum",
+          "numericValue": 0.6,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "97-cm",
+          "valueLabel": "97 cm",
+          "href": "/attributes/dimensions/depth/97-cm/",
+          "valueType": "enum",
+          "numericValue": 97,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "70-cm",
+          "valueLabel": "70 cm",
+          "href": "/attributes/dimensions/height/70-cm/",
+          "valueType": "enum",
+          "numericValue": 70,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "222-cm",
+          "valueLabel": "222 cm",
+          "href": "/attributes/dimensions/width/222-cm/",
+          "valueType": "enum",
+          "numericValue": 222,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "1-5-m3",
+          "valueLabel": "1.5 m³",
+          "href": "/attributes/logistics/volume/1-5-m3/",
+          "valueType": "enum",
+          "numericValue": 1.5,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "66-kg",
+          "valueLabel": "66 kg",
+          "href": "/attributes/logistics/weight/66-kg/",
+          "valueType": "enum",
+          "numericValue": 66,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "69-3-kg",
+          "valueLabel": "69.3 kg",
+          "href": "/attributes/logistics/weight/69-3-kg/",
+          "valueType": "enum",
+          "numericValue": 69.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "padding",
+          "groupLabel": "Padding",
+          "key": "foam-density",
+          "label": "Foam density",
+          "valueKey": "30-kg-m3",
+          "valueLabel": "30 kg/m³",
+          "href": "/attributes/padding/foam-density/30-kg-m3/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg/m³"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "armrest-width",
+          "label": "Armrest width",
+          "valueKey": "26-cm",
+          "valueLabel": "26 cm",
+          "href": "/attributes/seating/armrest-width/26-cm/",
+          "valueType": "enum",
+          "numericValue": 26,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "backrest-height",
+          "label": "Backrest height",
+          "valueKey": "27-cm",
+          "valueLabel": "27 cm",
+          "href": "/attributes/seating/backrest-height/27-cm/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-depth",
+          "label": "Seat depth",
+          "valueKey": "63-cm",
+          "valueLabel": "63 cm",
+          "href": "/attributes/seating/seat-depth/63-cm/",
+          "valueType": "enum",
+          "numericValue": 63,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-height",
+          "label": "Seat height",
+          "valueKey": "44-cm",
+          "valueLabel": "44 cm",
+          "href": "/attributes/seating/seat-height/44-cm/",
+          "valueType": "enum",
+          "numericValue": 44,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "seating",
+          "groupLabel": "Seating",
+          "key": "seat-width",
+          "label": "Seat width",
+          "valueKey": "85-cm",
+          "valueLabel": "85 cm",
+          "href": "/attributes/seating/seat-width/85-cm/",
+          "valueType": "enum",
+          "numericValue": 85,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "0-min",
+          "valueLabel": "0 min",
+          "href": "/attributes/setup/assembly-time/0-min/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": "min"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "lightfastness",
+          "label": "Lightfastness",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/lightfastness/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "martindale",
+          "label": "Martindale",
+          "valueKey": "30-000-martindale",
+          "valueLabel": "30,000 Martindale",
+          "href": "/attributes/upholstery/martindale/30-000-martindale/",
+          "valueType": "enum",
+          "numericValue": 30000,
+          "unit": "Martindale"
+        },
+        {
+          "groupKey": "upholstery",
+          "groupLabel": "Upholstery",
+          "key": "pilling",
+          "label": "Pilling",
+          "valueKey": "4",
+          "valueLabel": "4",
+          "href": "/attributes/upholstery/pilling/4/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Lugo 3-Seater Sofa, Green",
+      "summary": "Green fabric upholstery with a durable wooden frame and soft foam cushions.",
+      "variantCount": 1,
+      "categoryLabel": "3-Seater Sofas",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": "Lugo"
+    }
+  }
+]

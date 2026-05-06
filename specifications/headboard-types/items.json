@@ -1,0 +1,29 @@
+[
+  {
+    "name": "moon-bronze-plain-headboard",
+    "label": "Moon Bronze plain headboard",
+    "href": "/specifications/headboard-types/moon-bronze-plain-headboard/",
+    "type": "dir",
+    "description": "Moon Bronze plain headboard is a shared headboard type used across the Nest & Living range. Common on Headboard.",
+    "familyCount": 1,
+    "variantCount": 15
+  },
+  {
+    "name": "moon-gold-headboard-buttons-in-five-rows",
+    "label": "Moon Gold headboard, buttons in five rows",
+    "href": "/specifications/headboard-types/moon-gold-headboard-buttons-in-five-rows/",
+    "type": "dir",
+    "description": "Moon Gold headboard, buttons in five rows is a shared headboard type used across the Nest & Living range. Common on Headboard.",
+    "familyCount": 1,
+    "variantCount": 15
+  },
+  {
+    "name": "moon-silver-headboard-buttons-in-three-rows",
+    "label": "Moon Silver headboard, buttons in three rows",
+    "href": "/specifications/headboard-types/moon-silver-headboard-buttons-in-three-rows/",
+    "type": "dir",
+    "description": "Moon Silver headboard, buttons in three rows is a shared headboard type used across the Nest & Living range. Common on Headboard.",
+    "familyCount": 1,
+    "variantCount": 15
+  }
+]

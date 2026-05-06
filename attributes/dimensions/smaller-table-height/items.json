@@ -1,0 +1,14 @@
+[
+  {
+    "name": "33-cm",
+    "label": "33 cm",
+    "href": "/attributes/dimensions/smaller-table-height/33-cm/",
+    "type": "dir",
+    "description": "33 cm is a published smaller table height used across selected Nest & Living products. Common on Coffee Table.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 33,
+    "unit": "cm"
+  }
+]

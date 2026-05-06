@@ -1,0 +1,1774 @@
+[
+  {
+    "sku": "197647",
+    "name": "197647",
+    "title": "Moon Gold Adjustable Bed, Black, 80 x 200 x 43 cm",
+    "variantSummary": "80 x 200 x 43 cm / Pocket spring / Black",
+    "shortDescription": "80 x 200 x 43 cm, Black. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+    "selectionAttributes": {
+      "dimensions": "80 x 200 x 43 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Black",
+      "material": "Fabric, Metal"
+    },
+    "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+    "imageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+    "imageUrls": [
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_4.avif",
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.jpg",
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_4.jpg",
+      "/products/adjustable-beds/moon-gold/197647_1.avif",
+      "/products/adjustable-beds/moon-gold/197647_2.avif"
+    ],
+    "href": "/products/adjustable-beds/moon-gold/197647",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Adjustable Bed, Black, 80 x 200 x 43 cm 80 x 200 x 43 cm, Black. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality. Adjustable Beds Bedroom Moon Gold Bedroom Adjustable Beds Moon Gold Black Fabric Metal Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 58 cm cm Dimensions Width 80 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.73 m³ m³ Logistics Weight 57 kg kg Logistics Weight 62 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Motor warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Spring warranty 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "adjustable-beds",
+          "label": "Adjustable Beds",
+          "href": "/products/adjustable-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "58-cm",
+          "valueLabel": "58 cm",
+          "href": "/attributes/dimensions/height/58-cm/",
+          "valueType": "enum",
+          "numericValue": 58,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/width/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-73-m3",
+          "valueLabel": "0.73 m³",
+          "href": "/attributes/logistics/volume/0-73-m3/",
+          "valueType": "enum",
+          "numericValue": 0.73,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "57-kg",
+          "valueLabel": "57 kg",
+          "href": "/attributes/logistics/weight/57-kg/",
+          "valueType": "enum",
+          "numericValue": 57,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "62-kg",
+          "valueLabel": "62 kg",
+          "href": "/attributes/logistics/weight/62-kg/",
+          "valueType": "enum",
+          "numericValue": 62,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "motor-warranty",
+          "label": "Motor warranty",
+          "valueKey": "2000-days",
+          "valueLabel": "2000 days",
+          "href": "/attributes/warranty/motor-warranty/2000-days/",
+          "valueType": "enum",
+          "numericValue": 2000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "spring-warranty",
+          "label": "Spring warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/spring-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Adjustable Bed, Black, 80 x 200 x 43 cm",
+      "summary": "80 x 200 x 43 cm, Black. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+      "variantCount": 1,
+      "categoryLabel": "Adjustable Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197648",
+    "name": "197648",
+    "title": "Moon Gold Adjustable Bed, Black, 90 x 200 x 43 cm",
+    "variantSummary": "90 x 200 x 43 cm / Pocket spring / Black",
+    "shortDescription": "90 x 200 x 43 cm, Black. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+    "selectionAttributes": {
+      "dimensions": "90 x 200 x 43 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Black",
+      "material": "Fabric, Metal"
+    },
+    "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+    "imageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+    "imageUrls": [
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_4.avif",
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.jpg",
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_4.jpg",
+      "/products/adjustable-beds/moon-gold/197648_1.avif",
+      "/products/adjustable-beds/moon-gold/197648_2.avif"
+    ],
+    "href": "/products/adjustable-beds/moon-gold/197648",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Adjustable Bed, Black, 90 x 200 x 43 cm 90 x 200 x 43 cm, Black. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality. Adjustable Beds Bedroom Moon Gold Bedroom Adjustable Beds Moon Gold Black Fabric Metal Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 58 cm cm Dimensions Width 90 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.8 m³ m³ Logistics Weight 63 kg kg Logistics Weight 68 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Motor warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "adjustable-beds",
+          "label": "Adjustable Beds",
+          "href": "/products/adjustable-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "58-cm",
+          "valueLabel": "58 cm",
+          "href": "/attributes/dimensions/height/58-cm/",
+          "valueType": "enum",
+          "numericValue": 58,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "90-cm",
+          "valueLabel": "90 cm",
+          "href": "/attributes/dimensions/width/90-cm/",
+          "valueType": "enum",
+          "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-8-m3",
+          "valueLabel": "0.8 m³",
+          "href": "/attributes/logistics/volume/0-8-m3/",
+          "valueType": "enum",
+          "numericValue": 0.8,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "63-kg",
+          "valueLabel": "63 kg",
+          "href": "/attributes/logistics/weight/63-kg/",
+          "valueType": "enum",
+          "numericValue": 63,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "68-kg",
+          "valueLabel": "68 kg",
+          "href": "/attributes/logistics/weight/68-kg/",
+          "valueType": "enum",
+          "numericValue": 68,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "motor-warranty",
+          "label": "Motor warranty",
+          "valueKey": "2000-days",
+          "valueLabel": "2000 days",
+          "href": "/attributes/warranty/motor-warranty/2000-days/",
+          "valueType": "enum",
+          "numericValue": 2000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "spring-warranty",
+          "label": "Spring warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/spring-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Adjustable Bed, Black, 90 x 200 x 43 cm",
+      "summary": "90 x 200 x 43 cm, Black. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+      "variantCount": 1,
+      "categoryLabel": "Adjustable Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197649",
+    "name": "197649",
+    "title": "Moon Gold Adjustable Bed, Black, 105 x 200 x 43 cm",
+    "variantSummary": "105 x 200 x 43 cm / Pocket spring / Black",
+    "shortDescription": "105 x 200 x 43 cm, Black. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+    "selectionAttributes": {
+      "dimensions": "105 x 200 x 43 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Black",
+      "material": "Fabric, Metal"
+    },
+    "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+    "imageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+    "imageUrls": [
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif",
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_4.avif",
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.jpg",
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_4.jpg",
+      "/products/adjustable-beds/moon-gold/197649_1.avif",
+      "/products/adjustable-beds/moon-gold/197649_2.avif"
+    ],
+    "href": "/products/adjustable-beds/moon-gold/197649",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Adjustable Bed, Black, 105 x 200 x 43 cm 105 x 200 x 43 cm, Black. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality. Adjustable Beds Bedroom Moon Gold Bedroom Adjustable Beds Moon Gold Black Fabric Metal Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 58 cm cm Dimensions Width 105 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.84 m³ m³ Logistics Weight 30 kg kg Logistics Weight 75 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Motor warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "adjustable-beds",
+          "label": "Adjustable Beds",
+          "href": "/products/adjustable-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "black",
+          "label": "Black",
+          "href": "/colors/black/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "58-cm",
+          "valueLabel": "58 cm",
+          "href": "/attributes/dimensions/height/58-cm/",
+          "valueType": "enum",
+          "numericValue": 58,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "105-cm",
+          "valueLabel": "105 cm",
+          "href": "/attributes/dimensions/width/105-cm/",
+          "valueType": "enum",
+          "numericValue": 105,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-84-m3",
+          "valueLabel": "0.84 m³",
+          "href": "/attributes/logistics/volume/0-84-m3/",
+          "valueType": "enum",
+          "numericValue": 0.84,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "75-kg",
+          "valueLabel": "75 kg",
+          "href": "/attributes/logistics/weight/75-kg/",
+          "valueType": "enum",
+          "numericValue": 75,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "motor-warranty",
+          "label": "Motor warranty",
+          "valueKey": "2000-days",
+          "valueLabel": "2000 days",
+          "href": "/attributes/warranty/motor-warranty/2000-days/",
+          "valueType": "enum",
+          "numericValue": 2000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "spring-warranty",
+          "label": "Spring warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/spring-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Adjustable Bed, Black, 105 x 200 x 43 cm",
+      "summary": "105 x 200 x 43 cm, Black. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+      "variantCount": 1,
+      "categoryLabel": "Adjustable Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197650",
+    "name": "197650",
+    "title": "Moon Gold Adjustable Bed, Beige, 80 x 200 x 43 cm",
+    "variantSummary": "80 x 200 x 43 cm / Pocket spring / Beige",
+    "shortDescription": "80 x 200 x 43 cm, Beige. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+    "selectionAttributes": {
+      "dimensions": "80 x 200 x 43 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Beige",
+      "material": "Fabric, Metal"
+    },
+    "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_beige_3.avif",
+    "imageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_beige_3.avif",
+    "imageUrls": [
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_beige_3.avif",
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_beige_4.avif",
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_beige_4.jpg",
+      "/products/adjustable-beds/moon-gold/197650_1.avif",
+      "/products/adjustable-beds/moon-gold/197650_2.avif"
+    ],
+    "href": "/products/adjustable-beds/moon-gold/197650",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Adjustable Bed, Beige, 80 x 200 x 43 cm 80 x 200 x 43 cm, Beige. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality. Adjustable Beds Bedroom Moon Gold Bedroom Adjustable Beds Moon Gold Beige Fabric Metal Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 58 cm cm Dimensions Width 80 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.73 m³ m³ Logistics Weight 57 kg kg Logistics Weight 62 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Motor warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Spring warranty 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "adjustable-beds",
+          "label": "Adjustable Beds",
+          "href": "/products/adjustable-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "58-cm",
+          "valueLabel": "58 cm",
+          "href": "/attributes/dimensions/height/58-cm/",
+          "valueType": "enum",
+          "numericValue": 58,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "80-cm",
+          "valueLabel": "80 cm",
+          "href": "/attributes/dimensions/width/80-cm/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-73-m3",
+          "valueLabel": "0.73 m³",
+          "href": "/attributes/logistics/volume/0-73-m3/",
+          "valueType": "enum",
+          "numericValue": 0.73,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "57-kg",
+          "valueLabel": "57 kg",
+          "href": "/attributes/logistics/weight/57-kg/",
+          "valueType": "enum",
+          "numericValue": 57,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "62-kg",
+          "valueLabel": "62 kg",
+          "href": "/attributes/logistics/weight/62-kg/",
+          "valueType": "enum",
+          "numericValue": 62,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "motor-warranty",
+          "label": "Motor warranty",
+          "valueKey": "2000-days",
+          "valueLabel": "2000 days",
+          "href": "/attributes/warranty/motor-warranty/2000-days/",
+          "valueType": "enum",
+          "numericValue": 2000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "1000-days",
+          "valueLabel": "1000 days",
+          "href": "/attributes/warranty/quality-guarantee/1000-days/",
+          "valueType": "enum",
+          "numericValue": 1000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "spring-warranty",
+          "label": "Spring warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/spring-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Adjustable Bed, Beige, 80 x 200 x 43 cm",
+      "summary": "80 x 200 x 43 cm, Beige. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+      "variantCount": 1,
+      "categoryLabel": "Adjustable Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197651",
+    "name": "197651",
+    "title": "Moon Gold Adjustable Bed, Beige, 90 x 200 x 43 cm",
+    "variantSummary": "90 x 200 x 43 cm / Pocket spring / Beige",
+    "shortDescription": "90 x 200 x 43 cm, Beige. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+    "selectionAttributes": {
+      "dimensions": "90 x 200 x 43 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Beige",
+      "material": "Fabric, Metal"
+    },
+    "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_beige_3.avif",
+    "imageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_beige_3.avif",
+    "imageUrls": [
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_beige_3.avif",
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_beige_4.avif",
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_beige_4.jpg",
+      "/products/adjustable-beds/moon-gold/197651_1.avif",
+      "/products/adjustable-beds/moon-gold/197651_2.avif"
+    ],
+    "href": "/products/adjustable-beds/moon-gold/197651",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Adjustable Bed, Beige, 90 x 200 x 43 cm 90 x 200 x 43 cm, Beige. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality. Adjustable Beds Bedroom Moon Gold Bedroom Adjustable Beds Moon Gold Beige Fabric Metal Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 58 cm cm Dimensions Width 90 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.88 m³ m³ Logistics Weight 63 kg kg Logistics Weight 68 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Motor warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "adjustable-beds",
+          "label": "Adjustable Beds",
+          "href": "/products/adjustable-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "58-cm",
+          "valueLabel": "58 cm",
+          "href": "/attributes/dimensions/height/58-cm/",
+          "valueType": "enum",
+          "numericValue": 58,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "90-cm",
+          "valueLabel": "90 cm",
+          "href": "/attributes/dimensions/width/90-cm/",
+          "valueType": "enum",
+          "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-88-m3",
+          "valueLabel": "0.88 m³",
+          "href": "/attributes/logistics/volume/0-88-m3/",
+          "valueType": "enum",
+          "numericValue": 0.88,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "63-kg",
+          "valueLabel": "63 kg",
+          "href": "/attributes/logistics/weight/63-kg/",
+          "valueType": "enum",
+          "numericValue": 63,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "68-kg",
+          "valueLabel": "68 kg",
+          "href": "/attributes/logistics/weight/68-kg/",
+          "valueType": "enum",
+          "numericValue": 68,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "motor-warranty",
+          "label": "Motor warranty",
+          "valueKey": "2000-days",
+          "valueLabel": "2000 days",
+          "href": "/attributes/warranty/motor-warranty/2000-days/",
+          "valueType": "enum",
+          "numericValue": 2000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "spring-warranty",
+          "label": "Spring warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/spring-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Adjustable Bed, Beige, 90 x 200 x 43 cm",
+      "summary": "90 x 200 x 43 cm, Beige. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+      "variantCount": 1,
+      "categoryLabel": "Adjustable Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197652",
+    "name": "197652",
+    "title": "Moon Gold Adjustable Bed, Beige, 105 x 200 x 43 cm",
+    "variantSummary": "105 x 200 x 43 cm / Pocket spring / Beige",
+    "shortDescription": "105 x 200 x 43 cm, Beige. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+    "selectionAttributes": {
+      "dimensions": "105 x 200 x 43 cm",
+      "handedness": "",
+      "comfortType": "Pocket spring",
+      "color": "Beige",
+      "material": "Fabric, Metal"
+    },
+    "primaryImageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_beige_3.avif",
+    "imageUrl": "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_beige_3.avif",
+    "imageUrls": [
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_beige_3.avif",
+      "/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_beige_4.avif",
+      "/products/adjustable-beds/moon-gold/197652_1.avif",
+      "/products/adjustable-beds/moon-gold/197652_2.avif"
+    ],
+    "href": "/products/adjustable-beds/moon-gold/197652",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Adjustable Bed, Beige, 105 x 200 x 43 cm 105 x 200 x 43 cm, Beige. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality. Adjustable Beds Bedroom Moon Gold Bedroom Adjustable Beds Moon Gold Beige Fabric Metal Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 58 cm cm Dimensions Width 105 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.92 m³ m³ Logistics Weight 75 kg kg Logistics Weight 80 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Motor warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "adjustable-beds",
+          "label": "Adjustable Beds",
+          "href": "/products/adjustable-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        }
+      ],
+      "specifications": [],
+      "attributes": [
+        {
+          "groupKey": "comfort",
+          "groupLabel": "Comfort",
+          "key": "firmness",
+          "label": "Firmness",
+          "valueKey": "firm",
+          "valueLabel": "Firm",
+          "href": "/attributes/comfort/firmness/firm/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "depth",
+          "label": "Depth",
+          "valueKey": "200-cm",
+          "valueLabel": "200 cm",
+          "href": "/attributes/dimensions/depth/200-cm/",
+          "valueType": "enum",
+          "numericValue": 200,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "height",
+          "label": "Height",
+          "valueKey": "58-cm",
+          "valueLabel": "58 cm",
+          "href": "/attributes/dimensions/height/58-cm/",
+          "valueType": "enum",
+          "numericValue": 58,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width",
+          "label": "Width",
+          "valueKey": "105-cm",
+          "valueLabel": "105 cm",
+          "href": "/attributes/dimensions/width/105-cm/",
+          "valueType": "enum",
+          "numericValue": 105,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "headboard-included",
+          "label": "Headboard included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/headboard-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "accessories",
+          "groupLabel": "Included components",
+          "key": "topper-included",
+          "label": "Topper included",
+          "valueKey": "no",
+          "valueLabel": "No",
+          "href": "/attributes/accessories/topper-included/no/",
+          "valueType": "enum",
+          "numericValue": 0,
+          "unit": ""
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-count",
+          "label": "Package count",
+          "valueKey": "1-package",
+          "valueLabel": "1 package",
+          "href": "/attributes/logistics/package-count/1-package/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "product-count",
+          "label": "Product count",
+          "valueKey": "1-product",
+          "valueLabel": "1 product",
+          "href": "/attributes/logistics/product-count/1-product/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "product"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "volume",
+          "label": "Volume",
+          "valueKey": "0-92-m3",
+          "valueLabel": "0.92 m³",
+          "href": "/attributes/logistics/volume/0-92-m3/",
+          "valueType": "enum",
+          "numericValue": 0.92,
+          "unit": "m³"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "75-kg",
+          "valueLabel": "75 kg",
+          "href": "/attributes/logistics/weight/75-kg/",
+          "valueType": "enum",
+          "numericValue": 75,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "weight",
+          "label": "Weight",
+          "valueKey": "80-kg",
+          "valueLabel": "80 kg",
+          "href": "/attributes/logistics/weight/80-kg/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "setup",
+          "groupLabel": "Setup",
+          "key": "assembly-time",
+          "label": "Assembly time",
+          "valueKey": "30-min",
+          "valueLabel": "30 min",
+          "href": "/attributes/setup/assembly-time/30-min/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "min"
+        },
+        {
+          "groupKey": "support",
+          "groupLabel": "Support",
+          "key": "zone-count",
+          "label": "Zone count",
+          "valueKey": "7-zone",
+          "valueLabel": "7-zone",
+          "href": "/attributes/support/zone-count/7-zone/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": ""
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "frame-warranty",
+          "label": "Frame warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/frame-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "motor-warranty",
+          "label": "Motor warranty",
+          "valueKey": "2000-days",
+          "valueLabel": "2000 days",
+          "href": "/attributes/warranty/motor-warranty/2000-days/",
+          "valueType": "enum",
+          "numericValue": 2000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "price-guarantee",
+          "label": "Price guarantee",
+          "valueKey": "30-days",
+          "valueLabel": "30 days",
+          "href": "/attributes/warranty/price-guarantee/30-days/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "quality-guarantee",
+          "label": "Quality guarantee",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/quality-guarantee/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        },
+        {
+          "groupKey": "warranty",
+          "groupLabel": "Warranty",
+          "key": "spring-warranty",
+          "label": "Spring warranty",
+          "valueKey": "4000-days",
+          "valueLabel": "4000 days",
+          "href": "/attributes/warranty/spring-warranty/4000-days/",
+          "valueType": "enum",
+          "numericValue": 4000,
+          "unit": "days"
+        }
+      ]
+    },
+    "sortData": {
+      "title": "Moon Gold Adjustable Bed, Beige, 105 x 200 x 43 cm",
+      "summary": "105 x 200 x 43 cm, Beige. The Moon Gold adjustable bed combines a 7-zone pocket spring mattress with a gently adjustable upper section for ergonomic back support and improved sleep quality.",
+      "variantCount": 1,
+      "categoryLabel": "Adjustable Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "label": "Wood veneer",
+  "description": "Wood veneer in furniture: Gives authentic wood grain with more stable panel geometry than solid timber alone.",
+  "intro": "Wood veneer appears across 4 product families and 6 options, especially on Cabinets Display, Chaise Sofas, Console Tables and Dining Tables.",
+  "chemistry": [
+    "Wood veneer uses genuine wood as a surface skin rather than as the full thickness. That preserves real grain, pore structure and tonal variation while relying on a more stable substrate beneath.",
+    "The engineering benefit is efficiency and flatter large panels. The limit is thickness: once the veneer is damaged through, repair options are much narrower than with solid wood."
+  ],
+  "furnitureUse": [
+    "Veneer is ideal for broad panels such as cabinet faces, shelving and table tops where the design wants true wood character without full solid-wood cost and movement.",
+    "Its success depends heavily on the substrate. A veneered MDF panel behaves differently from a veneered plywood panel, especially around moisture and edge durability."
+  ],
+  "care": [
+    "Moisture and wear note: Surface behaviour depends on both the veneer finish and the moisture sensitivity of the core below it.",
+    "Care note: Treat as real wood on the face, but avoid deep sanding because the veneer layer is thin."
+  ],
+  "terminology": [],
+  "thermal": [
+    "Veneer gives the tactile impression of wood on the surface, but thermal and moisture behaviour still depend heavily on the core below it.",
+    "That means the face may feel warmer than metal at touch while long-term stability can still be limited by MDF or particle-board swelling underneath."
+  ],
+  "recycling": [
+    "Finland-first sorting baseline: veneered panels usually belong to municipal bulky-furniture or treated-board style acceptance, not a clean wood stream unless the local operator explicitly allows it.",
+    "Because veneer is bonded to a substrate, customer guidance should treat the part as a composite furniture panel first and as wood only second."
+  ],
+  "durability": [
+    "A good veneer surface can age beautifully, but the repair margin is thin. Chips, deep scratches and water ingress around edges expose the limitations quickly.",
+    "Real durability therefore depends on both the veneer finish and the substrate quality underneath."
+  ],
+  "relatedSpecifications": [
+    "Oak veneer",
+    "Walnut veneer",
+    "Veneered panel"
+  ],
+  "lifecycleRows": [
+    {
+      "label": "Recycling in Finland",
+      "value": "Use municipal bulky-furniture or treated-board handling unless the local operator explicitly accepts the specific veneered panel."
+    },
+    {
+      "label": "Expected wear profile",
+      "value": "Surface can age attractively, but edge chips, water ingress and thin repair margin remain key limitations."
+    },
+    {
+      "label": "Retail warranty note",
+      "value": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+    }
+  ],
+  "strengths": [
+    "real wood appearance with panel stability",
+    "efficient use of premium timber",
+    "good for large flat surfaces"
+  ],
+  "watchouts": [
+    "thin repair margin",
+    "edges and corners chip more easily",
+    "core material still controls moisture tolerance"
+  ],
+  "profileRows": [
+    {
+      "label": "Material class",
+      "value": "Real-wood finish over core substrate"
+    },
+    {
+      "label": "Composition",
+      "value": "Thin sliced wood applied to MDF, particle board or another stable core."
+    },
+    {
+      "label": "Typical behaviour",
+      "value": "Gives authentic wood grain with more stable panel geometry than solid timber alone."
+    },
+    {
+      "label": "Key strengths",
+      "value": "real wood appearance with panel stability, efficient use of premium timber and good for large flat surfaces"
+    },
+    {
+      "label": "Main watch-outs",
+      "value": "thin repair margin, edges and corners chip more easily and core material still controls moisture tolerance"
+    }
+  ],
+  "warrantyNote": "Material guidance does not extend the retailer warranty. Unless a product page explicitly states otherwise, keep the practical customer expectation at a 2-year retail warranty window."
+}
