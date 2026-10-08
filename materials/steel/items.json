@@ -1,5 +1,21 @@
 [
   {
+    "name": "nordic",
+    "href": "/products/gazebos-pergolas/nordic/",
+    "type": "dir",
+    "title": "Nordic",
+    "schemaCategory": "Gazebos & Pergolas",
+    "variantCount": 4
+  },
+  {
+    "name": "breeze",
+    "href": "/products/swivel-chairs/breeze/",
+    "type": "dir",
+    "title": "Breeze",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 3
+  },
+  {
     "name": "moon-silver",
     "href": "/products/adjustable-beds/moon-silver/",
     "type": "dir",
@@ -8,26 +24,10 @@
     "variantCount": 3
   },
   {
-    "name": "nordic",
-    "href": "/products/gazebos-pergolas/nordic/",
-    "type": "dir",
-    "title": "Nordic",
-    "schemaCategory": "Gazebos & Pergolas",
-    "variantCount": 3
-  },
-  {
     "name": "blow",
     "href": "/products/swivel-chairs/blow/",
     "type": "dir",
     "title": "Blow",
-    "schemaCategory": "Swivel Chairs",
-    "variantCount": 2
-  },
-  {
-    "name": "breeze",
-    "href": "/products/swivel-chairs/breeze/",
-    "type": "dir",
-    "title": "Breeze",
     "schemaCategory": "Swivel Chairs",
     "variantCount": 2
   },

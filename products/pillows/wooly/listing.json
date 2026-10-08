@@ -1,0 +1,64 @@
+{
+  "familyTitle": "Wooly",
+  "familySummary": "Wooly pillows offer a simple white look in a practical rectangular shape, suited to everyday bedroom styling and relaxed layering.",
+  "familyDescription": "The Wooly family brings a clean, understated look to pillow styling with a white finish and a classic rectangular profile. It works well as a calm base in bedrooms and can be paired easily with other soft furnishings. This pillow measures 60 × 50 × 12 cm and is made from Cotton, Wool. Its familiar shape and neutral colour make it an easy choice for beds, sofas or seating areas where a simple textile accent is wanted.",
+  "primaryImageUrl": "/products/pillows/wooly/221938_2.avif",
+  "schemaCategory": "Pillows",
+  "variantCount": 1,
+  "productFamilyName": "Wooly",
+  "productFamilyKey": "wooly",
+  "productFamilyRelativeDir": "families/wooly",
+  "filterData": {
+    "searchText": "Wooly Wooly pillows offer a simple white look in a practical rectangular shape, suited to everyday bedroom styling and relaxed layering. Pillows Bedroom Wooly Bedroom Pillows Wooly White Cotton Wool",
+    "collections": [
+      {
+        "key": "bedroom",
+        "label": "Bedroom",
+        "href": "/collections/bedroom"
+      }
+    ],
+    "categories": [
+      {
+        "key": "pillows",
+        "label": "Pillows",
+        "href": "/products/pillows/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "wooly",
+        "label": "Wooly",
+        "href": "/families/wooly/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "white",
+        "label": "White",
+        "href": "/colors/white/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "cotton",
+        "label": "Cotton",
+        "href": "/materials/cotton/"
+      },
+      {
+        "key": "wool",
+        "label": "Wool",
+        "href": "/materials/wool/"
+      }
+    ],
+    "specifications": [],
+    "attributes": []
+  },
+  "sortData": {
+    "title": "Wooly",
+    "summary": "Wooly pillows offer a simple white look in a practical rectangular shape, suited to everyday bedroom styling and relaxed layering.",
+    "variantCount": 1,
+    "categoryLabel": "Pillows",
+    "collectionLabel": "Bedroom",
+    "productFamilyLabel": "Wooly"
+  }
+}

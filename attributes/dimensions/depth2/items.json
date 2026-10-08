@@ -1,10 +1,22 @@
 [
   {
+    "name": "40-cm",
+    "label": "40 cm",
+    "href": "/attributes/dimensions/depth2/40-cm/",
+    "type": "dir",
+    "description": "40 cm is the published depth 2 for the products listed here. The value appears on 2 Nest & Living product options across 1 product family. Examples include Coffee Table.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 40,
+    "unit": "cm"
+  },
+  {
     "name": "42-cm",
     "label": "42 cm",
     "href": "/attributes/dimensions/depth2/42-cm/",
     "type": "dir",
-    "description": "42 cm is a published depth 2 used across selected Nest & Living products. Common on Planter.",
+    "description": "42 cm is the published depth 2 for the products listed here. The value appears on 1 Nest & Living product option across 1 product family. Examples include Planter.",
     "familyCount": 1,
     "variantCount": 1,
     "valueType": "measurement",

@@ -2,44 +2,52 @@
   {
     "sku": "197627",
     "name": "197627",
-    "title": "Haven Outdoor Lounge Set, Beige, 236 x 236 cm",
-    "variantSummary": "236 x 236 cm / Beige",
+    "title": "Haven Lounge Set, 236 × 236 cm",
+    "variantSummary": "236 × 236 cm / Beige",
     "shortDescription": "Beige outdoor corner sofa set with a polyrattan frame, stools and a glass-topped table.",
     "selectionAttributes": {
-      "dimensions": "236 x 236 cm",
+      "dimensions": "236 × 236 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Glass, Polyrattan, Aluminium"
+      "material": "Glass, Polyrattan, Aluminium",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Lounge set",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/outdoor-lounge-sets/haven/197627_1.avif",
-    "imageUrl": "/products/outdoor-lounge-sets/haven/197627_1.avif",
+    "primaryImageUrl": "/products/outdoor-lounge-sets/haven/197627_2.avif",
+    "imageUrl": "/products/outdoor-lounge-sets/haven/197627_2.avif",
     "imageUrls": [
-      "/products/outdoor-lounge-sets/haven/197627_1.avif",
       "/products/outdoor-lounge-sets/haven/197627_2.avif",
-      "/products/outdoor-lounge-sets/haven/197627_3.avif",
-      "/products/outdoor-lounge-sets/haven/197627_4.avif",
       "/products/outdoor-lounge-sets/haven/197627_5.avif",
-      "/products/outdoor-lounge-sets/haven/197627_7.avif",
-      "/products/outdoor-lounge-sets/haven/197627_8.avif",
       "/products/outdoor-lounge-sets/haven/197627_9.avif",
+      "/products/outdoor-lounge-sets/haven/197627_12.avif",
+      "/products/outdoor-lounge-sets/haven/197627_7.avif",
       "/products/outdoor-lounge-sets/haven/197627_10.avif",
       "/products/outdoor-lounge-sets/haven/197627_11.avif",
-      "/products/outdoor-lounge-sets/haven/197627_12.avif",
       "/products/outdoor-lounge-sets/haven/197627_13.avif",
       "/products/outdoor-lounge-sets/haven/197627_14.avif",
+      "/products/outdoor-lounge-sets/haven/197627_18.avif",
+      "/products/outdoor-lounge-sets/haven/197627_19.avif",
+      "/products/outdoor-lounge-sets/haven/197627_1.avif",
+      "/products/outdoor-lounge-sets/haven/197627_3.avif",
+      "/products/outdoor-lounge-sets/haven/197627_4.avif",
+      "/products/outdoor-lounge-sets/haven/197627_8.avif",
       "/products/outdoor-lounge-sets/haven/197627_15.avif",
       "/products/outdoor-lounge-sets/haven/197627_16.avif",
       "/products/outdoor-lounge-sets/haven/197627_17.avif",
-      "/products/outdoor-lounge-sets/haven/197627_18.avif",
-      "/products/outdoor-lounge-sets/haven/197627_19.avif",
       "/products/outdoor-lounge-sets/haven/197627_20.avif",
       "/products/outdoor-lounge-sets/haven/197627_21.avif"
     ],
     "href": "/products/outdoor-lounge-sets/haven/197627",
     "type": "file",
     "filterData": {
-      "searchText": "Haven Outdoor Lounge Set, Beige, 236 x 236 cm Beige outdoor corner sofa set with a polyrattan frame, stools and a glass-topped table. Outdoor Lounge Sets Outdoor Haven Outdoor Outdoor Lounge Sets Haven Beige Aluminium Glass Polyrattan Dimensions Depth 236 cm cm Dimensions Height 86 cm cm Dimensions Set piece depth 110 cm cm Dimensions Set piece height 65 cm cm Dimensions Set piece width 110 cm cm Dimensions Width 236 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.05 m³ m³ Logistics Weight 25 kg kg Logistics Weight 68 kg kg Padding Seat cushion thickness 8 cm cm Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Haven Lounge Set, 236 × 236 cm Beige outdoor corner sofa set with a polyrattan frame, stools and a glass-topped table. Outdoor Lounge Sets Outdoor Haven Outdoor Outdoor Lounge Sets Haven Beige Aluminium Glass Polyrattan Dimensions Depth 236 cm cm Dimensions Height 86 cm cm Dimensions Set piece depth 110 cm cm Dimensions Set piece height 65 cm cm Dimensions Set piece width 110 cm cm Dimensions Width 236 cm cm Logistics Package count 1 package package Logistics Package weight 25 kg kg Logistics Product count 1 product product Logistics Volume 1.05 m³ m³ Logistics Weight 68 kg kg Padding Seat cushion thickness 8 cm cm Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -174,6 +182,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -194,18 +214,6 @@
           "valueType": "enum",
           "numericValue": 1.05,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -258,7 +266,7 @@
       ]
     },
     "sortData": {
-      "title": "Haven Outdoor Lounge Set, Beige, 236 x 236 cm",
+      "title": "Haven Lounge Set, 236 × 236 cm",
       "summary": "Beige outdoor corner sofa set with a polyrattan frame, stools and a glass-topped table.",
       "variantCount": 1,
       "categoryLabel": "Outdoor Lounge Sets",
@@ -269,26 +277,34 @@
   {
     "sku": "206767",
     "name": "206767",
-    "title": "Haven Outdoor Lounge Set, Brown, Beige, 185 cm",
-    "variantSummary": "185 cm / Brown, Beige",
+    "title": "Haven Lounge Set, 185 cm",
+    "variantSummary": "185 cm / Beige, Brown",
     "shortDescription": "Brown poly rattan and aluminium frame with light grey cushions and glass table.",
     "selectionAttributes": {
       "dimensions": "185 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Brown, Beige",
-      "material": "Glass, Polyrattan, Aluminium"
+      "color": "Beige, Brown",
+      "material": "Glass, Polyrattan, Aluminium",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Lounge set",
+      "colorLabel": "Beige, Brown",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/outdoor-lounge-sets/haven/206767_1.avif",
-    "imageUrl": "/products/outdoor-lounge-sets/haven/206767_1.avif",
+    "primaryImageUrl": "/products/outdoor-lounge-sets/haven/206767_2.avif",
+    "imageUrl": "/products/outdoor-lounge-sets/haven/206767_2.avif",
     "imageUrls": [
-      "/products/outdoor-lounge-sets/haven/206767_1.avif",
-      "/products/outdoor-lounge-sets/haven/206767_2.avif"
+      "/products/outdoor-lounge-sets/haven/206767_2.avif",
+      "/products/outdoor-lounge-sets/haven/206767_1.avif"
     ],
     "href": "/products/outdoor-lounge-sets/haven/206767",
     "type": "file",
     "filterData": {
-      "searchText": "Haven Outdoor Lounge Set, Brown, Beige, 185 cm Brown poly rattan and aluminium frame with light grey cushions and glass table. Outdoor Lounge Sets Outdoor Haven Outdoor Outdoor Lounge Sets Haven Beige Brown Aluminium Glass Polyrattan Dimensions Height 86 cm cm Dimensions Set piece height 86 cm cm Dimensions Set piece width 75 cm cm Dimensions Width 185 cm cm Load Maximum load 100 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.37 m³ m³ Logistics Weight 37 kg kg Logistics Weight 47 kg kg Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Haven Lounge Set, 185 cm Brown poly rattan and aluminium frame with light grey cushions and glass table. Outdoor Lounge Sets Outdoor Haven Outdoor Outdoor Lounge Sets Haven Beige Brown Aluminium Glass Polyrattan Dimensions Height 86 cm cm Dimensions Set piece height 86 cm cm Dimensions Set piece width 75 cm cm Dimensions Width 185 cm cm Load Maximum load 100 kg kg Logistics Package count 1 package package Logistics Package weight 47 kg kg Logistics Product count 1 product product Logistics Volume 1.37 m³ m³ Logistics Weight 37 kg kg Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -416,6 +432,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "47-kg",
+          "valueLabel": "47 kg",
+          "href": "/attributes/logistics/package-weight/47-kg/",
+          "valueType": "enum",
+          "numericValue": 47,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -450,18 +478,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "47-kg",
-          "valueLabel": "47 kg",
-          "href": "/attributes/logistics/weight/47-kg/",
-          "valueType": "enum",
-          "numericValue": 47,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -488,7 +504,7 @@
       ]
     },
     "sortData": {
-      "title": "Haven Outdoor Lounge Set, Brown, Beige, 185 cm",
+      "title": "Haven Lounge Set, 185 cm",
       "summary": "Brown poly rattan and aluminium frame with light grey cushions and glass table.",
       "variantCount": 1,
       "categoryLabel": "Outdoor Lounge Sets",

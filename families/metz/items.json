@@ -1,13 +1,89 @@
 [
   {
     "name": "metz",
+    "title": "Metz Coffee Table",
+    "href": "/products/coffee-tables/metz/",
+    "type": "dir",
+    "summary": "Metz coffee tables offer a compact square format in three finishes, each sized for relaxed living spaces and everyday use.",
+    "primaryImageUrl": "/products/coffee-tables/metz/209079_8.avif",
+    "filterData": {
+      "searchText": "Metz Metz coffee tables offer a compact square format in three finishes, each sized for relaxed living spaces and everyday use. Coffee Tables Living room Metz Living room Coffee Tables Metz Beige Brown White MDF Oak Wood veneer",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "coffee-tables",
+          "label": "Coffee Tables",
+          "href": "/products/coffee-tables/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "metz",
+          "label": "Metz",
+          "href": "/families/metz/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        },
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "mdf",
+          "label": "MDF",
+          "href": "/materials/mdf/"
+        },
+        {
+          "key": "oak",
+          "label": "Oak",
+          "href": "/materials/oak/"
+        },
+        {
+          "key": "wood-veneer",
+          "label": "Wood veneer",
+          "href": "/materials/wood-veneer/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Metz",
+      "summary": "Metz coffee tables offer a compact square format in three finishes, each sized for relaxed living spaces and everyday use.",
+      "variantCount": 3,
+      "categoryLabel": "Coffee Tables",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": "Metz"
+    }
+  },
+  {
+    "name": "metz",
     "title": "Metz Dining Table",
     "href": "/products/dining-tables/metz/",
     "type": "dir",
-    "summary": "A round dining table with a natural Beige veneer surface and a light, sturdy base. Designed to comfortably seat four and fit modern interiors.",
-    "primaryImageUrl": "/products/dining-tables/metz/208710_1.avif",
+    "summary": "Metz dining tables offer fixed and extending options in brown, beige and white finishes, with materials that vary by model.",
+    "primaryImageUrl": "/products/dining-tables/metz/188365_3.avif",
     "filterData": {
-      "searchText": "Metz A round dining table with a natural Beige veneer surface and a light, sturdy base. Designed to comfortably seat four and fit modern interiors. Dining Tables Dining room Metz Dining room Dining Tables Metz Beige Brown White MDF Oak Pine Plywood Wood veneer Dimensions Depth 120 cm cm Dimensions Diameter 120 cm cm Dimensions Extended width 160 cm cm Dimensions Height 75 cm cm Dimensions Width 120 cm cm Finish Surface finish Lacquered Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 20 kg kg Logistics Weight 21 kg kg Logistics Weight 21.5 kg kg Logistics Weight 33 kg kg Logistics Weight 55 kg kg Setup Assembly time 15 min min Setup Assembly time 30 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Metz Metz dining tables offer fixed and extending options in brown, beige and white finishes, with materials that vary by model. Dining Tables Dining room Metz Dining room Dining Tables Metz Beige Brown White MDF Oak Pine Plywood Wood veneer Dimensions Depth 120 cm cm Dimensions Diameter 120 cm cm Dimensions Extended width 160 cm cm Dimensions Height 75 cm cm Dimensions Width 120 cm cm Finish Surface finish Lacquered Logistics Package count 1 package package Logistics Package weight 20 kg kg Logistics Package weight 21 kg kg Logistics Package weight 21.5 kg kg Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 33 kg kg Logistics Weight 55 kg kg Setup Assembly time 15 min min Setup Assembly time 30 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "dining-room",
@@ -162,6 +238,42 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "21-kg",
+          "valueLabel": "21 kg",
+          "href": "/attributes/logistics/package-weight/21-kg/",
+          "valueType": "enum",
+          "numericValue": 21,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "21-5-kg",
+          "valueLabel": "21.5 kg",
+          "href": "/attributes/logistics/package-weight/21-5-kg/",
+          "valueType": "enum",
+          "numericValue": 21.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -182,42 +294,6 @@
           "valueType": "enum",
           "numericValue": 0.37,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "20-kg",
-          "valueLabel": "20 kg",
-          "href": "/attributes/logistics/weight/20-kg/",
-          "valueType": "enum",
-          "numericValue": 20,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "21-kg",
-          "valueLabel": "21 kg",
-          "href": "/attributes/logistics/weight/21-kg/",
-          "valueType": "enum",
-          "numericValue": 21,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "21-5-kg",
-          "valueLabel": "21.5 kg",
-          "href": "/attributes/logistics/weight/21-5-kg/",
-          "valueType": "enum",
-          "numericValue": 21.5,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -295,8 +371,8 @@
     },
     "sortData": {
       "title": "Metz",
-      "summary": "A round dining table with a natural Beige veneer surface and a light, sturdy base. Designed to comfortably seat four and fit modern interiors.",
-      "variantCount": 5,
+      "summary": "Metz dining tables offer fixed and extending options in brown, beige and white finishes, with materials that vary by model.",
+      "variantCount": 6,
       "categoryLabel": "Dining Tables",
       "collectionLabel": "Dining room",
       "productFamilyLabel": "Metz"

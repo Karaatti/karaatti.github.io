@@ -2,37 +2,45 @@
   {
     "sku": "208782",
     "name": "208782",
-    "title": "Voyage 3-Seater Sofa, White",
-    "variantSummary": "220 x 88 cm / Comfort foam / White",
+    "title": "Voyage Sofa, White",
+    "variantSummary": "220 × 88 cm / Comfort foam / White",
     "shortDescription": "White fabric upholstery with solid wood frame and soft foam and feather cushioning.",
     "selectionAttributes": {
-      "dimensions": "220 x 88 cm",
+      "dimensions": "220 × 88 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
       "color": "White",
-      "material": "Solid wood, Plywood, Foam, Feather"
+      "material": "Solid wood, Plywood, Foam, Feather",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Sofa",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/three-seater-sofas/voyage/208782_1.avif",
-    "imageUrl": "/products/three-seater-sofas/voyage/208782_1.avif",
+    "primaryImageUrl": "/products/three-seater-sofas/voyage/208782_10.avif",
+    "imageUrl": "/products/three-seater-sofas/voyage/208782_10.avif",
     "imageUrls": [
-      "/products/three-seater-sofas/voyage/208782_1.avif",
+      "/products/three-seater-sofas/voyage/208782_10.avif",
       "/products/three-seater-sofas/voyage/208782_2.avif",
+      "/products/three-seater-sofas/voyage/208782_12.avif",
+      "/products/three-seater-sofas/voyage/208782_5.avif",
+      "/products/three-seater-sofas/voyage/208782_11.avif",
+      "/products/three-seater-sofas/voyage/208782_13.avif",
+      "/products/three-seater-sofas/voyage/208782_1.avif",
       "/products/three-seater-sofas/voyage/208782_3.avif",
       "/products/three-seater-sofas/voyage/208782_4.avif",
-      "/products/three-seater-sofas/voyage/208782_5.avif",
       "/products/three-seater-sofas/voyage/208782_6.avif",
       "/products/three-seater-sofas/voyage/208782_7.avif",
       "/products/three-seater-sofas/voyage/208782_8.avif",
-      "/products/three-seater-sofas/voyage/208782_9.avif",
-      "/products/three-seater-sofas/voyage/208782_10.avif",
-      "/products/three-seater-sofas/voyage/208782_11.avif",
-      "/products/three-seater-sofas/voyage/208782_12.avif",
-      "/products/three-seater-sofas/voyage/208782_13.avif"
+      "/products/three-seater-sofas/voyage/208782_9.avif"
     ],
     "href": "/products/three-seater-sofas/voyage/208782",
     "type": "file",
     "filterData": {
-      "searchText": "Voyage 3-Seater Sofa, White White fabric upholstery with solid wood frame and soft foam and feather cushioning. 3-Seater Sofas Living room Voyage Living room 3-Seater Sofas Voyage White Feather Foam Plastic Plywood Solid wood Care Cleaning method Water wash Care Removable covers Yes Dimensions Depth 88 cm cm Dimensions Height 88 cm cm Dimensions Width 220 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Weight 50 kg kg Logistics Weight 60 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Voyage Sofa, White White fabric upholstery with solid wood frame and soft foam and feather cushioning. 3-Seater Sofas Living room Voyage Living room 3-Seater Sofas Voyage White Feather Foam Plastic Plywood Solid wood Care Cleaning method Water wash Care Removable covers Yes Dimensions Depth 88 cm cm Dimensions Height 88 cm cm Dimensions Width 220 cm cm Logistics Package count 1 package package Logistics Package weight 60 kg kg Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Weight 50 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -165,6 +173,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "60-kg",
+          "valueLabel": "60 kg",
+          "href": "/attributes/logistics/package-weight/60-kg/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -196,18 +216,6 @@
           "href": "/attributes/logistics/weight/50-kg/",
           "valueType": "enum",
           "numericValue": 50,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "60-kg",
-          "valueLabel": "60 kg",
-          "href": "/attributes/logistics/weight/60-kg/",
-          "valueType": "enum",
-          "numericValue": 60,
           "unit": "kg"
         },
         {
@@ -249,7 +257,7 @@
       ]
     },
     "sortData": {
-      "title": "Voyage 3-Seater Sofa, White",
+      "title": "Voyage Sofa, White",
       "summary": "White fabric upholstery with solid wood frame and soft foam and feather cushioning.",
       "variantCount": 1,
       "categoryLabel": "3-Seater Sofas",
@@ -260,35 +268,43 @@
   {
     "sku": "208783",
     "name": "208783",
-    "title": "Voyage 3-Seater Sofa, Green",
-    "variantSummary": "220 x 88 cm / Comfort foam / Green",
+    "title": "Voyage Sofa, Green",
+    "variantSummary": "220 × 88 cm / Comfort foam / Green",
     "shortDescription": "Green fabric upholstery with solid wood frame and soft foam and feather cushioning.",
     "selectionAttributes": {
-      "dimensions": "220 x 88 cm",
+      "dimensions": "220 × 88 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
       "color": "Green",
-      "material": "Solid wood, Plywood, Foam, Feather"
+      "material": "Solid wood, Plywood, Foam, Feather",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Sofa",
+      "colorLabel": "Green",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/three-seater-sofas/voyage/208783_1.avif",
-    "imageUrl": "/products/three-seater-sofas/voyage/208783_1.avif",
+    "primaryImageUrl": "/products/three-seater-sofas/voyage/208783_2.avif",
+    "imageUrl": "/products/three-seater-sofas/voyage/208783_2.avif",
     "imageUrls": [
-      "/products/three-seater-sofas/voyage/208783_1.avif",
       "/products/three-seater-sofas/voyage/208783_2.avif",
+      "/products/three-seater-sofas/voyage/208783_9.avif",
+      "/products/three-seater-sofas/voyage/208783_8.avif",
+      "/products/three-seater-sofas/voyage/208783_10.avif",
+      "/products/three-seater-sofas/voyage/208783_11.avif",
+      "/products/three-seater-sofas/voyage/208783_1.avif",
       "/products/three-seater-sofas/voyage/208783_3.avif",
       "/products/three-seater-sofas/voyage/208783_4.avif",
       "/products/three-seater-sofas/voyage/208783_5.avif",
       "/products/three-seater-sofas/voyage/208783_6.avif",
-      "/products/three-seater-sofas/voyage/208783_7.avif",
-      "/products/three-seater-sofas/voyage/208783_8.avif",
-      "/products/three-seater-sofas/voyage/208783_9.avif",
-      "/products/three-seater-sofas/voyage/208783_10.avif",
-      "/products/three-seater-sofas/voyage/208783_11.avif"
+      "/products/three-seater-sofas/voyage/208783_7.avif"
     ],
     "href": "/products/three-seater-sofas/voyage/208783",
     "type": "file",
     "filterData": {
-      "searchText": "Voyage 3-Seater Sofa, Green Green fabric upholstery with solid wood frame and soft foam and feather cushioning. 3-Seater Sofas Living room Voyage Living room 3-Seater Sofas Voyage Green Feather Foam Plastic Plywood Solid wood Care Cleaning method Water wash Care Removable covers Yes Dimensions Depth 88 cm cm Dimensions Height 88 cm cm Dimensions Width 220 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Weight 50 kg kg Logistics Weight 60 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Voyage Sofa, Green Green fabric upholstery with solid wood frame and soft foam and feather cushioning. 3-Seater Sofas Living room Voyage Living room 3-Seater Sofas Voyage Green Feather Foam Plastic Plywood Solid wood Care Cleaning method Water wash Care Removable covers Yes Dimensions Depth 88 cm cm Dimensions Height 88 cm cm Dimensions Width 220 cm cm Logistics Package count 1 package package Logistics Package weight 60 kg kg Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Weight 50 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -421,6 +437,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "60-kg",
+          "valueLabel": "60 kg",
+          "href": "/attributes/logistics/package-weight/60-kg/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -452,18 +480,6 @@
           "href": "/attributes/logistics/weight/50-kg/",
           "valueType": "enum",
           "numericValue": 50,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "60-kg",
-          "valueLabel": "60 kg",
-          "href": "/attributes/logistics/weight/60-kg/",
-          "valueType": "enum",
-          "numericValue": 60,
           "unit": "kg"
         },
         {
@@ -505,7 +521,7 @@
       ]
     },
     "sortData": {
-      "title": "Voyage 3-Seater Sofa, Green",
+      "title": "Voyage Sofa, Green",
       "summary": "Green fabric upholstery with solid wood frame and soft foam and feather cushioning.",
       "variantCount": 1,
       "categoryLabel": "3-Seater Sofas",

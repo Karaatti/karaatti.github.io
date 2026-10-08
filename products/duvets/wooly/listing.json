@@ -1,0 +1,64 @@
+{
+  "familyTitle": "Wooly",
+  "familySummary": "Wooly duvets in White combine Cotton and Wool in a simple, versatile layer for the bed.",
+  "familyDescription": "The Wooly family offers a duvet in a clean White finish with a soft, understated look for everyday sleeping spaces. Its Cotton and Wool material combination gives the range a natural, familiar character that suits a calm bedroom setting. Sized at 150 × 200 × 1 cm, it is a practical choice for use on a single bed or as a lighter covering layer. The simple appearance makes it easy to pair with different bedding styles, whether kept minimal or layered with other textiles.",
+  "primaryImageUrl": "/products/duvets/wooly/221937_2.avif",
+  "schemaCategory": "Duvets",
+  "variantCount": 1,
+  "productFamilyName": "Wooly",
+  "productFamilyKey": "wooly",
+  "productFamilyRelativeDir": "families/wooly",
+  "filterData": {
+    "searchText": "Wooly Wooly duvets in White combine Cotton and Wool in a simple, versatile layer for the bed. Duvets Bedroom Wooly Bedroom Duvets Wooly White Cotton Wool",
+    "collections": [
+      {
+        "key": "bedroom",
+        "label": "Bedroom",
+        "href": "/collections/bedroom"
+      }
+    ],
+    "categories": [
+      {
+        "key": "duvets",
+        "label": "Duvets",
+        "href": "/products/duvets/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "wooly",
+        "label": "Wooly",
+        "href": "/families/wooly/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "white",
+        "label": "White",
+        "href": "/colors/white/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "cotton",
+        "label": "Cotton",
+        "href": "/materials/cotton/"
+      },
+      {
+        "key": "wool",
+        "label": "Wool",
+        "href": "/materials/wool/"
+      }
+    ],
+    "specifications": [],
+    "attributes": []
+  },
+  "sortData": {
+    "title": "Wooly",
+    "summary": "Wooly duvets in White combine Cotton and Wool in a simple, versatile layer for the bed.",
+    "variantCount": 1,
+    "categoryLabel": "Duvets",
+    "collectionLabel": "Bedroom",
+    "productFamilyLabel": "Wooly"
+  }
+}

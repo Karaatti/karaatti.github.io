@@ -1,14 +1,15 @@
 {
   "familyTitle": "Haven",
   "familySummary": "The Haven dining table features a sleek design with a durable aluminium frame and warm polyrattan finish. Its elegant glass top is easy to maintain. Measuring 200 x 100 cm, it provides ample space and assembles in about 30 minutes.",
-  "primaryImageUrl": "/products/outdoor-dining-tables/haven/197626_1.avif",
+  "familyDescription": "The Haven dining table is a modern centrepiece for home or terrace dining. Its sturdy aluminium frame and polyrattan finish create a warm and inviting atmosphere. The glass surface is refined and easy to care for, offering generous space for shared meals.",
+  "primaryImageUrl": "/products/outdoor-dining-tables/haven/197626_5.avif",
   "schemaCategory": "Outdoor Dining Tables",
   "variantCount": 1,
   "productFamilyName": "Haven",
   "productFamilyKey": "haven",
   "productFamilyRelativeDir": "families/haven",
   "filterData": {
-    "searchText": "Haven The Haven dining table features a sleek design with a durable aluminium frame and warm polyrattan finish. Its elegant glass top is easy to maintain. Measuring 200 x 100 cm, it provides ample space and assembles in about 30 minutes. Outdoor Dining Tables Outdoor Haven Outdoor Outdoor Dining Tables Haven Brown Aluminium Glass Polyrattan Dimensions Depth 200 cm cm Dimensions Height 74 cm cm Dimensions Width 100 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.34 m³ m³ Logistics Weight 39 kg kg Logistics Weight 42 kg kg Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+    "searchText": "Haven The Haven dining table features a sleek design with a durable aluminium frame and warm polyrattan finish. Its elegant glass top is easy to maintain. Measuring 200 x 100 cm, it provides ample space and assembles in about 30 minutes. Outdoor Dining Tables Outdoor Haven Outdoor Outdoor Dining Tables Haven Beige Aluminium Glass Polyrattan Dimensions Depth 200 cm cm Dimensions Height 74 cm cm Dimensions Width 100 cm cm Logistics Package count 1 package package Logistics Package weight 42 kg kg Logistics Product count 1 product product Logistics Volume 0.34 m³ m³ Logistics Weight 39 kg kg Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "outdoor",
@@ -32,9 +33,9 @@
     ],
     "colors": [
       {
-        "key": "brown",
-        "label": "Brown",
-        "href": "/colors/brown/"
+        "key": "beige",
+        "label": "Beige",
+        "href": "/colors/beige/"
       }
     ],
     "materials": [
@@ -107,6 +108,18 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "42-kg",
+        "valueLabel": "42 kg",
+        "href": "/attributes/logistics/package-weight/42-kg/",
+        "valueType": "enum",
+        "numericValue": 42,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "1-product",
@@ -138,18 +151,6 @@
         "href": "/attributes/logistics/weight/39-kg/",
         "valueType": "enum",
         "numericValue": 39,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "42-kg",
-        "valueLabel": "42 kg",
-        "href": "/attributes/logistics/weight/42-kg/",
-        "valueType": "enum",
-        "numericValue": 42,
         "unit": "kg"
       },
       {

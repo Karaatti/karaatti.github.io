@@ -2,28 +2,37 @@
   {
     "sku": "197717",
     "name": "197717",
-    "title": "Moon Gold Continental Bed, Beige, 120 x 200 cm, Pocket spring",
-    "variantSummary": "120 x 200 cm / Pocket spring / Beige",
+    "title": "Moon Gold Continental Bed, Beige, 120 × 200 cm, Pocket spring",
+    "variantSummary": "120 × 200 cm / Pocket spring / Beige",
     "shortDescription": "120 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support.",
     "selectionAttributes": {
-      "dimensions": "120 x 200 cm",
+      "dimensions": "120 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Beige",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_12.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_12.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_12.avif",
+      "/products/continental-beds/moon-gold/197717_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_7.avif",
-      "/products/continental-beds/moon-gold/197717_1.avif",
-      "/products/continental-beds/moon-gold/197717_2.avif"
+      "/products/continental-beds/moon-gold/197717_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197717",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Beige, 120 x 200 cm, Pocket spring 120 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 120 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.54 m³ m³ Logistics Weight 32 kg kg Logistics Weight 52 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Beige, 120 × 200 cm, Pocket spring 120 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 120 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 32 kg kg Logistics Product count 1 product product Logistics Volume 0.54 m³ m³ Logistics Weight 52 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -168,6 +177,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "32-kg",
+          "valueLabel": "32 kg",
+          "href": "/attributes/logistics/package-weight/32-kg/",
+          "valueType": "enum",
+          "numericValue": 32,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -188,18 +209,6 @@
           "valueType": "enum",
           "numericValue": 0.54,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "32-kg",
-          "valueLabel": "32 kg",
-          "href": "/attributes/logistics/weight/32-kg/",
-          "valueType": "enum",
-          "numericValue": 32,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -288,7 +297,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Beige, 120 x 200 cm, Pocket spring",
+      "title": "Moon Gold Continental Bed, Beige, 120 × 200 cm, Pocket spring",
       "summary": "120 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -299,28 +308,37 @@
   {
     "sku": "197718",
     "name": "197718",
-    "title": "Moon Gold Continental Bed, Beige, 140 x 200 cm, Pocket spring",
-    "variantSummary": "140 x 200 cm / Pocket spring / Beige",
+    "title": "Moon Gold Continental Bed, Beige, 140 × 200 cm, Pocket spring",
+    "variantSummary": "140 × 200 cm / Pocket spring / Beige",
     "shortDescription": "140 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support.",
     "selectionAttributes": {
-      "dimensions": "140 x 200 cm",
+      "dimensions": "140 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Beige",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_12.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_12.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_12.avif",
+      "/products/continental-beds/moon-gold/197717_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_7.avif",
-      "/products/continental-beds/moon-gold/197718_1.avif",
-      "/products/continental-beds/moon-gold/197718_2.avif"
+      "/products/continental-beds/moon-gold/197717_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197718",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Beige, 140 x 200 cm, Pocket spring 140 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.63 m³ m³ Logistics Weight 25 kg kg Logistics Weight 59 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Beige, 140 × 200 cm, Pocket spring 140 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 25 kg kg Logistics Product count 1 product product Logistics Volume 0.63 m³ m³ Logistics Weight 59 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -461,6 +479,18 @@
           "valueType": "enum",
           "numericValue": 1,
           "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -491,18 +521,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "59-kg",
           "valueLabel": "59 kg",
           "href": "/attributes/logistics/weight/59-kg/",
@@ -585,7 +603,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Beige, 140 x 200 cm, Pocket spring",
+      "title": "Moon Gold Continental Bed, Beige, 140 × 200 cm, Pocket spring",
       "summary": "140 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -596,30 +614,39 @@
   {
     "sku": "197719",
     "name": "197719",
-    "title": "Moon Gold Continental Bed, Beige, 160 x 200 cm, Pocket spring",
-    "variantSummary": "160 x 200 cm / Pocket spring / Beige",
+    "title": "Moon Gold Continental Bed, Beige, 160 × 200 cm, Pocket spring",
+    "variantSummary": "160 × 200 cm / Pocket spring / Beige",
     "shortDescription": "160 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support.",
     "selectionAttributes": {
-      "dimensions": "160 x 200 cm",
+      "dimensions": "160 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Beige",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_11.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_11.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
+      "/products/continental-beds/moon-gold/197719_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_11.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_8.avif",
       "/products/continental-beds/moon-gold/197719_1.avif",
-      "/products/continental-beds/moon-gold/197719_2.avif",
       "/products/continental-beds/moon-gold/197719_3.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197719",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Beige, 160 x 200 cm, Pocket spring 160 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 160 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 2 package package Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 22 kg kg Logistics Weight 65 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Beige, 160 × 200 cm, Pocket spring 160 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 160 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 2 package package Logistics Package weight 22 kg kg Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 65 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -764,6 +791,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "22-kg",
+          "valueLabel": "22 kg",
+          "href": "/attributes/logistics/package-weight/22-kg/",
+          "valueType": "enum",
+          "numericValue": 22,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -784,18 +823,6 @@
           "valueType": "enum",
           "numericValue": 0.37,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "22-kg",
-          "valueLabel": "22 kg",
-          "href": "/attributes/logistics/weight/22-kg/",
-          "valueType": "enum",
-          "numericValue": 22,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -884,7 +911,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Beige, 160 x 200 cm, Pocket spring",
+      "title": "Moon Gold Continental Bed, Beige, 160 × 200 cm, Pocket spring",
       "summary": "160 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -895,28 +922,37 @@
   {
     "sku": "197720",
     "name": "197720",
-    "title": "Moon Gold Continental Bed, Beige, 180 x 200 cm, Pocket spring",
-    "variantSummary": "180 x 200 cm / Pocket spring / Beige",
+    "title": "Moon Gold Continental Bed, Beige, 180 × 200 cm, Pocket spring",
+    "variantSummary": "180 × 200 cm / Pocket spring / Beige",
     "shortDescription": "180 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support.",
     "selectionAttributes": {
-      "dimensions": "180 x 200 cm",
+      "dimensions": "180 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Beige",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
+      "/products/continental-beds/moon-gold/197719_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_9.avif",
-      "/products/continental-beds/moon-gold/197720_1.avif",
-      "/products/continental-beds/moon-gold/197720_2.avif"
+      "/products/continental-beds/moon-gold/197720_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197720",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Beige, 180 x 200 cm, Pocket spring 180 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 180 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.8 m³ m³ Logistics Weight 29 kg kg Logistics Weight 71 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Beige, 180 × 200 cm, Pocket spring 180 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 180 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 29 kg kg Logistics Product count 1 product product Logistics Volume 0.8 m³ m³ Logistics Weight 71 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1061,6 +1097,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/package-weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1081,18 +1129,6 @@
           "valueType": "enum",
           "numericValue": 0.8,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "29-kg",
-          "valueLabel": "29 kg",
-          "href": "/attributes/logistics/weight/29-kg/",
-          "valueType": "enum",
-          "numericValue": 29,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1181,7 +1217,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Beige, 180 x 200 cm, Pocket spring",
+      "title": "Moon Gold Continental Bed, Beige, 180 × 200 cm, Pocket spring",
       "summary": "180 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -1192,28 +1228,37 @@
   {
     "sku": "197721",
     "name": "197721",
-    "title": "Moon Gold Continental Bed, Beige, 200 x 200 cm, Pocket spring",
-    "variantSummary": "200 x 200 cm / Pocket spring / Beige",
+    "title": "Moon Gold Continental Bed, Beige, 200 × 200 cm, Pocket spring",
+    "variantSummary": "200 × 200 cm / Pocket spring / Beige",
     "shortDescription": "200 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support.",
     "selectionAttributes": {
-      "dimensions": "200 x 200 cm",
+      "dimensions": "200 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Beige",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
+      "/products/continental-beds/moon-gold/197719_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_9.avif",
-      "/products/continental-beds/moon-gold/197721_1.avif",
-      "/products/continental-beds/moon-gold/197721_2.avif"
+      "/products/continental-beds/moon-gold/197720_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197721",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Beige, 200 x 200 cm, Pocket spring 200 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 200 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Weight 3.4 kg kg Logistics Weight 89 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Beige, 200 × 200 cm, Pocket spring 200 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 200 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 3.4 kg kg Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Weight 89 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1358,6 +1403,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-4-kg",
+          "valueLabel": "3.4 kg",
+          "href": "/attributes/logistics/package-weight/3-4-kg/",
+          "valueType": "enum",
+          "numericValue": 3.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1378,18 +1435,6 @@
           "valueType": "enum",
           "numericValue": 0.04,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "3-4-kg",
-          "valueLabel": "3.4 kg",
-          "href": "/attributes/logistics/weight/3-4-kg/",
-          "valueType": "enum",
-          "numericValue": 3.4,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1478,7 +1523,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Beige, 200 x 200 cm, Pocket spring",
+      "title": "Moon Gold Continental Bed, Beige, 200 × 200 cm, Pocket spring",
       "summary": "200 x 200 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -1489,28 +1534,36 @@
   {
     "sku": "197722",
     "name": "197722",
-    "title": "Moon Gold Continental Bed, Black, 120 x 200 cm, Pocket spring",
-    "variantSummary": "120 x 200 cm / Pocket spring / Black",
+    "title": "Moon Gold Continental Bed, Grey, 120 × 200 cm, Pocket spring",
+    "variantSummary": "120 × 200 cm / Pocket spring / Grey",
     "shortDescription": "120 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support.",
     "selectionAttributes": {
-      "dimensions": "120 x 200 cm",
+      "dimensions": "120 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
-      "color": "Black",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "color": "Grey",
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_5.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_5.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_6.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_6.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_6.avif",
+      "/products/continental-beds/moon-gold/197722_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_5.avif",
-      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_6.jpg",
-      "/products/continental-beds/moon-gold/197722_1.avif",
-      "/products/continental-beds/moon-gold/197722_2.avif"
+      "/products/continental-beds/moon-gold/197722_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197722",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Black, 120 x 200 cm, Pocket spring 120 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Black Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 120 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.54 m³ m³ Logistics Weight 24 kg kg Logistics Weight 52 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Grey, 120 × 200 cm, Pocket spring 120 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Grey Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 120 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 24 kg kg Logistics Product count 1 product product Logistics Volume 0.54 m³ m³ Logistics Weight 52 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1534,9 +1587,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -1655,6 +1708,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "24-kg",
+          "valueLabel": "24 kg",
+          "href": "/attributes/logistics/package-weight/24-kg/",
+          "valueType": "enum",
+          "numericValue": 24,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1675,18 +1740,6 @@
           "valueType": "enum",
           "numericValue": 0.54,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "24-kg",
-          "valueLabel": "24 kg",
-          "href": "/attributes/logistics/weight/24-kg/",
-          "valueType": "enum",
-          "numericValue": 24,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1775,7 +1828,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Black, 120 x 200 cm, Pocket spring",
+      "title": "Moon Gold Continental Bed, Grey, 120 × 200 cm, Pocket spring",
       "summary": "120 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -1786,28 +1839,36 @@
   {
     "sku": "197723",
     "name": "197723",
-    "title": "Moon Gold Continental Bed, Black, 140 x 200 cm, Pocket spring",
-    "variantSummary": "140 x 200 cm / Pocket spring / Black",
+    "title": "Moon Gold Continental Bed, Grey, 140 × 200 cm, Pocket spring",
+    "variantSummary": "140 × 200 cm / Pocket spring / Grey",
     "shortDescription": "140 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support.",
     "selectionAttributes": {
-      "dimensions": "140 x 200 cm",
+      "dimensions": "140 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
-      "color": "Black",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "color": "Grey",
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_5.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_5.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_6.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_6.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_6.avif",
+      "/products/continental-beds/moon-gold/197722_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_5.avif",
-      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_6.jpg",
-      "/products/continental-beds/moon-gold/197723_1.avif",
-      "/products/continental-beds/moon-gold/197723_2.avif"
+      "/products/continental-beds/moon-gold/197722_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197723",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Black, 140 x 200 cm, Pocket spring 140 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Black Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.62 m³ m³ Logistics Weight 38 kg kg Logistics Weight 59 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Grey, 140 × 200 cm, Pocket spring 140 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Grey Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 38 kg kg Logistics Product count 1 product product Logistics Volume 0.62 m³ m³ Logistics Weight 59 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1831,9 +1892,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -1952,6 +2013,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "38-kg",
+          "valueLabel": "38 kg",
+          "href": "/attributes/logistics/package-weight/38-kg/",
+          "valueType": "enum",
+          "numericValue": 38,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1972,18 +2045,6 @@
           "valueType": "enum",
           "numericValue": 0.62,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "38-kg",
-          "valueLabel": "38 kg",
-          "href": "/attributes/logistics/weight/38-kg/",
-          "valueType": "enum",
-          "numericValue": 38,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2072,7 +2133,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Black, 140 x 200 cm, Pocket spring",
+      "title": "Moon Gold Continental Bed, Grey, 140 × 200 cm, Pocket spring",
       "summary": "140 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -2083,30 +2144,38 @@
   {
     "sku": "197724",
     "name": "197724",
-    "title": "Moon Gold Continental Bed, Black, 160 x 200 cm, Pocket spring",
-    "variantSummary": "160 x 200 cm / Pocket spring / Black",
+    "title": "Moon Gold Continental Bed, Grey, 160 × 200 cm, Pocket spring",
+    "variantSummary": "160 × 200 cm / Pocket spring / Grey",
     "shortDescription": "160 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support.",
     "selectionAttributes": {
-      "dimensions": "160 x 200 cm",
+      "dimensions": "160 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
-      "color": "Black",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "color": "Grey",
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_160_x_200_cm_3.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_160_x_200_cm_3.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
+      "/products/continental-beds/moon-gold/197724_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_160_x_200_cm_3.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_4.avif",
-      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.jpg",
       "/products/continental-beds/moon-gold/197724_1.avif",
-      "/products/continental-beds/moon-gold/197724_2.avif",
       "/products/continental-beds/moon-gold/197724_3.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197724",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Black, 160 x 200 cm, Pocket spring 160 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Black Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 160 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 2 package package Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 22 kg kg Logistics Weight 65 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Grey, 160 × 200 cm, Pocket spring 160 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Grey Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 160 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 2 package package Logistics Package weight 22 kg kg Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 65 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2130,9 +2199,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -2251,6 +2320,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "22-kg",
+          "valueLabel": "22 kg",
+          "href": "/attributes/logistics/package-weight/22-kg/",
+          "valueType": "enum",
+          "numericValue": 22,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2271,18 +2352,6 @@
           "valueType": "enum",
           "numericValue": 0.37,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "22-kg",
-          "valueLabel": "22 kg",
-          "href": "/attributes/logistics/weight/22-kg/",
-          "valueType": "enum",
-          "numericValue": 22,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2371,7 +2440,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Black, 160 x 200 cm, Pocket spring",
+      "title": "Moon Gold Continental Bed, Grey, 160 × 200 cm, Pocket spring",
       "summary": "160 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -2382,28 +2451,36 @@
   {
     "sku": "197725",
     "name": "197725",
-    "title": "Moon Gold Continental Bed, Black, 180 x 200 cm, Pocket spring",
-    "variantSummary": "180 x 200 cm / Pocket spring / Black",
+    "title": "Moon Gold Continental Bed, Grey, 180 × 200 cm, Pocket spring",
+    "variantSummary": "180 × 200 cm / Pocket spring / Grey",
     "shortDescription": "180 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support.",
     "selectionAttributes": {
-      "dimensions": "180 x 200 cm",
+      "dimensions": "180 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
-      "color": "Black",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "color": "Grey",
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_4.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_4.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
+      "/products/continental-beds/moon-gold/197724_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_4.avif",
-      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.jpg",
-      "/products/continental-beds/moon-gold/197725_1.avif",
-      "/products/continental-beds/moon-gold/197725_2.avif"
+      "/products/continental-beds/moon-gold/197724_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197725",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Black, 180 x 200 cm, Pocket spring 180 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Black Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 180 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.8 m³ m³ Logistics Weight 29 kg kg Logistics Weight 71 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Grey, 180 × 200 cm, Pocket spring 180 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Grey Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 180 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 29 kg kg Logistics Product count 1 product product Logistics Volume 0.8 m³ m³ Logistics Weight 71 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2427,9 +2504,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -2548,6 +2625,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/package-weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2568,18 +2657,6 @@
           "valueType": "enum",
           "numericValue": 0.8,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "29-kg",
-          "valueLabel": "29 kg",
-          "href": "/attributes/logistics/weight/29-kg/",
-          "valueType": "enum",
-          "numericValue": 29,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2668,7 +2745,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Black, 180 x 200 cm, Pocket spring",
+      "title": "Moon Gold Continental Bed, Grey, 180 × 200 cm, Pocket spring",
       "summary": "180 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -2679,28 +2756,36 @@
   {
     "sku": "197726",
     "name": "197726",
-    "title": "Moon Gold Continental Bed, Black, 200 x 200 cm, Pocket spring",
-    "variantSummary": "200 x 200 cm / Pocket spring / Black",
+    "title": "Moon Gold Continental Bed, Grey, 200 × 200 cm, Pocket spring",
+    "variantSummary": "200 × 200 cm / Pocket spring / Grey",
     "shortDescription": "200 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support.",
     "selectionAttributes": {
-      "dimensions": "200 x 200 cm",
+      "dimensions": "200 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
-      "color": "Black",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "color": "Grey",
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_3.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_3.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
+      "/products/continental-beds/moon-gold/197724_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_3.avif",
-      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.jpg",
-      "/products/continental-beds/moon-gold/197726_1.avif",
-      "/products/continental-beds/moon-gold/197726_2.avif"
+      "/products/continental-beds/moon-gold/197726_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197726",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Black, 200 x 200 cm, Pocket spring 200 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Black Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 200 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Weight 3.4 kg kg Logistics Weight 89 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Grey, 200 × 200 cm, Pocket spring 200 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Grey Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 200 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 3.4 kg kg Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Weight 89 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2724,9 +2809,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -2845,6 +2930,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-4-kg",
+          "valueLabel": "3.4 kg",
+          "href": "/attributes/logistics/package-weight/3-4-kg/",
+          "valueType": "enum",
+          "numericValue": 3.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2865,18 +2962,6 @@
           "valueType": "enum",
           "numericValue": 0.04,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "3-4-kg",
-          "valueLabel": "3.4 kg",
-          "href": "/attributes/logistics/weight/3-4-kg/",
-          "valueType": "enum",
-          "numericValue": 3.4,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2965,7 +3050,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Black, 200 x 200 cm, Pocket spring",
+      "title": "Moon Gold Continental Bed, Grey, 200 × 200 cm, Pocket spring",
       "summary": "200 x 200 cm, anthracite upholstery with 15 cm black cone legs, 7-zone pocket spring support.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -2976,21 +3061,30 @@
   {
     "sku": "197727",
     "name": "197727",
-    "title": "Moon Gold Continental Bed, Beige, 120 x 200 cm, Memory foam",
-    "variantSummary": "120 x 200 cm / Memory foam / Beige",
+    "title": "Moon Gold Continental Bed, Beige, 120 × 200 cm, Memory foam",
+    "variantSummary": "120 × 200 cm / Memory foam / Beige",
     "shortDescription": "120 x 200 cm, beige upholstery with smoked ash cone legs, memory foam mattress.",
     "selectionAttributes": {
-      "dimensions": "120 x 200 cm",
+      "dimensions": "120 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
       "color": "Beige",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_1.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_1.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_12.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_12.avif",
     "imageUrls": [
-      "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_1.avif",
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_12.avif",
       "/products/continental-beds/moon-gold/197727_3.avif",
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_1.avif",
       "/products/continental-beds/moon-gold/197727_4.avif",
       "/products/continental-beds/moon-gold/197727_5.avif",
       "/products/continental-beds/moon-gold/197727_6.avif",
@@ -2999,7 +3093,7 @@
     "href": "/products/continental-beds/moon-gold/197727",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Beige, 120 x 200 cm, Memory foam 120 x 200 cm, beige upholstery with smoked ash cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 120 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.54 m³ m³ Logistics Weight 25 kg kg Logistics Weight 53 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Beige, 120 × 200 cm, Memory foam 120 x 200 cm, beige upholstery with smoked ash cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 120 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 25 kg kg Logistics Product count 1 product product Logistics Volume 0.54 m³ m³ Logistics Weight 53 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -3149,6 +3243,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -3169,18 +3275,6 @@
           "valueType": "enum",
           "numericValue": 0.54,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -3257,7 +3351,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Beige, 120 x 200 cm, Memory foam",
+      "title": "Moon Gold Continental Bed, Beige, 120 × 200 cm, Memory foam",
       "summary": "120 x 200 cm, beige upholstery with smoked ash cone legs, memory foam mattress.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -3268,28 +3362,37 @@
   {
     "sku": "197728",
     "name": "197728",
-    "title": "Moon Gold Continental Bed, Beige, 140 x 200 cm, Memory foam",
-    "variantSummary": "140 x 200 cm / Memory foam / Beige",
+    "title": "Moon Gold Continental Bed, Beige, 140 × 200 cm, Memory foam",
+    "variantSummary": "140 × 200 cm / Memory foam / Beige",
     "shortDescription": "140 x 200 cm, beige upholstery with smoked ash cone legs, memory foam mattress.",
     "selectionAttributes": {
-      "dimensions": "140 x 200 cm",
+      "dimensions": "140 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
       "color": "Beige",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_12.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_12.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_12.avif",
+      "/products/continental-beds/moon-gold/197717_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_7.avif",
-      "/products/continental-beds/moon-gold/197728_1.avif",
-      "/products/continental-beds/moon-gold/197728_2.avif"
+      "/products/continental-beds/moon-gold/197717_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197728",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Beige, 140 x 200 cm, Memory foam 140 x 200 cm, beige upholstery with smoked ash cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.63 m³ m³ Logistics Weight 38 kg kg Logistics Weight 63 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Beige, 140 × 200 cm, Memory foam 140 x 200 cm, beige upholstery with smoked ash cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 38 kg kg Logistics Product count 1 product product Logistics Volume 0.63 m³ m³ Logistics Weight 63 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -3439,6 +3542,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "38-kg",
+          "valueLabel": "38 kg",
+          "href": "/attributes/logistics/package-weight/38-kg/",
+          "valueType": "enum",
+          "numericValue": 38,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -3459,18 +3574,6 @@
           "valueType": "enum",
           "numericValue": 0.63,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "38-kg",
-          "valueLabel": "38 kg",
-          "href": "/attributes/logistics/weight/38-kg/",
-          "valueType": "enum",
-          "numericValue": 38,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -3547,8 +3650,85 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Beige, 140 x 200 cm, Memory foam",
+      "title": "Moon Gold Continental Bed, Beige, 140 × 200 cm, Memory foam",
       "summary": "140 x 200 cm, beige upholstery with smoked ash cone legs, memory foam mattress.",
+      "variantCount": 1,
+      "categoryLabel": "Continental Beds",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Moon Gold"
+    }
+  },
+  {
+    "sku": "197729",
+    "name": "197729",
+    "title": "Moon Gold Continental Bed, Beige, 160 × 200 cm, Memory foam",
+    "variantSummary": "160 × 200 cm / Memory foam / Beige",
+    "shortDescription": "Moon Gold Continental Bed in beige, sized 160 × 200 × 57 cm, for a calm and versatile bedroom setting.",
+    "selectionAttributes": {
+      "dimensions": "160 × 200 cm",
+      "handedness": "",
+      "comfortType": "Memory foam",
+      "color": "Beige",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
+    },
+    "primaryImageUrl": "/products/continental-beds/moon-gold/197729_1.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/197729_1.avif",
+    "imageUrls": [
+      "/products/continental-beds/moon-gold/197729_1.avif"
+    ],
+    "href": "/products/continental-beds/moon-gold/197729",
+    "type": "file",
+    "filterData": {
+      "searchText": "Moon Gold Continental Bed, Beige, 160 × 200 cm, Memory foam Moon Gold Continental Bed in beige, sized 160 × 200 × 57 cm, for a calm and versatile bedroom setting. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Memory foam",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "continental-beds",
+          "label": "Continental Beds",
+          "href": "/products/continental-beds/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "moon-gold",
+          "label": "Moon Gold",
+          "href": "/families/moon-gold/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "memory-foam",
+          "label": "Memory foam",
+          "href": "/materials/memory-foam/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Moon Gold Continental Bed, Beige, 160 × 200 cm, Memory foam",
+      "summary": "Moon Gold Continental Bed in beige, sized 160 × 200 × 57 cm, for a calm and versatile bedroom setting.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
       "collectionLabel": "Bedroom",
@@ -3558,28 +3738,37 @@
   {
     "sku": "197730",
     "name": "197730",
-    "title": "Moon Gold Continental Bed, Beige, 180 x 200 cm, Memory foam",
-    "variantSummary": "180 x 200 cm / Memory foam / Beige",
+    "title": "Moon Gold Continental Bed, Beige, 180 × 200 cm, Memory foam",
+    "variantSummary": "180 × 200 cm / Memory foam / Beige",
     "shortDescription": "180 x 200 cm, beige upholstery with smoked ash cone legs, memory foam mattress.",
     "selectionAttributes": {
-      "dimensions": "180 x 200 cm",
+      "dimensions": "180 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
       "color": "Beige",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_11.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_11.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
+      "/products/continental-beds/moon-gold/197719_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_11.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
-      "/products/continental-beds/moon-gold/197730_1.avif",
-      "/products/continental-beds/moon-gold/197730_2.avif"
+      "/products/continental-beds/moon-gold/197719_3.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197730",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Beige, 180 x 200 cm, Memory foam 180 x 200 cm, beige upholstery with smoked ash cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 180 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.8 m³ m³ Logistics Weight 36.5 kg kg Logistics Weight 79 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Continental Bed, Beige, 180 × 200 cm, Memory foam 180 x 200 cm, beige upholstery with smoked ash cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 180 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 36.5 kg kg Logistics Product count 1 product product Logistics Volume 0.8 m³ m³ Logistics Weight 79 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -3729,6 +3918,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "36-5-kg",
+          "valueLabel": "36.5 kg",
+          "href": "/attributes/logistics/package-weight/36-5-kg/",
+          "valueType": "enum",
+          "numericValue": 36.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -3749,18 +3950,6 @@
           "valueType": "enum",
           "numericValue": 0.8,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "36-5-kg",
-          "valueLabel": "36.5 kg",
-          "href": "/attributes/logistics/weight/36-5-kg/",
-          "valueType": "enum",
-          "numericValue": 36.5,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -3837,7 +4026,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Beige, 180 x 200 cm, Memory foam",
+      "title": "Moon Gold Continental Bed, Beige, 180 × 200 cm, Memory foam",
       "summary": "180 x 200 cm, beige upholstery with smoked ash cone legs, memory foam mattress.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -3848,28 +4037,37 @@
   {
     "sku": "197731",
     "name": "197731",
-    "title": "Moon Gold Continental Bed, Beige, 200 x 200 cm, Memory foam",
-    "variantSummary": "200 x 200 cm / Memory foam / Beige",
+    "title": "Moon Gold Continental Bed, Beige, 200 × 200 cm, Memory foam",
+    "variantSummary": "200 × 200 cm / Memory foam / Beige",
     "shortDescription": "200 x 200 cm, beige upholstery with smoked ash cone legs, memory foam mattress.",
     "selectionAttributes": {
-      "dimensions": "200 x 200 cm",
+      "dimensions": "200 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
       "color": "Beige",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
+      "/products/continental-beds/moon-gold/197719_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_9.avif",
-      "/products/continental-beds/moon-gold/197731_1.avif",
-      "/products/continental-beds/moon-gold/197731_2.avif"
+      "/products/continental-beds/moon-gold/197720_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197731",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Beige, 200 x 200 cm, Memory foam 200 x 200 cm, beige upholstery with smoked ash cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 200 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.1 m³ m³ Logistics Weight 1 kg kg Logistics Weight 89 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Beige, 200 × 200 cm, Memory foam 200 x 200 cm, beige upholstery with smoked ash cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 200 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 1 kg kg Logistics Product count 1 product product Logistics Volume 0.1 m³ m³ Logistics Weight 89 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -4019,6 +4217,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/package-weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -4039,18 +4249,6 @@
           "valueType": "enum",
           "numericValue": 0.1,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "1-kg",
-          "valueLabel": "1 kg",
-          "href": "/attributes/logistics/weight/1-kg/",
-          "valueType": "enum",
-          "numericValue": 1,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -4127,7 +4325,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Beige, 200 x 200 cm, Memory foam",
+      "title": "Moon Gold Continental Bed, Beige, 200 × 200 cm, Memory foam",
       "summary": "200 x 200 cm, beige upholstery with smoked ash cone legs, memory foam mattress.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -4138,19 +4336,28 @@
   {
     "sku": "197732",
     "name": "197732",
-    "title": "Moon Gold Continental Bed, Black, 120 x 200 cm, Memory foam",
-    "variantSummary": "120 x 200 cm / Memory foam / Black",
+    "title": "Moon Gold Continental Bed, Grey, 120 × 200 cm, Memory foam",
+    "variantSummary": "120 × 200 cm / Memory foam / Grey",
     "shortDescription": "120 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress.",
     "selectionAttributes": {
-      "dimensions": "120 x 200 cm",
+      "dimensions": "120 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Black",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "color": "Grey",
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_1.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_1.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_6.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_6.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_6.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_1.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_160_x_200_cm_2.avif",
       "/products/continental-beds/moon-gold/197732_3.avif",
@@ -4164,7 +4371,7 @@
     "href": "/products/continental-beds/moon-gold/197732",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Black, 120 x 200 cm, Memory foam 120 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Black Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 120 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.51 m³ m³ Logistics Weight 25 kg kg Logistics Weight 53 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Grey, 120 × 200 cm, Memory foam 120 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Grey Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 120 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 25 kg kg Logistics Product count 1 product product Logistics Volume 0.51 m³ m³ Logistics Weight 53 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -4188,9 +4395,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -4314,6 +4521,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -4334,18 +4553,6 @@
           "valueType": "enum",
           "numericValue": 0.51,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -4422,7 +4629,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Black, 120 x 200 cm, Memory foam",
+      "title": "Moon Gold Continental Bed, Grey, 120 × 200 cm, Memory foam",
       "summary": "120 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -4433,28 +4640,36 @@
   {
     "sku": "197733",
     "name": "197733",
-    "title": "Moon Gold Continental Bed, Black, 140 x 200 cm, Memory foam",
-    "variantSummary": "140 x 200 cm / Memory foam / Black",
+    "title": "Moon Gold Continental Bed, Grey, 140 × 200 cm, Memory foam",
+    "variantSummary": "140 × 200 cm / Memory foam / Grey",
     "shortDescription": "140 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress.",
     "selectionAttributes": {
-      "dimensions": "140 x 200 cm",
+      "dimensions": "140 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Black",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "color": "Grey",
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_5.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_5.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_6.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_6.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_6.avif",
+      "/products/continental-beds/moon-gold/197722_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_5.avif",
-      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_6.jpg",
-      "/products/continental-beds/moon-gold/197733_1.avif",
-      "/products/continental-beds/moon-gold/197733_2.avif"
+      "/products/continental-beds/moon-gold/197722_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197733",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Black, 140 x 200 cm, Memory foam 140 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Black Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.63 m³ m³ Logistics Weight 25 kg kg Logistics Weight 63 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Grey, 140 × 200 cm, Memory foam 140 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Grey Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 25 kg kg Logistics Product count 1 product product Logistics Volume 0.63 m³ m³ Logistics Weight 63 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -4478,9 +4693,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -4604,6 +4819,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -4624,18 +4851,6 @@
           "valueType": "enum",
           "numericValue": 0.63,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -4712,7 +4927,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Black, 140 x 200 cm, Memory foam",
+      "title": "Moon Gold Continental Bed, Grey, 140 × 200 cm, Memory foam",
       "summary": "140 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -4723,28 +4938,37 @@
   {
     "sku": "197734",
     "name": "197734",
-    "title": "Moon Gold Continental Bed, Black, 160 x 200 cm, Memory foam",
-    "variantSummary": "160 x 200 cm / Memory foam / Black",
+    "title": "Moon Gold Continental Bed, Grey, 160 × 200 cm, Memory foam",
+    "variantSummary": "160 × 200 cm / Memory foam / Grey",
     "shortDescription": "160 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress.",
     "selectionAttributes": {
-      "dimensions": "160 x 200 cm",
+      "dimensions": "160 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Black",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "color": "Grey",
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_160_x_200_cm_3.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_160_x_200_cm_3.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_160_x_200_cm_3.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_4.avif",
-      "/products/continental-beds/moon-gold/197734_1.avif",
-      "/products/continental-beds/moon-gold/197734_2.avif"
+      "/products/continental-beds/moon-gold/197724_1.avif",
+      "/products/continental-beds/moon-gold/197724_3.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197734",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Black, 160 x 200 cm, Memory foam 160 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Black Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 160 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 2 package package Logistics Product count 1 product product Logistics Volume 0.36 m³ m³ Logistics Weight 22 kg kg Logistics Weight 69 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Grey, 160 × 200 cm, Memory foam 160 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Grey Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 160 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 2 package package Logistics Package weight 22 kg kg Logistics Product count 1 product product Logistics Volume 0.36 m³ m³ Logistics Weight 69 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -4768,9 +4992,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -4894,6 +5118,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "22-kg",
+          "valueLabel": "22 kg",
+          "href": "/attributes/logistics/package-weight/22-kg/",
+          "valueType": "enum",
+          "numericValue": 22,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -4914,18 +5150,6 @@
           "valueType": "enum",
           "numericValue": 0.36,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "22-kg",
-          "valueLabel": "22 kg",
-          "href": "/attributes/logistics/weight/22-kg/",
-          "valueType": "enum",
-          "numericValue": 22,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -5002,7 +5226,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Black, 160 x 200 cm, Memory foam",
+      "title": "Moon Gold Continental Bed, Grey, 160 × 200 cm, Memory foam",
       "summary": "160 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -5013,26 +5237,35 @@
   {
     "sku": "197735",
     "name": "197735",
-    "title": "Moon Gold Continental Bed, Black, 180 x 200 cm, Memory foam",
-    "variantSummary": "180 x 200 cm / Memory foam / Black",
+    "title": "Moon Gold Continental Bed, Grey, 180 × 200 cm, Memory foam",
+    "variantSummary": "180 × 200 cm / Memory foam / Grey",
     "shortDescription": "180 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress.",
     "selectionAttributes": {
-      "dimensions": "180 x 200 cm",
+      "dimensions": "180 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Black",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "color": "Grey",
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_4.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_4.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_4.avif",
       "/products/continental-beds/moon-gold/197735_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197735",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Black, 180 x 200 cm, Memory foam 180 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Black Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 180 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.8 m³ m³ Logistics Weight 36.5 kg kg Logistics Weight 79 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Grey, 180 × 200 cm, Memory foam 180 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Grey Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 180 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 36.5 kg kg Logistics Product count 1 product product Logistics Volume 0.8 m³ m³ Logistics Weight 79 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -5056,9 +5289,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -5182,6 +5415,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "36-5-kg",
+          "valueLabel": "36.5 kg",
+          "href": "/attributes/logistics/package-weight/36-5-kg/",
+          "valueType": "enum",
+          "numericValue": 36.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -5202,18 +5447,6 @@
           "valueType": "enum",
           "numericValue": 0.8,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "36-5-kg",
-          "valueLabel": "36.5 kg",
-          "href": "/attributes/logistics/weight/36-5-kg/",
-          "valueType": "enum",
-          "numericValue": 36.5,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -5290,7 +5523,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Black, 180 x 200 cm, Memory foam",
+      "title": "Moon Gold Continental Bed, Grey, 180 × 200 cm, Memory foam",
       "summary": "180 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -5301,26 +5534,35 @@
   {
     "sku": "197736",
     "name": "197736",
-    "title": "Moon Gold Continental Bed, Black, 200 x 200 cm, Memory foam",
-    "variantSummary": "200 x 200 cm / Memory foam / Black",
+    "title": "Moon Gold Continental Bed, Grey, 200 × 200 cm, Memory foam",
+    "variantSummary": "200 × 200 cm / Memory foam / Grey",
     "shortDescription": "200 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress.",
     "selectionAttributes": {
-      "dimensions": "200 x 200 cm",
+      "dimensions": "200 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Black",
-      "material": "Fabric, Wood, Metal, Foam, Particle board"
+      "color": "Grey",
+      "material": "Fabric, Wood, Metal, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_4.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_4.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_4.avif",
       "/products/continental-beds/moon-gold/197736_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/197736",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Black, 200 x 200 cm, Memory foam 200 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Black Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 200 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 2 package package Logistics Product count 1 product product Logistics Volume 0.43 m³ m³ Logistics Weight 27 kg kg Logistics Weight 89 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Grey, 200 × 200 cm, Memory foam 200 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Grey Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 200 cm cm Dimensions Height 57 cm cm Dimensions Width 200 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 2 package package Logistics Package weight 27 kg kg Logistics Product count 1 product product Logistics Volume 0.43 m³ m³ Logistics Weight 89 kg kg Setup Assembly time 30 min min Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -5344,9 +5586,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -5470,6 +5712,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/package-weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -5490,18 +5744,6 @@
           "valueType": "enum",
           "numericValue": 0.43,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "27-kg",
-          "valueLabel": "27 kg",
-          "href": "/attributes/logistics/weight/27-kg/",
-          "valueType": "enum",
-          "numericValue": 27,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -5578,7 +5820,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Black, 200 x 200 cm, Memory foam",
+      "title": "Moon Gold Continental Bed, Grey, 200 × 200 cm, Memory foam",
       "summary": "200 x 200 cm, anthracite upholstery with 15 cm black cone legs, memory foam mattress.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -5589,28 +5831,37 @@
   {
     "sku": "209335",
     "name": "209335",
-    "title": "Moon Gold Continental Bed, Beige, 160 x 210 cm, Pocket spring",
-    "variantSummary": "160 x 210 cm / Pocket spring / Beige",
+    "title": "Moon Gold Continental Bed, Beige, 160 × 210 cm, Pocket spring",
+    "variantSummary": "160 × 210 cm / Pocket spring / Beige",
     "shortDescription": "160 x 210 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support.",
     "selectionAttributes": {
-      "dimensions": "160 x 210 cm",
+      "dimensions": "160 × 210 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Beige",
-      "material": "Metal, Fabric, Wood, Foam, Particle board"
+      "material": "Metal, Fabric, Wood, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
+      "/products/continental-beds/moon-gold/197719_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_8.avif",
-      "/products/continental-beds/moon-gold/209335_1.avif",
-      "/products/continental-beds/moon-gold/209335_2.avif"
+      "/products/continental-beds/moon-gold/197719_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/209335",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Beige, 160 x 210 cm, Pocket spring 160 x 210 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 210 cm cm Dimensions Height 57 cm cm Dimensions Width 160 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 2 package package Logistics Product count 1 product product Logistics Volume 0.38 m³ m³ Logistics Weight 25 kg kg Logistics Weight 73 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Continental Bed, Beige, 160 × 210 cm, Pocket spring 160 x 210 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 210 cm cm Dimensions Height 57 cm cm Dimensions Width 160 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 2 package package Logistics Package weight 25 kg kg Logistics Product count 1 product product Logistics Volume 0.38 m³ m³ Logistics Weight 73 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -5755,6 +6006,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -5775,18 +6038,6 @@
           "valueType": "enum",
           "numericValue": 0.38,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -5863,7 +6114,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Beige, 160 x 210 cm, Pocket spring",
+      "title": "Moon Gold Continental Bed, Beige, 160 × 210 cm, Pocket spring",
       "summary": "160 x 210 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -5874,28 +6125,37 @@
   {
     "sku": "209336",
     "name": "209336",
-    "title": "Moon Gold Continental Bed, Beige, 180 x 210 cm, Pocket spring",
-    "variantSummary": "180 x 210 cm / Pocket spring / Beige",
+    "title": "Moon Gold Continental Bed, Beige, 180 × 210 cm, Pocket spring",
+    "variantSummary": "180 × 210 cm / Pocket spring / Beige",
     "shortDescription": "180 x 210 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support.",
     "selectionAttributes": {
-      "dimensions": "180 x 210 cm",
+      "dimensions": "180 × 210 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Beige",
-      "material": "Metal, Fabric, Wood, Foam, Particle board"
+      "material": "Metal, Fabric, Wood, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
+      "/products/continental-beds/moon-gold/197719_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_8.avif",
-      "/products/continental-beds/moon-gold/209336_1.avif",
-      "/products/continental-beds/moon-gold/209336_2.avif"
+      "/products/continental-beds/moon-gold/197719_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/209336",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Beige, 180 x 210 cm, Pocket spring 180 x 210 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 210 cm cm Dimensions Height 57 cm cm Dimensions Width 180 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.81 m³ m³ Logistics Weight 32 kg kg Logistics Weight 80 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Continental Bed, Beige, 180 × 210 cm, Pocket spring 180 x 210 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 210 cm cm Dimensions Height 57 cm cm Dimensions Width 180 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 32 kg kg Logistics Product count 1 product product Logistics Volume 0.81 m³ m³ Logistics Weight 80 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -6040,6 +6300,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "32-kg",
+          "valueLabel": "32 kg",
+          "href": "/attributes/logistics/package-weight/32-kg/",
+          "valueType": "enum",
+          "numericValue": 32,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -6060,18 +6332,6 @@
           "valueType": "enum",
           "numericValue": 0.81,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "32-kg",
-          "valueLabel": "32 kg",
-          "href": "/attributes/logistics/weight/32-kg/",
-          "valueType": "enum",
-          "numericValue": 32,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -6148,7 +6408,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Beige, 180 x 210 cm, Pocket spring",
+      "title": "Moon Gold Continental Bed, Beige, 180 × 210 cm, Pocket spring",
       "summary": "180 x 210 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -6159,28 +6419,37 @@
   {
     "sku": "209337",
     "name": "209337",
-    "title": "Moon Gold Continental Bed, Beige, 200 x 210 cm, Pocket spring",
-    "variantSummary": "200 x 210 cm / Pocket spring / Beige",
+    "title": "Moon Gold Continental Bed, Beige, 200 × 210 cm, Pocket spring",
+    "variantSummary": "200 × 210 cm / Pocket spring / Beige",
     "shortDescription": "200 x 210 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support.",
     "selectionAttributes": {
-      "dimensions": "200 x 210 cm",
+      "dimensions": "200 × 210 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Beige",
-      "material": "Metal, Fabric, Wood, Foam, Particle board"
+      "material": "Metal, Fabric, Wood, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_10.avif",
+      "/products/continental-beds/moon-gold/197719_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_8.avif",
-      "/products/continental-beds/moon-gold/209337_1.avif",
-      "/products/continental-beds/moon-gold/209337_2.avif"
+      "/products/continental-beds/moon-gold/197719_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/209337",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Beige, 200 x 210 cm, Pocket spring 200 x 210 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 210 cm cm Dimensions Height 57 cm cm Dimensions Width 200 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.06 m³ m³ Logistics Weight 3.2 kg kg Logistics Weight 91.2 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Beige, 200 × 210 cm, Pocket spring 200 x 210 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Beige Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 210 cm cm Dimensions Height 57 cm cm Dimensions Width 200 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 3.2 kg kg Logistics Product count 1 product product Logistics Volume 0.06 m³ m³ Logistics Weight 91.2 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -6321,6 +6590,18 @@
           "valueType": "enum",
           "numericValue": 1,
           "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-2-kg",
+          "valueLabel": "3.2 kg",
+          "href": "/attributes/logistics/package-weight/3-2-kg/",
+          "valueType": "enum",
+          "numericValue": 3.2,
+          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -6351,18 +6632,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "3-2-kg",
-          "valueLabel": "3.2 kg",
-          "href": "/attributes/logistics/weight/3-2-kg/",
-          "valueType": "enum",
-          "numericValue": 3.2,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "91-2-kg",
           "valueLabel": "91.2 kg",
           "href": "/attributes/logistics/weight/91-2-kg/",
@@ -6433,7 +6702,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Beige, 200 x 210 cm, Pocket spring",
+      "title": "Moon Gold Continental Bed, Beige, 200 × 210 cm, Pocket spring",
       "summary": "200 x 210 cm, beige upholstery with smoked ash cone legs, 7-zone pocket spring support.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -6444,28 +6713,36 @@
   {
     "sku": "209338",
     "name": "209338",
-    "title": "Moon Gold Continental Bed, Grey, 160 x 210 cm, Pocket spring",
-    "variantSummary": "160 x 210 cm / Pocket spring / Grey",
+    "title": "Moon Gold Continental Bed, Grey, 160 × 210 cm, Pocket spring",
+    "variantSummary": "160 × 210 cm / Pocket spring / Grey",
     "shortDescription": "160 x 210 cm, grey upholstery with 15 cm black cone legs, 7-zone pocket spring support.",
     "selectionAttributes": {
-      "dimensions": "160 x 210 cm",
+      "dimensions": "160 × 210 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Grey",
-      "material": "Metal, Fabric, Wood, Foam, Particle board"
+      "material": "Metal, Fabric, Wood, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_3.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_3.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
+      "/products/continental-beds/moon-gold/197724_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_3.avif",
-      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.jpg",
-      "/products/continental-beds/moon-gold/209338_1.avif",
-      "/products/continental-beds/moon-gold/209338_2.avif"
+      "/products/continental-beds/moon-gold/197726_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/209338",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Grey, 160 x 210 cm, Pocket spring 160 x 210 cm, grey upholstery with 15 cm black cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Grey Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 210 cm cm Dimensions Height 57 cm cm Dimensions Width 160 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 2 package package Logistics Product count 1 product product Logistics Volume 0.38 m³ m³ Logistics Weight 25 kg kg Logistics Weight 73 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Continental Bed, Grey, 160 × 210 cm, Pocket spring 160 x 210 cm, grey upholstery with 15 cm black cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Grey Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 210 cm cm Dimensions Height 57 cm cm Dimensions Width 160 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 2 package package Logistics Package weight 25 kg kg Logistics Product count 1 product product Logistics Volume 0.38 m³ m³ Logistics Weight 73 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -6610,6 +6887,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -6630,18 +6919,6 @@
           "valueType": "enum",
           "numericValue": 0.38,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -6718,7 +6995,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Grey, 160 x 210 cm, Pocket spring",
+      "title": "Moon Gold Continental Bed, Grey, 160 × 210 cm, Pocket spring",
       "summary": "160 x 210 cm, grey upholstery with 15 cm black cone legs, 7-zone pocket spring support.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -6729,28 +7006,36 @@
   {
     "sku": "209339",
     "name": "209339",
-    "title": "Moon Gold Continental Bed, Grey, 180 x 210 cm, Pocket spring",
-    "variantSummary": "180 x 210 cm / Pocket spring / Grey",
+    "title": "Moon Gold Continental Bed, Grey, 180 × 210 cm, Pocket spring",
+    "variantSummary": "180 × 210 cm / Pocket spring / Grey",
     "shortDescription": "180 x 210 cm, grey upholstery with 15 cm black cone legs, 7-zone pocket spring support.",
     "selectionAttributes": {
-      "dimensions": "180 x 210 cm",
+      "dimensions": "180 × 210 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Grey",
-      "material": "Metal, Fabric, Wood, Foam, Particle board"
+      "material": "Metal, Fabric, Wood, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_3.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_3.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
+      "/products/continental-beds/moon-gold/197724_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_3.avif",
-      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.jpg",
-      "/products/continental-beds/moon-gold/209339_1.avif",
-      "/products/continental-beds/moon-gold/209339_2.avif"
+      "/products/continental-beds/moon-gold/197726_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/209339",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Grey, 180 x 210 cm, Pocket spring 180 x 210 cm, grey upholstery with 15 cm black cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Grey Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 210 cm cm Dimensions Height 57 cm cm Dimensions Width 180 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.81 m³ m³ Logistics Weight 32 kg kg Logistics Weight 80 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Continental Bed, Grey, 180 × 210 cm, Pocket spring 180 x 210 cm, grey upholstery with 15 cm black cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Grey Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 210 cm cm Dimensions Height 57 cm cm Dimensions Width 180 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 32 kg kg Logistics Product count 1 product product Logistics Volume 0.81 m³ m³ Logistics Weight 80 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -6895,6 +7180,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "32-kg",
+          "valueLabel": "32 kg",
+          "href": "/attributes/logistics/package-weight/32-kg/",
+          "valueType": "enum",
+          "numericValue": 32,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -6915,18 +7212,6 @@
           "valueType": "enum",
           "numericValue": 0.81,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "32-kg",
-          "valueLabel": "32 kg",
-          "href": "/attributes/logistics/weight/32-kg/",
-          "valueType": "enum",
-          "numericValue": 32,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -7003,7 +7288,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Grey, 180 x 210 cm, Pocket spring",
+      "title": "Moon Gold Continental Bed, Grey, 180 × 210 cm, Pocket spring",
       "summary": "180 x 210 cm, grey upholstery with 15 cm black cone legs, 7-zone pocket spring support.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",
@@ -7014,28 +7299,36 @@
   {
     "sku": "209340",
     "name": "209340",
-    "title": "Moon Gold Continental Bed, Grey, 200 x 210 cm, Pocket spring",
-    "variantSummary": "200 x 210 cm / Pocket spring / Grey",
+    "title": "Moon Gold Continental Bed, Grey, 200 × 210 cm, Pocket spring",
+    "variantSummary": "200 × 210 cm / Pocket spring / Grey",
     "shortDescription": "200 x 210 cm, grey upholstery with 15 cm black cone legs, 7-zone pocket spring support.",
     "selectionAttributes": {
-      "dimensions": "200 x 210 cm",
+      "dimensions": "200 × 210 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Grey",
-      "material": "Metal, Fabric, Wood, Foam, Particle board"
+      "material": "Metal, Fabric, Wood, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Continental bed",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_3.avif",
-    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_3.avif",
+    "primaryImageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
+    "imageUrl": "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
     "imageUrls": [
+      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.avif",
+      "/products/continental-beds/moon-gold/197724_2.avif",
       "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_3.avif",
-      "/products/continental-beds/moon-gold/moon_gold_continental_bed_black_grey_2.jpg",
-      "/products/continental-beds/moon-gold/209340_1.avif",
-      "/products/continental-beds/moon-gold/209340_2.avif"
+      "/products/continental-beds/moon-gold/197726_1.avif"
     ],
     "href": "/products/continental-beds/moon-gold/209340",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Continental Bed, Grey, 200 x 210 cm, Pocket spring 200 x 210 cm, grey upholstery with 15 cm black cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Grey Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 210 cm cm Dimensions Height 57 cm cm Dimensions Width 200 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 2 package package Logistics Product count 1 product product Logistics Volume 0.45 m³ m³ Logistics Weight 17 kg kg Logistics Weight 91.2 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Continental Bed, Grey, 200 × 210 cm, Pocket spring 200 x 210 cm, grey upholstery with 15 cm black cone legs, 7-zone pocket spring support. Continental Beds Bedroom Moon Gold Bedroom Continental Beds Moon Gold Grey Fabric Foam Metal Particle board Wood Comfort Firmness Firm Dimensions Depth 210 cm cm Dimensions Height 57 cm cm Dimensions Width 200 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 2 package package Logistics Package weight 17 kg kg Logistics Product count 1 product product Logistics Volume 0.45 m³ m³ Logistics Weight 91.2 kg kg Setup Assembly time 30 min min Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -7180,6 +7473,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -7200,18 +7505,6 @@
           "valueType": "enum",
           "numericValue": 0.45,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "17-kg",
-          "valueLabel": "17 kg",
-          "href": "/attributes/logistics/weight/17-kg/",
-          "valueType": "enum",
-          "numericValue": 17,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -7288,7 +7581,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Continental Bed, Grey, 200 x 210 cm, Pocket spring",
+      "title": "Moon Gold Continental Bed, Grey, 200 × 210 cm, Pocket spring",
       "summary": "200 x 210 cm, grey upholstery with 15 cm black cone legs, 7-zone pocket spring support.",
       "variantCount": 1,
       "categoryLabel": "Continental Beds",

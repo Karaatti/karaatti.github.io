@@ -5,22 +5,14 @@
     "type": "dir",
     "title": "Moon Gold",
     "schemaCategory": "Headboards and Mattresses",
-    "variantCount": 8
+    "variantCount": 7
   },
   {
     "name": "moon-silver",
     "href": "/families/moon-silver/",
     "type": "dir",
     "title": "Moon Silver",
-    "schemaCategory": "Headboards and Mattresses",
-    "variantCount": 3
-  },
-  {
-    "name": "moon-bronze",
-    "href": "/families/moon-bronze/",
-    "type": "dir",
-    "title": "Moon Bronze",
-    "schemaCategory": "Headboards",
+    "schemaCategory": "Mattresses",
     "variantCount": 1
   }
 ]

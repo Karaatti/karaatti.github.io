@@ -5,9 +5,9 @@
     "href": "/products/dining-chairs/nicola/",
     "type": "dir",
     "summary": "Dining chair with an oak frame and beige fabric upholstery, designed for comfort and understated style.",
-    "primaryImageUrl": "/products/dining-chairs/nicola/200739_1.avif",
+    "primaryImageUrl": "/products/dining-chairs/nicola/200739_4.avif",
     "filterData": {
-      "searchText": "Nicola Dining chair with an oak frame and beige fabric upholstery, designed for comfort and understated style. Dining Chairs Dining room Nicola Dining room Dining Chairs Nicola Beige Fabric Foam Oak Dimensions Depth 56 cm cm Dimensions Height 76 cm cm Dimensions Width 54 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.07 m³ m³ Logistics Weight 6.5 kg kg Logistics Weight 8 kg kg Logistics Weight 8.5 kg kg Setup Assembly time 10 min min Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Nicola Dining chair with an oak frame and beige fabric upholstery, designed for comfort and understated style. Dining Chairs Dining room Nicola Dining room Dining Chairs Nicola Beige Fabric Foam Oak Dimensions Depth 56 cm cm Dimensions Height 76 cm cm Dimensions Width 54 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Package weight 8.5 kg kg Logistics Product count 1 product product Logistics Volume 0.07 m³ m³ Logistics Weight 6.5 kg kg Logistics Weight 8 kg kg Setup Assembly time 10 min min Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "dining-room",
@@ -118,6 +118,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "8-5-kg",
+          "valueLabel": "8.5 kg",
+          "href": "/attributes/logistics/package-weight/8-5-kg/",
+          "valueType": "enum",
+          "numericValue": 8.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -161,18 +173,6 @@
           "href": "/attributes/logistics/weight/8-kg/",
           "valueType": "enum",
           "numericValue": 8,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "8-5-kg",
-          "valueLabel": "8.5 kg",
-          "href": "/attributes/logistics/weight/8-5-kg/",
-          "valueType": "enum",
-          "numericValue": 8.5,
           "unit": "kg"
         },
         {

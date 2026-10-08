@@ -1,0 +1,59 @@
+{
+  "familyTitle": "Glint",
+  "familySummary": "Glint rugs bring a multicolour look in Chenillepolyester, available in two generous sizes for different room layouts.",
+  "familyDescription": "The Glint rug family offers a multicolour finish in Chenillepolyester, bringing an easy way to define a room with colour and pattern. Its low 0.1 cm profile keeps the design visually light while fitting neatly into everyday living spaces. Choose 160 × 230 × 0.1 cm for smaller seating areas or 200 × 290 × 0.1 cm for larger spaces. Both sizes share the same multicolour look and material, making it simple to coordinate across different rooms.",
+  "primaryImageUrl": "/products/rugs/glint/220981_1.avif",
+  "schemaCategory": "Rugs",
+  "variantCount": 2,
+  "productFamilyName": "Glint",
+  "productFamilyKey": "glint",
+  "productFamilyRelativeDir": "families/glint",
+  "filterData": {
+    "searchText": "Glint Glint rugs bring a multicolour look in Chenillepolyester, available in two generous sizes for different room layouts. Rugs Home Details Glint Home Details Rugs Glint Multicolour Chenillepolyester",
+    "collections": [
+      {
+        "key": "home-details",
+        "label": "Home Details",
+        "href": "/collections/storage-shelving"
+      }
+    ],
+    "categories": [
+      {
+        "key": "rugs",
+        "label": "Rugs",
+        "href": "/products/rugs/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "glint",
+        "label": "Glint",
+        "href": "/families/glint/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "multicolour",
+        "label": "Multicolour",
+        "href": "/colors/multicolour/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "chenillepolyester",
+        "label": "Chenillepolyester",
+        "href": "/materials/chenillepolyester/"
+      }
+    ],
+    "specifications": [],
+    "attributes": []
+  },
+  "sortData": {
+    "title": "Glint",
+    "summary": "Glint rugs bring a multicolour look in Chenillepolyester, available in two generous sizes for different room layouts.",
+    "variantCount": 2,
+    "categoryLabel": "Rugs",
+    "collectionLabel": "Home Details",
+    "productFamilyLabel": "Glint"
+  }
+}

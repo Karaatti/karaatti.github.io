@@ -3,34 +3,42 @@
     "sku": "210100",
     "name": "210100",
     "title": "Lugo Corner Sofa, Beige, Left",
-    "variantSummary": "271 x 210 cm / Left / Beige",
+    "variantSummary": "271 × 210 cm / Left / Beige",
     "shortDescription": "Left corner sofa in beige fabric with a solid wood frame.",
     "selectionAttributes": {
-      "dimensions": "271 x 210 cm",
+      "dimensions": "271 × 210 cm",
       "handedness": "Left",
       "comfortType": "",
       "color": "Beige",
-      "material": "Solid wood, Plywood, Foam, Particle board"
+      "material": "Solid wood, Plywood, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Corner sofa",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/lugo/210100_1.avif",
-    "imageUrl": "/products/corner-sofas/lugo/210100_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/lugo/210100_9.avif",
+    "imageUrl": "/products/corner-sofas/lugo/210100_9.avif",
     "imageUrls": [
-      "/products/corner-sofas/lugo/210100_1.avif",
-      "/products/corner-sofas/lugo/210100_2.jpg",
-      "/products/corner-sofas/lugo/210100_3.avif",
-      "/products/corner-sofas/lugo/210100_4.avif",
+      "/products/corner-sofas/lugo/210100_9.avif",
+      "/products/corner-sofas/lugo/210100_12.avif",
+      "/products/corner-sofas/lugo/210100_2.avif",
       "/products/corner-sofas/lugo/210100_5.avif",
       "/products/corner-sofas/lugo/210100_6.avif",
       "/products/corner-sofas/lugo/210100_7.avif",
       "/products/corner-sofas/lugo/210100_8.avif",
-      "/products/corner-sofas/lugo/210100_9.jpg",
-      "/products/corner-sofas/lugo/210100_10.jpg",
-      "/products/corner-sofas/lugo/210100_12.jpg"
+      "/products/corner-sofas/lugo/210100_10.avif",
+      "/products/corner-sofas/lugo/210100_1.avif",
+      "/products/corner-sofas/lugo/210100_3.avif",
+      "/products/corner-sofas/lugo/210100_4.avif"
     ],
     "href": "/products/corner-sofas/lugo/210100",
     "type": "file",
     "filterData": {
-      "searchText": "Lugo Corner Sofa, Beige, Left Left corner sofa in beige fabric with a solid wood frame. Corner Sofas Living room Lugo Living room Corner Sofas Lugo Beige Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 210 cm cm Dimensions Height 70 cm cm Dimensions Width 271 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.41 m³ m³ Logistics Weight 60.2 kg kg Logistics Weight 96.4 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Lugo Corner Sofa, Beige, Left Left corner sofa in beige fabric with a solid wood frame. Corner Sofas Living room Lugo Living room Corner Sofas Lugo Beige Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 210 cm cm Dimensions Height 70 cm cm Dimensions Width 271 cm cm Logistics Package count 1 package package Logistics Package weight 60.2 kg kg Logistics Product count 1 product product Logistics Volume 1.41 m³ m³ Logistics Weight 96.4 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -163,6 +171,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "60-2-kg",
+          "valueLabel": "60.2 kg",
+          "href": "/attributes/logistics/package-weight/60-2-kg/",
+          "valueType": "enum",
+          "numericValue": 60.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -183,18 +203,6 @@
           "valueType": "enum",
           "numericValue": 1.41,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "60-2-kg",
-          "valueLabel": "60.2 kg",
-          "href": "/attributes/logistics/weight/60-2-kg/",
-          "valueType": "enum",
-          "numericValue": 60.2,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -355,30 +363,38 @@
     "sku": "210101",
     "name": "210101",
     "title": "Lugo Corner Sofa, Green, Left",
-    "variantSummary": "271 x 210 cm / Left / Green",
+    "variantSummary": "271 × 210 cm / Left / Green",
     "shortDescription": "Left corner sofa in green fabric with a solid wood frame.",
     "selectionAttributes": {
-      "dimensions": "271 x 210 cm",
+      "dimensions": "271 × 210 cm",
       "handedness": "Left",
       "comfortType": "",
       "color": "Green",
-      "material": "Solid wood, Plywood, Foam, Particle board"
+      "material": "Solid wood, Plywood, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Corner sofa",
+      "colorLabel": "Green",
+      "colorNote": "",
+      "axisPlan": "handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/lugo/210101_1.avif",
-    "imageUrl": "/products/corner-sofas/lugo/210101_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/lugo/210101_6.avif",
+    "imageUrl": "/products/corner-sofas/lugo/210101_6.avif",
     "imageUrls": [
-      "/products/corner-sofas/lugo/210101_1.avif",
-      "/products/corner-sofas/lugo/210101_2.avif",
-      "/products/corner-sofas/lugo/210101_3.avif",
-      "/products/corner-sofas/lugo/210101_4.avif",
-      "/products/corner-sofas/lugo/210101_5.avif",
       "/products/corner-sofas/lugo/210101_6.avif",
-      "/products/corner-sofas/lugo/210101_9.avif"
+      "/products/corner-sofas/lugo/210101_2.avif",
+      "/products/corner-sofas/lugo/210101_9.avif",
+      "/products/corner-sofas/lugo/210101_5.avif",
+      "/products/corner-sofas/lugo/210101_1.avif",
+      "/products/corner-sofas/lugo/210101_3.avif",
+      "/products/corner-sofas/lugo/210101_4.avif"
     ],
     "href": "/products/corner-sofas/lugo/210101",
     "type": "file",
     "filterData": {
-      "searchText": "Lugo Corner Sofa, Green, Left Left corner sofa in green fabric with a solid wood frame. Corner Sofas Living room Lugo Living room Corner Sofas Lugo Green Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 210 cm cm Dimensions Height 70 cm cm Dimensions Width 271 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.16 m³ m³ Logistics Weight 45.3 kg kg Logistics Weight 96.4 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Lugo Corner Sofa, Green, Left Left corner sofa in green fabric with a solid wood frame. Corner Sofas Living room Lugo Living room Corner Sofas Lugo Green Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 210 cm cm Dimensions Height 70 cm cm Dimensions Width 271 cm cm Logistics Package count 1 package package Logistics Package weight 45.3 kg kg Logistics Product count 1 product product Logistics Volume 1.16 m³ m³ Logistics Weight 96.4 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -511,6 +527,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "45-3-kg",
+          "valueLabel": "45.3 kg",
+          "href": "/attributes/logistics/package-weight/45-3-kg/",
+          "valueType": "enum",
+          "numericValue": 45.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -531,18 +559,6 @@
           "valueType": "enum",
           "numericValue": 1.16,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "45-3-kg",
-          "valueLabel": "45.3 kg",
-          "href": "/attributes/logistics/weight/45-3-kg/",
-          "valueType": "enum",
-          "numericValue": 45.3,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -703,32 +719,40 @@
     "sku": "210102",
     "name": "210102",
     "title": "Lugo Corner Sofa, Beige, Right",
-    "variantSummary": "271 x 210 cm / Right / Beige",
+    "variantSummary": "271 × 210 cm / Right / Beige",
     "shortDescription": "Right corner sofa in beige fabric with a solid wood frame.",
     "selectionAttributes": {
-      "dimensions": "271 x 210 cm",
+      "dimensions": "271 × 210 cm",
       "handedness": "Right",
       "comfortType": "",
       "color": "Beige",
-      "material": "Solid wood, Plywood, Foam, Particle board"
+      "material": "Solid wood, Plywood, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Corner sofa",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/lugo/210102_1.avif",
-    "imageUrl": "/products/corner-sofas/lugo/210102_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/lugo/210102_2.avif",
+    "imageUrl": "/products/corner-sofas/lugo/210102_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/lugo/210102_1.avif",
-      "/products/corner-sofas/lugo/210102_2.jpg",
-      "/products/corner-sofas/lugo/210102_3.avif",
+      "/products/corner-sofas/lugo/210102_2.avif",
+      "/products/corner-sofas/lugo/210102_6.avif",
+      "/products/corner-sofas/lugo/210102_9.avif",
       "/products/corner-sofas/lugo/210102_4.avif",
-      "/products/corner-sofas/lugo/210102_5.avif",
-      "/products/corner-sofas/lugo/210102_6.jpg",
-      "/products/corner-sofas/lugo/210102_7.jpg",
-      "/products/corner-sofas/lugo/210102_8.jpg",
-      "/products/corner-sofas/lugo/210102_9.jpg"
+      "/products/corner-sofas/lugo/210102_7.avif",
+      "/products/chaise-sofas/lugo/210106_8.avif",
+      "/products/corner-sofas/lugo/210102_1.avif",
+      "/products/corner-sofas/lugo/210102_3.avif",
+      "/products/corner-sofas/lugo/210102_5.avif"
     ],
     "href": "/products/corner-sofas/lugo/210102",
     "type": "file",
     "filterData": {
-      "searchText": "Lugo Corner Sofa, Beige, Right Right corner sofa in beige fabric with a solid wood frame. Corner Sofas Living room Lugo Living room Corner Sofas Lugo Beige Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 210 cm cm Dimensions Height 70 cm cm Dimensions Width 271 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.16 m³ m³ Logistics Weight 45.3 kg kg Logistics Weight 96.4 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Lugo Corner Sofa, Beige, Right Right corner sofa in beige fabric with a solid wood frame. Corner Sofas Living room Lugo Living room Corner Sofas Lugo Beige Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 210 cm cm Dimensions Height 70 cm cm Dimensions Width 271 cm cm Logistics Package count 1 package package Logistics Package weight 45.3 kg kg Logistics Product count 1 product product Logistics Volume 1.16 m³ m³ Logistics Weight 96.4 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -861,6 +885,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "45-3-kg",
+          "valueLabel": "45.3 kg",
+          "href": "/attributes/logistics/package-weight/45-3-kg/",
+          "valueType": "enum",
+          "numericValue": 45.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -881,18 +917,6 @@
           "valueType": "enum",
           "numericValue": 1.16,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "45-3-kg",
-          "valueLabel": "45.3 kg",
-          "href": "/attributes/logistics/weight/45-3-kg/",
-          "valueType": "enum",
-          "numericValue": 45.3,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1053,32 +1077,40 @@
     "sku": "210103",
     "name": "210103",
     "title": "Lugo Corner Sofa, Green, Right",
-    "variantSummary": "271 x 210 cm / Right / Green",
+    "variantSummary": "271 × 210 cm / Right / Green",
     "shortDescription": "Right corner sofa in green fabric with a solid wood frame.",
     "selectionAttributes": {
-      "dimensions": "271 x 210 cm",
+      "dimensions": "271 × 210 cm",
       "handedness": "Right",
       "comfortType": "",
       "color": "Green",
-      "material": "Solid wood, Plywood, Foam, Particle board"
+      "material": "Solid wood, Plywood, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Corner sofa",
+      "colorLabel": "Green",
+      "colorNote": "",
+      "axisPlan": "handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/lugo/210103_1.avif",
-    "imageUrl": "/products/corner-sofas/lugo/210103_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/lugo/210103_2.avif",
+    "imageUrl": "/products/corner-sofas/lugo/210103_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/lugo/210103_1.avif",
       "/products/corner-sofas/lugo/210103_2.avif",
-      "/products/corner-sofas/lugo/210103_3.avif",
+      "/products/corner-sofas/lugo/210103_8.avif",
+      "/products/corner-sofas/lugo/210103_11.avif",
       "/products/corner-sofas/lugo/210103_4.avif",
       "/products/corner-sofas/lugo/210103_5.avif",
       "/products/corner-sofas/lugo/210103_6.avif",
-      "/products/corner-sofas/lugo/210103_7.avif",
-      "/products/corner-sofas/lugo/210103_8.avif",
-      "/products/corner-sofas/lugo/210103_11.avif"
+      "/products/corner-sofas/lugo/210103_1.avif",
+      "/products/corner-sofas/lugo/210103_3.avif",
+      "/products/corner-sofas/lugo/210103_7.avif"
     ],
     "href": "/products/corner-sofas/lugo/210103",
     "type": "file",
     "filterData": {
-      "searchText": "Lugo Corner Sofa, Green, Right Right corner sofa in green fabric with a solid wood frame. Corner Sofas Living room Lugo Living room Corner Sofas Lugo Green Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 210 cm cm Dimensions Height 70 cm cm Dimensions Width 271 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.16 m³ m³ Logistics Weight 45.3 kg kg Logistics Weight 96.4 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Lugo Corner Sofa, Green, Right Right corner sofa in green fabric with a solid wood frame. Corner Sofas Living room Lugo Living room Corner Sofas Lugo Green Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 210 cm cm Dimensions Height 70 cm cm Dimensions Width 271 cm cm Logistics Package count 1 package package Logistics Package weight 45.3 kg kg Logistics Product count 1 product product Logistics Volume 1.16 m³ m³ Logistics Weight 96.4 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -1211,6 +1243,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "45-3-kg",
+          "valueLabel": "45.3 kg",
+          "href": "/attributes/logistics/package-weight/45-3-kg/",
+          "valueType": "enum",
+          "numericValue": 45.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1231,18 +1275,6 @@
           "valueType": "enum",
           "numericValue": 1.16,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "45-3-kg",
-          "valueLabel": "45.3 kg",
-          "href": "/attributes/logistics/weight/45-3-kg/",
-          "valueType": "enum",
-          "numericValue": 45.3,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",

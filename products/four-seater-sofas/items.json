@@ -5,10 +5,10 @@
     "type": "dir",
     "title": "Heaven",
     "summary": "A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort.",
-    "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+    "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_3.avif",
     "sourceHref": "/products/four-seater-sofas/heaven/",
     "filterData": {
-      "searchText": "Heaven A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort. 4-Seater Sofas Heaven Living room 4-Seater Sofas Heaven Beige Brown Grey Fabric Foam Metal Plywood Wood Care Cleaning method Dry clean Configuration Handedness configuration Reversible Dimensions Depth 106 cm cm Dimensions Depth 182 cm cm Dimensions Height 89 cm cm Dimensions Main section depth 106 cm cm Dimensions Width 266 cm cm Dimensions Width 296 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.45 m³ m³ Logistics Volume 0.54 m³ m³ Logistics Volume 0.58 m³ m³ Logistics Volume 0.86 m³ m³ Logistics Weight 37 kg kg Logistics Weight 37.5 kg kg Logistics Weight 44.5 kg kg Logistics Weight 57 kg kg Logistics Weight 87 kg kg Logistics Weight 118 kg kg Padding Foam density 24 kg/m³ kg/m³ Seating Seat count 3 seat seat Seating Seat count 4 seat seat Setup Assembly time 15 min min Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Heaven A 4-seater divan sofa with a reversible chaise, low armrests, and upholstery in beige, grey, or brown. Made with durable materials for lasting comfort. 4-Seater Sofas Heaven Living room 4-Seater Sofas Heaven Beige Brown Grey Fabric Foam Metal Plywood Wood Care Cleaning method Dry clean Configuration Handedness configuration Reversible Dimensions Depth 106 cm cm Dimensions Depth 182 cm cm Dimensions Height 89 cm cm Dimensions Main section depth 106 cm cm Dimensions Width 266 cm cm Dimensions Width 296 cm cm Logistics Package count 1 package package Logistics Package weight 37 kg kg Logistics Package weight 37.5 kg kg Logistics Package weight 44.5 kg kg Logistics Package weight 57 kg kg Logistics Product count 1 product product Logistics Volume 0.45 m³ m³ Logistics Volume 0.54 m³ m³ Logistics Volume 0.58 m³ m³ Logistics Volume 0.86 m³ m³ Logistics Weight 87 kg kg Logistics Weight 118 kg kg Padding Foam density 24 kg/m³ kg/m³ Seating Seat count 3 seat seat Seating Seat count 4 seat seat Setup Assembly time 15 min min Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -187,6 +187,54 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "37-kg",
+          "valueLabel": "37 kg",
+          "href": "/attributes/logistics/package-weight/37-kg/",
+          "valueType": "enum",
+          "numericValue": 37,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "37-5-kg",
+          "valueLabel": "37.5 kg",
+          "href": "/attributes/logistics/package-weight/37-5-kg/",
+          "valueType": "enum",
+          "numericValue": 37.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "44-5-kg",
+          "valueLabel": "44.5 kg",
+          "href": "/attributes/logistics/package-weight/44-5-kg/",
+          "valueType": "enum",
+          "numericValue": 44.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "57-kg",
+          "valueLabel": "57 kg",
+          "href": "/attributes/logistics/package-weight/57-kg/",
+          "valueType": "enum",
+          "numericValue": 57,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -243,54 +291,6 @@
           "valueType": "enum",
           "numericValue": 0.86,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "37-kg",
-          "valueLabel": "37 kg",
-          "href": "/attributes/logistics/weight/37-kg/",
-          "valueType": "enum",
-          "numericValue": 37,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "37-5-kg",
-          "valueLabel": "37.5 kg",
-          "href": "/attributes/logistics/weight/37-5-kg/",
-          "valueType": "enum",
-          "numericValue": 37.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "44-5-kg",
-          "valueLabel": "44.5 kg",
-          "href": "/attributes/logistics/weight/44-5-kg/",
-          "valueType": "enum",
-          "numericValue": 44.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "57-kg",
-          "valueLabel": "57 kg",
-          "href": "/attributes/logistics/weight/57-kg/",
-          "valueType": "enum",
-          "numericValue": 57,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",

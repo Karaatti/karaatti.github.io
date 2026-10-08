@@ -1,1 +1,146 @@
-[]
+[
+  {
+    "name": "bacoli",
+    "href": "/products/sideboards/bacoli/",
+    "type": "dir",
+    "title": "Bacoli",
+    "summary": "Bacoli sideboards bring a natural oak look to a practical storage piece for dining or living spaces.",
+    "primaryImageUrl": "/products/sideboards/bacoli/209393_1.avif",
+    "sourceHref": "/products/sideboards/bacoli/",
+    "filterData": {
+      "searchText": "Bacoli Bacoli sideboards bring a natural oak look to a practical storage piece for dining or living spaces. Sideboards Bacoli Home Details Sideboards Bacoli Beige MDF Melamine Particle board Plywood Wood veneer",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "sideboards",
+          "label": "Sideboards",
+          "href": "/products/sideboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "bacoli",
+          "label": "Bacoli",
+          "href": "/families/bacoli/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "mdf",
+          "label": "MDF",
+          "href": "/materials/mdf/"
+        },
+        {
+          "key": "melamine",
+          "label": "Melamine",
+          "href": "/materials/melamine/"
+        },
+        {
+          "key": "particle-board",
+          "label": "Particle board",
+          "href": "/materials/particle-board/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "wood-veneer",
+          "label": "Wood veneer",
+          "href": "/materials/wood-veneer/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Bacoli",
+      "summary": "Bacoli sideboards bring a natural oak look to a practical storage piece for dining or living spaces.",
+      "variantCount": 1,
+      "categoryLabel": "Sideboards",
+      "collectionLabel": "",
+      "productFamilyLabel": "Bacoli"
+    }
+  },
+  {
+    "name": "meta",
+    "href": "/products/sideboards/meta/",
+    "type": "dir",
+    "title": "Meta",
+    "summary": "Meta sideboards bring a simple, cabinet-style storage profile in 140 × 45 × 76 cm, offered in natural oak or brown with MDF and wood veneer.",
+    "primaryImageUrl": "/products/sideboards/meta/209405_1.avif",
+    "sourceHref": "/products/sideboards/meta/",
+    "filterData": {
+      "searchText": "Meta Meta sideboards bring a simple, cabinet-style storage profile in 140 × 45 × 76 cm, offered in natural oak or brown with MDF and wood veneer. Sideboards Meta Home Details Sideboards Meta Beige Brown MDF Wood veneer",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "sideboards",
+          "label": "Sideboards",
+          "href": "/products/sideboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "meta",
+          "label": "Meta",
+          "href": "/families/meta/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "mdf",
+          "label": "MDF",
+          "href": "/materials/mdf/"
+        },
+        {
+          "key": "wood-veneer",
+          "label": "Wood veneer",
+          "href": "/materials/wood-veneer/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Meta",
+      "summary": "Meta sideboards bring a simple, cabinet-style storage profile in 140 × 45 × 76 cm, offered in natural oak or brown with MDF and wood veneer.",
+      "variantCount": 2,
+      "categoryLabel": "Sideboards",
+      "collectionLabel": "",
+      "productFamilyLabel": "Meta"
+    }
+  }
+]

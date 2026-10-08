@@ -3,36 +3,44 @@
     "sku": "210104",
     "name": "210104",
     "title": "Lugo Chaise Sofa, Beige, Left",
-    "variantSummary": "277 x 161 cm / Left / Beige",
+    "variantSummary": "277 × 161 cm / Left / Beige",
     "shortDescription": "Left-side chaise, beige fabric upholstery with solid wood frame.",
     "selectionAttributes": {
-      "dimensions": "277 x 161 cm",
+      "dimensions": "277 × 161 cm",
       "handedness": "Left",
       "comfortType": "",
       "color": "Beige",
-      "material": "Solid wood, Plywood, Foam, Particle board"
+      "material": "Solid wood, Plywood, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Chaise sofa",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
-    "imageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
+    "primaryImageUrl": "/products/chaise-sofas/lugo/210104_2.avif",
+    "imageUrl": "/products/chaise-sofas/lugo/210104_2.avif",
     "imageUrls": [
-      "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.jpg",
-      "/products/chaise-sofas/lugo/210104_1.avif",
-      "/products/chaise-sofas/lugo/210104_2.jpg",
-      "/products/chaise-sofas/lugo/210104_3.avif",
-      "/products/chaise-sofas/lugo/210104_4.avif",
+      "/products/chaise-sofas/lugo/210104_2.avif",
+      "/products/chaise-sofas/lugo/210104_10.avif",
+      "/products/chaise-sofas/lugo/210104_13.avif",
+      "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_beige_11.avif",
       "/products/chaise-sofas/lugo/210104_5.avif",
-      "/products/chaise-sofas/lugo/210104_6.avif",
       "/products/chaise-sofas/lugo/210104_7.avif",
       "/products/chaise-sofas/lugo/210104_8.avif",
       "/products/chaise-sofas/lugo/210104_9.avif",
-      "/products/chaise-sofas/lugo/210104_10.jpg",
-      "/products/chaise-sofas/lugo/210104_11.jpg",
-      "/products/chaise-sofas/lugo/210104_13.jpg"
+      "/products/chaise-sofas/lugo/210104_11.avif",
+      "/products/chaise-sofas/lugo/210104_1.avif",
+      "/products/chaise-sofas/lugo/210104_3.avif",
+      "/products/chaise-sofas/lugo/210104_4.avif",
+      "/products/chaise-sofas/lugo/210104_6.avif"
     ],
     "href": "/products/chaise-sofas/lugo/210104",
     "type": "file",
     "filterData": {
-      "searchText": "Lugo Chaise Sofa, Beige, Left Left-side chaise, beige fabric upholstery with solid wood frame. Chaise Sofas Living room Lugo Living room Chaise Sofas Lugo Beige Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 161 cm cm Dimensions Height 70 cm cm Dimensions Width 277 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.13 m³ m³ Logistics Weight 51.4 kg kg Logistics Weight 89 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Lugo Chaise Sofa, Beige, Left Left-side chaise, beige fabric upholstery with solid wood frame. Chaise Sofas Living room Lugo Living room Chaise Sofas Lugo Beige Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 161 cm cm Dimensions Height 70 cm cm Dimensions Width 277 cm cm Logistics Package count 1 package package Logistics Package weight 51.4 kg kg Logistics Product count 1 product product Logistics Volume 1.13 m³ m³ Logistics Weight 89 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -165,6 +173,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "51-4-kg",
+          "valueLabel": "51.4 kg",
+          "href": "/attributes/logistics/package-weight/51-4-kg/",
+          "valueType": "enum",
+          "numericValue": 51.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -185,18 +205,6 @@
           "valueType": "enum",
           "numericValue": 1.13,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "51-4-kg",
-          "valueLabel": "51.4 kg",
-          "href": "/attributes/logistics/weight/51-4-kg/",
-          "valueType": "enum",
-          "numericValue": 51.4,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -357,32 +365,40 @@
     "sku": "210105",
     "name": "210105",
     "title": "Lugo Chaise Sofa, Green, Left",
-    "variantSummary": "277 x 161 cm / Left / Green",
+    "variantSummary": "277 × 161 cm / Left / Green",
     "shortDescription": "Left-side chaise, green fabric upholstery with solid wood frame.",
     "selectionAttributes": {
-      "dimensions": "277 x 161 cm",
+      "dimensions": "277 × 161 cm",
       "handedness": "Left",
       "comfortType": "",
       "color": "Green",
-      "material": "Solid wood, Plywood, Foam, Particle board"
+      "material": "Solid wood, Plywood, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Chaise sofa",
+      "colorLabel": "Green",
+      "colorNote": "",
+      "axisPlan": "handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_green_7.avif",
-    "imageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_green_7.avif",
+    "primaryImageUrl": "/products/chaise-sofas/lugo/210105_2.avif",
+    "imageUrl": "/products/chaise-sofas/lugo/210105_2.avif",
     "imageUrls": [
+      "/products/chaise-sofas/lugo/210105_2.avif",
+      "/products/chaise-sofas/lugo/210105_6.avif",
+      "/products/chaise-sofas/lugo/210105_9.avif",
       "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_green_7.avif",
       "/products/chaise-sofas/lugo/lugo_chaise_sofa_left_green_8.avif",
-      "/products/chaise-sofas/lugo/210105_1.avif",
-      "/products/chaise-sofas/lugo/210105_2.avif",
-      "/products/chaise-sofas/lugo/210105_3.avif",
       "/products/chaise-sofas/lugo/210105_4.avif",
-      "/products/chaise-sofas/lugo/210105_5.avif",
-      "/products/chaise-sofas/lugo/210105_6.avif",
-      "/products/chaise-sofas/lugo/210105_9.avif"
+      "/products/chaise-sofas/lugo/210105_1.avif",
+      "/products/chaise-sofas/lugo/210105_3.avif",
+      "/products/chaise-sofas/lugo/210105_5.avif"
     ],
     "href": "/products/chaise-sofas/lugo/210105",
     "type": "file",
     "filterData": {
-      "searchText": "Lugo Chaise Sofa, Green, Left Left-side chaise, green fabric upholstery with solid wood frame. Chaise Sofas Living room Lugo Living room Chaise Sofas Lugo Green Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 161 cm cm Dimensions Height 70 cm cm Dimensions Width 277 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.16 m³ m³ Logistics Weight 43.5 kg kg Logistics Weight 89 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Lugo Chaise Sofa, Green, Left Left-side chaise, green fabric upholstery with solid wood frame. Chaise Sofas Living room Lugo Living room Chaise Sofas Lugo Green Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 161 cm cm Dimensions Height 70 cm cm Dimensions Width 277 cm cm Logistics Package count 1 package package Logistics Package weight 43.5 kg kg Logistics Product count 1 product product Logistics Volume 1.16 m³ m³ Logistics Weight 89 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -515,6 +531,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "43-5-kg",
+          "valueLabel": "43.5 kg",
+          "href": "/attributes/logistics/package-weight/43-5-kg/",
+          "valueType": "enum",
+          "numericValue": 43.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -535,18 +563,6 @@
           "valueType": "enum",
           "numericValue": 1.16,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "43-5-kg",
-          "valueLabel": "43.5 kg",
-          "href": "/attributes/logistics/weight/43-5-kg/",
-          "valueType": "enum",
-          "numericValue": 43.5,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -707,32 +723,40 @@
     "sku": "210106",
     "name": "210106",
     "title": "Lugo Chaise Sofa, Beige, Right",
-    "variantSummary": "277 x 161 cm / Right / Beige",
+    "variantSummary": "277 × 161 cm / Right / Beige",
     "shortDescription": "Right-side chaise, beige fabric upholstery with solid wood frame.",
     "selectionAttributes": {
-      "dimensions": "277 x 161 cm",
+      "dimensions": "277 × 161 cm",
       "handedness": "Right",
       "comfortType": "",
       "color": "Beige",
-      "material": "Solid wood, Plywood, Foam, Particle board"
+      "material": "Solid wood, Plywood, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Chaise sofa",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/chaise-sofas/lugo/210106_1.avif",
-    "imageUrl": "/products/chaise-sofas/lugo/210106_1.avif",
+    "primaryImageUrl": "/products/chaise-sofas/lugo/210106_2.avif",
+    "imageUrl": "/products/chaise-sofas/lugo/210106_2.avif",
     "imageUrls": [
+      "/products/chaise-sofas/lugo/210106_2.avif",
+      "/products/chaise-sofas/lugo/210106_6.avif",
+      "/products/chaise-sofas/lugo/210106_9.avif",
+      "/products/chaise-sofas/lugo/210106_7.avif",
+      "/products/chaise-sofas/lugo/210106_8.avif",
       "/products/chaise-sofas/lugo/210106_1.avif",
-      "/products/chaise-sofas/lugo/210106_2.jpg",
       "/products/chaise-sofas/lugo/210106_3.avif",
       "/products/chaise-sofas/lugo/210106_4.avif",
-      "/products/chaise-sofas/lugo/210106_5.avif",
-      "/products/chaise-sofas/lugo/210106_6.jpg",
-      "/products/chaise-sofas/lugo/210106_7.jpg",
-      "/products/chaise-sofas/lugo/210106_8.jpg",
-      "/products/chaise-sofas/lugo/210106_9.jpg"
+      "/products/chaise-sofas/lugo/210106_5.avif"
     ],
     "href": "/products/chaise-sofas/lugo/210106",
     "type": "file",
     "filterData": {
-      "searchText": "Lugo Chaise Sofa, Beige, Right Right-side chaise, beige fabric upholstery with solid wood frame. Chaise Sofas Living room Lugo Living room Chaise Sofas Lugo Beige Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 161 cm cm Dimensions Height 70 cm cm Dimensions Width 277 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.16 m³ m³ Logistics Weight 43.5 kg kg Logistics Weight 89 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Lugo Chaise Sofa, Beige, Right Right-side chaise, beige fabric upholstery with solid wood frame. Chaise Sofas Living room Lugo Living room Chaise Sofas Lugo Beige Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 161 cm cm Dimensions Height 70 cm cm Dimensions Width 277 cm cm Logistics Package count 1 package package Logistics Package weight 43.5 kg kg Logistics Product count 1 product product Logistics Volume 1.16 m³ m³ Logistics Weight 89 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -865,6 +889,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "43-5-kg",
+          "valueLabel": "43.5 kg",
+          "href": "/attributes/logistics/package-weight/43-5-kg/",
+          "valueType": "enum",
+          "numericValue": 43.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -885,18 +921,6 @@
           "valueType": "enum",
           "numericValue": 1.16,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "43-5-kg",
-          "valueLabel": "43.5 kg",
-          "href": "/attributes/logistics/weight/43-5-kg/",
-          "valueType": "enum",
-          "numericValue": 43.5,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1057,34 +1081,42 @@
     "sku": "210107",
     "name": "210107",
     "title": "Lugo Chaise Sofa, Green, Right",
-    "variantSummary": "277 x 161 cm / Right / Green",
+    "variantSummary": "277 × 161 cm / Right / Green",
     "shortDescription": "Right-side chaise, green fabric upholstery with solid wood frame.",
     "selectionAttributes": {
-      "dimensions": "277 x 161 cm",
+      "dimensions": "277 × 161 cm",
       "handedness": "Right",
       "comfortType": "",
       "color": "Green",
-      "material": "Solid wood, Plywood, Foam, Particle board"
+      "material": "Solid wood, Plywood, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Chaise sofa",
+      "colorLabel": "Green",
+      "colorNote": "",
+      "axisPlan": "handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_right_green_10.avif",
     "imageUrl": "/products/chaise-sofas/lugo/lugo_chaise_sofa_right_green_10.avif",
     "imageUrls": [
       "/products/chaise-sofas/lugo/lugo_chaise_sofa_right_green_10.avif",
-      "/products/chaise-sofas/lugo/lugo_chaise_sofa_right_green_9.avif",
-      "/products/chaise-sofas/lugo/210107_1.avif",
       "/products/chaise-sofas/lugo/210107_2.avif",
-      "/products/chaise-sofas/lugo/210107_3.avif",
+      "/products/chaise-sofas/lugo/210107_8.avif",
+      "/products/chaise-sofas/lugo/210107_11.avif",
+      "/products/chaise-sofas/lugo/lugo_chaise_sofa_right_green_9.avif",
       "/products/chaise-sofas/lugo/210107_4.avif",
-      "/products/chaise-sofas/lugo/210107_5.avif",
       "/products/chaise-sofas/lugo/210107_6.avif",
       "/products/chaise-sofas/lugo/210107_7.avif",
-      "/products/chaise-sofas/lugo/210107_8.avif",
-      "/products/chaise-sofas/lugo/210107_11.avif"
+      "/products/chaise-sofas/lugo/210107_1.avif",
+      "/products/chaise-sofas/lugo/210107_3.avif",
+      "/products/chaise-sofas/lugo/210107_5.avif"
     ],
     "href": "/products/chaise-sofas/lugo/210107",
     "type": "file",
     "filterData": {
-      "searchText": "Lugo Chaise Sofa, Green, Right Right-side chaise, green fabric upholstery with solid wood frame. Chaise Sofas Living room Lugo Living room Chaise Sofas Lugo Green Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 161 cm cm Dimensions Height 70 cm cm Dimensions Width 277 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.16 m³ m³ Logistics Weight 43.5 kg kg Logistics Weight 89 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Lugo Chaise Sofa, Green, Right Right-side chaise, green fabric upholstery with solid wood frame. Chaise Sofas Living room Lugo Living room Chaise Sofas Lugo Green Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 161 cm cm Dimensions Height 70 cm cm Dimensions Width 277 cm cm Logistics Package count 1 package package Logistics Package weight 43.5 kg kg Logistics Product count 1 product product Logistics Volume 1.16 m³ m³ Logistics Weight 89 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -1217,6 +1249,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "43-5-kg",
+          "valueLabel": "43.5 kg",
+          "href": "/attributes/logistics/package-weight/43-5-kg/",
+          "valueType": "enum",
+          "numericValue": 43.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1237,18 +1281,6 @@
           "valueType": "enum",
           "numericValue": 1.16,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "43-5-kg",
-          "valueLabel": "43.5 kg",
-          "href": "/attributes/logistics/weight/43-5-kg/",
-          "valueType": "enum",
-          "numericValue": 43.5,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",

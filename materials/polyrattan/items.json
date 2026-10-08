@@ -5,7 +5,7 @@
     "type": "dir",
     "title": "Haven",
     "schemaCategory": "Outdoor Dining Chairs, Outdoor Dining Tables, Outdoor Lounge Seating and Outdoor Lounge Sets",
-    "variantCount": 5
+    "variantCount": 6
   },
   {
     "name": "house-nordic-derby",
@@ -14,5 +14,13 @@
     "title": "House Nordic Derby",
     "schemaCategory": "Outdoor Lounge Seating and Outdoor Sun Loungers",
     "variantCount": 2
+  },
+  {
+    "name": "stavanger",
+    "href": "/products/outdoor-coffee-tables/stavanger/",
+    "type": "dir",
+    "title": "Stavanger",
+    "schemaCategory": "Outdoor Coffee & Side Tables",
+    "variantCount": 1
   }
 ]

@@ -2,38 +2,45 @@
   {
     "sku": "202730",
     "name": "202730",
-    "title": "Bilbao Rug, 160 x 230 cm",
-    "variantSummary": "160 x 230 cm",
+    "title": "Bilbao Rug, 160 × 230 cm",
+    "variantSummary": "160 × 230 cm",
     "shortDescription": "160 x 230 cm. Polypropylene rug with vintage-inspired grey and beige floral patterns, easy to maintain.",
     "selectionAttributes": {
-      "dimensions": "160 x 230 cm",
+      "dimensions": "160 × 230 cm",
       "handedness": "",
       "comfortType": "",
       "color": "",
-      "material": "Polypropylene"
+      "material": "Polypropylene",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Rug",
+      "colorLabel": "",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_2.avif",
-    "imageUrl": "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_2.avif",
+    "primaryImageUrl": "/products/rugs/bilbao/202730_2.avif",
+    "imageUrl": "/products/rugs/bilbao/202730_2.avif",
     "imageUrls": [
+      "/products/rugs/bilbao/202730_2.avif",
+      "/products/rugs/bilbao/202730_2.avif",
+      "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_1.avif",
+      "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_2.avif",
       "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_2.avif",
       "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_3.avif",
-      "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_4.avif",
       "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_5.avif",
-      "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_8.avif",
-      "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_1.jpg",
-      "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_6.jpg",
-      "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_7.jpg",
-      "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_9.jpg",
-      "/products/rugs/bilbao/202730_1.avif",
-      "/products/rugs/bilbao/202730_2.jpg",
-      "/products/rugs/bilbao/202730_3.jpg",
-      "/products/rugs/bilbao/202730_4.jpg",
-      "/products/rugs/bilbao/202730_5.jpg"
+      "/products/rugs/bilbao/202730_3.avif",
+      "/products/rugs/bilbao/202731_4.avif",
+      "/products/rugs/bilbao/202730_5.avif",
+      "/products/rugs/bilbao/202730_3.avif",
+      "/products/rugs/bilbao/202730_4.avif",
+      "/products/rugs/bilbao/202730_5.avif"
     ],
     "href": "/products/rugs/bilbao/202730",
     "type": "file",
     "filterData": {
-      "searchText": "Bilbao Rug, 160 x 230 cm 160 x 230 cm. Polypropylene rug with vintage-inspired grey and beige floral patterns, easy to maintain. Rugs Home Details Bilbao Home Details Rugs Bilbao Polypropylene Dimensions Depth 230 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.03 m³ m³ Logistics Weight 4 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Bilbao Rug, 160 × 230 cm 160 x 230 cm. Polypropylene rug with vintage-inspired grey and beige floral patterns, easy to maintain. Rugs Home Details Bilbao Home Details Rugs Bilbao Polypropylene Dimensions Depth 230 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.03 m³ m³ Logistics Weight 4 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -164,7 +171,7 @@
       ]
     },
     "sortData": {
-      "title": "Bilbao Rug, 160 x 230 cm",
+      "title": "Bilbao Rug, 160 × 230 cm",
       "summary": "160 x 230 cm. Polypropylene rug with vintage-inspired grey and beige floral patterns, easy to maintain.",
       "variantCount": 1,
       "categoryLabel": "Rugs",
@@ -175,30 +182,37 @@
   {
     "sku": "202731",
     "name": "202731",
-    "title": "Bilbao Rug, 200 x 300 cm",
-    "variantSummary": "200 x 300 cm",
+    "title": "Bilbao Rug, 200 × 300 cm",
+    "variantSummary": "200 × 300 cm",
     "shortDescription": "200 x 300 cm. Polypropylene rug with vintage-inspired grey and beige floral patterns, easy to maintain.",
     "selectionAttributes": {
-      "dimensions": "200 x 300 cm",
+      "dimensions": "200 × 300 cm",
       "handedness": "",
       "comfortType": "",
       "color": "",
-      "material": "Polypropylene"
+      "material": "Polypropylene",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Rug",
+      "colorLabel": "",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_2.avif",
-    "imageUrl": "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_2.avif",
+    "primaryImageUrl": "/products/rugs/bilbao/202731_2.avif",
+    "imageUrl": "/products/rugs/bilbao/202731_2.avif",
     "imageUrls": [
+      "/products/rugs/bilbao/202731_2.avif",
+      "/products/rugs/bilbao/202730_2.avif",
+      "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_1.avif",
+      "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_2.avif",
       "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_2.avif",
       "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_3.avif",
-      "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_4.avif",
       "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_5.avif",
-      "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_8.avif",
-      "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_1.jpg",
-      "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_6.jpg",
-      "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_7.jpg",
-      "/products/rugs/bilbao/bilbao_rug_160_x_230_cm_200_x_300_cm_9.jpg",
-      "/products/rugs/bilbao/202731_1.avif",
-      "/products/rugs/bilbao/202731_2.avif",
+      "/products/rugs/bilbao/202730_3.avif",
+      "/products/rugs/bilbao/202731_4.avif",
+      "/products/rugs/bilbao/202730_5.avif",
       "/products/rugs/bilbao/202731_3.avif",
       "/products/rugs/bilbao/202731_4.avif",
       "/products/rugs/bilbao/202731_5.avif"
@@ -206,7 +220,7 @@
     "href": "/products/rugs/bilbao/202731",
     "type": "file",
     "filterData": {
-      "searchText": "Bilbao Rug, 200 x 300 cm 200 x 300 cm. Polypropylene rug with vintage-inspired grey and beige floral patterns, easy to maintain. Rugs Home Details Bilbao Home Details Rugs Bilbao Polypropylene Dimensions Depth 300 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.06 m³ m³ Logistics Weight 7 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Bilbao Rug, 200 × 300 cm 200 x 300 cm. Polypropylene rug with vintage-inspired grey and beige floral patterns, easy to maintain. Rugs Home Details Bilbao Home Details Rugs Bilbao Polypropylene Dimensions Depth 300 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.06 m³ m³ Logistics Weight 7 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -337,7 +351,7 @@
       ]
     },
     "sortData": {
-      "title": "Bilbao Rug, 200 x 300 cm",
+      "title": "Bilbao Rug, 200 × 300 cm",
       "summary": "200 x 300 cm. Polypropylene rug with vintage-inspired grey and beige floral patterns, easy to maintain.",
       "variantCount": 1,
       "categoryLabel": "Rugs",

@@ -3,28 +3,36 @@
     "sku": "209131",
     "name": "209131",
     "title": "Westcoast Chaise Sofa, Beige, Left",
-    "variantSummary": "250 x 145 cm / Left / Beige",
+    "variantSummary": "250 × 145 cm / Left / Beige",
     "shortDescription": "Left chaise, Beige polyester upholstery.",
     "selectionAttributes": {
-      "dimensions": "250 x 145 cm",
+      "dimensions": "250 × 145 cm",
       "handedness": "Left",
       "comfortType": "",
       "color": "Beige",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Chaise sofa",
+      "colorLabel": "Beige",
+      "colorNote": "Sand",
+      "axisPlan": "handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
-    "imageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+    "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_4.avif",
+    "imageUrl": "/products/chaise-sofas/westcoast/209131_4.avif",
     "imageUrls": [
-      "/products/chaise-sofas/westcoast/209131_1.avif",
-      "/products/chaise-sofas/westcoast/209131_2.avif",
-      "/products/chaise-sofas/westcoast/209131_3.avif",
       "/products/chaise-sofas/westcoast/209131_4.avif",
-      "/products/chaise-sofas/westcoast/209131_5.avif"
+      "/products/chaise-sofas/westcoast/209131_2.avif",
+      "/products/chaise-sofas/westcoast/209131_5.avif",
+      "/products/chaise-sofas/westcoast/209131_1.avif",
+      "/products/chaise-sofas/westcoast/209131_3.avif"
     ],
     "href": "/products/chaise-sofas/westcoast/209131",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Chaise Sofa, Beige, Left Left chaise, Beige polyester upholstery. Chaise Sofas Living room Westcoast Living room Chaise Sofas Westcoast Beige Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 145 cm cm Dimensions Height 80 cm cm Dimensions Width 250 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Weight 42 kg kg Logistics Weight 102 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Chaise Sofa, Beige, Left Left chaise, Beige polyester upholstery. Chaise Sofas Living room Westcoast Living room Chaise Sofas Westcoast Beige Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 145 cm cm Dimensions Height 80 cm cm Dimensions Width 250 cm cm Logistics Package count 1 package package Logistics Package weight 42 kg kg Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Weight 102 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -130,6 +138,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "42-kg",
+          "valueLabel": "42 kg",
+          "href": "/attributes/logistics/package-weight/42-kg/",
+          "valueType": "enum",
+          "numericValue": 42,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -150,18 +170,6 @@
           "valueType": "enum",
           "numericValue": 0.75,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "42-kg",
-          "valueLabel": "42 kg",
-          "href": "/attributes/logistics/weight/42-kg/",
-          "valueType": "enum",
-          "numericValue": 42,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -250,28 +258,36 @@
     "sku": "209132",
     "name": "209132",
     "title": "Westcoast Chaise Sofa, Brown, Left",
-    "variantSummary": "250 x 145 cm / Left / Brown",
+    "variantSummary": "250 × 145 cm / Left / Brown",
     "shortDescription": "Left chaise, brown polyester upholstery.",
     "selectionAttributes": {
-      "dimensions": "250 x 145 cm",
+      "dimensions": "250 × 145 cm",
       "handedness": "Left",
       "comfortType": "",
       "color": "Brown",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Chaise sofa",
+      "colorLabel": "Brown",
+      "colorNote": "",
+      "axisPlan": "handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/chaise-sofas/westcoast/209132_1.avif",
-    "imageUrl": "/products/chaise-sofas/westcoast/209132_1.avif",
+    "primaryImageUrl": "/products/chaise-sofas/westcoast/209132_4.avif",
+    "imageUrl": "/products/chaise-sofas/westcoast/209132_4.avif",
     "imageUrls": [
-      "/products/chaise-sofas/westcoast/209132_1.avif",
-      "/products/chaise-sofas/westcoast/209132_2.avif",
-      "/products/chaise-sofas/westcoast/209132_3.avif",
       "/products/chaise-sofas/westcoast/209132_4.avif",
-      "/products/chaise-sofas/westcoast/209132_5.avif"
+      "/products/chaise-sofas/westcoast/209132_2.avif",
+      "/products/chaise-sofas/westcoast/209132_5.avif",
+      "/products/chaise-sofas/westcoast/209132_1.avif",
+      "/products/chaise-sofas/westcoast/209132_3.avif"
     ],
     "href": "/products/chaise-sofas/westcoast/209132",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Chaise Sofa, Brown, Left Left chaise, brown polyester upholstery. Chaise Sofas Living room Westcoast Living room Chaise Sofas Westcoast Brown Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 145 cm cm Dimensions Height 80 cm cm Dimensions Width 250 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Weight 42 kg kg Logistics Weight 102 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Chaise Sofa, Brown, Left Left chaise, brown polyester upholstery. Chaise Sofas Living room Westcoast Living room Chaise Sofas Westcoast Brown Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 145 cm cm Dimensions Height 80 cm cm Dimensions Width 250 cm cm Logistics Package count 1 package package Logistics Package weight 42 kg kg Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Weight 102 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -377,6 +393,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "42-kg",
+          "valueLabel": "42 kg",
+          "href": "/attributes/logistics/package-weight/42-kg/",
+          "valueType": "enum",
+          "numericValue": 42,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -397,18 +425,6 @@
           "valueType": "enum",
           "numericValue": 0.75,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "42-kg",
-          "valueLabel": "42 kg",
-          "href": "/attributes/logistics/weight/42-kg/",
-          "valueType": "enum",
-          "numericValue": 42,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -497,29 +513,37 @@
     "sku": "209133",
     "name": "209133",
     "title": "Westcoast Chaise Sofa, Grey, Left",
-    "variantSummary": "250 x 145 cm / Left / Grey",
+    "variantSummary": "250 × 145 cm / Left / Grey",
     "shortDescription": "Left chaise, grey polyester upholstery.",
     "selectionAttributes": {
-      "dimensions": "250 x 145 cm",
+      "dimensions": "250 × 145 cm",
       "handedness": "Left",
       "comfortType": "",
       "color": "Grey",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Chaise sofa",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/chaise-sofas/westcoast/209133_1.avif",
-    "imageUrl": "/products/chaise-sofas/westcoast/209133_1.avif",
+    "primaryImageUrl": "/products/chaise-sofas/westcoast/209133_2.avif",
+    "imageUrl": "/products/chaise-sofas/westcoast/209133_2.avif",
     "imageUrls": [
-      "/products/chaise-sofas/westcoast/209133_1.avif",
       "/products/chaise-sofas/westcoast/209133_2.avif",
-      "/products/chaise-sofas/westcoast/209133_3.avif",
-      "/products/chaise-sofas/westcoast/209133_4.avif",
       "/products/chaise-sofas/westcoast/209133_5.avif",
-      "/products/chaise-sofas/westcoast/209133_6.avif"
+      "/products/chaise-sofas/westcoast/209133_6.avif",
+      "/products/chaise-sofas/westcoast/209133_1.avif",
+      "/products/chaise-sofas/westcoast/209133_3.avif",
+      "/products/chaise-sofas/westcoast/209133_4.avif"
     ],
     "href": "/products/chaise-sofas/westcoast/209133",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Chaise Sofa, Grey, Left Left chaise, grey polyester upholstery. Chaise Sofas Living room Westcoast Living room Chaise Sofas Westcoast Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 145 cm cm Dimensions Height 80 cm cm Dimensions Width 250 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Weight 42 kg kg Logistics Weight 102 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Chaise Sofa, Grey, Left Left chaise, grey polyester upholstery. Chaise Sofas Living room Westcoast Living room Chaise Sofas Westcoast Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 145 cm cm Dimensions Height 80 cm cm Dimensions Width 250 cm cm Logistics Package count 1 package package Logistics Package weight 42 kg kg Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Weight 102 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -625,6 +649,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "42-kg",
+          "valueLabel": "42 kg",
+          "href": "/attributes/logistics/package-weight/42-kg/",
+          "valueType": "enum",
+          "numericValue": 42,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -645,18 +681,6 @@
           "valueType": "enum",
           "numericValue": 0.75,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "42-kg",
-          "valueLabel": "42 kg",
-          "href": "/attributes/logistics/weight/42-kg/",
-          "valueType": "enum",
-          "numericValue": 42,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -745,28 +769,36 @@
     "sku": "209134",
     "name": "209134",
     "title": "Westcoast Chaise Sofa, Beige, Right",
-    "variantSummary": "250 x 145 cm / Right / Beige",
+    "variantSummary": "250 × 145 cm / Right / Beige",
     "shortDescription": "Right chaise, Beige polyester upholstery.",
     "selectionAttributes": {
-      "dimensions": "250 x 145 cm",
+      "dimensions": "250 × 145 cm",
       "handedness": "Right",
       "comfortType": "",
       "color": "Beige",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Chaise sofa",
+      "colorLabel": "Beige",
+      "colorNote": "Sand",
+      "axisPlan": "handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/chaise-sofas/westcoast/209134_1.avif",
-    "imageUrl": "/products/chaise-sofas/westcoast/209134_1.avif",
+    "primaryImageUrl": "/products/chaise-sofas/westcoast/209134_2.avif",
+    "imageUrl": "/products/chaise-sofas/westcoast/209134_2.avif",
     "imageUrls": [
-      "/products/chaise-sofas/westcoast/209134_1.avif",
       "/products/chaise-sofas/westcoast/209134_2.avif",
-      "/products/chaise-sofas/westcoast/209134_3.avif",
       "/products/chaise-sofas/westcoast/209134_4.avif",
-      "/products/chaise-sofas/westcoast/209134_5.avif"
+      "/products/chaise-sofas/westcoast/209134_5.avif",
+      "/products/chaise-sofas/westcoast/209134_1.avif",
+      "/products/chaise-sofas/westcoast/209134_3.avif"
     ],
     "href": "/products/chaise-sofas/westcoast/209134",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Chaise Sofa, Beige, Right Right chaise, Beige polyester upholstery. Chaise Sofas Living room Westcoast Living room Chaise Sofas Westcoast Beige Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 145 cm cm Dimensions Height 80 cm cm Dimensions Width 250 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Weight 42 kg kg Logistics Weight 102 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Chaise Sofa, Beige, Right Right chaise, Beige polyester upholstery. Chaise Sofas Living room Westcoast Living room Chaise Sofas Westcoast Beige Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 145 cm cm Dimensions Height 80 cm cm Dimensions Width 250 cm cm Logistics Package count 1 package package Logistics Package weight 42 kg kg Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Weight 102 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -872,6 +904,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "42-kg",
+          "valueLabel": "42 kg",
+          "href": "/attributes/logistics/package-weight/42-kg/",
+          "valueType": "enum",
+          "numericValue": 42,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -892,18 +936,6 @@
           "valueType": "enum",
           "numericValue": 0.75,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "42-kg",
-          "valueLabel": "42 kg",
-          "href": "/attributes/logistics/weight/42-kg/",
-          "valueType": "enum",
-          "numericValue": 42,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -992,28 +1024,36 @@
     "sku": "209135",
     "name": "209135",
     "title": "Westcoast Chaise Sofa, Brown, Right",
-    "variantSummary": "250 x 145 cm / Right / Brown",
+    "variantSummary": "250 × 145 cm / Right / Brown",
     "shortDescription": "Right chaise, brown polyester upholstery.",
     "selectionAttributes": {
-      "dimensions": "250 x 145 cm",
+      "dimensions": "250 × 145 cm",
       "handedness": "Right",
       "comfortType": "",
       "color": "Brown",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Chaise sofa",
+      "colorLabel": "Brown",
+      "colorNote": "",
+      "axisPlan": "handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/chaise-sofas/westcoast/209135_1.avif",
-    "imageUrl": "/products/chaise-sofas/westcoast/209135_1.avif",
+    "primaryImageUrl": "/products/chaise-sofas/westcoast/209135_4.avif",
+    "imageUrl": "/products/chaise-sofas/westcoast/209135_4.avif",
     "imageUrls": [
-      "/products/chaise-sofas/westcoast/209135_1.avif",
-      "/products/chaise-sofas/westcoast/209135_2.avif",
-      "/products/chaise-sofas/westcoast/209135_3.avif",
       "/products/chaise-sofas/westcoast/209135_4.avif",
-      "/products/chaise-sofas/westcoast/209135_5.avif"
+      "/products/chaise-sofas/westcoast/209135_2.avif",
+      "/products/chaise-sofas/westcoast/209135_5.avif",
+      "/products/chaise-sofas/westcoast/209135_1.avif",
+      "/products/chaise-sofas/westcoast/209135_3.avif"
     ],
     "href": "/products/chaise-sofas/westcoast/209135",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Chaise Sofa, Brown, Right Right chaise, brown polyester upholstery. Chaise Sofas Living room Westcoast Living room Chaise Sofas Westcoast Brown Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 145 cm cm Dimensions Height 80 cm cm Dimensions Width 250 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Weight 42 kg kg Logistics Weight 102 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Chaise Sofa, Brown, Right Right chaise, brown polyester upholstery. Chaise Sofas Living room Westcoast Living room Chaise Sofas Westcoast Brown Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 145 cm cm Dimensions Height 80 cm cm Dimensions Width 250 cm cm Logistics Package count 1 package package Logistics Package weight 42 kg kg Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Weight 102 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -1119,6 +1159,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "42-kg",
+          "valueLabel": "42 kg",
+          "href": "/attributes/logistics/package-weight/42-kg/",
+          "valueType": "enum",
+          "numericValue": 42,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1139,18 +1191,6 @@
           "valueType": "enum",
           "numericValue": 0.75,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "42-kg",
-          "valueLabel": "42 kg",
-          "href": "/attributes/logistics/weight/42-kg/",
-          "valueType": "enum",
-          "numericValue": 42,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1239,29 +1279,37 @@
     "sku": "209136",
     "name": "209136",
     "title": "Westcoast Chaise Sofa, Grey, Right",
-    "variantSummary": "250 x 145 cm / Right / Grey",
+    "variantSummary": "250 × 145 cm / Right / Grey",
     "shortDescription": "Right chaise, grey polyester upholstery.",
     "selectionAttributes": {
-      "dimensions": "250 x 145 cm",
+      "dimensions": "250 × 145 cm",
       "handedness": "Right",
       "comfortType": "",
       "color": "Grey",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Chaise sofa",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/chaise-sofas/westcoast/209136_1.avif",
-    "imageUrl": "/products/chaise-sofas/westcoast/209136_1.avif",
+    "primaryImageUrl": "/products/chaise-sofas/westcoast/209136_5.avif",
+    "imageUrl": "/products/chaise-sofas/westcoast/209136_5.avif",
     "imageUrls": [
-      "/products/chaise-sofas/westcoast/209136_1.avif",
-      "/products/chaise-sofas/westcoast/209136_2.avif",
-      "/products/chaise-sofas/westcoast/209136_3.avif",
-      "/products/chaise-sofas/westcoast/209136_4.avif",
       "/products/chaise-sofas/westcoast/209136_5.avif",
-      "/products/chaise-sofas/westcoast/209136_6.avif"
+      "/products/chaise-sofas/westcoast/209136_2.avif",
+      "/products/chaise-sofas/westcoast/209136_6.avif",
+      "/products/chaise-sofas/westcoast/209136_1.avif",
+      "/products/chaise-sofas/westcoast/209136_3.avif",
+      "/products/chaise-sofas/westcoast/209136_4.avif"
     ],
     "href": "/products/chaise-sofas/westcoast/209136",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Chaise Sofa, Grey, Right Right chaise, grey polyester upholstery. Chaise Sofas Living room Westcoast Living room Chaise Sofas Westcoast Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 145 cm cm Dimensions Height 80 cm cm Dimensions Width 250 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.79 m³ m³ Logistics Weight 60 kg kg Logistics Weight 102 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Chaise Sofa, Grey, Right Right chaise, grey polyester upholstery. Chaise Sofas Living room Westcoast Living room Chaise Sofas Westcoast Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 145 cm cm Dimensions Height 80 cm cm Dimensions Width 250 cm cm Logistics Package count 1 package package Logistics Package weight 60 kg kg Logistics Product count 1 product product Logistics Volume 0.79 m³ m³ Logistics Weight 102 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -1367,6 +1415,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "60-kg",
+          "valueLabel": "60 kg",
+          "href": "/attributes/logistics/package-weight/60-kg/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1387,18 +1447,6 @@
           "valueType": "enum",
           "numericValue": 0.79,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "60-kg",
-          "valueLabel": "60 kg",
-          "href": "/attributes/logistics/weight/60-kg/",
-          "valueType": "enum",
-          "numericValue": 60,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",

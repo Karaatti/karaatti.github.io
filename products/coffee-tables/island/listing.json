@@ -1,14 +1,15 @@
 {
   "familyTitle": "Island coffee table, stackable",
   "familySummary": "Stackable two-piece coffee table in brown or beige with a soft asymmetrical shape for flexible living room layouts.",
-  "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
+  "familyDescription": "The Island coffee table set includes two tables of different sizes with a harmonious, asymmetrical design. Warm finishes provide a natural look while the materials ensure durability and easy maintenance. The tables can be used stacked or separately for versatile placement.",
+  "primaryImageUrl": "/products/coffee-tables/island/198070_8.avif",
   "schemaCategory": "Coffee Tables",
   "variantCount": 2,
   "productFamilyName": "Island",
   "productFamilyKey": "island",
   "productFamilyRelativeDir": "families/island",
   "filterData": {
-    "searchText": "Island coffee table, stackable Stackable two-piece coffee table in brown or beige with a soft asymmetrical shape for flexible living room layouts. Coffee Tables Living room Island Living room Coffee Tables Island Beige Brown MDF Paper Dimensions Depth 60 cm cm Dimensions Height 40 cm cm Dimensions Smaller table depth 40 cm cm Dimensions Smaller table height 33 cm cm Dimensions Smaller table width 60 cm cm Dimensions Width 90 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.29 m³ m³ Logistics Weight 27 kg kg Logistics Weight 31 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+    "searchText": "Island coffee table, stackable Stackable two-piece coffee table in brown or beige with a soft asymmetrical shape for flexible living room layouts. Coffee Tables Living room Island Living room Coffee Tables Island Beige Brown MDF Paper Dimensions Depth 60 cm cm Dimensions Depth 2 40 cm cm Dimensions Height 40 cm cm Dimensions Height 2 33 cm cm Dimensions Width 90 cm cm Dimensions Width 2 60 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Package weight 31 kg kg Logistics Product count 1 product product Logistics Volume 0.29 m³ m³ Logistics Weight 27 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "living-room",
@@ -71,6 +72,18 @@
       {
         "groupKey": "dimensions",
         "groupLabel": "Dimensions",
+        "key": "depth2",
+        "label": "Depth 2",
+        "valueKey": "40-cm",
+        "valueLabel": "40 cm",
+        "href": "/attributes/dimensions/depth2/40-cm/",
+        "valueType": "enum",
+        "numericValue": 40,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
         "key": "height",
         "label": "Height",
         "valueKey": "40-cm",
@@ -83,37 +96,13 @@
       {
         "groupKey": "dimensions",
         "groupLabel": "Dimensions",
-        "key": "smaller-table-depth",
-        "label": "Smaller table depth",
-        "valueKey": "40-cm",
-        "valueLabel": "40 cm",
-        "href": "/attributes/dimensions/smaller-table-depth/40-cm/",
-        "valueType": "enum",
-        "numericValue": 40,
-        "unit": "cm"
-      },
-      {
-        "groupKey": "dimensions",
-        "groupLabel": "Dimensions",
-        "key": "smaller-table-height",
-        "label": "Smaller table height",
+        "key": "height2",
+        "label": "Height 2",
         "valueKey": "33-cm",
         "valueLabel": "33 cm",
-        "href": "/attributes/dimensions/smaller-table-height/33-cm/",
+        "href": "/attributes/dimensions/height2/33-cm/",
         "valueType": "enum",
         "numericValue": 33,
-        "unit": "cm"
-      },
-      {
-        "groupKey": "dimensions",
-        "groupLabel": "Dimensions",
-        "key": "smaller-table-width",
-        "label": "Smaller table width",
-        "valueKey": "60-cm",
-        "valueLabel": "60 cm",
-        "href": "/attributes/dimensions/smaller-table-width/60-cm/",
-        "valueType": "enum",
-        "numericValue": 60,
         "unit": "cm"
       },
       {
@@ -126,6 +115,18 @@
         "href": "/attributes/dimensions/width/90-cm/",
         "valueType": "enum",
         "numericValue": 90,
+        "unit": "cm"
+      },
+      {
+        "groupKey": "dimensions",
+        "groupLabel": "Dimensions",
+        "key": "width2",
+        "label": "Width 2",
+        "valueKey": "60-cm",
+        "valueLabel": "60 cm",
+        "href": "/attributes/dimensions/width2/60-cm/",
+        "valueType": "enum",
+        "numericValue": 60,
         "unit": "cm"
       },
       {
@@ -151,6 +152,18 @@
         "valueType": "enum",
         "numericValue": 1,
         "unit": "package"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "31-kg",
+        "valueLabel": "31 kg",
+        "href": "/attributes/logistics/package-weight/31-kg/",
+        "valueType": "enum",
+        "numericValue": 31,
+        "unit": "kg"
       },
       {
         "groupKey": "logistics",
@@ -186,18 +199,6 @@
         "href": "/attributes/logistics/weight/27-kg/",
         "valueType": "enum",
         "numericValue": 27,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "31-kg",
-        "valueLabel": "31 kg",
-        "href": "/attributes/logistics/weight/31-kg/",
-        "valueType": "enum",
-        "numericValue": 31,
         "unit": "kg"
       },
       {

@@ -1,7 +1,7 @@
 .maplibregl-map {
   position: relative;
   overflow: hidden;
-  font: 12px/20px "Montserrat", Arial, sans-serif;
+  font: 12px/20px "Source Sans 3", "Segoe UI", Arial, sans-serif;
   -webkit-tap-highlight-color: transparent;
 }
 
@@ -118,7 +118,7 @@
 
 .maplibregl-ctrl-compass .maplibregl-ctrl-icon::before {
   content: "N";
-  font-size: 0.78rem;
+  font-size: var(--font-size-ui-min, 0.875rem);
   font-weight: 700;
   line-height: 1;
   letter-spacing: 0.08em;
@@ -126,7 +126,7 @@
 
 .maplibregl-ctrl-attrib {
   margin: 0;
-  font-size: 0.72rem;
+  font-size: var(--font-size-ui-min, 0.875rem);
   line-height: 1.35;
 }
 

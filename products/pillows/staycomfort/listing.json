@@ -1,14 +1,15 @@
 {
   "familyTitle": "Staycomfort Pillow",
   "familySummary": "Everyday pillows from the Staycomfort series.",
-  "primaryImageUrl": "/products/pillows/staycomfort/214015_1.jpg",
+  "familyDescription": "Everyday pillows from the Staycomfort series.",
+  "primaryImageUrl": "/products/pillows/staycomfort/214015_2.avif",
   "schemaCategory": "Pillows",
   "variantCount": 1,
   "productFamilyName": "Staycomfort",
   "productFamilyKey": "staycomfort",
   "productFamilyRelativeDir": "families/staycomfort",
   "filterData": {
-    "searchText": "Staycomfort Pillow Everyday pillows from the Staycomfort series. Pillows Bedroom Staycomfort Bedroom Pillows Staycomfort Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Height 6 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Product count 10 product product Logistics Volume 0.23 m³ m³ Logistics Weight 6.5 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+    "searchText": "Staycomfort Pillow Everyday pillows from the Staycomfort series. Pillows Bedroom Staycomfort Bedroom Pillows Staycomfort White Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Height 6 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Package weight 6.5 kg kg Logistics Product count 10 product product Logistics Volume 0.23 m³ m³ Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "bedroom",
@@ -30,7 +31,13 @@
         "href": "/families/staycomfort/"
       }
     ],
-    "colors": [],
+    "colors": [
+      {
+        "key": "white",
+        "label": "White",
+        "href": "/colors/white/"
+      }
+    ],
     "materials": [
       {
         "key": "cotton",
@@ -108,6 +115,18 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "6-5-kg",
+        "valueLabel": "6.5 kg",
+        "href": "/attributes/logistics/package-weight/6-5-kg/",
+        "valueType": "enum",
+        "numericValue": 6.5,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "10-product",
@@ -128,18 +147,6 @@
         "valueType": "enum",
         "numericValue": 0.23,
         "unit": "m³"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "6-5-kg",
-        "valueLabel": "6.5 kg",
-        "href": "/attributes/logistics/weight/6-5-kg/",
-        "valueType": "enum",
-        "numericValue": 6.5,
-        "unit": "kg"
       },
       {
         "groupKey": "setup",

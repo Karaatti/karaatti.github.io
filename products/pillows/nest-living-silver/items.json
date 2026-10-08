@@ -2,26 +2,34 @@
   {
     "sku": "201091",
     "name": "201091",
-    "title": "Nest & Living Silver Pillow, 60 x 50 x 14 cm",
-    "variantSummary": "60 x 50 x 14 cm",
+    "title": "Nest & Living Silver Pillow",
+    "variantSummary": "50 × 60 cm / White",
     "shortDescription": "Classic synthetic pillow for everyday bedroom comfort.",
     "selectionAttributes": {
-      "dimensions": "60 x 50 x 14 cm",
+      "dimensions": "50 × 60 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "",
-      "material": "Polyester, Cotton"
+      "color": "White",
+      "material": "Polyester, Cotton",
+      "productType": "Pillow",
+      "productTypeNote": "50 × 60 cm",
+      "productNoun": "Pillow",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "productType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/pillows/nest-living-silver/201091_1.avif",
     "imageUrl": "/products/pillows/nest-living-silver/201091_1.avif",
     "imageUrls": [
       "/products/pillows/nest-living-silver/201091_1.avif",
-      "/products/pillows/nest-living-silver/201091_2.jpg"
+      "/products/pillows/nest-living-silver/201091_2.avif"
     ],
     "href": "/products/pillows/nest-living-silver/201091",
     "type": "file",
     "filterData": {
-      "searchText": "Nest & Living Silver Pillow, 60 x 50 x 14 cm Classic synthetic pillow for everyday bedroom comfort. Pillows Bedroom Nest & Living Silver Bedroom Pillows Nest & Living Silver Cotton Polyester Care Cleaning method Water wash Dimensions Depth 50 cm cm Dimensions Height 14 cm cm Dimensions Width 60 cm cm Logistics Weight 1 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Nest & Living Silver Pillow Classic synthetic pillow for everyday bedroom comfort. Pillows Bedroom Nest & Living Silver Bedroom Pillows Nest & Living Silver White Cotton Polyester Care Cleaning method Water wash Dimensions Depth 50 cm cm Dimensions Height 14 cm cm Dimensions Width 60 cm cm Logistics Weight 1 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -43,7 +51,13 @@
           "href": "/families/nest-living-silver/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -157,7 +171,7 @@
       ]
     },
     "sortData": {
-      "title": "Nest & Living Silver Pillow, 60 x 50 x 14 cm",
+      "title": "Nest & Living Silver Pillow",
       "summary": "Classic synthetic pillow for everyday bedroom comfort.",
       "variantCount": 1,
       "categoryLabel": "Pillows",
@@ -168,26 +182,34 @@
   {
     "sku": "201092",
     "name": "201092",
-    "title": "Nest & Living Silver Pillow, 62 x 52 x 15 cm",
-    "variantSummary": "62 x 52 x 15 cm / Box pillow",
+    "title": "Nest & Living Silver Box Pillow",
+    "variantSummary": "52 × 62 cm / Box pillow / White",
     "shortDescription": "Box pillow with extra loft and supportive fill for everyday bedroom comfort.",
     "selectionAttributes": {
-      "dimensions": "62 x 52 x 15 cm",
+      "dimensions": "52 × 62 cm",
       "handedness": "",
       "comfortType": "Box pillow",
-      "color": "",
-      "material": "Polyester, Cotton"
+      "color": "White",
+      "material": "Polyester, Cotton",
+      "productType": "Box pillow",
+      "productTypeNote": "52 × 62 cm",
+      "productNoun": "Box pillow",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "productType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/pillows/nest-living-silver/201092_1.jpg",
-    "imageUrl": "/products/pillows/nest-living-silver/201092_1.jpg",
+    "primaryImageUrl": "/products/pillows/nest-living-silver/201092_1.avif",
+    "imageUrl": "/products/pillows/nest-living-silver/201092_1.avif",
     "imageUrls": [
-      "/products/pillows/nest-living-silver/201092_1.jpg",
-      "/products/pillows/nest-living-silver/201092_2.jpg"
+      "/products/pillows/nest-living-silver/201092_1.avif",
+      "/products/pillows/nest-living-silver/201092_2.avif"
     ],
     "href": "/products/pillows/nest-living-silver/201092",
     "type": "file",
     "filterData": {
-      "searchText": "Nest & Living Silver Pillow, 62 x 52 x 15 cm Box pillow with extra loft and supportive fill for everyday bedroom comfort. Pillows Bedroom Nest & Living Silver Bedroom Pillows Nest & Living Silver Cotton Polyester Care Cleaning method Water wash Dimensions Depth 52 cm cm Dimensions Height 15 cm cm Dimensions Width 62 cm cm Logistics Weight 1 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Nest & Living Silver Box Pillow Box pillow with extra loft and supportive fill for everyday bedroom comfort. Pillows Bedroom Nest & Living Silver Bedroom Pillows Nest & Living Silver White Cotton Polyester Care Cleaning method Water wash Dimensions Depth 52 cm cm Dimensions Height 15 cm cm Dimensions Width 62 cm cm Logistics Weight 1 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -209,7 +231,13 @@
           "href": "/families/nest-living-silver/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -323,7 +351,7 @@
       ]
     },
     "sortData": {
-      "title": "Nest & Living Silver Pillow, 62 x 52 x 15 cm",
+      "title": "Nest & Living Silver Box Pillow",
       "summary": "Box pillow with extra loft and supportive fill for everyday bedroom comfort.",
       "variantCount": 1,
       "categoryLabel": "Pillows",

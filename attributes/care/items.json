@@ -5,24 +5,9 @@
     "href": "/attributes/care/cleaning-method/",
     "type": "dir",
     "entryCount": 4,
-    "variantCount": 60,
-    "valueType": "measurement",
-    "numericFilter": {
-      "numericEntryCount": 4,
-      "unitCount": 1,
-      "units": [
-        ""
-      ],
-      "ranges": [
-        {
-          "unit": "",
-          "min": 0,
-          "max": 0,
-          "count": 4,
-          "distinctCount": 1
-        }
-      ]
-    }
+    "variantCount": 61,
+    "valueType": "enum",
+    "numericFilter": null
   },
   {
     "name": "removable-covers",
@@ -31,22 +16,7 @@
     "type": "dir",
     "entryCount": 2,
     "variantCount": 52,
-    "valueType": "measurement",
-    "numericFilter": {
-      "numericEntryCount": 2,
-      "unitCount": 1,
-      "units": [
-        ""
-      ],
-      "ranges": [
-        {
-          "unit": "",
-          "min": 0,
-          "max": 0,
-          "count": 2,
-          "distinctCount": 1
-        }
-      ]
-    }
+    "valueType": "enum",
+    "numericFilter": null
   }
 ]

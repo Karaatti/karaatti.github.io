@@ -2,34 +2,42 @@
   {
     "sku": "198263",
     "name": "198263",
-    "title": "Wind Swivel Chair, Beige",
-    "variantSummary": "76 x 86 cm / Beige",
+    "title": "Wind Recliner with Footstool, Beige",
+    "variantSummary": "76 × 86 cm / Beige",
     "shortDescription": "Beige fabric upholstery with latte-coloured metal legs.",
     "selectionAttributes": {
-      "dimensions": "76 x 86 cm",
+      "dimensions": "76 × 86 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Steel, Polyester, Foam"
+      "material": "Steel, Polyester, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Recliner with footstool",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/swivel-chairs/wind/198263_1.avif",
-    "imageUrl": "/products/swivel-chairs/wind/198263_1.avif",
+    "primaryImageUrl": "/products/swivel-chairs/wind/198263_2.avif",
+    "imageUrl": "/products/swivel-chairs/wind/198263_2.avif",
     "imageUrls": [
-      "/products/swivel-chairs/wind/198263_1.avif",
       "/products/swivel-chairs/wind/198263_2.avif",
-      "/products/swivel-chairs/wind/198263_3.avif",
-      "/products/swivel-chairs/wind/198263_4.avif",
+      "/products/swivel-chairs/wind/198263_10.avif",
       "/products/swivel-chairs/wind/198263_5.avif",
       "/products/swivel-chairs/wind/198263_6.avif",
       "/products/swivel-chairs/wind/198263_7.avif",
       "/products/swivel-chairs/wind/198263_8.avif",
       "/products/swivel-chairs/wind/198263_9.avif",
-      "/products/swivel-chairs/wind/198263_10.avif"
+      "/products/swivel-chairs/wind/198263_1.avif",
+      "/products/swivel-chairs/wind/198263_3.avif",
+      "/products/swivel-chairs/wind/198263_4.avif"
     ],
     "href": "/products/swivel-chairs/wind/198263",
     "type": "file",
     "filterData": {
-      "searchText": "Wind Swivel Chair, Beige Beige fabric upholstery with latte-coloured metal legs. Swivel Chairs Living room Wind Living room Swivel Chairs Wind Beige Foam Metal Polyester Steel Care Cleaning method Dry clean Care Removable covers No Dimensions Depth 86 cm cm Dimensions Height 96 cm cm Dimensions Ottoman depth 36 cm cm Dimensions Ottoman height 37 cm cm Dimensions Ottoman width 46 cm cm Dimensions Width 76 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 19 kg kg Padding Foam density 28 kg/m³ kg/m³ Seating Seat count 1 seat seat Seating Seat height 40 cm cm Setup Assembly time 30 min min Upholstery Lightfastness 5 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Wind Recliner with Footstool, Beige Beige fabric upholstery with latte-coloured metal legs. Swivel Chairs Living room Wind Living room Swivel Chairs Wind Beige Foam Metal Polyester Steel Care Cleaning method Dry clean Care Removable covers No Dimensions Depth 86 cm cm Dimensions Height 96 cm cm Dimensions Ottoman depth 36 cm cm Dimensions Ottoman height 37 cm cm Dimensions Ottoman width 46 cm cm Dimensions Width 76 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 19 kg kg Padding Foam density 28 kg/m³ kg/m³ Seating Seat count 1 seat seat Seating Seat height 40 cm cm Setup Assembly time 30 min min Upholstery Lightfastness 5 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -325,7 +333,7 @@
       ]
     },
     "sortData": {
-      "title": "Wind Swivel Chair, Beige",
+      "title": "Wind Recliner with Footstool, Beige",
       "summary": "Beige fabric upholstery with latte-coloured metal legs.",
       "variantCount": 1,
       "categoryLabel": "Swivel Chairs",
@@ -336,34 +344,42 @@
   {
     "sku": "198264",
     "name": "198264",
-    "title": "Wind Swivel Chair, Grey",
-    "variantSummary": "76 x 86 cm / Grey",
+    "title": "Wind Recliner with Footstool, Grey",
+    "variantSummary": "76 × 86 cm / Grey",
     "shortDescription": "Grey fabric upholstery with matte black metal legs.",
     "selectionAttributes": {
-      "dimensions": "76 x 86 cm",
+      "dimensions": "76 × 86 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Steel, Polyester, Foam"
+      "material": "Steel, Polyester, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Recliner with footstool",
+      "colorLabel": "Grey",
+      "colorNote": "Light grey",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/swivel-chairs/wind/198264_1.avif",
-    "imageUrl": "/products/swivel-chairs/wind/198264_1.avif",
+    "primaryImageUrl": "/products/swivel-chairs/wind/198264_2.avif",
+    "imageUrl": "/products/swivel-chairs/wind/198264_2.avif",
     "imageUrls": [
-      "/products/swivel-chairs/wind/198264_1.avif",
       "/products/swivel-chairs/wind/198264_2.avif",
-      "/products/swivel-chairs/wind/198264_3.avif",
+      "/products/swivel-chairs/wind/198264_9.avif",
+      "/products/swivel-chairs/wind/198264_10.avif",
       "/products/swivel-chairs/wind/198264_4.avif",
       "/products/swivel-chairs/wind/198264_5.avif",
       "/products/swivel-chairs/wind/198264_6.avif",
       "/products/swivel-chairs/wind/198264_7.avif",
       "/products/swivel-chairs/wind/198264_8.avif",
-      "/products/swivel-chairs/wind/198264_9.avif",
-      "/products/swivel-chairs/wind/198264_10.avif"
+      "/products/swivel-chairs/wind/198264_1.avif",
+      "/products/swivel-chairs/wind/198264_3.avif"
     ],
     "href": "/products/swivel-chairs/wind/198264",
     "type": "file",
     "filterData": {
-      "searchText": "Wind Swivel Chair, Grey Grey fabric upholstery with matte black metal legs. Swivel Chairs Living room Wind Living room Swivel Chairs Wind Grey Foam Metal Polyester Steel Care Cleaning method Dry clean Care Removable covers No Dimensions Depth 86 cm cm Dimensions Height 96 cm cm Dimensions Ottoman depth 36 cm cm Dimensions Ottoman height 37 cm cm Dimensions Ottoman width 46 cm cm Dimensions Width 76 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 19 kg kg Padding Foam density 28 kg/m³ kg/m³ Seating Seat count 1 seat seat Seating Seat height 40 cm cm Setup Assembly time 30 min min Upholstery Lightfastness 5 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Wind Recliner with Footstool, Grey Grey fabric upholstery with matte black metal legs. Swivel Chairs Living room Wind Living room Swivel Chairs Wind Grey Foam Metal Polyester Steel Care Cleaning method Dry clean Care Removable covers No Dimensions Depth 86 cm cm Dimensions Height 96 cm cm Dimensions Ottoman depth 36 cm cm Dimensions Ottoman height 37 cm cm Dimensions Ottoman width 46 cm cm Dimensions Width 76 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 19 kg kg Padding Foam density 28 kg/m³ kg/m³ Seating Seat count 1 seat seat Seating Seat height 40 cm cm Setup Assembly time 30 min min Upholstery Lightfastness 5 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -659,7 +675,7 @@
       ]
     },
     "sortData": {
-      "title": "Wind Swivel Chair, Grey",
+      "title": "Wind Recliner with Footstool, Grey",
       "summary": "Grey fabric upholstery with matte black metal legs.",
       "variantCount": 1,
       "categoryLabel": "Swivel Chairs",

@@ -1,14 +1,15 @@
 {
   "familyTitle": "Lugo",
   "familySummary": "A modern 3-seater sofa with a durable wooden frame and easy-care fabric upholstery. Available in beige and green.",
-  "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_1.avif",
+  "familyDescription": "The Lugo sofa offers a calm and understated design suitable for everyday living. It features a sturdy frame made from solid wood, plywood, and chipboard, with soft foam cushions for comfort. The upholstery is smooth and designed to withstand daily use while being easy to maintain.",
+  "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_4.avif",
   "schemaCategory": "3-Seater Sofas",
   "variantCount": 2,
   "productFamilyName": "Lugo",
   "productFamilyKey": "lugo",
   "productFamilyRelativeDir": "families/lugo",
   "filterData": {
-    "searchText": "Lugo A modern 3-seater sofa with a durable wooden frame and easy-care fabric upholstery. Available in beige and green. 3-Seater Sofas Living room Lugo Living room 3-Seater Sofas Lugo Beige Green Foam Particle board Plastic Plywood Solid wood Configuration Leg height 0.6 cm cm Dimensions Depth 97 cm cm Dimensions Height 70 cm cm Dimensions Width 222 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.5 m³ m³ Logistics Weight 66 kg kg Logistics Weight 69.3 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 85 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+    "searchText": "Lugo A modern 3-seater sofa with a durable wooden frame and easy-care fabric upholstery. Available in beige and green. 3-Seater Sofas Living room Lugo Living room 3-Seater Sofas Lugo Beige Green Foam Particle board Plastic Plywood Solid wood Configuration Leg height 0.6 cm cm Dimensions Depth 97 cm cm Dimensions Height 70 cm cm Dimensions Width 222 cm cm Logistics Package count 1 package package Logistics Package weight 69.3 kg kg Logistics Product count 1 product product Logistics Volume 1.5 m³ m³ Logistics Weight 66 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 85 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "living-room",
@@ -134,6 +135,18 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "69-3-kg",
+        "valueLabel": "69.3 kg",
+        "href": "/attributes/logistics/package-weight/69-3-kg/",
+        "valueType": "enum",
+        "numericValue": 69.3,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "1-product",
@@ -165,18 +178,6 @@
         "href": "/attributes/logistics/weight/66-kg/",
         "valueType": "enum",
         "numericValue": 66,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "69-3-kg",
-        "valueLabel": "69.3 kg",
-        "href": "/attributes/logistics/weight/69-3-kg/",
-        "valueType": "enum",
-        "numericValue": 69.3,
         "unit": "kg"
       },
       {

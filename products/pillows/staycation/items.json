@@ -2,26 +2,34 @@
   {
     "sku": "214016",
     "name": "214016",
-    "title": "Staycation Pillow, 80 x 60 x 20 cm",
-    "variantSummary": "80 x 60 x 20 cm",
+    "title": "Staycation Large Pillow",
+    "variantSummary": "60 × 80 cm / White",
     "shortDescription": "Bedroom pillows from the Staycation series.",
     "selectionAttributes": {
-      "dimensions": "80 x 60 x 20 cm",
+      "dimensions": "60 × 80 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "",
-      "material": "Polyester, Cotton"
+      "color": "White",
+      "material": "Polyester, Cotton",
+      "productType": "Large pillow",
+      "productTypeNote": "60 × 80 cm",
+      "productNoun": "Large pillow",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "productType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/pillows/staycation/214016_1.jpg",
-    "imageUrl": "/products/pillows/staycation/214016_1.jpg",
+    "primaryImageUrl": "/products/pillows/staycation/214016_1.avif",
+    "imageUrl": "/products/pillows/staycation/214016_1.avif",
     "imageUrls": [
-      "/products/pillows/staycation/214016_1.jpg",
-      "/products/pillows/staycation/214016_2.jpg"
+      "/products/pillows/staycation/214016_1.avif",
+      "/products/pillows/staycation/214016_2.avif"
     ],
     "href": "/products/pillows/staycation/214016",
     "type": "file",
     "filterData": {
-      "searchText": "Staycation Pillow, 80 x 60 x 20 cm Bedroom pillows from the Staycation series. Pillows Bedroom Staycation Bedroom Pillows Staycation Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 60 cm cm Dimensions Height 20 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 5 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1 kg kg Logistics Weight 7.3 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Staycation Large Pillow Bedroom pillows from the Staycation series. Pillows Bedroom Staycation Bedroom Pillows Staycation White Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 60 cm cm Dimensions Height 20 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Package weight 7.3 kg kg Logistics Product count 5 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -43,7 +51,13 @@
           "href": "/families/staycation/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -121,6 +135,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "7-3-kg",
+          "valueLabel": "7.3 kg",
+          "href": "/attributes/logistics/package-weight/7-3-kg/",
+          "valueType": "enum",
+          "numericValue": 7.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "5-product",
@@ -155,18 +181,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "7-3-kg",
-          "valueLabel": "7.3 kg",
-          "href": "/attributes/logistics/weight/7-3-kg/",
-          "valueType": "enum",
-          "numericValue": 7.3,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -193,7 +207,7 @@
       ]
     },
     "sortData": {
-      "title": "Staycation Pillow, 80 x 60 x 20 cm",
+      "title": "Staycation Large Pillow",
       "summary": "Bedroom pillows from the Staycation series.",
       "variantCount": 1,
       "categoryLabel": "Pillows",
@@ -204,26 +218,34 @@
   {
     "sku": "214017",
     "name": "214017",
-    "title": "Staycation Pillow, 60 x 50 x 18 cm",
-    "variantSummary": "60 x 50 x 18 cm",
+    "title": "Staycation 3-layer Pillow",
+    "variantSummary": "50 × 60 cm / White",
     "shortDescription": "Bedroom pillows from the Staycation series.",
     "selectionAttributes": {
-      "dimensions": "60 x 50 x 18 cm",
+      "dimensions": "50 × 60 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "",
-      "material": "Polyester, Cotton, Feather, Mikrofiber"
+      "color": "White",
+      "material": "Polyester, Cotton, Feather, Mikrofiber",
+      "productType": "3-layer pillow",
+      "productTypeNote": "50 × 60 cm",
+      "productNoun": "3-layer pillow",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "productType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/pillows/staycation/214017_1.jpg",
-    "imageUrl": "/products/pillows/staycation/214017_1.jpg",
+    "primaryImageUrl": "/products/pillows/staycation/214017_2.avif",
+    "imageUrl": "/products/pillows/staycation/214017_2.avif",
     "imageUrls": [
-      "/products/pillows/staycation/214017_1.jpg",
-      "/products/pillows/staycation/214017_2.jpg"
+      "/products/pillows/staycation/214017_2.avif",
+      "/products/pillows/staycation/214017_1.avif"
     ],
     "href": "/products/pillows/staycation/214017",
     "type": "file",
     "filterData": {
-      "searchText": "Staycation Pillow, 60 x 50 x 18 cm Bedroom pillows from the Staycation series. Pillows Bedroom Staycation Bedroom Pillows Staycation Cotton Feather Mikrofiber Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Height 18 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Product count 8 product product Logistics Volume 0.23 m³ m³ Logistics Weight 8.3 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Staycation 3-layer Pillow Bedroom pillows from the Staycation series. Pillows Bedroom Staycation Bedroom Pillows Staycation White Cotton Feather Mikrofiber Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Height 18 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Package weight 8.3 kg kg Logistics Product count 8 product product Logistics Volume 0.23 m³ m³ Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -245,7 +267,13 @@
           "href": "/families/staycation/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -333,6 +361,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "8-3-kg",
+          "valueLabel": "8.3 kg",
+          "href": "/attributes/logistics/package-weight/8-3-kg/",
+          "valueType": "enum",
+          "numericValue": 8.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "8-product",
@@ -353,18 +393,6 @@
           "valueType": "enum",
           "numericValue": 0.23,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "8-3-kg",
-          "valueLabel": "8.3 kg",
-          "href": "/attributes/logistics/weight/8-3-kg/",
-          "valueType": "enum",
-          "numericValue": 8.3,
-          "unit": "kg"
         },
         {
           "groupKey": "setup",
@@ -393,8 +421,91 @@
       ]
     },
     "sortData": {
-      "title": "Staycation Pillow, 60 x 50 x 18 cm",
+      "title": "Staycation 3-layer Pillow",
       "summary": "Bedroom pillows from the Staycation series.",
+      "variantCount": 1,
+      "categoryLabel": "Pillows",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Staycation"
+    }
+  },
+  {
+    "sku": "220238",
+    "name": "220238",
+    "title": "Staycation Pillow",
+    "variantSummary": "50 × 60 cm / White",
+    "shortDescription": "Staycation Pillow in white, sized 60 × 50 × 15 cm, for a simple and versatile look in the bedroom.",
+    "selectionAttributes": {
+      "dimensions": "50 × 60 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "White",
+      "material": "Cotton, Polyester",
+      "productType": "Pillow",
+      "productTypeNote": "50 × 60 cm",
+      "productNoun": "Pillow",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "productType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
+    },
+    "primaryImageUrl": "/products/pillows/staycation/220238_2.avif",
+    "imageUrl": "/products/pillows/staycation/220238_2.avif",
+    "imageUrls": [
+      "/products/pillows/staycation/220238_2.avif",
+      "/products/pillows/staycation/220238_1.avif"
+    ],
+    "href": "/products/pillows/staycation/220238",
+    "type": "file",
+    "filterData": {
+      "searchText": "Staycation Pillow Staycation Pillow in white, sized 60 × 50 × 15 cm, for a simple and versatile look in the bedroom. Pillows Bedroom Staycation Bedroom Pillows Staycation White Cotton Polyester",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "pillows",
+          "label": "Pillows",
+          "href": "/products/pillows/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "staycation",
+          "label": "Staycation",
+          "href": "/families/staycation/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Staycation Pillow",
+      "summary": "Staycation Pillow in white, sized 60 × 50 × 15 cm, for a simple and versatile look in the bedroom.",
       "variantCount": 1,
       "categoryLabel": "Pillows",
       "collectionLabel": "Bedroom",

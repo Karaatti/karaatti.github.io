@@ -1,5 +1,16 @@
 [
   {
+    "name": "moon-gold",
+    "href": "/products/toppers/moon-gold/",
+    "type": "dir",
+    "title": "Moon Gold Topper",
+    "schemaCategory": "Toppers",
+    "variantCount": 24,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
     "name": "moon-silver",
     "href": "/products/toppers/moon-silver/",
     "type": "dir",
@@ -52,8 +63,29 @@
     "schemaCategory": "Outdoor Lounge Seating",
     "variantCount": 3,
     "displayColors": [
-      "White",
-      "Beige"
+      "White"
+    ]
+  },
+  {
+    "name": "staycation",
+    "href": "/products/pillows/staycation/",
+    "type": "dir",
+    "title": "Staycation Pillow",
+    "schemaCategory": "Pillows",
+    "variantCount": 3,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "staygentle",
+    "href": "/products/mattress-protectors/staygentle/",
+    "type": "dir",
+    "title": "Staygentle Mattress Protector",
+    "schemaCategory": "Mattress Protectors",
+    "variantCount": 3,
+    "displayColors": [
+      "White"
     ]
   },
   {
@@ -75,8 +107,7 @@
     "schemaCategory": "Bar Stools",
     "variantCount": 2,
     "displayColors": [
-      "White",
-      "Beige"
+      "White"
     ]
   },
   {
@@ -86,6 +117,193 @@
     "title": "Metz",
     "schemaCategory": "Dining Tables",
     "variantCount": 2,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "nest-living-gold",
+    "href": "/products/duvets/nest-living-gold/",
+    "type": "dir",
+    "title": "Nest & Living Gold Duvet",
+    "schemaCategory": "Duvets",
+    "variantCount": 2,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "nest-living-gold",
+    "href": "/products/pillows/nest-living-gold/",
+    "type": "dir",
+    "title": "Nest & Living Gold Pillow",
+    "schemaCategory": "Pillows",
+    "variantCount": 2,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "nest-living-silver",
+    "href": "/products/pillows/nest-living-silver/",
+    "type": "dir",
+    "title": "Nest & Living Silver Pillow",
+    "schemaCategory": "Pillows",
+    "variantCount": 2,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "staycation",
+    "href": "/products/duvets/staycation/",
+    "type": "dir",
+    "title": "Staycation",
+    "schemaCategory": "Duvets",
+    "variantCount": 2,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "staycool",
+    "href": "/products/pillows/staycool/",
+    "type": "dir",
+    "title": "Staycool Pillow",
+    "schemaCategory": "Pillows",
+    "variantCount": 2,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "freedom",
+    "href": "/products/three-seater-sofas/freedom/",
+    "type": "dir",
+    "title": "Freedom",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "joy",
+    "href": "/products/chaise-sofas/joy/",
+    "type": "dir",
+    "title": "Joy",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 1,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "metz",
+    "href": "/products/coffee-tables/metz/",
+    "type": "dir",
+    "title": "Metz",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "nest-living-basic",
+    "href": "/products/duvet-pillow-sets/nest-living-basic/",
+    "type": "dir",
+    "title": "Nest & Living Basic Duvet Set",
+    "schemaCategory": "Duvet & Pillow Sets",
+    "variantCount": 1,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "nest-living-bronze",
+    "href": "/products/duvet-pillow-sets/nest-living-bronze/",
+    "type": "dir",
+    "title": "Nest & Living Bronze Duvet Set",
+    "schemaCategory": "Duvet & Pillow Sets",
+    "variantCount": 1,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "nest-living-silver",
+    "href": "/products/duvets/nest-living-silver/",
+    "type": "dir",
+    "title": "Nest & Living Silver Duvet",
+    "schemaCategory": "Duvets",
+    "variantCount": 1,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "night",
+    "href": "/products/pillows/night/",
+    "type": "dir",
+    "title": "Night",
+    "schemaCategory": "Pillows",
+    "variantCount": 1,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "staycomfort",
+    "href": "/products/pillows/staycomfort/",
+    "type": "dir",
+    "title": "Staycomfort Pillow",
+    "schemaCategory": "Pillows",
+    "variantCount": 1,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "staycool",
+    "href": "/products/duvets/staycool/",
+    "type": "dir",
+    "title": "Staycool Duvet",
+    "schemaCategory": "Duvets",
+    "variantCount": 1,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "staycool",
+    "href": "/products/mattress-protectors/staycool/",
+    "type": "dir",
+    "title": "Staycool Mattress Protector",
+    "schemaCategory": "Mattress Protectors",
+    "variantCount": 1,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "stayergo-classic",
+    "href": "/products/pillows/stayergo-classic/",
+    "type": "dir",
+    "title": "Stayergo Classic",
+    "schemaCategory": "Pillows",
+    "variantCount": 1,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "stayergo-shape",
+    "href": "/products/pillows/stayergo-shape/",
+    "type": "dir",
+    "title": "Stayergo Shape",
+    "schemaCategory": "Pillows",
+    "variantCount": 1,
     "displayColors": [
       "White"
     ]
@@ -118,6 +336,28 @@
     "type": "dir",
     "title": "Voyage",
     "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "wooly",
+    "href": "/products/duvets/wooly/",
+    "type": "dir",
+    "title": "Wooly",
+    "schemaCategory": "Duvets",
+    "variantCount": 1,
+    "displayColors": [
+      "White"
+    ]
+  },
+  {
+    "name": "wooly",
+    "href": "/products/pillows/wooly/",
+    "type": "dir",
+    "title": "Wooly",
+    "schemaCategory": "Pillows",
     "variantCount": 1,
     "displayColors": [
       "White"

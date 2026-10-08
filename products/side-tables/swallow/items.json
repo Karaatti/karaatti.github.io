@@ -3,30 +3,38 @@
     "sku": "198080",
     "name": "198080",
     "title": "Swallow Side Table",
-    "variantSummary": "45 x 45 cm / Brown",
+    "variantSummary": "Ø 45 cm / Beige",
     "shortDescription": "Round side table with 45 cm diameter top in natural rubberwood.",
     "selectionAttributes": {
-      "dimensions": "45 x 45 cm",
+      "dimensions": "Ø 45 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Brown",
-      "material": "Wood"
+      "color": "Beige",
+      "material": "Wood",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Side table",
+      "colorLabel": "Beige",
+      "colorNote": "Natural",
+      "axisPlan": "",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/side-tables/swallow/198080_1.avif",
-    "imageUrl": "/products/side-tables/swallow/198080_1.avif",
+    "primaryImageUrl": "/products/side-tables/swallow/198080_2.avif",
+    "imageUrl": "/products/side-tables/swallow/198080_2.avif",
     "imageUrls": [
-      "/products/side-tables/swallow/198080_1.avif",
       "/products/side-tables/swallow/198080_2.avif",
+      "/products/side-tables/swallow/198080_7.avif",
+      "/products/side-tables/swallow/198080_1.avif",
       "/products/side-tables/swallow/198080_3.avif",
       "/products/side-tables/swallow/198080_4.avif",
       "/products/side-tables/swallow/198080_5.avif",
-      "/products/side-tables/swallow/198080_6.avif",
-      "/products/side-tables/swallow/198080_7.avif"
+      "/products/side-tables/swallow/198080_6.avif"
     ],
     "href": "/products/side-tables/swallow/",
     "type": "file",
     "filterData": {
-      "searchText": "Swallow Side Table Round side table with 45 cm diameter top in natural rubberwood. Side Tables Living room Swallow Living room Side Tables Swallow Brown Wood Dimensions Depth 45 cm cm Dimensions Height 58 cm cm Dimensions Width 45 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.03 m³ m³ Logistics Weight 3 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Swallow Side Table Round side table with 45 cm diameter top in natural rubberwood. Side Tables Living room Swallow Living room Side Tables Swallow Beige Wood Dimensions Depth 45 cm cm Dimensions Height 58 cm cm Dimensions Width 45 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.03 m³ m³ Logistics Weight 3 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -50,9 +58,9 @@
       ],
       "colors": [
         {
-          "key": "brown",
-          "label": "Brown",
-          "href": "/colors/brown/"
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
         }
       ],
       "materials": [

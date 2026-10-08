@@ -1,14 +1,15 @@
 {
   "familyTitle": "Staycool Mattress Protector",
   "familySummary": "Cooling mattress protectors from the Staycool series.",
-  "primaryImageUrl": "/products/mattress-protectors/staycool/214011_1.jpg",
+  "familyDescription": "Cooling mattress protectors from the Staycool series.",
+  "primaryImageUrl": "/products/mattress-protectors/staycool/214011_2.avif",
   "schemaCategory": "Mattress Protectors",
   "variantCount": 1,
   "productFamilyName": "Staycool",
   "productFamilyKey": "staycool",
   "productFamilyRelativeDir": "families/staycool",
   "filterData": {
-    "searchText": "Staycool Mattress Protector Cooling mattress protectors from the Staycool series. Mattress Protectors Bedroom Staycool Bedroom Mattress Protectors Staycool Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 80 cm cm Dimensions Height 1 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 10 product product Logistics Volume 0.19 m³ m³ Logistics Weight 7.1 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+    "searchText": "Staycool Mattress Protector Cooling mattress protectors from the Staycool series. Mattress Protectors Bedroom Staycool Bedroom Mattress Protectors Staycool White Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 80 cm cm Dimensions Height 1 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 7.1 kg kg Logistics Product count 10 product product Logistics Volume 0.19 m³ m³ Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "bedroom",
@@ -30,7 +31,13 @@
         "href": "/families/staycool/"
       }
     ],
-    "colors": [],
+    "colors": [
+      {
+        "key": "white",
+        "label": "White",
+        "href": "/colors/white/"
+      }
+    ],
     "materials": [
       {
         "key": "cotton",
@@ -108,6 +115,18 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "7-1-kg",
+        "valueLabel": "7.1 kg",
+        "href": "/attributes/logistics/package-weight/7-1-kg/",
+        "valueType": "enum",
+        "numericValue": 7.1,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "10-product",
@@ -128,18 +147,6 @@
         "valueType": "enum",
         "numericValue": 0.19,
         "unit": "m³"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "7-1-kg",
-        "valueLabel": "7.1 kg",
-        "href": "/attributes/logistics/weight/7-1-kg/",
-        "valueType": "enum",
-        "numericValue": 7.1,
-        "unit": "kg"
       },
       {
         "groupKey": "setup",

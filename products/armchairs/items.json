@@ -4,11 +4,11 @@
     "href": "/products/armchairs/dove/",
     "type": "dir",
     "title": "Dove",
-    "summary": "Armchair with a walnut rubberwood frame and beige fabric upholstery. Offers comfortable seating with a high back and soft seat.",
-    "primaryImageUrl": "/products/armchairs/dove/198105_1.avif",
+    "summary": "Dove armchairs bring a lounge-style seat to a living room or reading corner, with beige and brown options to compare.",
+    "primaryImageUrl": "/products/armchairs/dove/198104_1.avif",
     "sourceHref": "/products/armchairs/dove/",
     "filterData": {
-      "searchText": "Dove Armchair with a walnut rubberwood frame and beige fabric upholstery. Offers comfortable seating with a high back and soft seat. Armchairs Dove Living room Armchairs Dove Beige Brown Fabric Foam Wood Dimensions Depth 97 cm cm Dimensions Height 95 cm cm Dimensions Width 65 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 15.5 kg kg Logistics Weight 17 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Dove Dove armchairs bring a lounge-style seat to a living room or reading corner, with beige and brown options to compare. Armchairs Dove Living room Armchairs Dove Beige Brown Fabric Foam Wood Dimensions Depth 97 cm cm Dimensions Height 95 cm cm Dimensions Width 65 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Package weight 17 kg kg Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 15.5 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -124,6 +124,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -155,18 +167,6 @@
           "href": "/attributes/logistics/weight/15-5-kg/",
           "valueType": "enum",
           "numericValue": 15.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "17-kg",
-          "valueLabel": "17 kg",
-          "href": "/attributes/logistics/weight/17-kg/",
-          "valueType": "enum",
-          "numericValue": 17,
           "unit": "kg"
         },
         {
@@ -209,8 +209,8 @@
     },
     "sortData": {
       "title": "Dove",
-      "summary": "Armchair with a walnut rubberwood frame and beige fabric upholstery. Offers comfortable seating with a high back and soft seat.",
-      "variantCount": 1,
+      "summary": "Dove armchairs bring a lounge-style seat to a living room or reading corner, with beige and brown options to compare.",
+      "variantCount": 2,
       "categoryLabel": "Armchairs",
       "collectionLabel": "",
       "productFamilyLabel": "Dove"
@@ -225,7 +225,7 @@
     "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
     "sourceHref": "/products/armchairs/eagle/",
     "filterData": {
-      "searchText": "Eagle Fixed Armchair A modern armchair with a natural wood frame and soft upholstery, designed for comfort and understated style. Fixed Armchairs Eagle Living room Armchairs Eagle Beige Black Brown Fabric Faux leather Oak Plywood Dimensions Depth 72 cm cm Dimensions Height 71 cm cm Dimensions Width 75 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.41 m³ m³ Logistics Weight 11 kg kg Logistics Weight 16.5 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Eagle Fixed Armchair A modern armchair with a natural wood frame and soft upholstery, designed for comfort and understated style. Fixed Armchairs Eagle Living room Armchairs Eagle Beige Black Brown Fabric Faux leather Oak Plywood Dimensions Depth 72 cm cm Dimensions Height 71 cm cm Dimensions Width 75 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Package weight 16.5 kg kg Logistics Product count 1 product product Logistics Volume 0.41 m³ m³ Logistics Weight 11 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -351,6 +351,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "16-5-kg",
+          "valueLabel": "16.5 kg",
+          "href": "/attributes/logistics/package-weight/16-5-kg/",
+          "valueType": "enum",
+          "numericValue": 16.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -382,18 +394,6 @@
           "href": "/attributes/logistics/weight/11-kg/",
           "valueType": "enum",
           "numericValue": 11,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "16-5-kg",
-          "valueLabel": "16.5 kg",
-          "href": "/attributes/logistics/weight/16-5-kg/",
-          "valueType": "enum",
-          "numericValue": 16.5,
           "unit": "kg"
         },
         {
@@ -432,12 +432,84 @@
     }
   },
   {
+    "name": "swan",
+    "href": "/products/armchairs/swan/",
+    "type": "dir",
+    "title": "Swan",
+    "summary": "Swan armchairs combine a distinctive lounge-chair profile with fabric upholstery and comfort foam, in beige and brown colour combinations.",
+    "primaryImageUrl": "/products/armchairs/swan/198102_4.avif",
+    "sourceHref": "/products/armchairs/swan/",
+    "filterData": {
+      "searchText": "Swan Swan armchairs combine a distinctive lounge-chair profile with fabric upholstery and comfort foam, in beige and brown colour combinations. Armchairs Swan Living room Armchairs Swan Beige Brown Fabric Foam Wood",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "armchairs",
+          "label": "Armchairs",
+          "href": "/products/armchairs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "swan",
+          "label": "Swan",
+          "href": "/families/swan/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Swan",
+      "summary": "Swan armchairs combine a distinctive lounge-chair profile with fabric upholstery and comfort foam, in beige and brown colour combinations.",
+      "variantCount": 2,
+      "categoryLabel": "Armchairs",
+      "collectionLabel": "",
+      "productFamilyLabel": "Swan"
+    }
+  },
+  {
     "name": "voyage",
     "href": "/products/armchairs/voyage/",
     "type": "dir",
     "title": "Voyage",
     "summary": "A fixed armchair with a solid wood frame, soft foam and feather seat, and removable cotton covers in white or green.",
-    "primaryImageUrl": "/products/armchairs/voyage/208784_1.avif",
+    "primaryImageUrl": "/products/armchairs/voyage/208784_2.avif",
     "sourceHref": "/products/armchairs/voyage/",
     "filterData": {
       "searchText": "Voyage A fixed armchair with a solid wood frame, soft foam and feather seat, and removable cotton covers in white or green. Armchairs Voyage Living room Armchairs Voyage Green White Feather Foam Plastic Plywood Solid wood Care Cleaning method Water wash Care Removable covers Yes Dimensions Depth 88 cm cm Dimensions Height 88 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.36 m³ m³ Logistics Weight 30 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",

@@ -55,7 +55,7 @@
     "href": "/attributes/seating/seat-count/",
     "type": "dir",
     "entryCount": 3,
-    "variantCount": 13,
+    "variantCount": 14,
     "valueType": "measurement",
     "numericFilter": {
       "numericEntryCount": 3,
@@ -105,7 +105,7 @@
     "href": "/attributes/seating/seat-height/",
     "type": "dir",
     "entryCount": 6,
-    "variantCount": 25,
+    "variantCount": 26,
     "valueType": "measurement",
     "numericFilter": {
       "numericEntryCount": 6,

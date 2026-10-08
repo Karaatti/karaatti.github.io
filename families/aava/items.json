@@ -5,9 +5,9 @@
     "href": "/products/chaise-sofas/aava/",
     "type": "dir",
     "summary": "Spacious 4-seater chaise sofa with durable fabric upholstery and natural oak legs. Features reversible chaise for flexible layout.",
-    "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+    "primaryImageUrl": "/products/chaise-sofas/aava/202833_2.avif",
     "filterData": {
-      "searchText": "Aava Spacious 4-seater chaise sofa with durable fabric upholstery and natural oak legs. Features reversible chaise for flexible layout. Chaise Sofas Living room Aava Living room Chaise Sofas Aava Beige Grey Foam Plywood Polyester Wood Wood veneer Configuration Handedness configuration Self-configurable Dimensions Depth 176 cm cm Dimensions Height 78 cm cm Dimensions Main section depth 89 cm cm Dimensions Width 283 cm cm Load Maximum load 200 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.38 m³ m³ Logistics Volume 0.68 m³ m³ Logistics Weight 29.5 kg kg Logistics Weight 55.1 kg kg Logistics Weight 89 kg kg Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Aava Spacious 4-seater chaise sofa with durable fabric upholstery and natural oak legs. Features reversible chaise for flexible layout. Chaise Sofas Living room Aava Living room Chaise Sofas Aava Beige Grey Foam Plywood Polyester Wood Wood veneer Configuration Handedness configuration Self-configurable Dimensions Depth 176 cm cm Dimensions Height 78 cm cm Dimensions Main section depth 89 cm cm Dimensions Width 283 cm cm Load Maximum load 200 kg kg Logistics Package count 1 package package Logistics Package weight 29.5 kg kg Logistics Package weight 55.1 kg kg Logistics Product count 1 product product Logistics Volume 0.38 m³ m³ Logistics Volume 0.68 m³ m³ Logistics Weight 89 kg kg Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -157,6 +157,30 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "29-5-kg",
+          "valueLabel": "29.5 kg",
+          "href": "/attributes/logistics/package-weight/29-5-kg/",
+          "valueType": "enum",
+          "numericValue": 29.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "55-1-kg",
+          "valueLabel": "55.1 kg",
+          "href": "/attributes/logistics/package-weight/55-1-kg/",
+          "valueType": "enum",
+          "numericValue": 55.1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -189,30 +213,6 @@
           "valueType": "enum",
           "numericValue": 0.68,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "29-5-kg",
-          "valueLabel": "29.5 kg",
-          "href": "/attributes/logistics/weight/29-5-kg/",
-          "valueType": "enum",
-          "numericValue": 29.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "55-1-kg",
-          "valueLabel": "55.1 kg",
-          "href": "/attributes/logistics/weight/55-1-kg/",
-          "valueType": "enum",
-          "numericValue": 55.1,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",

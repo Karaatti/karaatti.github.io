@@ -2,33 +2,41 @@
   {
     "sku": "198070",
     "name": "198070",
-    "title": "Island coffee table, stackable Coffee Table, Brown",
-    "variantSummary": "90 x 60 x 40 cm / Brown",
+    "title": "Island Nesting Tables, Brown",
+    "variantSummary": "90 × 60 cm / Brown",
     "shortDescription": "Brown finish with American Walnut tone. Includes tables sized 90 x 60 x 40 cm and 60 x 40 x 33 cm.",
     "selectionAttributes": {
-      "dimensions": "90 x 60 x 40 cm",
+      "dimensions": "90 × 60 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Brown",
-      "material": "MDF, Paper"
+      "material": "MDF, Paper",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Nesting tables",
+      "colorLabel": "Brown",
+      "colorNote": "Walnut",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/coffee-tables/island/198070_1.avif",
-    "imageUrl": "/products/coffee-tables/island/198070_1.avif",
+    "primaryImageUrl": "/products/coffee-tables/island/198070_8.avif",
+    "imageUrl": "/products/coffee-tables/island/198070_8.avif",
     "imageUrls": [
-      "/products/coffee-tables/island/198070_1.avif",
+      "/products/coffee-tables/island/198070_8.avif",
+      "/products/coffee-tables/island/198070_9.avif",
       "/products/coffee-tables/island/198070_2.avif",
-      "/products/coffee-tables/island/198070_3.avif",
       "/products/coffee-tables/island/198070_4.avif",
+      "/products/coffee-tables/island/198070_1.avif",
+      "/products/coffee-tables/island/198070_3.avif",
       "/products/coffee-tables/island/198070_5.avif",
       "/products/coffee-tables/island/198070_6.avif",
-      "/products/coffee-tables/island/198070_7.avif",
-      "/products/coffee-tables/island/198070_8.avif",
-      "/products/coffee-tables/island/198070_9.avif"
+      "/products/coffee-tables/island/198070_7.avif"
     ],
     "href": "/products/coffee-tables/island/198070",
     "type": "file",
     "filterData": {
-      "searchText": "Island coffee table, stackable Coffee Table, Brown Brown finish with American Walnut tone. Includes tables sized 90 x 60 x 40 cm and 60 x 40 x 33 cm. Coffee Tables Living room Island Living room Coffee Tables Island Brown MDF Paper Dimensions Depth 60 cm cm Dimensions Height 40 cm cm Dimensions Smaller table depth 40 cm cm Dimensions Smaller table height 33 cm cm Dimensions Smaller table width 60 cm cm Dimensions Width 90 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.29 m³ m³ Logistics Weight 27 kg kg Logistics Weight 31 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Island Nesting Tables, Brown Brown finish with American Walnut tone. Includes tables sized 90 x 60 x 40 cm and 60 x 40 x 33 cm. Coffee Tables Living room Island Living room Coffee Tables Island Brown MDF Paper Dimensions Depth 60 cm cm Dimensions Depth 2 40 cm cm Dimensions Height 40 cm cm Dimensions Height 2 33 cm cm Dimensions Width 90 cm cm Dimensions Width 2 60 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Package weight 31 kg kg Logistics Product count 1 product product Logistics Volume 0.29 m³ m³ Logistics Weight 27 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -86,6 +94,18 @@
         {
           "groupKey": "dimensions",
           "groupLabel": "Dimensions",
+          "key": "depth2",
+          "label": "Depth 2",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/dimensions/depth2/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
           "key": "height",
           "label": "Height",
           "valueKey": "40-cm",
@@ -98,37 +118,13 @@
         {
           "groupKey": "dimensions",
           "groupLabel": "Dimensions",
-          "key": "smaller-table-depth",
-          "label": "Smaller table depth",
-          "valueKey": "40-cm",
-          "valueLabel": "40 cm",
-          "href": "/attributes/dimensions/smaller-table-depth/40-cm/",
-          "valueType": "enum",
-          "numericValue": 40,
-          "unit": "cm"
-        },
-        {
-          "groupKey": "dimensions",
-          "groupLabel": "Dimensions",
-          "key": "smaller-table-height",
-          "label": "Smaller table height",
+          "key": "height2",
+          "label": "Height 2",
           "valueKey": "33-cm",
           "valueLabel": "33 cm",
-          "href": "/attributes/dimensions/smaller-table-height/33-cm/",
+          "href": "/attributes/dimensions/height2/33-cm/",
           "valueType": "enum",
           "numericValue": 33,
-          "unit": "cm"
-        },
-        {
-          "groupKey": "dimensions",
-          "groupLabel": "Dimensions",
-          "key": "smaller-table-width",
-          "label": "Smaller table width",
-          "valueKey": "60-cm",
-          "valueLabel": "60 cm",
-          "href": "/attributes/dimensions/smaller-table-width/60-cm/",
-          "valueType": "enum",
-          "numericValue": 60,
           "unit": "cm"
         },
         {
@@ -141,6 +137,18 @@
           "href": "/attributes/dimensions/width/90-cm/",
           "valueType": "enum",
           "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width2",
+          "label": "Width 2",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/width2/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
           "unit": "cm"
         },
         {
@@ -166,6 +174,18 @@
           "valueType": "enum",
           "numericValue": 1,
           "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "31-kg",
+          "valueLabel": "31 kg",
+          "href": "/attributes/logistics/package-weight/31-kg/",
+          "valueType": "enum",
+          "numericValue": 31,
+          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -204,18 +224,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "31-kg",
-          "valueLabel": "31 kg",
-          "href": "/attributes/logistics/weight/31-kg/",
-          "valueType": "enum",
-          "numericValue": 31,
-          "unit": "kg"
-        },
-        {
           "groupKey": "warranty",
           "groupLabel": "Warranty",
           "key": "price-guarantee",
@@ -242,7 +250,7 @@
       ]
     },
     "sortData": {
-      "title": "Island coffee table, stackable Coffee Table, Brown",
+      "title": "Island Nesting Tables, Brown",
       "summary": "Brown finish with American Walnut tone. Includes tables sized 90 x 60 x 40 cm and 60 x 40 x 33 cm.",
       "variantCount": 1,
       "categoryLabel": "Coffee Tables",
@@ -253,36 +261,44 @@
   {
     "sku": "198071",
     "name": "198071",
-    "title": "Island coffee table, stackable Coffee Table, Beige",
-    "variantSummary": "90 x 60 x 40 cm / Beige",
+    "title": "Island Nesting Tables, Beige",
+    "variantSummary": "90 × 60 cm / Beige",
     "shortDescription": "Beige travertin finish, includes two tables sized 90 x 60 x 40 cm and 60 x 40 x 33 cm.",
     "selectionAttributes": {
-      "dimensions": "90 x 60 x 40 cm",
+      "dimensions": "90 × 60 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "MDF, Paper"
+      "material": "MDF, Paper",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Nesting tables",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/coffee-tables/island/198071_1.avif",
-    "imageUrl": "/products/coffee-tables/island/198071_1.avif",
+    "primaryImageUrl": "/products/coffee-tables/island/198071_2.avif",
+    "imageUrl": "/products/coffee-tables/island/198071_2.avif",
     "imageUrls": [
-      "/products/coffee-tables/island/198071_1.avif",
       "/products/coffee-tables/island/198071_2.avif",
+      "/products/coffee-tables/island/198071_12.avif",
+      "/products/coffee-tables/island/198071_11.avif",
+      "/products/coffee-tables/island/198071_8.avif",
+      "/products/coffee-tables/island/198071_1.avif",
       "/products/coffee-tables/island/198071_3.avif",
       "/products/coffee-tables/island/198071_4.avif",
       "/products/coffee-tables/island/198071_5.avif",
       "/products/coffee-tables/island/198071_6.avif",
       "/products/coffee-tables/island/198071_7.avif",
-      "/products/coffee-tables/island/198071_8.avif",
       "/products/coffee-tables/island/198071_9.avif",
-      "/products/coffee-tables/island/198071_10.avif",
-      "/products/coffee-tables/island/198071_11.avif",
-      "/products/coffee-tables/island/198071_12.avif"
+      "/products/coffee-tables/island/198071_10.avif"
     ],
     "href": "/products/coffee-tables/island/198071",
     "type": "file",
     "filterData": {
-      "searchText": "Island coffee table, stackable Coffee Table, Beige Beige travertin finish, includes two tables sized 90 x 60 x 40 cm and 60 x 40 x 33 cm. Coffee Tables Living room Island Living room Coffee Tables Island Beige MDF Paper Dimensions Depth 60 cm cm Dimensions Height 40 cm cm Dimensions Smaller table depth 40 cm cm Dimensions Smaller table height 33 cm cm Dimensions Smaller table width 60 cm cm Dimensions Width 90 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.29 m³ m³ Logistics Weight 27 kg kg Logistics Weight 31 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Island Nesting Tables, Beige Beige travertin finish, includes two tables sized 90 x 60 x 40 cm and 60 x 40 x 33 cm. Coffee Tables Living room Island Living room Coffee Tables Island Beige MDF Paper Dimensions Depth 60 cm cm Dimensions Depth 2 40 cm cm Dimensions Height 40 cm cm Dimensions Height 2 33 cm cm Dimensions Width 90 cm cm Dimensions Width 2 60 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Package weight 31 kg kg Logistics Product count 1 product product Logistics Volume 0.29 m³ m³ Logistics Weight 27 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -340,6 +356,18 @@
         {
           "groupKey": "dimensions",
           "groupLabel": "Dimensions",
+          "key": "depth2",
+          "label": "Depth 2",
+          "valueKey": "40-cm",
+          "valueLabel": "40 cm",
+          "href": "/attributes/dimensions/depth2/40-cm/",
+          "valueType": "enum",
+          "numericValue": 40,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
           "key": "height",
           "label": "Height",
           "valueKey": "40-cm",
@@ -352,37 +380,13 @@
         {
           "groupKey": "dimensions",
           "groupLabel": "Dimensions",
-          "key": "smaller-table-depth",
-          "label": "Smaller table depth",
-          "valueKey": "40-cm",
-          "valueLabel": "40 cm",
-          "href": "/attributes/dimensions/smaller-table-depth/40-cm/",
-          "valueType": "enum",
-          "numericValue": 40,
-          "unit": "cm"
-        },
-        {
-          "groupKey": "dimensions",
-          "groupLabel": "Dimensions",
-          "key": "smaller-table-height",
-          "label": "Smaller table height",
+          "key": "height2",
+          "label": "Height 2",
           "valueKey": "33-cm",
           "valueLabel": "33 cm",
-          "href": "/attributes/dimensions/smaller-table-height/33-cm/",
+          "href": "/attributes/dimensions/height2/33-cm/",
           "valueType": "enum",
           "numericValue": 33,
-          "unit": "cm"
-        },
-        {
-          "groupKey": "dimensions",
-          "groupLabel": "Dimensions",
-          "key": "smaller-table-width",
-          "label": "Smaller table width",
-          "valueKey": "60-cm",
-          "valueLabel": "60 cm",
-          "href": "/attributes/dimensions/smaller-table-width/60-cm/",
-          "valueType": "enum",
-          "numericValue": 60,
           "unit": "cm"
         },
         {
@@ -395,6 +399,18 @@
           "href": "/attributes/dimensions/width/90-cm/",
           "valueType": "enum",
           "numericValue": 90,
+          "unit": "cm"
+        },
+        {
+          "groupKey": "dimensions",
+          "groupLabel": "Dimensions",
+          "key": "width2",
+          "label": "Width 2",
+          "valueKey": "60-cm",
+          "valueLabel": "60 cm",
+          "href": "/attributes/dimensions/width2/60-cm/",
+          "valueType": "enum",
+          "numericValue": 60,
           "unit": "cm"
         },
         {
@@ -420,6 +436,18 @@
           "valueType": "enum",
           "numericValue": 1,
           "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "31-kg",
+          "valueLabel": "31 kg",
+          "href": "/attributes/logistics/package-weight/31-kg/",
+          "valueType": "enum",
+          "numericValue": 31,
+          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -458,18 +486,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "31-kg",
-          "valueLabel": "31 kg",
-          "href": "/attributes/logistics/weight/31-kg/",
-          "valueType": "enum",
-          "numericValue": 31,
-          "unit": "kg"
-        },
-        {
           "groupKey": "warranty",
           "groupLabel": "Warranty",
           "key": "price-guarantee",
@@ -496,7 +512,7 @@
       ]
     },
     "sortData": {
-      "title": "Island coffee table, stackable Coffee Table, Beige",
+      "title": "Island Nesting Tables, Beige",
       "summary": "Beige travertin finish, includes two tables sized 90 x 60 x 40 cm and 60 x 40 x 33 cm.",
       "variantCount": 1,
       "categoryLabel": "Coffee Tables",

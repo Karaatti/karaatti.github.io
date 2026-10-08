@@ -48,6 +48,14 @@
     "variantCount": 2
   },
   {
+    "name": "dove",
+    "href": "/products/armchairs/dove/",
+    "type": "dir",
+    "title": "Dove",
+    "schemaCategory": "Armchairs",
+    "variantCount": 2
+  },
+  {
     "name": "haave",
     "href": "/products/corner-sofas/haave/",
     "type": "dir",
@@ -64,6 +72,14 @@
     "variantCount": 2
   },
   {
+    "name": "swan",
+    "href": "/products/armchairs/swan/",
+    "type": "dir",
+    "title": "Swan",
+    "schemaCategory": "Armchairs",
+    "variantCount": 2
+  },
+  {
     "name": "casa",
     "href": "/products/bed-frames/casa/",
     "type": "dir",
@@ -72,11 +88,11 @@
     "variantCount": 1
   },
   {
-    "name": "dove",
-    "href": "/products/armchairs/dove/",
+    "name": "livo",
+    "href": "/products/dining-chairs/livo/",
     "type": "dir",
-    "title": "Dove",
-    "schemaCategory": "Armchairs",
+    "title": "Livo",
+    "schemaCategory": "Dining Chairs",
     "variantCount": 1
   },
   {

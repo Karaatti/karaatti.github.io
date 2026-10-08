@@ -1,0 +1,79 @@
+{
+  "familyTitle": "Bacoli",
+  "familySummary": "Bacoli storage cabinets offer a natural oak look and a practical enclosed format for everyday home storage.",
+  "familyDescription": "The Bacoli storage cabinet line is designed for organised storage in a clean, natural oak style. Its enclosed form suits living rooms, dining areas, hallways, or other spaces where you want items kept out of sight while remaining close at hand. The family includes a four-door cabinet format that gives a substantial storage presence without adding unnecessary visual clutter. The cabinet measures 90 × 40 × 140 cm and is made from Particle board, MDF, Melamine, Plywood, Wood veneer. It combines a straightforward silhouette with a natural oak finish for an understated look that works easily with many interiors.",
+  "primaryImageUrl": "/products/storage-cabinets/bacoli/209396_1.avif",
+  "schemaCategory": "Storage Cabinets",
+  "variantCount": 1,
+  "productFamilyName": "Bacoli",
+  "productFamilyKey": "bacoli",
+  "productFamilyRelativeDir": "families/bacoli",
+  "filterData": {
+    "searchText": "Bacoli Bacoli storage cabinets offer a natural oak look and a practical enclosed format for everyday home storage. Storage Cabinets Home Details Bacoli Home Details Storage Cabinets Bacoli Beige MDF Melamine Particle board Plywood Wood veneer",
+    "collections": [
+      {
+        "key": "home-details",
+        "label": "Home Details",
+        "href": "/collections/storage-shelving"
+      }
+    ],
+    "categories": [
+      {
+        "key": "storage-cabinets",
+        "label": "Storage Cabinets",
+        "href": "/products/storage-cabinets/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "bacoli",
+        "label": "Bacoli",
+        "href": "/families/bacoli/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "beige",
+        "label": "Beige",
+        "href": "/colors/beige/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "mdf",
+        "label": "MDF",
+        "href": "/materials/mdf/"
+      },
+      {
+        "key": "melamine",
+        "label": "Melamine",
+        "href": "/materials/melamine/"
+      },
+      {
+        "key": "particle-board",
+        "label": "Particle board",
+        "href": "/materials/particle-board/"
+      },
+      {
+        "key": "plywood",
+        "label": "Plywood",
+        "href": "/materials/plywood/"
+      },
+      {
+        "key": "wood-veneer",
+        "label": "Wood veneer",
+        "href": "/materials/wood-veneer/"
+      }
+    ],
+    "specifications": [],
+    "attributes": []
+  },
+  "sortData": {
+    "title": "Bacoli",
+    "summary": "Bacoli storage cabinets offer a natural oak look and a practical enclosed format for everyday home storage.",
+    "variantCount": 1,
+    "categoryLabel": "Storage Cabinets",
+    "collectionLabel": "Home Details",
+    "productFamilyLabel": "Bacoli"
+  }
+}

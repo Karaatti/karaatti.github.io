@@ -4,10 +4,10 @@
     "title": "Breeze Swivel Chair",
     "href": "/products/swivel-chairs/breeze/",
     "type": "dir",
-    "summary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
-    "primaryImageUrl": "/products/swivel-chairs/breeze/198260_1.avif",
+    "summary": "Breeze swivel chairs offer a single-seat design in beige, brown or grey, giving you a choice of colours for your living room.",
+    "primaryImageUrl": "/products/swivel-chairs/breeze/198260_2.avif",
     "filterData": {
-      "searchText": "Breeze Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms. Swivel Chairs Living room Breeze Living room Swivel Chairs Breeze Brown Grey Foam Metal Polyester Steel Care Cleaning method Dry clean Dimensions Depth 85 cm cm Dimensions Height 108 cm cm Dimensions Ottoman depth 42 cm cm Dimensions Ottoman height 38 cm cm Dimensions Ottoman width 49 cm cm Dimensions Width 77 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Volume 0.44 m³ m³ Logistics Weight 20 kg kg Padding Foam density 28 kg/m³ kg/m³ Seating Seat count 1 seat seat Seating Seat height 47 cm cm Setup Assembly time 30 min min Upholstery Lightfastness 5 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Breeze Breeze swivel chairs offer a single-seat design in beige, brown or grey, giving you a choice of colours for your living room. Swivel Chairs Living room Breeze Living room Swivel Chairs Breeze Beige Brown Grey Foam Metal Polyester Steel Care Cleaning method Dry clean Dimensions Depth 85 cm cm Dimensions Height 108 cm cm Dimensions Ottoman depth 42 cm cm Dimensions Ottoman height 38 cm cm Dimensions Ottoman width 49 cm cm Dimensions Width 77 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Volume 0.44 m³ m³ Logistics Weight 20 kg kg Padding Foam density 28 kg/m³ kg/m³ Seating Seat count 1 seat seat Seating Seat height 47 cm cm Setup Assembly time 30 min min Upholstery Lightfastness 5 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -30,6 +30,11 @@
         }
       ],
       "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
         {
           "key": "brown",
           "label": "Brown",
@@ -309,8 +314,8 @@
     },
     "sortData": {
       "title": "Breeze",
-      "summary": "Swivel chair and ottoman set with high backrest and black legs, available in grey or brown fabric. Suitable for living or media rooms.",
-      "variantCount": 2,
+      "summary": "Breeze swivel chairs offer a single-seat design in beige, brown or grey, giving you a choice of colours for your living room.",
+      "variantCount": 3,
       "categoryLabel": "Swivel Chairs",
       "collectionLabel": "Living room",
       "productFamilyLabel": "Breeze"

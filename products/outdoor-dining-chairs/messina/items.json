@@ -2,27 +2,35 @@
   {
     "sku": "191080",
     "name": "191080",
-    "title": "Messina Outdoor Dining Chair, Black",
-    "variantSummary": "58 x 61 cm / Black",
+    "title": "Messina Dining Chair, Black",
+    "variantSummary": "58 × 61 cm / Black",
     "shortDescription": "Black, aluminium and plastic. Modern stackable dining chair with durable textline fabric, suitable for indoor and outdoor use.",
     "selectionAttributes": {
-      "dimensions": "58 x 61 cm",
+      "dimensions": "58 × 61 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Black",
-      "material": "Aluminium, Plastic"
+      "material": "Aluminium, Plastic",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining chair",
+      "colorLabel": "Black",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
-    "imageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+    "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_2.avif",
+    "imageUrl": "/products/outdoor-dining-chairs/messina/191080_2.avif",
     "imageUrls": [
-      "/products/outdoor-dining-chairs/messina/191080_1.avif",
       "/products/outdoor-dining-chairs/messina/191080_2.avif",
-      "/products/outdoor-dining-chairs/messina/191080_3.avif"
+      "/products/outdoor-dining-chairs/messina/191080_3.avif",
+      "/products/outdoor-dining-chairs/messina/191080_1.avif"
     ],
     "href": "/products/outdoor-dining-chairs/messina/191080",
     "type": "file",
     "filterData": {
-      "searchText": "Messina Outdoor Dining Chair, Black Black, aluminium and plastic. Modern stackable dining chair with durable textline fabric, suitable for indoor and outdoor use. Outdoor Dining Chairs Outdoor Messina Outdoor Outdoor Dining Chairs Messina Black Aluminium Plastic Dimensions Depth 61 cm cm Dimensions Height 91 cm cm Dimensions Width 58 cm cm Load Maximum load 150 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.32 m³ m³ Logistics Weight 3 kg kg Logistics Weight 4 kg kg Seating Seat depth 57 cm cm Seating Seat height 44 cm cm Seating Seat width 44 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Messina Dining Chair, Black Black, aluminium and plastic. Modern stackable dining chair with durable textline fabric, suitable for indoor and outdoor use. Outdoor Dining Chairs Outdoor Messina Outdoor Outdoor Dining Chairs Messina Black Aluminium Plastic Dimensions Depth 61 cm cm Dimensions Height 91 cm cm Dimensions Width 58 cm cm Load Maximum load 150 kg kg Logistics Package count 1 package package Logistics Package weight 4 kg kg Logistics Product count 1 product product Logistics Volume 0.32 m³ m³ Logistics Weight 3 kg kg Seating Seat depth 57 cm cm Seating Seat height 44 cm cm Seating Seat width 44 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -128,6 +136,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "4-kg",
+          "valueLabel": "4 kg",
+          "href": "/attributes/logistics/package-weight/4-kg/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -159,18 +179,6 @@
           "href": "/attributes/logistics/weight/3-kg/",
           "valueType": "enum",
           "numericValue": 3,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "4-kg",
-          "valueLabel": "4 kg",
-          "href": "/attributes/logistics/weight/4-kg/",
-          "valueType": "enum",
-          "numericValue": 4,
           "unit": "kg"
         },
         {
@@ -236,7 +244,7 @@
       ]
     },
     "sortData": {
-      "title": "Messina Outdoor Dining Chair, Black",
+      "title": "Messina Dining Chair, Black",
       "summary": "Black, aluminium and plastic. Modern stackable dining chair with durable textline fabric, suitable for indoor and outdoor use.",
       "variantCount": 1,
       "categoryLabel": "Outdoor Dining Chairs",
@@ -247,22 +255,30 @@
   {
     "sku": "206762",
     "name": "206762",
-    "title": "Messina Outdoor Dining Chair, Beige",
-    "variantSummary": "58 x 61 cm / Beige",
+    "title": "Messina Dining Chair, Beige",
+    "variantSummary": "58 × 61 cm / Beige",
     "shortDescription": "Beige, aluminium and plastic. Modern stackable dining chair with durable textline fabric, suitable for indoor and outdoor use.",
     "selectionAttributes": {
-      "dimensions": "58 x 61 cm",
+      "dimensions": "58 × 61 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Aluminium, Plastic"
+      "material": "Aluminium, Plastic",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining chair",
+      "colorLabel": "Beige",
+      "colorNote": "Khaki",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/outdoor-dining-chairs/messina/206762_1.avif",
     "imageUrl": "/products/outdoor-dining-chairs/messina/206762_1.avif",
     "imageUrls": [
       "/products/outdoor-dining-chairs/messina/206762_1.avif",
-      "/products/outdoor-dining-chairs/messina/206762_2.avif",
       "/products/outdoor-dining-chairs/messina/206762_3.avif",
+      "/products/outdoor-dining-chairs/messina/206762_2.avif",
       "/products/outdoor-dining-chairs/messina/206762_4.avif",
       "/products/outdoor-dining-chairs/messina/206762_5.avif",
       "/products/outdoor-dining-chairs/messina/206762_6.avif",
@@ -271,7 +287,7 @@
     "href": "/products/outdoor-dining-chairs/messina/206762",
     "type": "file",
     "filterData": {
-      "searchText": "Messina Outdoor Dining Chair, Beige Beige, aluminium and plastic. Modern stackable dining chair with durable textline fabric, suitable for indoor and outdoor use. Outdoor Dining Chairs Outdoor Messina Outdoor Outdoor Dining Chairs Messina Beige Aluminium Plastic Dimensions Depth 61 cm cm Dimensions Height 91 cm cm Dimensions Width 58 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.3 m³ m³ Logistics Weight 3 kg kg Logistics Weight 4 kg kg Seating Seat depth 48 cm cm Seating Seat height 44 cm cm Seating Seat width 44 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Messina Dining Chair, Beige Beige, aluminium and plastic. Modern stackable dining chair with durable textline fabric, suitable for indoor and outdoor use. Outdoor Dining Chairs Outdoor Messina Outdoor Outdoor Dining Chairs Messina Beige Aluminium Plastic Dimensions Depth 61 cm cm Dimensions Height 91 cm cm Dimensions Width 58 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Package weight 4 kg kg Logistics Product count 1 product product Logistics Volume 0.3 m³ m³ Logistics Weight 3 kg kg Seating Seat depth 48 cm cm Seating Seat height 44 cm cm Seating Seat width 44 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -377,6 +393,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "4-kg",
+          "valueLabel": "4 kg",
+          "href": "/attributes/logistics/package-weight/4-kg/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -408,18 +436,6 @@
           "href": "/attributes/logistics/weight/3-kg/",
           "valueType": "enum",
           "numericValue": 3,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "4-kg",
-          "valueLabel": "4 kg",
-          "href": "/attributes/logistics/weight/4-kg/",
-          "valueType": "enum",
-          "numericValue": 4,
           "unit": "kg"
         },
         {
@@ -485,7 +501,7 @@
       ]
     },
     "sortData": {
-      "title": "Messina Outdoor Dining Chair, Beige",
+      "title": "Messina Dining Chair, Beige",
       "summary": "Beige, aluminium and plastic. Modern stackable dining chair with durable textline fabric, suitable for indoor and outdoor use.",
       "variantCount": 1,
       "categoryLabel": "Outdoor Dining Chairs",

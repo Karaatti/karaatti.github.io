@@ -22,6 +22,17 @@
     ]
   },
   {
+    "name": "garda",
+    "href": "/products/rugs/garda/",
+    "type": "dir",
+    "title": "Garda",
+    "schemaCategory": "Rugs",
+    "variantCount": 2,
+    "displayColors": [
+      "Red"
+    ]
+  },
+  {
     "name": "saaga",
     "href": "/products/rugs/saaga/",
     "type": "dir",
@@ -39,17 +50,6 @@
     "type": "dir",
     "title": "Bow",
     "schemaCategory": "Dining Chairs",
-    "variantCount": 1,
-    "displayColors": [
-      "Red"
-    ]
-  },
-  {
-    "name": "garda",
-    "href": "/products/rugs/garda/",
-    "type": "dir",
-    "title": "Garda",
-    "schemaCategory": "Rugs",
     "variantCount": 1,
     "displayColors": [
       "Red"

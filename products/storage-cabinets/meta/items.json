@@ -1,0 +1,180 @@
+[
+  {
+    "sku": "209411",
+    "name": "209411",
+    "title": "Meta Cabinet, Brown",
+    "variantSummary": "118 cm / Brown",
+    "shortDescription": "A Meta storage cabinet in Brown, measuring 100 × 40 × 118 cm and made from MDF, Wood veneer.",
+    "selectionAttributes": {
+      "dimensions": "118 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Brown",
+      "material": "MDF, Wood veneer",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Cabinet",
+      "colorLabel": "Brown",
+      "colorNote": "Brown oak",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
+    },
+    "primaryImageUrl": "/products/storage-cabinets/meta/209411_1.avif",
+    "imageUrl": "/products/storage-cabinets/meta/209411_1.avif",
+    "imageUrls": [
+      "/products/storage-cabinets/meta/209411_1.avif",
+      "/products/storage-cabinets/meta/209411_2.avif",
+      "/products/storage-cabinets/meta/209411_6.avif",
+      "/products/storage-cabinets/meta/209411_3.avif",
+      "/products/storage-cabinets/meta/209411_4.avif",
+      "/products/storage-cabinets/meta/209411_5.avif",
+      "/products/storage-cabinets/meta/209411_7.avif",
+      "/products/storage-cabinets/meta/209411_8.avif"
+    ],
+    "href": "/products/storage-cabinets/meta/209411",
+    "type": "file",
+    "filterData": {
+      "searchText": "Meta Cabinet, Brown A Meta storage cabinet in Brown, measuring 100 × 40 × 118 cm and made from MDF, Wood veneer. Storage Cabinets Home Details Meta Home Details Storage Cabinets Meta Brown MDF Wood veneer",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "storage-cabinets",
+          "label": "Storage Cabinets",
+          "href": "/products/storage-cabinets/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "meta",
+          "label": "Meta",
+          "href": "/families/meta/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "mdf",
+          "label": "MDF",
+          "href": "/materials/mdf/"
+        },
+        {
+          "key": "wood-veneer",
+          "label": "Wood veneer",
+          "href": "/materials/wood-veneer/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Meta Cabinet, Brown",
+      "summary": "A Meta storage cabinet in Brown, measuring 100 × 40 × 118 cm and made from MDF, Wood veneer.",
+      "variantCount": 1,
+      "categoryLabel": "Storage Cabinets",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Meta"
+    }
+  },
+  {
+    "sku": "209412",
+    "name": "209412",
+    "title": "Meta Cabinet, Beige",
+    "variantSummary": "118 cm / Beige",
+    "shortDescription": "A Meta storage cabinet measuring 100 × 40 × 118 cm and made from MDF, Wood veneer.",
+    "selectionAttributes": {
+      "dimensions": "118 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Beige",
+      "material": "MDF, Wood veneer",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Cabinet",
+      "colorLabel": "Beige",
+      "colorNote": "Natural oak",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
+    },
+    "primaryImageUrl": "/products/storage-cabinets/meta/209412_1.avif",
+    "imageUrl": "/products/storage-cabinets/meta/209412_1.avif",
+    "imageUrls": [
+      "/products/storage-cabinets/meta/209412_1.avif",
+      "/products/storage-cabinets/meta/209412_2.avif",
+      "/products/storage-cabinets/meta/209412_3.avif",
+      "/products/storage-cabinets/meta/209412_4.avif",
+      "/products/storage-cabinets/meta/209412_5.avif",
+      "/products/storage-cabinets/meta/209412_6.avif",
+      "/products/storage-cabinets/meta/209412_7.avif",
+      "/products/storage-cabinets/meta/209412_6.avif"
+    ],
+    "href": "/products/storage-cabinets/meta/209412",
+    "type": "file",
+    "filterData": {
+      "searchText": "Meta Cabinet, Beige A Meta storage cabinet measuring 100 × 40 × 118 cm and made from MDF, Wood veneer. Storage Cabinets Home Details Meta Home Details Storage Cabinets Meta Beige MDF Wood veneer",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "storage-cabinets",
+          "label": "Storage Cabinets",
+          "href": "/products/storage-cabinets/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "meta",
+          "label": "Meta",
+          "href": "/families/meta/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "mdf",
+          "label": "MDF",
+          "href": "/materials/mdf/"
+        },
+        {
+          "key": "wood-veneer",
+          "label": "Wood veneer",
+          "href": "/materials/wood-veneer/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Meta Cabinet, Beige",
+      "summary": "A Meta storage cabinet measuring 100 × 40 × 118 cm and made from MDF, Wood veneer.",
+      "variantCount": 1,
+      "categoryLabel": "Storage Cabinets",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Meta"
+    }
+  }
+]

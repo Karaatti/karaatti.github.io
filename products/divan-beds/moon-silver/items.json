@@ -2,27 +2,35 @@
   {
     "sku": "197657",
     "name": "197657",
-    "title": "Moon Silver divan bed, 80 x 200 x 27 cm",
-    "variantSummary": "80 x 200 x 27 cm / Pocket spring / Grey",
+    "title": "Moon Silver Divan Bed, 80 × 200 cm",
+    "variantSummary": "80 × 200 cm / Pocket spring / Grey",
     "shortDescription": "80 x 200 cm. 5-zone pocket spring divan bed with light grey Primo 84 upholstery and smoked ash cone legs.",
     "selectionAttributes": {
-      "dimensions": "80 x 200 x 27 cm",
+      "dimensions": "80 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Grey",
-      "material": "Fabric, Wood"
+      "material": "Fabric, Wood",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Divan bed",
+      "colorLabel": "Grey",
+      "colorNote": "Light grey",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_1.avif",
-    "imageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_1.avif",
+    "primaryImageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_2.avif",
+    "imageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_2.avif",
     "imageUrls": [
-      "/products/divan-beds/moon_bronze_silver_divan_bed_grey_1.avif",
       "/products/divan-beds/moon_bronze_silver_divan_bed_grey_2.avif",
+      "/products/divan-beds/moon_bronze_silver_divan_bed_grey_1.avif",
       "/products/divan-beds/moon-silver/197657_3.avif"
     ],
     "href": "/products/divan-beds/moon-silver/197657",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver divan bed, 80 x 200 x 27 cm 80 x 200 cm. 5-zone pocket spring divan bed with light grey Primo 84 upholstery and smoked ash cone legs. Divan Beds Bedroom Moon Silver Bedroom Divan Beds Moon Silver Grey Fabric Metal Wood Comfort Firmness Medium firm Dimensions Depth 200 cm cm Dimensions Height 50 cm cm Dimensions Width 80 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.43 m³ m³ Logistics Weight 23 kg kg Logistics Weight 25 kg kg Setup Assembly time 15 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Silver Divan Bed, 80 × 200 cm 80 x 200 cm. 5-zone pocket spring divan bed with light grey Primo 84 upholstery and smoked ash cone legs. Divan Beds Bedroom Moon Silver Bedroom Divan Beds Moon Silver Grey Fabric Metal Wood Comfort Firmness Medium firm Dimensions Depth 200 cm cm Dimensions Height 50 cm cm Dimensions Width 80 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 25 kg kg Logistics Product count 1 product product Logistics Volume 0.43 m³ m³ Logistics Weight 23 kg kg Setup Assembly time 15 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -157,6 +165,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -188,18 +208,6 @@
           "href": "/attributes/logistics/weight/23-kg/",
           "valueType": "enum",
           "numericValue": 23,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
           "unit": "kg"
         },
         {
@@ -277,7 +285,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver divan bed, 80 x 200 x 27 cm",
+      "title": "Moon Silver Divan Bed, 80 × 200 cm",
       "summary": "80 x 200 cm. 5-zone pocket spring divan bed with light grey Primo 84 upholstery and smoked ash cone legs.",
       "variantCount": 1,
       "categoryLabel": "Divan Beds",
@@ -288,26 +296,34 @@
   {
     "sku": "197658",
     "name": "197658",
-    "title": "Moon Silver divan bed, 90 x 200 x 27 cm",
-    "variantSummary": "90 x 200 x 27 cm / Pocket spring / Grey",
+    "title": "Moon Silver Divan Bed, 90 × 200 cm",
+    "variantSummary": "90 × 200 cm / Pocket spring / Grey",
     "shortDescription": "90 x 200 cm. 5-zone pocket spring divan bed with light grey Primo 84 upholstery and smoked ash cone legs.",
     "selectionAttributes": {
-      "dimensions": "90 x 200 x 27 cm",
+      "dimensions": "90 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Grey",
-      "material": "Fabric, Wood"
+      "material": "Fabric, Wood",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Divan bed",
+      "colorLabel": "Grey",
+      "colorNote": "Light grey",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/divan-beds/moon-silver/197658_1.avif",
-    "imageUrl": "/products/divan-beds/moon-silver/197658_1.avif",
+    "primaryImageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_2.avif",
+    "imageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_2.avif",
     "imageUrls": [
-      "/products/divan-beds/moon-silver/197658_1.avif",
-      "/products/divan-beds/moon-silver/197658_2.avif"
+      "/products/divan-beds/moon_bronze_silver_divan_bed_grey_2.avif",
+      "/products/divan-beds/moon_bronze_silver_divan_bed_grey_4.avif"
     ],
     "href": "/products/divan-beds/moon-silver/197658",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver divan bed, 90 x 200 x 27 cm 90 x 200 cm. 5-zone pocket spring divan bed with light grey Primo 84 upholstery and smoked ash cone legs. Divan Beds Bedroom Moon Silver Bedroom Divan Beds Moon Silver Grey Fabric Metal Wood Comfort Firmness Medium firm Dimensions Depth 200 cm cm Dimensions Height 50 cm cm Dimensions Width 90 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.46 m³ m³ Logistics Weight 25 kg kg Setup Assembly time 15 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Silver Divan Bed, 90 × 200 cm 90 x 200 cm. 5-zone pocket spring divan bed with light grey Primo 84 upholstery and smoked ash cone legs. Divan Beds Bedroom Moon Silver Bedroom Divan Beds Moon Silver Grey Fabric Metal Wood Comfort Firmness Medium firm Dimensions Depth 200 cm cm Dimensions Height 50 cm cm Dimensions Width 90 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.46 m³ m³ Logistics Weight 25 kg kg Setup Assembly time 15 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -550,7 +566,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver divan bed, 90 x 200 x 27 cm",
+      "title": "Moon Silver Divan Bed, 90 × 200 cm",
       "summary": "90 x 200 cm. 5-zone pocket spring divan bed with light grey Primo 84 upholstery and smoked ash cone legs.",
       "variantCount": 1,
       "categoryLabel": "Divan Beds",
@@ -561,32 +577,41 @@
   {
     "sku": "197659",
     "name": "197659",
-    "title": "Moon Silver divan bed, 120 x 200 x 27 cm",
-    "variantSummary": "120 x 200 x 27 cm / Pocket spring / Grey",
+    "title": "Moon Silver Divan Bed, 120 × 200 cm",
+    "variantSummary": "120 × 200 cm / Pocket spring / Grey",
     "shortDescription": "120 x 200 cm. 5-zone pocket spring divan bed with light grey Primo 84 upholstery and smoked ash cone legs.",
     "selectionAttributes": {
-      "dimensions": "120 x 200 x 27 cm",
+      "dimensions": "120 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Grey",
-      "material": "Fabric, Wood"
+      "material": "Fabric, Wood",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Divan bed",
+      "colorLabel": "Grey",
+      "colorNote": "Light grey",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/divan-beds/moon-silver/moon_silver_divan_bed_grey_1.avif",
-    "imageUrl": "/products/divan-beds/moon-silver/moon_silver_divan_bed_grey_1.avif",
+    "primaryImageUrl": "/products/divan-beds/moon-silver/197660_2.avif",
+    "imageUrl": "/products/divan-beds/moon-silver/197660_2.avif",
     "imageUrls": [
+      "/products/divan-beds/moon-silver/197660_2.avif",
+      "/products/divan-beds/moon-silver/197659_3.avif",
+      "/products/divan-beds/moon-silver/197659_6.avif",
       "/products/divan-beds/moon-silver/moon_silver_divan_bed_grey_1.avif",
       "/products/divan-beds/moon-silver/197659_2.avif",
-      "/products/divan-beds/moon-silver/197659_3.avif",
       "/products/divan-beds/moon-silver/197659_4.avif",
       "/products/divan-beds/moon-silver/197659_5.avif",
-      "/products/divan-beds/moon-silver/197659_6.avif",
       "/products/divan-beds/moon-silver/197659_7.avif",
       "/products/divan-beds/moon-silver/197659_8.avif"
     ],
     "href": "/products/divan-beds/moon-silver/197659",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver divan bed, 120 x 200 x 27 cm 120 x 200 cm. 5-zone pocket spring divan bed with light grey Primo 84 upholstery and smoked ash cone legs. Divan Beds Bedroom Moon Silver Bedroom Divan Beds Moon Silver Grey Fabric Metal Wood Comfort Firmness Medium firm Dimensions Depth 200 cm cm Dimensions Height 50 cm cm Dimensions Width 120 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.69 m³ m³ Logistics Weight 30 kg kg Logistics Weight 32 kg kg Setup Assembly time 15 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Silver Divan Bed, 120 × 200 cm 120 x 200 cm. 5-zone pocket spring divan bed with light grey Primo 84 upholstery and smoked ash cone legs. Divan Beds Bedroom Moon Silver Bedroom Divan Beds Moon Silver Grey Fabric Metal Wood Comfort Firmness Medium firm Dimensions Depth 200 cm cm Dimensions Height 50 cm cm Dimensions Width 120 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 32 kg kg Logistics Product count 1 product product Logistics Volume 0.69 m³ m³ Logistics Weight 30 kg kg Setup Assembly time 15 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -721,6 +746,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "32-kg",
+          "valueLabel": "32 kg",
+          "href": "/attributes/logistics/package-weight/32-kg/",
+          "valueType": "enum",
+          "numericValue": 32,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -752,18 +789,6 @@
           "href": "/attributes/logistics/weight/30-kg/",
           "valueType": "enum",
           "numericValue": 30,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "32-kg",
-          "valueLabel": "32 kg",
-          "href": "/attributes/logistics/weight/32-kg/",
-          "valueType": "enum",
-          "numericValue": 32,
           "unit": "kg"
         },
         {
@@ -841,7 +866,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver divan bed, 120 x 200 x 27 cm",
+      "title": "Moon Silver Divan Bed, 120 × 200 cm",
       "summary": "120 x 200 cm. 5-zone pocket spring divan bed with light grey Primo 84 upholstery and smoked ash cone legs.",
       "variantCount": 1,
       "categoryLabel": "Divan Beds",
@@ -852,26 +877,34 @@
   {
     "sku": "197660",
     "name": "197660",
-    "title": "Moon Silver divan bed, 140 x 200 x 27 cm",
-    "variantSummary": "140 x 200 x 27 cm / Pocket spring / Grey",
+    "title": "Moon Silver Divan Bed, 140 × 200 cm",
+    "variantSummary": "140 × 200 cm / Pocket spring / Grey",
     "shortDescription": "140 x 200 cm. 5-zone pocket spring divan bed with light grey Primo 84 upholstery and smoked ash cone legs.",
     "selectionAttributes": {
-      "dimensions": "140 x 200 x 27 cm",
+      "dimensions": "140 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Grey",
-      "material": "Fabric, Wood"
+      "material": "Fabric, Wood",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Divan bed",
+      "colorLabel": "Grey",
+      "colorNote": "Light grey",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/divan-beds/moon-silver/moon_silver_divan_bed_grey_1.avif",
-    "imageUrl": "/products/divan-beds/moon-silver/moon_silver_divan_bed_grey_1.avif",
+    "primaryImageUrl": "/products/divan-beds/moon-silver/197660_2.avif",
+    "imageUrl": "/products/divan-beds/moon-silver/197660_2.avif",
     "imageUrls": [
-      "/products/divan-beds/moon-silver/moon_silver_divan_bed_grey_1.avif",
-      "/products/divan-beds/moon-silver/197660_2.avif"
+      "/products/divan-beds/moon-silver/197660_2.avif",
+      "/products/divan-beds/moon-silver/moon_silver_divan_bed_grey_1.avif"
     ],
     "href": "/products/divan-beds/moon-silver/197660",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver divan bed, 140 x 200 x 27 cm 140 x 200 cm. 5-zone pocket spring divan bed with light grey Primo 84 upholstery and smoked ash cone legs. Divan Beds Bedroom Moon Silver Bedroom Divan Beds Moon Silver Grey Fabric Metal Wood Comfort Firmness Medium firm Dimensions Depth 200 cm cm Dimensions Height 50 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.97 m³ m³ Logistics Weight 35 kg kg Logistics Weight 37 kg kg Setup Assembly time 15 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Silver Divan Bed, 140 × 200 cm 140 x 200 cm. 5-zone pocket spring divan bed with light grey Primo 84 upholstery and smoked ash cone legs. Divan Beds Bedroom Moon Silver Bedroom Divan Beds Moon Silver Grey Fabric Metal Wood Comfort Firmness Medium firm Dimensions Depth 200 cm cm Dimensions Height 50 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 37 kg kg Logistics Product count 1 product product Logistics Volume 0.97 m³ m³ Logistics Weight 35 kg kg Setup Assembly time 15 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1006,6 +1039,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "37-kg",
+          "valueLabel": "37 kg",
+          "href": "/attributes/logistics/package-weight/37-kg/",
+          "valueType": "enum",
+          "numericValue": 37,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1037,18 +1082,6 @@
           "href": "/attributes/logistics/weight/35-kg/",
           "valueType": "enum",
           "numericValue": 35,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "37-kg",
-          "valueLabel": "37 kg",
-          "href": "/attributes/logistics/weight/37-kg/",
-          "valueType": "enum",
-          "numericValue": 37,
           "unit": "kg"
         },
         {
@@ -1126,7 +1159,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver divan bed, 140 x 200 x 27 cm",
+      "title": "Moon Silver Divan Bed, 140 × 200 cm",
       "summary": "140 x 200 cm. 5-zone pocket spring divan bed with light grey Primo 84 upholstery and smoked ash cone legs.",
       "variantCount": 1,
       "categoryLabel": "Divan Beds",

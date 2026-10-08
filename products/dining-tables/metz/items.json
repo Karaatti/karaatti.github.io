@@ -1,33 +1,134 @@
 [
   {
-    "sku": "208710",
-    "name": "208710",
-    "title": "Metz Dining Table, Brown, Beige, 120 x 120 cm",
-    "variantSummary": "120 x 120 cm / Brown, Beige",
-    "shortDescription": "Round table 120 cm in natural oak veneer with pine and MDF base.",
+    "sku": "188365",
+    "name": "188365",
+    "title": "Metz Dining Table, Brown, 120/160/200 × 120 cm",
+    "variantSummary": "120/160/200 × 120 cm / Brown",
+    "shortDescription": "Metz dining table in brown with 120 × 120 × 75 cm dimensions. It is made from Oak, Plywood and Wood veneer.",
     "selectionAttributes": {
-      "dimensions": "120 x 120 cm",
+      "dimensions": "120/160/200 × 120 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Brown, Beige",
-      "material": "Pine, MDF, Oak"
+      "color": "Brown",
+      "material": "Oak, Plywood, Wood veneer",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining table",
+      "colorLabel": "Brown",
+      "colorNote": "Smoked oak",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/dining-tables/metz/208710_1.avif",
-    "imageUrl": "/products/dining-tables/metz/208710_1.avif",
+    "primaryImageUrl": "/products/dining-tables/metz/188365_3.avif",
+    "imageUrl": "/products/dining-tables/metz/188365_3.avif",
     "imageUrls": [
-      "/products/dining-tables/metz/208710_1.avif",
+      "/products/dining-tables/metz/188365_3.avif",
+      "/products/dining-tables/metz/188365_1.avif",
+      "/products/dining-tables/metz/188365_4.avif",
+      "/products/dining-tables/metz/188365_5.avif",
+      "/products/dining-tables/metz/188365_6.avif",
+      "/products/dining-tables/metz/188365_7.avif",
+      "/products/dining-tables/metz/188365_8.avif"
+    ],
+    "href": "/products/dining-tables/metz/188365",
+    "type": "file",
+    "filterData": {
+      "searchText": "Metz Dining Table, Brown, 120/160/200 × 120 cm Metz dining table in brown with 120 × 120 × 75 cm dimensions. It is made from Oak, Plywood and Wood veneer. Dining Tables Dining room Metz Dining room Dining Tables Metz Brown Oak Plywood Wood veneer",
+      "collections": [
+        {
+          "key": "dining-room",
+          "label": "Dining room",
+          "href": "/collections/dining-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "dining-tables",
+          "label": "Dining Tables",
+          "href": "/products/dining-tables/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "metz",
+          "label": "Metz",
+          "href": "/families/metz/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "oak",
+          "label": "Oak",
+          "href": "/materials/oak/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "wood-veneer",
+          "label": "Wood veneer",
+          "href": "/materials/wood-veneer/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Metz Dining Table, Brown, 120/160/200 × 120 cm",
+      "summary": "Metz dining table in brown with 120 × 120 × 75 cm dimensions. It is made from Oak, Plywood and Wood veneer.",
+      "variantCount": 1,
+      "categoryLabel": "Dining Tables",
+      "collectionLabel": "Dining room",
+      "productFamilyLabel": "Metz"
+    }
+  },
+  {
+    "sku": "208710",
+    "name": "208710",
+    "title": "Metz Dining Table, Beige, Ø 120 cm",
+    "variantSummary": "Ø 120 cm / Beige",
+    "shortDescription": "Round table 120 cm in natural oak veneer with pine and MDF base.",
+    "selectionAttributes": {
+      "dimensions": "Ø 120 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Beige",
+      "material": "Pine, MDF, Oak",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining table",
+      "colorLabel": "Beige",
+      "colorNote": "Natural oak",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
+    },
+    "primaryImageUrl": "/products/dining-tables/metz/208710_2.avif",
+    "imageUrl": "/products/dining-tables/metz/208710_2.avif",
+    "imageUrls": [
       "/products/dining-tables/metz/208710_2.avif",
+      "/products/dining-tables/metz/208710_7.avif",
+      "/products/dining-tables/metz/208710_8.avif",
+      "/products/dining-tables/metz/208710_1.avif",
       "/products/dining-tables/metz/208710_3.avif",
       "/products/dining-tables/metz/208710_4.avif",
       "/products/dining-tables/metz/208710_5.avif",
-      "/products/dining-tables/metz/208710_6.avif",
-      "/products/dining-tables/metz/208710_7.avif",
-      "/products/dining-tables/metz/208710_8.avif"
+      "/products/dining-tables/metz/208710_6.avif"
     ],
     "href": "/products/dining-tables/metz/208710",
     "type": "file",
     "filterData": {
-      "searchText": "Metz Dining Table, Brown, Beige, 120 x 120 cm Round table 120 cm in natural oak veneer with pine and MDF base. Dining Tables Dining room Metz Dining room Dining Tables Metz Beige Brown MDF Oak Pine Dimensions Depth 120 cm cm Dimensions Diameter 120 cm cm Dimensions Height 75 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 20 kg kg Logistics Weight 33 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Metz Dining Table, Beige, Ø 120 cm Round table 120 cm in natural oak veneer with pine and MDF base. Dining Tables Dining room Metz Dining room Dining Tables Metz Beige MDF Oak Pine Dimensions Depth 120 cm cm Dimensions Diameter 120 cm cm Dimensions Height 75 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Package weight 20 kg kg Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 33 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "dining-room",
@@ -54,11 +155,6 @@
           "key": "beige",
           "label": "Beige",
           "href": "/colors/beige/"
-        },
-        {
-          "key": "brown",
-          "label": "Brown",
-          "href": "/colors/brown/"
         }
       ],
       "materials": [
@@ -143,6 +239,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -163,18 +271,6 @@
           "valueType": "enum",
           "numericValue": 0.37,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "20-kg",
-          "valueLabel": "20 kg",
-          "href": "/attributes/logistics/weight/20-kg/",
-          "valueType": "enum",
-          "numericValue": 20,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -227,7 +323,7 @@
       ]
     },
     "sortData": {
-      "title": "Metz Dining Table, Brown, Beige, 120 x 120 cm",
+      "title": "Metz Dining Table, Beige, Ø 120 cm",
       "summary": "Round table 120 cm in natural oak veneer with pine and MDF base.",
       "variantCount": 1,
       "categoryLabel": "Dining Tables",
@@ -238,32 +334,40 @@
   {
     "sku": "208711",
     "name": "208711",
-    "title": "Metz Dining Table, Brown, 120 x 120 cm",
-    "variantSummary": "120 x 120 cm / Brown",
+    "title": "Metz Dining Table, Brown, Ø 120 cm",
+    "variantSummary": "Ø 120 cm / Brown",
     "shortDescription": "Round table 120 cm in smoked oak veneer with pine and MDF base.",
     "selectionAttributes": {
-      "dimensions": "120 x 120 cm",
+      "dimensions": "Ø 120 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Brown",
-      "material": "Pine, MDF, Oak"
+      "material": "Pine, MDF, Oak",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining table",
+      "colorLabel": "Brown",
+      "colorNote": "Smoked oak",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/dining-tables/metz/208711_1.avif",
-    "imageUrl": "/products/dining-tables/metz/208711_1.avif",
+    "primaryImageUrl": "/products/dining-tables/metz/208711_2.avif",
+    "imageUrl": "/products/dining-tables/metz/208711_2.avif",
     "imageUrls": [
-      "/products/dining-tables/metz/208711_1.avif",
       "/products/dining-tables/metz/208711_2.avif",
-      "/products/dining-tables/metz/208711_3.avif",
       "/products/dining-tables/metz/208711_4.avif",
-      "/products/dining-tables/metz/208711_5.avif",
       "/products/dining-tables/metz/208711_6.avif",
+      "/products/dining-tables/metz/208711_1.avif",
+      "/products/dining-tables/metz/208711_3.avif",
+      "/products/dining-tables/metz/208711_5.avif",
       "/products/dining-tables/metz/208711_7.avif",
       "/products/dining-tables/metz/208711_8.avif"
     ],
     "href": "/products/dining-tables/metz/208711",
     "type": "file",
     "filterData": {
-      "searchText": "Metz Dining Table, Brown, 120 x 120 cm Round table 120 cm in smoked oak veneer with pine and MDF base. Dining Tables Dining room Metz Dining room Dining Tables Metz Brown MDF Oak Pine Dimensions Depth 120 cm cm Dimensions Diameter 120 cm cm Dimensions Height 75 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 20 kg kg Logistics Weight 33 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Metz Dining Table, Brown, Ø 120 cm Round table 120 cm in smoked oak veneer with pine and MDF base. Dining Tables Dining room Metz Dining room Dining Tables Metz Brown MDF Oak Pine Dimensions Depth 120 cm cm Dimensions Diameter 120 cm cm Dimensions Height 75 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Package weight 20 kg kg Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 33 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "dining-room",
@@ -374,6 +478,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -394,18 +510,6 @@
           "valueType": "enum",
           "numericValue": 0.37,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "20-kg",
-          "valueLabel": "20 kg",
-          "href": "/attributes/logistics/weight/20-kg/",
-          "valueType": "enum",
-          "numericValue": 20,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -458,7 +562,7 @@
       ]
     },
     "sortData": {
-      "title": "Metz Dining Table, Brown, 120 x 120 cm",
+      "title": "Metz Dining Table, Brown, Ø 120 cm",
       "summary": "Round table 120 cm in smoked oak veneer with pine and MDF base.",
       "variantCount": 1,
       "categoryLabel": "Dining Tables",
@@ -469,31 +573,39 @@
   {
     "sku": "208712",
     "name": "208712",
-    "title": "Metz Dining Table, Beige, 120/160/200 x 120 cm",
-    "variantSummary": "120/160/200 x 120 cm / Beige",
+    "title": "Metz Dining Table, Beige, 120/160/200 × 120 cm",
+    "variantSummary": "120/160/200 × 120 cm / Beige",
     "shortDescription": "Extendable table 120/160/200 x 120 cm in natural Beige veneer with plywood base.",
     "selectionAttributes": {
-      "dimensions": "120/160/200 x 120 cm",
+      "dimensions": "120/160/200 × 120 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Plywood, Oak"
+      "material": "Plywood, Oak",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining table",
+      "colorLabel": "Beige",
+      "colorNote": "Natural oak",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/dining-tables/metz/208712_1.avif",
-    "imageUrl": "/products/dining-tables/metz/208712_1.avif",
+    "primaryImageUrl": "/products/dining-tables/metz/208712_2.avif",
+    "imageUrl": "/products/dining-tables/metz/208712_2.avif",
     "imageUrls": [
-      "/products/dining-tables/metz/208712_1.avif",
       "/products/dining-tables/metz/208712_2.avif",
-      "/products/dining-tables/metz/208712_3.avif",
+      "/products/dining-tables/metz/208712_7.avif",
       "/products/dining-tables/metz/208712_4.avif",
       "/products/dining-tables/metz/208712_5.avif",
       "/products/dining-tables/metz/208712_6.avif",
-      "/products/dining-tables/metz/208712_7.avif"
+      "/products/dining-tables/metz/208712_1.avif",
+      "/products/dining-tables/metz/208712_3.avif"
     ],
     "href": "/products/dining-tables/metz/208712",
     "type": "file",
     "filterData": {
-      "searchText": "Metz Dining Table, Beige, 120/160/200 x 120 cm Extendable table 120/160/200 x 120 cm in natural Beige veneer with plywood base. Dining Tables Dining room Metz Dining room Dining Tables Metz Beige Oak Plywood Dimensions Depth 120 cm cm Dimensions Extended width 160 cm cm Dimensions Height 75 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 21.5 kg kg Logistics Weight 55 kg kg Setup Assembly time 30 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Metz Dining Table, Beige, 120/160/200 × 120 cm Extendable table 120/160/200 x 120 cm in natural Beige veneer with plywood base. Dining Tables Dining room Metz Dining room Dining Tables Metz Beige Oak Plywood Dimensions Depth 120 cm cm Dimensions Extended width 160 cm cm Dimensions Height 75 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Package weight 21.5 kg kg Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 55 kg kg Setup Assembly time 30 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "dining-room",
@@ -599,6 +711,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "21-5-kg",
+          "valueLabel": "21.5 kg",
+          "href": "/attributes/logistics/package-weight/21-5-kg/",
+          "valueType": "enum",
+          "numericValue": 21.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -619,18 +743,6 @@
           "valueType": "enum",
           "numericValue": 0.37,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "21-5-kg",
-          "valueLabel": "21.5 kg",
-          "href": "/attributes/logistics/weight/21-5-kg/",
-          "valueType": "enum",
-          "numericValue": 21.5,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -683,7 +795,7 @@
       ]
     },
     "sortData": {
-      "title": "Metz Dining Table, Beige, 120/160/200 x 120 cm",
+      "title": "Metz Dining Table, Beige, 120/160/200 × 120 cm",
       "summary": "Extendable table 120/160/200 x 120 cm in natural Beige veneer with plywood base.",
       "variantCount": 1,
       "categoryLabel": "Dining Tables",
@@ -694,36 +806,44 @@
   {
     "sku": "208714",
     "name": "208714",
-    "title": "Metz Dining Table, White, 120 x 120 cm",
-    "variantSummary": "120 x 120 cm / White",
+    "title": "Metz Dining Table, White, Ø 120 cm",
+    "variantSummary": "Ø 120 cm / White",
     "shortDescription": "Round table 120 cm in white lacquered oak veneer with pine and MDF base.",
     "selectionAttributes": {
-      "dimensions": "120 x 120 cm",
+      "dimensions": "Ø 120 cm",
       "handedness": "",
       "comfortType": "",
       "color": "White",
-      "material": "Pine, MDF, Oak"
+      "material": "Pine, MDF, Oak",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining table",
+      "colorLabel": "White",
+      "colorNote": "White-washed oak",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/dining-tables/metz/208714_1.avif",
-    "imageUrl": "/products/dining-tables/metz/208714_1.avif",
+    "primaryImageUrl": "/products/dining-tables/metz/208714_2.avif",
+    "imageUrl": "/products/dining-tables/metz/208714_2.avif",
     "imageUrls": [
-      "/products/dining-tables/metz/208714_1.avif",
       "/products/dining-tables/metz/208714_2.avif",
-      "/products/dining-tables/metz/208714_3.avif",
-      "/products/dining-tables/metz/208714_4.avif",
-      "/products/dining-tables/metz/208714_5.avif",
       "/products/dining-tables/metz/208714_6.avif",
-      "/products/dining-tables/metz/208714_7.avif",
-      "/products/dining-tables/metz/208714_8.avif",
       "/products/dining-tables/metz/208714_9.avif",
       "/products/dining-tables/metz/208714_10.avif",
       "/products/dining-tables/metz/208714_11.avif",
-      "/products/dining-tables/metz/208714_12.avif"
+      "/products/dining-tables/metz/208714_12.avif",
+      "/products/dining-tables/metz/208714_1.avif",
+      "/products/dining-tables/metz/208714_3.avif",
+      "/products/dining-tables/metz/208714_4.avif",
+      "/products/dining-tables/metz/208714_5.avif",
+      "/products/dining-tables/metz/208714_7.avif",
+      "/products/dining-tables/metz/208714_8.avif"
     ],
     "href": "/products/dining-tables/metz/208714",
     "type": "file",
     "filterData": {
-      "searchText": "Metz Dining Table, White, 120 x 120 cm Round table 120 cm in white lacquered oak veneer with pine and MDF base. Dining Tables Dining room Metz Dining room Dining Tables Metz White MDF Oak Pine Dimensions Depth 120 cm cm Dimensions Height 75 cm cm Dimensions Width 120 cm cm Finish Surface finish Lacquered Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 20 kg kg Logistics Weight 33 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Metz Dining Table, White, Ø 120 cm Round table 120 cm in white lacquered oak veneer with pine and MDF base. Dining Tables Dining room Metz Dining room Dining Tables Metz White MDF Oak Pine Dimensions Depth 120 cm cm Dimensions Height 75 cm cm Dimensions Width 120 cm cm Finish Surface finish Lacquered Logistics Package count 1 package package Logistics Package weight 20 kg kg Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 33 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "dining-room",
@@ -834,6 +954,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -854,18 +986,6 @@
           "valueType": "enum",
           "numericValue": 0.37,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "20-kg",
-          "valueLabel": "20 kg",
-          "href": "/attributes/logistics/weight/20-kg/",
-          "valueType": "enum",
-          "numericValue": 20,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -918,7 +1038,7 @@
       ]
     },
     "sortData": {
-      "title": "Metz Dining Table, White, 120 x 120 cm",
+      "title": "Metz Dining Table, White, Ø 120 cm",
       "summary": "Round table 120 cm in white lacquered oak veneer with pine and MDF base.",
       "variantCount": 1,
       "categoryLabel": "Dining Tables",
@@ -929,33 +1049,41 @@
   {
     "sku": "208715",
     "name": "208715",
-    "title": "Metz Dining Table, White, 120/160/200 x 120 cm",
-    "variantSummary": "120/160/200 x 120 cm / White",
+    "title": "Metz Dining Table, White, 120/160/200 × 120 cm",
+    "variantSummary": "120/160/200 × 120 cm / White",
     "shortDescription": "Extendable table 120/160/200 x 120 cm in white lacquered oak veneer with MDF base.",
     "selectionAttributes": {
-      "dimensions": "120/160/200 x 120 cm",
+      "dimensions": "120/160/200 × 120 cm",
       "handedness": "",
       "comfortType": "",
       "color": "White",
-      "material": "Wood veneer, MDF"
+      "material": "Wood veneer, MDF",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining table",
+      "colorLabel": "White",
+      "colorNote": "White-washed oak",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/dining-tables/metz/208715_1.avif",
-    "imageUrl": "/products/dining-tables/metz/208715_1.avif",
+    "primaryImageUrl": "/products/dining-tables/metz/208715_2.avif",
+    "imageUrl": "/products/dining-tables/metz/208715_2.avif",
     "imageUrls": [
-      "/products/dining-tables/metz/208715_1.avif",
       "/products/dining-tables/metz/208715_2.avif",
       "/products/dining-tables/metz/208715_3.avif",
-      "/products/dining-tables/metz/208715_4.avif",
-      "/products/dining-tables/metz/208715_5.avif",
       "/products/dining-tables/metz/208715_6.avif",
       "/products/dining-tables/metz/208715_7.avif",
       "/products/dining-tables/metz/208715_8.avif",
-      "/products/dining-tables/metz/208715_9.avif"
+      "/products/dining-tables/metz/208715_9.avif",
+      "/products/dining-tables/metz/208715_1.avif",
+      "/products/dining-tables/metz/208715_4.avif",
+      "/products/dining-tables/metz/208715_5.avif"
     ],
     "href": "/products/dining-tables/metz/208715",
     "type": "file",
     "filterData": {
-      "searchText": "Metz Dining Table, White, 120/160/200 x 120 cm Extendable table 120/160/200 x 120 cm in white lacquered oak veneer with MDF base. Dining Tables Dining room Metz Dining room Dining Tables Metz White MDF Wood veneer Dimensions Depth 120 cm cm Dimensions Extended width 160 cm cm Dimensions Height 75 cm cm Dimensions Width 120 cm cm Finish Surface finish Lacquered Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 21 kg kg Logistics Weight 55 kg kg Setup Assembly time 30 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Metz Dining Table, White, 120/160/200 × 120 cm Extendable table 120/160/200 x 120 cm in white lacquered oak veneer with MDF base. Dining Tables Dining room Metz Dining room Dining Tables Metz White MDF Wood veneer Dimensions Depth 120 cm cm Dimensions Extended width 160 cm cm Dimensions Height 75 cm cm Dimensions Width 120 cm cm Finish Surface finish Lacquered Logistics Package count 1 package package Logistics Package weight 21 kg kg Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 55 kg kg Setup Assembly time 30 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "dining-room",
@@ -1073,6 +1201,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "21-kg",
+          "valueLabel": "21 kg",
+          "href": "/attributes/logistics/package-weight/21-kg/",
+          "valueType": "enum",
+          "numericValue": 21,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1093,18 +1233,6 @@
           "valueType": "enum",
           "numericValue": 0.37,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "21-kg",
-          "valueLabel": "21 kg",
-          "href": "/attributes/logistics/weight/21-kg/",
-          "valueType": "enum",
-          "numericValue": 21,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1157,7 +1285,7 @@
       ]
     },
     "sortData": {
-      "title": "Metz Dining Table, White, 120/160/200 x 120 cm",
+      "title": "Metz Dining Table, White, 120/160/200 × 120 cm",
       "summary": "Extendable table 120/160/200 x 120 cm in white lacquered oak veneer with MDF base.",
       "variantCount": 1,
       "categoryLabel": "Dining Tables",

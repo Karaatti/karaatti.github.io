@@ -1,0 +1,64 @@
+[
+  {
+    "name": "stavanger",
+    "href": "/products/outdoor-coffee-tables/stavanger/",
+    "type": "dir",
+    "title": "Stavanger",
+    "summary": "Stavanger coffee tables bring a compact 48 × 48 × 45 cm profile in Brown, combining Aluminium and Polyrattan for relaxed living-room use.",
+    "primaryImageUrl": "/products/outdoor-coffee-tables/stavanger/197629_7.avif",
+    "sourceHref": "/products/outdoor-coffee-tables/stavanger/",
+    "filterData": {
+      "searchText": "Stavanger Stavanger coffee tables bring a compact 48 × 48 × 45 cm profile in Brown, combining Aluminium and Polyrattan for relaxed living-room use. Outdoor Coffee & Side Tables Stavanger Outdoor Outdoor Coffee & Side Tables Stavanger Beige Aluminium Polyrattan",
+      "collections": [
+        {
+          "key": "outdoor",
+          "label": "Outdoor",
+          "href": "/collections/outdoor"
+        }
+      ],
+      "categories": [
+        {
+          "key": "outdoor-coffee-tables",
+          "label": "Outdoor Coffee & Side Tables",
+          "href": "/products/outdoor-coffee-tables/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "stavanger",
+          "label": "Stavanger",
+          "href": "/families/stavanger/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "aluminium",
+          "label": "Aluminium",
+          "href": "/materials/aluminium/"
+        },
+        {
+          "key": "polyrattan",
+          "label": "Polyrattan",
+          "href": "/materials/polyrattan/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Stavanger",
+      "summary": "Stavanger coffee tables bring a compact 48 × 48 × 45 cm profile in Brown, combining Aluminium and Polyrattan for relaxed living-room use.",
+      "variantCount": 1,
+      "categoryLabel": "Outdoor Coffee & Side Tables",
+      "collectionLabel": "",
+      "productFamilyLabel": "Stavanger"
+    }
+  }
+]

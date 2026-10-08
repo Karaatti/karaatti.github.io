@@ -1,14 +1,15 @@
 {
   "familyTitle": "Oak",
   "familySummary": "Oak console table in natural oak veneer offers a modern Scandinavian look for living rooms, hallways or offices. The warm brown tone creates a cozy atmosphere. Two integrated drawers provide practical storage. A versatile and durable piece that complements the home.",
-  "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+  "familyDescription": "This oak console table brings natural elegance to any space. Its warm oak surface and natural brown tone create a calm and harmonious atmosphere. The minimalist design adds lightness while providing a sturdy workspace. Two integrated drawers keep small items neatly stored, making it suitable for hallways, work areas or as a side table.",
+  "primaryImageUrl": "/products/console-tables/oak/198065_7.avif",
   "schemaCategory": "Console Tables",
   "variantCount": 1,
   "productFamilyName": "Oak",
   "productFamilyKey": "oak",
   "productFamilyRelativeDir": "families/oak",
   "filterData": {
-    "searchText": "Oak Oak console table in natural oak veneer offers a modern Scandinavian look for living rooms, hallways or offices. The warm brown tone creates a cozy atmosphere. Two integrated drawers provide practical storage. A versatile and durable piece that complements the home. Console Tables Home Details Oak Home Details Console Tables Oak Brown Oak Wood veneer Dimensions Depth 33 cm cm Dimensions Height 80 cm cm Dimensions Width 120 cm cm Load Maximum load 30 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 16 kg kg Setup Assembly time 45 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+    "searchText": "Oak Oak console table in natural oak veneer offers a modern Scandinavian look for living rooms, hallways or offices. The warm brown tone creates a cozy atmosphere. Two integrated drawers provide practical storage. A versatile and durable piece that complements the home. Console Tables Home Details Oak Home Details Console Tables Oak Beige Oak Wood veneer Dimensions Depth 33 cm cm Dimensions Height 80 cm cm Dimensions Width 120 cm cm Load Maximum load 30 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 16 kg kg Setup Assembly time 45 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "home-details",
@@ -32,9 +33,9 @@
     ],
     "colors": [
       {
-        "key": "brown",
-        "label": "Brown",
-        "href": "/colors/brown/"
+        "key": "beige",
+        "label": "Beige",
+        "href": "/colors/beige/"
       }
     ],
     "materials": [

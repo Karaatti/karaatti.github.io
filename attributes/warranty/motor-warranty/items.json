@@ -1,10 +1,10 @@
 [
   {
     "name": "2000-days",
-    "label": "2000 days",
+    "label": "2,000 days",
     "href": "/attributes/warranty/motor-warranty/2000-days/",
     "type": "dir",
-    "description": "2000 days is a published motor warranty used across selected Nest & Living products. Common on Adjustable Bed.",
+    "description": "2,000 days is the published motor warranty for the products listed here. The value appears on 12 Nest & Living product options across 3 product families. Examples include Adjustable Bed.",
     "familyCount": 3,
     "variantCount": 12,
     "valueType": "measurement",

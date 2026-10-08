@@ -2,15 +2,23 @@
   {
     "sku": "201119",
     "name": "201119",
-    "title": "House Nordic Derby Outdoor Sun Lounger",
-    "variantSummary": "65 x 190 cm / Beige",
+    "title": "House Nordic Derby Sun Lounger",
+    "variantSummary": "65 × 190 cm / Beige",
     "shortDescription": "Teak frame with light beige polyrattan seat. Adjustable backrest for comfort.",
     "selectionAttributes": {
-      "dimensions": "65 x 190 cm",
+      "dimensions": "65 × 190 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Polyrattan, Teak"
+      "material": "Polyrattan, Teak",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Sun lounger",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
     "imageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
@@ -26,7 +34,7 @@
     "href": "/products/outdoor-sun-loungers/house-nordic-derby/201119",
     "type": "file",
     "filterData": {
-      "searchText": "House Nordic Derby Outdoor Sun Lounger Teak frame with light beige polyrattan seat. Adjustable backrest for comfort. Outdoor Sun Loungers Outdoor House Nordic Derby Outdoor Outdoor Sun Loungers House Nordic Derby Beige Polyrattan Teak Wood Dimensions Depth 190 cm cm Dimensions Height 38 cm cm Dimensions Width 65 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.5 m³ m³ Logistics Weight 22.5 kg kg Logistics Weight 27 kg kg Seating Seat depth 65 cm cm Seating Seat height 38 cm cm Seating Seat width 65 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "House Nordic Derby Sun Lounger Teak frame with light beige polyrattan seat. Adjustable backrest for comfort. Outdoor Sun Loungers Outdoor House Nordic Derby Outdoor Outdoor Sun Loungers House Nordic Derby Beige Polyrattan Teak Wood Dimensions Depth 190 cm cm Dimensions Height 38 cm cm Dimensions Width 65 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Package weight 27 kg kg Logistics Product count 1 product product Logistics Volume 0.5 m³ m³ Logistics Weight 22.5 kg kg Seating Seat depth 65 cm cm Seating Seat height 38 cm cm Seating Seat width 65 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -137,6 +145,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/package-weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -168,18 +188,6 @@
           "href": "/attributes/logistics/weight/22-5-kg/",
           "valueType": "enum",
           "numericValue": 22.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "27-kg",
-          "valueLabel": "27 kg",
-          "href": "/attributes/logistics/weight/27-kg/",
-          "valueType": "enum",
-          "numericValue": 27,
           "unit": "kg"
         },
         {
@@ -245,7 +253,7 @@
       ]
     },
     "sortData": {
-      "title": "House Nordic Derby Outdoor Sun Lounger",
+      "title": "House Nordic Derby Sun Lounger",
       "summary": "Teak frame with light beige polyrattan seat. Adjustable backrest for comfort.",
       "variantCount": 1,
       "categoryLabel": "Outdoor Sun Loungers",

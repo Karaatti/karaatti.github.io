@@ -5,17 +5,34 @@
   <title>FAQ and Collaboration Applications - NEST &amp; LIVING</title>
   <meta
     name="description"
-    content="Read Nest &amp; Living FAQs, see how support cases are handled, and open supplier or retailer application forms for manual review."
+    content="Find practical Nest &amp; Living answers about products, retailers, orders, dimensions, care, warranty claims, and supplier or retailer applications."
   />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="canonical" href="https://nestliving.dk/faq" />
   <link rel="stylesheet" href="/styles.css" />
   <script src="/script.js" defer></script>
+<!-- webtool-brand-head:start -->
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#282421">
+<!-- webtool-brand-head:end -->
+
+
 </head>
 <body>
 <header id="site-header" class="header">
-  <div class="header-container with-texture-2">
-    <a href="/" class="logo"><img src="/images/logo_small.svg" alt="Nest &amp; Living logo"><span class="logo-text">Nest &amp; Living</span></a>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div class="header-container with-texture-2" data-brand-surface="dark">
+    <a href="/" class="logo brand-logo" aria-label="Nest &amp; Living home">
+      <picture class="brand-logo__picture">
+        <source media="(max-width: 767px)" srcset="/images/brand/nest-living-monogram-light.svg">
+        <img class="brand-logo__image" data-brand-variant="light" src="/images/brand/nest-living-wordmark-light.svg" alt="" width="618" height="191">
+      </picture>
+    </a>
 
     <div class="header-search-slot" data-lazy-search-host="true">
       <div class="search-wrapper search-wrapper--header">
@@ -27,8 +44,6 @@
               placeholder="Search products..."
               autocomplete="off"
               aria-label="Search products"
-              aria-controls="site-search-panel"
-              aria-expanded="false"
             />
             <button
               type="button"
@@ -83,7 +98,7 @@
         <div
           id="site-search-panel"
           class="search-panel"
-          aria-hidden="true"
+          inert
         >
           <div class="search-surface with-texture">
             <div class="search-results-toolbar">
@@ -111,8 +126,8 @@
           <ul class="dropdown-menu">
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/bedroom" data-submenu="/collections/bedroom">
-                  <img src="/images/bedroom.svg" alt="Bedroom icon" class="category-icon">
+                <a href="/collections/bedroom">
+                  <img src="/images/bedroom.svg" alt="Bedroom icon" class="category-icon" width="1024" height="1024">
                   Bedroom
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Bedroom product groups">
@@ -133,8 +148,8 @@
             </li>
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/living-room" data-submenu="/collections/living-room">
-                  <img src="/images/living-room.svg" alt="Living room icon" class="category-icon">
+                <a href="/collections/living-room">
+                  <img src="/images/living-room.svg" alt="Living room icon" class="category-icon" width="1024" height="1024">
                   Living room
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Living room product groups">
@@ -152,8 +167,8 @@
             </li>
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/dining-room" data-submenu="/collections/dining-room">
-                  <img src="/images/dining-room.svg" alt="Dining room icon" class="category-icon">
+                <a href="/collections/dining-room">
+                  <img src="/images/dining-room.svg" alt="Dining room icon" class="category-icon" width="1024" height="1024">
                   Dining room
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Dining room product groups">
@@ -165,22 +180,25 @@
             </li>
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/storage-shelving" data-submenu="/collections/storage-shelving">
-                  <img src="/images/storage-shelving.svg" alt="Home Details icon" class="category-icon">
+                <a href="/collections/storage-shelving">
+                  <img src="/images/storage-shelving.svg" alt="Home Details icon" class="category-icon" width="1024" height="1024">
                   Home Details
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Home Details product groups">
                     <a class="dropdown-menu-group-link" href="/products/decorative-cushions/">Decorative Cushions</a>
                     <a class="dropdown-menu-group-link" href="/products/console-tables/">Console Tables</a>
+                    <a class="dropdown-menu-group-link" href="/products/sideboards/">Sideboards</a>
+                    <a class="dropdown-menu-group-link" href="/products/tv-stands/">TV Stands</a>
                     <a class="dropdown-menu-group-link" href="/products/shelves/">Shelves</a>
+                    <a class="dropdown-menu-group-link" href="/products/storage-cabinets/">Storage Cabinets</a>
                     <a class="dropdown-menu-group-link" href="/products/rugs/">Rugs</a>
                 </nav>
               </div>
             </li>
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/outdoor" data-submenu="/collections/outdoor">
-                  <img src="/images/outdoor.svg" alt="Outdoor icon" class="category-icon">
+                <a href="/collections/outdoor">
+                  <img src="/images/outdoor.svg" alt="Outdoor icon" class="category-icon" width="512" height="512">
                   Outdoor
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Outdoor product groups">
@@ -188,6 +206,7 @@
                     <a class="dropdown-menu-group-link" href="/products/outdoor-dining-chairs/">Outdoor Dining Chairs</a>
                     <a class="dropdown-menu-group-link" href="/products/outdoor-lounge-sets/">Outdoor Lounge Sets</a>
                     <a class="dropdown-menu-group-link" href="/products/outdoor-lounge-seating/">Outdoor Lounge Seating</a>
+                    <a class="dropdown-menu-group-link" href="/products/outdoor-coffee-tables/">Outdoor Coffee &amp; Side Tables</a>
                     <a class="dropdown-menu-group-link" href="/products/outdoor-sun-loungers/">Outdoor Sun Loungers</a>
                     <a class="dropdown-menu-group-link" href="/products/outdoor-storage/">Outdoor Storage</a>
                     <a class="dropdown-menu-group-link" href="/products/planters-pots/">Planters &amp; Pots</a>
@@ -220,7 +239,13 @@
     </div>
 
   </div>
+  <span id="main-content" class="skip-target" tabindex="-1"></span>
 </header>
+
+
+
+
+
 
 
 
@@ -233,20 +258,19 @@
 <main class="faq-page" role="main">
 
   <section class="faq-hero with-texture">
-    <p class="faq-eyebrow">Support and Collaboration</p>
-    <h1>Frequently Asked Questions</h1>
+    <p class="faq-eyebrow">Support and collaboration</p>
+    <h1>Frequently asked questions</h1>
     <p class="faq-lead">
-      This page covers customer support basics and explains how product suppliers,
-      retailers, and distribution partners can apply for review.
+      Find answers about products, retailers, orders and product care, or learn how to apply as a supplier or retail partner.
     </p>
     <p class="faq-note">
-      Every application is audited manually. Current capacity for range expansion is limited,
-      so a complete submission does not guarantee onboarding.
+      Purchases, deliveries, returns, and most warranty cases are handled by the retailer that sold the product.
+      Contact the retailer named on your receipt first so they can check your purchase details.
     </p>
   </section>
 
   <section class="faq-layout">
-    <article class="faq-panel with-texture-2">
+    <article class="faq-panel faq-panel--olive with-texture-2">
       <div class="faq-panel__header">
         <p class="faq-kicker">Customer Support</p>
         <h2>Common questions</h2>
@@ -254,6 +278,26 @@
 
       <div class="faq-listing">
         <details class="faq-entry" open>
+          <summary>Can I buy products directly from this site?</summary>
+          <div class="faq-entry__answer">
+            <p>
+              No. Nest &amp; Living is a product catalog, not a checkout. Participating retailers handle prices,
+              availability, orders, and delivery.
+            </p>
+          </div>
+        </details>
+
+        <details class="faq-entry">
+          <summary>Where can I find a retailer?</summary>
+          <div class="faq-entry__answer">
+            <p>
+              Visit the <a href="/retailers/">retailer directory</a> for currently listed stores and markets.
+              Contact the store to confirm the products on display and current availability before travelling.
+            </p>
+          </div>
+        </details>
+
+        <details class="faq-entry">
           <summary>How can I track my order?</summary>
           <div class="faq-entry__answer">
             <p>
@@ -286,11 +330,62 @@
         </details>
 
         <details class="faq-entry">
+          <summary>What if a part is missing or damaged?</summary>
+          <div class="faq-entry__answer">
+            <p>
+              Photograph the product, packaging, shipping label, and affected part, then contact the selling retailer
+              with your order details. Keep the packaging until the retailer confirms the next step; cardboard can be
+              unexpectedly important evidence.
+            </p>
+          </div>
+        </details>
+
+        <details class="faq-entry">
           <summary>Do you ship internationally?</summary>
           <div class="faq-entry__answer">
             <p>
               Availability depends on the retailer and market. At the moment the active retail setup is limited,
               so international availability should be confirmed before ordering.
+            </p>
+          </div>
+        </details>
+
+        <details class="faq-entry">
+          <summary>Are the colors on screen exact?</summary>
+          <div class="faq-entry__answer">
+            <p>
+              They are a useful guide, not a calibrated promise. Screens, photography, daylight, and room lighting all
+              affect appearance. Ask the retailer for a sample or an in-store viewing when the precise shade matters.
+            </p>
+          </div>
+        </details>
+
+        <details class="faq-entry">
+          <summary>How should I compare product measurements?</summary>
+          <div class="faq-entry__answer">
+            <p>
+              Check the exact variant, not only the family name, and compare width, depth, height, and package data.
+              Measure doors, stairs, lifts, and turning space too. Your doorway retains veto power.
+            </p>
+          </div>
+        </details>
+
+        <details class="faq-entry">
+          <summary>What is a product family?</summary>
+          <div class="faq-entry__answer">
+            <p>
+              A family groups closely related variants under one shared design. The variants may differ by size,
+              orientation, upholstery, color, or function while still belonging to the same recognisable product line.
+            </p>
+          </div>
+        </details>
+
+        <details class="faq-entry">
+          <summary>Why does a measurement or package count have its own page?</summary>
+          <div class="faq-entry__answer">
+            <p>
+              Attribute pages connect an exact published value to the products and product types that use it. They make
+              comparison and search more precise. Yes, even &ldquo;1 package&rdquo; has administrative dignity here.
             </p>
           </div>
         </details>
@@ -305,20 +400,34 @@
             </p>
           </div>
         </details>
+
+        <details class="faq-entry">
+          <summary>Does a removable cover mean it is machine-washable?</summary>
+          <div class="faq-entry__answer">
+            <p>
+              Not automatically. Removable describes construction; washable describes care. Follow the product's care
+              label and retailer guidance before washing, because zips are not legal guarantees.
+            </p>
+          </div>
+        </details>
       </div>
     </article>
 
-    <article class="faq-panel with-texture-2">
+    <article class="faq-panel faq-panel--taupe with-texture-2">
       <div class="faq-panel__header">
         <p class="faq-kicker">Applications</p>
         <h2>Product and partner submissions</h2>
+        <p>
+          Every application is reviewed manually. Send the completed form and supporting documents so we can assess
+          whether the proposal fits the range and our operational requirements.
+        </p>
       </div>
 
       <div class="faq-process">
         <div class="faq-process__step">
           <strong>1. Send complete information</strong>
           <p>
-            We need structured product or business data before a review can start.
+            Include the product or business information requested in the form, along with the relevant supporting documents.
           </p>
         </div>
         <div class="faq-process__step">
@@ -383,17 +492,23 @@
       </div>
 
       <p class="faq-contact-note">
-        Send completed PDFs and supporting files to
-        <a href="mailto:support@nestliving.dk">support@nestliving.dk</a>.
+        <span>Questions, completed forms, and supporting files may all be sent to</span>
+        <a href="mailto:support@nestliving.dk">support@nestliving.dk</a>
+        <span>Include your company name and contact details so we can reply.</span>
       </p>
     </article>
   </section>
 </main>
 </div>
 
-<footer id="site-footer" class="footer with-texture">
+<footer id="site-footer" class="footer with-texture" data-brand-surface="dark">
   <button id="scroll-btn" aria-label="Move back to the top" title="Move back to the top">&uarr;</button>
   <div class="footer-inner">
+    <div class="footer-brand">
+      <a href="/" aria-label="Nest &amp; Living home">
+        <img data-brand-variant="light" src="/images/brand/nest-living-wordmark-light.svg" alt="" width="618" height="191" loading="lazy">
+      </a>
+    </div>
     <div class="footer-columns">
       <div class="footer-column">
         <h2>Company</h2>
@@ -411,10 +526,6 @@
         </ul>
       </div>
 
-      <div class="footer-column">
-        <h2>Follow Us</h2>
-        <ul class="social-media-list"></ul>
-      </div>
     </div>
 
     <div class="footer-contact">
@@ -427,6 +538,8 @@
     </div>
   </div>
 </footer>
+
+
 
 </body>
 </html>

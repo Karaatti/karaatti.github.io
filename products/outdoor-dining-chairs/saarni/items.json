@@ -2,28 +2,36 @@
   {
     "sku": "206644",
     "name": "206644",
-    "title": "Saarni Outdoor Dining Chair",
-    "variantSummary": "56 x 57 cm / Brown",
+    "title": "Saarni Dining Chair",
+    "variantSummary": "56.5 × 57 cm / Brown",
     "shortDescription": "Light brown stackable dining chair with aluminium frame and nonwood surfaces, suitable for indoor and outdoor use.",
     "selectionAttributes": {
-      "dimensions": "56 x 57 cm",
+      "dimensions": "56.5 × 57 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Brown",
-      "material": "Aluminium, Nonwood"
+      "material": "Aluminium, Nonwood",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining chair",
+      "colorLabel": "Brown",
+      "colorNote": "",
+      "axisPlan": "",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
-    "imageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+    "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_2.avif",
+    "imageUrl": "/products/outdoor-dining-chairs/saarni/206644_2.avif",
     "imageUrls": [
-      "/products/outdoor-dining-chairs/saarni/206644_1.avif",
       "/products/outdoor-dining-chairs/saarni/206644_2.avif",
       "/products/outdoor-dining-chairs/saarni/206644_3.avif",
-      "/products/outdoor-dining-chairs/saarni/206644_4.avif"
+      "/products/outdoor-dining-chairs/saarni/206644_4.avif",
+      "/products/outdoor-dining-chairs/saarni/206644_1.avif"
     ],
     "href": "/products/outdoor-dining-chairs/saarni/",
     "type": "file",
     "filterData": {
-      "searchText": "Saarni Outdoor Dining Chair Light brown stackable dining chair with aluminium frame and nonwood surfaces, suitable for indoor and outdoor use. Outdoor Dining Chairs Outdoor Saarni Outdoor Outdoor Dining Chairs Saarni Brown Aluminium Nonwood Dimensions Depth 57 cm cm Dimensions Height 87 cm cm Dimensions Width 56 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 4.9 kg kg Seating Seat count 1 seat seat Seating Seat depth 43.5 cm cm Seating Seat height 41 cm cm Seating Seat width 39.5 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Saarni Dining Chair Light brown stackable dining chair with aluminium frame and nonwood surfaces, suitable for indoor and outdoor use. Outdoor Dining Chairs Outdoor Saarni Outdoor Outdoor Dining Chairs Saarni Brown Aluminium Nonwood Dimensions Depth 57 cm cm Dimensions Height 87 cm cm Dimensions Width 56 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 4.9 kg kg Seating Seat count 1 seat seat Seating Seat depth 43.5 cm cm Seating Seat height 41 cm cm Seating Seat width 39.5 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -237,7 +245,7 @@
       ]
     },
     "sortData": {
-      "title": "Saarni Outdoor Dining Chair",
+      "title": "Saarni Dining Chair",
       "summary": "Light brown stackable dining chair with aluminium frame and nonwood surfaces, suitable for indoor and outdoor use.",
       "variantCount": 1,
       "categoryLabel": "Outdoor Dining Chairs",

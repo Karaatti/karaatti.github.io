@@ -11,12 +11,28 @@
     <meta name="twitter:description" content="Browse the Nest &amp; Living colour palette and see how different shades appear across beds, seating, storage and accessories.">
     <link rel="canonical" href="https://nestliving.dk/colors/" />
     <link href="../styles.css" rel="stylesheet" />
-    <script src="../script.js"></script>
+    <script src="../script.js" defer></script>
+<!-- webtool-brand-head:start -->
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#282421">
+<!-- webtool-brand-head:end -->
+
 </head>
 <body>
     <header id="site-header" class="header">
-  <div class="header-container with-texture-2">
-    <a href="/" class="logo"><img src="/images/logo_small.svg" alt="Nest &amp; Living logo"><span class="logo-text">Nest &amp; Living</span></a>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div class="header-container with-texture-2" data-brand-surface="dark">
+    <a href="/" class="logo brand-logo" aria-label="Nest &amp; Living home">
+      <picture class="brand-logo__picture">
+        <source media="(max-width: 767px)" srcset="/images/brand/nest-living-monogram-light.svg">
+        <img class="brand-logo__image" data-brand-variant="light" src="/images/brand/nest-living-wordmark-light.svg" alt="" width="618" height="191">
+      </picture>
+    </a>
 
     <div class="header-search-slot" data-lazy-search-host="true">
       <div class="search-wrapper search-wrapper--header">
@@ -28,8 +44,6 @@
               placeholder="Search products..."
               autocomplete="off"
               aria-label="Search products"
-              aria-controls="site-search-panel"
-              aria-expanded="false"
             />
             <button
               type="button"
@@ -84,7 +98,7 @@
         <div
           id="site-search-panel"
           class="search-panel"
-          aria-hidden="true"
+          inert
         >
           <div class="search-surface with-texture">
             <div class="search-results-toolbar">
@@ -112,8 +126,8 @@
           <ul class="dropdown-menu">
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/bedroom" data-submenu="/collections/bedroom">
-                  <img src="/images/bedroom.svg" alt="Bedroom icon" class="category-icon">
+                <a href="/collections/bedroom">
+                  <img src="/images/bedroom.svg" alt="Bedroom icon" class="category-icon" width="1024" height="1024">
                   Bedroom
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Bedroom product groups">
@@ -134,8 +148,8 @@
             </li>
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/living-room" data-submenu="/collections/living-room">
-                  <img src="/images/living-room.svg" alt="Living room icon" class="category-icon">
+                <a href="/collections/living-room">
+                  <img src="/images/living-room.svg" alt="Living room icon" class="category-icon" width="1024" height="1024">
                   Living room
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Living room product groups">
@@ -153,8 +167,8 @@
             </li>
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/dining-room" data-submenu="/collections/dining-room">
-                  <img src="/images/dining-room.svg" alt="Dining room icon" class="category-icon">
+                <a href="/collections/dining-room">
+                  <img src="/images/dining-room.svg" alt="Dining room icon" class="category-icon" width="1024" height="1024">
                   Dining room
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Dining room product groups">
@@ -166,22 +180,25 @@
             </li>
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/storage-shelving" data-submenu="/collections/storage-shelving">
-                  <img src="/images/storage-shelving.svg" alt="Home Details icon" class="category-icon">
+                <a href="/collections/storage-shelving">
+                  <img src="/images/storage-shelving.svg" alt="Home Details icon" class="category-icon" width="1024" height="1024">
                   Home Details
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Home Details product groups">
                     <a class="dropdown-menu-group-link" href="/products/decorative-cushions/">Decorative Cushions</a>
                     <a class="dropdown-menu-group-link" href="/products/console-tables/">Console Tables</a>
+                    <a class="dropdown-menu-group-link" href="/products/sideboards/">Sideboards</a>
+                    <a class="dropdown-menu-group-link" href="/products/tv-stands/">TV Stands</a>
                     <a class="dropdown-menu-group-link" href="/products/shelves/">Shelves</a>
+                    <a class="dropdown-menu-group-link" href="/products/storage-cabinets/">Storage Cabinets</a>
                     <a class="dropdown-menu-group-link" href="/products/rugs/">Rugs</a>
                 </nav>
               </div>
             </li>
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/outdoor" data-submenu="/collections/outdoor">
-                  <img src="/images/outdoor.svg" alt="Outdoor icon" class="category-icon">
+                <a href="/collections/outdoor">
+                  <img src="/images/outdoor.svg" alt="Outdoor icon" class="category-icon" width="512" height="512">
                   Outdoor
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Outdoor product groups">
@@ -189,6 +206,7 @@
                     <a class="dropdown-menu-group-link" href="/products/outdoor-dining-chairs/">Outdoor Dining Chairs</a>
                     <a class="dropdown-menu-group-link" href="/products/outdoor-lounge-sets/">Outdoor Lounge Sets</a>
                     <a class="dropdown-menu-group-link" href="/products/outdoor-lounge-seating/">Outdoor Lounge Seating</a>
+                    <a class="dropdown-menu-group-link" href="/products/outdoor-coffee-tables/">Outdoor Coffee &amp; Side Tables</a>
                     <a class="dropdown-menu-group-link" href="/products/outdoor-sun-loungers/">Outdoor Sun Loungers</a>
                     <a class="dropdown-menu-group-link" href="/products/outdoor-storage/">Outdoor Storage</a>
                     <a class="dropdown-menu-group-link" href="/products/planters-pots/">Planters &amp; Pots</a>
@@ -221,6 +239,7 @@
     </div>
 
   </div>
+  <span id="main-content" class="skip-target" tabindex="-1"></span>
 </header>
 
     <div id="content">
@@ -233,19 +252,42 @@
             <div class="family-summary">
                 <p>Browse the Nest &amp; Living colour palette and see how different shades appear across beds, seating, storage and accessories.</p>
             </div>
+            <section class="listing-filters with-texture-2" data-listing-filters-static="true" data-listing-item-count="10" aria-label="Filter and sort results">
+                <div class="listing-filters__toolbar">
+                    <label class="listing-filters__search">
+                        <span>Search</span>
+                        <input type="search" class="listing-filters__search-input" placeholder="Search products, colors, materials, and attributes" />
+                    </label>
+                    <label class="listing-filters__sort">
+                        <span>Sort</span>
+                        <select class="listing-filters__sort-select">
+                            <option value="default">Default order</option>
+                            <option value="title-asc">Name A-Z</option>
+                            <option value="title-desc">Name Z-A</option>
+                            <option value="variants-desc">Most options first</option>
+                            <option value="variants-asc">Fewest options first</option>
+                        </select>
+                    </label>
+                    <button type="button" class="listing-filters__clear">Clear filters</button>
+                </div>
+                <div class="listing-filters__status">
+                    <strong class="listing-filters__summary">10 of 10 items shown</strong>
+                </div>
+            </section>
+
             <div id="items-container">
                 <article class="variant-card">
                     <a class="variant-card__link" href="/colors/beige/">
-                        <figure><img alt="Beige thumbnail" loading="lazy" src="/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif" />
-                            <figcaption><span class="variant-name">Beige</span><small>Seen across 53 product families and 137 product options.</small></figcaption>
+                        <figure><img alt="Beige thumbnail" loading="lazy" src="/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif" />
+                            <figcaption><span class="variant-name">Beige</span><small>Seen across 75 product families and 163 product options.</small></figcaption>
                         </figure>
                     </a>
                     
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/colors/black/">
-                        <figure><img alt="Black thumbnail" loading="lazy" src="/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg" />
-                            <figcaption><span class="variant-name">Black</span><small>Seen across 17 product families and 63 product options.</small></figcaption>
+                        <figure><img alt="Black thumbnail" loading="lazy" src="/products/shelves/mystery/198063_9.avif" />
+                            <figcaption><span class="variant-name">Black</span><small>Seen across 7 product families and 9 product options.</small></figcaption>
                         </figure>
                     </a>
                     
@@ -260,8 +302,8 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/colors/brown/">
-                        <figure><img alt="Brown thumbnail" loading="lazy" src="/products/corner-sofas/westcoast/209114_1.avif" />
-                            <figcaption><span class="variant-name">Brown</span><small>Seen across 29 product families and 42 product options.</small></figcaption>
+                        <figure><img alt="Brown thumbnail" loading="lazy" src="/products/corner-sofas/westcoast/209114_2.avif" />
+                            <figcaption><span class="variant-name">Brown</span><small>Seen across 28 product families and 41 product options.</small></figcaption>
                         </figure>
                     </a>
                     
@@ -269,55 +311,47 @@
                 <article class="variant-card">
                     <a class="variant-card__link" href="/colors/green/">
                         <figure><img alt="Green thumbnail" loading="lazy" src="/products/decorative-cushions/haley/202856_1.avif" />
-                            <figcaption><span class="variant-name">Green</span><small>Seen across 10 product families and 14 product options.</small></figcaption>
+                            <figcaption><span class="variant-name">Green</span><small>Seen across 12 product families and 18 product options.</small></figcaption>
                         </figure>
                     </a>
                     
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/colors/grey/">
-                        <figure><img alt="Grey thumbnail" loading="lazy" src="/products/toppers/moon-gold/197741_1.avif" />
-                            <figcaption><span class="variant-name">Grey</span><small>Seen across 31 product families and 115 product options.</small></figcaption>
+                        <figure><img alt="Grey thumbnail" loading="lazy" src="/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif" />
+                            <figcaption><span class="variant-name">Grey</span><small>Seen across 33 product families and 135 product options.</small></figcaption>
                         </figure>
                     </a>
                     
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/colors/multicolour/">
-                        <figure><img alt="Multicolour thumbnail" loading="lazy" src="/products/rugs/amaris/amaris_rug_multicolour_1.avif" />
-                            <figcaption><span class="variant-name">Multicolour</span><small>Seen across 1 product family and 2 product options.</small></figcaption>
+                        <figure><img alt="Multicolour thumbnail" loading="lazy" src="/products/rugs/amaris/amaris_rug_multicolour_2.avif" />
+                            <figcaption><span class="variant-name">Multicolour</span><small>Seen across 7 product families and 14 product options.</small></figcaption>
                         </figure>
                     </a>
                     
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/colors/orange/">
-                        <figure><img alt="Orange thumbnail" loading="lazy" src="/products/decorative-cushions/hike/202849_1.avif" />
-                            <figcaption><span class="variant-name">Orange</span><small>Seen across 2 product families and 5 product options.</small></figcaption>
+                        <figure><img alt="Orange thumbnail" loading="lazy" src="/products/decorative-cushions/hike/202852_1.avif" />
+                            <figcaption><span class="variant-name">Orange</span><small>Seen across 2 product families and 6 product options.</small></figcaption>
                         </figure>
                     </a>
                     
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/colors/red/">
-                        <figure><img alt="Red thumbnail" loading="lazy" src="/products/rugs/lucca/lucca_rug_red_2.avif" />
-                            <figcaption><span class="variant-name">Red</span><small>Seen across 5 product families and 12 product options.</small></figcaption>
+                        <figure><img alt="Red thumbnail" loading="lazy" src="/products/rugs/lucca/lucca_rug_red_7.avif" />
+                            <figcaption><span class="variant-name">Red</span><small>Seen across 5 product families and 13 product options.</small></figcaption>
                         </figure>
                     </a>
                     
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/colors/white/">
-                        <figure><img alt="White thumbnail" loading="lazy" src="/products/toppers/moon-silver/moon_silver_topper_white_2.avif" />
-                            <figcaption><span class="variant-name">White</span><small>Seen across 11 product families and 37 product options.</small></figcaption>
-                        </figure>
-                    </a>
-                    
-                </article>
-                <article class="variant-card">
-                    <a class="variant-card__link" href="/colors/yellow/">
-                        <figure><img alt="Yellow thumbnail" loading="lazy" src="/products/decorative-cushions/hike/202852_1.avif" />
-                            <figcaption><span class="variant-name">Yellow</span><small>Seen across 1 product family and 2 product options.</small></figcaption>
+                        <figure><img alt="White thumbnail" loading="lazy" src="/products/toppers/moon-gold/moon_gold_topper_grey_6.avif" />
+                            <figcaption><span class="variant-name">White</span><small>Seen across 33 product families and 91 product options.</small></figcaption>
                         </figure>
                     </a>
                     
@@ -339,9 +373,14 @@
   ]
 }
     </script>
-    <footer id="site-footer" class="footer with-texture">
+    <footer id="site-footer" class="footer with-texture" data-brand-surface="dark">
   <button id="scroll-btn" aria-label="Move back to the top" title="Move back to the top">&uarr;</button>
   <div class="footer-inner">
+    <div class="footer-brand">
+      <a href="/" aria-label="Nest &amp; Living home">
+        <img data-brand-variant="light" src="/images/brand/nest-living-wordmark-light.svg" alt="" width="618" height="191" loading="lazy">
+      </a>
+    </div>
     <div class="footer-columns">
       <div class="footer-column">
         <h2>Company</h2>
@@ -359,10 +398,6 @@
         </ul>
       </div>
 
-      <div class="footer-column">
-        <h2>Follow Us</h2>
-        <ul class="social-media-list"></ul>
-      </div>
     </div>
 
     <div class="footer-contact">

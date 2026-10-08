@@ -4,10 +4,10 @@
     "title": "Moon Silver adjustable bed",
     "href": "/products/adjustable-beds/moon-silver/",
     "type": "dir",
-    "summary": "Adjustable bed with 5-zone pocket spring support and wooden legs. Durable steel frame and ergonomic design for comfort.",
-    "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+    "summary": "Moon Silver adjustable beds come in grey with a choice of widths, bringing an adjustable sleeping setup to different bedroom layouts.",
+    "primaryImageUrl": "/products/adjustable-beds/moon-silver/200291_2.avif",
     "filterData": {
-      "searchText": "Moon Silver adjustable bed Adjustable bed with 5-zone pocket spring support and wooden legs. Durable steel frame and ergonomic design for comfort. Adjustable Beds Bedroom Moon Silver Bedroom Adjustable Beds Moon Silver Grey Fabric Metal Steel Wood Comfort Firmness Medium firm Configuration Leg height 15 cm cm Dimensions Depth 200 cm cm Dimensions Height 47 cm cm Dimensions Inner height 32 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 105 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.7 m³ m³ Logistics Volume 0.63 m³ m³ Logistics Volume 0.82 m³ m³ Logistics Weight 50 kg kg Logistics Weight 52 kg kg Logistics Weight 54 kg kg Logistics Weight 56 kg kg Logistics Weight 60 kg kg Logistics Weight 62 kg kg Setup Assembly time 30 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Motor warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Silver adjustable bed Moon Silver adjustable beds come in grey with a choice of widths, bringing an adjustable sleeping setup to different bedroom layouts. Adjustable Beds Bedroom Moon Silver Bedroom Adjustable Beds Moon Silver Grey Fabric Metal Steel Wood Comfort Firmness Medium firm Configuration Leg height 15 cm cm Dimensions Depth 200 cm cm Dimensions Height 47 cm cm Dimensions Inner height 32 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 105 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 52 kg kg Logistics Package weight 56 kg kg Logistics Package weight 62 kg kg Logistics Product count 1 product product Logistics Volume 0.7 m³ m³ Logistics Volume 0.63 m³ m³ Logistics Volume 0.82 m³ m³ Logistics Weight 50 kg kg Logistics Weight 54 kg kg Logistics Weight 60 kg kg Setup Assembly time 30 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Motor warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -195,6 +195,42 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "52-kg",
+          "valueLabel": "52 kg",
+          "href": "/attributes/logistics/package-weight/52-kg/",
+          "valueType": "enum",
+          "numericValue": 52,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "56-kg",
+          "valueLabel": "56 kg",
+          "href": "/attributes/logistics/package-weight/56-kg/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "62-kg",
+          "valueLabel": "62 kg",
+          "href": "/attributes/logistics/package-weight/62-kg/",
+          "valueType": "enum",
+          "numericValue": 62,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -257,18 +293,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "52-kg",
-          "valueLabel": "52 kg",
-          "href": "/attributes/logistics/weight/52-kg/",
-          "valueType": "enum",
-          "numericValue": 52,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "54-kg",
           "valueLabel": "54 kg",
           "href": "/attributes/logistics/weight/54-kg/",
@@ -281,35 +305,11 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "56-kg",
-          "valueLabel": "56 kg",
-          "href": "/attributes/logistics/weight/56-kg/",
-          "valueType": "enum",
-          "numericValue": 56,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "60-kg",
           "valueLabel": "60 kg",
           "href": "/attributes/logistics/weight/60-kg/",
           "valueType": "enum",
           "numericValue": 60,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "62-kg",
-          "valueLabel": "62 kg",
-          "href": "/attributes/logistics/weight/62-kg/",
-          "valueType": "enum",
-          "numericValue": 62,
           "unit": "kg"
         },
         {
@@ -388,7 +388,7 @@
     },
     "sortData": {
       "title": "Moon Silver adjustable bed",
-      "summary": "Adjustable bed with 5-zone pocket spring support and wooden legs. Durable steel frame and ergonomic design for comfort.",
+      "summary": "Moon Silver adjustable beds come in grey with a choice of widths, bringing an adjustable sleeping setup to different bedroom layouts.",
       "variantCount": 3,
       "categoryLabel": "Adjustable Beds",
       "collectionLabel": "Bedroom",
@@ -401,9 +401,9 @@
     "href": "/products/continental-beds/moon-silver/",
     "type": "dir",
     "summary": "A practical and comfortable continental bed featuring 5-zone pocket springs for individual support. Available in grey or beige with high wooden legs for ease of cleaning.",
-    "primaryImageUrl": "/products/continental-beds/moon-silver/197712_1.avif",
+    "primaryImageUrl": "/products/continental-beds/moon_bronze_silver_continental_bed_grey_2.avif",
     "filterData": {
-      "searchText": "Moon Silver continental bed A practical and comfortable continental bed featuring 5-zone pocket springs for individual support. Available in grey or beige with high wooden legs for ease of cleaning. Continental Beds Bedroom Moon Silver Bedroom Continental Beds Moon Silver Beige Grey Fabric Metal Particle board Wood Comfort Firmness Medium firm Configuration Leg height 15 cm cm Dimensions Depth 200 cm cm Dimensions Height 53 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package count 2 package package Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Volume 0.36 m³ m³ Logistics Volume 0.42 m³ m³ Logistics Volume 0.45 m³ m³ Logistics Volume 0.49 m³ m³ Logistics Volume 0.59 m³ m³ Logistics Volume 0.62 m³ m³ Logistics Volume 0.63 m³ m³ Logistics Weight 3.4 kg kg Logistics Weight 20 kg kg Logistics Weight 22 kg kg Logistics Weight 23 kg kg Logistics Weight 25 kg kg Logistics Weight 27 kg kg Logistics Weight 38 kg kg Logistics Weight 50 kg kg Logistics Weight 57 kg kg Logistics Weight 63 kg kg Logistics Weight 69 kg kg Logistics Weight 87 kg kg Setup Assembly time 30 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Silver continental bed A practical and comfortable continental bed featuring 5-zone pocket springs for individual support. Available in grey or beige with high wooden legs for ease of cleaning. Continental Beds Bedroom Moon Silver Bedroom Continental Beds Moon Silver Beige Grey Fabric Metal Particle board Wood Comfort Firmness Medium firm Configuration Leg height 15 cm cm Dimensions Depth 200 cm cm Dimensions Height 53 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package count 2 package package Logistics Package weight 3.4 kg kg Logistics Package weight 20 kg kg Logistics Package weight 22 kg kg Logistics Package weight 23 kg kg Logistics Package weight 25 kg kg Logistics Package weight 27 kg kg Logistics Package weight 38 kg kg Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Volume 0.36 m³ m³ Logistics Volume 0.42 m³ m³ Logistics Volume 0.45 m³ m³ Logistics Volume 0.49 m³ m³ Logistics Volume 0.59 m³ m³ Logistics Volume 0.62 m³ m³ Logistics Volume 0.63 m³ m³ Logistics Weight 50 kg kg Logistics Weight 57 kg kg Logistics Weight 63 kg kg Logistics Weight 69 kg kg Logistics Weight 87 kg kg Setup Assembly time 30 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -620,6 +620,90 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-4-kg",
+          "valueLabel": "3.4 kg",
+          "href": "/attributes/logistics/package-weight/3-4-kg/",
+          "valueType": "enum",
+          "numericValue": 3.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "22-kg",
+          "valueLabel": "22 kg",
+          "href": "/attributes/logistics/package-weight/22-kg/",
+          "valueType": "enum",
+          "numericValue": 22,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "23-kg",
+          "valueLabel": "23 kg",
+          "href": "/attributes/logistics/package-weight/23-kg/",
+          "valueType": "enum",
+          "numericValue": 23,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/package-weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "38-kg",
+          "valueLabel": "38 kg",
+          "href": "/attributes/logistics/package-weight/38-kg/",
+          "valueType": "enum",
+          "numericValue": 38,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -724,90 +808,6 @@
           "valueType": "enum",
           "numericValue": 0.63,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "3-4-kg",
-          "valueLabel": "3.4 kg",
-          "href": "/attributes/logistics/weight/3-4-kg/",
-          "valueType": "enum",
-          "numericValue": 3.4,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "20-kg",
-          "valueLabel": "20 kg",
-          "href": "/attributes/logistics/weight/20-kg/",
-          "valueType": "enum",
-          "numericValue": 20,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "22-kg",
-          "valueLabel": "22 kg",
-          "href": "/attributes/logistics/weight/22-kg/",
-          "valueType": "enum",
-          "numericValue": 22,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "23-kg",
-          "valueLabel": "23 kg",
-          "href": "/attributes/logistics/weight/23-kg/",
-          "valueType": "enum",
-          "numericValue": 23,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "27-kg",
-          "valueLabel": "27 kg",
-          "href": "/attributes/logistics/weight/27-kg/",
-          "valueType": "enum",
-          "numericValue": 27,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "38-kg",
-          "valueLabel": "38 kg",
-          "href": "/attributes/logistics/weight/38-kg/",
-          "valueType": "enum",
-          "numericValue": 38,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -969,10 +969,10 @@
     "title": "Moon Silver divan bed",
     "href": "/products/divan-beds/moon-silver/",
     "type": "dir",
-    "summary": "Available sizes: 80 x 200 cm, 90 x 200 cm, 120 x 200 cm and 140 x 200 cm. Light grey Primo 84 upholstery, 5-zone pocket spring support and smoked ash cone legs. 4 active variants available.",
-    "primaryImageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_1.avif",
+    "summary": "Moon Silver divan beds combine grey upholstery and pocket spring support, with widths for single beds and wider sleeping arrangements.",
+    "primaryImageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_2.avif",
     "filterData": {
-      "searchText": "Moon Silver divan bed Available sizes: 80 x 200 cm, 90 x 200 cm, 120 x 200 cm and 140 x 200 cm. Light grey Primo 84 upholstery, 5-zone pocket spring support and smoked ash cone legs. 4 active variants available. Divan Beds Bedroom Moon Silver Bedroom Divan Beds Moon Silver Grey Fabric Metal Wood Comfort Firmness Medium firm Dimensions Depth 200 cm cm Dimensions Height 50 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.43 m³ m³ Logistics Volume 0.46 m³ m³ Logistics Volume 0.69 m³ m³ Logistics Volume 0.97 m³ m³ Logistics Weight 23 kg kg Logistics Weight 25 kg kg Logistics Weight 30 kg kg Logistics Weight 32 kg kg Logistics Weight 35 kg kg Logistics Weight 37 kg kg Setup Assembly time 15 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Silver divan bed Moon Silver divan beds combine grey upholstery and pocket spring support, with widths for single beds and wider sleeping arrangements. Divan Beds Bedroom Moon Silver Bedroom Divan Beds Moon Silver Grey Fabric Metal Wood Comfort Firmness Medium firm Dimensions Depth 200 cm cm Dimensions Height 50 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 25 kg kg Logistics Package weight 32 kg kg Logistics Package weight 37 kg kg Logistics Product count 1 product product Logistics Volume 0.43 m³ m³ Logistics Volume 0.46 m³ m³ Logistics Volume 0.69 m³ m³ Logistics Volume 0.97 m³ m³ Logistics Weight 23 kg kg Logistics Weight 25 kg kg Logistics Weight 30 kg kg Logistics Weight 35 kg kg Setup Assembly time 15 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1143,6 +1143,42 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "32-kg",
+          "valueLabel": "32 kg",
+          "href": "/attributes/logistics/package-weight/32-kg/",
+          "valueType": "enum",
+          "numericValue": 32,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "37-kg",
+          "valueLabel": "37 kg",
+          "href": "/attributes/logistics/package-weight/37-kg/",
+          "valueType": "enum",
+          "numericValue": 37,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1241,35 +1277,11 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "32-kg",
-          "valueLabel": "32 kg",
-          "href": "/attributes/logistics/weight/32-kg/",
-          "valueType": "enum",
-          "numericValue": 32,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "35-kg",
           "valueLabel": "35 kg",
           "href": "/attributes/logistics/weight/35-kg/",
           "valueType": "enum",
           "numericValue": 35,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "37-kg",
-          "valueLabel": "37 kg",
-          "href": "/attributes/logistics/weight/37-kg/",
-          "valueType": "enum",
-          "numericValue": 37,
           "unit": "kg"
         },
         {
@@ -1360,7 +1372,7 @@
     },
     "sortData": {
       "title": "Moon Silver divan bed",
-      "summary": "Available sizes: 80 x 200 cm, 90 x 200 cm, 120 x 200 cm and 140 x 200 cm. Light grey Primo 84 upholstery, 5-zone pocket spring support and smoked ash cone legs. 4 active variants available.",
+      "summary": "Moon Silver divan beds combine grey upholstery and pocket spring support, with widths for single beds and wider sleeping arrangements.",
       "variantCount": 4,
       "categoryLabel": "Divan Beds",
       "collectionLabel": "Bedroom",
@@ -1375,7 +1387,7 @@
     "summary": "Moon Silver headboard features a buttoned fabric surface that breathes well and adds a subtle, elegant touch to the bedroom. Its timeless design suits various interiors and provides comfortable back support.",
     "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
     "filterData": {
-      "searchText": "Moon Silver Moon Silver headboard features a buttoned fabric surface that breathes well and adds a subtle, elegant touch to the bedroom. Its timeless design suits various interiors and provides comfortable back support. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Black Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Volume 0.17 m³ m³ Logistics Volume 0.19 m³ m³ Logistics Volume 0.21 m³ m³ Logistics Volume 0.26 m³ m³ Logistics Weight 13 kg kg Logistics Weight 15 kg kg Logistics Weight 17 kg kg Logistics Weight 18 kg kg Logistics Weight 19.7 kg kg Logistics Weight 19.8 kg kg Logistics Weight 20 kg kg Logistics Weight 21 kg kg Logistics Weight 24.5 kg kg Logistics Weight 28 kg kg Logistics Weight 30 kg kg Logistics Weight 31.5 kg kg Logistics Weight 35.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Moon Silver headboard features a buttoned fabric surface that breathes well and adds a subtle, elegant touch to the bedroom. Its timeless design suits various interiors and provides comfortable back support. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 13 kg kg Logistics Package weight 15 kg kg Logistics Package weight 17 kg kg Logistics Package weight 18 kg kg Logistics Package weight 19.7 kg kg Logistics Package weight 19.8 kg kg Logistics Package weight 20 kg kg Logistics Package weight 21 kg kg Logistics Package weight 30 kg kg Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Volume 0.17 m³ m³ Logistics Volume 0.19 m³ m³ Logistics Volume 0.21 m³ m³ Logistics Volume 0.26 m³ m³ Logistics Weight 21 kg kg Logistics Weight 24.5 kg kg Logistics Weight 28 kg kg Logistics Weight 31.5 kg kg Logistics Weight 35.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1402,11 +1414,6 @@
           "key": "beige",
           "label": "Beige",
           "href": "/colors/beige/"
-        },
-        {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
         },
         {
           "key": "grey",
@@ -1534,6 +1541,114 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "13-kg",
+          "valueLabel": "13 kg",
+          "href": "/attributes/logistics/package-weight/13-kg/",
+          "valueType": "enum",
+          "numericValue": 13,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "15-kg",
+          "valueLabel": "15 kg",
+          "href": "/attributes/logistics/package-weight/15-kg/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "18-kg",
+          "valueLabel": "18 kg",
+          "href": "/attributes/logistics/package-weight/18-kg/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "19-7-kg",
+          "valueLabel": "19.7 kg",
+          "href": "/attributes/logistics/package-weight/19-7-kg/",
+          "valueType": "enum",
+          "numericValue": 19.7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "19-8-kg",
+          "valueLabel": "19.8 kg",
+          "href": "/attributes/logistics/package-weight/19-8-kg/",
+          "valueType": "enum",
+          "numericValue": 19.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "21-kg",
+          "valueLabel": "21 kg",
+          "href": "/attributes/logistics/package-weight/21-kg/",
+          "valueType": "enum",
+          "numericValue": 21,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/package-weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1620,90 +1735,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "13-kg",
-          "valueLabel": "13 kg",
-          "href": "/attributes/logistics/weight/13-kg/",
-          "valueType": "enum",
-          "numericValue": 13,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "15-kg",
-          "valueLabel": "15 kg",
-          "href": "/attributes/logistics/weight/15-kg/",
-          "valueType": "enum",
-          "numericValue": 15,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "17-kg",
-          "valueLabel": "17 kg",
-          "href": "/attributes/logistics/weight/17-kg/",
-          "valueType": "enum",
-          "numericValue": 17,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "18-kg",
-          "valueLabel": "18 kg",
-          "href": "/attributes/logistics/weight/18-kg/",
-          "valueType": "enum",
-          "numericValue": 18,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "19-7-kg",
-          "valueLabel": "19.7 kg",
-          "href": "/attributes/logistics/weight/19-7-kg/",
-          "valueType": "enum",
-          "numericValue": 19.7,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "19-8-kg",
-          "valueLabel": "19.8 kg",
-          "href": "/attributes/logistics/weight/19-8-kg/",
-          "valueType": "enum",
-          "numericValue": 19.8,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "20-kg",
-          "valueLabel": "20 kg",
-          "href": "/attributes/logistics/weight/20-kg/",
-          "valueType": "enum",
-          "numericValue": 20,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "21-kg",
           "valueLabel": "21 kg",
           "href": "/attributes/logistics/weight/21-kg/",
@@ -1733,18 +1764,6 @@
           "href": "/attributes/logistics/weight/28-kg/",
           "valueType": "enum",
           "numericValue": 28,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "30-kg",
-          "valueLabel": "30 kg",
-          "href": "/attributes/logistics/weight/30-kg/",
-          "valueType": "enum",
-          "numericValue": 30,
           "unit": "kg"
         },
         {
@@ -1826,7 +1845,7 @@
     "summary": "Pocket spring mattress with 5-zone support for individual body comfort. Available in various sizes and designed for practical, lasting use.",
     "primaryImageUrl": "/products/mattresses/moon-silver/moon_silver_mattress_grey_1.avif",
     "filterData": {
-      "searchText": "Moon Silver mattress Pocket spring mattress with 5-zone support for individual body comfort. Available in various sizes and designed for practical, lasting use. Mattresses Bedroom Moon Silver Bedroom Mattresses Moon Silver Grey Metal Dimensions Depth 200 cm cm Dimensions Height 17 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.28 m³ m³ Logistics Volume 0.31 m³ m³ Logistics Volume 0.41 m³ m³ Logistics Volume 0.47 m³ m³ Logistics Volume 0.54 m³ m³ Logistics Volume 0.61 m³ m³ Logistics Volume 0.62 m³ m³ Logistics Weight 5 kg kg Logistics Weight 15 kg kg Logistics Weight 16 kg kg Logistics Weight 17 kg kg Logistics Weight 18 kg kg Logistics Weight 19 kg kg Logistics Weight 20 kg kg Logistics Weight 22 kg kg Logistics Weight 24 kg kg Logistics Weight 26 kg kg Logistics Weight 28 kg kg Setup Assembly time 0 min min Support Zone count 5-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Silver mattress Pocket spring mattress with 5-zone support for individual body comfort. Available in various sizes and designed for practical, lasting use. Mattresses Bedroom Moon Silver Bedroom Mattresses Moon Silver Grey Metal Dimensions Depth 200 cm cm Dimensions Height 17 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Included components Topper included No Logistics Package count 1 package package Logistics Package weight 5 kg kg Logistics Package weight 15 kg kg Logistics Package weight 17 kg kg Logistics Package weight 18 kg kg Logistics Package weight 22 kg kg Logistics Package weight 26 kg kg Logistics Package weight 28 kg kg Logistics Product count 1 product product Logistics Volume 0.28 m³ m³ Logistics Volume 0.31 m³ m³ Logistics Volume 0.41 m³ m³ Logistics Volume 0.47 m³ m³ Logistics Volume 0.54 m³ m³ Logistics Volume 0.61 m³ m³ Logistics Volume 0.62 m³ m³ Logistics Weight 15 kg kg Logistics Weight 16 kg kg Logistics Weight 19 kg kg Logistics Weight 20 kg kg Logistics Weight 22 kg kg Logistics Weight 24 kg kg Logistics Weight 26 kg kg Setup Assembly time 0 min min Support Zone count 5-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1999,6 +2018,90 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "5-kg",
+          "valueLabel": "5 kg",
+          "href": "/attributes/logistics/package-weight/5-kg/",
+          "valueType": "enum",
+          "numericValue": 5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "15-kg",
+          "valueLabel": "15 kg",
+          "href": "/attributes/logistics/package-weight/15-kg/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "18-kg",
+          "valueLabel": "18 kg",
+          "href": "/attributes/logistics/package-weight/18-kg/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "22-kg",
+          "valueLabel": "22 kg",
+          "href": "/attributes/logistics/package-weight/22-kg/",
+          "valueType": "enum",
+          "numericValue": 22,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "26-kg",
+          "valueLabel": "26 kg",
+          "href": "/attributes/logistics/package-weight/26-kg/",
+          "valueType": "enum",
+          "numericValue": 26,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "28-kg",
+          "valueLabel": "28 kg",
+          "href": "/attributes/logistics/package-weight/28-kg/",
+          "valueType": "enum",
+          "numericValue": 28,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2097,18 +2200,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "5-kg",
-          "valueLabel": "5 kg",
-          "href": "/attributes/logistics/weight/5-kg/",
-          "valueType": "enum",
-          "numericValue": 5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "15-kg",
           "valueLabel": "15 kg",
           "href": "/attributes/logistics/weight/15-kg/",
@@ -2126,30 +2217,6 @@
           "href": "/attributes/logistics/weight/16-kg/",
           "valueType": "enum",
           "numericValue": 16,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "17-kg",
-          "valueLabel": "17 kg",
-          "href": "/attributes/logistics/weight/17-kg/",
-          "valueType": "enum",
-          "numericValue": 17,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "18-kg",
-          "valueLabel": "18 kg",
-          "href": "/attributes/logistics/weight/18-kg/",
-          "valueType": "enum",
-          "numericValue": 18,
           "unit": "kg"
         },
         {
@@ -2210,18 +2277,6 @@
           "href": "/attributes/logistics/weight/26-kg/",
           "valueType": "enum",
           "numericValue": 26,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "28-kg",
-          "valueLabel": "28 kg",
-          "href": "/attributes/logistics/weight/28-kg/",
-          "valueType": "enum",
-          "numericValue": 28,
           "unit": "kg"
         },
         {
@@ -2300,10 +2355,10 @@
     "title": "Moon Silver topper",
     "href": "/products/toppers/moon-silver/",
     "type": "dir",
-    "summary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
-    "primaryImageUrl": "/products/toppers/moon-silver/197756_1.avif",
+    "summary": "Moon Silver mattress toppers provide a white comfort foam layer in a choice of widths for single and double beds.",
+    "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "filterData": {
-      "searchText": "Moon Silver topper Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 105 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Volume 0.12 m³ m³ Logistics Volume 0.13 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Volume 0.16 m³ m³ Logistics Volume 0.27 m³ m³ Logistics Weight 3 kg kg Logistics Weight 3.2 kg kg Logistics Weight 3.5 kg kg Logistics Weight 3.6 kg kg Logistics Weight 3.8 kg kg Logistics Weight 4 kg kg Logistics Weight 4.5 kg kg Logistics Weight 4.7 kg kg Logistics Weight 5.5 kg kg Logistics Weight 6 kg kg Logistics Weight 7 kg kg Logistics Weight 7.5 kg kg Logistics Weight 7.6 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver topper Moon Silver mattress toppers provide a white comfort foam layer in a choice of widths for single and double beds. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 105 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 3.2 kg kg Logistics Package weight 3.6 kg kg Logistics Package weight 3.8 kg kg Logistics Package weight 4 kg kg Logistics Package weight 4.7 kg kg Logistics Package weight 7.6 kg kg Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Volume 0.12 m³ m³ Logistics Volume 0.13 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Volume 0.16 m³ m³ Logistics Volume 0.27 m³ m³ Logistics Weight 3 kg kg Logistics Weight 3.5 kg kg Logistics Weight 4 kg kg Logistics Weight 4.5 kg kg Logistics Weight 5.5 kg kg Logistics Weight 6 kg kg Logistics Weight 7 kg kg Logistics Weight 7.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2488,6 +2543,78 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-2-kg",
+          "valueLabel": "3.2 kg",
+          "href": "/attributes/logistics/package-weight/3-2-kg/",
+          "valueType": "enum",
+          "numericValue": 3.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-6-kg",
+          "valueLabel": "3.6 kg",
+          "href": "/attributes/logistics/package-weight/3-6-kg/",
+          "valueType": "enum",
+          "numericValue": 3.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-8-kg",
+          "valueLabel": "3.8 kg",
+          "href": "/attributes/logistics/package-weight/3-8-kg/",
+          "valueType": "enum",
+          "numericValue": 3.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "4-kg",
+          "valueLabel": "4 kg",
+          "href": "/attributes/logistics/package-weight/4-kg/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "4-7-kg",
+          "valueLabel": "4.7 kg",
+          "href": "/attributes/logistics/package-weight/4-7-kg/",
+          "valueType": "enum",
+          "numericValue": 4.7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "7-6-kg",
+          "valueLabel": "7.6 kg",
+          "href": "/attributes/logistics/package-weight/7-6-kg/",
+          "valueType": "enum",
+          "numericValue": 7.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2586,47 +2713,11 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "3-2-kg",
-          "valueLabel": "3.2 kg",
-          "href": "/attributes/logistics/weight/3-2-kg/",
-          "valueType": "enum",
-          "numericValue": 3.2,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "3-5-kg",
           "valueLabel": "3.5 kg",
           "href": "/attributes/logistics/weight/3-5-kg/",
           "valueType": "enum",
           "numericValue": 3.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "3-6-kg",
-          "valueLabel": "3.6 kg",
-          "href": "/attributes/logistics/weight/3-6-kg/",
-          "valueType": "enum",
-          "numericValue": 3.6,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "3-8-kg",
-          "valueLabel": "3.8 kg",
-          "href": "/attributes/logistics/weight/3-8-kg/",
-          "valueType": "enum",
-          "numericValue": 3.8,
           "unit": "kg"
         },
         {
@@ -2651,18 +2742,6 @@
           "href": "/attributes/logistics/weight/4-5-kg/",
           "valueType": "enum",
           "numericValue": 4.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "4-7-kg",
-          "valueLabel": "4.7 kg",
-          "href": "/attributes/logistics/weight/4-7-kg/",
-          "valueType": "enum",
-          "numericValue": 4.7,
           "unit": "kg"
         },
         {
@@ -2714,18 +2793,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "7-6-kg",
-          "valueLabel": "7.6 kg",
-          "href": "/attributes/logistics/weight/7-6-kg/",
-          "valueType": "enum",
-          "numericValue": 7.6,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -2765,7 +2832,7 @@
     },
     "sortData": {
       "title": "Moon Silver topper",
-      "summary": "Moon Silver Standard mattress topper is a breathable and elegant white cushioning layer for your mattress. Its soft, flexible material supports sleep and protects the mattress, suitable for various bedrooms.",
+      "summary": "Moon Silver mattress toppers provide a white comfort foam layer in a choice of widths for single and double beds.",
       "variantCount": 8,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",

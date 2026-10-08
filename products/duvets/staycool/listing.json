@@ -1,14 +1,15 @@
 {
   "familyTitle": "Staycool Duvet",
   "familySummary": "Cooling duvets from the Staycool series.",
-  "primaryImageUrl": "/products/duvets/staycool/214013_1.jpg",
+  "familyDescription": "Cooling duvets from the Staycool series.",
+  "primaryImageUrl": "/products/duvets/staycool/214013_2.avif",
   "schemaCategory": "Duvets",
   "variantCount": 1,
   "productFamilyName": "Staycool",
   "productFamilyKey": "staycool",
   "productFamilyRelativeDir": "families/staycool",
   "filterData": {
-    "searchText": "Staycool Duvet Cooling duvets from the Staycool series. Duvets Bedroom Staycool Bedroom Duvets Staycool Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 150 cm cm Dimensions Height 2 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 8 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1.3 kg kg Logistics Weight 13.1 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+    "searchText": "Staycool Duvet Cooling duvets from the Staycool series. Duvets Bedroom Staycool Bedroom Duvets Staycool White Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 150 cm cm Dimensions Height 2 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 13.1 kg kg Logistics Product count 8 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1.3 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "bedroom",
@@ -30,7 +31,13 @@
         "href": "/families/staycool/"
       }
     ],
-    "colors": [],
+    "colors": [
+      {
+        "key": "white",
+        "label": "White",
+        "href": "/colors/white/"
+      }
+    ],
     "materials": [
       {
         "key": "cotton",
@@ -108,6 +115,18 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "13-1-kg",
+        "valueLabel": "13.1 kg",
+        "href": "/attributes/logistics/package-weight/13-1-kg/",
+        "valueType": "enum",
+        "numericValue": 13.1,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "8-product",
@@ -139,18 +158,6 @@
         "href": "/attributes/logistics/weight/1-3-kg/",
         "valueType": "enum",
         "numericValue": 1.3,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "13-1-kg",
-        "valueLabel": "13.1 kg",
-        "href": "/attributes/logistics/weight/13-1-kg/",
-        "valueType": "enum",
-        "numericValue": 13.1,
         "unit": "kg"
       },
       {

@@ -1,0 +1,59 @@
+{
+  "familyTitle": "Sway",
+  "familySummary": "Sway rugs bring a multicolour look in Chenillepolyester, offered in two sizes for different room layouts and floor areas.",
+  "familyDescription": "The Sway rug family is designed in a multicolour palette and made from Chenillepolyester, giving each room a varied visual accent. Its low profile suits placement in living rooms, bedrooms, or other interior areas where a rug can help define a space. Choose between two sizes to match the scale of your room: 160 × 230 × 0.1 cm or 200 × 290 × 0.1 cm. Both versions share the same multicolour appearance and material, with the larger size offering broader floor coverage.",
+  "primaryImageUrl": "/products/rugs/sway/220983_7.avif",
+  "schemaCategory": "Rugs",
+  "variantCount": 2,
+  "productFamilyName": "Sway",
+  "productFamilyKey": "sway",
+  "productFamilyRelativeDir": "families/sway",
+  "filterData": {
+    "searchText": "Sway Sway rugs bring a multicolour look in Chenillepolyester, offered in two sizes for different room layouts and floor areas. Rugs Home Details Sway Home Details Rugs Sway Multicolour Chenillepolyester",
+    "collections": [
+      {
+        "key": "home-details",
+        "label": "Home Details",
+        "href": "/collections/storage-shelving"
+      }
+    ],
+    "categories": [
+      {
+        "key": "rugs",
+        "label": "Rugs",
+        "href": "/products/rugs/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "sway",
+        "label": "Sway",
+        "href": "/families/sway/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "multicolour",
+        "label": "Multicolour",
+        "href": "/colors/multicolour/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "chenillepolyester",
+        "label": "Chenillepolyester",
+        "href": "/materials/chenillepolyester/"
+      }
+    ],
+    "specifications": [],
+    "attributes": []
+  },
+  "sortData": {
+    "title": "Sway",
+    "summary": "Sway rugs bring a multicolour look in Chenillepolyester, offered in two sizes for different room layouts and floor areas.",
+    "variantCount": 2,
+    "categoryLabel": "Rugs",
+    "collectionLabel": "Home Details",
+    "productFamilyLabel": "Sway"
+  }
+}

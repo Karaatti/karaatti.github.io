@@ -24,27 +24,11 @@
     "variantCount": 1
   },
   {
-    "name": "islet",
-    "href": "/families/islet/",
-    "type": "dir",
-    "title": "Islet",
-    "schemaCategory": "Coffee Tables",
-    "variantCount": 1
-  },
-  {
     "name": "lyra",
     "href": "/families/lyra/",
     "type": "dir",
     "title": "Lyra",
     "schemaCategory": "Rugs",
-    "variantCount": 1
-  },
-  {
-    "name": "moon-bronze",
-    "href": "/families/moon-bronze/",
-    "type": "dir",
-    "title": "Moon Bronze",
-    "schemaCategory": "Headboards",
     "variantCount": 1
   },
   {

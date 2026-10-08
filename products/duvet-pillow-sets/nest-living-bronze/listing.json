@@ -1,14 +1,15 @@
 {
   "familyTitle": "Nest & Living Bronze Duvet Set",
   "familySummary": "Light duvet set with practical everyday comfort.",
-  "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
+  "familyDescription": "Light duvet set with practical everyday comfort.",
+  "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.avif",
   "schemaCategory": "Duvet & Pillow Sets",
   "variantCount": 1,
   "productFamilyName": "Nest & Living Bronze",
   "productFamilyKey": "nest-living-bronze",
   "productFamilyRelativeDir": "families/nest-living-bronze",
   "filterData": {
-    "searchText": "Nest & Living Bronze Duvet Set Light duvet set with practical everyday comfort. Duvet & Pillow Sets Bedroom Nest & Living Bronze Bedroom Duvet & Pillow Sets Nest & Living Bronze Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 3 cm cm Dimensions Pillow depth 50 cm cm Dimensions Pillow height 15 cm cm Dimensions Pillow width 60 cm cm Dimensions Width 150 cm cm Logistics Weight 2 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+    "searchText": "Nest & Living Bronze Duvet Set Light duvet set with practical everyday comfort. Duvet & Pillow Sets Bedroom Nest & Living Bronze Bedroom Duvet & Pillow Sets Nest & Living Bronze White Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 3 cm cm Dimensions Pillow depth 50 cm cm Dimensions Pillow height 15 cm cm Dimensions Pillow width 60 cm cm Dimensions Width 150 cm cm Logistics Weight 2 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "bedroom",
@@ -30,7 +31,13 @@
         "href": "/families/nest-living-bronze/"
       }
     ],
-    "colors": [],
+    "colors": [
+      {
+        "key": "white",
+        "label": "White",
+        "href": "/colors/white/"
+      }
+    ],
     "materials": [
       {
         "key": "cotton",

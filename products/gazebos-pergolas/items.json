@@ -3,12 +3,12 @@
     "name": "nordic",
     "href": "/products/gazebos-pergolas/nordic/",
     "type": "dir",
-    "title": "Nordic Gazebos & Pergolas",
-    "summary": "Nordic gazebo and pergola variants with adjustable slatted roofs, sturdy aluminium and steel frames, and terrace-ready shelter for outdoor living.",
-    "primaryImageUrl": "/products/gazebos-pergolas/nordic/206776_1.avif",
+    "title": "Nordic Pergolas",
+    "summary": "Nordic pergolas define an outdoor seating area, with square and rectangular options in beige or black for different garden layouts.",
+    "primaryImageUrl": "/products/gazebos-pergolas/nordic/206775_1.avif",
     "sourceHref": "/products/gazebos-pergolas/nordic/",
     "filterData": {
-      "searchText": "Nordic Gazebos & Pergolas Nordic gazebo and pergola variants with adjustable slatted roofs, sturdy aluminium and steel frames, and terrace-ready shelter for outdoor living. Gazebos & Pergolas Nordic Outdoor Gazebos & Pergolas Nordic Beige Black Aluminium Polyester Steel Dimensions Depth 300 cm cm Dimensions Height 250 cm cm Dimensions Width 300 cm cm Dimensions Width 392 cm cm Finish Surface finish Painted Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.13 m³ m³ Logistics Volume 0.17 m³ m³ Logistics Weight 31.5 kg kg Logistics Weight 49.5 kg kg Logistics Weight 68 kg kg Logistics Weight 120 kg kg Logistics Weight 144 kg kg Setup Assembly time 240 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Nordic Pergolas Nordic pergolas define an outdoor seating area, with square and rectangular options in beige or black for different garden layouts. Gazebos & Pergolas Nordic Outdoor Gazebos & Pergolas Nordic Beige Black Aluminium Polyester Steel Dimensions Depth 300 cm cm Dimensions Height 250 cm cm Dimensions Width 300 cm cm Dimensions Width 392 cm cm Finish Surface finish Painted Logistics Package count 1 package package Logistics Package weight 30.5 kg kg Logistics Package weight 31.5 kg kg Logistics Package weight 49.5 kg kg Logistics Package weight 68 kg kg Logistics Product count 1 product product Logistics Volume 0.13 m³ m³ Logistics Volume 0.17 m³ m³ Logistics Weight 120 kg kg Logistics Weight 144 kg kg Setup Assembly time 240 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -136,6 +136,54 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "30-5-kg",
+          "valueLabel": "30.5 kg",
+          "href": "/attributes/logistics/package-weight/30-5-kg/",
+          "valueType": "enum",
+          "numericValue": 30.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "31-5-kg",
+          "valueLabel": "31.5 kg",
+          "href": "/attributes/logistics/package-weight/31-5-kg/",
+          "valueType": "enum",
+          "numericValue": 31.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "49-5-kg",
+          "valueLabel": "49.5 kg",
+          "href": "/attributes/logistics/package-weight/49-5-kg/",
+          "valueType": "enum",
+          "numericValue": 49.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "68-kg",
+          "valueLabel": "68 kg",
+          "href": "/attributes/logistics/package-weight/68-kg/",
+          "valueType": "enum",
+          "numericValue": 68,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -168,42 +216,6 @@
           "valueType": "enum",
           "numericValue": 0.17,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "31-5-kg",
-          "valueLabel": "31.5 kg",
-          "href": "/attributes/logistics/weight/31-5-kg/",
-          "valueType": "enum",
-          "numericValue": 31.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "49-5-kg",
-          "valueLabel": "49.5 kg",
-          "href": "/attributes/logistics/weight/49-5-kg/",
-          "valueType": "enum",
-          "numericValue": 49.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "68-kg",
-          "valueLabel": "68 kg",
-          "href": "/attributes/logistics/weight/68-kg/",
-          "valueType": "enum",
-          "numericValue": 68,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -256,9 +268,9 @@
       ]
     },
     "sortData": {
-      "title": "Nordic Gazebos & Pergolas",
-      "summary": "Nordic gazebo and pergola variants with adjustable slatted roofs, sturdy aluminium and steel frames, and terrace-ready shelter for outdoor living.",
-      "variantCount": 3,
+      "title": "Nordic Pergolas",
+      "summary": "Nordic pergolas define an outdoor seating area, with square and rectangular options in beige or black for different garden layouts.",
+      "variantCount": 4,
       "categoryLabel": "Gazebos & Pergolas",
       "collectionLabel": "",
       "productFamilyLabel": "Nordic"

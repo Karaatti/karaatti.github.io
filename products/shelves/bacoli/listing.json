@@ -1,0 +1,79 @@
+{
+  "familyTitle": "Bacoli",
+  "familySummary": "Bacoli shelves pair a tall, cabinet-style profile with natural oak tones, offering a practical way to organise and display everyday items.",
+  "familyDescription": "The Bacoli collection brings a clean, vertical presence to shelving and display. With a natural oak finish, it suits spaces that call for a simple, understated look while helping keep books, objects and tableware neatly arranged. This family is defined by its cabinet-style form and balanced proportions, making it suitable for living areas, dining spaces or hallways. The design focuses on everyday storage and display, with materials and dimensions chosen to support a composed, streamlined appearance.",
+  "primaryImageUrl": "/products/shelves/bacoli/209394_1.avif",
+  "schemaCategory": "Shelves",
+  "variantCount": 1,
+  "productFamilyName": "Bacoli",
+  "productFamilyKey": "bacoli",
+  "productFamilyRelativeDir": "families/bacoli",
+  "filterData": {
+    "searchText": "Bacoli Bacoli shelves pair a tall, cabinet-style profile with natural oak tones, offering a practical way to organise and display everyday items. Shelves Home Details Bacoli Home Details Shelves Bacoli Beige MDF Melamine Particle board Plywood Wood veneer",
+    "collections": [
+      {
+        "key": "home-details",
+        "label": "Home Details",
+        "href": "/collections/storage-shelving"
+      }
+    ],
+    "categories": [
+      {
+        "key": "shelves",
+        "label": "Shelves",
+        "href": "/products/shelves/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "bacoli",
+        "label": "Bacoli",
+        "href": "/families/bacoli/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "beige",
+        "label": "Beige",
+        "href": "/colors/beige/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "mdf",
+        "label": "MDF",
+        "href": "/materials/mdf/"
+      },
+      {
+        "key": "melamine",
+        "label": "Melamine",
+        "href": "/materials/melamine/"
+      },
+      {
+        "key": "particle-board",
+        "label": "Particle board",
+        "href": "/materials/particle-board/"
+      },
+      {
+        "key": "plywood",
+        "label": "Plywood",
+        "href": "/materials/plywood/"
+      },
+      {
+        "key": "wood-veneer",
+        "label": "Wood veneer",
+        "href": "/materials/wood-veneer/"
+      }
+    ],
+    "specifications": [],
+    "attributes": []
+  },
+  "sortData": {
+    "title": "Bacoli",
+    "summary": "Bacoli shelves pair a tall, cabinet-style profile with natural oak tones, offering a practical way to organise and display everyday items.",
+    "variantCount": 1,
+    "categoryLabel": "Shelves",
+    "collectionLabel": "Home Details",
+    "productFamilyLabel": "Bacoli"
+  }
+}

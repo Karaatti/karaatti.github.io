@@ -1,0 +1,26 @@
+[
+  {
+    "name": "moon-bronze",
+    "href": "/families/moon-bronze/",
+    "type": "dir",
+    "title": "Moon Bronze",
+    "schemaCategory": "Headboards",
+    "variantCount": 2
+  },
+  {
+    "name": "reef",
+    "href": "/families/reef/",
+    "type": "dir",
+    "title": "Reef",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 2
+  },
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Continental Beds",
+    "variantCount": 1
+  }
+]

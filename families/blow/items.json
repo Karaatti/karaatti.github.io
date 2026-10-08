@@ -5,9 +5,9 @@
     "href": "/products/swivel-chairs/blow/",
     "type": "dir",
     "summary": "Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs.",
-    "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+    "primaryImageUrl": "/products/swivel-chairs/blow/198265_2.avif",
     "filterData": {
-      "searchText": "Blow Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs. Swivel Chairs Living room Blow Living room Swivel Chairs Blow Beige Grey Foam Metal Polyester Steel Care Cleaning method Dry clean Dimensions Depth 81 cm cm Dimensions Height 102 cm cm Dimensions Width 74 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 13.5 kg kg Logistics Weight 14 kg kg Padding Foam density 35 kg/m³ kg/m³ Seating Seat count 1 seat seat Seating Seat height 44 cm cm Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Blow Swivel chair with high back and wide armrests, available in beige or grey fabric with steel legs. Swivel Chairs Living room Blow Living room Swivel Chairs Blow Beige Grey Foam Metal Polyester Steel Care Cleaning method Dry clean Dimensions Depth 81 cm cm Dimensions Height 102 cm cm Dimensions Width 74 cm cm Logistics Package count 1 package package Logistics Package weight 14 kg kg Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 13.5 kg kg Padding Foam density 35 kg/m³ kg/m³ Seating Seat count 1 seat seat Seating Seat height 44 cm cm Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -128,6 +128,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "14-kg",
+          "valueLabel": "14 kg",
+          "href": "/attributes/logistics/package-weight/14-kg/",
+          "valueType": "enum",
+          "numericValue": 14,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -159,18 +171,6 @@
           "href": "/attributes/logistics/weight/13-5-kg/",
           "valueType": "enum",
           "numericValue": 13.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "14-kg",
-          "valueLabel": "14 kg",
-          "href": "/attributes/logistics/weight/14-kg/",
-          "valueType": "enum",
-          "numericValue": 14,
           "unit": "kg"
         },
         {

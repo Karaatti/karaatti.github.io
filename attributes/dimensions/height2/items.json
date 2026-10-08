@@ -1,10 +1,22 @@
 [
   {
+    "name": "33-cm",
+    "label": "33 cm",
+    "href": "/attributes/dimensions/height2/33-cm/",
+    "type": "dir",
+    "description": "33 cm is the published height 2 for the products listed here. The value appears on 2 Nest & Living product options across 1 product family. Examples include Coffee Table.",
+    "familyCount": 1,
+    "variantCount": 2,
+    "valueType": "measurement",
+    "numericValue": 33,
+    "unit": "cm"
+  },
+  {
     "name": "42-cm",
     "label": "42 cm",
     "href": "/attributes/dimensions/height2/42-cm/",
     "type": "dir",
-    "description": "42 cm is a published height 2 used across selected Nest & Living products. Common on Planter.",
+    "description": "42 cm is the published height 2 for the products listed here. The value appears on 1 Nest & Living product option across 1 product family. Examples include Planter.",
     "familyCount": 1,
     "variantCount": 1,
     "valueType": "measurement",

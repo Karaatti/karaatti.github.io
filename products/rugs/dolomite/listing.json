@@ -1,14 +1,15 @@
 {
   "familyTitle": "Dolomite",
-  "familySummary": "A soft and durable rug with a subtle stone-inspired pattern in versatile grey shades. Suitable for living rooms and bedrooms.",
-  "primaryImageUrl": "/products/rugs/dolomite/200730_1.avif",
+  "familySummary": "Dolomite rugs offer a multicolour look in a choice of sizes, helping you find the right proportions for your room.",
+  "familyDescription": "Choose a Dolomite rug to bring colour to a living room, dining area or bedroom. The range offers more than one size, so compare the selected rug with the footprint of your furniture. Check its materials and care instructions before choosing where to place it.",
+  "primaryImageUrl": "/products/rugs/dolomite/200729_1.avif",
   "schemaCategory": "Rugs",
-  "variantCount": 1,
+  "variantCount": 2,
   "productFamilyName": "Dolomite",
   "productFamilyKey": "dolomite",
   "productFamilyRelativeDir": "families/dolomite",
   "filterData": {
-    "searchText": "Dolomite A soft and durable rug with a subtle stone-inspired pattern in versatile grey shades. Suitable for living rooms and bedrooms. Rugs Home Details Dolomite Home Details Rugs Dolomite Dimensions Depth 290 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 9 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+    "searchText": "Dolomite Dolomite rugs offer a multicolour look in a choice of sizes, helping you find the right proportions for your room. Rugs Home Details Dolomite Home Details Rugs Dolomite Multicolour Dimensions Depth 290 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 9 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "home-details",
@@ -30,7 +31,13 @@
         "href": "/families/dolomite/"
       }
     ],
-    "colors": [],
+    "colors": [
+      {
+        "key": "multicolour",
+        "label": "Multicolour",
+        "href": "/colors/multicolour/"
+      }
+    ],
     "materials": [],
     "specifications": [],
     "attributes": [
@@ -134,8 +141,8 @@
   },
   "sortData": {
     "title": "Dolomite",
-    "summary": "A soft and durable rug with a subtle stone-inspired pattern in versatile grey shades. Suitable for living rooms and bedrooms.",
-    "variantCount": 1,
+    "summary": "Dolomite rugs offer a multicolour look in a choice of sizes, helping you find the right proportions for your room.",
+    "variantCount": 2,
     "categoryLabel": "Rugs",
     "collectionLabel": "Home Details",
     "productFamilyLabel": "Dolomite"

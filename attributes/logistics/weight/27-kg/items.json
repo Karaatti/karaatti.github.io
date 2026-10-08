@@ -4,16 +4,8 @@
     "href": "/families/moon-gold/",
     "type": "dir",
     "title": "Moon Gold",
-    "schemaCategory": "Continental Beds, Divan Beds and Mattresses",
-    "variantCount": 11
-  },
-  {
-    "name": "westcoast",
-    "href": "/families/westcoast/",
-    "type": "dir",
-    "title": "Westcoast",
-    "schemaCategory": "Corner Sofas",
-    "variantCount": 3
+    "schemaCategory": "Divan Beds and Mattresses",
+    "variantCount": 8
   },
   {
     "name": "island",
@@ -22,21 +14,5 @@
     "title": "Island",
     "schemaCategory": "Coffee Tables",
     "variantCount": 2
-  },
-  {
-    "name": "moon-silver",
-    "href": "/families/moon-silver/",
-    "type": "dir",
-    "title": "Moon Silver",
-    "schemaCategory": "Continental Beds",
-    "variantCount": 2
-  },
-  {
-    "name": "house-nordic-derby",
-    "href": "/families/house-nordic-derby/",
-    "type": "dir",
-    "title": "House Nordic Derby",
-    "schemaCategory": "Outdoor Sun Loungers",
-    "variantCount": 1
   }
 ]

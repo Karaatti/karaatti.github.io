@@ -1,6 +1,7 @@
 {
   "familyTitle": "House Nordic Derby Outdoor Sun Lounger",
   "familySummary": "Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside.",
+  "familyDescription": "The House Nordic Derby sun lounger offers a blend of natural teak warmth and airy polyrattan comfort. Its adjustable backrest allows for personalized seating positions. The minimalist design fits well in both modern and classic outdoor settings.",
   "primaryImageUrl": "/products/outdoor-sun-loungers/house-nordic-derby/201119_1.avif",
   "schemaCategory": "Outdoor Sun Loungers",
   "variantCount": 1,
@@ -8,7 +9,7 @@
   "productFamilyKey": "house-nordic-derby",
   "productFamilyRelativeDir": "families/house-nordic-derby",
   "filterData": {
-    "searchText": "House Nordic Derby Outdoor Sun Lounger Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside. Outdoor Sun Loungers Outdoor House Nordic Derby Outdoor Outdoor Sun Loungers House Nordic Derby Beige Polyrattan Teak Wood Dimensions Depth 190 cm cm Dimensions Height 38 cm cm Dimensions Width 65 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.5 m³ m³ Logistics Weight 22.5 kg kg Logistics Weight 27 kg kg Seating Seat depth 65 cm cm Seating Seat height 38 cm cm Seating Seat width 65 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+    "searchText": "House Nordic Derby Outdoor Sun Lounger Outdoor sun lounger with a sturdy teak frame and light beige polyrattan seating. Features an adjustable backrest and low legs, suitable for terraces or poolside. Outdoor Sun Loungers Outdoor House Nordic Derby Outdoor Outdoor Sun Loungers House Nordic Derby Beige Polyrattan Teak Wood Dimensions Depth 190 cm cm Dimensions Height 38 cm cm Dimensions Width 65 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Package weight 27 kg kg Logistics Product count 1 product product Logistics Volume 0.5 m³ m³ Logistics Weight 22.5 kg kg Seating Seat depth 65 cm cm Seating Seat height 38 cm cm Seating Seat width 65 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "outdoor",
@@ -119,6 +120,18 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "27-kg",
+        "valueLabel": "27 kg",
+        "href": "/attributes/logistics/package-weight/27-kg/",
+        "valueType": "enum",
+        "numericValue": 27,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "1-product",
@@ -150,18 +163,6 @@
         "href": "/attributes/logistics/weight/22-5-kg/",
         "valueType": "enum",
         "numericValue": 22.5,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "27-kg",
-        "valueLabel": "27 kg",
-        "href": "/attributes/logistics/weight/27-kg/",
-        "valueType": "enum",
-        "numericValue": 27,
         "unit": "kg"
       },
       {

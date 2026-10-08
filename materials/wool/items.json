@@ -14,5 +14,13 @@
     "title": "Saaga",
     "schemaCategory": "Rugs",
     "variantCount": 2
+  },
+  {
+    "name": "wooly",
+    "href": "/products/duvets/wooly/",
+    "type": "dir",
+    "title": "Wooly",
+    "schemaCategory": "Duvets and Pillows",
+    "variantCount": 2
   }
 ]

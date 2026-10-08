@@ -1,11 +1,11 @@
 [
   {
     "name": "metz",
-    "href": "/products/dining-tables/metz/",
+    "href": "/products/coffee-tables/metz/",
     "type": "dir",
     "title": "Metz",
-    "schemaCategory": "Dining Tables",
-    "variantCount": 4
+    "schemaCategory": "Coffee Tables and Dining Tables",
+    "variantCount": 8
   },
   {
     "name": "eagle",
@@ -38,6 +38,22 @@
     "title": "Mystery",
     "schemaCategory": "Shelves",
     "variantCount": 2
+  },
+  {
+    "name": "niela",
+    "href": "/products/dining-chairs/niela/",
+    "type": "dir",
+    "title": "Niela",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 2
+  },
+  {
+    "name": "livo",
+    "href": "/products/dining-chairs/livo/",
+    "type": "dir",
+    "title": "Livo",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 1
   },
   {
     "name": "oak",

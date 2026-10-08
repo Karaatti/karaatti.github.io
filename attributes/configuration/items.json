@@ -5,24 +5,9 @@
     "href": "/attributes/configuration/handedness/",
     "type": "dir",
     "entryCount": 2,
-    "variantCount": 36,
-    "valueType": "measurement",
-    "numericFilter": {
-      "numericEntryCount": 2,
-      "unitCount": 1,
-      "units": [
-        ""
-      ],
-      "ranges": [
-        {
-          "unit": "",
-          "min": 0,
-          "max": 0,
-          "count": 2,
-          "distinctCount": 1
-        }
-      ]
-    }
+    "variantCount": 35,
+    "valueType": "enum",
+    "numericFilter": null
   },
   {
     "name": "handedness-configuration",
@@ -31,23 +16,8 @@
     "type": "dir",
     "entryCount": 3,
     "variantCount": 41,
-    "valueType": "measurement",
-    "numericFilter": {
-      "numericEntryCount": 3,
-      "unitCount": 1,
-      "units": [
-        ""
-      ],
-      "ranges": [
-        {
-          "unit": "",
-          "min": 0,
-          "max": 0,
-          "count": 3,
-          "distinctCount": 1
-        }
-      ]
-    }
+    "valueType": "enum",
+    "numericFilter": null
   },
   {
     "name": "leg-height",

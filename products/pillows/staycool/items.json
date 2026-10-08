@@ -2,26 +2,34 @@
   {
     "sku": "214012",
     "name": "214012",
-    "title": "Staycool Pillow, 60 x 50 x 15 cm",
-    "variantSummary": "60 x 50 x 15 cm",
+    "title": "Staycool Pillow",
+    "variantSummary": "50 × 60 cm / White",
     "shortDescription": "Cooling pillows and pillow protectors from the Staycool series.",
     "selectionAttributes": {
-      "dimensions": "60 x 50 x 15 cm",
+      "dimensions": "50 × 60 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "",
-      "material": "Polyester, Cotton"
+      "color": "White",
+      "material": "Polyester, Cotton",
+      "productType": "Pillow",
+      "productTypeNote": "",
+      "productNoun": "Pillow",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "productType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/pillows/staycool/214012_1.jpg",
-    "imageUrl": "/products/pillows/staycool/214012_1.jpg",
+    "primaryImageUrl": "/products/pillows/staycool/214012_2.avif",
+    "imageUrl": "/products/pillows/staycool/214012_2.avif",
     "imageUrls": [
-      "/products/pillows/staycool/214012_1.jpg",
-      "/products/pillows/staycool/214012_2.jpg"
+      "/products/pillows/staycool/214012_2.avif",
+      "/products/pillows/staycool/214012_1.avif"
     ],
     "href": "/products/pillows/staycool/214012",
     "type": "file",
     "filterData": {
-      "searchText": "Staycool Pillow, 60 x 50 x 15 cm Cooling pillows and pillow protectors from the Staycool series. Pillows Bedroom Staycool Bedroom Pillows Staycool Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Height 15 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Product count 10 product product Logistics Volume 0.22 m³ m³ Logistics Weight 9.4 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Staycool Pillow Cooling pillows and pillow protectors from the Staycool series. Pillows Bedroom Staycool Bedroom Pillows Staycool White Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Height 15 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Package weight 9.4 kg kg Logistics Product count 10 product product Logistics Volume 0.22 m³ m³ Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -43,7 +51,13 @@
           "href": "/families/staycool/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -121,6 +135,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "9-4-kg",
+          "valueLabel": "9.4 kg",
+          "href": "/attributes/logistics/package-weight/9-4-kg/",
+          "valueType": "enum",
+          "numericValue": 9.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "10-product",
@@ -141,18 +167,6 @@
           "valueType": "enum",
           "numericValue": 0.22,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "9-4-kg",
-          "valueLabel": "9.4 kg",
-          "href": "/attributes/logistics/weight/9-4-kg/",
-          "valueType": "enum",
-          "numericValue": 9.4,
-          "unit": "kg"
         },
         {
           "groupKey": "setup",
@@ -181,7 +195,7 @@
       ]
     },
     "sortData": {
-      "title": "Staycool Pillow, 60 x 50 x 15 cm",
+      "title": "Staycool Pillow",
       "summary": "Cooling pillows and pillow protectors from the Staycool series.",
       "variantCount": 1,
       "categoryLabel": "Pillows",
@@ -192,26 +206,34 @@
   {
     "sku": "214014",
     "name": "214014",
-    "title": "Staycool Pillow, 60 x 50 x 1 cm",
-    "variantSummary": "60 x 50 x 1 cm",
+    "title": "Staycool Pillow Protector",
+    "variantSummary": "50 × 60 cm / White",
     "shortDescription": "Cooling pillows and pillow protectors from the Staycool series.",
     "selectionAttributes": {
-      "dimensions": "60 x 50 x 1 cm",
+      "dimensions": "50 × 60 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "",
-      "material": "Polyester, Cotton"
+      "color": "White",
+      "material": "Polyester, Cotton",
+      "productType": "Pillow protector",
+      "productTypeNote": "",
+      "productNoun": "Pillow protector",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "productType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/pillows/staycool/214014_1.jpg",
-    "imageUrl": "/products/pillows/staycool/214014_1.jpg",
+    "primaryImageUrl": "/products/pillows/staycool/214014_2.avif",
+    "imageUrl": "/products/pillows/staycool/214014_2.avif",
     "imageUrls": [
-      "/products/pillows/staycool/214014_1.jpg",
-      "/products/pillows/staycool/214014_2.jpg"
+      "/products/pillows/staycool/214014_2.avif",
+      "/products/pillows/staycool/214014_1.avif"
     ],
     "href": "/products/pillows/staycool/214014",
     "type": "file",
     "filterData": {
-      "searchText": "Staycool Pillow, 60 x 50 x 1 cm Cooling pillows and pillow protectors from the Staycool series. Pillows Bedroom Staycool Bedroom Pillows Staycool Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Height 1 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Product count 20 product product Logistics Volume 0.04 m³ m³ Logistics Weight 4 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Staycool Pillow Protector Cooling pillows and pillow protectors from the Staycool series. Pillows Bedroom Staycool Bedroom Pillows Staycool White Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Height 1 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Package weight 4 kg kg Logistics Product count 20 product product Logistics Volume 0.04 m³ m³ Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -233,7 +255,13 @@
           "href": "/families/staycool/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -311,6 +339,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "4-kg",
+          "valueLabel": "4 kg",
+          "href": "/attributes/logistics/package-weight/4-kg/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "20-product",
@@ -331,18 +371,6 @@
           "valueType": "enum",
           "numericValue": 0.04,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "4-kg",
-          "valueLabel": "4 kg",
-          "href": "/attributes/logistics/weight/4-kg/",
-          "valueType": "enum",
-          "numericValue": 4,
-          "unit": "kg"
         },
         {
           "groupKey": "setup",
@@ -371,7 +399,7 @@
       ]
     },
     "sortData": {
-      "title": "Staycool Pillow, 60 x 50 x 1 cm",
+      "title": "Staycool Pillow Protector",
       "summary": "Cooling pillows and pillow protectors from the Staycool series.",
       "variantCount": 1,
       "categoryLabel": "Pillows",

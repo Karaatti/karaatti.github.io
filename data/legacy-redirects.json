@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-05T13:46:00.201Z",
+  "generatedAt": "2026-09-25T06:46:28.366Z",
   "source": "https://nestliving.dk/sitemap.xml",
   "liveUrlCount": 307,
-  "redirectCount": 406,
+  "redirectCount": 414,
   "unresolved": [],
   "redirects": {
     "/products/bedroom-furniture": "/collections/bedroom",
@@ -410,6 +410,14 @@
     "/products/textiles/other-bedroom-textiles/nest-living/202646.html": "/products/mattress-protectors/nest-living/202646",
     "/products/textiles/other-bedroom-textiles/nest-living/202646": "/products/mattress-protectors/nest-living/202646",
     "/products/textiles/other-bedroom-textiles/nest-living/202647.html": "/products/mattress-protectors/nest-living/202647",
-    "/products/textiles/other-bedroom-textiles/nest-living/202647": "/products/mattress-protectors/nest-living/202647"
+    "/products/textiles/other-bedroom-textiles/nest-living/202647": "/products/mattress-protectors/nest-living/202647",
+    "/products/coffee-tables/stavanger": "/products/outdoor-coffee-tables/stavanger",
+    "/products/coffee-tables/stavanger/197629": "/products/outdoor-coffee-tables/stavanger/197629",
+    "/products/swivel-chairs/haven": "/products/outdoor-lounge-seating/haven",
+    "/products/swivel-chairs/haven/197628": "/products/outdoor-lounge-seating/haven/197628",
+    "/products/adjustable-beds/moon-silver/197644": "/products/adjustable-beds/moon-silver/200291",
+    "/products/dining-tables/metz/180654": "/products/dining-tables/metz/208711",
+    "/products/dining-tables/metz/188364": "/products/dining-tables/metz/208712",
+    "/products/dining-tables/metz/191017": "/products/dining-tables/metz/208715"
   }
 }

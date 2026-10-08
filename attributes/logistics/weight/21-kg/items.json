@@ -5,15 +5,7 @@
     "type": "dir",
     "title": "Moon Silver",
     "schemaCategory": "Headboards",
-    "variantCount": 4
-  },
-  {
-    "name": "moon-gold",
-    "href": "/families/moon-gold/",
-    "type": "dir",
-    "title": "Moon Gold",
-    "schemaCategory": "Headboards",
-    "variantCount": 2
+    "variantCount": 3
   },
   {
     "name": "reef",
@@ -22,14 +14,6 @@
     "title": "Reef",
     "schemaCategory": "Coffee Tables",
     "variantCount": 2
-  },
-  {
-    "name": "metz",
-    "href": "/families/metz/",
-    "type": "dir",
-    "title": "Metz",
-    "schemaCategory": "Dining Tables",
-    "variantCount": 1
   },
   {
     "name": "moon-bronze",

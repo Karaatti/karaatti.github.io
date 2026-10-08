@@ -5,10 +5,10 @@
     "type": "dir",
     "title": "Haven",
     "summary": "Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies.",
-    "primaryImageUrl": "/products/outdoor-lounge-sets/haven/197627_1.avif",
+    "primaryImageUrl": "/products/outdoor-lounge-sets/haven/197627_2.avif",
     "sourceHref": "/products/outdoor-lounge-sets/haven/",
     "filterData": {
-      "searchText": "Haven Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies. Outdoor Lounge Sets Haven Outdoor Outdoor Lounge Sets Haven Beige Brown Aluminium Glass Polyrattan Dimensions Depth 236 cm cm Dimensions Height 86 cm cm Dimensions Set piece depth 110 cm cm Dimensions Set piece height 65 cm cm Dimensions Set piece height 86 cm cm Dimensions Set piece width 75 cm cm Dimensions Set piece width 110 cm cm Dimensions Width 185 cm cm Dimensions Width 236 cm cm Load Maximum load 100 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.05 m³ m³ Logistics Volume 1.37 m³ m³ Logistics Weight 25 kg kg Logistics Weight 37 kg kg Logistics Weight 47 kg kg Logistics Weight 68 kg kg Padding Seat cushion thickness 8 cm cm Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Haven Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies. Outdoor Lounge Sets Haven Outdoor Outdoor Lounge Sets Haven Beige Brown Aluminium Glass Polyrattan Dimensions Depth 236 cm cm Dimensions Height 86 cm cm Dimensions Set piece depth 110 cm cm Dimensions Set piece height 65 cm cm Dimensions Set piece height 86 cm cm Dimensions Set piece width 75 cm cm Dimensions Set piece width 110 cm cm Dimensions Width 185 cm cm Dimensions Width 236 cm cm Load Maximum load 100 kg kg Logistics Package count 1 package package Logistics Package weight 25 kg kg Logistics Package weight 47 kg kg Logistics Product count 1 product product Logistics Volume 1.05 m³ m³ Logistics Volume 1.37 m³ m³ Logistics Weight 37 kg kg Logistics Weight 68 kg kg Padding Seat cushion thickness 8 cm cm Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -196,6 +196,30 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "47-kg",
+          "valueLabel": "47 kg",
+          "href": "/attributes/logistics/package-weight/47-kg/",
+          "valueType": "enum",
+          "numericValue": 47,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -234,35 +258,11 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "37-kg",
           "valueLabel": "37 kg",
           "href": "/attributes/logistics/weight/37-kg/",
           "valueType": "enum",
           "numericValue": 37,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "47-kg",
-          "valueLabel": "47 kg",
-          "href": "/attributes/logistics/weight/47-kg/",
-          "valueType": "enum",
-          "numericValue": 47,
           "unit": "kg"
         },
         {
@@ -330,10 +330,10 @@
     "type": "dir",
     "title": "Nordic Outdoor Lounge Set",
     "summary": "Outdoor lounge set configurations from the Nordic collection with white aluminium frames, beige cushions, and selected layouts with integrated coffee tables.",
-    "primaryImageUrl": "/products/outdoor-lounge-sets/nordic/MYYKESA2211_1.avif",
+    "primaryImageUrl": "/products/outdoor-lounge-sets/nordic/MYYKESA2211_2.avif",
     "sourceHref": "/products/outdoor-lounge-sets/nordic/",
     "filterData": {
-      "searchText": "Nordic Outdoor Lounge Set Outdoor lounge set configurations from the Nordic collection with white aluminium frames, beige cushions, and selected layouts with integrated coffee tables. Outdoor Lounge Sets Nordic Outdoor Outdoor Lounge Sets Nordic Beige White Aluminium Fabric Plastic Dimensions Depth 246 cm cm Dimensions Height 61 cm cm Dimensions Width 246 cm cm Dimensions Width 328 cm cm Logistics Package count 1 package package Logistics Package count 2 package package Logistics Package count 3 package package Logistics Product count 1 product product Logistics Volume 0.12 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Volume 0.31 m³ m³ Logistics Volume 0.33 m³ m³ Logistics Weight 11 kg kg Logistics Weight 12 kg kg Logistics Weight 13 kg kg Logistics Weight 14 kg kg Logistics Weight 51.5 kg kg Logistics Weight 55.5 kg kg Logistics Weight 57 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Nordic Outdoor Lounge Set Outdoor lounge set configurations from the Nordic collection with white aluminium frames, beige cushions, and selected layouts with integrated coffee tables. Outdoor Lounge Sets Nordic Outdoor Outdoor Lounge Sets Nordic Beige White Aluminium Fabric Plastic Dimensions Depth 246 cm cm Dimensions Height 61 cm cm Dimensions Width 246 cm cm Dimensions Width 328 cm cm Logistics Package count 1 package package Logistics Package count 2 package package Logistics Package count 3 package package Logistics Package weight 11 kg kg Logistics Package weight 12 kg kg Logistics Package weight 13 kg kg Logistics Package weight 14 kg kg Logistics Product count 1 product product Logistics Volume 0.12 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Volume 0.31 m³ m³ Logistics Volume 0.33 m³ m³ Logistics Weight 51.5 kg kg Logistics Weight 55.5 kg kg Logistics Weight 57 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -473,6 +473,54 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "11-kg",
+          "valueLabel": "11 kg",
+          "href": "/attributes/logistics/package-weight/11-kg/",
+          "valueType": "enum",
+          "numericValue": 11,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "12-kg",
+          "valueLabel": "12 kg",
+          "href": "/attributes/logistics/package-weight/12-kg/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "13-kg",
+          "valueLabel": "13 kg",
+          "href": "/attributes/logistics/package-weight/13-kg/",
+          "valueType": "enum",
+          "numericValue": 13,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "14-kg",
+          "valueLabel": "14 kg",
+          "href": "/attributes/logistics/package-weight/14-kg/",
+          "valueType": "enum",
+          "numericValue": 14,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -529,54 +577,6 @@
           "valueType": "enum",
           "numericValue": 0.33,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "11-kg",
-          "valueLabel": "11 kg",
-          "href": "/attributes/logistics/weight/11-kg/",
-          "valueType": "enum",
-          "numericValue": 11,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "12-kg",
-          "valueLabel": "12 kg",
-          "href": "/attributes/logistics/weight/12-kg/",
-          "valueType": "enum",
-          "numericValue": 12,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "13-kg",
-          "valueLabel": "13 kg",
-          "href": "/attributes/logistics/weight/13-kg/",
-          "valueType": "enum",
-          "numericValue": 13,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "14-kg",
-          "valueLabel": "14 kg",
-          "href": "/attributes/logistics/weight/14-kg/",
-          "valueType": "enum",
-          "numericValue": 14,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -655,7 +655,7 @@
     "type": "dir",
     "title": "Palazzo",
     "summary": "A modern and airy outdoor sofa set featuring a three-seat sofa, two armchairs, and lightweight tables. Designed for comfort and easy maintenance.",
-    "primaryImageUrl": "/products/outdoor-lounge-sets/palazzo/208993_1.avif",
+    "primaryImageUrl": "/products/outdoor-lounge-sets/palazzo/208993_5.avif",
     "sourceHref": "/products/outdoor-lounge-sets/palazzo/",
     "filterData": {
       "searchText": "Palazzo A modern and airy outdoor sofa set featuring a three-seat sofa, two armchairs, and lightweight tables. Designed for comfort and easy maintenance. Outdoor Lounge Sets Palazzo Outdoor Outdoor Lounge Sets Palazzo Beige Black Foam Polyester Steel Textilene Care Removable covers Yes Dimensions Depth 84 cm cm Dimensions Height 74 cm cm Dimensions Set piece depth 84 cm cm Dimensions Set piece height 74 cm cm Dimensions Set piece width 70 cm cm Dimensions Width 210 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.73 m³ m³ Logistics Weight 66 kg kg Setup Assembly time 60 min min Warranty Quality guarantee 1000 days days",

@@ -1,0 +1,85 @@
+[
+  {
+    "sku": "221940",
+    "name": "221940",
+    "title": "Stayergo Shape Pillow",
+    "variantSummary": "34 × 50.5 cm / White",
+    "shortDescription": "Stayergo Shape Pillow in White, sized 50.5 × 34 × 10.5 cm, made from Cotton and Polyester for a compact rectangular pillow format.",
+    "selectionAttributes": {
+      "dimensions": "34 × 50.5 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "White",
+      "material": "Cotton, Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Pillow",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
+    },
+    "primaryImageUrl": "/products/pillows/stayergo-shape/221940_2.avif",
+    "imageUrl": "/products/pillows/stayergo-shape/221940_2.avif",
+    "imageUrls": [
+      "/products/pillows/stayergo-shape/221940_2.avif",
+      "/products/pillows/stayergo-shape/221940_1.avif"
+    ],
+    "href": "/products/pillows/stayergo-shape/221940",
+    "type": "file",
+    "filterData": {
+      "searchText": "Stayergo Shape Pillow Stayergo Shape Pillow in White, sized 50.5 × 34 × 10.5 cm, made from Cotton and Polyester for a compact rectangular pillow format. Pillows Bedroom Stayergo Shape Bedroom Pillows Stayergo Shape White Cotton Polyester",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "pillows",
+          "label": "Pillows",
+          "href": "/products/pillows/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "stayergo-shape",
+          "label": "Stayergo Shape",
+          "href": "/families/stayergo-shape/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Stayergo Shape Pillow",
+      "summary": "Stayergo Shape Pillow in White, sized 50.5 × 34 × 10.5 cm, made from Cotton and Polyester for a compact rectangular pillow format.",
+      "variantCount": 1,
+      "categoryLabel": "Pillows",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Stayergo Shape"
+    }
+  }
+]

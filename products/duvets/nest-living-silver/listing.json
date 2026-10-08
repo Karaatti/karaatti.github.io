@@ -1,14 +1,15 @@
 {
   "familyTitle": "Nest & Living Silver Duvet",
   "familySummary": "Duvets selected for everyday warmth, breathable fabrics, and practical bedroom use.",
-  "primaryImageUrl": "/products/duvets/nest-living-silver/201093_1.jpg",
+  "familyDescription": "Duvets selected for everyday warmth, breathable fabrics, and practical bedroom use.",
+  "primaryImageUrl": "/products/duvets/nest-living-silver/201093_1.avif",
   "schemaCategory": "Duvets",
   "variantCount": 1,
   "productFamilyName": "Nest & Living Silver",
   "productFamilyKey": "nest-living-silver",
   "productFamilyRelativeDir": "families/nest-living-silver",
   "filterData": {
-    "searchText": "Nest & Living Silver Duvet Duvets selected for everyday warmth, breathable fabrics, and practical bedroom use. Duvets Bedroom Nest & Living Silver Bedroom Duvets Nest & Living Silver Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 3 cm cm Dimensions Width 150 cm cm Logistics Weight 1.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+    "searchText": "Nest & Living Silver Duvet Duvets selected for everyday warmth, breathable fabrics, and practical bedroom use. Duvets Bedroom Nest & Living Silver Bedroom Duvets Nest & Living Silver White Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 3 cm cm Dimensions Width 150 cm cm Logistics Weight 1.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "bedroom",
@@ -30,7 +31,13 @@
         "href": "/families/nest-living-silver/"
       }
     ],
-    "colors": [],
+    "colors": [
+      {
+        "key": "white",
+        "label": "White",
+        "href": "/colors/white/"
+      }
+    ],
     "materials": [
       {
         "key": "cotton",

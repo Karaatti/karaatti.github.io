@@ -32,14 +32,6 @@
     "variantCount": 1
   },
   {
-    "name": "cloud",
-    "href": "/families/cloud/",
-    "type": "dir",
-    "title": "Cloud",
-    "schemaCategory": "Corner Sofas",
-    "variantCount": 1
-  },
-  {
     "name": "saarni",
     "href": "/families/saarni/",
     "type": "dir",

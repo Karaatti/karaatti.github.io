@@ -5,9 +5,9 @@
     "href": "/products/three-seater-sofas/voyage/",
     "type": "dir",
     "summary": "A spacious and comfortable 3-seater sofa with a solid wood frame and soft foam and feather cushioning. Available in white and green fabric upholstery.",
-    "primaryImageUrl": "/products/three-seater-sofas/voyage/208782_1.avif",
+    "primaryImageUrl": "/products/three-seater-sofas/voyage/208782_10.avif",
     "filterData": {
-      "searchText": "Voyage A spacious and comfortable 3-seater sofa with a solid wood frame and soft foam and feather cushioning. Available in white and green fabric upholstery. 3-Seater Sofas Living room Voyage Living room 3-Seater Sofas Voyage Green White Feather Foam Plastic Plywood Solid wood Care Cleaning method Water wash Care Removable covers Yes Dimensions Depth 88 cm cm Dimensions Height 88 cm cm Dimensions Width 220 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Weight 50 kg kg Logistics Weight 60 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Voyage A spacious and comfortable 3-seater sofa with a solid wood frame and soft foam and feather cushioning. Available in white and green fabric upholstery. 3-Seater Sofas Living room Voyage Living room 3-Seater Sofas Voyage Green White Feather Foam Plastic Plywood Solid wood Care Cleaning method Water wash Care Removable covers Yes Dimensions Depth 88 cm cm Dimensions Height 88 cm cm Dimensions Width 220 cm cm Logistics Package count 1 package package Logistics Package weight 60 kg kg Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Weight 50 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -145,6 +145,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "60-kg",
+          "valueLabel": "60 kg",
+          "href": "/attributes/logistics/package-weight/60-kg/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -176,18 +188,6 @@
           "href": "/attributes/logistics/weight/50-kg/",
           "valueType": "enum",
           "numericValue": 50,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "60-kg",
-          "valueLabel": "60 kg",
-          "href": "/attributes/logistics/weight/60-kg/",
-          "valueType": "enum",
-          "numericValue": 60,
           "unit": "kg"
         },
         {
@@ -243,7 +243,7 @@
     "href": "/products/armchairs/voyage/",
     "type": "dir",
     "summary": "A fixed armchair with a solid wood frame, soft foam and feather seat, and removable cotton covers in white or green.",
-    "primaryImageUrl": "/products/armchairs/voyage/208784_1.avif",
+    "primaryImageUrl": "/products/armchairs/voyage/208784_2.avif",
     "filterData": {
       "searchText": "Voyage A fixed armchair with a solid wood frame, soft foam and feather seat, and removable cotton covers in white or green. Armchairs Living room Voyage Living room Armchairs Voyage Green White Feather Foam Plastic Plywood Solid wood Care Cleaning method Water wash Care Removable covers Yes Dimensions Depth 88 cm cm Dimensions Height 88 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.36 m³ m³ Logistics Weight 30 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
       "collections": [

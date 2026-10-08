@@ -2,39 +2,41 @@
   {
     "sku": "191882",
     "name": "191882",
-    "title": "Sevilla Rug, 60 x 120 cm",
-    "variantSummary": "60 x 120 cm / Red",
+    "title": "Sevilla Rug, 60 × 120 cm",
+    "variantSummary": "60 × 120 cm / Red",
     "shortDescription": "60 x 120 cm, Red, Polypropylene. Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
     "selectionAttributes": {
-      "dimensions": "60 x 120 cm",
+      "dimensions": "60 × 120 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Red",
-      "material": "Polypropylene"
+      "material": "Polypropylene",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Rug",
+      "colorLabel": "Red",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
     "imageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
     "imageUrls": [
       "/products/rugs/sevilla/sevilla_rug_red_1.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_2.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_3.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_4.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_5.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_6.avif",
       "/products/rugs/sevilla/sevilla_rug_red_7.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_9.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_8.jpg",
-      "/products/rugs/sevilla/191882_1.jpg",
-      "/products/rugs/sevilla/191882_2.jpg",
-      "/products/rugs/sevilla/191882_3.jpg",
-      "/products/rugs/sevilla/191882_4.jpg",
-      "/products/rugs/sevilla/191882_5.jpg",
-      "/products/rugs/sevilla/191882_6.jpg"
+      "/products/rugs/sevilla/sevilla_rug_red_5.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_2.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_4.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_6.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_8-mood.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_3.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_9.avif"
     ],
     "href": "/products/rugs/sevilla/191882",
     "type": "file",
     "filterData": {
-      "searchText": "Sevilla Rug, 60 x 120 cm 60 x 120 cm, Red, Polypropylene. Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors. Rugs Home Details Sevilla Home Details Rugs Sevilla Red Polypropylene Dimensions Depth 120 cm cm Dimensions Height 1 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Weight 1.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Sevilla Rug, 60 × 120 cm 60 x 120 cm, Red, Polypropylene. Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors. Rugs Home Details Sevilla Home Details Rugs Sevilla Red Polypropylene Dimensions Depth 120 cm cm Dimensions Height 1 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Weight 1.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -195,7 +197,7 @@
       ]
     },
     "sortData": {
-      "title": "Sevilla Rug, 60 x 120 cm",
+      "title": "Sevilla Rug, 60 × 120 cm",
       "summary": "60 x 120 cm, Red, Polypropylene. Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
       "variantCount": 1,
       "categoryLabel": "Rugs",
@@ -206,39 +208,42 @@
   {
     "sku": "191883",
     "name": "191883",
-    "title": "Sevilla Rug, 80 x 150 cm",
-    "variantSummary": "80 x 150 cm / Red",
+    "title": "Sevilla Rug, 80 × 150 cm",
+    "variantSummary": "80 × 150 cm / Red",
     "shortDescription": "80 x 150 cm, Red, Polypropylene. Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
     "selectionAttributes": {
-      "dimensions": "80 x 150 cm",
+      "dimensions": "80 × 150 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Red",
-      "material": "Polypropylene"
+      "material": "Polypropylene",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Rug",
+      "colorLabel": "Red",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
     "imageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
     "imageUrls": [
       "/products/rugs/sevilla/sevilla_rug_red_1.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_2.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_3.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_4.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_5.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_6.avif",
       "/products/rugs/sevilla/sevilla_rug_red_7.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_9.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_8.jpg",
-      "/products/rugs/sevilla/191883_1.avif",
-      "/products/rugs/sevilla/191883_2.avif",
-      "/products/rugs/sevilla/191883_3.avif",
-      "/products/rugs/sevilla/191883_4.avif",
-      "/products/rugs/sevilla/191883_5.avif",
-      "/products/rugs/sevilla/191883_6.avif"
+      "/products/rugs/sevilla/sevilla_rug_red_5.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_2.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_4.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_6.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_8-mood.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_8.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_3.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_9.avif"
     ],
     "href": "/products/rugs/sevilla/191883",
     "type": "file",
     "filterData": {
-      "searchText": "Sevilla Rug, 80 x 150 cm 80 x 150 cm, Red, Polypropylene. Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors. Rugs Home Details Sevilla Home Details Rugs Sevilla Red Polypropylene Dimensions Depth 150 cm cm Dimensions Height 1 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Weight 2 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Sevilla Rug, 80 × 150 cm 80 x 150 cm, Red, Polypropylene. Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors. Rugs Home Details Sevilla Home Details Rugs Sevilla Red Polypropylene Dimensions Depth 150 cm cm Dimensions Height 1 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Weight 2 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -399,7 +404,7 @@
       ]
     },
     "sortData": {
-      "title": "Sevilla Rug, 80 x 150 cm",
+      "title": "Sevilla Rug, 80 × 150 cm",
       "summary": "80 x 150 cm, Red, Polypropylene. Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
       "variantCount": 1,
       "categoryLabel": "Rugs",
@@ -410,39 +415,41 @@
   {
     "sku": "191884",
     "name": "191884",
-    "title": "Sevilla Rug, 160 x 230 cm",
-    "variantSummary": "160 x 230 cm / Red",
+    "title": "Sevilla Rug, 160 × 230 cm",
+    "variantSummary": "160 × 230 cm / Red",
     "shortDescription": "160 x 230 cm, Red, Polypropylene. Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
     "selectionAttributes": {
-      "dimensions": "160 x 230 cm",
+      "dimensions": "160 × 230 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Red",
-      "material": "Polypropylene"
+      "material": "Polypropylene",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Rug",
+      "colorLabel": "Red",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
     "imageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
     "imageUrls": [
       "/products/rugs/sevilla/sevilla_rug_red_1.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_2.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_3.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_4.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_5.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_6.avif",
       "/products/rugs/sevilla/sevilla_rug_red_7.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_9.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_8.jpg",
-      "/products/rugs/sevilla/191884_1.jpg",
-      "/products/rugs/sevilla/191884_2.jpg",
-      "/products/rugs/sevilla/191884_3.jpg",
-      "/products/rugs/sevilla/191884_4.jpg",
-      "/products/rugs/sevilla/191884_5.jpg",
-      "/products/rugs/sevilla/191884_6.jpg"
+      "/products/rugs/sevilla/sevilla_rug_red_5.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_2.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_4.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_6.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_8-mood.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_3.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_9.avif"
     ],
     "href": "/products/rugs/sevilla/191884",
     "type": "file",
     "filterData": {
-      "searchText": "Sevilla Rug, 160 x 230 cm 160 x 230 cm, Red, Polypropylene. Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors. Rugs Home Details Sevilla Home Details Rugs Sevilla Red Polypropylene Dimensions Depth 230 cm cm Dimensions Height 1 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.03 m³ m³ Logistics Weight 4 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Sevilla Rug, 160 × 230 cm 160 x 230 cm, Red, Polypropylene. Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors. Rugs Home Details Sevilla Home Details Rugs Sevilla Red Polypropylene Dimensions Depth 230 cm cm Dimensions Height 1 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.03 m³ m³ Logistics Weight 4 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -603,7 +610,7 @@
       ]
     },
     "sortData": {
-      "title": "Sevilla Rug, 160 x 230 cm",
+      "title": "Sevilla Rug, 160 × 230 cm",
       "summary": "160 x 230 cm, Red, Polypropylene. Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
       "variantCount": 1,
       "categoryLabel": "Rugs",
@@ -614,39 +621,42 @@
   {
     "sku": "191885",
     "name": "191885",
-    "title": "Sevilla Rug, 200 x 300 cm",
-    "variantSummary": "200 x 300 cm / Red",
+    "title": "Sevilla Rug, 200 × 300 cm",
+    "variantSummary": "200 × 300 cm / Red",
     "shortDescription": "200 x 300 cm, Red, Polypropylene. Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
     "selectionAttributes": {
-      "dimensions": "200 x 300 cm",
+      "dimensions": "200 × 300 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Red",
-      "material": "Polypropylene"
+      "material": "Polypropylene",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Rug",
+      "colorLabel": "Red",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
     "imageUrl": "/products/rugs/sevilla/sevilla_rug_red_1.avif",
     "imageUrls": [
       "/products/rugs/sevilla/sevilla_rug_red_1.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_2.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_3.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_4.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_5.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_6.avif",
       "/products/rugs/sevilla/sevilla_rug_red_7.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_9.avif",
-      "/products/rugs/sevilla/sevilla_rug_red_8.jpg",
-      "/products/rugs/sevilla/191885_1.avif",
-      "/products/rugs/sevilla/191885_2.avif",
-      "/products/rugs/sevilla/191885_3.avif",
-      "/products/rugs/sevilla/191885_4.avif",
-      "/products/rugs/sevilla/191885_5.avif",
-      "/products/rugs/sevilla/191885_6.avif"
+      "/products/rugs/sevilla/sevilla_rug_red_5.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_2.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_4.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_6.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_8-mood.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_8.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_3.avif",
+      "/products/rugs/sevilla/sevilla_rug_red_9.avif"
     ],
     "href": "/products/rugs/sevilla/191885",
     "type": "file",
     "filterData": {
-      "searchText": "Sevilla Rug, 200 x 300 cm 200 x 300 cm, Red, Polypropylene. Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors. Rugs Home Details Sevilla Home Details Rugs Sevilla Red Polypropylene Dimensions Depth 300 cm cm Dimensions Height 1 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.06 m³ m³ Logistics Weight 7 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Sevilla Rug, 200 × 300 cm 200 x 300 cm, Red, Polypropylene. Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors. Rugs Home Details Sevilla Home Details Rugs Sevilla Red Polypropylene Dimensions Depth 300 cm cm Dimensions Height 1 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.06 m³ m³ Logistics Weight 7 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -807,7 +817,7 @@
       ]
     },
     "sortData": {
-      "title": "Sevilla Rug, 200 x 300 cm",
+      "title": "Sevilla Rug, 200 × 300 cm",
       "summary": "200 x 300 cm, Red, Polypropylene. Create a calm atmosphere with the smooth-surfaced Sevilla rug. Its soft texture feels pleasant underfoot while remaining durable. Carefully chosen solid or subtly patterned elements bring a serene and stylish touch that suits many interiors.",
       "variantCount": 1,
       "categoryLabel": "Rugs",

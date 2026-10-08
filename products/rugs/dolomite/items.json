@@ -1,31 +1,40 @@
 [
   {
-    "sku": "200730",
-    "name": "200730",
-    "title": "Dolomite Rug",
-    "variantSummary": "200 x 290 cm",
-    "shortDescription": "Grey tones with a subtle stone pattern, 200 x 290 cm. Soft and durable with easy-care materials.",
+    "sku": "200729",
+    "name": "200729",
+    "title": "Dolomite Rug, 160 × 230 cm",
+    "variantSummary": "160 × 230 cm / Multicolour",
+    "shortDescription": "Dolomite Rug in Multicolour, sized 160 × 230 cm, offering a straightforward way to add colour and structure to a room.",
     "selectionAttributes": {
-      "dimensions": "200 x 290 cm",
+      "dimensions": "160 × 230 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "",
-      "material": ""
+      "color": "Multicolour",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Rug",
+      "colorLabel": "Multicolour",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/rugs/dolomite/200730_1.avif",
-    "imageUrl": "/products/rugs/dolomite/200730_1.avif",
+    "primaryImageUrl": "/products/rugs/dolomite/200729_1.avif",
+    "imageUrl": "/products/rugs/dolomite/200729_1.avif",
     "imageUrls": [
-      "/products/rugs/dolomite/200730_1.avif",
-      "/products/rugs/dolomite/200730_2.avif",
-      "/products/rugs/dolomite/200730_3.avif",
-      "/products/rugs/dolomite/200730_4.avif",
-      "/products/rugs/dolomite/200730_5.jpg",
-      "/products/rugs/dolomite/200730_6.avif"
+      "/products/rugs/dolomite/200729_1.avif",
+      "/products/rugs/dolomite/200729_7.avif",
+      "/products/rugs/dolomite/200729_2.avif",
+      "/products/rugs/dolomite/200729_3.avif",
+      "/products/rugs/dolomite/200729_4.avif",
+      "/products/rugs/dolomite/200729_5.avif",
+      "/products/rugs/dolomite/200729_6.avif"
     ],
-    "href": "/products/rugs/dolomite/",
+    "href": "/products/rugs/dolomite/200729",
     "type": "file",
     "filterData": {
-      "searchText": "Dolomite Rug Grey tones with a subtle stone pattern, 200 x 290 cm. Soft and durable with easy-care materials. Rugs Home Details Dolomite Home Details Rugs Dolomite Dimensions Depth 290 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 9 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Dolomite Rug, 160 × 230 cm Dolomite Rug in Multicolour, sized 160 × 230 cm, offering a straightforward way to add colour and structure to a room. Rugs Home Details Dolomite Home Details Rugs Dolomite Multicolour",
       "collections": [
         {
           "key": "home-details",
@@ -47,7 +56,90 @@
           "href": "/families/dolomite/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "multicolour",
+          "label": "Multicolour",
+          "href": "/colors/multicolour/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Dolomite Rug, 160 × 230 cm",
+      "summary": "Dolomite Rug in Multicolour, sized 160 × 230 cm, offering a straightforward way to add colour and structure to a room.",
+      "variantCount": 1,
+      "categoryLabel": "Rugs",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Dolomite"
+    }
+  },
+  {
+    "sku": "200730",
+    "name": "200730",
+    "title": "Dolomite Rug, 200 × 290 cm",
+    "variantSummary": "200 × 290 cm / Multicolour",
+    "shortDescription": "Grey tones with a subtle stone pattern, 200 x 290 cm. Soft and durable with easy-care materials.",
+    "selectionAttributes": {
+      "dimensions": "200 × 290 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Multicolour",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Rug",
+      "colorLabel": "Multicolour",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
+    },
+    "primaryImageUrl": "/products/rugs/dolomite/200729_1.avif",
+    "imageUrl": "/products/rugs/dolomite/200729_1.avif",
+    "imageUrls": [
+      "/products/rugs/dolomite/200729_1.avif",
+      "/products/rugs/dolomite/200730_1.avif",
+      "/products/rugs/dolomite/200730_3.avif",
+      "/products/rugs/dolomite/200730_4.avif",
+      "/products/rugs/dolomite/200730_5.avif",
+      "/products/rugs/dolomite/200730_6.avif",
+      "/products/rugs/dolomite/200730_2.avif"
+    ],
+    "href": "/products/rugs/dolomite/200730",
+    "type": "file",
+    "filterData": {
+      "searchText": "Dolomite Rug, 200 × 290 cm Grey tones with a subtle stone pattern, 200 x 290 cm. Soft and durable with easy-care materials. Rugs Home Details Dolomite Home Details Rugs Dolomite Multicolour Dimensions Depth 290 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 9 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "rugs",
+          "label": "Rugs",
+          "href": "/products/rugs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "dolomite",
+          "label": "Dolomite",
+          "href": "/families/dolomite/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "multicolour",
+          "label": "Multicolour",
+          "href": "/colors/multicolour/"
+        }
+      ],
       "materials": [],
       "specifications": [],
       "attributes": [
@@ -150,7 +242,7 @@
       ]
     },
     "sortData": {
-      "title": "Dolomite Rug",
+      "title": "Dolomite Rug, 200 × 290 cm",
       "summary": "Grey tones with a subtle stone pattern, 200 x 290 cm. Soft and durable with easy-care materials.",
       "variantCount": 1,
       "categoryLabel": "Rugs",

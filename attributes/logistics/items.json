@@ -5,7 +5,7 @@
     "href": "/attributes/logistics/package-count/",
     "type": "dir",
     "entryCount": 3,
-    "variantCount": 406,
+    "variantCount": 408,
     "valueType": "measurement",
     "numericFilter": {
       "numericEntryCount": 3,
@@ -25,12 +25,37 @@
     }
   },
   {
+    "name": "package-weight",
+    "label": "Package weight",
+    "href": "/attributes/logistics/package-weight/",
+    "type": "dir",
+    "entryCount": 119,
+    "variantCount": 408,
+    "valueType": "measurement",
+    "numericFilter": {
+      "numericEntryCount": 119,
+      "unitCount": 1,
+      "units": [
+        "kg"
+      ],
+      "ranges": [
+        {
+          "unit": "kg",
+          "min": 0.4,
+          "max": 80,
+          "count": 119,
+          "distinctCount": 119
+        }
+      ]
+    }
+  },
+  {
     "name": "product-count",
     "label": "Product count",
     "href": "/attributes/logistics/product-count/",
     "type": "dir",
     "entryCount": 9,
-    "variantCount": 406,
+    "variantCount": 408,
     "valueType": "measurement",
     "numericFilter": {
       "numericEntryCount": 9,
@@ -55,7 +80,7 @@
     "href": "/attributes/logistics/volume/",
     "type": "dir",
     "entryCount": 92,
-    "variantCount": 406,
+    "variantCount": 408,
     "valueType": "measurement",
     "numericFilter": {
       "numericEntryCount": 92,
@@ -79,11 +104,11 @@
     "label": "Weight",
     "href": "/attributes/logistics/weight/",
     "type": "dir",
-    "entryCount": 165,
-    "variantCount": 766,
+    "entryCount": 107,
+    "variantCount": 413,
     "valueType": "measurement",
     "numericFilter": {
-      "numericEntryCount": 165,
+      "numericEntryCount": 107,
       "unitCount": 1,
       "units": [
         "kg"
@@ -91,10 +116,10 @@
       "ranges": [
         {
           "unit": "kg",
-          "min": 0.4,
+          "min": 1,
           "max": 144,
-          "count": 165,
-          "distinctCount": 165
+          "count": 107,
+          "distinctCount": 107
         }
       ]
     }

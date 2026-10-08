@@ -933,6 +933,9 @@ function initDropdowns() {
         });
       }
       currentMenu.querySelectorAll("a[data-submenu]").forEach((link) => {
+        if (link.parentElement?.classList.contains("dropdown-menu-group")) {
+          return;
+        }
         link.addEventListener("click", async (e) => {
           e.preventDefault();
           e.stopPropagation();
@@ -1023,6 +1026,9 @@ function attachDropdownHandlers(menu, dd) {
     });
   }
   menu.querySelectorAll("a[data-submenu]").forEach((link) => {
+    if (link.parentElement?.classList.contains("dropdown-menu-group")) {
+      return;
+    }
     link.addEventListener("click", (e) => {
       e.preventDefault();
       e.stopPropagation();
@@ -1180,6 +1186,7 @@ function scrollToSection(hash) {
     window.scrollTo({ top: 0, behavior: "smooth" });
     return;
   }
+  requestVisibleRemoteFragmentForHash(hash);
   const id = hash.charAt(0) === "#" ? hash.slice(1) : hash;
   const target = document.getElementById(id);
   if (!target) {
@@ -1766,6 +1773,7 @@ function initCollectionLoader(buttonSelector, targetSelector) {
   let scrollFallbackTimeout = null;
   const htmlCache = new Map();
   const loadActiveOnInit = target.dataset.loadActiveOnInit === "true";
+  const listingFiltersDisabled = target.dataset.listingFilters === "disabled";
   const initiallyActiveBtn = buttons.find((btn) =>
     btn.classList.contains("active"),
   );
@@ -1883,6 +1891,34 @@ function initCollectionLoader(buttonSelector, targetSelector) {
     }
     return await htmlCache.get(url);
   }
+  function addCollectionBrowseLink(url) {
+    const panel = target.querySelector("#category-list") || target;
+    if (!(panel instanceof HTMLElement) || panel.querySelector(".collection-panel__browse")) {
+      return;
+    }
+    const heading = panel.querySelector(":scope > h1");
+    const summary = panel.querySelector(":scope > .family-summary");
+    if (!heading && !summary) {
+      return;
+    }
+    const header = document.createElement("div");
+    header.className = "collection-panel__header";
+    const intro = document.createElement("div");
+    intro.className = "collection-panel__intro";
+    if (heading) {
+      intro.appendChild(heading);
+    }
+    if (summary) {
+      intro.appendChild(summary);
+    }
+    const browse = document.createElement("a");
+    browse.className = "solution-panel__browse collection-panel__browse";
+    browse.href = toNavigableUrl(url);
+    browse.textContent = `Browse ${heading?.textContent?.trim() || "Collection"}`;
+    header.appendChild(intro);
+    header.appendChild(browse);
+    panel.insertAdjacentElement("afterbegin", header);
+  }
   async function loadPanel(url, btn, { animate = true, scroll = true } = {}) {
     const oldH = animate ? target.getBoundingClientRect().height : 0;
     if (animate) {
@@ -1892,6 +1928,12 @@ function initCollectionLoader(buttonSelector, targetSelector) {
     target.setAttribute("aria-busy", "true");
     target.classList.add("is-loading");
     target.innerHTML = await fetchPanelHtml(url);
+    if (listingFiltersDisabled) {
+      target
+        .querySelectorAll(".listing-filters, .listing-filters-empty")
+        .forEach((node) => node.remove());
+      addCollectionBrowseLink(url);
+    }
     await new Promise(requestAnimationFrame);
     if (animate) {
       target.style.height = "auto";
@@ -1905,7 +1947,9 @@ function initCollectionLoader(buttonSelector, targetSelector) {
     target.removeAttribute("aria-busy");
     currentURL = url;
     setActiveButton(btn);
-    initListingFilters(target, { sourceUrl: url });
+    if (!listingFiltersDisabled) {
+      initListingFilters(target, { sourceUrl: url });
+    }
     if (scroll) {
       scheduleScroll();
     } else {
@@ -2059,14 +2103,72 @@ async function loadRemoteFragmentIntoTarget(target) {
     target.removeAttribute("aria-busy");
   }
 }
+function remoteFragmentMatchesHash(target, rawHash) {
+  const hashTarget = String(rawHash || "").replace(/^#/, "").trim();
+  if (!hashTarget || !(target instanceof HTMLElement) || typeof CSS?.escape !== "function") return false;
+  const escapedHash = CSS.escape(hashTarget);
+  return (
+    target.id === hashTarget ||
+    Boolean(target.closest(`#${escapedHash}`)) ||
+    Boolean(target.querySelector(`#${escapedHash}`))
+  );
+}
+function requestVisibleRemoteFragmentForHash(rawHash) {
+  document.querySelectorAll('[data-remote-fragment-url][data-load-on-init="visible"]').forEach((target) => {
+    if (!(target instanceof HTMLElement) || target.dataset.remoteFragmentLoaded === "true") return;
+    if (!remoteFragmentMatchesHash(target, rawHash)) return;
+    target.dataset.remoteFragmentLoaded = "true";
+    loadRemoteFragmentIntoTarget(target).catch((error) => {
+      console.error("[REMOTE_FRAGMENT] Hash load failed:", error);
+    });
+  });
+}
 function initRemoteFragmentLoaders(root = document) {
   root.querySelectorAll("[data-remote-fragment-url]").forEach((target) => {
     if (!(target instanceof HTMLElement) || target.dataset.remoteFragmentBound === "true") {
       return;
     }
     target.dataset.remoteFragmentBound = "true";
-    const shouldLoad = target.dataset.loadOnInit !== "false";
-    if (shouldLoad) {
+    const loadMode = String(target.dataset.loadOnInit || "true").trim().toLowerCase();
+    if (loadMode === "visible") {
+      let fragmentLoaded = false;
+      let observer = null;
+      const loadOnce = (label = "Initial") => {
+        if (fragmentLoaded) return;
+        fragmentLoaded = true;
+        target.dataset.remoteFragmentLoaded = "true";
+        observer?.disconnect();
+        observer = null;
+        loadRemoteFragmentIntoTarget(target).catch((error) => {
+          console.error(`[REMOTE_FRAGMENT] ${label} load failed:`, error);
+        });
+      };
+      const hashTargetsFragment = () => {
+        return remoteFragmentMatchesHash(target, window.location.hash);
+      };
+      if (hashTargetsFragment() || !("IntersectionObserver" in window)) {
+        loadOnce("Initial");
+        return;
+      }
+      window.addEventListener("hashchange", () => {
+        if (hashTargetsFragment()) loadOnce("Hash");
+      });
+      observer = new IntersectionObserver(
+        (entries) => {
+          if (!entries.some((entry) => entry.isIntersecting || entry.intersectionRatio > 0)) return;
+          loadOnce("Visible");
+        },
+        {
+          rootMargin: window.matchMedia("(max-width: 768px)").matches
+            ? "520px 0px"
+            : "900px 0px",
+          threshold: 0.01
+        }
+      );
+      observer.observe(target.closest("section") || target);
+      return;
+    }
+    if (loadMode !== "false") {
       loadRemoteFragmentIntoTarget(target).catch((error) => {
         console.error("[REMOTE_FRAGMENT] Initial load failed:", error);
       });
@@ -2075,6 +2177,7 @@ function initRemoteFragmentLoaders(root = document) {
 }
 let maplibreAssetPromise = null;
 const MAPLIBRE_VERSION = "5.23.0";
+const MAPLIBRE_SCRIPT_PATH = `/assets/vendor/maplibre-gl-${MAPLIBRE_VERSION}.js`;
 const MAPLIBRE_CSS_PATH = "/assets/vendor/maplibre-retailer.css";
 const RETAILER_MAP_STYLE_PATH = "/data/maps/retailer-map-style.json";
 function ensureMapLibreAssets() {
@@ -2099,7 +2202,7 @@ function ensureMapLibreAssets() {
         return;
       }
       const script = document.createElement("script");
-      script.src = `https://unpkg.com/maplibre-gl@${MAPLIBRE_VERSION}/dist/maplibre-gl.js`;
+      script.src = resolveSiteUrl(MAPLIBRE_SCRIPT_PATH);
       script.defer = true;
       script.setAttribute("data-retailer-maplibre-script", "true");
       script.addEventListener("load", () => resolve(window.maplibregl), { once: true });
@@ -2108,6 +2211,7 @@ function ensureMapLibreAssets() {
       });
       document.head.appendChild(script);
     }).catch((error) => {
+      document.querySelector('script[data-retailer-maplibre-script="true"]')?.remove();
       maplibreAssetPromise = null;
       throw error;
     });
@@ -2164,46 +2268,82 @@ function buildRetailerPopupHtml(item) {
 }
 function normalizeRetailerAddressQuery(query) {
   const trimmed = String(query || "").trim();
-  if (!trimmed) {
-    return "";
+  const postcode = trimmed.match(/^(?:FI[-\s]?)?(\d{5})(?:[,\s]+(?:Finland|Suomi))?$/i);
+  return postcode ? postcode[1] : trimmed;
+}
+async function geocodeRetailerPostcodeArea(postcode) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 2000);
+  try {
+    const response = await fetch(resolveSiteUrl("/data/maps/retailer-postcodes-fi-2026.json"), {
+      headers: { Accept: "application/json" }, signal: controller.signal, credentials: "same-origin"
+    });
+    if (!response.ok) throw new Error(`Postcode areas unavailable (${response.status})`);
+    const data = await response.json();
+    if (data?.schemaVersion !== 1 || data.country !== "FI" || data.year !== 2026 || !Array.isArray(data.areas)) {
+      throw new Error("Invalid postcode areas");
+    }
+    const area = data.areas.find(area => area.postcode === postcode);
+    if (!area) return null;
+    if (!Number.isFinite(area.lat) || !Number.isFinite(area.lng) || area.lat < 59 || area.lat > 71 || area.lng < 19 || area.lng > 32) {
+      throw new Error("Invalid postcode area coordinates");
+    }
+    return { lat: area.lat, lng: area.lng, label: `${postcode} ${area.name}`, approximate: true };
+  } finally {
+    clearTimeout(timeout);
   }
-  if (/\b(finland|suomi)\b/i.test(trimmed)) {
-    return trimmed;
-  }
-  return `${trimmed}, Finland`;
 }
 async function geocodeRetailerAddress(query) {
   const normalizedQuery = normalizeRetailerAddressQuery(query);
   if (!normalizedQuery) {
     return null;
   }
-  const url = new URL("https://nominatim.openstreetmap.org/search");
+  const url = new URL("https://photon.komoot.io/api/");
   url.searchParams.set("q", normalizedQuery);
-  url.searchParams.set("format", "jsonv2");
-  url.searchParams.set("limit", "1");
-  url.searchParams.set("countrycodes", "fi");
-  url.searchParams.set("addressdetails", "0");
-  url.searchParams.set("dedupe", "1");
-  const response = await fetch(url.toString(), {
-    headers: {
-      Accept: "application/json"
+  url.searchParams.set("countrycode", "fi");
+  url.searchParams.set("limit", "5");
+  url.searchParams.set("lang", "en");
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 8000);
+  try {
+    const response = await fetch(url.toString(), {
+      headers: { Accept: "application/json" },
+      signal: controller.signal,
+      credentials: "omit"
+    });
+    if (!response.ok) {
+      throw new Error(`Photon search failed (${response.status})`);
     }
-  });
-  if (!response.ok) {
-    throw new Error(`Nominatim search failed (${response.status})`);
+    const results = await response.json();
+    const postcode = /^\d{5}$/.test(normalizedQuery) ? normalizedQuery : "";
+    const match = (Array.isArray(results?.features) ? results.features : []).find((feature) => {
+      const properties = feature?.properties || {};
+      const [lng, lat] = Array.isArray(feature?.geometry?.coordinates) ? feature.geometry.coordinates : [];
+      const matchesPostcode = !postcode || String(properties.postcode || "") === postcode ||
+        (properties.osm_value === "postcode" && String(properties.name || "") === postcode);
+      return String(properties.countrycode || "").toUpperCase() === "FI" && matchesPostcode &&
+        feature?.geometry?.type === "Point" && Number.isFinite(lat) && Number.isFinite(lng) &&
+        Math.abs(lat) <= 90 && Math.abs(lng) <= 180;
+    });
+    if (!match) return null;
+    const [lng, lat] = match.geometry.coordinates;
+    const properties = match.properties;
+    return {
+      lat,
+      lng,
+      label: [properties.name, properties.street, properties.city, properties.country].filter(Boolean).join(", ") || normalizedQuery
+    };
+  } catch (error) {
+    if (!/^\d{5}$/.test(normalizedQuery)) throw error;
+    // A local prepared dataset is used only after provider failure; no provider retries.
+    try {
+      return await geocodeRetailerPostcodeArea(normalizedQuery);
+    } catch {
+      throw error;
+    }
+  } finally {
+    clearTimeout(timeout);
   }
-  const results = await response.json();
-  const match = Array.isArray(results) ? results[0] : null;
-  const lat = Number.parseFloat(match?.lat);
-  const lng = Number.parseFloat(match?.lon);
-  if (!Number.isFinite(lat) || !Number.isFinite(lng)) {
-    return null;
-  }
-  return {
-    lat,
-    lng,
-    label: String(match.display_name || normalizedQuery).trim()
-  };
 }
 function collectRetailerDirectoryTargetIds(directory) {
   const ids = new Set();
@@ -2568,7 +2708,7 @@ function initRetailerDirectory(directory) {
               item.lng,
             );
             item.distanceElement.hidden = false;
-            item.distanceElement.textContent = `${distanceKm.toFixed(distanceKm < 10 ? 1 : 0)} km away`;
+            item.distanceElement.textContent = `${state.userLocation.approximate ? "Approximately " : ""}${distanceKm.toFixed(distanceKm < 10 ? 1 : 0)} km away`;
           } else {
             item.distanceElement.hidden = true;
             item.distanceElement.textContent = "";
@@ -2601,6 +2741,7 @@ function initRetailerDirectory(directory) {
         if (!mapElement.isConnected || state.map) {
           return;
         }
+        mapElement.textContent = "";
         state.map = new maplibre.Map({
           container: mapElement,
           style: resolveSiteUrl(RETAILER_MAP_STYLE_PATH),
@@ -2640,6 +2781,7 @@ function initRetailerDirectory(directory) {
       })
       .catch((error) => {
         console.warn("[RETAILERS] MapLibre load failed:", error);
+        mapInitRequested = false;
         mapElement.classList.remove("is-loading", "is-ready");
         mapElement.classList.add("retailer-directory__map--fallback");
         mapElement.textContent = "Map view is temporarily unavailable.";
@@ -2653,10 +2795,7 @@ function initRetailerDirectory(directory) {
       initRetailerMap();
       return;
     }
-    const observeTarget =
-      directory.closest("#retailers") ||
-      directory.closest("section") ||
-      mapElement;
+    const observeTarget = mapElement;
     mapObserver = new IntersectionObserver(
       (entries) => {
         if (!entries.some((entry) => entry.isIntersecting || entry.intersectionRatio > 0)) {
@@ -2667,9 +2806,7 @@ function initRetailerDirectory(directory) {
         initRetailerMap();
       },
       {
-        rootMargin: window.matchMedia("(max-width: 768px)").matches
-          ? "480px 0px"
-          : "900px 0px",
+        rootMargin: "120px 0px",
         threshold: 0.01
       }
     );
@@ -2706,6 +2843,7 @@ function initRetailerDirectory(directory) {
   retailerSelect?.addEventListener("change", () => {
     state.selectedSlug = String(retailerSelect.value || "").trim();
     setFeedback("");
+    if (state.selectedSlug) initRetailerMap();
     syncHomeRetailerActivation(Boolean(state.selectedSlug), { animate: true });
     render();
   });
@@ -2729,7 +2867,8 @@ function initRetailerDirectory(directory) {
       }
       state.userLocation = {
         lat: location.lat,
-        lng: location.lng
+        lng: location.lng,
+        approximate: Boolean(location.approximate)
       };
       const nearestItem = findNearestItem();
       if (nearestItem) {
@@ -2738,7 +2877,9 @@ function initRetailerDirectory(directory) {
           retailerSelect.value = nearestItem.slug;
         }
         syncHomeRetailerActivation(true, { animate: true });
-        setFeedback(`Showing the nearest location to ${query}: ${nearestItem.name}.`);
+        setFeedback(location.approximate
+          ? `Showing the nearest location to postcode area ${normalizeRetailerAddressQuery(query)}: ${nearestItem.name}. Location and distance are approximate. Postcode areas: Tilastokeskus / Statistics Finland, 2026 (CC BY 4.0).`
+          : `Showing the nearest location to ${query}: ${nearestItem.name}.`);
       } else {
         setFeedback("The address was found, but no mapped retailer could be matched.");
       }
@@ -2761,7 +2902,7 @@ function initRetailerDirectory(directory) {
     handleAddressSearch();
   });
   geolocateButton?.addEventListener("click", () => {
-    if (!navigator.geolocation || state.geolocating) {
+    if (!navigator.geolocation || state.geolocating || state.addressSearching) {
       if (!navigator.geolocation) {
         setFeedback("Geolocation is not available in this browser.");
       }
@@ -2996,10 +3137,10 @@ function compareListingRows(left, right, sortMode) {
   const leftVariantCount = Number(left.item?.variantCount ?? leftSort.variantCount ?? 0);
   const rightVariantCount = Number(right.item?.variantCount ?? rightSort.variantCount ?? 0);
   if (sortMode === "title-asc") {
-    return String(leftSort.title || left.item?.title || "").localeCompare(String(rightSort.title || right.item?.title || ""), "en", { sensitivity: "base", numeric: true });
+    return String(leftSort.title || left.item?.title || left.item?.label || "").localeCompare(String(rightSort.title || right.item?.title || right.item?.label || ""), "en", { sensitivity: "base", numeric: true });
   }
   if (sortMode === "title-desc") {
-    return String(rightSort.title || right.item?.title || "").localeCompare(String(leftSort.title || left.item?.title || ""), "en", { sensitivity: "base", numeric: true });
+    return String(rightSort.title || right.item?.title || right.item?.label || "").localeCompare(String(leftSort.title || left.item?.title || left.item?.label || ""), "en", { sensitivity: "base", numeric: true });
   }
   if (sortMode === "variants-desc") {
     const diff = rightVariantCount - leftVariantCount;
@@ -3043,12 +3184,65 @@ function scoreListingRowSearch(row, tokens, phrase) {
   }
   return score;
 }
+function getListingFilterPanelHtml() {
+  return `
+        <div class="listing-filters__toolbar">
+          <label class="listing-filters__search">
+            <span>Search</span>
+            <input type="search" class="listing-filters__search-input" placeholder="Search products, colors, materials, and attributes" />
+          </label>
+          <label class="listing-filters__sort">
+            <span>Sort</span>
+            <select class="listing-filters__sort-select">
+              <option value="default">Default order</option>
+              <option value="title-asc">Name A-Z</option>
+              <option value="title-desc">Name Z-A</option>
+              <option value="variants-desc">Most options first</option>
+              <option value="variants-asc">Fewest options first</option>
+            </select>
+          </label>
+          <button type="button" class="listing-filters__clear">Clear filters</button>
+        </div>
+        <div class="listing-filters__status">
+          <strong class="listing-filters__summary">Search and sort this listing.</strong>
+        </div>
+      `;
+}
+function findListingFilterPanel(context) {
+  if (!context) {
+    return null;
+  }
+  const candidates = [
+    context.container?.matches?.("#category-list")
+      ? context.container.querySelector(":scope > .listing-filters")
+      : null,
+    context.container?.parentElement?.querySelector?.(":scope > .listing-filters"),
+    context.host?.parentElement?.querySelector?.(":scope > .listing-filters"),
+  ];
+  return candidates.find((node) => node instanceof HTMLElement) || null;
+}
+function ensureListingFilterPanel(context) {
+  const existingPanel = findListingFilterPanel(context);
+  const panel = existingPanel || document.createElement("section");
+  panel.className = "listing-filters with-texture-2";
+  panel.setAttribute("aria-label", "Filter and sort results");
+  if (!panel.querySelector(".listing-filters__search-input") || !panel.querySelector(".listing-filters__sort-select")) {
+    panel.innerHTML = getListingFilterPanelHtml();
+  }
+  if (!existingPanel) {
+    context.host.insertAdjacentElement("afterend", panel);
+  }
+  return panel;
+}
 function initListingFilters(root = document, { sourceUrl = "" } = {}) {
   const context = findListingContext(root);
   if (!context || !context.cards.length) {
     return;
   }
-  const itemsUrl = resolveListingItemsUrl(sourceUrl || window.location.href);
+  const explicitItemsUrl = context.container.dataset.listingItemsUrl;
+  const itemsUrl = explicitItemsUrl
+    ? resolveSiteUrl(explicitItemsUrl)
+    : resolveListingItemsUrl(sourceUrl || window.location.href);
   if (!itemsUrl || context.container.dataset.listingFiltersBound === itemsUrl) {
     return;
   }
@@ -3068,14 +3262,16 @@ function initListingFilters(root = document, { sourceUrl = "" } = {}) {
           const link = getListingCardLink(card);
           const href = normalizeListingComparableHref(link?.getAttribute("href") || link?.href || "");
           const item = itemByHref.get(href);
-          if (!href || !item?.filterData) {
+          if (!href || !item) {
             return null;
           }
+          const itemTitle = item?.sortData?.title || item?.title || item?.label || link?.textContent || "";
+          const itemSummary = item?.sortData?.summary || item?.summary || item?.description || "";
           const isProductRoot = context.kind === "product-root";
           const searchFragments = isProductRoot
             ? [
-                item?.sortData?.title || item?.title || link?.textContent || "",
-                item?.sortData?.summary || item?.summary || "",
+                itemTitle,
+                itemSummary,
                 item?.label || "",
                 item?.collection || "",
                 item?.sortData?.categoryLabel || "",
@@ -3084,8 +3280,9 @@ function initListingFilters(root = document, { sourceUrl = "" } = {}) {
               ]
             : [
                 item?.filterData?.searchText || "",
-                item?.sortData?.title || item?.title || "",
-                item?.sortData?.summary || item?.summary || "",
+                itemTitle,
+                itemSummary,
+                item?.label || "",
                 item?.href || href || "",
               ];
           return {
@@ -3094,8 +3291,8 @@ function initListingFilters(root = document, { sourceUrl = "" } = {}) {
             link,
             href,
             item,
-            searchTitle: normalizeListingSearchValue(item?.sortData?.title || item?.title || link?.textContent || ""),
-            searchSummary: normalizeListingSearchValue(item?.sortData?.summary || item?.summary || ""),
+            searchTitle: normalizeListingSearchValue(itemTitle),
+            searchSummary: normalizeListingSearchValue(itemSummary),
             searchCorpus: normalizeListingSearchValue(searchFragments.join(" ")),
             grid: card.parentElement,
             section:
@@ -3113,34 +3310,7 @@ function initListingFilters(root = document, { sourceUrl = "" } = {}) {
       }
       context.container.dataset.listingFiltersBound = itemsUrl;
       context.container.querySelectorAll(".listing-filters-empty").forEach((node) => node.remove());
-      const existingPanel = context.container.parentElement?.querySelector(":scope > .listing-filters");
-      if (existingPanel) {
-        existingPanel.remove();
-      }
-      const panel = document.createElement("section");
-      panel.className = "listing-filters with-texture-2";
-      panel.innerHTML = `
-        <div class="listing-filters__toolbar">
-          <label class="listing-filters__search">
-            <span>Search</span>
-            <input type="search" class="listing-filters__search-input" placeholder="Search products, colors, materials, and attributes" />
-          </label>
-          <label class="listing-filters__sort">
-            <span>Sort</span>
-            <select class="listing-filters__sort-select">
-              <option value="default">Default order</option>
-              <option value="title-asc">Name A-Z</option>
-              <option value="title-desc">Name Z-A</option>
-              <option value="variants-desc">Most options first</option>
-              <option value="variants-asc">Fewest options first</option>
-            </select>
-          </label>
-          <button type="button" class="listing-filters__clear">Clear filters</button>
-        </div>
-        <div class="listing-filters__status">
-          <strong class="listing-filters__summary"></strong>
-        </div>
-      `;
+      const panel = ensureListingFilterPanel(context);
       const searchInput = panel.querySelector(".listing-filters__search-input");
       const sortSelect = panel.querySelector(".listing-filters__sort-select");
       const clearButton = panel.querySelector(".listing-filters__clear");
@@ -3148,7 +3318,6 @@ function initListingFilters(root = document, { sourceUrl = "" } = {}) {
       const emptyState = document.createElement("p");
       emptyState.className = "listing-filters-empty family-product-muted";
       emptyState.textContent = "No products match the active filters.";
-      context.host.insertAdjacentElement("afterend", panel);
       const state = {
         query: "",
         sort: "default",
@@ -3173,7 +3342,7 @@ function initListingFilters(root = document, { sourceUrl = "" } = {}) {
           byGrid.get(row.grid).push(row);
         });
         byGrid.forEach((gridRows, grid) => {
-          gridRows
+          const orderedRows = gridRows
             .slice()
             .sort((left, right) => {
               const queryTokens = tokenizeListingSearch(state.query);
@@ -3185,10 +3354,13 @@ function initListingFilters(root = document, { sourceUrl = "" } = {}) {
                 }
               }
               return compareListingRows(left, right, state.sort);
-            })
-            .forEach((row) => {
-              grid.appendChild(row.card);
             });
+          // Static output already has the default order. Moving every card during
+          // hydration needlessly invalidates layout, image painting and focus.
+          if (orderedRows.every((row, index) => grid.children[index] === row.card)) return;
+          orderedRows.forEach((row) => {
+            grid.appendChild(row.card);
+          });
         });
       }
       function applyState() {
@@ -3218,7 +3390,7 @@ function initListingFilters(root = document, { sourceUrl = "" } = {}) {
           section.hidden = count === 0;
         });
         reorderRows();
-        summaryNode.textContent = `${visibleCount} of ${rows.length} products shown`;
+        summaryNode.textContent = `${visibleCount} of ${rows.length} items shown`;
         if (visibleCount === 0) {
           if (!context.container.parentElement.contains(emptyState)) {
             context.container.insertAdjacentElement("afterend", emptyState);
@@ -4351,10 +4523,10 @@ function render(item, tokens = []) {
   img.className = "item-image";
   img.crossOrigin = "anonymous";
   img.loading = "lazy";
-  img.src = resolveSiteUrl(previewVariant?.image || item.image || "/images/logo_small.svg");
+  img.src = resolveSiteUrl(previewVariant?.image || item.image || "/images/brand/nest-living-stamp-color.svg");
   img.alt = displayTitle.join(" ") || item.title;
   img.addEventListener("error", () => {
-    img.src = resolveSiteUrl("/images/logo_small.svg");
+    img.src = resolveSiteUrl("/images/brand/nest-living-stamp-color.svg");
   }, { once: true });
   imageLink.appendChild(img);
   main.appendChild(imageLink);
@@ -5129,12 +5301,10 @@ function bindLazySearchWrapper(wrapper) {
       "title",
       queryPresent ? "Clear search" : "Search products",
     );
-    input.setAttribute("aria-expanded", String(isOpen));
     panel.toggleAttribute("inert", !isOpen);
     setHiddenPanelFocusable(panel, isOpen);
     if (resultsCloseBtn) {
       resultsCloseBtn.tabIndex = isOpen ? 0 : -1;
-      resultsCloseBtn.setAttribute("aria-hidden", String(!isOpen));
     }
   }
   function setSearchOpen(shouldOpen, options = {}) {
@@ -5432,11 +5602,12 @@ document.addEventListener("DOMContentLoaded", initSearchPage);
 document.addEventListener("DOMContentLoaded", initFamilyLightbox);
 document.addEventListener("DOMContentLoaded", initApplicationForms);
 
-function sendMail() {
-  var msg = encodeURIComponent(document.getElementById("message").value);
-  var from = encodeURIComponent(document.getElementById("email").value);
-  var subject = encodeURIComponent("Support Request");
-  var body = msg + "\n\nFrom: " + from;
-  window.location.href =
-    "mailto:support@nestliving.dk" + "?subject=" + subject + "&body=" + body;
+function sendMail(event) {
+  event?.preventDefault();
+  const form = document.getElementById("contact-email-form");
+  if (!form || !form.reportValidity()) return;
+  const message = document.getElementById("message").value.trim();
+  const from = document.getElementById("email").value.trim();
+  const body = encodeURIComponent(`${message}\r\n\r\nFrom: ${from}`);
+  window.location.href = `mailto:support@nestliving.dk?subject=Support%20Request&body=${body}`;
 }

@@ -5,7 +5,7 @@
     "type": "dir",
     "title": "Moon Gold",
     "schemaCategory": "Divan Beds",
-    "variantCount": 6
+    "variantCount": 4
   },
   {
     "name": "metz",
@@ -13,14 +13,6 @@
     "type": "dir",
     "title": "Metz",
     "schemaCategory": "Dining Tables",
-    "variantCount": 3
-  },
-  {
-    "name": "westcoast",
-    "href": "/families/westcoast/",
-    "type": "dir",
-    "title": "Westcoast",
-    "schemaCategory": "Corner Sofas",
     "variantCount": 3
   }
 ]

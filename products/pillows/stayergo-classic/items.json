@@ -1,0 +1,85 @@
+[
+  {
+    "sku": "221939",
+    "name": "221939",
+    "title": "Stayergo Classic Pillow",
+    "variantSummary": "42 × 56 cm / White",
+    "shortDescription": "Stayergo Classic Pillow in White, sized 56 × 42 × 11 cm, made from Cotton and Polyester for a straightforward everyday bedding choice.",
+    "selectionAttributes": {
+      "dimensions": "42 × 56 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "White",
+      "material": "Cotton, Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Pillow",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
+    },
+    "primaryImageUrl": "/products/pillows/stayergo-classic/221939_2.avif",
+    "imageUrl": "/products/pillows/stayergo-classic/221939_2.avif",
+    "imageUrls": [
+      "/products/pillows/stayergo-classic/221939_2.avif",
+      "/products/pillows/stayergo-classic/221939_1.avif"
+    ],
+    "href": "/products/pillows/stayergo-classic/221939",
+    "type": "file",
+    "filterData": {
+      "searchText": "Stayergo Classic Pillow Stayergo Classic Pillow in White, sized 56 × 42 × 11 cm, made from Cotton and Polyester for a straightforward everyday bedding choice. Pillows Bedroom Stayergo Classic Bedroom Pillows Stayergo Classic White Cotton Polyester",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "pillows",
+          "label": "Pillows",
+          "href": "/products/pillows/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "stayergo-classic",
+          "label": "Stayergo Classic",
+          "href": "/families/stayergo-classic/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Stayergo Classic Pillow",
+      "summary": "Stayergo Classic Pillow in White, sized 56 × 42 × 11 cm, made from Cotton and Polyester for a straightforward everyday bedding choice.",
+      "variantCount": 1,
+      "categoryLabel": "Pillows",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Stayergo Classic"
+    }
+  }
+]

@@ -2,26 +2,34 @@
   {
     "sku": "201090",
     "name": "201090",
-    "title": "Nest & Living Bronze Duvet Set",
-    "variantSummary": "150 x 200 x 3 cm",
+    "title": "Nest & Living Bronze Duvet and Pillow Set",
+    "variantSummary": "150 × 200 cm / White",
     "shortDescription": "Light duvet set with a matching pillow for practical daily comfort.",
     "selectionAttributes": {
-      "dimensions": "150 x 200 x 3 cm",
+      "dimensions": "150 × 200 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "",
-      "material": "Polyester, Cotton"
+      "color": "White",
+      "material": "Polyester, Cotton",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Duvet and pillow set",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
-    "imageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
+    "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.avif",
+    "imageUrl": "/products/duvet-pillow-sets/nest-living-bronze/201090_1.avif",
     "imageUrls": [
-      "/products/duvet-pillow-sets/nest-living-bronze/201090_1.jpg",
-      "/products/duvet-pillow-sets/nest-living-bronze/201090_2.jpg"
+      "/products/duvet-pillow-sets/nest-living-bronze/201090_1.avif",
+      "/products/duvet-pillow-sets/nest-living-bronze/201090_2.avif"
     ],
     "href": "/products/duvet-pillow-sets/nest-living-bronze/201090",
     "type": "file",
     "filterData": {
-      "searchText": "Nest & Living Bronze Duvet Set Light duvet set with a matching pillow for practical daily comfort. Duvet & Pillow Sets Bedroom Nest & Living Bronze Bedroom Duvet & Pillow Sets Nest & Living Bronze Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 3 cm cm Dimensions Pillow depth 50 cm cm Dimensions Pillow height 15 cm cm Dimensions Pillow width 60 cm cm Dimensions Width 150 cm cm Logistics Weight 2 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Nest & Living Bronze Duvet and Pillow Set Light duvet set with a matching pillow for practical daily comfort. Duvet & Pillow Sets Bedroom Nest & Living Bronze Bedroom Duvet & Pillow Sets Nest & Living Bronze White Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 3 cm cm Dimensions Pillow depth 50 cm cm Dimensions Pillow height 15 cm cm Dimensions Pillow width 60 cm cm Dimensions Width 150 cm cm Logistics Weight 2 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -43,7 +51,13 @@
           "href": "/families/nest-living-bronze/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -193,7 +207,7 @@
       ]
     },
     "sortData": {
-      "title": "Nest & Living Bronze Duvet Set",
+      "title": "Nest & Living Bronze Duvet and Pillow Set",
       "summary": "Light duvet set with a matching pillow for practical daily comfort.",
       "variantCount": 1,
       "categoryLabel": "Duvet & Pillow Sets",

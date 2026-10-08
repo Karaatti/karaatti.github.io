@@ -8,18 +8,18 @@
     "variantCount": 6
   },
   {
-    "name": "blow",
-    "href": "/families/blow/",
-    "type": "dir",
-    "title": "Blow",
-    "schemaCategory": "Swivel Chairs",
-    "variantCount": 2
-  },
-  {
     "name": "breeze",
     "href": "/families/breeze/",
     "type": "dir",
     "title": "Breeze",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 3
+  },
+  {
+    "name": "blow",
+    "href": "/families/blow/",
+    "type": "dir",
+    "title": "Blow",
     "schemaCategory": "Swivel Chairs",
     "variantCount": 2
   },

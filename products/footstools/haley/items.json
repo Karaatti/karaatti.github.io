@@ -3,26 +3,34 @@
     "sku": "202842",
     "name": "202842",
     "title": "Haley Footstool, Beige",
-    "variantSummary": "57 x 57 cm / Beige",
+    "variantSummary": "57 × 57 cm / Beige",
     "shortDescription": "Beige footstool with tightly woven upholstery and a compact footprint.",
     "selectionAttributes": {
-      "dimensions": "57 x 57 cm",
+      "dimensions": "57 × 57 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Footstool",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/footstools/haley/202842_1.avif",
     "imageUrl": "/products/footstools/haley/202842_1.avif",
     "imageUrls": [
       "/products/footstools/haley/202842_1.avif",
-      "/products/footstools/haley/202842_2.avif",
-      "/products/footstools/haley/202842_3.avif"
+      "/products/footstools/haley/202842_3.avif",
+      "/products/footstools/haley/202842_2.avif"
     ],
     "href": "/products/footstools/haley/202842",
     "type": "file",
     "filterData": {
-      "searchText": "Haley Footstool, Beige Beige footstool with tightly woven upholstery and a compact footprint. Footstools Living room Haley Living room Footstools Haley Beige Fabric Dimensions Depth 57 cm cm Dimensions Height 38 cm cm Dimensions Width 57 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.14 m³ m³ Logistics Weight 6 kg kg Logistics Weight 6.5 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Haley Footstool, Beige Beige footstool with tightly woven upholstery and a compact footprint. Footstools Living room Haley Living room Footstools Haley Beige Fabric Dimensions Depth 57 cm cm Dimensions Height 38 cm cm Dimensions Width 57 cm cm Logistics Package count 1 package package Logistics Package weight 6.5 kg kg Logistics Product count 1 product product Logistics Volume 0.14 m³ m³ Logistics Weight 6 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -111,6 +119,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "6-5-kg",
+          "valueLabel": "6.5 kg",
+          "href": "/attributes/logistics/package-weight/6-5-kg/",
+          "valueType": "enum",
+          "numericValue": 6.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -142,18 +162,6 @@
           "href": "/attributes/logistics/weight/6-kg/",
           "valueType": "enum",
           "numericValue": 6,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "6-5-kg",
-          "valueLabel": "6.5 kg",
-          "href": "/attributes/logistics/weight/6-5-kg/",
-          "valueType": "enum",
-          "numericValue": 6.5,
           "unit": "kg"
         },
         {
@@ -195,14 +203,22 @@
     "sku": "202843",
     "name": "202843",
     "title": "Haley Footstool, Brown",
-    "variantSummary": "57 x 57 cm / Brown",
+    "variantSummary": "57 × 57 cm / Brown",
     "shortDescription": "Brown footstool with tightly woven upholstery and a compact footprint.",
     "selectionAttributes": {
-      "dimensions": "57 x 57 cm",
+      "dimensions": "57 × 57 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Brown",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Footstool",
+      "colorLabel": "Brown",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/footstools/haley/202843_1.avif",
     "imageUrl": "/products/footstools/haley/202843_1.avif",
@@ -215,7 +231,7 @@
     "href": "/products/footstools/haley/202843",
     "type": "file",
     "filterData": {
-      "searchText": "Haley Footstool, Brown Brown footstool with tightly woven upholstery and a compact footprint. Footstools Living room Haley Living room Footstools Haley Brown Fabric Dimensions Depth 57 cm cm Dimensions Height 38 cm cm Dimensions Width 57 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.14 m³ m³ Logistics Weight 6 kg kg Logistics Weight 6.5 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Haley Footstool, Brown Brown footstool with tightly woven upholstery and a compact footprint. Footstools Living room Haley Living room Footstools Haley Brown Fabric Dimensions Depth 57 cm cm Dimensions Height 38 cm cm Dimensions Width 57 cm cm Logistics Package count 1 package package Logistics Package weight 6.5 kg kg Logistics Product count 1 product product Logistics Volume 0.14 m³ m³ Logistics Weight 6 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -304,6 +320,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "6-5-kg",
+          "valueLabel": "6.5 kg",
+          "href": "/attributes/logistics/package-weight/6-5-kg/",
+          "valueType": "enum",
+          "numericValue": 6.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -335,18 +363,6 @@
           "href": "/attributes/logistics/weight/6-kg/",
           "valueType": "enum",
           "numericValue": 6,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "6-5-kg",
-          "valueLabel": "6.5 kg",
-          "href": "/attributes/logistics/weight/6-5-kg/",
-          "valueType": "enum",
-          "numericValue": 6.5,
           "unit": "kg"
         },
         {
@@ -388,14 +404,22 @@
     "sku": "202844",
     "name": "202844",
     "title": "Haley Footstool, Green",
-    "variantSummary": "57 x 57 cm / Green",
+    "variantSummary": "57 × 57 cm / Green",
     "shortDescription": "Green footstool with tightly woven upholstery and a compact footprint.",
     "selectionAttributes": {
-      "dimensions": "57 x 57 cm",
+      "dimensions": "57 × 57 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Green",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Footstool",
+      "colorLabel": "Green",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/footstools/haley/202844_1.avif",
     "imageUrl": "/products/footstools/haley/202844_1.avif",
@@ -405,7 +429,7 @@
     "href": "/products/footstools/haley/202844",
     "type": "file",
     "filterData": {
-      "searchText": "Haley Footstool, Green Green footstool with tightly woven upholstery and a compact footprint. Footstools Living room Haley Living room Footstools Haley Green Fabric Dimensions Depth 57 cm cm Dimensions Height 38 cm cm Dimensions Width 57 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.14 m³ m³ Logistics Weight 6 kg kg Logistics Weight 6.5 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Haley Footstool, Green Green footstool with tightly woven upholstery and a compact footprint. Footstools Living room Haley Living room Footstools Haley Green Fabric Dimensions Depth 57 cm cm Dimensions Height 38 cm cm Dimensions Width 57 cm cm Logistics Package count 1 package package Logistics Package weight 6.5 kg kg Logistics Product count 1 product product Logistics Volume 0.14 m³ m³ Logistics Weight 6 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -494,6 +518,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "6-5-kg",
+          "valueLabel": "6.5 kg",
+          "href": "/attributes/logistics/package-weight/6-5-kg/",
+          "valueType": "enum",
+          "numericValue": 6.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -525,18 +561,6 @@
           "href": "/attributes/logistics/weight/6-kg/",
           "valueType": "enum",
           "numericValue": 6,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "6-5-kg",
-          "valueLabel": "6.5 kg",
-          "href": "/attributes/logistics/weight/6-5-kg/",
-          "valueType": "enum",
-          "numericValue": 6.5,
           "unit": "kg"
         },
         {
@@ -578,14 +602,22 @@
     "sku": "202845",
     "name": "202845",
     "title": "Haley Footstool, Grey",
-    "variantSummary": "57 x 57 cm / Grey",
+    "variantSummary": "57 × 57 cm / Grey",
     "shortDescription": "Grey footstool with tightly woven upholstery and a compact footprint.",
     "selectionAttributes": {
-      "dimensions": "57 x 57 cm",
+      "dimensions": "57 × 57 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Footstool",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/footstools/haley/202845_1.avif",
     "imageUrl": "/products/footstools/haley/202845_1.avif",
@@ -597,7 +629,7 @@
     "href": "/products/footstools/haley/202845",
     "type": "file",
     "filterData": {
-      "searchText": "Haley Footstool, Grey Grey footstool with tightly woven upholstery and a compact footprint. Footstools Living room Haley Living room Footstools Haley Grey Fabric Dimensions Depth 57 cm cm Dimensions Height 38 cm cm Dimensions Width 57 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.14 m³ m³ Logistics Weight 6 kg kg Logistics Weight 6.5 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Haley Footstool, Grey Grey footstool with tightly woven upholstery and a compact footprint. Footstools Living room Haley Living room Footstools Haley Grey Fabric Dimensions Depth 57 cm cm Dimensions Height 38 cm cm Dimensions Width 57 cm cm Logistics Package count 1 package package Logistics Package weight 6.5 kg kg Logistics Product count 1 product product Logistics Volume 0.14 m³ m³ Logistics Weight 6 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -686,6 +718,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "6-5-kg",
+          "valueLabel": "6.5 kg",
+          "href": "/attributes/logistics/package-weight/6-5-kg/",
+          "valueType": "enum",
+          "numericValue": 6.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -717,18 +761,6 @@
           "href": "/attributes/logistics/weight/6-kg/",
           "valueType": "enum",
           "numericValue": 6,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "6-5-kg",
-          "valueLabel": "6.5 kg",
-          "href": "/attributes/logistics/weight/6-5-kg/",
-          "valueType": "enum",
-          "numericValue": 6.5,
           "unit": "kg"
         },
         {

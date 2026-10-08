@@ -1,14 +1,15 @@
 {
   "familyTitle": "Haven",
   "familySummary": "Haven dining chair offers a stylish and comfortable addition to summer dining spaces. Made from natural colored polyrattan with beige cushions, it combines aluminium, fabric and polyrattan for durability and comfort.",
-  "primaryImageUrl": "/products/outdoor-dining-chairs/haven/197625_1.avif",
+  "familyDescription": "The Haven dining chair brings a calm and comfortable presence to outdoor dining areas. Crafted from natural colored polyrattan with beige cushions, it combines aluminium, fabric and polyrattan materials for lasting comfort and durability. Designed for summer use, it suits various outdoor spaces and is easy to maintain.",
+  "primaryImageUrl": "/products/outdoor-dining-chairs/haven/197625_2.avif",
   "schemaCategory": "Outdoor Dining Chairs",
   "variantCount": 1,
   "productFamilyName": "Haven",
   "productFamilyKey": "haven",
   "productFamilyRelativeDir": "families/haven",
   "filterData": {
-    "searchText": "Haven Haven dining chair offers a stylish and comfortable addition to summer dining spaces. Made from natural colored polyrattan with beige cushions, it combines aluminium, fabric and polyrattan for durability and comfort. Outdoor Dining Chairs Outdoor Haven Outdoor Outdoor Dining Chairs Haven Brown Aluminium Fabric Polyester Polyrattan Dimensions Depth 72 cm cm Dimensions Height 92 cm cm Dimensions Width 64 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 7.5 kg kg Logistics Weight 8.8 kg kg Warranty Quality guarantee 1000 days days",
+    "searchText": "Haven Haven dining chair offers a stylish and comfortable addition to summer dining spaces. Made from natural colored polyrattan with beige cushions, it combines aluminium, fabric and polyrattan for durability and comfort. Outdoor Dining Chairs Outdoor Haven Outdoor Outdoor Dining Chairs Haven Beige Aluminium Fabric Polyester Polyrattan Dimensions Depth 72 cm cm Dimensions Height 92 cm cm Dimensions Width 64 cm cm Logistics Package count 1 package package Logistics Package weight 8.8 kg kg Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 7.5 kg kg Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "outdoor",
@@ -32,9 +33,9 @@
     ],
     "colors": [
       {
-        "key": "brown",
-        "label": "Brown",
-        "href": "/colors/brown/"
+        "key": "beige",
+        "label": "Beige",
+        "href": "/colors/beige/"
       }
     ],
     "materials": [
@@ -112,6 +113,18 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "8-8-kg",
+        "valueLabel": "8.8 kg",
+        "href": "/attributes/logistics/package-weight/8-8-kg/",
+        "valueType": "enum",
+        "numericValue": 8.8,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "1-product",
@@ -143,18 +156,6 @@
         "href": "/attributes/logistics/weight/7-5-kg/",
         "valueType": "enum",
         "numericValue": 7.5,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "8-8-kg",
-        "valueLabel": "8.8 kg",
-        "href": "/attributes/logistics/weight/8-8-kg/",
-        "valueType": "enum",
-        "numericValue": 8.8,
         "unit": "kg"
       },
       {

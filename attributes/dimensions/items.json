@@ -5,7 +5,7 @@
     "href": "/attributes/dimensions/depth/",
     "type": "dir",
     "entryCount": 49,
-    "variantCount": 421,
+    "variantCount": 423,
     "valueType": "measurement",
     "numericFilter": {
       "numericEntryCount": 49,
@@ -29,11 +29,11 @@
     "label": "Depth 2",
     "href": "/attributes/dimensions/depth2/",
     "type": "dir",
-    "entryCount": 1,
-    "variantCount": 1,
+    "entryCount": 2,
+    "variantCount": 3,
     "valueType": "measurement",
     "numericFilter": {
-      "numericEntryCount": 1,
+      "numericEntryCount": 2,
       "unitCount": 1,
       "units": [
         "cm"
@@ -41,10 +41,10 @@
       "ranges": [
         {
           "unit": "cm",
-          "min": 42,
+          "min": 40,
           "max": 42,
-          "count": 1,
-          "distinctCount": 1
+          "count": 2,
+          "distinctCount": 2
         }
       ]
     }
@@ -105,7 +105,7 @@
     "href": "/attributes/dimensions/height/",
     "type": "dir",
     "entryCount": 59,
-    "variantCount": 411,
+    "variantCount": 413,
     "valueType": "measurement",
     "numericFilter": {
       "numericEntryCount": 59,
@@ -129,11 +129,11 @@
     "label": "Height 2",
     "href": "/attributes/dimensions/height2/",
     "type": "dir",
-    "entryCount": 1,
-    "variantCount": 1,
+    "entryCount": 2,
+    "variantCount": 3,
     "valueType": "measurement",
     "numericFilter": {
-      "numericEntryCount": 1,
+      "numericEntryCount": 2,
       "unitCount": 1,
       "units": [
         "cm"
@@ -141,10 +141,10 @@
       "ranges": [
         {
           "unit": "cm",
-          "min": 42,
+          "min": 33,
           "max": 42,
-          "count": 1,
-          "distinctCount": 1
+          "count": 2,
+          "distinctCount": 2
         }
       ]
     }
@@ -255,7 +255,7 @@
     "href": "/attributes/dimensions/ottoman-depth/",
     "type": "dir",
     "entryCount": 2,
-    "variantCount": 4,
+    "variantCount": 5,
     "valueType": "measurement",
     "numericFilter": {
       "numericEntryCount": 2,
@@ -280,7 +280,7 @@
     "href": "/attributes/dimensions/ottoman-height/",
     "type": "dir",
     "entryCount": 2,
-    "variantCount": 4,
+    "variantCount": 5,
     "valueType": "measurement",
     "numericFilter": {
       "numericEntryCount": 2,
@@ -305,7 +305,7 @@
     "href": "/attributes/dimensions/ottoman-width/",
     "type": "dir",
     "entryCount": 2,
-    "variantCount": 4,
+    "variantCount": 5,
     "valueType": "measurement",
     "numericFilter": {
       "numericEntryCount": 2,
@@ -475,87 +475,12 @@
     }
   },
   {
-    "name": "smaller-table-depth",
-    "label": "Smaller table depth",
-    "href": "/attributes/dimensions/smaller-table-depth/",
-    "type": "dir",
-    "entryCount": 1,
-    "variantCount": 2,
-    "valueType": "measurement",
-    "numericFilter": {
-      "numericEntryCount": 1,
-      "unitCount": 1,
-      "units": [
-        "cm"
-      ],
-      "ranges": [
-        {
-          "unit": "cm",
-          "min": 40,
-          "max": 40,
-          "count": 1,
-          "distinctCount": 1
-        }
-      ]
-    }
-  },
-  {
-    "name": "smaller-table-height",
-    "label": "Smaller table height",
-    "href": "/attributes/dimensions/smaller-table-height/",
-    "type": "dir",
-    "entryCount": 1,
-    "variantCount": 2,
-    "valueType": "measurement",
-    "numericFilter": {
-      "numericEntryCount": 1,
-      "unitCount": 1,
-      "units": [
-        "cm"
-      ],
-      "ranges": [
-        {
-          "unit": "cm",
-          "min": 33,
-          "max": 33,
-          "count": 1,
-          "distinctCount": 1
-        }
-      ]
-    }
-  },
-  {
-    "name": "smaller-table-width",
-    "label": "Smaller table width",
-    "href": "/attributes/dimensions/smaller-table-width/",
-    "type": "dir",
-    "entryCount": 1,
-    "variantCount": 2,
-    "valueType": "measurement",
-    "numericFilter": {
-      "numericEntryCount": 1,
-      "unitCount": 1,
-      "units": [
-        "cm"
-      ],
-      "ranges": [
-        {
-          "unit": "cm",
-          "min": 60,
-          "max": 60,
-          "count": 1,
-          "distinctCount": 1
-        }
-      ]
-    }
-  },
-  {
     "name": "width",
     "label": "Width",
     "href": "/attributes/dimensions/width/",
     "type": "dir",
     "entryCount": 58,
-    "variantCount": 422,
+    "variantCount": 424,
     "valueType": "measurement",
     "numericFilter": {
       "numericEntryCount": 58,
@@ -579,11 +504,11 @@
     "label": "Width 2",
     "href": "/attributes/dimensions/width2/",
     "type": "dir",
-    "entryCount": 1,
-    "variantCount": 1,
+    "entryCount": 2,
+    "variantCount": 3,
     "valueType": "measurement",
     "numericFilter": {
-      "numericEntryCount": 1,
+      "numericEntryCount": 2,
       "unitCount": 1,
       "units": [
         "cm"
@@ -592,9 +517,9 @@
         {
           "unit": "cm",
           "min": 42,
-          "max": 42,
-          "count": 1,
-          "distinctCount": 1
+          "max": 60,
+          "count": 2,
+          "distinctCount": 2
         }
       ]
     }

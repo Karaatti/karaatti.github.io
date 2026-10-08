@@ -2,15 +2,23 @@
   {
     "sku": "202837",
     "name": "202837",
-    "title": "Moon Mobile Phone Pocket, Grey",
-    "variantSummary": "20 x 60 cm / Pocket spring / Grey",
+    "title": "Moon Phone Pocket, Light grey",
+    "variantSummary": "20 × 60 cm / Pocket spring / Grey",
     "shortDescription": "Grey fabric pocket with dense weave, suitable for bedroom use.",
     "selectionAttributes": {
-      "dimensions": "20 x 60 cm",
+      "dimensions": "20 × 60 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Grey",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Phone pocket",
+      "colorLabel": "Light grey",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/mobile-phone-pockets/moon/202837_1.avif",
     "imageUrl": "/products/mobile-phone-pockets/moon/202837_1.avif",
@@ -20,7 +28,7 @@
     "href": "/products/mobile-phone-pockets/moon/202837",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Mobile Phone Pocket, Grey Grey fabric pocket with dense weave, suitable for bedroom use. Mobile Phone Pockets Bedroom Moon Bedroom Mobile Phone Pockets Moon Grey Fabric Metal Dimensions Depth 60 cm cm Dimensions Height 1 cm cm Dimensions Width 20 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Weight 0.4 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Phone Pocket, Light grey Grey fabric pocket with dense weave, suitable for bedroom use. Mobile Phone Pockets Bedroom Moon Bedroom Mobile Phone Pockets Moon Grey Fabric Metal Dimensions Depth 60 cm cm Dimensions Height 1 cm cm Dimensions Width 20 cm cm Logistics Package count 1 package package Logistics Package weight 0.4 kg kg Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -114,6 +122,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "0-4-kg",
+          "valueLabel": "0.4 kg",
+          "href": "/attributes/logistics/package-weight/0-4-kg/",
+          "valueType": "enum",
+          "numericValue": 0.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -134,18 +154,6 @@
           "valueType": "enum",
           "numericValue": 0.01,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "0-4-kg",
-          "valueLabel": "0.4 kg",
-          "href": "/attributes/logistics/weight/0-4-kg/",
-          "valueType": "enum",
-          "numericValue": 0.4,
-          "unit": "kg"
         },
         {
           "groupKey": "setup",
@@ -186,7 +194,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Mobile Phone Pocket, Grey",
+      "title": "Moon Phone Pocket, Light grey",
       "summary": "Grey fabric pocket with dense weave, suitable for bedroom use.",
       "variantCount": 1,
       "categoryLabel": "Mobile Phone Pockets",
@@ -197,15 +205,23 @@
   {
     "sku": "202838",
     "name": "202838",
-    "title": "Moon Mobile Phone Pocket, Beige",
-    "variantSummary": "20 x 60 cm / Pocket spring / Beige",
+    "title": "Moon Phone Pocket, Beige",
+    "variantSummary": "20 × 60 cm / Pocket spring / Beige",
     "shortDescription": "Beige fabric pocket with dense weave, suitable for bedroom use.",
     "selectionAttributes": {
-      "dimensions": "20 x 60 cm",
+      "dimensions": "20 × 60 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Beige",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Phone pocket",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/mobile-phone-pockets/moon/202838_1.avif",
     "imageUrl": "/products/mobile-phone-pockets/moon/202838_1.avif",
@@ -215,7 +231,7 @@
     "href": "/products/mobile-phone-pockets/moon/202838",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Mobile Phone Pocket, Beige Beige fabric pocket with dense weave, suitable for bedroom use. Mobile Phone Pockets Bedroom Moon Bedroom Mobile Phone Pockets Moon Beige Fabric Metal Dimensions Depth 60 cm cm Dimensions Height 1 cm cm Dimensions Width 20 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Weight 0.4 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Phone Pocket, Beige Beige fabric pocket with dense weave, suitable for bedroom use. Mobile Phone Pockets Bedroom Moon Bedroom Mobile Phone Pockets Moon Beige Fabric Metal Dimensions Depth 60 cm cm Dimensions Height 1 cm cm Dimensions Width 20 cm cm Logistics Package count 1 package package Logistics Package weight 0.4 kg kg Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -309,6 +325,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "0-4-kg",
+          "valueLabel": "0.4 kg",
+          "href": "/attributes/logistics/package-weight/0-4-kg/",
+          "valueType": "enum",
+          "numericValue": 0.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -329,18 +357,6 @@
           "valueType": "enum",
           "numericValue": 0.01,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "0-4-kg",
-          "valueLabel": "0.4 kg",
-          "href": "/attributes/logistics/weight/0-4-kg/",
-          "valueType": "enum",
-          "numericValue": 0.4,
-          "unit": "kg"
         },
         {
           "groupKey": "setup",
@@ -381,7 +397,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Mobile Phone Pocket, Beige",
+      "title": "Moon Phone Pocket, Beige",
       "summary": "Beige fabric pocket with dense weave, suitable for bedroom use.",
       "variantCount": 1,
       "categoryLabel": "Mobile Phone Pockets",
@@ -392,15 +408,23 @@
   {
     "sku": "202839",
     "name": "202839",
-    "title": "Moon Mobile Phone Pocket, Black",
-    "variantSummary": "20 x 60 cm / Pocket spring / Black",
-    "shortDescription": "Black fabric pocket with dense weave, suitable for bedroom use.",
+    "title": "Moon Phone Pocket, Anthracite",
+    "variantSummary": "20 × 60 cm / Pocket spring / Grey",
+    "shortDescription": "Anthracite grey fabric pocket with dense weave, suitable for bedroom use.",
     "selectionAttributes": {
-      "dimensions": "20 x 60 cm",
+      "dimensions": "20 × 60 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
-      "color": "Black",
-      "material": "Fabric"
+      "color": "Grey",
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Phone pocket",
+      "colorLabel": "Anthracite",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/mobile-phone-pockets/moon/202839_1.avif",
     "imageUrl": "/products/mobile-phone-pockets/moon/202839_1.avif",
@@ -410,7 +434,7 @@
     "href": "/products/mobile-phone-pockets/moon/202839",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Mobile Phone Pocket, Black Black fabric pocket with dense weave, suitable for bedroom use. Mobile Phone Pockets Bedroom Moon Bedroom Mobile Phone Pockets Moon Black Fabric Metal Dimensions Depth 60 cm cm Dimensions Height 1 cm cm Dimensions Width 20 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Weight 0.4 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Phone Pocket, Anthracite Anthracite grey fabric pocket with dense weave, suitable for bedroom use. Mobile Phone Pockets Bedroom Moon Bedroom Mobile Phone Pockets Moon Grey Fabric Metal Dimensions Depth 60 cm cm Dimensions Height 1 cm cm Dimensions Width 20 cm cm Logistics Package count 1 package package Logistics Package weight 0.4 kg kg Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -434,9 +458,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -504,6 +528,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "0-4-kg",
+          "valueLabel": "0.4 kg",
+          "href": "/attributes/logistics/package-weight/0-4-kg/",
+          "valueType": "enum",
+          "numericValue": 0.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -524,18 +560,6 @@
           "valueType": "enum",
           "numericValue": 0.01,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "0-4-kg",
-          "valueLabel": "0.4 kg",
-          "href": "/attributes/logistics/weight/0-4-kg/",
-          "valueType": "enum",
-          "numericValue": 0.4,
-          "unit": "kg"
         },
         {
           "groupKey": "setup",
@@ -576,8 +600,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Mobile Phone Pocket, Black",
-      "summary": "Black fabric pocket with dense weave, suitable for bedroom use.",
+      "title": "Moon Phone Pocket, Anthracite",
+      "summary": "Anthracite grey fabric pocket with dense weave, suitable for bedroom use.",
       "variantCount": 1,
       "categoryLabel": "Mobile Phone Pockets",
       "collectionLabel": "Bedroom",

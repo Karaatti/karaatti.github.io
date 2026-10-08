@@ -1,14 +1,15 @@
 {
   "familyTitle": "Moon Bronze continental bed",
-  "familySummary": "Moon Bronze Continental Beds combines practical design with understated style. It features pocket spring support without zoning and a durable wooden frame with black wooden legs. The base is delivered in parts for easy assembly.",
-  "primaryImageUrl": "/products/continental-beds/moon_bronze_silver_continental_bed_grey_1.avif",
+  "familySummary": "Moon Bronze continental beds combine grey upholstery with pocket spring support, in a choice of sizes for the bedroom.",
+  "familyDescription": "Choose a Moon Bronze continental bed in the size that suits your bedroom. The grey finish and wooden legs give the range a consistent appearance. Use the selected product's details to compare dimensions, construction and included components, and check the delivery and assembly arrangements with the retailer before ordering.",
+  "primaryImageUrl": "/products/continental-beds/moon_bronze_silver_continental_bed_grey_2.avif",
   "schemaCategory": "Continental Beds",
   "variantCount": 4,
   "productFamilyName": "Moon Bronze",
   "productFamilyKey": "moon-bronze",
   "productFamilyRelativeDir": "families/moon-bronze",
   "filterData": {
-    "searchText": "Moon Bronze continental bed Moon Bronze Continental Beds combines practical design with understated style. It features pocket spring support without zoning and a durable wooden frame with black wooden legs. The base is delivered in parts for easy assembly. Continental Beds Bedroom Moon Bronze Bedroom Continental Beds Moon Bronze Grey Fabric Metal Wood Comfort Firmness Medium firm Dimensions Depth 200 cm cm Dimensions Height 54 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Volume 0.02 m³ m³ Logistics Volume 0.16 m³ m³ Logistics Volume 0.18 m³ m³ Logistics Weight 1 kg kg Logistics Weight 1.8 kg kg Logistics Weight 22 kg kg Logistics Weight 52 kg kg Logistics Weight 54.5 kg kg Logistics Weight 59 kg kg Logistics Weight 63.2 kg kg Setup Assembly time 90 min min Support Zone count 1-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+    "searchText": "Moon Bronze continental bed Moon Bronze continental beds combine grey upholstery with pocket spring support, in a choice of sizes for the bedroom. Continental Beds Bedroom Moon Bronze Bedroom Continental Beds Moon Bronze Grey Fabric Metal Wood Comfort Firmness Medium firm Dimensions Depth 200 cm cm Dimensions Height 54 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 1 kg kg Logistics Package weight 1.8 kg kg Logistics Package weight 22 kg kg Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Volume 0.02 m³ m³ Logistics Volume 0.16 m³ m³ Logistics Volume 0.18 m³ m³ Logistics Weight 52 kg kg Logistics Weight 54.5 kg kg Logistics Weight 59 kg kg Logistics Weight 63.2 kg kg Setup Assembly time 90 min min Support Zone count 1-zone Warranty Frame warranty 4000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
     "collections": [
       {
         "key": "bedroom",
@@ -179,6 +180,42 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "1-kg",
+        "valueLabel": "1 kg",
+        "href": "/attributes/logistics/package-weight/1-kg/",
+        "valueType": "enum",
+        "numericValue": 1,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "1-8-kg",
+        "valueLabel": "1.8 kg",
+        "href": "/attributes/logistics/package-weight/1-8-kg/",
+        "valueType": "enum",
+        "numericValue": 1.8,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "22-kg",
+        "valueLabel": "22 kg",
+        "href": "/attributes/logistics/package-weight/22-kg/",
+        "valueType": "enum",
+        "numericValue": 22,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "1-product",
@@ -235,42 +272,6 @@
         "valueType": "enum",
         "numericValue": 0.18,
         "unit": "m³"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "1-kg",
-        "valueLabel": "1 kg",
-        "href": "/attributes/logistics/weight/1-kg/",
-        "valueType": "enum",
-        "numericValue": 1,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "1-8-kg",
-        "valueLabel": "1.8 kg",
-        "href": "/attributes/logistics/weight/1-8-kg/",
-        "valueType": "enum",
-        "numericValue": 1.8,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "22-kg",
-        "valueLabel": "22 kg",
-        "href": "/attributes/logistics/weight/22-kg/",
-        "valueType": "enum",
-        "numericValue": 22,
-        "unit": "kg"
       },
       {
         "groupKey": "logistics",
@@ -396,7 +397,7 @@
   },
   "sortData": {
     "title": "Moon Bronze continental bed",
-    "summary": "Moon Bronze Continental Beds combines practical design with understated style. It features pocket spring support without zoning and a durable wooden frame with black wooden legs. The base is delivered in parts for easy assembly.",
+    "summary": "Moon Bronze continental beds combine grey upholstery with pocket spring support, in a choice of sizes for the bedroom.",
     "variantCount": 4,
     "categoryLabel": "Continental Beds",
     "collectionLabel": "Bedroom",

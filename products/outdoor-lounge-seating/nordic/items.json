@@ -2,28 +2,36 @@
   {
     "sku": "198246",
     "name": "198246",
-    "title": "Nordic Outdoor Lounge Seating",
-    "variantSummary": "82 x 82 cm / White, Beige",
+    "title": "Nordic Corner Module",
+    "variantSummary": "82 × 82 cm / White",
     "shortDescription": "Corner section with a white aluminium frame and beige outdoor fabric upholstery.",
     "selectionAttributes": {
-      "dimensions": "82 x 82 cm",
+      "dimensions": "82 × 82 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "White, Beige",
-      "material": "Fabric, Aluminium"
+      "color": "White",
+      "material": "Fabric, Aluminium",
+      "productType": "Corner module",
+      "productTypeNote": "",
+      "productNoun": "Corner module",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "productType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/outdoor-lounge-seating/nordic/198246_1.avif",
-    "imageUrl": "/products/outdoor-lounge-seating/nordic/198246_1.avif",
+    "primaryImageUrl": "/products/outdoor-lounge-seating/nordic/198246_2.avif",
+    "imageUrl": "/products/outdoor-lounge-seating/nordic/198246_2.avif",
     "imageUrls": [
-      "/products/outdoor-lounge-seating/nordic/198246_1.avif",
       "/products/outdoor-lounge-seating/nordic/198246_2.avif",
       "/products/outdoor-lounge-seating/nordic/198246_3.avif",
-      "/products/outdoor-lounge-seating/nordic/198246_4.avif"
+      "/products/outdoor-lounge-seating/nordic/198246_4.avif",
+      "/products/outdoor-lounge-seating/nordic/198246_1.avif"
     ],
     "href": "/products/outdoor-lounge-seating/nordic/198246",
     "type": "file",
     "filterData": {
-      "searchText": "Nordic Outdoor Lounge Seating Corner section with a white aluminium frame and beige outdoor fabric upholstery. Outdoor Lounge Seating Outdoor Nordic Outdoor Outdoor Lounge Seating Nordic Beige White Aluminium Fabric Dimensions Depth 82 cm cm Dimensions Height 61 cm cm Dimensions Width 82 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.33 m³ m³ Logistics Weight 10 kg kg Logistics Weight 14 kg kg Warranty Quality guarantee 1000 days days",
+      "searchText": "Nordic Corner Module Corner section with a white aluminium frame and beige outdoor fabric upholstery. Outdoor Lounge Seating Outdoor Nordic Outdoor Outdoor Lounge Seating Nordic White Aluminium Fabric Dimensions Depth 82 cm cm Dimensions Height 61 cm cm Dimensions Width 82 cm cm Logistics Package count 1 package package Logistics Package weight 14 kg kg Logistics Product count 1 product product Logistics Volume 0.33 m³ m³ Logistics Weight 10 kg kg Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -46,11 +54,6 @@
         }
       ],
       "colors": [
-        {
-          "key": "beige",
-          "label": "Beige",
-          "href": "/colors/beige/"
-        },
         {
           "key": "white",
           "label": "White",
@@ -118,6 +121,18 @@
           "valueType": "enum",
           "numericValue": 1,
           "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "14-kg",
+          "valueLabel": "14 kg",
+          "href": "/attributes/logistics/package-weight/14-kg/",
+          "valueType": "enum",
+          "numericValue": 14,
+          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -156,18 +171,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "14-kg",
-          "valueLabel": "14 kg",
-          "href": "/attributes/logistics/weight/14-kg/",
-          "valueType": "enum",
-          "numericValue": 14,
-          "unit": "kg"
-        },
-        {
           "groupKey": "warranty",
           "groupLabel": "Warranty",
           "key": "quality-guarantee",
@@ -182,7 +185,7 @@
       ]
     },
     "sortData": {
-      "title": "Nordic Outdoor Lounge Seating",
+      "title": "Nordic Corner Module",
       "summary": "Corner section with a white aluminium frame and beige outdoor fabric upholstery.",
       "variantCount": 1,
       "categoryLabel": "Outdoor Lounge Seating",
@@ -193,28 +196,36 @@
   {
     "sku": "198247",
     "name": "198247",
-    "title": "Nordic Outdoor Lounge Seating",
-    "variantSummary": "82 x 82 cm / White, Beige",
+    "title": "Nordic Middle Module",
+    "variantSummary": "82 × 82 cm / White",
     "shortDescription": "Middle section with a white aluminium frame and beige outdoor fabric upholstery.",
     "selectionAttributes": {
-      "dimensions": "82 x 82 cm",
+      "dimensions": "82 × 82 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "White, Beige",
-      "material": "Fabric, Aluminium"
+      "color": "White",
+      "material": "Fabric, Aluminium",
+      "productType": "Middle module",
+      "productTypeNote": "",
+      "productNoun": "Middle module",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "productType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/outdoor-lounge-seating/nordic/198247_1.avif",
-    "imageUrl": "/products/outdoor-lounge-seating/nordic/198247_1.avif",
+    "primaryImageUrl": "/products/outdoor-lounge-seating/nordic/198247_3.avif",
+    "imageUrl": "/products/outdoor-lounge-seating/nordic/198247_3.avif",
     "imageUrls": [
-      "/products/outdoor-lounge-seating/nordic/198247_1.avif",
-      "/products/outdoor-lounge-seating/nordic/198247_2.avif",
       "/products/outdoor-lounge-seating/nordic/198247_3.avif",
-      "/products/outdoor-lounge-seating/nordic/198247_4.avif"
+      "/products/outdoor-lounge-seating/nordic/198247_4.avif",
+      "/products/outdoor-lounge-seating/nordic/198247_2.avif",
+      "/products/outdoor-lounge-seating/nordic/198247_1.avif"
     ],
     "href": "/products/outdoor-lounge-seating/nordic/198247",
     "type": "file",
     "filterData": {
-      "searchText": "Nordic Outdoor Lounge Seating Middle section with a white aluminium frame and beige outdoor fabric upholstery. Outdoor Lounge Seating Outdoor Nordic Outdoor Outdoor Lounge Seating Nordic Beige White Aluminium Fabric Dimensions Depth 82 cm cm Dimensions Height 61 cm cm Dimensions Width 82 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.31 m³ m³ Logistics Weight 8.5 kg kg Logistics Weight 12 kg kg Warranty Quality guarantee 1000 days days",
+      "searchText": "Nordic Middle Module Middle section with a white aluminium frame and beige outdoor fabric upholstery. Outdoor Lounge Seating Outdoor Nordic Outdoor Outdoor Lounge Seating Nordic White Aluminium Fabric Dimensions Depth 82 cm cm Dimensions Height 61 cm cm Dimensions Width 82 cm cm Logistics Package count 1 package package Logistics Package weight 12 kg kg Logistics Product count 1 product product Logistics Volume 0.31 m³ m³ Logistics Weight 8.5 kg kg Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -237,11 +248,6 @@
         }
       ],
       "colors": [
-        {
-          "key": "beige",
-          "label": "Beige",
-          "href": "/colors/beige/"
-        },
         {
           "key": "white",
           "label": "White",
@@ -313,6 +319,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "12-kg",
+          "valueLabel": "12 kg",
+          "href": "/attributes/logistics/package-weight/12-kg/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -347,18 +365,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "12-kg",
-          "valueLabel": "12 kg",
-          "href": "/attributes/logistics/weight/12-kg/",
-          "valueType": "enum",
-          "numericValue": 12,
-          "unit": "kg"
-        },
-        {
           "groupKey": "warranty",
           "groupLabel": "Warranty",
           "key": "quality-guarantee",
@@ -373,7 +379,7 @@
       ]
     },
     "sortData": {
-      "title": "Nordic Outdoor Lounge Seating",
+      "title": "Nordic Middle Module",
       "summary": "Middle section with a white aluminium frame and beige outdoor fabric upholstery.",
       "variantCount": 1,
       "categoryLabel": "Outdoor Lounge Seating",
@@ -384,27 +390,35 @@
   {
     "sku": "198248",
     "name": "198248",
-    "title": "Nordic Outdoor Lounge Seating",
-    "variantSummary": "82 x 82 cm / White, Beige",
+    "title": "Nordic Footstool",
+    "variantSummary": "82 × 82 cm / White",
     "shortDescription": "Ottoman with a white aluminium frame and beige outdoor fabric upholstery.",
     "selectionAttributes": {
-      "dimensions": "82 x 82 cm",
+      "dimensions": "82 × 82 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "White, Beige",
-      "material": "Fabric, Aluminium"
+      "color": "White",
+      "material": "Fabric, Aluminium",
+      "productType": "Footstool",
+      "productTypeNote": "",
+      "productNoun": "Footstool",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "productType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/outdoor-lounge-seating/nordic/198248_1.avif",
-    "imageUrl": "/products/outdoor-lounge-seating/nordic/198248_1.avif",
+    "primaryImageUrl": "/products/outdoor-lounge-seating/nordic/198248_2.avif",
+    "imageUrl": "/products/outdoor-lounge-seating/nordic/198248_2.avif",
     "imageUrls": [
-      "/products/outdoor-lounge-seating/nordic/198248_1.avif",
       "/products/outdoor-lounge-seating/nordic/198248_2.avif",
-      "/products/outdoor-lounge-seating/nordic/198248_3.avif"
+      "/products/outdoor-lounge-seating/nordic/198248_3.avif",
+      "/products/outdoor-lounge-seating/nordic/198248_1.avif"
     ],
     "href": "/products/outdoor-lounge-seating/nordic/198248",
     "type": "file",
     "filterData": {
-      "searchText": "Nordic Outdoor Lounge Seating Ottoman with a white aluminium frame and beige outdoor fabric upholstery. Outdoor Lounge Seating Outdoor Nordic Outdoor Outdoor Lounge Seating Nordic Beige White Aluminium Fabric Dimensions Depth 82 cm cm Dimensions Height 24 cm cm Dimensions Width 82 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Weight 6 kg kg Logistics Weight 11 kg kg Warranty Quality guarantee 1000 days days",
+      "searchText": "Nordic Footstool Ottoman with a white aluminium frame and beige outdoor fabric upholstery. Outdoor Lounge Seating Outdoor Nordic Outdoor Outdoor Lounge Seating Nordic White Aluminium Fabric Dimensions Depth 82 cm cm Dimensions Height 24 cm cm Dimensions Width 82 cm cm Logistics Package count 1 package package Logistics Package weight 11 kg kg Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Weight 6 kg kg Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -427,11 +441,6 @@
         }
       ],
       "colors": [
-        {
-          "key": "beige",
-          "label": "Beige",
-          "href": "/colors/beige/"
-        },
         {
           "key": "white",
           "label": "White",
@@ -503,6 +512,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "11-kg",
+          "valueLabel": "11 kg",
+          "href": "/attributes/logistics/package-weight/11-kg/",
+          "valueType": "enum",
+          "numericValue": 11,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -537,18 +558,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "11-kg",
-          "valueLabel": "11 kg",
-          "href": "/attributes/logistics/weight/11-kg/",
-          "valueType": "enum",
-          "numericValue": 11,
-          "unit": "kg"
-        },
-        {
           "groupKey": "warranty",
           "groupLabel": "Warranty",
           "key": "quality-guarantee",
@@ -563,7 +572,7 @@
       ]
     },
     "sortData": {
-      "title": "Nordic Outdoor Lounge Seating",
+      "title": "Nordic Footstool",
       "summary": "Ottoman with a white aluminium frame and beige outdoor fabric upholstery.",
       "variantCount": 1,
       "categoryLabel": "Outdoor Lounge Seating",

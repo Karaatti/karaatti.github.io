@@ -16,6 +16,14 @@
     "variantCount": 6
   },
   {
+    "name": "sparkle",
+    "href": "/products/chaise-sofas/sparkle/",
+    "type": "dir",
+    "title": "Sparkle",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 6
+  },
+  {
     "name": "bow",
     "href": "/products/dining-chairs/bow/",
     "type": "dir",
@@ -37,6 +45,30 @@
     "type": "dir",
     "title": "Bay",
     "schemaCategory": "Swivel Chairs",
+    "variantCount": 1
+  },
+  {
+    "name": "freedom",
+    "href": "/products/three-seater-sofas/freedom/",
+    "type": "dir",
+    "title": "Freedom",
+    "schemaCategory": "3-Seater Sofas",
+    "variantCount": 1
+  },
+  {
+    "name": "joy",
+    "href": "/products/chaise-sofas/joy/",
+    "type": "dir",
+    "title": "Joy",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 1
+  },
+  {
+    "name": "tilda",
+    "href": "/products/coffee-tables/tilda/",
+    "type": "dir",
+    "title": "Tilda",
+    "schemaCategory": "Coffee Tables",
     "variantCount": 1
   }
 ]

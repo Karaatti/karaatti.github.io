@@ -2,29 +2,34 @@
   {
     "sku": "197756",
     "name": "197756",
-    "title": "Moon Silver topper, 80 x 200 x 5 cm",
-    "variantSummary": "80 x 200 x 5 cm / Comfort foam / White",
+    "title": "Moon Silver Topper, 80 × 200 cm",
+    "variantSummary": "80 × 200 cm / Comfort foam / White",
     "shortDescription": "White mattress topper, 80 x 200 x 5 cm, breathable and soft cushioning layer.",
     "selectionAttributes": {
-      "dimensions": "80 x 200 x 5 cm",
+      "dimensions": "80 × 200 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
       "color": "White",
-      "material": "Foam"
+      "material": "Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "imageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "imageUrls": [
       "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
-      "/products/toppers/moon-silver/moon_silver_topper_white_3.avif",
-      "/products/toppers/moon-silver/197756_1.jpg",
-      "/products/toppers/moon-silver/197756_2.jpg",
-      "/products/toppers/moon-silver/197756_3.jpg"
+      "/products/toppers/moon-silver/moon_silver_topper_white_3.avif"
     ],
     "href": "/products/toppers/moon-silver/197756",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver topper, 80 x 200 x 5 cm White mattress topper, 80 x 200 x 5 cm, breathable and soft cushioning layer. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.12 m³ m³ Logistics Weight 3 kg kg Logistics Weight 3.2 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Topper, 80 × 200 cm White mattress topper, 80 x 200 x 5 cm, breathable and soft cushioning layer. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Package weight 3.2 kg kg Logistics Product count 1 product product Logistics Volume 0.12 m³ m³ Logistics Weight 3 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -125,6 +130,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-2-kg",
+          "valueLabel": "3.2 kg",
+          "href": "/attributes/logistics/package-weight/3-2-kg/",
+          "valueType": "enum",
+          "numericValue": 3.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -156,18 +173,6 @@
           "href": "/attributes/logistics/weight/3-kg/",
           "valueType": "enum",
           "numericValue": 3,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "3-2-kg",
-          "valueLabel": "3.2 kg",
-          "href": "/attributes/logistics/weight/3-2-kg/",
-          "valueType": "enum",
-          "numericValue": 3.2,
           "unit": "kg"
         },
         {
@@ -209,7 +214,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver topper, 80 x 200 x 5 cm",
+      "title": "Moon Silver Topper, 80 × 200 cm",
       "summary": "White mattress topper, 80 x 200 x 5 cm, breathable and soft cushioning layer.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
@@ -220,29 +225,34 @@
   {
     "sku": "197757",
     "name": "197757",
-    "title": "Moon Silver topper, 90 x 200 x 5 cm",
-    "variantSummary": "90 x 200 x 5 cm / Comfort foam / White",
+    "title": "Moon Silver Topper, 90 × 200 cm",
+    "variantSummary": "90 × 200 cm / Comfort foam / White",
     "shortDescription": "White mattress topper, 90 x 200 x 5 cm, breathable and soft cushioning layer.",
     "selectionAttributes": {
-      "dimensions": "90 x 200 x 5 cm",
+      "dimensions": "90 × 200 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
       "color": "White",
-      "material": "Foam"
+      "material": "Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "imageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "imageUrls": [
       "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
-      "/products/toppers/moon-silver/moon_silver_topper_white_3.avif",
-      "/products/toppers/moon-silver/197757_1.avif",
-      "/products/toppers/moon-silver/197757_2.avif",
-      "/products/toppers/moon-silver/197757_3.avif"
+      "/products/toppers/moon-silver/moon_silver_topper_white_3.avif"
     ],
     "href": "/products/toppers/moon-silver/197757",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver topper, 90 x 200 x 5 cm White mattress topper, 90 x 200 x 5 cm, breathable and soft cushioning layer. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.12 m³ m³ Logistics Weight 3.5 kg kg Logistics Weight 3.6 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Topper, 90 × 200 cm White mattress topper, 90 x 200 x 5 cm, breathable and soft cushioning layer. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Package weight 3.6 kg kg Logistics Product count 1 product product Logistics Volume 0.12 m³ m³ Logistics Weight 3.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -343,6 +353,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-6-kg",
+          "valueLabel": "3.6 kg",
+          "href": "/attributes/logistics/package-weight/3-6-kg/",
+          "valueType": "enum",
+          "numericValue": 3.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -374,18 +396,6 @@
           "href": "/attributes/logistics/weight/3-5-kg/",
           "valueType": "enum",
           "numericValue": 3.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "3-6-kg",
-          "valueLabel": "3.6 kg",
-          "href": "/attributes/logistics/weight/3-6-kg/",
-          "valueType": "enum",
-          "numericValue": 3.6,
           "unit": "kg"
         },
         {
@@ -427,7 +437,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver topper, 90 x 200 x 5 cm",
+      "title": "Moon Silver Topper, 90 × 200 cm",
       "summary": "White mattress topper, 90 x 200 x 5 cm, breathable and soft cushioning layer.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
@@ -438,29 +448,34 @@
   {
     "sku": "197758",
     "name": "197758",
-    "title": "Moon Silver topper, 105 x 200 x 5 cm",
-    "variantSummary": "105 x 200 x 5 cm / Comfort foam / White",
+    "title": "Moon Silver Topper, 105 × 200 cm",
+    "variantSummary": "105 × 200 cm / Comfort foam / White",
     "shortDescription": "White mattress topper, 105 x 200 x 5 cm, breathable and soft cushioning layer.",
     "selectionAttributes": {
-      "dimensions": "105 x 200 x 5 cm",
+      "dimensions": "105 × 200 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
       "color": "White",
-      "material": "Foam"
+      "material": "Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "imageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "imageUrls": [
       "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
-      "/products/toppers/moon-silver/moon_silver_topper_white_3.avif",
-      "/products/toppers/moon-silver/197758_1.avif",
-      "/products/toppers/moon-silver/197758_2.jpg",
-      "/products/toppers/moon-silver/197758_3.jpg"
+      "/products/toppers/moon-silver/moon_silver_topper_white_3.avif"
     ],
     "href": "/products/toppers/moon-silver/197758",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver topper, 105 x 200 x 5 cm White mattress topper, 105 x 200 x 5 cm, breathable and soft cushioning layer. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 105 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.13 m³ m³ Logistics Weight 3.8 kg kg Logistics Weight 4 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Topper, 105 × 200 cm White mattress topper, 105 x 200 x 5 cm, breathable and soft cushioning layer. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 105 cm cm Logistics Package count 1 package package Logistics Package weight 3.8 kg kg Logistics Product count 1 product product Logistics Volume 0.13 m³ m³ Logistics Weight 4 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -561,6 +576,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-8-kg",
+          "valueLabel": "3.8 kg",
+          "href": "/attributes/logistics/package-weight/3-8-kg/",
+          "valueType": "enum",
+          "numericValue": 3.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -581,18 +608,6 @@
           "valueType": "enum",
           "numericValue": 0.13,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "3-8-kg",
-          "valueLabel": "3.8 kg",
-          "href": "/attributes/logistics/weight/3-8-kg/",
-          "valueType": "enum",
-          "numericValue": 3.8,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -645,7 +660,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver topper, 105 x 200 x 5 cm",
+      "title": "Moon Silver Topper, 105 × 200 cm",
       "summary": "White mattress topper, 105 x 200 x 5 cm, breathable and soft cushioning layer.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
@@ -656,29 +671,34 @@
   {
     "sku": "197759",
     "name": "197759",
-    "title": "Moon Silver topper, 120 x 200 x 5 cm",
-    "variantSummary": "120 x 200 x 5 cm / Comfort foam / White",
+    "title": "Moon Silver Topper, 120 × 200 cm",
+    "variantSummary": "120 × 200 cm / Comfort foam / White",
     "shortDescription": "White mattress topper, 120 x 200 x 5 cm, breathable and soft cushioning layer.",
     "selectionAttributes": {
-      "dimensions": "120 x 200 x 5 cm",
+      "dimensions": "120 × 200 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
       "color": "White",
-      "material": "Foam"
+      "material": "Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "imageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "imageUrls": [
       "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
-      "/products/toppers/moon-silver/moon_silver_topper_white_3.avif",
-      "/products/toppers/moon-silver/197759_1.avif",
-      "/products/toppers/moon-silver/197759_2.avif",
-      "/products/toppers/moon-silver/197759_3.avif"
+      "/products/toppers/moon-silver/moon_silver_topper_white_3.avif"
     ],
     "href": "/products/toppers/moon-silver/197759",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver topper, 120 x 200 x 5 cm White mattress topper, 120 x 200 x 5 cm, breathable and soft cushioning layer. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.16 m³ m³ Logistics Weight 4.5 kg kg Logistics Weight 4.7 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Topper, 120 × 200 cm White mattress topper, 120 x 200 x 5 cm, breathable and soft cushioning layer. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Package weight 4.7 kg kg Logistics Product count 1 product product Logistics Volume 0.16 m³ m³ Logistics Weight 4.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -779,6 +799,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "4-7-kg",
+          "valueLabel": "4.7 kg",
+          "href": "/attributes/logistics/package-weight/4-7-kg/",
+          "valueType": "enum",
+          "numericValue": 4.7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -810,18 +842,6 @@
           "href": "/attributes/logistics/weight/4-5-kg/",
           "valueType": "enum",
           "numericValue": 4.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "4-7-kg",
-          "valueLabel": "4.7 kg",
-          "href": "/attributes/logistics/weight/4-7-kg/",
-          "valueType": "enum",
-          "numericValue": 4.7,
           "unit": "kg"
         },
         {
@@ -863,7 +883,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver topper, 120 x 200 x 5 cm",
+      "title": "Moon Silver Topper, 120 × 200 cm",
       "summary": "White mattress topper, 120 x 200 x 5 cm, breathable and soft cushioning layer.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
@@ -874,29 +894,34 @@
   {
     "sku": "197760",
     "name": "197760",
-    "title": "Moon Silver topper, 140 x 200 x 5 cm",
-    "variantSummary": "140 x 200 x 5 cm / Comfort foam / White",
+    "title": "Moon Silver Topper, 140 × 200 cm",
+    "variantSummary": "140 × 200 cm / Comfort foam / White",
     "shortDescription": "White mattress topper, 140 x 200 x 5 cm, breathable and soft cushioning layer.",
     "selectionAttributes": {
-      "dimensions": "140 x 200 x 5 cm",
+      "dimensions": "140 × 200 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
       "color": "White",
-      "material": "Foam"
+      "material": "Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "imageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "imageUrls": [
       "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
-      "/products/toppers/moon-silver/moon_silver_topper_white_3.avif",
-      "/products/toppers/moon-silver/197760_1.avif",
-      "/products/toppers/moon-silver/197760_2.jpg",
-      "/products/toppers/moon-silver/197760_3.jpg"
+      "/products/toppers/moon-silver/moon_silver_topper_white_3.avif"
     ],
     "href": "/products/toppers/moon-silver/197760",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver topper, 140 x 200 x 5 cm White mattress topper, 140 x 200 x 5 cm, breathable and soft cushioning layer. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 140 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Weight 5.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Topper, 140 × 200 cm White mattress topper, 140 x 200 x 5 cm, breathable and soft cushioning layer. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 140 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Weight 5.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1069,7 +1094,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver topper, 140 x 200 x 5 cm",
+      "title": "Moon Silver Topper, 140 × 200 cm",
       "summary": "White mattress topper, 140 x 200 x 5 cm, breathable and soft cushioning layer.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
@@ -1080,29 +1105,34 @@
   {
     "sku": "197761",
     "name": "197761",
-    "title": "Moon Silver topper, 160 x 200 x 5 cm",
-    "variantSummary": "160 x 200 x 5 cm / Comfort foam / White",
+    "title": "Moon Silver Topper, 160 × 200 cm",
+    "variantSummary": "160 × 200 cm / Comfort foam / White",
     "shortDescription": "White mattress topper, 160 x 200 x 5 cm, breathable and soft cushioning layer.",
     "selectionAttributes": {
-      "dimensions": "160 x 200 x 5 cm",
+      "dimensions": "160 × 200 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
       "color": "White",
-      "material": "Foam"
+      "material": "Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "imageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "imageUrls": [
       "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
-      "/products/toppers/moon-silver/moon_silver_topper_white_3.avif",
-      "/products/toppers/moon-silver/197761_1.avif",
-      "/products/toppers/moon-silver/197761_2.avif",
-      "/products/toppers/moon-silver/197761_3.avif"
+      "/products/toppers/moon-silver/moon_silver_topper_white_3.avif"
     ],
     "href": "/products/toppers/moon-silver/197761",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver topper, 160 x 200 x 5 cm White mattress topper, 160 x 200 x 5 cm, breathable and soft cushioning layer. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Weight 4 kg kg Logistics Weight 6 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Topper, 160 × 200 cm White mattress topper, 160 x 200 x 5 cm, breathable and soft cushioning layer. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Package weight 4 kg kg Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Weight 6 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1203,6 +1233,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "4-kg",
+          "valueLabel": "4 kg",
+          "href": "/attributes/logistics/package-weight/4-kg/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1223,18 +1265,6 @@
           "valueType": "enum",
           "numericValue": 0.2,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "4-kg",
-          "valueLabel": "4 kg",
-          "href": "/attributes/logistics/weight/4-kg/",
-          "valueType": "enum",
-          "numericValue": 4,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1287,7 +1317,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver topper, 160 x 200 x 5 cm",
+      "title": "Moon Silver Topper, 160 × 200 cm",
       "summary": "White mattress topper, 160 x 200 x 5 cm, breathable and soft cushioning layer.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
@@ -1298,29 +1328,34 @@
   {
     "sku": "197762",
     "name": "197762",
-    "title": "Moon Silver topper, 180 x 200 x 5 cm",
-    "variantSummary": "180 x 200 x 5 cm / Comfort foam / White",
+    "title": "Moon Silver Topper, 180 × 200 cm",
+    "variantSummary": "180 × 200 cm / Comfort foam / White",
     "shortDescription": "White mattress topper, 180 x 200 x 5 cm, breathable and soft cushioning layer.",
     "selectionAttributes": {
-      "dimensions": "180 x 200 x 5 cm",
+      "dimensions": "180 × 200 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
       "color": "White",
-      "material": "Foam"
+      "material": "Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "imageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "imageUrls": [
       "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
-      "/products/toppers/moon-silver/moon_silver_topper_white_3.avif",
-      "/products/toppers/moon-silver/197762_1.avif",
-      "/products/toppers/moon-silver/197762_2.jpg",
-      "/products/toppers/moon-silver/197762_3.jpg"
+      "/products/toppers/moon-silver/moon_silver_topper_white_3.avif"
     ],
     "href": "/products/toppers/moon-silver/197762",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver topper, 180 x 200 x 5 cm White mattress topper, 180 x 200 x 5 cm, breathable and soft cushioning layer. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Weight 7 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Topper, 180 × 200 cm White mattress topper, 180 x 200 x 5 cm, breathable and soft cushioning layer. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Weight 7 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1493,7 +1528,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver topper, 180 x 200 x 5 cm",
+      "title": "Moon Silver Topper, 180 × 200 cm",
       "summary": "White mattress topper, 180 x 200 x 5 cm, breathable and soft cushioning layer.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
@@ -1504,29 +1539,34 @@
   {
     "sku": "197763",
     "name": "197763",
-    "title": "Moon Silver topper, 200 x 200 x 5 cm",
-    "variantSummary": "200 x 200 x 5 cm / Comfort foam / White",
+    "title": "Moon Silver Topper, 200 × 200 cm",
+    "variantSummary": "200 × 200 cm / Comfort foam / White",
     "shortDescription": "White mattress topper, 200 x 200 x 5 cm, breathable and soft cushioning layer.",
     "selectionAttributes": {
-      "dimensions": "200 x 200 x 5 cm",
+      "dimensions": "200 × 200 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
       "color": "White",
-      "material": "Foam"
+      "material": "Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "imageUrl": "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
     "imageUrls": [
       "/products/toppers/moon-silver/moon_silver_topper_white_2.avif",
-      "/products/toppers/moon-silver/moon_silver_topper_white_3.avif",
-      "/products/toppers/moon-silver/197763_1.avif",
-      "/products/toppers/moon-silver/197763_2.avif",
-      "/products/toppers/moon-silver/197763_3.avif"
+      "/products/toppers/moon-silver/moon_silver_topper_white_3.avif"
     ],
     "href": "/products/toppers/moon-silver/197763",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver topper, 200 x 200 x 5 cm White mattress topper, 200 x 200 x 5 cm, breathable and soft cushioning layer. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.27 m³ m³ Logistics Weight 7.5 kg kg Logistics Weight 7.6 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Topper, 200 × 200 cm White mattress topper, 200 x 200 x 5 cm, breathable and soft cushioning layer. Toppers Bedroom Moon Silver Bedroom Toppers Moon Silver White Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 7.6 kg kg Logistics Product count 1 product product Logistics Volume 0.27 m³ m³ Logistics Weight 7.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1627,6 +1667,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "7-6-kg",
+          "valueLabel": "7.6 kg",
+          "href": "/attributes/logistics/package-weight/7-6-kg/",
+          "valueType": "enum",
+          "numericValue": 7.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1658,18 +1710,6 @@
           "href": "/attributes/logistics/weight/7-5-kg/",
           "valueType": "enum",
           "numericValue": 7.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "7-6-kg",
-          "valueLabel": "7.6 kg",
-          "href": "/attributes/logistics/weight/7-6-kg/",
-          "valueType": "enum",
-          "numericValue": 7.6,
           "unit": "kg"
         },
         {
@@ -1711,7 +1751,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver topper, 200 x 200 x 5 cm",
+      "title": "Moon Silver Topper, 200 × 200 cm",
       "summary": "White mattress topper, 200 x 200 x 5 cm, breathable and soft cushioning layer.",
       "variantCount": 1,
       "categoryLabel": "Toppers",

@@ -5,9 +5,9 @@
     "href": "/products/coffee-tables/reef/",
     "type": "dir",
     "summary": "Compact coffee table with a warm American walnut finish and practical dimensions suitable for various interiors.",
-    "primaryImageUrl": "/products/coffee-tables/reef/198072_1.avif",
+    "primaryImageUrl": "/products/coffee-tables/reef/198073_2.avif",
     "filterData": {
-      "searchText": "Reef Compact coffee table with a warm American walnut finish and practical dimensions suitable for various interiors. Coffee Tables Living room Reef Living room Coffee Tables Reef Beige Brown MDF Paper Dimensions Depth 80 cm cm Dimensions Height 40 cm cm Dimensions Width 60 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.24 m³ m³ Logistics Weight 21 kg kg Logistics Weight 23 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Reef Compact coffee table with a warm American walnut finish and practical dimensions suitable for various interiors. Coffee Tables Living room Reef Living room Coffee Tables Reef Beige Brown MDF Paper Dimensions Depth 80 cm cm Dimensions Height 40 cm cm Dimensions Width 60 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Package weight 23 kg kg Logistics Product count 1 product product Logistics Volume 0.24 m³ m³ Logistics Weight 21 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -118,6 +118,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "23-kg",
+          "valueLabel": "23 kg",
+          "href": "/attributes/logistics/package-weight/23-kg/",
+          "valueType": "enum",
+          "numericValue": 23,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -149,18 +161,6 @@
           "href": "/attributes/logistics/weight/21-kg/",
           "valueType": "enum",
           "numericValue": 21,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "23-kg",
-          "valueLabel": "23 kg",
-          "href": "/attributes/logistics/weight/23-kg/",
-          "valueType": "enum",
-          "numericValue": 23,
           "unit": "kg"
         },
         {

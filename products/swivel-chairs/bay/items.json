@@ -2,35 +2,43 @@
   {
     "sku": "198083",
     "name": "198083",
-    "title": "Bay Swivel Chair",
-    "variantSummary": "78 x 83 cm / Black, Beige",
+    "title": "Bay Armchair",
+    "variantSummary": "78 × 83 cm / Beige",
     "shortDescription": "Light beige fabric upholstery with black metal swivel base. Compact and comfortable armchair.",
     "selectionAttributes": {
-      "dimensions": "78 x 83 cm",
+      "dimensions": "78 × 83 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Black, Beige",
-      "material": "Metal, Fabric, Foam"
+      "color": "Beige",
+      "material": "Metal, Fabric, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Armchair",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/swivel-chairs/bay/198083_1.avif",
-    "imageUrl": "/products/swivel-chairs/bay/198083_1.avif",
+    "primaryImageUrl": "/products/swivel-chairs/bay/198083_2.avif",
+    "imageUrl": "/products/swivel-chairs/bay/198083_2.avif",
     "imageUrls": [
-      "/products/swivel-chairs/bay/198083_1.avif",
       "/products/swivel-chairs/bay/198083_2.avif",
-      "/products/swivel-chairs/bay/198083_3.avif",
-      "/products/swivel-chairs/bay/198083_4.avif",
-      "/products/swivel-chairs/bay/198083_5.jpg",
-      "/products/swivel-chairs/bay/198083_6.jpg",
+      "/products/swivel-chairs/bay/198083_9.avif",
+      "/products/swivel-chairs/bay/198083_5.avif",
+      "/products/swivel-chairs/bay/198083_6.avif",
       "/products/swivel-chairs/bay/198083_7.avif",
       "/products/swivel-chairs/bay/198083_8.avif",
-      "/products/swivel-chairs/bay/198083_9.jpg",
       "/products/swivel-chairs/bay/198083_10.avif",
-      "/products/swivel-chairs/bay/198083_11.avif"
+      "/products/swivel-chairs/bay/198083_11.avif",
+      "/products/swivel-chairs/bay/198083_1.avif",
+      "/products/swivel-chairs/bay/198083_3.avif",
+      "/products/swivel-chairs/bay/198083_4.avif"
     ],
     "href": "/products/swivel-chairs/bay/",
     "type": "file",
     "filterData": {
-      "searchText": "Bay Swivel Chair Light beige fabric upholstery with black metal swivel base. Compact and comfortable armchair. Swivel Chairs Living room Bay Living room Swivel Chairs Bay Beige Black Fabric Foam Metal Care Cleaning method Dry clean Care Removable covers No Dimensions Depth 83 cm cm Dimensions Height 75 cm cm Dimensions Width 78 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.43 m³ m³ Logistics Weight 19.5 kg kg Logistics Weight 24 kg kg Padding Foam density 25 kg/m³ kg/m³ Seating Seat count 1 seat seat Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Bay Armchair Light beige fabric upholstery with black metal swivel base. Compact and comfortable armchair. Swivel Chairs Living room Bay Living room Swivel Chairs Bay Beige Fabric Foam Metal Care Cleaning method Dry clean Care Removable covers No Dimensions Depth 83 cm cm Dimensions Height 75 cm cm Dimensions Width 78 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Package weight 24 kg kg Logistics Product count 1 product product Logistics Volume 0.43 m³ m³ Logistics Weight 19.5 kg kg Padding Foam density 25 kg/m³ kg/m³ Seating Seat count 1 seat seat Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -57,11 +65,6 @@
           "key": "beige",
           "label": "Beige",
           "href": "/colors/beige/"
-        },
-        {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
         }
       ],
       "materials": [
@@ -170,6 +173,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "24-kg",
+          "valueLabel": "24 kg",
+          "href": "/attributes/logistics/package-weight/24-kg/",
+          "valueType": "enum",
+          "numericValue": 24,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -201,18 +216,6 @@
           "href": "/attributes/logistics/weight/19-5-kg/",
           "valueType": "enum",
           "numericValue": 19.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "24-kg",
-          "valueLabel": "24 kg",
-          "href": "/attributes/logistics/weight/24-kg/",
-          "valueType": "enum",
-          "numericValue": 24,
           "unit": "kg"
         },
         {
@@ -302,7 +305,7 @@
       ]
     },
     "sortData": {
-      "title": "Bay Swivel Chair",
+      "title": "Bay Armchair",
       "summary": "Light beige fabric upholstery with black metal swivel base. Compact and comfortable armchair.",
       "variantCount": 1,
       "categoryLabel": "Swivel Chairs",

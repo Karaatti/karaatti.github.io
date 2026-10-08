@@ -2,28 +2,34 @@
   {
     "sku": "197684",
     "name": "197684",
-    "title": "Moon Gold Mattress, Beige, 80 x 200 x 21 cm, Pocket spring",
-    "variantSummary": "80 x 200 x 21 cm / Pocket spring / Beige",
+    "title": "Moon Gold Mattress, Beige, 80 × 200 cm, Pocket spring",
+    "variantSummary": "80 × 200 cm / Pocket spring / Beige",
     "shortDescription": "80 x 200 cm, beige with 7-zone pocket springs.",
     "selectionAttributes": {
-      "dimensions": "80 x 200 x 21 cm",
+      "dimensions": "80 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Beige",
-      "material": ""
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.jpg",
-      "/products/mattresses/moon-gold/197684_1.avif",
-      "/products/mattresses/moon-gold/197684_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif"
     ],
     "href": "/products/mattresses/moon-gold/197684",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Beige, 80 x 200 x 21 cm, Pocket spring 80 x 200 cm, beige with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.34 m³ m³ Logistics Weight 15 kg kg Logistics Weight 17 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Mattress, Beige, 80 × 200 cm, Pocket spring 80 x 200 cm, beige with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Package weight 17 kg kg Logistics Product count 1 product product Logistics Volume 0.34 m³ m³ Logistics Weight 15 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -112,6 +118,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -143,18 +161,6 @@
           "href": "/attributes/logistics/weight/15-kg/",
           "valueType": "enum",
           "numericValue": 15,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "17-kg",
-          "valueLabel": "17 kg",
-          "href": "/attributes/logistics/weight/17-kg/",
-          "valueType": "enum",
-          "numericValue": 17,
           "unit": "kg"
         },
         {
@@ -220,7 +226,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Beige, 80 x 200 x 21 cm, Pocket spring",
+      "title": "Moon Gold Mattress, Beige, 80 × 200 cm, Pocket spring",
       "summary": "80 x 200 cm, beige with 7-zone pocket springs.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -231,28 +237,34 @@
   {
     "sku": "197685",
     "name": "197685",
-    "title": "Moon Gold Mattress, Beige, 90 x 200 x 21 cm, Pocket spring",
-    "variantSummary": "90 x 200 x 21 cm / Pocket spring / Beige",
+    "title": "Moon Gold Mattress, Beige, 90 × 200 cm, Pocket spring",
+    "variantSummary": "90 × 200 cm / Pocket spring / Beige",
     "shortDescription": "90 x 200 cm, beige with 7-zone pocket springs.",
     "selectionAttributes": {
-      "dimensions": "90 x 200 x 21 cm",
+      "dimensions": "90 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Beige",
-      "material": ""
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.jpg",
-      "/products/mattresses/moon-gold/197685_1.avif",
-      "/products/mattresses/moon-gold/197685_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif"
     ],
     "href": "/products/mattresses/moon-gold/197685",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Beige, 90 x 200 x 21 cm, Pocket spring 90 x 200 cm, beige with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.38 m³ m³ Logistics Weight 16 kg kg Logistics Weight 18 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Mattress, Beige, 90 × 200 cm, Pocket spring 90 x 200 cm, beige with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Package weight 18 kg kg Logistics Product count 1 product product Logistics Volume 0.38 m³ m³ Logistics Weight 16 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -341,6 +353,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "18-kg",
+          "valueLabel": "18 kg",
+          "href": "/attributes/logistics/package-weight/18-kg/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -372,18 +396,6 @@
           "href": "/attributes/logistics/weight/16-kg/",
           "valueType": "enum",
           "numericValue": 16,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "18-kg",
-          "valueLabel": "18 kg",
-          "href": "/attributes/logistics/weight/18-kg/",
-          "valueType": "enum",
-          "numericValue": 18,
           "unit": "kg"
         },
         {
@@ -449,7 +461,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Beige, 90 x 200 x 21 cm, Pocket spring",
+      "title": "Moon Gold Mattress, Beige, 90 × 200 cm, Pocket spring",
       "summary": "90 x 200 cm, beige with 7-zone pocket springs.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -460,28 +472,34 @@
   {
     "sku": "197686",
     "name": "197686",
-    "title": "Moon Gold Mattress, Beige, 120 x 200 x 21 cm, Pocket spring",
-    "variantSummary": "120 x 200 x 21 cm / Pocket spring / Beige",
+    "title": "Moon Gold Mattress, Beige, 120 × 200 cm, Pocket spring",
+    "variantSummary": "120 × 200 cm / Pocket spring / Beige",
     "shortDescription": "120 x 200 cm, beige with 7-zone pocket springs.",
     "selectionAttributes": {
-      "dimensions": "120 x 200 x 21 cm",
+      "dimensions": "120 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Beige",
-      "material": ""
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.jpg",
-      "/products/mattresses/moon-gold/197686_1.avif",
-      "/products/mattresses/moon-gold/197686_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif"
     ],
     "href": "/products/mattresses/moon-gold/197686",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Beige, 120 x 200 x 21 cm, Pocket spring 120 x 200 cm, beige with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.5 m³ m³ Logistics Weight 22 kg kg Logistics Weight 24 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Mattress, Beige, 120 × 200 cm, Pocket spring 120 x 200 cm, beige with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Package weight 24 kg kg Logistics Product count 1 product product Logistics Volume 0.5 m³ m³ Logistics Weight 22 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -570,6 +588,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "24-kg",
+          "valueLabel": "24 kg",
+          "href": "/attributes/logistics/package-weight/24-kg/",
+          "valueType": "enum",
+          "numericValue": 24,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -601,18 +631,6 @@
           "href": "/attributes/logistics/weight/22-kg/",
           "valueType": "enum",
           "numericValue": 22,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "24-kg",
-          "valueLabel": "24 kg",
-          "href": "/attributes/logistics/weight/24-kg/",
-          "valueType": "enum",
-          "numericValue": 24,
           "unit": "kg"
         },
         {
@@ -678,7 +696,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Beige, 120 x 200 x 21 cm, Pocket spring",
+      "title": "Moon Gold Mattress, Beige, 120 × 200 cm, Pocket spring",
       "summary": "120 x 200 cm, beige with 7-zone pocket springs.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -689,30 +707,36 @@
   {
     "sku": "197687",
     "name": "197687",
-    "title": "Moon Gold Mattress, Beige, 140 x 200 x 21 cm, Pocket spring",
-    "variantSummary": "140 x 200 x 21 cm / Pocket spring / Beige",
+    "title": "Moon Gold Mattress, Beige, 140 × 200 cm, Pocket spring",
+    "variantSummary": "140 × 200 cm / Pocket spring / Beige",
     "shortDescription": "140 x 200 cm, beige with 7-zone pocket springs.",
     "selectionAttributes": {
-      "dimensions": "140 x 200 x 21 cm",
+      "dimensions": "140 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Beige",
-      "material": ""
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_140_x_200_x_21_cm_2.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_140_x_200_x_21_cm_2.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_140_x_200_x_21_cm_1.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_140_x_200_x_21_cm_1.avif",
     "imageUrls": [
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_140_x_200_x_21_cm_1.avif",
       "/products/mattresses/moon-gold/moon_gold_mattress_beige_140_x_200_x_21_cm_2.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_140_x_200_x_21_cm_2.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.jpg",
-      "/products/mattresses/moon-gold/197687_1.avif",
-      "/products/mattresses/moon-gold/197687_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif"
     ],
     "href": "/products/mattresses/moon-gold/197687",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Beige, 140 x 200 x 21 cm, Pocket spring 140 x 200 cm, beige with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 140 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Weight 23 kg kg Logistics Weight 29 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Mattress, Beige, 140 × 200 cm, Pocket spring 140 x 200 cm, beige with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 140 cm cm Logistics Package count 1 package package Logistics Package weight 29 kg kg Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Weight 23 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -801,6 +825,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/package-weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -832,18 +868,6 @@
           "href": "/attributes/logistics/weight/23-kg/",
           "valueType": "enum",
           "numericValue": 23,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "29-kg",
-          "valueLabel": "29 kg",
-          "href": "/attributes/logistics/weight/29-kg/",
-          "valueType": "enum",
-          "numericValue": 29,
           "unit": "kg"
         },
         {
@@ -909,7 +933,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Beige, 140 x 200 x 21 cm, Pocket spring",
+      "title": "Moon Gold Mattress, Beige, 140 × 200 cm, Pocket spring",
       "summary": "140 x 200 cm, beige with 7-zone pocket springs.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -920,30 +944,37 @@
   {
     "sku": "197688",
     "name": "197688",
-    "title": "Moon Gold Mattress, Beige, 160 x 200 x 21 cm, Pocket spring",
-    "variantSummary": "160 x 200 x 21 cm / Pocket spring / Beige",
+    "title": "Moon Gold Mattress, Beige, 160 × 200 cm, Pocket spring",
+    "variantSummary": "160 × 200 cm / Pocket spring / Beige",
     "shortDescription": "160 x 200 cm, beige with 7-zone pocket springs.",
     "selectionAttributes": {
-      "dimensions": "160 x 200 x 21 cm",
+      "dimensions": "160 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Beige",
-      "material": ""
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
     "imageUrls": [
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
       "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.jpg",
-      "/products/mattresses/moon-gold/197688_1.avif",
-      "/products/mattresses/moon-gold/197688_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4-mood.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.avif"
     ],
     "href": "/products/mattresses/moon-gold/197688",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Beige, 160 x 200 x 21 cm, Pocket spring 160 x 200 cm, beige with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.68 m³ m³ Logistics Weight 25 kg kg Logistics Weight 27 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Mattress, Beige, 160 × 200 cm, Pocket spring 160 x 200 cm, beige with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Package weight 27 kg kg Logistics Product count 1 product product Logistics Volume 0.68 m³ m³ Logistics Weight 25 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1028,6 +1059,18 @@
           "valueType": "enum",
           "numericValue": 1,
           "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/package-weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1066,18 +1109,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "27-kg",
-          "valueLabel": "27 kg",
-          "href": "/attributes/logistics/weight/27-kg/",
-          "valueType": "enum",
-          "numericValue": 27,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -1140,7 +1171,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Beige, 160 x 200 x 21 cm, Pocket spring",
+      "title": "Moon Gold Mattress, Beige, 160 × 200 cm, Pocket spring",
       "summary": "160 x 200 cm, beige with 7-zone pocket springs.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -1151,30 +1182,37 @@
   {
     "sku": "197689",
     "name": "197689",
-    "title": "Moon Gold Mattress, Beige, 180 x 200 x 21 cm, Pocket spring",
-    "variantSummary": "180 x 200 x 21 cm / Pocket spring / Beige",
+    "title": "Moon Gold Mattress, Beige, 180 × 200 cm, Pocket spring",
+    "variantSummary": "180 × 200 cm / Pocket spring / Beige",
     "shortDescription": "180 x 200 cm, beige with 7-zone pocket springs.",
     "selectionAttributes": {
-      "dimensions": "180 x 200 x 21 cm",
+      "dimensions": "180 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Beige",
-      "material": ""
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
     "imageUrls": [
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
       "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.jpg",
-      "/products/mattresses/moon-gold/197689_1.avif",
-      "/products/mattresses/moon-gold/197689_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4-mood.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.avif"
     ],
     "href": "/products/mattresses/moon-gold/197689",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Beige, 180 x 200 x 21 cm, Pocket spring 180 x 200 cm, beige with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.76 m³ m³ Logistics Weight 27 kg kg Logistics Weight 32 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Mattress, Beige, 180 × 200 cm, Pocket spring 180 x 200 cm, beige with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Package weight 32 kg kg Logistics Product count 1 product product Logistics Volume 0.76 m³ m³ Logistics Weight 27 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1263,6 +1301,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "32-kg",
+          "valueLabel": "32 kg",
+          "href": "/attributes/logistics/package-weight/32-kg/",
+          "valueType": "enum",
+          "numericValue": 32,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1294,18 +1344,6 @@
           "href": "/attributes/logistics/weight/27-kg/",
           "valueType": "enum",
           "numericValue": 27,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "32-kg",
-          "valueLabel": "32 kg",
-          "href": "/attributes/logistics/weight/32-kg/",
-          "valueType": "enum",
-          "numericValue": 32,
           "unit": "kg"
         },
         {
@@ -1371,7 +1409,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Beige, 180 x 200 x 21 cm, Pocket spring",
+      "title": "Moon Gold Mattress, Beige, 180 × 200 cm, Pocket spring",
       "summary": "180 x 200 cm, beige with 7-zone pocket springs.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -1382,30 +1420,37 @@
   {
     "sku": "197690",
     "name": "197690",
-    "title": "Moon Gold Mattress, Beige, 200 x 200 x 21 cm, Pocket spring",
-    "variantSummary": "200 x 200 x 21 cm / Pocket spring / Beige",
+    "title": "Moon Gold Mattress, Beige, 200 × 200 cm, Pocket spring",
+    "variantSummary": "200 × 200 cm / Pocket spring / Beige",
     "shortDescription": "200 x 200 cm, beige with 7-zone pocket springs.",
     "selectionAttributes": {
-      "dimensions": "200 x 200 x 21 cm",
+      "dimensions": "200 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Beige",
-      "material": ""
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
     "imageUrls": [
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
       "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.jpg",
-      "/products/mattresses/moon-gold/197690_1.avif",
-      "/products/mattresses/moon-gold/197690_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4-mood.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.avif"
     ],
     "href": "/products/mattresses/moon-gold/197690",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Beige, 200 x 200 x 21 cm, Pocket spring 200 x 200 cm, beige with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.84 m³ m³ Logistics Weight 30 kg kg Logistics Weight 32 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Mattress, Beige, 200 × 200 cm, Pocket spring 200 x 200 cm, beige with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 32 kg kg Logistics Product count 1 product product Logistics Volume 0.84 m³ m³ Logistics Weight 30 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1494,6 +1539,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "32-kg",
+          "valueLabel": "32 kg",
+          "href": "/attributes/logistics/package-weight/32-kg/",
+          "valueType": "enum",
+          "numericValue": 32,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1525,18 +1582,6 @@
           "href": "/attributes/logistics/weight/30-kg/",
           "valueType": "enum",
           "numericValue": 30,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "32-kg",
-          "valueLabel": "32 kg",
-          "href": "/attributes/logistics/weight/32-kg/",
-          "valueType": "enum",
-          "numericValue": 32,
           "unit": "kg"
         },
         {
@@ -1602,7 +1647,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Beige, 200 x 200 x 21 cm, Pocket spring",
+      "title": "Moon Gold Mattress, Beige, 200 × 200 cm, Pocket spring",
       "summary": "200 x 200 cm, beige with 7-zone pocket springs.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -1613,27 +1658,34 @@
   {
     "sku": "197691",
     "name": "197691",
-    "title": "Moon Gold Mattress, Black, 80 x 200 x 21 cm, Pocket spring",
-    "variantSummary": "80 x 200 x 21 cm / Pocket spring / Black",
+    "title": "Moon Gold Mattress, Grey, 80 × 200 cm, Pocket spring",
+    "variantSummary": "80 × 200 cm / Pocket spring / Grey",
     "shortDescription": "80 x 200 cm, anthracite with 7-zone pocket springs.",
     "selectionAttributes": {
-      "dimensions": "80 x 200 x 21 cm",
+      "dimensions": "80 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
-      "color": "Black",
-      "material": ""
+      "color": "Grey",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-      "/products/mattresses/moon-gold/197691_1.avif",
-      "/products/mattresses/moon-gold/197691_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_2.avif"
     ],
     "href": "/products/mattresses/moon-gold/197691",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Black, 80 x 200 x 21 cm, Pocket spring 80 x 200 cm, anthracite with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Black Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 15 kg kg Logistics Weight 17 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Mattress, Grey, 80 × 200 cm, Pocket spring 80 x 200 cm, anthracite with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Grey Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Package weight 17 kg kg Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 15 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1657,9 +1709,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -1722,6 +1774,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1753,18 +1817,6 @@
           "href": "/attributes/logistics/weight/15-kg/",
           "valueType": "enum",
           "numericValue": 15,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "17-kg",
-          "valueLabel": "17 kg",
-          "href": "/attributes/logistics/weight/17-kg/",
-          "valueType": "enum",
-          "numericValue": 17,
           "unit": "kg"
         },
         {
@@ -1830,7 +1882,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Black, 80 x 200 x 21 cm, Pocket spring",
+      "title": "Moon Gold Mattress, Grey, 80 × 200 cm, Pocket spring",
       "summary": "80 x 200 cm, anthracite with 7-zone pocket springs.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -1841,27 +1893,34 @@
   {
     "sku": "197692",
     "name": "197692",
-    "title": "Moon Gold Mattress, Black, 90 x 200 x 21 cm, Pocket spring",
-    "variantSummary": "90 x 200 x 21 cm / Pocket spring / Black",
+    "title": "Moon Gold Mattress, Grey, 90 × 200 cm, Pocket spring",
+    "variantSummary": "90 × 200 cm / Pocket spring / Grey",
     "shortDescription": "90 x 200 cm, anthracite with 7-zone pocket springs.",
     "selectionAttributes": {
-      "dimensions": "90 x 200 x 21 cm",
+      "dimensions": "90 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
-      "color": "Black",
-      "material": ""
+      "color": "Grey",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-      "/products/mattresses/moon-gold/197692_1.avif",
-      "/products/mattresses/moon-gold/197692_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_2.avif"
     ],
     "href": "/products/mattresses/moon-gold/197692",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Black, 90 x 200 x 21 cm, Pocket spring 90 x 200 cm, anthracite with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Black Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.39 m³ m³ Logistics Weight 16 kg kg Logistics Weight 18 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Mattress, Grey, 90 × 200 cm, Pocket spring 90 x 200 cm, anthracite with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Grey Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Package weight 18 kg kg Logistics Product count 1 product product Logistics Volume 0.39 m³ m³ Logistics Weight 16 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1885,9 +1944,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -1950,6 +2009,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "18-kg",
+          "valueLabel": "18 kg",
+          "href": "/attributes/logistics/package-weight/18-kg/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1981,18 +2052,6 @@
           "href": "/attributes/logistics/weight/16-kg/",
           "valueType": "enum",
           "numericValue": 16,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "18-kg",
-          "valueLabel": "18 kg",
-          "href": "/attributes/logistics/weight/18-kg/",
-          "valueType": "enum",
-          "numericValue": 18,
           "unit": "kg"
         },
         {
@@ -2058,7 +2117,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Black, 90 x 200 x 21 cm, Pocket spring",
+      "title": "Moon Gold Mattress, Grey, 90 × 200 cm, Pocket spring",
       "summary": "90 x 200 cm, anthracite with 7-zone pocket springs.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -2069,27 +2128,34 @@
   {
     "sku": "197693",
     "name": "197693",
-    "title": "Moon Gold Mattress, Black, 120 x 200 x 21 cm, Pocket spring",
-    "variantSummary": "120 x 200 x 21 cm / Pocket spring / Black",
+    "title": "Moon Gold Mattress, Grey, 120 × 200 cm, Pocket spring",
+    "variantSummary": "120 × 200 cm / Pocket spring / Grey",
     "shortDescription": "120 x 200 cm, anthracite with 7-zone pocket springs.",
     "selectionAttributes": {
-      "dimensions": "120 x 200 x 21 cm",
+      "dimensions": "120 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
-      "color": "Black",
-      "material": ""
+      "color": "Grey",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-      "/products/mattresses/moon-gold/197693_1.avif",
-      "/products/mattresses/moon-gold/197693_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_2.avif"
     ],
     "href": "/products/mattresses/moon-gold/197693",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Black, 120 x 200 x 21 cm, Pocket spring 120 x 200 cm, anthracite with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Black Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.5 m³ m³ Logistics Weight 15 kg kg Logistics Weight 22 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Mattress, Grey, 120 × 200 cm, Pocket spring 120 x 200 cm, anthracite with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Grey Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Package weight 15 kg kg Logistics Product count 1 product product Logistics Volume 0.5 m³ m³ Logistics Weight 22 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2113,9 +2179,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -2178,6 +2244,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "15-kg",
+          "valueLabel": "15 kg",
+          "href": "/attributes/logistics/package-weight/15-kg/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2198,18 +2276,6 @@
           "valueType": "enum",
           "numericValue": 0.5,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "15-kg",
-          "valueLabel": "15 kg",
-          "href": "/attributes/logistics/weight/15-kg/",
-          "valueType": "enum",
-          "numericValue": 15,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2286,7 +2352,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Black, 120 x 200 x 21 cm, Pocket spring",
+      "title": "Moon Gold Mattress, Grey, 120 × 200 cm, Pocket spring",
       "summary": "120 x 200 cm, anthracite with 7-zone pocket springs.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -2297,29 +2363,36 @@
   {
     "sku": "197694",
     "name": "197694",
-    "title": "Moon Gold Mattress, Black, 140 x 200 x 21 cm, Pocket spring",
-    "variantSummary": "140 x 200 x 21 cm / Pocket spring / Black",
+    "title": "Moon Gold Mattress, Grey, 140 × 200 cm, Pocket spring",
+    "variantSummary": "140 × 200 cm / Pocket spring / Grey",
     "shortDescription": "140 x 200 cm, anthracite with 7-zone pocket springs.",
     "selectionAttributes": {
-      "dimensions": "140 x 200 x 21 cm",
+      "dimensions": "140 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
-      "color": "Black",
-      "material": ""
+      "color": "Grey",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_6.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_6.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_6.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_6.jpg",
-      "/products/mattresses/moon-gold/197694_1.avif",
-      "/products/mattresses/moon-gold/197694_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_3.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_2.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_6.avif"
     ],
     "href": "/products/mattresses/moon-gold/197694",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Black, 140 x 200 x 21 cm, Pocket spring 140 x 200 cm, anthracite with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Black Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 140 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Weight 23 kg kg Logistics Weight 25 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Mattress, Grey, 140 × 200 cm, Pocket spring 140 x 200 cm, anthracite with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Grey Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 140 cm cm Logistics Package count 1 package package Logistics Package weight 25 kg kg Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Weight 23 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2343,9 +2416,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -2408,6 +2481,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2439,18 +2524,6 @@
           "href": "/attributes/logistics/weight/23-kg/",
           "valueType": "enum",
           "numericValue": 23,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
           "unit": "kg"
         },
         {
@@ -2516,7 +2589,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Black, 140 x 200 x 21 cm, Pocket spring",
+      "title": "Moon Gold Mattress, Grey, 140 × 200 cm, Pocket spring",
       "summary": "140 x 200 cm, anthracite with 7-zone pocket springs.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -2527,29 +2600,36 @@
   {
     "sku": "197695",
     "name": "197695",
-    "title": "Moon Gold Mattress, Black, 160 x 200 x 21 cm, Pocket spring",
-    "variantSummary": "160 x 200 x 21 cm / Pocket spring / Black",
+    "title": "Moon Gold Mattress, Grey, 160 × 200 cm, Pocket spring",
+    "variantSummary": "160 × 200 cm / Pocket spring / Grey",
     "shortDescription": "160 x 200 cm, anthracite with 7-zone pocket springs.",
     "selectionAttributes": {
-      "dimensions": "160 x 200 x 21 cm",
+      "dimensions": "160 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
-      "color": "Black",
-      "material": ""
+      "color": "Grey",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.jpg",
-      "/products/mattresses/moon-gold/197695_1.avif",
-      "/products/mattresses/moon-gold/197695_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_2.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_1.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif"
     ],
     "href": "/products/mattresses/moon-gold/197695",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Black, 160 x 200 x 21 cm, Pocket spring 160 x 200 cm, anthracite with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Black Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.67 m³ m³ Logistics Weight 25 kg kg Logistics Weight 27 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Mattress, Grey, 160 × 200 cm, Pocket spring 160 x 200 cm, anthracite with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Grey Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Package weight 27 kg kg Logistics Product count 1 product product Logistics Volume 0.67 m³ m³ Logistics Weight 25 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2573,9 +2653,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -2638,6 +2718,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/package-weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2669,18 +2761,6 @@
           "href": "/attributes/logistics/weight/25-kg/",
           "valueType": "enum",
           "numericValue": 25,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "27-kg",
-          "valueLabel": "27 kg",
-          "href": "/attributes/logistics/weight/27-kg/",
-          "valueType": "enum",
-          "numericValue": 27,
           "unit": "kg"
         },
         {
@@ -2746,7 +2826,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Black, 160 x 200 x 21 cm, Pocket spring",
+      "title": "Moon Gold Mattress, Grey, 160 × 200 cm, Pocket spring",
       "summary": "160 x 200 cm, anthracite with 7-zone pocket springs.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -2757,29 +2837,36 @@
   {
     "sku": "197696",
     "name": "197696",
-    "title": "Moon Gold Mattress, Black, 180 x 200 x 21 cm, Pocket spring",
-    "variantSummary": "180 x 200 x 21 cm / Pocket spring / Black",
+    "title": "Moon Gold Mattress, Grey, 180 × 200 cm, Pocket spring",
+    "variantSummary": "180 × 200 cm / Pocket spring / Grey",
     "shortDescription": "180 x 200 cm, anthracite with 7-zone pocket springs.",
     "selectionAttributes": {
-      "dimensions": "180 x 200 x 21 cm",
+      "dimensions": "180 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
-      "color": "Black",
-      "material": ""
+      "color": "Grey",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.jpg",
-      "/products/mattresses/moon-gold/197696_1.avif",
-      "/products/mattresses/moon-gold/197696_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_2.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_1.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif"
     ],
     "href": "/products/mattresses/moon-gold/197696",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Black, 180 x 200 x 21 cm, Pocket spring 180 x 200 cm, anthracite with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Black Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.77 m³ m³ Logistics Weight 27 kg kg Logistics Weight 29 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Mattress, Grey, 180 × 200 cm, Pocket spring 180 x 200 cm, anthracite with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Grey Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Package weight 29 kg kg Logistics Product count 1 product product Logistics Volume 0.77 m³ m³ Logistics Weight 27 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2803,9 +2890,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -2864,6 +2951,18 @@
           "valueType": "enum",
           "numericValue": 1,
           "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/package-weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2902,18 +3001,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "29-kg",
-          "valueLabel": "29 kg",
-          "href": "/attributes/logistics/weight/29-kg/",
-          "valueType": "enum",
-          "numericValue": 29,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -2976,7 +3063,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Black, 180 x 200 x 21 cm, Pocket spring",
+      "title": "Moon Gold Mattress, Grey, 180 × 200 cm, Pocket spring",
       "summary": "180 x 200 cm, anthracite with 7-zone pocket springs.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -2987,29 +3074,36 @@
   {
     "sku": "197697",
     "name": "197697",
-    "title": "Moon Gold Mattress, Black, 200 x 200 x 21 cm, Pocket spring",
-    "variantSummary": "200 x 200 x 21 cm / Pocket spring / Black",
+    "title": "Moon Gold Mattress, Grey, 200 × 200 cm, Pocket spring",
+    "variantSummary": "200 × 200 cm / Pocket spring / Grey",
     "shortDescription": "200 x 200 cm, anthracite with 7-zone pocket springs.",
     "selectionAttributes": {
-      "dimensions": "200 x 200 x 21 cm",
+      "dimensions": "200 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
-      "color": "Black",
-      "material": ""
+      "color": "Grey",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.jpg",
-      "/products/mattresses/moon-gold/197697_1.avif",
-      "/products/mattresses/moon-gold/197697_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_2.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_1.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif"
     ],
     "href": "/products/mattresses/moon-gold/197697",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Black, 200 x 200 x 21 cm, Pocket spring 200 x 200 cm, anthracite with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Black Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.84 m³ m³ Logistics Weight 30 kg kg Logistics Weight 32 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Moon Gold Mattress, Grey, 200 × 200 cm, Pocket spring 200 x 200 cm, anthracite with 7-zone pocket springs. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Grey Metal Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 32 kg kg Logistics Product count 1 product product Logistics Volume 0.84 m³ m³ Logistics Weight 30 kg kg Setup Assembly time 0 min min Support Zone count 7-zone Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -3033,9 +3127,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -3098,6 +3192,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "32-kg",
+          "valueLabel": "32 kg",
+          "href": "/attributes/logistics/package-weight/32-kg/",
+          "valueType": "enum",
+          "numericValue": 32,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -3129,18 +3235,6 @@
           "href": "/attributes/logistics/weight/30-kg/",
           "valueType": "enum",
           "numericValue": 30,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "32-kg",
-          "valueLabel": "32 kg",
-          "href": "/attributes/logistics/weight/32-kg/",
-          "valueType": "enum",
-          "numericValue": 32,
           "unit": "kg"
         },
         {
@@ -3206,7 +3300,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Black, 200 x 200 x 21 cm, Pocket spring",
+      "title": "Moon Gold Mattress, Grey, 200 × 200 cm, Pocket spring",
       "summary": "200 x 200 cm, anthracite with 7-zone pocket springs.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -3217,28 +3311,34 @@
   {
     "sku": "197698",
     "name": "197698",
-    "title": "Moon Gold Mattress, Beige, 80 x 200 x 21 cm, Memory foam",
-    "variantSummary": "80 x 200 x 21 cm / Memory foam / Beige",
+    "title": "Moon Gold Mattress, Beige, 80 × 200 cm, Memory foam",
+    "variantSummary": "80 × 200 cm / Memory foam / Beige",
     "shortDescription": "80 x 200 cm, beige with memory foam.",
     "selectionAttributes": {
-      "dimensions": "80 x 200 x 21 cm",
+      "dimensions": "80 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
       "color": "Beige",
-      "material": ""
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.jpg",
-      "/products/mattresses/moon-gold/197698_1.avif",
-      "/products/mattresses/moon-gold/197698_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif"
     ],
     "href": "/products/mattresses/moon-gold/197698",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Beige, 80 x 200 x 21 cm, Memory foam 80 x 200 cm, beige with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.34 m³ m³ Logistics Weight 15 kg kg Logistics Weight 17 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Mattress, Beige, 80 × 200 cm, Memory foam 80 x 200 cm, beige with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Package weight 17 kg kg Logistics Product count 1 product product Logistics Volume 0.34 m³ m³ Logistics Weight 15 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -3327,6 +3427,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -3358,18 +3470,6 @@
           "href": "/attributes/logistics/weight/15-kg/",
           "valueType": "enum",
           "numericValue": 15,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "17-kg",
-          "valueLabel": "17 kg",
-          "href": "/attributes/logistics/weight/17-kg/",
-          "valueType": "enum",
-          "numericValue": 17,
           "unit": "kg"
         },
         {
@@ -3423,7 +3523,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Beige, 80 x 200 x 21 cm, Memory foam",
+      "title": "Moon Gold Mattress, Beige, 80 × 200 cm, Memory foam",
       "summary": "80 x 200 cm, beige with memory foam.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -3434,28 +3534,34 @@
   {
     "sku": "197699",
     "name": "197699",
-    "title": "Moon Gold Mattress, Beige, 90 x 200 x 21 cm, Memory foam",
-    "variantSummary": "90 x 200 x 21 cm / Memory foam / Beige",
+    "title": "Moon Gold Mattress, Beige, 90 × 200 cm, Memory foam",
+    "variantSummary": "90 × 200 cm / Memory foam / Beige",
     "shortDescription": "90 x 200 cm, beige with memory foam.",
     "selectionAttributes": {
-      "dimensions": "90 x 200 x 21 cm",
+      "dimensions": "90 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
       "color": "Beige",
-      "material": ""
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.jpg",
-      "/products/mattresses/moon-gold/197699_1.avif",
-      "/products/mattresses/moon-gold/197699_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif"
     ],
     "href": "/products/mattresses/moon-gold/197699",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Beige, 90 x 200 x 21 cm, Memory foam 90 x 200 cm, beige with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.39 m³ m³ Logistics Weight 17 kg kg Logistics Weight 19 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Mattress, Beige, 90 × 200 cm, Memory foam 90 x 200 cm, beige with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Package weight 19 kg kg Logistics Product count 1 product product Logistics Volume 0.39 m³ m³ Logistics Weight 17 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -3540,6 +3646,18 @@
           "valueType": "enum",
           "numericValue": 1,
           "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "19-kg",
+          "valueLabel": "19 kg",
+          "href": "/attributes/logistics/package-weight/19-kg/",
+          "valueType": "enum",
+          "numericValue": 19,
+          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -3578,18 +3696,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "19-kg",
-          "valueLabel": "19 kg",
-          "href": "/attributes/logistics/weight/19-kg/",
-          "valueType": "enum",
-          "numericValue": 19,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -3640,7 +3746,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Beige, 90 x 200 x 21 cm, Memory foam",
+      "title": "Moon Gold Mattress, Beige, 90 × 200 cm, Memory foam",
       "summary": "90 x 200 cm, beige with memory foam.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -3651,28 +3757,34 @@
   {
     "sku": "197700",
     "name": "197700",
-    "title": "Moon Gold Mattress, Beige, 120 x 200 x 21 cm, Memory foam",
-    "variantSummary": "120 x 200 x 21 cm / Memory foam / Beige",
+    "title": "Moon Gold Mattress, Beige, 120 × 200 cm, Memory foam",
+    "variantSummary": "120 × 200 cm / Memory foam / Beige",
     "shortDescription": "120 x 200 cm, beige with memory foam.",
     "selectionAttributes": {
-      "dimensions": "120 x 200 x 21 cm",
+      "dimensions": "120 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
       "color": "Beige",
-      "material": ""
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.jpg",
-      "/products/mattresses/moon-gold/197700_1.avif",
-      "/products/mattresses/moon-gold/197700_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif"
     ],
     "href": "/products/mattresses/moon-gold/197700",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Beige, 120 x 200 x 21 cm, Memory foam 120 x 200 cm, beige with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.5 m³ m³ Logistics Weight 23 kg kg Logistics Weight 30 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Mattress, Beige, 120 × 200 cm, Memory foam 120 x 200 cm, beige with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Package weight 30 kg kg Logistics Product count 1 product product Logistics Volume 0.5 m³ m³ Logistics Weight 23 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -3761,6 +3873,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/package-weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -3792,18 +3916,6 @@
           "href": "/attributes/logistics/weight/23-kg/",
           "valueType": "enum",
           "numericValue": 23,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "30-kg",
-          "valueLabel": "30 kg",
-          "href": "/attributes/logistics/weight/30-kg/",
-          "valueType": "enum",
-          "numericValue": 30,
           "unit": "kg"
         },
         {
@@ -3857,7 +3969,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Beige, 120 x 200 x 21 cm, Memory foam",
+      "title": "Moon Gold Mattress, Beige, 120 × 200 cm, Memory foam",
       "summary": "120 x 200 cm, beige with memory foam.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -3868,30 +3980,36 @@
   {
     "sku": "197701",
     "name": "197701",
-    "title": "Moon Gold Mattress, Beige, 140 x 200 x 21 cm, Memory foam",
-    "variantSummary": "140 x 200 x 21 cm / Memory foam / Beige",
+    "title": "Moon Gold Mattress, Beige, 140 × 200 cm, Memory foam",
+    "variantSummary": "140 × 200 cm / Memory foam / Beige",
     "shortDescription": "140 x 200 cm, beige with memory foam.",
     "selectionAttributes": {
-      "dimensions": "140 x 200 x 21 cm",
+      "dimensions": "140 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
       "color": "Beige",
-      "material": ""
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_140_x_200_x_21_cm_2.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_140_x_200_x_21_cm_2.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_140_x_200_x_21_cm_1.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_140_x_200_x_21_cm_1.avif",
     "imageUrls": [
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_140_x_200_x_21_cm_1.avif",
       "/products/mattresses/moon-gold/moon_gold_mattress_beige_140_x_200_x_21_cm_2.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_140_x_200_x_21_cm_2.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.jpg",
-      "/products/mattresses/moon-gold/197701_1.avif",
-      "/products/mattresses/moon-gold/197701_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif"
     ],
     "href": "/products/mattresses/moon-gold/197701",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Beige, 140 x 200 x 21 cm, Memory foam 140 x 200 cm, beige with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 140 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Weight 27 kg kg Logistics Weight 29 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Mattress, Beige, 140 × 200 cm, Memory foam 140 x 200 cm, beige with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 140 cm cm Logistics Package count 1 package package Logistics Package weight 29 kg kg Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Weight 27 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -3980,6 +4098,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/package-weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -4011,18 +4141,6 @@
           "href": "/attributes/logistics/weight/27-kg/",
           "valueType": "enum",
           "numericValue": 27,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "29-kg",
-          "valueLabel": "29 kg",
-          "href": "/attributes/logistics/weight/29-kg/",
-          "valueType": "enum",
-          "numericValue": 29,
           "unit": "kg"
         },
         {
@@ -4076,7 +4194,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Beige, 140 x 200 x 21 cm, Memory foam",
+      "title": "Moon Gold Mattress, Beige, 140 × 200 cm, Memory foam",
       "summary": "140 x 200 cm, beige with memory foam.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -4087,30 +4205,37 @@
   {
     "sku": "197702",
     "name": "197702",
-    "title": "Moon Gold Mattress, Beige, 160 x 200 x 21 cm, Memory foam",
-    "variantSummary": "160 x 200 x 21 cm / Memory foam / Beige",
+    "title": "Moon Gold Mattress, Beige, 160 × 200 cm, Memory foam",
+    "variantSummary": "160 × 200 cm / Memory foam / Beige",
     "shortDescription": "160 x 200 cm, beige with memory foam.",
     "selectionAttributes": {
-      "dimensions": "160 x 200 x 21 cm",
+      "dimensions": "160 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
       "color": "Beige",
-      "material": ""
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
     "imageUrls": [
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
       "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.jpg",
-      "/products/mattresses/moon-gold/197702_1.avif",
-      "/products/mattresses/moon-gold/197702_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4-mood.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.avif"
     ],
     "href": "/products/mattresses/moon-gold/197702",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Beige, 160 x 200 x 21 cm, Memory foam 160 x 200 cm, beige with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.67 m³ m³ Logistics Weight 29 kg kg Logistics Weight 31 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Mattress, Beige, 160 × 200 cm, Memory foam 160 x 200 cm, beige with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Package weight 31 kg kg Logistics Product count 1 product product Logistics Volume 0.67 m³ m³ Logistics Weight 29 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -4199,6 +4324,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "31-kg",
+          "valueLabel": "31 kg",
+          "href": "/attributes/logistics/package-weight/31-kg/",
+          "valueType": "enum",
+          "numericValue": 31,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -4230,18 +4367,6 @@
           "href": "/attributes/logistics/weight/29-kg/",
           "valueType": "enum",
           "numericValue": 29,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "31-kg",
-          "valueLabel": "31 kg",
-          "href": "/attributes/logistics/weight/31-kg/",
-          "valueType": "enum",
-          "numericValue": 31,
           "unit": "kg"
         },
         {
@@ -4295,7 +4420,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Beige, 160 x 200 x 21 cm, Memory foam",
+      "title": "Moon Gold Mattress, Beige, 160 × 200 cm, Memory foam",
       "summary": "160 x 200 cm, beige with memory foam.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -4306,30 +4431,37 @@
   {
     "sku": "197703",
     "name": "197703",
-    "title": "Moon Gold Mattress, Beige, 180 x 200 x 21 cm, Memory foam",
-    "variantSummary": "180 x 200 x 21 cm / Memory foam / Beige",
+    "title": "Moon Gold Mattress, Beige, 180 × 200 cm, Memory foam",
+    "variantSummary": "180 × 200 cm / Memory foam / Beige",
     "shortDescription": "180 x 200 cm, beige with memory foam.",
     "selectionAttributes": {
-      "dimensions": "180 x 200 x 21 cm",
+      "dimensions": "180 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
       "color": "Beige",
-      "material": ""
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
     "imageUrls": [
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
       "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.jpg",
-      "/products/mattresses/moon-gold/197703_1.avif",
-      "/products/mattresses/moon-gold/197703_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4-mood.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.avif"
     ],
     "href": "/products/mattresses/moon-gold/197703",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Beige, 180 x 200 x 21 cm, Memory foam 180 x 200 cm, beige with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Weight 20 kg kg Logistics Weight 34.5 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Mattress, Beige, 180 × 200 cm, Memory foam 180 x 200 cm, beige with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Package weight 20 kg kg Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Weight 34.5 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -4418,6 +4550,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -4438,18 +4582,6 @@
           "valueType": "enum",
           "numericValue": 0.75,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "20-kg",
-          "valueLabel": "20 kg",
-          "href": "/attributes/logistics/weight/20-kg/",
-          "valueType": "enum",
-          "numericValue": 20,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -4514,7 +4646,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Beige, 180 x 200 x 21 cm, Memory foam",
+      "title": "Moon Gold Mattress, Beige, 180 × 200 cm, Memory foam",
       "summary": "180 x 200 cm, beige with memory foam.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -4525,30 +4657,37 @@
   {
     "sku": "197704",
     "name": "197704",
-    "title": "Moon Gold Mattress, Beige, 200 x 200 x 21 cm, Memory foam",
-    "variantSummary": "200 x 200 x 21 cm / Memory foam / Beige",
+    "title": "Moon Gold Mattress, Beige, 200 × 200 cm, Memory foam",
+    "variantSummary": "200 × 200 cm / Memory foam / Beige",
     "shortDescription": "200 x 200 cm, beige with memory foam.",
     "selectionAttributes": {
-      "dimensions": "200 x 200 x 21 cm",
+      "dimensions": "200 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
       "color": "Beige",
-      "material": ""
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
     "imageUrls": [
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_1.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3-mood.avif",
       "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_3.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.jpg",
-      "/products/mattresses/moon-gold/197704_1.avif",
-      "/products/mattresses/moon-gold/197704_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4-mood.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_beige_4.avif"
     ],
     "href": "/products/mattresses/moon-gold/197704",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Beige, 200 x 200 x 21 cm, Memory foam 200 x 200 cm, beige with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.88 m³ m³ Logistics Weight 25 kg kg Logistics Weight 38 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Mattress, Beige, 200 × 200 cm, Memory foam 200 x 200 cm, beige with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Beige Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 25 kg kg Logistics Product count 1 product product Logistics Volume 0.88 m³ m³ Logistics Weight 38 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -4637,6 +4776,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -4657,18 +4808,6 @@
           "valueType": "enum",
           "numericValue": 0.88,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -4733,7 +4872,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Beige, 200 x 200 x 21 cm, Memory foam",
+      "title": "Moon Gold Mattress, Beige, 200 × 200 cm, Memory foam",
       "summary": "200 x 200 cm, beige with memory foam.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -4744,27 +4883,34 @@
   {
     "sku": "197705",
     "name": "197705",
-    "title": "Moon Gold Mattress, Black, 80 x 200 x 21 cm, Memory foam",
-    "variantSummary": "80 x 200 x 21 cm / Memory foam / Black",
+    "title": "Moon Gold Mattress, Grey, 80 × 200 cm, Memory foam",
+    "variantSummary": "80 × 200 cm / Memory foam / Grey",
     "shortDescription": "80 x 200 cm, anthracite with memory foam.",
     "selectionAttributes": {
-      "dimensions": "80 x 200 x 21 cm",
+      "dimensions": "80 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Black",
-      "material": ""
+      "color": "Grey",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-      "/products/mattresses/moon-gold/197705_1.avif",
-      "/products/mattresses/moon-gold/197705_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_2.avif"
     ],
     "href": "/products/mattresses/moon-gold/197705",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Black, 80 x 200 x 21 cm, Memory foam 80 x 200 cm, anthracite with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Black Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.34 m³ m³ Logistics Weight 15 kg kg Logistics Weight 17 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Mattress, Grey, 80 × 200 cm, Memory foam 80 x 200 cm, anthracite with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Grey Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Package weight 17 kg kg Logistics Product count 1 product product Logistics Volume 0.34 m³ m³ Logistics Weight 15 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -4788,9 +4934,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -4853,6 +4999,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -4884,18 +5042,6 @@
           "href": "/attributes/logistics/weight/15-kg/",
           "valueType": "enum",
           "numericValue": 15,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "17-kg",
-          "valueLabel": "17 kg",
-          "href": "/attributes/logistics/weight/17-kg/",
-          "valueType": "enum",
-          "numericValue": 17,
           "unit": "kg"
         },
         {
@@ -4949,7 +5095,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Black, 80 x 200 x 21 cm, Memory foam",
+      "title": "Moon Gold Mattress, Grey, 80 × 200 cm, Memory foam",
       "summary": "80 x 200 cm, anthracite with memory foam.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -4960,27 +5106,34 @@
   {
     "sku": "197706",
     "name": "197706",
-    "title": "Moon Gold Mattress, Black, 90 x 200 x 21 cm, Memory foam",
-    "variantSummary": "90 x 200 x 21 cm / Memory foam / Black",
+    "title": "Moon Gold Mattress, Grey, 90 × 200 cm, Memory foam",
+    "variantSummary": "90 × 200 cm / Memory foam / Grey",
     "shortDescription": "90 x 200 cm, anthracite with memory foam.",
     "selectionAttributes": {
-      "dimensions": "90 x 200 x 21 cm",
+      "dimensions": "90 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Black",
-      "material": ""
+      "color": "Grey",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-      "/products/mattresses/moon-gold/197706_1.avif",
-      "/products/mattresses/moon-gold/197706_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_2.avif"
     ],
     "href": "/products/mattresses/moon-gold/197706",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Black, 90 x 200 x 21 cm, Memory foam 90 x 200 cm, anthracite with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Black Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.38 m³ m³ Logistics Weight 17 kg kg Logistics Weight 19 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Mattress, Grey, 90 × 200 cm, Memory foam 90 x 200 cm, anthracite with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Grey Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Package weight 19 kg kg Logistics Product count 1 product product Logistics Volume 0.38 m³ m³ Logistics Weight 17 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -5004,9 +5157,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -5069,6 +5222,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "19-kg",
+          "valueLabel": "19 kg",
+          "href": "/attributes/logistics/package-weight/19-kg/",
+          "valueType": "enum",
+          "numericValue": 19,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -5100,18 +5265,6 @@
           "href": "/attributes/logistics/weight/17-kg/",
           "valueType": "enum",
           "numericValue": 17,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "19-kg",
-          "valueLabel": "19 kg",
-          "href": "/attributes/logistics/weight/19-kg/",
-          "valueType": "enum",
-          "numericValue": 19,
           "unit": "kg"
         },
         {
@@ -5165,7 +5318,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Black, 90 x 200 x 21 cm, Memory foam",
+      "title": "Moon Gold Mattress, Grey, 90 × 200 cm, Memory foam",
       "summary": "90 x 200 cm, anthracite with memory foam.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -5176,29 +5329,36 @@
   {
     "sku": "197707",
     "name": "197707",
-    "title": "Moon Gold Mattress, Black, 120 x 200 x 21 cm, Memory foam",
-    "variantSummary": "120 x 200 x 21 cm / Memory foam / Black",
+    "title": "Moon Gold Mattress, Grey, 120 × 200 cm, Memory foam",
+    "variantSummary": "120 × 200 cm / Memory foam / Grey",
     "shortDescription": "120 x 200 cm, anthracite with memory foam.",
     "selectionAttributes": {
-      "dimensions": "120 x 200 x 21 cm",
+      "dimensions": "120 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Black",
-      "material": ""
+      "color": "Grey",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_6.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_6.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_6.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_6.jpg",
-      "/products/mattresses/moon-gold/197707_1.avif",
-      "/products/mattresses/moon-gold/197707_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_3.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_2.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_6.avif"
     ],
     "href": "/products/mattresses/moon-gold/197707",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Black, 120 x 200 x 21 cm, Memory foam 120 x 200 cm, anthracite with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Black Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.5 m³ m³ Logistics Weight 23 kg kg Logistics Weight 25 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Mattress, Grey, 120 × 200 cm, Memory foam 120 x 200 cm, anthracite with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Grey Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Package weight 25 kg kg Logistics Product count 1 product product Logistics Volume 0.5 m³ m³ Logistics Weight 23 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -5222,9 +5382,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -5287,6 +5447,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -5318,18 +5490,6 @@
           "href": "/attributes/logistics/weight/23-kg/",
           "valueType": "enum",
           "numericValue": 23,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
           "unit": "kg"
         },
         {
@@ -5383,7 +5543,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Black, 120 x 200 x 21 cm, Memory foam",
+      "title": "Moon Gold Mattress, Grey, 120 × 200 cm, Memory foam",
       "summary": "120 x 200 cm, anthracite with memory foam.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -5394,29 +5554,36 @@
   {
     "sku": "197708",
     "name": "197708",
-    "title": "Moon Gold Mattress, Black, 140 x 200 x 21 cm, Memory foam",
-    "variantSummary": "140 x 200 x 21 cm / Memory foam / Black",
+    "title": "Moon Gold Mattress, Grey, 140 × 200 cm, Memory foam",
+    "variantSummary": "140 × 200 cm / Memory foam / Grey",
     "shortDescription": "140 x 200 cm, anthracite with memory foam.",
     "selectionAttributes": {
-      "dimensions": "140 x 200 x 21 cm",
+      "dimensions": "140 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Black",
-      "material": ""
+      "color": "Grey",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_6.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_6.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_6.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_6.jpg",
-      "/products/mattresses/moon-gold/197708_1.avif",
-      "/products/mattresses/moon-gold/197708_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_3.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_2.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_6.avif"
     ],
     "href": "/products/mattresses/moon-gold/197708",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Black, 140 x 200 x 21 cm, Memory foam 140 x 200 cm, anthracite with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Black Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 140 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.6 m³ m³ Logistics Weight 27 kg kg Logistics Weight 29 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Mattress, Grey, 140 × 200 cm, Memory foam 140 x 200 cm, anthracite with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Grey Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 140 cm cm Logistics Package count 1 package package Logistics Package weight 29 kg kg Logistics Product count 1 product product Logistics Volume 0.6 m³ m³ Logistics Weight 27 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -5440,9 +5607,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -5505,6 +5672,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/package-weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -5536,18 +5715,6 @@
           "href": "/attributes/logistics/weight/27-kg/",
           "valueType": "enum",
           "numericValue": 27,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "29-kg",
-          "valueLabel": "29 kg",
-          "href": "/attributes/logistics/weight/29-kg/",
-          "valueType": "enum",
-          "numericValue": 29,
           "unit": "kg"
         },
         {
@@ -5601,7 +5768,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Black, 140 x 200 x 21 cm, Memory foam",
+      "title": "Moon Gold Mattress, Grey, 140 × 200 cm, Memory foam",
       "summary": "140 x 200 cm, anthracite with memory foam.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -5612,29 +5779,36 @@
   {
     "sku": "197709",
     "name": "197709",
-    "title": "Moon Gold Mattress, Black, 160 x 200 x 21 cm, Memory foam",
-    "variantSummary": "160 x 200 x 21 cm / Memory foam / Black",
+    "title": "Moon Gold Mattress, Grey, 160 × 200 cm, Memory foam",
+    "variantSummary": "160 × 200 cm / Memory foam / Grey",
     "shortDescription": "160 x 200 cm, anthracite with memory foam.",
     "selectionAttributes": {
-      "dimensions": "160 x 200 x 21 cm",
+      "dimensions": "160 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Black",
-      "material": ""
+      "color": "Grey",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.jpg",
-      "/products/mattresses/moon-gold/197709_1.avif",
-      "/products/mattresses/moon-gold/197709_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_2.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_1.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif"
     ],
     "href": "/products/mattresses/moon-gold/197709",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Black, 160 x 200 x 21 cm, Memory foam 160 x 200 cm, anthracite with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Black Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.67 m³ m³ Logistics Weight 29 kg kg Logistics Weight 30 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Mattress, Grey, 160 × 200 cm, Memory foam 160 x 200 cm, anthracite with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Grey Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Package weight 30 kg kg Logistics Product count 1 product product Logistics Volume 0.67 m³ m³ Logistics Weight 29 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -5658,9 +5832,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -5723,6 +5897,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/package-weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -5754,18 +5940,6 @@
           "href": "/attributes/logistics/weight/29-kg/",
           "valueType": "enum",
           "numericValue": 29,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "30-kg",
-          "valueLabel": "30 kg",
-          "href": "/attributes/logistics/weight/30-kg/",
-          "valueType": "enum",
-          "numericValue": 30,
           "unit": "kg"
         },
         {
@@ -5819,7 +5993,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Black, 160 x 200 x 21 cm, Memory foam",
+      "title": "Moon Gold Mattress, Grey, 160 × 200 cm, Memory foam",
       "summary": "160 x 200 cm, anthracite with memory foam.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -5830,29 +6004,36 @@
   {
     "sku": "197710",
     "name": "197710",
-    "title": "Moon Gold Mattress, Black, 180 x 200 x 21 cm, Memory foam",
-    "variantSummary": "180 x 200 x 21 cm / Memory foam / Black",
+    "title": "Moon Gold Mattress, Grey, 180 × 200 cm, Memory foam",
+    "variantSummary": "180 × 200 cm / Memory foam / Grey",
     "shortDescription": "180 x 200 cm, anthracite with memory foam.",
     "selectionAttributes": {
-      "dimensions": "180 x 200 x 21 cm",
+      "dimensions": "180 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Black",
-      "material": ""
+      "color": "Grey",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.jpg",
-      "/products/mattresses/moon-gold/197710_1.avif",
-      "/products/mattresses/moon-gold/197710_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_2.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_1.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif"
     ],
     "href": "/products/mattresses/moon-gold/197710",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Black, 180 x 200 x 21 cm, Memory foam 180 x 200 cm, anthracite with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Black Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Weight 10 kg kg Logistics Weight 34.5 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Mattress, Grey, 180 × 200 cm, Memory foam 180 x 200 cm, anthracite with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Grey Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Package weight 10 kg kg Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Weight 34.5 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -5876,9 +6057,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -5941,6 +6122,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "10-kg",
+          "valueLabel": "10 kg",
+          "href": "/attributes/logistics/package-weight/10-kg/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -5961,18 +6154,6 @@
           "valueType": "enum",
           "numericValue": 0.75,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "10-kg",
-          "valueLabel": "10 kg",
-          "href": "/attributes/logistics/weight/10-kg/",
-          "valueType": "enum",
-          "numericValue": 10,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -6037,7 +6218,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Black, 180 x 200 x 21 cm, Memory foam",
+      "title": "Moon Gold Mattress, Grey, 180 × 200 cm, Memory foam",
       "summary": "180 x 200 cm, anthracite with memory foam.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",
@@ -6048,29 +6229,36 @@
   {
     "sku": "197711",
     "name": "197711",
-    "title": "Moon Gold Mattress, Black, 200 x 200 x 21 cm, Memory foam",
-    "variantSummary": "200 x 200 x 21 cm / Memory foam / Black",
+    "title": "Moon Gold Mattress, Grey, 200 × 200 cm, Memory foam",
+    "variantSummary": "200 × 200 cm / Memory foam / Grey",
     "shortDescription": "200 x 200 cm, anthracite with memory foam.",
     "selectionAttributes": {
-      "dimensions": "200 x 200 x 21 cm",
+      "dimensions": "200 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Black",
-      "material": ""
+      "color": "Grey",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress",
+      "colorLabel": "Grey",
+      "colorNote": "Anthracite",
+      "axisPlan": "dimensions,comfortType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
-    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
+    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+    "imageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
     "imageUrls": [
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.jpg",
-      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.jpg",
-      "/products/mattresses/moon-gold/197711_1.avif",
-      "/products/mattresses/moon-gold/197711_2.avif"
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_4.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_2.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_1.avif",
+      "/products/mattresses/moon-gold/moon_gold_mattress_black_5.avif"
     ],
     "href": "/products/mattresses/moon-gold/197711",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Mattress, Black, 200 x 200 x 21 cm, Memory foam 200 x 200 cm, anthracite with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Black Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.84 m³ m³ Logistics Weight 38 kg kg Logistics Weight 40.2 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Gold Mattress, Grey, 200 × 200 cm, Memory foam 200 x 200 cm, anthracite with memory foam. Mattresses Bedroom Moon Gold Bedroom Mattresses Moon Gold Grey Memory foam Dimensions Depth 200 cm cm Dimensions Height 21 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 40.2 kg kg Logistics Product count 1 product product Logistics Volume 0.84 m³ m³ Logistics Weight 38 kg kg Setup Assembly time 0 min min Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -6094,9 +6282,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -6159,6 +6347,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "40-2-kg",
+          "valueLabel": "40.2 kg",
+          "href": "/attributes/logistics/package-weight/40-2-kg/",
+          "valueType": "enum",
+          "numericValue": 40.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -6190,18 +6390,6 @@
           "href": "/attributes/logistics/weight/38-kg/",
           "valueType": "enum",
           "numericValue": 38,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "40-2-kg",
-          "valueLabel": "40.2 kg",
-          "href": "/attributes/logistics/weight/40-2-kg/",
-          "valueType": "enum",
-          "numericValue": 40.2,
           "unit": "kg"
         },
         {
@@ -6255,7 +6443,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Mattress, Black, 200 x 200 x 21 cm, Memory foam",
+      "title": "Moon Gold Mattress, Grey, 200 × 200 cm, Memory foam",
       "summary": "200 x 200 cm, anthracite with memory foam.",
       "variantCount": 1,
       "categoryLabel": "Mattresses",

@@ -1,0 +1,101 @@
+[
+  {
+    "sku": "209402",
+    "name": "209402",
+    "title": "Livo Dining Chair",
+    "variantSummary": "47 × 53 cm / Comfort foam / Brown",
+    "shortDescription": "The Livo Dining Chair in tan PU combines comfort foam seating with oak, plywood and wood for a clean dining-room look. Measures 47 × 53 × 83 cm.",
+    "selectionAttributes": {
+      "dimensions": "47 × 53 cm",
+      "handedness": "",
+      "comfortType": "Comfort foam",
+      "color": "Brown",
+      "material": "Foam, Oak, Plywood, Wood",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining chair",
+      "colorLabel": "Brown",
+      "colorNote": "Natural oak frame",
+      "axisPlan": "",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
+    },
+    "primaryImageUrl": "/products/dining-chairs/livo/209402_1.avif",
+    "imageUrl": "/products/dining-chairs/livo/209402_1.avif",
+    "imageUrls": [
+      "/products/dining-chairs/livo/209402_1.avif",
+      "/products/dining-chairs/livo/209402_5.avif",
+      "/products/dining-chairs/livo/209402_2.avif",
+      "/products/dining-chairs/livo/209402_3.avif",
+      "/products/dining-chairs/livo/209402_4.avif",
+      "/products/dining-chairs/livo/209402_6.avif",
+      "/products/dining-chairs/livo/209402_7.avif",
+      "/products/dining-chairs/livo/209402_8.avif"
+    ],
+    "href": "/products/dining-chairs/livo/209402",
+    "type": "file",
+    "filterData": {
+      "searchText": "Livo Dining Chair The Livo Dining Chair in tan PU combines comfort foam seating with oak, plywood and wood for a clean dining-room look. Measures 47 × 53 × 83 cm. Dining Chairs Dining room Livo Dining room Dining Chairs Livo Brown Foam Oak Plywood Wood",
+      "collections": [
+        {
+          "key": "dining-room",
+          "label": "Dining room",
+          "href": "/collections/dining-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "dining-chairs",
+          "label": "Dining Chairs",
+          "href": "/products/dining-chairs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "livo",
+          "label": "Livo",
+          "href": "/families/livo/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "oak",
+          "label": "Oak",
+          "href": "/materials/oak/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "wood",
+          "label": "Wood",
+          "href": "/materials/wood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Livo Dining Chair",
+      "summary": "The Livo Dining Chair in tan PU combines comfort foam seating with oak, plywood and wood for a clean dining-room look. Measures 47 × 53 × 83 cm.",
+      "variantCount": 1,
+      "categoryLabel": "Dining Chairs",
+      "collectionLabel": "Dining room",
+      "productFamilyLabel": "Livo"
+    }
+  }
+]

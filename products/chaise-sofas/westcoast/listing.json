@@ -1,14 +1,15 @@
 {
   "familyTitle": "Westcoast",
   "familySummary": "Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey.",
-  "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+  "familyDescription": "The Westcoast chaise sofa features a soft polyester fabric that is durable and easy to maintain. Its versatile chaise section provides extra seating and comfort. The sofa’s neutral colors and clean design suit a variety of living spaces.",
+  "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_4.avif",
   "schemaCategory": "Chaise Sofas",
   "variantCount": 6,
   "productFamilyName": "Westcoast",
   "productFamilyKey": "westcoast",
   "productFamilyRelativeDir": "families/westcoast",
   "filterData": {
-    "searchText": "Westcoast Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey. Chaise Sofas Living room Westcoast Living room Chaise Sofas Westcoast Beige Brown Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 145 cm cm Dimensions Height 80 cm cm Dimensions Width 250 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Volume 0.79 m³ m³ Logistics Weight 42 kg kg Logistics Weight 60 kg kg Logistics Weight 102 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+    "searchText": "Westcoast Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey. Chaise Sofas Living room Westcoast Living room Chaise Sofas Westcoast Beige Brown Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 145 cm cm Dimensions Height 80 cm cm Dimensions Width 250 cm cm Logistics Package count 1 package package Logistics Package weight 42 kg kg Logistics Package weight 60 kg kg Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Volume 0.79 m³ m³ Logistics Weight 102 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "living-room",
@@ -124,6 +125,30 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "42-kg",
+        "valueLabel": "42 kg",
+        "href": "/attributes/logistics/package-weight/42-kg/",
+        "valueType": "enum",
+        "numericValue": 42,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "60-kg",
+        "valueLabel": "60 kg",
+        "href": "/attributes/logistics/package-weight/60-kg/",
+        "valueType": "enum",
+        "numericValue": 60,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "1-product",
@@ -156,30 +181,6 @@
         "valueType": "enum",
         "numericValue": 0.79,
         "unit": "m³"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "42-kg",
-        "valueLabel": "42 kg",
-        "href": "/attributes/logistics/weight/42-kg/",
-        "valueType": "enum",
-        "numericValue": 42,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "60-kg",
-        "valueLabel": "60 kg",
-        "href": "/attributes/logistics/weight/60-kg/",
-        "valueType": "enum",
-        "numericValue": 60,
-        "unit": "kg"
       },
       {
         "groupKey": "logistics",

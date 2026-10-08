@@ -1,10 +1,10 @@
 {
   "sourceUrl": "https://www.masku.com/myymalat",
-  "scrapedAt": "2026-04-23T08:20:10.780Z",
-  "outletCount": 45,
-  "retailerCount": 43,
+  "scrapedAt": "2026-09-07T11:11:13.059Z",
+  "outletCount": 43,
+  "retailerCount": 41,
   "warehouseCount": 2,
-  "selectedCount": 45,
+  "selectedCount": 43,
   "retailers": [
     {
       "index": 1,
@@ -222,7 +222,7 @@
       "name": "Eura",
       "city": "Eura",
       "kind": "retailer",
-      "statusText": "Avoinna 10–18",
+      "statusText": "Suljettu, avataan Tiistaina klo 10",
       "addressLine1": "Kauppatie 1",
       "postalCode": "27500",
       "locality": "Eura",
@@ -363,9 +363,9 @@
       "kind": "retailer",
       "statusText": "Avoinna 10–18",
       "addressLine1": "Mäkikuumolantie 3",
-      "postalCode": "05800",
+      "postalCode": "05880",
       "locality": "Hyvinkää",
-      "addressText": "Mäkikuumolantie 3, 05800 Hyvinkää",
+      "addressText": "Mäkikuumolantie 3, 05880 Hyvinkää",
       "phone": "+358201211300",
       "phoneHref": "tel:+358201211300",
       "detailPath": "/myymalat/hyvinkaa",
@@ -423,7 +423,7 @@
         "Pickup: Mon–Fri, 10–18"
       ],
       "excerpt": "Visit our selected Nest & Living retail point in Hyvinkää for beds, sofas, dining furniture, rugs, and practical home details. Find the store at Mäkikuumolantie 3. Services include trailer rental and pickup available.",
-      "searchText": "Hyvinkää Hyvinkää Mäkikuumolantie 3 05800 Hyvinkää +358201211300 Trailer rental Pickup available English service"
+      "searchText": "Hyvinkää Hyvinkää Mäkikuumolantie 3 05880 Hyvinkää +358201211300 Trailer rental Pickup available English service"
     },
     {
       "index": 7,
@@ -855,7 +855,7 @@
       "name": "Kirkkonummi",
       "city": "Kirkkonummi",
       "kind": "retailer",
-      "statusText": "Avoinna 10–18",
+      "statusText": "Suljettu",
       "addressLine1": "Luostarinportti 2",
       "postalCode": "02400",
       "locality": "Kirkkonummi",
@@ -880,32 +880,32 @@
         {
           "dayLabelFi": "Maanantai",
           "dayLabel": "Monday",
-          "hours": "10–18"
+          "hours": "Closed"
         },
         {
           "dayLabelFi": "Tiistai",
           "dayLabel": "Tuesday",
-          "hours": "10–18"
+          "hours": "Closed"
         },
         {
           "dayLabelFi": "Keskiviikko",
           "dayLabel": "Wednesday",
-          "hours": "10–18"
+          "hours": "Closed"
         },
         {
           "dayLabelFi": "Torstai",
           "dayLabel": "Thursday",
-          "hours": "10–18"
+          "hours": "Closed"
         },
         {
           "dayLabelFi": "Perjantai",
           "dayLabel": "Friday",
-          "hours": "10–18"
+          "hours": "Closed"
         },
         {
           "dayLabelFi": "Lauantai",
           "dayLabel": "Saturday",
-          "hours": "10–16"
+          "hours": "Closed"
         },
         {
           "dayLabelFi": "Sunnuntai",
@@ -1204,8 +1204,8 @@
       "postalCode": "15100",
       "locality": "Lahti",
       "addressText": "Saksalankatu 4-6, 15100 Lahti",
-      "phone": "+3583884990",
-      "phoneHref": "tel:+3583884990",
+      "phone": "+358201211620",
+      "phoneHref": "tel:+358201211620",
       "detailPath": "/myymalat/lahti",
       "detailUrl": "https://www.masku.com/myymalat/lahti",
       "routeUrl": "https://www.google.com/maps/search/?api=1&query=60.9682689%2C25.6592303",
@@ -1259,7 +1259,7 @@
         "Mon–Fri, 10–18"
       ],
       "excerpt": "Visit our selected Nest & Living retail point in Lahti for beds, sofas, dining furniture, rugs, and practical home details. Find the store at Saksalankatu 4-6. Services include trailer rental and pickup available.",
-      "searchText": "Lahti Lahti Saksalankatu 4-6 15100 Lahti +3583884990 Trailer rental Pickup available"
+      "searchText": "Lahti Lahti Saksalankatu 4-6 15100 Lahti +358201211620 Trailer rental Pickup available"
     },
     {
       "index": 19,
@@ -1688,7 +1688,7 @@
       "name": "Orivesi",
       "city": "Orivesi",
       "kind": "retailer",
-      "statusText": "Avoinna 10–18",
+      "statusText": "Suljettu, avataan Tiistaina klo 10",
       "addressLine1": "Teollisuustie 23",
       "postalCode": "35300",
       "locality": "Orivesi",
@@ -2028,74 +2028,6 @@
     },
     {
       "index": 30,
-      "slug": "riihimaki",
-      "name": "Riihimäki",
-      "city": "Riihimäki",
-      "kind": "retailer",
-      "statusText": "Avoinna 10–18",
-      "addressLine1": "Merkoksenkatu 5",
-      "postalCode": "11710",
-      "locality": "Riihimäki",
-      "addressText": "Merkoksenkatu 5, 11710 Riihimäki",
-      "phone": "+358201211310",
-      "phoneHref": "tel:+358201211310",
-      "detailPath": "/myymalat/riihimaki",
-      "detailUrl": "https://www.masku.com/myymalat/riihimaki",
-      "routeUrl": "https://www.google.com/maps/search/?api=1&query=60.72473%2C24.73455",
-      "coordinates": {
-        "lat": 60.72473,
-        "lng": 24.73455
-      },
-      "services": [
-        "Trailer rental",
-        "Pickup available"
-      ],
-      "languages": [
-        "English service"
-      ],
-      "openingHours": [
-        {
-          "dayLabelFi": "Maanantai",
-          "dayLabel": "Monday",
-          "hours": "10–18"
-        },
-        {
-          "dayLabelFi": "Tiistai",
-          "dayLabel": "Tuesday",
-          "hours": "10–18"
-        },
-        {
-          "dayLabelFi": "Keskiviikko",
-          "dayLabel": "Wednesday",
-          "hours": "10–18"
-        },
-        {
-          "dayLabelFi": "Torstai",
-          "dayLabel": "Thursday",
-          "hours": "10–18"
-        },
-        {
-          "dayLabelFi": "Perjantai",
-          "dayLabel": "Friday",
-          "hours": "10–18"
-        },
-        {
-          "dayLabelFi": "Lauantai",
-          "dayLabel": "Saturday",
-          "hours": "10–16"
-        },
-        {
-          "dayLabelFi": "Sunnuntai",
-          "dayLabel": "Sunday",
-          "hours": "Closed"
-        }
-      ],
-      "pickupHours": [],
-      "excerpt": "Visit our selected Nest & Living retail point in Riihimäki for beds, sofas, dining furniture, rugs, and practical home details. Find the store at Merkoksenkatu 5. Services include trailer rental and pickup available.",
-      "searchText": "Riihimäki Riihimäki Merkoksenkatu 5 11710 Riihimäki +358201211310 Trailer rental Pickup available English service"
-    },
-    {
-      "index": 31,
       "slug": "rovaniemi",
       "name": "Rovaniemi",
       "city": "Rovaniemi",
@@ -2163,7 +2095,7 @@
       "searchText": "Rovaniemi Rovaniemi Teollisuustie 13 96320 Rovaniemi +358201211780 Trailer rental Pickup available English service"
     },
     {
-      "index": 32,
+      "index": 31,
       "slug": "salo",
       "name": "Salo",
       "city": "Salo",
@@ -2224,12 +2156,14 @@
           "hours": "11–16"
         }
       ],
-      "pickupHours": [],
+      "pickupHours": [
+        "Please confirm pickup times with the store team."
+      ],
       "excerpt": "Visit our selected Nest & Living retail point in Salo for beds, sofas, dining furniture, rugs, and practical home details. Find the store at Turuntie 12. Services include trailer rental and pickup available.",
       "searchText": "Salo Salo Turuntie 12 24240 Salo +358201211430 Trailer rental Pickup available"
     },
     {
-      "index": 33,
+      "index": 32,
       "slug": "savonlinna",
       "name": "Savonlinna",
       "city": "Savonlinna",
@@ -2297,7 +2231,7 @@
       "searchText": "Savonlinna Savonlinna Automiehenkatu 6 57100 Savonlinna +358201211580 Trailer rental Pickup available English service"
     },
     {
-      "index": 34,
+      "index": 33,
       "slug": "seinajoki-hyllykallio",
       "name": "Seinäjoki Hyllykallio",
       "city": "Seinäjoki Hyllykallio",
@@ -2367,7 +2301,7 @@
       "searchText": "Seinäjoki Hyllykallio Seinäjoki Hyllykallio Kaarretie 2 60510 Seinäjoki +358201211710 Trailer rental Pickup available English service"
     },
     {
-      "index": 35,
+      "index": 34,
       "slug": "seinajoki-ideapark",
       "name": "Seinäjoki Ideapark",
       "city": "Seinäjoki Ideapark",
@@ -2435,7 +2369,7 @@
       "searchText": "Seinäjoki Ideapark Seinäjoki Ideapark Suupohjantie 57 60320 Seinäjoki +358201211450 Trailer rental Pickup available English service"
     },
     {
-      "index": 36,
+      "index": 35,
       "slug": "tampere-hakametsa",
       "name": "Tampere, Hakametsä",
       "city": "Tampere",
@@ -2503,24 +2437,24 @@
       "searchText": "Tampere, Hakametsä Tampere Sammon valtatie 2 33530 Tampere +358201211760 Trailer rental Pickup available English service"
     },
     {
-      "index": 37,
+      "index": 36,
       "slug": "tampere-lielahti",
       "name": "Tampere, Lielahti",
       "city": "Tampere",
       "kind": "retailer",
-      "statusText": "Avoinna 10–19",
-      "addressLine1": "Sellukatu 22",
+      "statusText": "Avoinna 10–20",
+      "addressLine1": "Sellukatu 30",
       "postalCode": "33400",
       "locality": "Tampere",
-      "addressText": "Sellukatu 22, 33400 Tampere",
+      "addressText": "Sellukatu 30, 33400 Tampere",
       "phone": "+358201211680",
       "phoneHref": "tel:+358201211680",
       "detailPath": "/myymalat/tampere-lielahti",
       "detailUrl": "https://www.masku.com/myymalat/tampere-lielahti",
-      "routeUrl": "https://www.google.com/maps/search/?api=1&query=61.51691649%2C23.67210749",
+      "routeUrl": "https://www.google.com/maps/search/?api=1&query=61.518266637485624%2C23.669324669006635",
       "coordinates": {
-        "lat": 61.51691649,
-        "lng": 23.67210749
+        "lat": 61.518266637485624,
+        "lng": 23.669324669006635
       },
       "services": [
         "Trailer rental",
@@ -2533,27 +2467,27 @@
         {
           "dayLabelFi": "Maanantai",
           "dayLabel": "Monday",
-          "hours": "10–19"
+          "hours": "10–20"
         },
         {
           "dayLabelFi": "Tiistai",
           "dayLabel": "Tuesday",
-          "hours": "10–19"
+          "hours": "10–20"
         },
         {
           "dayLabelFi": "Keskiviikko",
           "dayLabel": "Wednesday",
-          "hours": "10–19"
+          "hours": "10–20"
         },
         {
           "dayLabelFi": "Torstai",
           "dayLabel": "Thursday",
-          "hours": "10–19"
+          "hours": "10–20"
         },
         {
           "dayLabelFi": "Perjantai",
           "dayLabel": "Friday",
-          "hours": "10–19"
+          "hours": "10–20"
         },
         {
           "dayLabelFi": "Lauantai",
@@ -2566,12 +2500,14 @@
           "hours": "11–18"
         }
       ],
-      "pickupHours": [],
-      "excerpt": "Visit our selected Nest & Living retail point in Tampere for beds, sofas, dining furniture, rugs, and practical home details. Find the store at Sellukatu 22. Services include trailer rental and pickup available.",
-      "searchText": "Tampere, Lielahti Tampere Sellukatu 22 33400 Tampere +358201211680 Trailer rental Pickup available English service"
+      "pickupHours": [
+        "Weekdays 10-18"
+      ],
+      "excerpt": "Visit our selected Nest & Living retail point in Tampere for beds, sofas, dining furniture, rugs, and practical home details. Find the store at Sellukatu 30. Services include trailer rental and pickup available.",
+      "searchText": "Tampere, Lielahti Tampere Sellukatu 30 33400 Tampere +358201211680 Trailer rental Pickup available English service"
     },
     {
-      "index": 38,
+      "index": 37,
       "slug": "tuusula",
       "name": "Tuusula",
       "city": "Tuusula",
@@ -2637,92 +2573,24 @@
       "searchText": "Tuusula Tuusula Moukarinkuja 2 04300 Tuusula +358201211480 Trailer rental Pickup available"
     },
     {
-      "index": 39,
-      "slug": "uusikaupunki",
-      "name": "Uusikaupunki",
-      "city": "Uusikaupunki",
-      "kind": "retailer",
-      "statusText": "Suljettu",
-      "addressLine1": "Kurjenpolku 2",
-      "postalCode": "23500",
-      "locality": "Uusikaupunki",
-      "addressText": "Kurjenpolku 2, 23500 Uusikaupunki",
-      "phone": "+358201211380",
-      "phoneHref": "tel:+358201211380",
-      "detailPath": "/myymalat/uusikaupunki",
-      "detailUrl": "https://www.masku.com/myymalat/uusikaupunki",
-      "routeUrl": "https://www.google.com/maps/search/?api=1&query=60.80390896%2C21.45204107",
-      "coordinates": {
-        "lat": 60.80390896,
-        "lng": 21.45204107
-      },
-      "services": [
-        "Trailer rental",
-        "Pickup available"
-      ],
-      "languages": [],
-      "openingHours": [
-        {
-          "dayLabelFi": "Maanantai",
-          "dayLabel": "Monday",
-          "hours": "Closed"
-        },
-        {
-          "dayLabelFi": "Tiistai",
-          "dayLabel": "Tuesday",
-          "hours": "Closed"
-        },
-        {
-          "dayLabelFi": "Keskiviikko",
-          "dayLabel": "Wednesday",
-          "hours": "Closed"
-        },
-        {
-          "dayLabelFi": "Torstai",
-          "dayLabel": "Thursday",
-          "hours": "Closed"
-        },
-        {
-          "dayLabelFi": "Perjantai",
-          "dayLabel": "Friday",
-          "hours": "Closed"
-        },
-        {
-          "dayLabelFi": "Lauantai",
-          "dayLabel": "Saturday",
-          "hours": "Closed"
-        },
-        {
-          "dayLabelFi": "Sunnuntai",
-          "dayLabel": "Sunday",
-          "hours": "Closed"
-        }
-      ],
-      "pickupHours": [
-        "Please confirm pickup times with the store team."
-      ],
-      "excerpt": "Visit our selected Nest & Living retail point in Uusikaupunki for beds, sofas, dining furniture, rugs, and practical home details. Find the store at Kurjenpolku 2. Services include trailer rental and pickup available.",
-      "searchText": "Uusikaupunki Uusikaupunki Kurjenpolku 2 23500 Uusikaupunki +358201211380 Trailer rental Pickup available"
-    },
-    {
-      "index": 40,
+      "index": 38,
       "slug": "vaasa",
       "name": "Vaasa",
       "city": "Vaasa",
       "kind": "retailer",
       "statusText": "Avoinna 10–19",
-      "addressLine1": "Karperöntie 1",
-      "postalCode": "65610",
-      "locality": "Mustasaari",
-      "addressText": "Karperöntie 1, 65610 Mustasaari",
+      "addressLine1": "Kiillekuja 1",
+      "postalCode": "65380",
+      "locality": "Vaasa",
+      "addressText": "Kiillekuja 1, 65380 Vaasa",
       "phone": "+358201211790",
       "phoneHref": "tel:+358201211790",
       "detailPath": "/myymalat/vaasa",
       "detailUrl": "https://www.masku.com/myymalat/vaasa",
-      "routeUrl": "https://www.google.com/maps/search/?api=1&query=63.12093675%2C21.70564016",
+      "routeUrl": "https://www.google.com/maps/search/?api=1&query=63.11088502242381%2C21.648168967253476",
       "coordinates": {
-        "lat": 63.12093675,
-        "lng": 21.70564016
+        "lat": 63.11088502242381,
+        "lng": 21.648168967253476
       },
       "services": [
         "Trailer rental",
@@ -2769,16 +2637,12 @@
           "hours": "11–16"
         }
       ],
-      "pickupHours": [
-        "Pickup: Mon–Fri, 11–19",
-        "Sat 10-17",
-        "Sun 11-16"
-      ],
-      "excerpt": "Visit our selected Nest & Living retail point in Vaasa for beds, sofas, dining furniture, rugs, and practical home details. Find the store at Karperöntie 1. Services include trailer rental and pickup available.",
-      "searchText": "Vaasa Vaasa Karperöntie 1 65610 Mustasaari +358201211790 Trailer rental Pickup available English service Swedish service"
+      "pickupHours": [],
+      "excerpt": "Visit our selected Nest & Living retail point in Vaasa for beds, sofas, dining furniture, rugs, and practical home details. Find the store at Kiillekuja 1. Services include trailer rental and pickup available.",
+      "searchText": "Vaasa Vaasa Kiillekuja 1 65380 Vaasa +358201211790 Trailer rental Pickup available English service Swedish service"
     },
     {
-      "index": 41,
+      "index": 39,
       "slug": "vantaa-porttipuisto",
       "name": "Vantaa, Porttipuisto",
       "city": "Vantaa",
@@ -2850,7 +2714,7 @@
       "searchText": "Vantaa, Porttipuisto Vantaa Porttisuontie 4 01200 Vantaa +358201211920 Trailer rental Pickup available English service"
     },
     {
-      "index": 42,
+      "index": 40,
       "slug": "vantaa-varisto",
       "name": "Vantaa, Varisto",
       "city": "Vantaa",
@@ -2914,16 +2778,15 @@
         }
       ],
       "pickupHours": [
-        "Mon, Closed",
-        "Tue–Fri, 12–18",
-        "Sat 10–16",
+        "Mon - Fri 10-18",
+        "Sat, Closed",
         "Sun, Closed"
       ],
       "excerpt": "Visit our selected Nest & Living retail point in Vantaa for beds, sofas, dining furniture, rugs, and practical home details. Find the store at Martinkyläntie 47. Services include trailer rental and pickup available.",
       "searchText": "Vantaa, Varisto Vantaa Martinkyläntie 47 01720 Vantaa +358201211400 Trailer rental Pickup available English service"
     },
     {
-      "index": 43,
+      "index": 41,
       "slug": "ylojarvi",
       "name": "Ylöjärvi",
       "city": "Ylöjärvi",
@@ -2991,7 +2854,7 @@
       "searchText": "Ylöjärvi Ylöjärvi Teollisuustie 6 33470 Ylöjärvi +358201211600 Trailer rental Pickup available English service"
     },
     {
-      "index": 44,
+      "index": 42,
       "slug": "varasto-masku-paikallisvarasto-turun-alue",
       "name": "Varasto, Masku paikallisvarasto | Turun alue",
       "city": "Varasto",
@@ -3059,12 +2922,12 @@
       "searchText": "Varasto, Masku paikallisvarasto | Turun alue Varasto Maskuntie 224 21250 Masku +358201211250 Trailer rental Pickup available"
     },
     {
-      "index": 45,
+      "index": 43,
       "slug": "mantsala-varasto-ja-logistiikkakeskus",
       "name": "Mäntsälä, varasto- ja logistiikkakeskus",
       "city": "Mäntsälä",
       "kind": "warehouse",
-      "statusText": "Suljettu, avataan tänään klo 14",
+      "statusText": "Avoinna 14–18",
       "addressLine1": "Gneissitie 1",
       "postalCode": "04620",
       "locality": "Mäntsälä",

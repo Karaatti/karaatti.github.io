@@ -32,6 +32,14 @@
     "variantCount": 33
   },
   {
+    "name": "nordic",
+    "href": "/families/nordic/",
+    "type": "dir",
+    "title": "Nordic",
+    "schemaCategory": "Gazebos & Pergolas, Outdoor Lounge Seating, Outdoor Lounge Sets and Outdoor Storage",
+    "variantCount": 13
+  },
+  {
     "name": "haley",
     "href": "/families/haley/",
     "type": "dir",
@@ -45,14 +53,6 @@
     "type": "dir",
     "title": "Lugo",
     "schemaCategory": "Chaise Sofas, Corner Sofas, Footstools and 3-Seater Sofas",
-    "variantCount": 12
-  },
-  {
-    "name": "nordic",
-    "href": "/families/nordic/",
-    "type": "dir",
-    "title": "Nordic",
-    "schemaCategory": "Gazebos & Pergolas, Outdoor Lounge Seating, Outdoor Lounge Sets and Outdoor Storage",
     "variantCount": 12
   },
   {
@@ -168,6 +168,14 @@
     "variantCount": 3
   },
   {
+    "name": "breeze",
+    "href": "/families/breeze/",
+    "type": "dir",
+    "title": "Breeze",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 3
+  },
+  {
     "name": "eagle",
     "href": "/families/eagle/",
     "type": "dir",
@@ -244,14 +252,6 @@
     "href": "/families/blow/",
     "type": "dir",
     "title": "Blow",
-    "schemaCategory": "Swivel Chairs",
-    "variantCount": 2
-  },
-  {
-    "name": "breeze",
-    "href": "/families/breeze/",
-    "type": "dir",
-    "title": "Breeze",
     "schemaCategory": "Swivel Chairs",
     "variantCount": 2
   },

@@ -1,14 +1,15 @@
 {
   "familyTitle": "Nest & Living Silver Pillow",
   "familySummary": "Pillows for everyday bedroom comfort, including classic and box pillow options.",
-  "primaryImageUrl": "/products/pillows/nest-living-silver/201091_1.jpg",
+  "familyDescription": "Pillows for everyday bedroom comfort, including classic and box pillow options.",
+  "primaryImageUrl": "/products/pillows/nest-living-silver/201091_1.avif",
   "schemaCategory": "Pillows",
   "variantCount": 2,
   "productFamilyName": "Nest & Living Silver",
   "productFamilyKey": "nest-living-silver",
   "productFamilyRelativeDir": "families/nest-living-silver",
   "filterData": {
-    "searchText": "Nest & Living Silver Pillow Pillows for everyday bedroom comfort, including classic and box pillow options. Pillows Bedroom Nest & Living Silver Bedroom Pillows Nest & Living Silver Cotton Polyester Care Cleaning method Water wash Dimensions Depth 50 cm cm Dimensions Depth 52 cm cm Dimensions Height 14 cm cm Dimensions Height 15 cm cm Dimensions Width 60 cm cm Dimensions Width 62 cm cm Logistics Weight 1 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+    "searchText": "Nest & Living Silver Pillow Pillows for everyday bedroom comfort, including classic and box pillow options. Pillows Bedroom Nest & Living Silver Bedroom Pillows Nest & Living Silver White Cotton Polyester Care Cleaning method Water wash Dimensions Depth 50 cm cm Dimensions Depth 52 cm cm Dimensions Height 14 cm cm Dimensions Height 15 cm cm Dimensions Width 60 cm cm Dimensions Width 62 cm cm Logistics Weight 1 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "bedroom",
@@ -30,7 +31,13 @@
         "href": "/families/nest-living-silver/"
       }
     ],
-    "colors": [],
+    "colors": [
+      {
+        "key": "white",
+        "label": "White",
+        "href": "/colors/white/"
+      }
+    ],
     "materials": [
       {
         "key": "cotton",

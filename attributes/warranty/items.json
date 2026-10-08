@@ -80,7 +80,7 @@
     "href": "/attributes/warranty/price-guarantee/",
     "type": "dir",
     "entryCount": 1,
-    "variantCount": 269,
+    "variantCount": 270,
     "valueType": "measurement",
     "numericFilter": {
       "numericEntryCount": 1,
@@ -105,7 +105,7 @@
     "href": "/attributes/warranty/quality-guarantee/",
     "type": "dir",
     "entryCount": 2,
-    "variantCount": 422,
+    "variantCount": 424,
     "valueType": "measurement",
     "numericFilter": {
       "numericEntryCount": 2,

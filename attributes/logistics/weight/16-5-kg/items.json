@@ -1,13 +1,5 @@
 [
   {
-    "name": "eagle",
-    "href": "/families/eagle/",
-    "type": "dir",
-    "title": "Eagle",
-    "schemaCategory": "Armchairs",
-    "variantCount": 3
-  },
-  {
     "name": "nordic",
     "href": "/families/nordic/",
     "type": "dir",

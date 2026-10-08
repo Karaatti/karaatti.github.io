@@ -2,30 +2,38 @@
   {
     "sku": "191886",
     "name": "191886",
-    "title": "Dozza Rug, 60 x 120 cm",
-    "variantSummary": "60 x 120 cm / Grey",
+    "title": "Dozza Rug, 60 × 120 cm",
+    "variantSummary": "60 × 120 cm / Grey",
     "shortDescription": "Grey polypropylene rug, 60 x 120 cm, low pile and easy to maintain.",
     "selectionAttributes": {
-      "dimensions": "60 x 120 cm",
+      "dimensions": "60 × 120 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Polypropylene"
+      "material": "Polypropylene",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Rug",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
     "imageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
     "imageUrls": [
       "/products/rugs/dozza/dozza_rug_grey_1.avif",
+      "/products/rugs/dozza/191886_5.avif",
       "/products/rugs/dozza/dozza_rug_grey_2.avif",
-      "/products/rugs/dozza/dozza_rug_grey_3.jpg",
+      "/products/rugs/dozza/191888_3.avif",
       "/products/rugs/dozza/191886_2.avif",
-      "/products/rugs/dozza/191886_3.avif",
-      "/products/rugs/dozza/191886_5.avif"
+      "/products/rugs/dozza/191886_3.avif"
     ],
     "href": "/products/rugs/dozza/191886",
     "type": "file",
     "filterData": {
-      "searchText": "Dozza Rug, 60 x 120 cm Grey polypropylene rug, 60 x 120 cm, low pile and easy to maintain. Rugs Home Details Dozza Home Details Rugs Dozza Grey Polypropylene Dimensions Depth 120 cm cm Dimensions Height 1 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Weight 1.5 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Dozza Rug, 60 × 120 cm Grey polypropylene rug, 60 x 120 cm, low pile and easy to maintain. Rugs Home Details Dozza Home Details Rugs Dozza Grey Polypropylene Dimensions Depth 120 cm cm Dimensions Height 1 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Weight 1.5 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -174,7 +182,7 @@
       ]
     },
     "sortData": {
-      "title": "Dozza Rug, 60 x 120 cm",
+      "title": "Dozza Rug, 60 × 120 cm",
       "summary": "Grey polypropylene rug, 60 x 120 cm, low pile and easy to maintain.",
       "variantCount": 1,
       "categoryLabel": "Rugs",
@@ -185,32 +193,37 @@
   {
     "sku": "191887",
     "name": "191887",
-    "title": "Dozza Rug, 80 x 150 cm",
-    "variantSummary": "80 x 150 cm / Grey",
+    "title": "Dozza Rug, 80 × 150 cm",
+    "variantSummary": "80 × 150 cm / Grey",
     "shortDescription": "Grey polypropylene rug, 80 x 150 cm, low pile and easy to maintain.",
     "selectionAttributes": {
-      "dimensions": "80 x 150 cm",
+      "dimensions": "80 × 150 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Polypropylene"
+      "material": "Polypropylene",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Rug",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
     "imageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
     "imageUrls": [
       "/products/rugs/dozza/dozza_rug_grey_1.avif",
       "/products/rugs/dozza/dozza_rug_grey_2.avif",
+      "/products/rugs/dozza/191888_3.avif",
       "/products/rugs/dozza/dozza_rug_grey_4.avif",
-      "/products/rugs/dozza/dozza_rug_grey_3.jpg",
-      "/products/rugs/dozza/dozza_rug_grey_5.jpg",
-      "/products/rugs/dozza/191887_1.avif",
-      "/products/rugs/dozza/191887_2.avif",
-      "/products/rugs/dozza/191887_3.avif"
+      "/products/rugs/dozza/191888_3.avif"
     ],
     "href": "/products/rugs/dozza/191887",
     "type": "file",
     "filterData": {
-      "searchText": "Dozza Rug, 80 x 150 cm Grey polypropylene rug, 80 x 150 cm, low pile and easy to maintain. Rugs Home Details Dozza Home Details Rugs Dozza Grey Polypropylene Dimensions Depth 150 cm cm Dimensions Height 1 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Weight 2 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Dozza Rug, 80 × 150 cm Grey polypropylene rug, 80 x 150 cm, low pile and easy to maintain. Rugs Home Details Dozza Home Details Rugs Dozza Grey Polypropylene Dimensions Depth 150 cm cm Dimensions Height 1 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Weight 2 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -359,7 +372,7 @@
       ]
     },
     "sortData": {
-      "title": "Dozza Rug, 80 x 150 cm",
+      "title": "Dozza Rug, 80 × 150 cm",
       "summary": "Grey polypropylene rug, 80 x 150 cm, low pile and easy to maintain.",
       "variantCount": 1,
       "categoryLabel": "Rugs",
@@ -370,32 +383,39 @@
   {
     "sku": "191888",
     "name": "191888",
-    "title": "Dozza Rug, 160 x 230 cm",
-    "variantSummary": "160 x 230 cm / Grey",
+    "title": "Dozza Rug, 160 × 230 cm",
+    "variantSummary": "160 × 230 cm / Grey",
     "shortDescription": "Grey polypropylene rug, 160 x 230 cm, low pile and easy to maintain.",
     "selectionAttributes": {
-      "dimensions": "160 x 230 cm",
+      "dimensions": "160 × 230 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Polypropylene"
+      "material": "Polypropylene",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Rug",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
     "imageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
     "imageUrls": [
       "/products/rugs/dozza/dozza_rug_grey_1.avif",
       "/products/rugs/dozza/dozza_rug_grey_2.avif",
+      "/products/rugs/dozza/191888_3.avif",
       "/products/rugs/dozza/dozza_rug_grey_4.avif",
-      "/products/rugs/dozza/dozza_rug_grey_3.jpg",
-      "/products/rugs/dozza/dozza_rug_grey_5.jpg",
-      "/products/rugs/dozza/191888_1.avif",
-      "/products/rugs/dozza/191888_2.jpg",
-      "/products/rugs/dozza/191888_3.jpg"
+      "/products/rugs/dozza/191888_3.avif",
+      "/products/rugs/dozza/191888_2.avif",
+      "/products/rugs/dozza/191888_3.avif"
     ],
     "href": "/products/rugs/dozza/191888",
     "type": "file",
     "filterData": {
-      "searchText": "Dozza Rug, 160 x 230 cm Grey polypropylene rug, 160 x 230 cm, low pile and easy to maintain. Rugs Home Details Dozza Home Details Rugs Dozza Grey Polypropylene Dimensions Depth 230 cm cm Dimensions Height 1 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.03 m³ m³ Logistics Weight 4 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Dozza Rug, 160 × 230 cm Grey polypropylene rug, 160 x 230 cm, low pile and easy to maintain. Rugs Home Details Dozza Home Details Rugs Dozza Grey Polypropylene Dimensions Depth 230 cm cm Dimensions Height 1 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.03 m³ m³ Logistics Weight 4 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -544,7 +564,7 @@
       ]
     },
     "sortData": {
-      "title": "Dozza Rug, 160 x 230 cm",
+      "title": "Dozza Rug, 160 × 230 cm",
       "summary": "Grey polypropylene rug, 160 x 230 cm, low pile and easy to maintain.",
       "variantCount": 1,
       "categoryLabel": "Rugs",
@@ -555,32 +575,37 @@
   {
     "sku": "191889",
     "name": "191889",
-    "title": "Dozza Rug, 200 x 300 cm",
-    "variantSummary": "200 x 300 cm / Grey",
+    "title": "Dozza Rug, 200 × 300 cm",
+    "variantSummary": "200 × 300 cm / Grey",
     "shortDescription": "Grey polypropylene rug, 200 x 300 cm, low pile and easy to maintain.",
     "selectionAttributes": {
-      "dimensions": "200 x 300 cm",
+      "dimensions": "200 × 300 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Polypropylene"
+      "material": "Polypropylene",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Rug",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
     "imageUrl": "/products/rugs/dozza/dozza_rug_grey_1.avif",
     "imageUrls": [
       "/products/rugs/dozza/dozza_rug_grey_1.avif",
       "/products/rugs/dozza/dozza_rug_grey_2.avif",
+      "/products/rugs/dozza/191888_3.avif",
       "/products/rugs/dozza/dozza_rug_grey_4.avif",
-      "/products/rugs/dozza/dozza_rug_grey_3.jpg",
-      "/products/rugs/dozza/dozza_rug_grey_5.jpg",
-      "/products/rugs/dozza/191889_1.avif",
-      "/products/rugs/dozza/191889_2.avif",
-      "/products/rugs/dozza/191889_3.avif"
+      "/products/rugs/dozza/191888_3.avif"
     ],
     "href": "/products/rugs/dozza/191889",
     "type": "file",
     "filterData": {
-      "searchText": "Dozza Rug, 200 x 300 cm Grey polypropylene rug, 200 x 300 cm, low pile and easy to maintain. Rugs Home Details Dozza Home Details Rugs Dozza Grey Polypropylene Dimensions Depth 300 cm cm Dimensions Height 1 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.06 m³ m³ Logistics Weight 7 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Dozza Rug, 200 × 300 cm Grey polypropylene rug, 200 x 300 cm, low pile and easy to maintain. Rugs Home Details Dozza Home Details Rugs Dozza Grey Polypropylene Dimensions Depth 300 cm cm Dimensions Height 1 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.06 m³ m³ Logistics Weight 7 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -729,7 +754,7 @@
       ]
     },
     "sortData": {
-      "title": "Dozza Rug, 200 x 300 cm",
+      "title": "Dozza Rug, 200 × 300 cm",
       "summary": "Grey polypropylene rug, 200 x 300 cm, low pile and easy to maintain.",
       "variantCount": 1,
       "categoryLabel": "Rugs",

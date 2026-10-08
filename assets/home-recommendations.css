@@ -1,0 +1,41 @@
+.home-recommendations { width: min(1180px, calc(100% - 2rem)); margin: 1rem auto 2rem; text-align: left; }
+.home-recommendations__heading { display: flex; align-items: end; justify-content: space-between; gap: 1rem; max-width: none; margin: 0 auto 1rem; }
+.home-recommendations__heading h2 { margin: 0 0 .5rem; text-align: left; }
+.home-recommendations__heading p { margin: 0; }
+.home-recommendations__heading > a { flex-shrink: 0; }
+/* Cards are the shared listing card (.category-card-grid .variant-card in styles.css): box, shadow,
+   hover and columns come from there. Only the homepage additions live here. */
+.home-recommendations__grid { margin: 0 auto; list-style: none; }
+.home-recommendations__card { align-content: start; font-weight: 400; }
+.home-recommendations__image { display: block; margin-bottom: .6rem; }
+.home-recommendations__category { display: inline-flex; align-items: center; min-height: 44px; justify-self: start; color: var(--color-text-muted); font-size: var(--font-size-ui-min); }
+.home-recommendations__card .variant-name { margin: .2rem 0 .1rem; }
+.home-recommendations__card small { margin-bottom: .5rem; }
+.home-recommendations__colors { display: flex; flex-wrap: wrap; gap: .35rem; margin-bottom: .5rem; }
+.home-recommendations__swatch { display: inline-flex; align-items: center; gap: .35rem; min-height: 44px; padding: .2rem .5rem; border: 1px solid var(--color-border-strong); border-radius: .5rem; color: inherit; font-size: var(--font-size-ui-min); text-decoration: none; }
+.home-recommendations .home-recommendations__swatch img { width: 30px; height: 30px; aspect-ratio: auto; object-fit: contain; border-radius: 50%; filter: none; }
+.home-recommendations__details { font-size: var(--font-size-ui-min); margin: 0 0 .5rem; }
+.home-recommendations__details > div + div { margin-top: .35rem; }
+.home-recommendations__details dt { font-weight: 600; }
+.home-recommendations__details dd { margin: 0; overflow-wrap: anywhere; color: var(--color-text-muted); }
+.home-recommendations__details dd a { display: inline-flex; align-items: center; min-height: 24px; }
+.home-recommendations__options { margin-top: auto; padding-top: .5rem; color: inherit; }
+.home-recommendations__actions { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1rem; margin-top: 1rem; }
+.home-recommendations__more { padding: .8rem 1.6rem; border: 1px solid var(--color-dark-charcoal); border-radius: 2rem; background: var(--color-dark-charcoal); color: var(--color-light-beige); font: inherit; cursor: pointer; }
+.home-recommendations__more[hidden] { display: none; }
+.home-recommendations__more[aria-disabled="true"] { opacity: .7; cursor: default; }
+.home-recommendations a:focus-visible, .home-recommendations button:focus-visible { outline: 3px solid var(--color-olive-green); outline-offset: 4px; }
+
+@media (max-width: 600px) {
+  .home-recommendations { width: calc(100% - 1rem); margin-top: .5rem; }
+  .home-recommendations__heading { align-items: start; flex-direction: column; gap: .5rem; }
+}
+@media (min-width: 601px) and (max-width: 800px) {
+  .home-recommendations__grid { column-count: 2; }
+}
+@media (max-height: 520px) and (min-width: 600px) {
+  .product-collection-panel.home-recommendations { padding: .75rem; margin-top: .5rem; }
+  .home-recommendations__heading { align-items: center; gap: .75rem; margin-bottom: .5rem; }
+  .home-recommendations__heading h2 { font-size: 1.4rem; line-height: 1.2; margin-bottom: .25rem; }
+  .home-recommendations__heading p { font-size: var(--font-size-ui-min); line-height: 1.35; }
+}

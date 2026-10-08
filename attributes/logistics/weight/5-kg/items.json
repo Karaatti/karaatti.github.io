@@ -13,14 +13,6 @@
     "type": "dir",
     "title": "Moon Gold",
     "schemaCategory": "Toppers",
-    "variantCount": 3
-  },
-  {
-    "name": "moon-silver",
-    "href": "/families/moon-silver/",
-    "type": "dir",
-    "title": "Moon Silver",
-    "schemaCategory": "Mattresses",
-    "variantCount": 1
+    "variantCount": 2
   }
 ]

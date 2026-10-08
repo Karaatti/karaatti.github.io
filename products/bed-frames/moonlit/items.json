@@ -2,30 +2,36 @@
   {
     "sku": "198179",
     "name": "198179",
-    "title": "Moonlit Bed Frame, 160 x 200 cm",
-    "variantSummary": "160 x 200 cm / Beige",
+    "title": "Moonlit Bed Frame, 160 × 200 cm",
+    "variantSummary": "160 × 200 cm / Beige",
     "shortDescription": "Beige upholstered bed frame, 160 x 200 cm. Durable and easy-care bouclé fabric.",
     "selectionAttributes": {
-      "dimensions": "160 x 200 cm",
+      "dimensions": "160 × 200 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Fabric, Wood"
+      "material": "Fabric, Wood",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Bed frame",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
-    "imageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
+    "primaryImageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_2.avif",
+    "imageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_2.avif",
     "imageUrls": [
-      "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
       "/products/bed-frames/moonlit/moonlit_bed_frame_beige_2.avif",
-      "/products/bed-frames/moonlit/moonlit_bed_frame_beige_3.avif",
-      "/products/bed-frames/moonlit/moonlit_bed_frame_beige_4.jpg",
-      "/products/bed-frames/moonlit/198179_1.avif",
-      "/products/bed-frames/moonlit/198179_2.avif"
+      "/products/bed-frames/moonlit/moonlit_bed_frame_beige_4.avif",
+      "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
+      "/products/bed-frames/moonlit/moonlit_bed_frame_beige_3.avif"
     ],
     "href": "/products/bed-frames/moonlit/198179",
     "type": "file",
     "filterData": {
-      "searchText": "Moonlit Bed Frame, 160 x 200 cm Beige upholstered bed frame, 160 x 200 cm. Durable and easy-care bouclé fabric. Bed Frames Bedroom Moonlit Bedroom Bed Frames Moonlit Beige Fabric Wood Dimensions Depth 240 cm cm Dimensions Height 107 cm cm Dimensions Inner depth 200 cm cm Dimensions Inner height 36 cm cm Dimensions Inner width 160 cm cm Dimensions Width 184 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.32 m³ m³ Logistics Weight 35 kg kg Logistics Weight 53 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moonlit Bed Frame, 160 × 200 cm Beige upholstered bed frame, 160 x 200 cm. Durable and easy-care bouclé fabric. Bed Frames Bedroom Moonlit Bedroom Bed Frames Moonlit Beige Fabric Wood Dimensions Depth 240 cm cm Dimensions Height 107 cm cm Dimensions Inner depth 200 cm cm Dimensions Inner height 36 cm cm Dimensions Inner width 160 cm cm Dimensions Width 184 cm cm Logistics Package count 1 package package Logistics Package weight 53 kg kg Logistics Product count 1 product product Logistics Volume 0.32 m³ m³ Logistics Weight 35 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -155,6 +161,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "53-kg",
+          "valueLabel": "53 kg",
+          "href": "/attributes/logistics/package-weight/53-kg/",
+          "valueType": "enum",
+          "numericValue": 53,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -189,18 +207,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "53-kg",
-          "valueLabel": "53 kg",
-          "href": "/attributes/logistics/weight/53-kg/",
-          "valueType": "enum",
-          "numericValue": 53,
-          "unit": "kg"
-        },
-        {
           "groupKey": "warranty",
           "groupLabel": "Warranty",
           "key": "price-guarantee",
@@ -227,7 +233,7 @@
       ]
     },
     "sortData": {
-      "title": "Moonlit Bed Frame, 160 x 200 cm",
+      "title": "Moonlit Bed Frame, 160 × 200 cm",
       "summary": "Beige upholstered bed frame, 160 x 200 cm. Durable and easy-care bouclé fabric.",
       "variantCount": 1,
       "categoryLabel": "Bed Frames",
@@ -238,30 +244,36 @@
   {
     "sku": "198180",
     "name": "198180",
-    "title": "Moonlit Bed Frame, 180 x 200 cm",
-    "variantSummary": "180 x 200 cm / Beige",
+    "title": "Moonlit Bed Frame, 180 × 200 cm",
+    "variantSummary": "180 × 200 cm / Beige",
     "shortDescription": "Beige upholstered bed frame, 180 x 200 cm. Durable and easy-care bouclé fabric.",
     "selectionAttributes": {
-      "dimensions": "180 x 200 cm",
+      "dimensions": "180 × 200 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Fabric, Wood"
+      "material": "Fabric, Wood",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Bed frame",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
-    "imageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
+    "primaryImageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_2.avif",
+    "imageUrl": "/products/bed-frames/moonlit/moonlit_bed_frame_beige_2.avif",
     "imageUrls": [
-      "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
       "/products/bed-frames/moonlit/moonlit_bed_frame_beige_2.avif",
-      "/products/bed-frames/moonlit/moonlit_bed_frame_beige_3.avif",
-      "/products/bed-frames/moonlit/moonlit_bed_frame_beige_4.jpg",
-      "/products/bed-frames/moonlit/198180_1.avif",
-      "/products/bed-frames/moonlit/198180_2.avif"
+      "/products/bed-frames/moonlit/moonlit_bed_frame_beige_4.avif",
+      "/products/bed-frames/moonlit/moonlit_bed_frame_beige_1.avif",
+      "/products/bed-frames/moonlit/moonlit_bed_frame_beige_3.avif"
     ],
     "href": "/products/bed-frames/moonlit/198180",
     "type": "file",
     "filterData": {
-      "searchText": "Moonlit Bed Frame, 180 x 200 cm Beige upholstered bed frame, 180 x 200 cm. Durable and easy-care bouclé fabric. Bed Frames Bedroom Moonlit Bedroom Bed Frames Moonlit Beige Fabric Wood Dimensions Depth 240 cm cm Dimensions Height 107 cm cm Dimensions Inner depth 200 cm cm Dimensions Inner height 36 cm cm Dimensions Inner width 180 cm cm Dimensions Width 204 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.38 m³ m³ Logistics Weight 39 kg kg Logistics Weight 55 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moonlit Bed Frame, 180 × 200 cm Beige upholstered bed frame, 180 x 200 cm. Durable and easy-care bouclé fabric. Bed Frames Bedroom Moonlit Bedroom Bed Frames Moonlit Beige Fabric Wood Dimensions Depth 240 cm cm Dimensions Height 107 cm cm Dimensions Inner depth 200 cm cm Dimensions Inner height 36 cm cm Dimensions Inner width 180 cm cm Dimensions Width 204 cm cm Logistics Package count 1 package package Logistics Package weight 55 kg kg Logistics Product count 1 product product Logistics Volume 0.38 m³ m³ Logistics Weight 39 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -391,6 +403,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "55-kg",
+          "valueLabel": "55 kg",
+          "href": "/attributes/logistics/package-weight/55-kg/",
+          "valueType": "enum",
+          "numericValue": 55,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -425,18 +449,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "55-kg",
-          "valueLabel": "55 kg",
-          "href": "/attributes/logistics/weight/55-kg/",
-          "valueType": "enum",
-          "numericValue": 55,
-          "unit": "kg"
-        },
-        {
           "groupKey": "warranty",
           "groupLabel": "Warranty",
           "key": "price-guarantee",
@@ -463,7 +475,7 @@
       ]
     },
     "sortData": {
-      "title": "Moonlit Bed Frame, 180 x 200 cm",
+      "title": "Moonlit Bed Frame, 180 × 200 cm",
       "summary": "Beige upholstered bed frame, 180 x 200 cm. Durable and easy-care bouclé fabric.",
       "variantCount": 1,
       "categoryLabel": "Bed Frames",

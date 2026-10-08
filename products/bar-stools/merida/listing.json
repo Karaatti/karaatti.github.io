@@ -1,6 +1,7 @@
 {
   "familyTitle": "Merida",
   "familySummary": "Bar stool with natural oak frame and light fabric seat. Scandinavian style suitable for kitchen bars and dining areas.",
+  "familyDescription": "The Merida bar stool combines a natural oak frame with a light fabric seat for a simple and timeless look. Its sturdy construction and minimalist design make it suitable for various dining and bar settings.",
   "primaryImageUrl": "/products/bar-stools/merida/198084_1.avif",
   "schemaCategory": "Bar Stools",
   "variantCount": 2,
@@ -8,7 +9,7 @@
   "productFamilyKey": "merida",
   "productFamilyRelativeDir": "families/merida",
   "filterData": {
-    "searchText": "Merida Bar stool with natural oak frame and light fabric seat. Scandinavian style suitable for kitchen bars and dining areas. Bar Stools Dining room Merida Dining room Bar Stools Merida Beige White Fabric Oak Dimensions Depth 40 cm cm Dimensions Depth 52 cm cm Dimensions Height 69 cm cm Dimensions Height 90 cm cm Dimensions Width 40 cm cm Dimensions Width 53 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Product count 2 product product Logistics Volume 0.06 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Weight 10 kg kg Logistics Weight 12 kg kg Logistics Weight 14 kg kg Logistics Weight 18.6 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+    "searchText": "Merida Bar stool with natural oak frame and light fabric seat. Scandinavian style suitable for kitchen bars and dining areas. Bar Stools Dining room Merida Dining room Bar Stools Merida White Fabric Oak Dimensions Depth 40 cm cm Dimensions Depth 52 cm cm Dimensions Height 69 cm cm Dimensions Height 90 cm cm Dimensions Width 40 cm cm Dimensions Width 53 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Package weight 14 kg kg Logistics Package weight 18.6 kg kg Logistics Product count 2 product product Logistics Volume 0.06 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Weight 10 kg kg Logistics Weight 12 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "dining-room",
@@ -31,11 +32,6 @@
       }
     ],
     "colors": [
-      {
-        "key": "beige",
-        "label": "Beige",
-        "href": "/colors/beige/"
-      },
       {
         "key": "white",
         "label": "White",
@@ -155,6 +151,30 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "14-kg",
+        "valueLabel": "14 kg",
+        "href": "/attributes/logistics/package-weight/14-kg/",
+        "valueType": "enum",
+        "numericValue": 14,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "18-6-kg",
+        "valueLabel": "18.6 kg",
+        "href": "/attributes/logistics/package-weight/18-6-kg/",
+        "valueType": "enum",
+        "numericValue": 18.6,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "2-product",
@@ -210,30 +230,6 @@
         "href": "/attributes/logistics/weight/12-kg/",
         "valueType": "enum",
         "numericValue": 12,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "14-kg",
-        "valueLabel": "14 kg",
-        "href": "/attributes/logistics/weight/14-kg/",
-        "valueType": "enum",
-        "numericValue": 14,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "18-6-kg",
-        "valueLabel": "18.6 kg",
-        "href": "/attributes/logistics/weight/18-6-kg/",
-        "valueType": "enum",
-        "numericValue": 18.6,
         "unit": "kg"
       },
       {

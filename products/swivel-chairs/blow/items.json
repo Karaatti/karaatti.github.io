@@ -2,33 +2,41 @@
   {
     "sku": "198265",
     "name": "198265",
-    "title": "Blow Swivel Chair, Beige",
-    "variantSummary": "74 x 81 cm / Beige",
+    "title": "Blow Recliner, Beige",
+    "variantSummary": "74 × 81 cm / Beige",
     "shortDescription": "Beige fabric with latte-coloured steel legs.",
     "selectionAttributes": {
-      "dimensions": "74 x 81 cm",
+      "dimensions": "74 × 81 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Steel, Polyester, Foam"
+      "material": "Steel, Polyester, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Recliner",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/swivel-chairs/blow/198265_1.avif",
-    "imageUrl": "/products/swivel-chairs/blow/198265_1.avif",
+    "primaryImageUrl": "/products/swivel-chairs/blow/198265_2.avif",
+    "imageUrl": "/products/swivel-chairs/blow/198265_2.avif",
     "imageUrls": [
-      "/products/swivel-chairs/blow/198265_1.avif",
-      "/products/swivel-chairs/blow/198265_2.jpg",
-      "/products/swivel-chairs/blow/198265_3.avif",
+      "/products/swivel-chairs/blow/198265_2.avif",
+      "/products/swivel-chairs/blow/198265_9.avif",
+      "/products/swivel-chairs/blow/198265_8.avif",
       "/products/swivel-chairs/blow/198265_4.avif",
       "/products/swivel-chairs/blow/198265_5.avif",
       "/products/swivel-chairs/blow/198265_6.avif",
       "/products/swivel-chairs/blow/198265_7.avif",
-      "/products/swivel-chairs/blow/198265_8.avif",
-      "/products/swivel-chairs/blow/198265_9.avif"
+      "/products/swivel-chairs/blow/198265_1.avif",
+      "/products/swivel-chairs/blow/198265_3.avif"
     ],
     "href": "/products/swivel-chairs/blow/198265",
     "type": "file",
     "filterData": {
-      "searchText": "Blow Swivel Chair, Beige Beige fabric with latte-coloured steel legs. Swivel Chairs Living room Blow Living room Swivel Chairs Blow Beige Foam Polyester Steel Care Cleaning method Dry clean Dimensions Depth 81 cm cm Dimensions Height 102 cm cm Dimensions Width 74 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 13.5 kg kg Logistics Weight 14 kg kg Padding Foam density 35 kg/m³ kg/m³ Seating Seat count 1 seat seat Seating Seat height 44 cm cm Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Blow Recliner, Beige Beige fabric with latte-coloured steel legs. Swivel Chairs Living room Blow Living room Swivel Chairs Blow Beige Foam Polyester Steel Care Cleaning method Dry clean Dimensions Depth 81 cm cm Dimensions Height 102 cm cm Dimensions Width 74 cm cm Logistics Package count 1 package package Logistics Package weight 14 kg kg Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 13.5 kg kg Padding Foam density 35 kg/m³ kg/m³ Seating Seat count 1 seat seat Seating Seat height 44 cm cm Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -139,6 +147,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "14-kg",
+          "valueLabel": "14 kg",
+          "href": "/attributes/logistics/package-weight/14-kg/",
+          "valueType": "enum",
+          "numericValue": 14,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -170,18 +190,6 @@
           "href": "/attributes/logistics/weight/13-5-kg/",
           "valueType": "enum",
           "numericValue": 13.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "14-kg",
-          "valueLabel": "14 kg",
-          "href": "/attributes/logistics/weight/14-kg/",
-          "valueType": "enum",
-          "numericValue": 14,
           "unit": "kg"
         },
         {
@@ -283,7 +291,7 @@
       ]
     },
     "sortData": {
-      "title": "Blow Swivel Chair, Beige",
+      "title": "Blow Recliner, Beige",
       "summary": "Beige fabric with latte-coloured steel legs.",
       "variantCount": 1,
       "categoryLabel": "Swivel Chairs",
@@ -294,33 +302,41 @@
   {
     "sku": "198266",
     "name": "198266",
-    "title": "Blow Swivel Chair, Grey",
-    "variantSummary": "74 x 81 cm / Grey",
+    "title": "Blow Recliner, Grey",
+    "variantSummary": "74 × 81 cm / Grey",
     "shortDescription": "Grey fabric with black steel legs.",
     "selectionAttributes": {
-      "dimensions": "74 x 81 cm",
+      "dimensions": "74 × 81 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Steel, Polyester, Foam"
+      "material": "Steel, Polyester, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Recliner",
+      "colorLabel": "Grey",
+      "colorNote": "Dark grey",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/swivel-chairs/blow/198266_1.avif",
-    "imageUrl": "/products/swivel-chairs/blow/198266_1.avif",
+    "primaryImageUrl": "/products/swivel-chairs/blow/198266_2.avif",
+    "imageUrl": "/products/swivel-chairs/blow/198266_2.avif",
     "imageUrls": [
-      "/products/swivel-chairs/blow/198266_1.avif",
       "/products/swivel-chairs/blow/198266_2.avif",
-      "/products/swivel-chairs/blow/198266_3.avif",
+      "/products/swivel-chairs/blow/198266_8.avif",
+      "/products/swivel-chairs/blow/198266_9.avif",
       "/products/swivel-chairs/blow/198266_4.avif",
       "/products/swivel-chairs/blow/198266_5.avif",
       "/products/swivel-chairs/blow/198266_6.avif",
       "/products/swivel-chairs/blow/198266_7.avif",
-      "/products/swivel-chairs/blow/198266_8.avif",
-      "/products/swivel-chairs/blow/198266_9.avif"
+      "/products/swivel-chairs/blow/198266_1.avif",
+      "/products/swivel-chairs/blow/198266_3.avif"
     ],
     "href": "/products/swivel-chairs/blow/198266",
     "type": "file",
     "filterData": {
-      "searchText": "Blow Swivel Chair, Grey Grey fabric with black steel legs. Swivel Chairs Living room Blow Living room Swivel Chairs Blow Grey Foam Metal Polyester Steel Care Cleaning method Dry clean Dimensions Depth 81 cm cm Dimensions Height 102 cm cm Dimensions Width 74 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 13.5 kg kg Logistics Weight 14 kg kg Padding Foam density 35 kg/m³ kg/m³ Seating Seat count 1 seat seat Seating Seat height 44 cm cm Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Blow Recliner, Grey Grey fabric with black steel legs. Swivel Chairs Living room Blow Living room Swivel Chairs Blow Grey Foam Metal Polyester Steel Care Cleaning method Dry clean Dimensions Depth 81 cm cm Dimensions Height 102 cm cm Dimensions Width 74 cm cm Logistics Package count 1 package package Logistics Package weight 14 kg kg Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 13.5 kg kg Padding Foam density 35 kg/m³ kg/m³ Seating Seat count 1 seat seat Seating Seat height 44 cm cm Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -436,6 +452,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "14-kg",
+          "valueLabel": "14 kg",
+          "href": "/attributes/logistics/package-weight/14-kg/",
+          "valueType": "enum",
+          "numericValue": 14,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -467,18 +495,6 @@
           "href": "/attributes/logistics/weight/13-5-kg/",
           "valueType": "enum",
           "numericValue": 13.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "14-kg",
-          "valueLabel": "14 kg",
-          "href": "/attributes/logistics/weight/14-kg/",
-          "valueType": "enum",
-          "numericValue": 14,
           "unit": "kg"
         },
         {
@@ -580,7 +596,7 @@
       ]
     },
     "sortData": {
-      "title": "Blow Swivel Chair, Grey",
+      "title": "Blow Recliner, Grey",
       "summary": "Grey fabric with black steel legs.",
       "variantCount": 1,
       "categoryLabel": "Swivel Chairs",

@@ -44,6 +44,39 @@
     ]
   },
   {
+    "name": "sirmione",
+    "href": "/products/rugs/sirmione/",
+    "type": "dir",
+    "title": "Sirmione",
+    "schemaCategory": "Rugs",
+    "variantCount": 2,
+    "displayColors": [
+      "Green"
+    ]
+  },
+  {
+    "name": "sparkle",
+    "href": "/products/chaise-sofas/sparkle/",
+    "type": "dir",
+    "title": "Sparkle",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 2,
+    "displayColors": [
+      "Green"
+    ]
+  },
+  {
+    "name": "como",
+    "href": "/products/rugs/como/",
+    "type": "dir",
+    "title": "Como",
+    "schemaCategory": "Rugs",
+    "variantCount": 1,
+    "displayColors": [
+      "Green"
+    ]
+  },
+  {
     "name": "haley",
     "href": "/products/footstools/haley/",
     "type": "dir",
@@ -71,17 +104,6 @@
     "type": "dir",
     "title": "Lugo",
     "schemaCategory": "3-Seater Sofas",
-    "variantCount": 1,
-    "displayColors": [
-      "Green"
-    ]
-  },
-  {
-    "name": "sirmione",
-    "href": "/products/rugs/sirmione/",
-    "type": "dir",
-    "title": "Sirmione",
-    "schemaCategory": "Rugs",
     "variantCount": 1,
     "displayColors": [
       "Green"

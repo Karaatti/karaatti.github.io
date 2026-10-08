@@ -5,9 +5,9 @@
     "href": "/products/outdoor-dining-chairs/messina/",
     "type": "dir",
     "summary": "Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms.",
-    "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_1.avif",
+    "primaryImageUrl": "/products/outdoor-dining-chairs/messina/191080_2.avif",
     "filterData": {
-      "searchText": "Messina Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms. Outdoor Dining Chairs Outdoor Messina Outdoor Outdoor Dining Chairs Messina Beige Black Aluminium Plastic Dimensions Depth 61 cm cm Dimensions Height 91 cm cm Dimensions Width 58 cm cm Load Maximum load 120 kg kg Load Maximum load 150 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.3 m³ m³ Logistics Volume 0.32 m³ m³ Logistics Weight 3 kg kg Logistics Weight 4 kg kg Seating Seat depth 48 cm cm Seating Seat depth 57 cm cm Seating Seat height 44 cm cm Seating Seat width 44 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Messina Messina is a modern stacking dining chair with a powder-coated aluminium frame and durable textline fabric. Suitable for indoor and outdoor spaces such as terraces and dining rooms. Outdoor Dining Chairs Outdoor Messina Outdoor Outdoor Dining Chairs Messina Beige Black Aluminium Plastic Dimensions Depth 61 cm cm Dimensions Height 91 cm cm Dimensions Width 58 cm cm Load Maximum load 120 kg kg Load Maximum load 150 kg kg Logistics Package count 1 package package Logistics Package weight 4 kg kg Logistics Product count 1 product product Logistics Volume 0.3 m³ m³ Logistics Volume 0.32 m³ m³ Logistics Weight 3 kg kg Seating Seat depth 48 cm cm Seating Seat depth 57 cm cm Seating Seat height 44 cm cm Seating Seat width 44 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -130,6 +130,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "4-kg",
+          "valueLabel": "4 kg",
+          "href": "/attributes/logistics/package-weight/4-kg/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -173,18 +185,6 @@
           "href": "/attributes/logistics/weight/3-kg/",
           "valueType": "enum",
           "numericValue": 3,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "4-kg",
-          "valueLabel": "4 kg",
-          "href": "/attributes/logistics/weight/4-kg/",
-          "valueType": "enum",
-          "numericValue": 4,
           "unit": "kg"
         },
         {
@@ -276,9 +276,9 @@
     "href": "/products/outdoor-dining-tables/messina/",
     "type": "dir",
     "summary": "Messina dining table 220x100 cm provides a practical and elegant outdoor dining option. Its natural toned top and aluminium frame create a modern Scandinavian look. Suitable for garden, terrace or large balcony, it offers a spacious and low-maintenance surface.",
-    "primaryImageUrl": "/products/outdoor-dining-tables/messina/195643_1.avif",
+    "primaryImageUrl": "/products/outdoor-dining-tables/messina/195643_2.avif",
     "filterData": {
-      "searchText": "Messina Messina dining table 220x100 cm provides a practical and elegant outdoor dining option. Its natural toned top and aluminium frame create a modern Scandinavian look. Suitable for garden, terrace or large balcony, it offers a spacious and low-maintenance surface. Outdoor Dining Tables Outdoor Messina Outdoor Outdoor Dining Tables Messina Beige Black Brown Aluminium Plastic Silicate Dimensions Depth 100 cm cm Dimensions Height 74 cm cm Dimensions Width 220 cm cm Load Maximum load 50 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.16 m³ m³ Logistics Volume 0.19 m³ m³ Logistics Weight 29 kg kg Logistics Weight 30 kg kg Logistics Weight 42 kg kg Logistics Weight 43 kg kg Setup Assembly time 15 min min Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Messina Messina dining table 220x100 cm provides a practical and elegant outdoor dining option. Its natural toned top and aluminium frame create a modern Scandinavian look. Suitable for garden, terrace or large balcony, it offers a spacious and low-maintenance surface. Outdoor Dining Tables Outdoor Messina Outdoor Outdoor Dining Tables Messina Beige Black Aluminium Plastic Silicate Dimensions Depth 100 cm cm Dimensions Height 74 cm cm Dimensions Width 220 cm cm Load Maximum load 50 kg kg Logistics Package count 1 package package Logistics Package weight 29 kg kg Logistics Package weight 42 kg kg Logistics Product count 1 product product Logistics Volume 0.16 m³ m³ Logistics Volume 0.19 m³ m³ Logistics Weight 30 kg kg Logistics Weight 43 kg kg Setup Assembly time 15 min min Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -310,11 +310,6 @@
           "key": "black",
           "label": "Black",
           "href": "/colors/black/"
-        },
-        {
-          "key": "brown",
-          "label": "Brown",
-          "href": "/colors/brown/"
         }
       ],
       "materials": [
@@ -399,6 +394,30 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/package-weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "42-kg",
+          "valueLabel": "42 kg",
+          "href": "/attributes/logistics/package-weight/42-kg/",
+          "valueType": "enum",
+          "numericValue": 42,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -437,35 +456,11 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "29-kg",
-          "valueLabel": "29 kg",
-          "href": "/attributes/logistics/weight/29-kg/",
-          "valueType": "enum",
-          "numericValue": 29,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "30-kg",
           "valueLabel": "30 kg",
           "href": "/attributes/logistics/weight/30-kg/",
           "valueType": "enum",
           "numericValue": 30,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "42-kg",
-          "valueLabel": "42 kg",
-          "href": "/attributes/logistics/weight/42-kg/",
-          "valueType": "enum",
-          "numericValue": 42,
           "unit": "kg"
         },
         {

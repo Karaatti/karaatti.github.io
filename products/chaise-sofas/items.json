@@ -5,10 +5,10 @@
     "type": "dir",
     "title": "Aava",
     "summary": "Spacious 4-seater chaise sofa with durable fabric upholstery and natural oak legs. Features reversible chaise for flexible layout.",
-    "primaryImageUrl": "/products/chaise-sofas/aava/202833_1.avif",
+    "primaryImageUrl": "/products/chaise-sofas/aava/202833_2.avif",
     "sourceHref": "/products/chaise-sofas/aava/",
     "filterData": {
-      "searchText": "Aava Spacious 4-seater chaise sofa with durable fabric upholstery and natural oak legs. Features reversible chaise for flexible layout. Chaise Sofas Aava Living room Chaise Sofas Aava Beige Grey Foam Plywood Polyester Wood Wood veneer Configuration Handedness configuration Self-configurable Dimensions Depth 176 cm cm Dimensions Height 78 cm cm Dimensions Main section depth 89 cm cm Dimensions Width 283 cm cm Load Maximum load 200 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.38 m³ m³ Logistics Volume 0.68 m³ m³ Logistics Weight 29.5 kg kg Logistics Weight 55.1 kg kg Logistics Weight 89 kg kg Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Aava Spacious 4-seater chaise sofa with durable fabric upholstery and natural oak legs. Features reversible chaise for flexible layout. Chaise Sofas Aava Living room Chaise Sofas Aava Beige Grey Foam Plywood Polyester Wood Wood veneer Configuration Handedness configuration Self-configurable Dimensions Depth 176 cm cm Dimensions Height 78 cm cm Dimensions Main section depth 89 cm cm Dimensions Width 283 cm cm Load Maximum load 200 kg kg Logistics Package count 1 package package Logistics Package weight 29.5 kg kg Logistics Package weight 55.1 kg kg Logistics Product count 1 product product Logistics Volume 0.38 m³ m³ Logistics Volume 0.68 m³ m³ Logistics Weight 89 kg kg Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -158,6 +158,30 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "29-5-kg",
+          "valueLabel": "29.5 kg",
+          "href": "/attributes/logistics/package-weight/29-5-kg/",
+          "valueType": "enum",
+          "numericValue": 29.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "55-1-kg",
+          "valueLabel": "55.1 kg",
+          "href": "/attributes/logistics/package-weight/55-1-kg/",
+          "valueType": "enum",
+          "numericValue": 55.1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -190,30 +214,6 @@
           "valueType": "enum",
           "numericValue": 0.68,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "29-5-kg",
-          "valueLabel": "29.5 kg",
-          "href": "/attributes/logistics/weight/29-5-kg/",
-          "valueType": "enum",
-          "numericValue": 29.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "55-1-kg",
-          "valueLabel": "55.1 kg",
-          "href": "/attributes/logistics/weight/55-1-kg/",
-          "valueType": "enum",
-          "numericValue": 55.1,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -263,15 +263,87 @@
     }
   },
   {
+    "name": "joy",
+    "href": "/products/chaise-sofas/joy/",
+    "type": "dir",
+    "title": "Joy",
+    "summary": "Joy chaise sofas combine a relaxed chaise layout with a clean, left-oriented profile in white for contemporary living spaces.",
+    "primaryImageUrl": "/products/chaise-sofas/joy/198421_1.avif",
+    "sourceHref": "/products/chaise-sofas/joy/",
+    "filterData": {
+      "searchText": "Joy Joy chaise sofas combine a relaxed chaise layout with a clean, left-oriented profile in white for contemporary living spaces. Chaise Sofas Joy Living room Chaise Sofas Joy White Fabric Metal Plywood Polyester",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "chaise-sofas",
+          "label": "Chaise Sofas",
+          "href": "/products/chaise-sofas/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "joy",
+          "label": "Joy",
+          "href": "/families/joy/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Joy",
+      "summary": "Joy chaise sofas combine a relaxed chaise layout with a clean, left-oriented profile in white for contemporary living spaces.",
+      "variantCount": 1,
+      "categoryLabel": "Chaise Sofas",
+      "collectionLabel": "",
+      "productFamilyLabel": "Joy"
+    }
+  },
+  {
     "name": "lugo",
     "href": "/products/chaise-sofas/lugo/",
     "type": "dir",
     "title": "Lugo",
     "summary": "A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame.",
-    "primaryImageUrl": "/products/chaise-sofas/lugo/210104_1.avif",
+    "primaryImageUrl": "/products/chaise-sofas/lugo/210104_2.avif",
     "sourceHref": "/products/chaise-sofas/lugo/",
     "filterData": {
-      "searchText": "Lugo A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame. Chaise Sofas Lugo Living room Chaise Sofas Lugo Beige Green Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 161 cm cm Dimensions Height 70 cm cm Dimensions Width 277 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.13 m³ m³ Logistics Volume 1.16 m³ m³ Logistics Weight 43.5 kg kg Logistics Weight 51.4 kg kg Logistics Weight 89 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Lugo A modern 3-seater chaise sofa with a spacious chaise on either left or right side, featuring durable fabric upholstery and a sturdy frame. Chaise Sofas Lugo Living room Chaise Sofas Lugo Beige Green Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 161 cm cm Dimensions Height 70 cm cm Dimensions Width 277 cm cm Logistics Package count 1 package package Logistics Package weight 43.5 kg kg Logistics Package weight 51.4 kg kg Logistics Product count 1 product product Logistics Volume 1.13 m³ m³ Logistics Volume 1.16 m³ m³ Logistics Weight 89 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -409,6 +481,30 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "43-5-kg",
+          "valueLabel": "43.5 kg",
+          "href": "/attributes/logistics/package-weight/43-5-kg/",
+          "valueType": "enum",
+          "numericValue": 43.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "51-4-kg",
+          "valueLabel": "51.4 kg",
+          "href": "/attributes/logistics/package-weight/51-4-kg/",
+          "valueType": "enum",
+          "numericValue": 51.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -441,30 +537,6 @@
           "valueType": "enum",
           "numericValue": 1.16,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "43-5-kg",
-          "valueLabel": "43.5 kg",
-          "href": "/attributes/logistics/weight/43-5-kg/",
-          "valueType": "enum",
-          "numericValue": 43.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "51-4-kg",
-          "valueLabel": "51.4 kg",
-          "href": "/attributes/logistics/weight/51-4-kg/",
-          "valueType": "enum",
-          "numericValue": 51.4,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -622,15 +694,97 @@
     }
   },
   {
+    "name": "sparkle",
+    "href": "/products/chaise-sofas/sparkle/",
+    "type": "dir",
+    "title": "Sparkle",
+    "summary": "Sparkle chaise sofas offer a generous 242 × 153 × 71 cm footprint, left- or right-facing orientation, and three colour choices for flexible living spaces.",
+    "primaryImageUrl": "/products/chaise-sofas/sparkle/214256_5.avif",
+    "sourceHref": "/products/chaise-sofas/sparkle/",
+    "filterData": {
+      "searchText": "Sparkle Sparkle chaise sofas offer a generous 242 × 153 × 71 cm footprint, left- or right-facing orientation, and three colour choices for flexible living spaces. Chaise Sofas Sparkle Living room Chaise Sofas Sparkle Beige Brown Green Fabric Foam Metal Plywood",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "chaise-sofas",
+          "label": "Chaise Sofas",
+          "href": "/products/chaise-sofas/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "sparkle",
+          "label": "Sparkle",
+          "href": "/families/sparkle/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        },
+        {
+          "key": "green",
+          "label": "Green",
+          "href": "/colors/green/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "foam",
+          "label": "Foam",
+          "href": "/materials/foam/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Sparkle",
+      "summary": "Sparkle chaise sofas offer a generous 242 × 153 × 71 cm footprint, left- or right-facing orientation, and three colour choices for flexible living spaces.",
+      "variantCount": 6,
+      "categoryLabel": "Chaise Sofas",
+      "collectionLabel": "",
+      "productFamilyLabel": "Sparkle"
+    }
+  },
+  {
     "name": "westcoast",
     "href": "/products/chaise-sofas/westcoast/",
     "type": "dir",
     "title": "Westcoast",
     "summary": "Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey.",
-    "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_1.avif",
+    "primaryImageUrl": "/products/chaise-sofas/westcoast/209131_4.avif",
     "sourceHref": "/products/chaise-sofas/westcoast/",
     "filterData": {
-      "searchText": "Westcoast Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey. Chaise Sofas Westcoast Living room Chaise Sofas Westcoast Beige Brown Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 145 cm cm Dimensions Height 80 cm cm Dimensions Width 250 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Volume 0.79 m³ m³ Logistics Weight 42 kg kg Logistics Weight 60 kg kg Logistics Weight 102 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Spacious chaise sofa with easy-care polyester upholstery and metal legs. Available with left or right chaise in Beige, brown, or grey. Chaise Sofas Westcoast Living room Chaise Sofas Westcoast Beige Brown Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 145 cm cm Dimensions Height 80 cm cm Dimensions Width 250 cm cm Logistics Package count 1 package package Logistics Package weight 42 kg kg Logistics Package weight 60 kg kg Logistics Product count 1 product product Logistics Volume 0.75 m³ m³ Logistics Volume 0.79 m³ m³ Logistics Weight 102 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -746,6 +900,30 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "42-kg",
+          "valueLabel": "42 kg",
+          "href": "/attributes/logistics/package-weight/42-kg/",
+          "valueType": "enum",
+          "numericValue": 42,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "60-kg",
+          "valueLabel": "60 kg",
+          "href": "/attributes/logistics/package-weight/60-kg/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -778,30 +956,6 @@
           "valueType": "enum",
           "numericValue": 0.79,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "42-kg",
-          "valueLabel": "42 kg",
-          "href": "/attributes/logistics/weight/42-kg/",
-          "valueType": "enum",
-          "numericValue": 42,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "60-kg",
-          "valueLabel": "60 kg",
-          "href": "/attributes/logistics/weight/60-kg/",
-          "valueType": "enum",
-          "numericValue": 60,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",

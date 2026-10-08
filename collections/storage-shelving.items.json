@@ -5,9 +5,9 @@
     "type": "dir",
     "title": "Decorative Cushions",
     "summary": "Decorative cushions and soft home details.",
-    "primaryImageUrl": "/products/decorative-cushions/haley/202854_1.avif",
+    "primaryImageUrl": "/images/listing-thumbnails/30ec10b70c19cd33e813.avif",
     "filterData": {
-      "searchText": "Decorative Cushions Decorative cushions and soft home details. Decorative Cushions Home Details Home Details Decorative Cushions Haley Hike Hix Beige Brown Green Grey Orange White Yellow Dimensions Depth 45 cm cm Dimensions Depth 60 cm cm Dimensions Height 15 cm cm Dimensions Width 40 cm cm Dimensions Width 45 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.15 m³ m³ Logistics Volume 0.22 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.2 kg kg Logistics Weight 9.8 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Decorative Cushions Decorative cushions and soft home details. Decorative Cushions Home Details Home Details Decorative Cushions Haley Hike Hix Beige Brown Green Grey Orange White Dimensions Depth 45 cm cm Dimensions Depth 60 cm cm Dimensions Height 15 cm cm Dimensions Width 40 cm cm Dimensions Width 45 cm cm Logistics Package count 1 package package Logistics Package weight 9.2 kg kg Logistics Package weight 9.8 kg kg Logistics Product count 12 product product Logistics Volume 0.15 m³ m³ Logistics Volume 0.22 m³ m³ Logistics Weight 1 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -69,11 +69,6 @@
           "key": "white",
           "label": "White",
           "href": "/colors/white/"
-        },
-        {
-          "key": "yellow",
-          "label": "Yellow",
-          "href": "/colors/yellow/"
         }
       ],
       "materials": [],
@@ -154,6 +149,30 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "9-2-kg",
+          "valueLabel": "9.2 kg",
+          "href": "/attributes/logistics/package-weight/9-2-kg/",
+          "valueType": "enum",
+          "numericValue": 9.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "9-8-kg",
+          "valueLabel": "9.8 kg",
+          "href": "/attributes/logistics/package-weight/9-8-kg/",
+          "valueType": "enum",
+          "numericValue": 9.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "12-product",
@@ -200,30 +219,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "9-2-kg",
-          "valueLabel": "9.2 kg",
-          "href": "/attributes/logistics/weight/9-2-kg/",
-          "valueType": "enum",
-          "numericValue": 9.2,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "9-8-kg",
-          "valueLabel": "9.8 kg",
-          "href": "/attributes/logistics/weight/9-8-kg/",
-          "valueType": "enum",
-          "numericValue": 9.8,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -264,9 +259,9 @@
     "type": "dir",
     "title": "Console Tables",
     "summary": "Console tables for hallways, living spaces, and home details.",
-    "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
+    "primaryImageUrl": "/images/listing-thumbnails/8fe5e087748667360e04.avif",
     "filterData": {
-      "searchText": "Console Tables Console tables for hallways, living spaces, and home details. Console Tables Home Details Home Details Console Tables Oak Brown Oak Wood veneer Dimensions Depth 33 cm cm Dimensions Height 80 cm cm Dimensions Width 120 cm cm Load Maximum load 30 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 16 kg kg Setup Assembly time 45 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Console Tables Console tables for hallways, living spaces, and home details. Console Tables Home Details Home Details Console Tables Oak Beige Oak Wood veneer Dimensions Depth 33 cm cm Dimensions Height 80 cm cm Dimensions Width 120 cm cm Load Maximum load 30 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 16 kg kg Setup Assembly time 45 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -290,9 +285,9 @@
       ],
       "colors": [
         {
-          "key": "brown",
-          "label": "Brown",
-          "href": "/colors/brown/"
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
         }
       ],
       "materials": [
@@ -453,14 +448,186 @@
     }
   },
   {
+    "name": "sideboards",
+    "href": "/products/sideboards/",
+    "type": "dir",
+    "title": "Sideboards",
+    "summary": "Sideboards and buffets.",
+    "primaryImageUrl": "/images/listing-thumbnails/e4961a3306ca390cc7fd.avif",
+    "filterData": {
+      "searchText": "Sideboards Sideboards and buffets. Sideboards Home Details Home Details Sideboards Bacoli Meta Beige Brown MDF Melamine Particle board Plywood Wood veneer",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "sideboards",
+          "label": "Sideboards",
+          "href": "/products/sideboards/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "bacoli",
+          "label": "Bacoli",
+          "href": "/families/bacoli/"
+        },
+        {
+          "key": "meta",
+          "label": "Meta",
+          "href": "/families/meta/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "mdf",
+          "label": "MDF",
+          "href": "/materials/mdf/"
+        },
+        {
+          "key": "melamine",
+          "label": "Melamine",
+          "href": "/materials/melamine/"
+        },
+        {
+          "key": "particle-board",
+          "label": "Particle board",
+          "href": "/materials/particle-board/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "wood-veneer",
+          "label": "Wood veneer",
+          "href": "/materials/wood-veneer/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Sideboards",
+      "summary": "Sideboards and buffets.",
+      "variantCount": 3,
+      "categoryLabel": "Sideboards",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": ""
+    }
+  },
+  {
+    "name": "tv-stands",
+    "href": "/products/tv-stands/",
+    "type": "dir",
+    "title": "TV Stands",
+    "summary": "TV stands and media units.",
+    "primaryImageUrl": "/images/listing-thumbnails/7b1e112fada45c5d9445.avif",
+    "filterData": {
+      "searchText": "TV Stands TV stands and media units. TV Stands Home Details Home Details TV Stands Bacoli Meta Beige Brown MDF Melamine Particle board Plywood Wood veneer",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "tv-stands",
+          "label": "TV Stands",
+          "href": "/products/tv-stands/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "bacoli",
+          "label": "Bacoli",
+          "href": "/families/bacoli/"
+        },
+        {
+          "key": "meta",
+          "label": "Meta",
+          "href": "/families/meta/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "mdf",
+          "label": "MDF",
+          "href": "/materials/mdf/"
+        },
+        {
+          "key": "melamine",
+          "label": "Melamine",
+          "href": "/materials/melamine/"
+        },
+        {
+          "key": "particle-board",
+          "label": "Particle board",
+          "href": "/materials/particle-board/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "wood-veneer",
+          "label": "Wood veneer",
+          "href": "/materials/wood-veneer/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "TV Stands",
+      "summary": "TV stands and media units.",
+      "variantCount": 3,
+      "categoryLabel": "TV Stands",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": ""
+    }
+  },
+  {
     "name": "shelves",
     "href": "/products/shelves/",
     "type": "dir",
     "title": "Shelves",
-    "summary": "Shelves for the home details collection.",
-    "primaryImageUrl": "/products/shelves/mystery/198063_1.avif",
+    "summary": "Practical shelves for displaying favourites and keeping everyday items organised.",
+    "primaryImageUrl": "/images/listing-thumbnails/a67b2dd1de3b7410765c.avif",
     "filterData": {
-      "searchText": "Shelves Shelves for the home details collection. Shelves Home Details Home Details Shelves Mystery Black Metal Oak Wood veneer Dimensions Depth 40 cm cm Dimensions Height 154 cm cm Dimensions Width 120 cm cm Dimensions Width 150 cm cm Load Maximum load 10 kg kg Load Maximum load 100 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Volume 0.17 m³ m³ Logistics Weight 8 kg kg Logistics Weight 31 kg kg Logistics Weight 36 kg kg Logistics Weight 40 kg kg Setup Assembly time 45 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Shelves Practical shelves for displaying favourites and keeping everyday items organised. Shelves Home Details Home Details Shelves Bacoli Mystery Beige Black MDF Melamine Metal Oak Particle board Plywood Wood veneer Dimensions Depth 40 cm cm Dimensions Height 154 cm cm Dimensions Width 120 cm cm Dimensions Width 150 cm cm Load Maximum load 10 kg kg Load Maximum load 100 kg kg Logistics Package count 1 package package Logistics Package weight 8 kg kg Logistics Package weight 36 kg kg Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Volume 0.17 m³ m³ Logistics Weight 31 kg kg Logistics Weight 40 kg kg Setup Assembly time 45 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -477,6 +644,11 @@
       ],
       "productFamilies": [
         {
+          "key": "bacoli",
+          "label": "Bacoli",
+          "href": "/families/bacoli/"
+        },
+        {
           "key": "mystery",
           "label": "Mystery",
           "href": "/families/mystery/"
@@ -484,12 +656,27 @@
       ],
       "colors": [
         {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
           "key": "black",
           "label": "Black",
           "href": "/colors/black/"
         }
       ],
       "materials": [
+        {
+          "key": "mdf",
+          "label": "MDF",
+          "href": "/materials/mdf/"
+        },
+        {
+          "key": "melamine",
+          "label": "Melamine",
+          "href": "/materials/melamine/"
+        },
         {
           "key": "metal",
           "label": "Metal",
@@ -499,6 +686,16 @@
           "key": "oak",
           "label": "Oak",
           "href": "/materials/oak/"
+        },
+        {
+          "key": "particle-board",
+          "label": "Particle board",
+          "href": "/materials/particle-board/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
         },
         {
           "key": "wood-veneer",
@@ -595,6 +792,30 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "8-kg",
+          "valueLabel": "8 kg",
+          "href": "/attributes/logistics/package-weight/8-kg/",
+          "valueType": "enum",
+          "numericValue": 8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "36-kg",
+          "valueLabel": "36 kg",
+          "href": "/attributes/logistics/package-weight/36-kg/",
+          "valueType": "enum",
+          "numericValue": 36,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -633,35 +854,11 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "8-kg",
-          "valueLabel": "8 kg",
-          "href": "/attributes/logistics/weight/8-kg/",
-          "valueType": "enum",
-          "numericValue": 8,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "31-kg",
           "valueLabel": "31 kg",
           "href": "/attributes/logistics/weight/31-kg/",
           "valueType": "enum",
           "numericValue": 31,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "36-kg",
-          "valueLabel": "36 kg",
-          "href": "/attributes/logistics/weight/36-kg/",
-          "valueType": "enum",
-          "numericValue": 36,
           "unit": "kg"
         },
         {
@@ -716,9 +913,95 @@
     },
     "sortData": {
       "title": "Shelves",
-      "summary": "Shelves for the home details collection.",
-      "variantCount": 2,
+      "summary": "Practical shelves for displaying favourites and keeping everyday items organised.",
+      "variantCount": 3,
       "categoryLabel": "Shelves",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": ""
+    }
+  },
+  {
+    "name": "storage-cabinets",
+    "href": "/products/storage-cabinets/",
+    "type": "dir",
+    "title": "Storage Cabinets",
+    "summary": "Storage cabinets that keep everyday belongings organised and rooms feeling calmer.",
+    "primaryImageUrl": "/images/listing-thumbnails/737dfe93285452f632bb.avif",
+    "filterData": {
+      "searchText": "Storage Cabinets Storage cabinets that keep everyday belongings organised and rooms feeling calmer. Storage Cabinets Home Details Home Details Storage Cabinets Bacoli Meta Beige Brown MDF Melamine Particle board Plywood Wood veneer",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "storage-cabinets",
+          "label": "Storage Cabinets",
+          "href": "/products/storage-cabinets/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "bacoli",
+          "label": "Bacoli",
+          "href": "/families/bacoli/"
+        },
+        {
+          "key": "meta",
+          "label": "Meta",
+          "href": "/families/meta/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
+          "key": "brown",
+          "label": "Brown",
+          "href": "/colors/brown/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "mdf",
+          "label": "MDF",
+          "href": "/materials/mdf/"
+        },
+        {
+          "key": "melamine",
+          "label": "Melamine",
+          "href": "/materials/melamine/"
+        },
+        {
+          "key": "particle-board",
+          "label": "Particle board",
+          "href": "/materials/particle-board/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "wood-veneer",
+          "label": "Wood veneer",
+          "href": "/materials/wood-veneer/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Storage Cabinets",
+      "summary": "Storage cabinets that keep everyday belongings organised and rooms feeling calmer.",
+      "variantCount": 3,
+      "categoryLabel": "Storage Cabinets",
       "collectionLabel": "Home Details",
       "productFamilyLabel": ""
     }
@@ -729,9 +1012,9 @@
     "type": "dir",
     "title": "Rugs",
     "summary": "Rugs and textile floor coverings.",
-    "primaryImageUrl": "/products/rugs/amaris/amaris_rug_multicolour_1.avif",
+    "primaryImageUrl": "/images/listing-thumbnails/b8715128352742c153a8.avif",
     "filterData": {
-      "searchText": "Rugs Rugs and textile floor coverings. Rugs Home Details Home Details Rugs Amaris Basalt Bilbao Desenzano Dolomite Dozza Garda Lucca Lyra Moderni Ruutu Saaga Sevilla Sirmione Yanam Beige Blue Brown Green Grey Multicolour Orange Red Cotton Polyester Polypropylene Viscose Wool Care Cleaning method Water wash Dimensions Depth 120 cm cm Dimensions Depth 150 cm cm Dimensions Depth 230 cm cm Dimensions Depth 290 cm cm Dimensions Depth 300 cm cm Dimensions Height 1 cm cm Dimensions Height 2 cm cm Dimensions Width 60 cm cm Dimensions Width 80 cm cm Dimensions Width 160 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Volume 0.03 m³ m³ Logistics Volume 0.05 m³ m³ Logistics Volume 0.06 m³ m³ Logistics Weight 1.5 kg kg Logistics Weight 2 kg kg Logistics Weight 4 kg kg Logistics Weight 5.5 kg kg Logistics Weight 5.6 kg kg Logistics Weight 6 kg kg Logistics Weight 7 kg kg Logistics Weight 8.5 kg kg Logistics Weight 8.7 kg kg Logistics Weight 9 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Rugs Rugs and textile floor coverings. Rugs Home Details Home Details Rugs Amaris Basalt Bilbao Como Desenzano Dolomite Dozza Garda Glint Grant Lucca Lyra Moderni Muse Ruutu Saaga Sevilla Sirmione Sway Yanam Beige Blue Brown Green Grey Multicolour Orange Red Chenillepolyester Cotton Polyester Polypropylene Viscose Wool Care Cleaning method Water wash Dimensions Depth 120 cm cm Dimensions Depth 150 cm cm Dimensions Depth 230 cm cm Dimensions Depth 290 cm cm Dimensions Depth 300 cm cm Dimensions Height 1 cm cm Dimensions Height 2 cm cm Dimensions Width 60 cm cm Dimensions Width 80 cm cm Dimensions Width 160 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 5.6 kg kg Logistics Package weight 8.7 kg kg Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Volume 0.03 m³ m³ Logistics Volume 0.05 m³ m³ Logistics Volume 0.06 m³ m³ Logistics Weight 1.5 kg kg Logistics Weight 2 kg kg Logistics Weight 4 kg kg Logistics Weight 5.5 kg kg Logistics Weight 6 kg kg Logistics Weight 7 kg kg Logistics Weight 8.5 kg kg Logistics Weight 9 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -763,6 +1046,11 @@
           "href": "/families/bilbao/"
         },
         {
+          "key": "como",
+          "label": "Como",
+          "href": "/families/como/"
+        },
+        {
           "key": "desenzano",
           "label": "Desenzano",
           "href": "/families/desenzano/"
@@ -783,6 +1071,16 @@
           "href": "/families/garda/"
         },
         {
+          "key": "glint",
+          "label": "Glint",
+          "href": "/families/glint/"
+        },
+        {
+          "key": "grant",
+          "label": "Grant",
+          "href": "/families/grant/"
+        },
+        {
           "key": "lucca",
           "label": "Lucca",
           "href": "/families/lucca/"
@@ -796,6 +1094,11 @@
           "key": "moderni",
           "label": "Moderni",
           "href": "/families/moderni/"
+        },
+        {
+          "key": "muse",
+          "label": "Muse",
+          "href": "/families/muse/"
         },
         {
           "key": "ruutu",
@@ -816,6 +1119,11 @@
           "key": "sirmione",
           "label": "Sirmione",
           "href": "/families/sirmione/"
+        },
+        {
+          "key": "sway",
+          "label": "Sway",
+          "href": "/families/sway/"
         },
         {
           "key": "yanam",
@@ -866,6 +1174,11 @@
         }
       ],
       "materials": [
+        {
+          "key": "chenillepolyester",
+          "label": "Chenillepolyester",
+          "href": "/materials/chenillepolyester/"
+        },
         {
           "key": "cotton",
           "label": "Cotton",
@@ -1053,6 +1366,30 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "5-6-kg",
+          "valueLabel": "5.6 kg",
+          "href": "/attributes/logistics/package-weight/5-6-kg/",
+          "valueType": "enum",
+          "numericValue": 5.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "8-7-kg",
+          "valueLabel": "8.7 kg",
+          "href": "/attributes/logistics/package-weight/8-7-kg/",
+          "valueType": "enum",
+          "numericValue": 8.7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1163,18 +1500,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "5-6-kg",
-          "valueLabel": "5.6 kg",
-          "href": "/attributes/logistics/weight/5-6-kg/",
-          "valueType": "enum",
-          "numericValue": 5.6,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "6-kg",
           "valueLabel": "6 kg",
           "href": "/attributes/logistics/weight/6-kg/",
@@ -1204,18 +1529,6 @@
           "href": "/attributes/logistics/weight/8-5-kg/",
           "valueType": "enum",
           "numericValue": 8.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "8-7-kg",
-          "valueLabel": "8.7 kg",
-          "href": "/attributes/logistics/weight/8-7-kg/",
-          "valueType": "enum",
-          "numericValue": 8.7,
           "unit": "kg"
         },
         {
@@ -1271,7 +1584,7 @@
     "sortData": {
       "title": "Rugs",
       "summary": "Rugs and textile floor coverings.",
-      "variantCount": 36,
+      "variantCount": 50,
       "categoryLabel": "Rugs",
       "collectionLabel": "Home Details",
       "productFamilyLabel": ""

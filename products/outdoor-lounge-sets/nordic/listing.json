@@ -1,14 +1,15 @@
 {
   "familyTitle": "Nordic Outdoor Lounge Set",
   "familySummary": "Outdoor lounge set configurations from the Nordic collection with white aluminium frames, beige cushions, and selected layouts with integrated coffee tables.",
-  "primaryImageUrl": "/products/outdoor-lounge-sets/nordic/MYYKESA2211_1.avif",
+  "familyDescription": "Outdoor lounge set configurations from the Nordic collection with white aluminium frames, beige cushions, and selected layouts with integrated coffee tables.",
+  "primaryImageUrl": "/products/outdoor-lounge-sets/nordic/MYYKESA2211_2.avif",
   "schemaCategory": "Outdoor Lounge Sets",
   "variantCount": 4,
   "productFamilyName": "Nordic",
   "productFamilyKey": "nordic",
   "productFamilyRelativeDir": "families/nordic",
   "filterData": {
-    "searchText": "Nordic Outdoor Lounge Set Outdoor lounge set configurations from the Nordic collection with white aluminium frames, beige cushions, and selected layouts with integrated coffee tables. Outdoor Lounge Sets Outdoor Nordic Outdoor Outdoor Lounge Sets Nordic Beige White Aluminium Fabric Plastic Dimensions Depth 246 cm cm Dimensions Height 61 cm cm Dimensions Width 246 cm cm Dimensions Width 328 cm cm Logistics Package count 1 package package Logistics Package count 2 package package Logistics Package count 3 package package Logistics Product count 1 product product Logistics Volume 0.12 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Volume 0.31 m³ m³ Logistics Volume 0.33 m³ m³ Logistics Weight 11 kg kg Logistics Weight 12 kg kg Logistics Weight 13 kg kg Logistics Weight 14 kg kg Logistics Weight 51.5 kg kg Logistics Weight 55.5 kg kg Logistics Weight 57 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
+    "searchText": "Nordic Outdoor Lounge Set Outdoor lounge set configurations from the Nordic collection with white aluminium frames, beige cushions, and selected layouts with integrated coffee tables. Outdoor Lounge Sets Outdoor Nordic Outdoor Outdoor Lounge Sets Nordic Beige White Aluminium Fabric Plastic Dimensions Depth 246 cm cm Dimensions Height 61 cm cm Dimensions Width 246 cm cm Dimensions Width 328 cm cm Logistics Package count 1 package package Logistics Package count 2 package package Logistics Package count 3 package package Logistics Package weight 11 kg kg Logistics Package weight 12 kg kg Logistics Package weight 13 kg kg Logistics Package weight 14 kg kg Logistics Product count 1 product product Logistics Volume 0.12 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Volume 0.31 m³ m³ Logistics Volume 0.33 m³ m³ Logistics Weight 51.5 kg kg Logistics Weight 55.5 kg kg Logistics Weight 57 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "outdoor",
@@ -148,6 +149,54 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "11-kg",
+        "valueLabel": "11 kg",
+        "href": "/attributes/logistics/package-weight/11-kg/",
+        "valueType": "enum",
+        "numericValue": 11,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "12-kg",
+        "valueLabel": "12 kg",
+        "href": "/attributes/logistics/package-weight/12-kg/",
+        "valueType": "enum",
+        "numericValue": 12,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "13-kg",
+        "valueLabel": "13 kg",
+        "href": "/attributes/logistics/package-weight/13-kg/",
+        "valueType": "enum",
+        "numericValue": 13,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "14-kg",
+        "valueLabel": "14 kg",
+        "href": "/attributes/logistics/package-weight/14-kg/",
+        "valueType": "enum",
+        "numericValue": 14,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "1-product",
@@ -204,54 +253,6 @@
         "valueType": "enum",
         "numericValue": 0.33,
         "unit": "m³"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "11-kg",
-        "valueLabel": "11 kg",
-        "href": "/attributes/logistics/weight/11-kg/",
-        "valueType": "enum",
-        "numericValue": 11,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "12-kg",
-        "valueLabel": "12 kg",
-        "href": "/attributes/logistics/weight/12-kg/",
-        "valueType": "enum",
-        "numericValue": 12,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "13-kg",
-        "valueLabel": "13 kg",
-        "href": "/attributes/logistics/weight/13-kg/",
-        "valueType": "enum",
-        "numericValue": 13,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "14-kg",
-        "valueLabel": "14 kg",
-        "href": "/attributes/logistics/weight/14-kg/",
-        "valueType": "enum",
-        "numericValue": 14,
-        "unit": "kg"
       },
       {
         "groupKey": "logistics",

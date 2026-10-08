@@ -1,14 +1,15 @@
 {
   "familyTitle": "Lugo",
   "familySummary": "Spacious corner sofa with a solid wood frame and breathable fabric upholstery, available in beige and green.",
-  "primaryImageUrl": "/products/corner-sofas/lugo/210100_1.avif",
+  "familyDescription": "The Lugo corner sofa creates a welcoming and modern atmosphere. Its open corner design provides ample seating for relaxation and social moments. The sofa features a practical and airy layout with low armrests and backrests. Upholstered in breathable fabric, it is comfortable and durable for everyday use.",
+  "primaryImageUrl": "/products/corner-sofas/lugo/210100_9.avif",
   "schemaCategory": "Corner Sofas",
   "variantCount": 4,
   "productFamilyName": "Lugo",
   "productFamilyKey": "lugo",
   "productFamilyRelativeDir": "families/lugo",
   "filterData": {
-    "searchText": "Lugo Spacious corner sofa with a solid wood frame and breathable fabric upholstery, available in beige and green. Corner Sofas Living room Lugo Living room Corner Sofas Lugo Beige Green Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 210 cm cm Dimensions Height 70 cm cm Dimensions Width 271 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.16 m³ m³ Logistics Volume 1.41 m³ m³ Logistics Weight 45.3 kg kg Logistics Weight 60.2 kg kg Logistics Weight 96.4 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+    "searchText": "Lugo Spacious corner sofa with a solid wood frame and breathable fabric upholstery, available in beige and green. Corner Sofas Living room Lugo Living room Corner Sofas Lugo Beige Green Foam Particle board Plastic Plywood Solid wood Configuration Handedness configuration Fixed Configuration Leg height 0.6 cm cm Dimensions Depth 210 cm cm Dimensions Height 70 cm cm Dimensions Width 271 cm cm Logistics Package count 1 package package Logistics Package weight 45.3 kg kg Logistics Package weight 60.2 kg kg Logistics Product count 1 product product Logistics Volume 1.16 m³ m³ Logistics Volume 1.41 m³ m³ Logistics Weight 96.4 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 75 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "living-room",
@@ -146,6 +147,30 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "45-3-kg",
+        "valueLabel": "45.3 kg",
+        "href": "/attributes/logistics/package-weight/45-3-kg/",
+        "valueType": "enum",
+        "numericValue": 45.3,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "60-2-kg",
+        "valueLabel": "60.2 kg",
+        "href": "/attributes/logistics/package-weight/60-2-kg/",
+        "valueType": "enum",
+        "numericValue": 60.2,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "1-product",
@@ -178,30 +203,6 @@
         "valueType": "enum",
         "numericValue": 1.41,
         "unit": "m³"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "45-3-kg",
-        "valueLabel": "45.3 kg",
-        "href": "/attributes/logistics/weight/45-3-kg/",
-        "valueType": "enum",
-        "numericValue": 45.3,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "60-2-kg",
-        "valueLabel": "60.2 kg",
-        "href": "/attributes/logistics/weight/60-2-kg/",
-        "valueType": "enum",
-        "numericValue": 60.2,
-        "unit": "kg"
       },
       {
         "groupKey": "logistics",

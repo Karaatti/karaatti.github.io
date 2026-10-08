@@ -1,13 +1,5 @@
 [
   {
-    "name": "moon-gold",
-    "href": "/families/moon-gold/",
-    "type": "dir",
-    "title": "Moon Gold",
-    "schemaCategory": "Toppers",
-    "variantCount": 3
-  },
-  {
     "name": "bilbao",
     "href": "/families/bilbao/",
     "type": "dir",
@@ -32,10 +24,10 @@
     "variantCount": 1
   },
   {
-    "name": "moon-bronze",
-    "href": "/families/moon-bronze/",
+    "name": "moon-gold",
+    "href": "/families/moon-gold/",
     "type": "dir",
-    "title": "Moon Bronze",
+    "title": "Moon Gold",
     "schemaCategory": "Toppers",
     "variantCount": 1
   },

@@ -4,10 +4,10 @@
     "title": "Basalt Rug",
     "href": "/products/rugs/basalt/",
     "type": "dir",
-    "summary": "A soft viscose rug with a dark blue base and decorative floral pattern in light blue, cream, and white tones.",
-    "primaryImageUrl": "/products/rugs/basalt/200728_1.avif",
+    "summary": "Basalt rugs bring a multicolour pattern to the room, with a choice of sizes for seating areas, bedrooms and dining spaces.",
+    "primaryImageUrl": "/products/rugs/basalt/200727_2.avif",
     "filterData": {
-      "searchText": "Basalt A soft viscose rug with a dark blue base and decorative floral pattern in light blue, cream, and white tones. Rugs Home Details Basalt Home Details Rugs Basalt Viscose Dimensions Depth 290 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 9 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Basalt Basalt rugs bring a multicolour pattern to the room, with a choice of sizes for seating areas, bedrooms and dining spaces. Rugs Home Details Basalt Home Details Rugs Basalt Multicolour Viscose Dimensions Depth 290 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 9 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -29,7 +29,13 @@
           "href": "/families/basalt/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "multicolour",
+          "label": "Multicolour",
+          "href": "/colors/multicolour/"
+        }
+      ],
       "materials": [
         {
           "key": "viscose",
@@ -139,8 +145,8 @@
     },
     "sortData": {
       "title": "Basalt",
-      "summary": "A soft viscose rug with a dark blue base and decorative floral pattern in light blue, cream, and white tones.",
-      "variantCount": 1,
+      "summary": "Basalt rugs bring a multicolour pattern to the room, with a choice of sizes for seating areas, bedrooms and dining spaces.",
+      "variantCount": 2,
       "categoryLabel": "Rugs",
       "collectionLabel": "Home Details",
       "productFamilyLabel": "Basalt"

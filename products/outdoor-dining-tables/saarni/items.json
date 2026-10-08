@@ -2,15 +2,23 @@
   {
     "sku": "206639",
     "name": "206639",
-    "title": "Saarni Outdoor Dining Table, Beige, 130 x 70 cm",
-    "variantSummary": "130 x 70 cm / Beige",
+    "title": "Saarni Dining Table, 130 × 70 cm",
+    "variantSummary": "130 × 70 cm / Beige",
     "shortDescription": "Light Beige tone, aluminium frame, nonwood surface, 130 x 70 cm.",
     "selectionAttributes": {
-      "dimensions": "130 x 70 cm",
+      "dimensions": "130 × 70 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Aluminium, Nonwood"
+      "material": "Aluminium, Nonwood",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining table",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206639_1.avif",
     "imageUrl": "/products/outdoor-dining-tables/saarni/206639_1.avif",
@@ -20,7 +28,7 @@
     "href": "/products/outdoor-dining-tables/saarni/206639",
     "type": "file",
     "filterData": {
-      "searchText": "Saarni Outdoor Dining Table, Beige, 130 x 70 cm Light Beige tone, aluminium frame, nonwood surface, 130 x 70 cm. Outdoor Dining Tables Outdoor Saarni Outdoor Outdoor Dining Tables Saarni Beige Aluminium Nonwood Dimensions Depth 130 cm cm Dimensions Height 74 cm cm Dimensions Width 70 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.11 m³ m³ Logistics Weight 14.2 kg kg Logistics Weight 15.5 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Saarni Dining Table, 130 × 70 cm Light Beige tone, aluminium frame, nonwood surface, 130 x 70 cm. Outdoor Dining Tables Outdoor Saarni Outdoor Outdoor Dining Tables Saarni Beige Aluminium Nonwood Dimensions Depth 130 cm cm Dimensions Height 74 cm cm Dimensions Width 70 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Package weight 15.5 kg kg Logistics Product count 1 product product Logistics Volume 0.11 m³ m³ Logistics Weight 14.2 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -126,6 +134,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "15-5-kg",
+          "valueLabel": "15.5 kg",
+          "href": "/attributes/logistics/package-weight/15-5-kg/",
+          "valueType": "enum",
+          "numericValue": 15.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -160,18 +180,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "15-5-kg",
-          "valueLabel": "15.5 kg",
-          "href": "/attributes/logistics/weight/15-5-kg/",
-          "valueType": "enum",
-          "numericValue": 15.5,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -198,7 +206,7 @@
       ]
     },
     "sortData": {
-      "title": "Saarni Outdoor Dining Table, Beige, 130 x 70 cm",
+      "title": "Saarni Dining Table, 130 × 70 cm",
       "summary": "Light Beige tone, aluminium frame, nonwood surface, 130 x 70 cm.",
       "variantCount": 1,
       "categoryLabel": "Outdoor Dining Tables",
@@ -209,15 +217,23 @@
   {
     "sku": "206640",
     "name": "206640",
-    "title": "Saarni Outdoor Dining Table, Beige, 70 x 70 cm",
-    "variantSummary": "70 x 70 cm / Beige",
+    "title": "Saarni Dining Table, 70 × 70 cm",
+    "variantSummary": "70 × 70 cm / Beige",
     "shortDescription": "Light Beige tone, aluminium frame, nonwood surface, 70 x 70 cm.",
     "selectionAttributes": {
-      "dimensions": "70 x 70 cm",
+      "dimensions": "70 × 70 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Aluminium, Nonwood"
+      "material": "Aluminium, Nonwood",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining table",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206640_1.avif",
     "imageUrl": "/products/outdoor-dining-tables/saarni/206640_1.avif",
@@ -227,7 +243,7 @@
     "href": "/products/outdoor-dining-tables/saarni/206640",
     "type": "file",
     "filterData": {
-      "searchText": "Saarni Outdoor Dining Table, Beige, 70 x 70 cm Light Beige tone, aluminium frame, nonwood surface, 70 x 70 cm. Outdoor Dining Tables Outdoor Saarni Outdoor Outdoor Dining Tables Saarni Beige Aluminium Nonwood Dimensions Depth 70 cm cm Dimensions Height 72 cm cm Dimensions Width 70 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.06 m³ m³ Logistics Weight 8.2 kg kg Logistics Weight 9.3 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Saarni Dining Table, 70 × 70 cm Light Beige tone, aluminium frame, nonwood surface, 70 x 70 cm. Outdoor Dining Tables Outdoor Saarni Outdoor Outdoor Dining Tables Saarni Beige Aluminium Nonwood Dimensions Depth 70 cm cm Dimensions Height 72 cm cm Dimensions Width 70 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Package weight 9.3 kg kg Logistics Product count 1 product product Logistics Volume 0.06 m³ m³ Logistics Weight 8.2 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -333,6 +349,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "9-3-kg",
+          "valueLabel": "9.3 kg",
+          "href": "/attributes/logistics/package-weight/9-3-kg/",
+          "valueType": "enum",
+          "numericValue": 9.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -367,18 +395,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "9-3-kg",
-          "valueLabel": "9.3 kg",
-          "href": "/attributes/logistics/weight/9-3-kg/",
-          "valueType": "enum",
-          "numericValue": 9.3,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -405,7 +421,7 @@
       ]
     },
     "sortData": {
-      "title": "Saarni Outdoor Dining Table, Beige, 70 x 70 cm",
+      "title": "Saarni Dining Table, 70 × 70 cm",
       "summary": "Light Beige tone, aluminium frame, nonwood surface, 70 x 70 cm.",
       "variantCount": 1,
       "categoryLabel": "Outdoor Dining Tables",
@@ -416,15 +432,23 @@
   {
     "sku": "206641",
     "name": "206641",
-    "title": "Saarni Outdoor Dining Table, Beige, 150 x 90 cm",
-    "variantSummary": "150 x 90 cm / Beige",
+    "title": "Saarni Dining Table, 150 × 90 cm",
+    "variantSummary": "150 × 90 cm / Beige",
     "shortDescription": "Light Beige tone, aluminium frame, nonwood surface, 150 x 90 cm.",
     "selectionAttributes": {
-      "dimensions": "150 x 90 cm",
+      "dimensions": "150 × 90 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Aluminium, Nonwood"
+      "material": "Aluminium, Nonwood",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining table",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206641_1.avif",
     "imageUrl": "/products/outdoor-dining-tables/saarni/206641_1.avif",
@@ -434,7 +458,7 @@
     "href": "/products/outdoor-dining-tables/saarni/206641",
     "type": "file",
     "filterData": {
-      "searchText": "Saarni Outdoor Dining Table, Beige, 150 x 90 cm Light Beige tone, aluminium frame, nonwood surface, 150 x 90 cm. Outdoor Dining Tables Outdoor Saarni Outdoor Outdoor Dining Tables Saarni Beige Aluminium Nonwood Dimensions Depth 150 cm cm Dimensions Height 74 cm cm Dimensions Width 90 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.1 m³ m³ Logistics Weight 14.8 kg kg Logistics Weight 18.5 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Saarni Dining Table, 150 × 90 cm Light Beige tone, aluminium frame, nonwood surface, 150 x 90 cm. Outdoor Dining Tables Outdoor Saarni Outdoor Outdoor Dining Tables Saarni Beige Aluminium Nonwood Dimensions Depth 150 cm cm Dimensions Height 74 cm cm Dimensions Width 90 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Package weight 18.5 kg kg Logistics Product count 1 product product Logistics Volume 0.1 m³ m³ Logistics Weight 14.8 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -540,6 +564,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "18-5-kg",
+          "valueLabel": "18.5 kg",
+          "href": "/attributes/logistics/package-weight/18-5-kg/",
+          "valueType": "enum",
+          "numericValue": 18.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -574,18 +610,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "18-5-kg",
-          "valueLabel": "18.5 kg",
-          "href": "/attributes/logistics/weight/18-5-kg/",
-          "valueType": "enum",
-          "numericValue": 18.5,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -612,7 +636,7 @@
       ]
     },
     "sortData": {
-      "title": "Saarni Outdoor Dining Table, Beige, 150 x 90 cm",
+      "title": "Saarni Dining Table, 150 × 90 cm",
       "summary": "Light Beige tone, aluminium frame, nonwood surface, 150 x 90 cm.",
       "variantCount": 1,
       "categoryLabel": "Outdoor Dining Tables",
@@ -623,15 +647,23 @@
   {
     "sku": "206642",
     "name": "206642",
-    "title": "Saarni Outdoor Dining Table, Brown, 205 x 90 cm",
-    "variantSummary": "205 x 90 cm / Brown",
+    "title": "Saarni Dining Table, 205 × 90 cm",
+    "variantSummary": "205 × 90 cm / Beige",
     "shortDescription": "Light brown tone, aluminium frame, nonwood surface, 205 x 90 cm.",
     "selectionAttributes": {
-      "dimensions": "205 x 90 cm",
+      "dimensions": "205 × 90 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Brown",
-      "material": "Aluminium, Nonwood"
+      "color": "Beige",
+      "material": "Aluminium, Nonwood",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining table",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206642_1.avif",
     "imageUrl": "/products/outdoor-dining-tables/saarni/206642_1.avif",
@@ -641,7 +673,7 @@
     "href": "/products/outdoor-dining-tables/saarni/206642",
     "type": "file",
     "filterData": {
-      "searchText": "Saarni Outdoor Dining Table, Brown, 205 x 90 cm Light brown tone, aluminium frame, nonwood surface, 205 x 90 cm. Outdoor Dining Tables Outdoor Saarni Outdoor Outdoor Dining Tables Saarni Brown Aluminium Nonwood Dimensions Depth 205 cm cm Dimensions Height 74 cm cm Dimensions Width 90 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Weight 20.5 kg kg Logistics Weight 24.9 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Saarni Dining Table, 205 × 90 cm Light brown tone, aluminium frame, nonwood surface, 205 x 90 cm. Outdoor Dining Tables Outdoor Saarni Outdoor Outdoor Dining Tables Saarni Beige Aluminium Nonwood Dimensions Depth 205 cm cm Dimensions Height 74 cm cm Dimensions Width 90 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Package weight 24.9 kg kg Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Weight 20.5 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -665,9 +697,9 @@
       ],
       "colors": [
         {
-          "key": "brown",
-          "label": "Brown",
-          "href": "/colors/brown/"
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
         }
       ],
       "materials": [
@@ -747,6 +779,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "24-9-kg",
+          "valueLabel": "24.9 kg",
+          "href": "/attributes/logistics/package-weight/24-9-kg/",
+          "valueType": "enum",
+          "numericValue": 24.9,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -781,18 +825,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "24-9-kg",
-          "valueLabel": "24.9 kg",
-          "href": "/attributes/logistics/weight/24-9-kg/",
-          "valueType": "enum",
-          "numericValue": 24.9,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -819,7 +851,7 @@
       ]
     },
     "sortData": {
-      "title": "Saarni Outdoor Dining Table, Brown, 205 x 90 cm",
+      "title": "Saarni Dining Table, 205 × 90 cm",
       "summary": "Light brown tone, aluminium frame, nonwood surface, 205 x 90 cm.",
       "variantCount": 1,
       "categoryLabel": "Outdoor Dining Tables",
@@ -830,15 +862,23 @@
   {
     "sku": "206643",
     "name": "206643",
-    "title": "Saarni Outdoor Dining Table, Beige, 275 x 95 cm",
-    "variantSummary": "275 x 95 cm / Beige",
+    "title": "Saarni Dining Table, 205–275 × 95 cm",
+    "variantSummary": "205–275 × 95 cm / Beige",
     "shortDescription": "Light Beige tone, aluminium frame, nonwood surface, extendable 205-275 x 95 cm.",
     "selectionAttributes": {
-      "dimensions": "275 x 95 cm",
+      "dimensions": "205–275 × 95 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Aluminium, Nonwood"
+      "material": "Aluminium, Nonwood",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining table",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206643_1.avif",
     "imageUrl": "/products/outdoor-dining-tables/saarni/206643_1.avif",
@@ -849,7 +889,7 @@
     "href": "/products/outdoor-dining-tables/saarni/206643",
     "type": "file",
     "filterData": {
-      "searchText": "Saarni Outdoor Dining Table, Beige, 275 x 95 cm Light Beige tone, aluminium frame, nonwood surface, extendable 205-275 x 95 cm. Outdoor Dining Tables Outdoor Saarni Outdoor Outdoor Dining Tables Saarni Beige Aluminium Nonwood Dimensions Depth 205 cm cm Dimensions Height 74 cm cm Dimensions Width 95 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.31 m³ m³ Logistics Weight 50 kg kg Logistics Weight 52.8 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Saarni Dining Table, 205–275 × 95 cm Light Beige tone, aluminium frame, nonwood surface, extendable 205-275 x 95 cm. Outdoor Dining Tables Outdoor Saarni Outdoor Outdoor Dining Tables Saarni Beige Aluminium Nonwood Dimensions Depth 205 cm cm Dimensions Height 74 cm cm Dimensions Width 95 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Package weight 52.8 kg kg Logistics Product count 1 product product Logistics Volume 0.31 m³ m³ Logistics Weight 50 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -955,6 +995,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "52-8-kg",
+          "valueLabel": "52.8 kg",
+          "href": "/attributes/logistics/package-weight/52-8-kg/",
+          "valueType": "enum",
+          "numericValue": 52.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -989,18 +1041,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "52-8-kg",
-          "valueLabel": "52.8 kg",
-          "href": "/attributes/logistics/weight/52-8-kg/",
-          "valueType": "enum",
-          "numericValue": 52.8,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -1027,7 +1067,7 @@
       ]
     },
     "sortData": {
-      "title": "Saarni Outdoor Dining Table, Beige, 275 x 95 cm",
+      "title": "Saarni Dining Table, 205–275 × 95 cm",
       "summary": "Light Beige tone, aluminium frame, nonwood surface, extendable 205-275 x 95 cm.",
       "variantCount": 1,
       "categoryLabel": "Outdoor Dining Tables",

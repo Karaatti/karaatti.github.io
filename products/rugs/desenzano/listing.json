@@ -1,14 +1,15 @@
 {
   "familyTitle": "Desenzano",
-  "familySummary": "A modern rug with a graphic pattern and soft muted tones. Made of cotton and polyester, it has a soft surface and delicate fringes.",
-  "primaryImageUrl": "/products/rugs/desenzano/202751_1.jpg",
+  "familySummary": "Desenzano rugs offer a simple, contemporary look in a practical size for living rooms, bedrooms, or other interior spaces.",
+  "familyDescription": "Desenzano rugs bring a calm, understated presence to interior spaces. The collection is suited to everyday settings where a rug can help define a seating area, soften a room, or add a finished look under furniture. This rug is presented in 160 × 230 × 2 cm and made from Cotton, Polyester. Its proportions make it suitable for larger areas where a rectangular rug can help structure the layout and complement a range of furnishings.",
+  "primaryImageUrl": "/products/rugs/desenzano/202750_1.avif",
   "schemaCategory": "Rugs",
-  "variantCount": 1,
+  "variantCount": 2,
   "productFamilyName": "Desenzano",
   "productFamilyKey": "desenzano",
   "productFamilyRelativeDir": "families/desenzano",
   "filterData": {
-    "searchText": "Desenzano A modern rug with a graphic pattern and soft muted tones. Made of cotton and polyester, it has a soft surface and delicate fringes. Rugs Home Details Desenzano Home Details Rugs Desenzano Grey Cotton Polyester Care Cleaning method Water wash Dimensions Depth 290 cm cm Dimensions Height 2 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.06 m³ m³ Logistics Weight 8.5 kg kg Logistics Weight 8.7 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+    "searchText": "Desenzano Desenzano rugs offer a simple, contemporary look in a practical size for living rooms, bedrooms, or other interior spaces. Rugs Home Details Desenzano Home Details Rugs Desenzano Grey Cotton Polyester Care Cleaning method Water wash Dimensions Depth 290 cm cm Dimensions Height 2 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 8.7 kg kg Logistics Product count 1 product product Logistics Volume 0.06 m³ m³ Logistics Weight 8.5 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "home-details",
@@ -114,6 +115,18 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "8-7-kg",
+        "valueLabel": "8.7 kg",
+        "href": "/attributes/logistics/package-weight/8-7-kg/",
+        "valueType": "enum",
+        "numericValue": 8.7,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "1-product",
@@ -148,18 +161,6 @@
         "unit": "kg"
       },
       {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "8-7-kg",
-        "valueLabel": "8.7 kg",
-        "href": "/attributes/logistics/weight/8-7-kg/",
-        "valueType": "enum",
-        "numericValue": 8.7,
-        "unit": "kg"
-      },
-      {
         "groupKey": "setup",
         "groupLabel": "Setup",
         "key": "assembly-time",
@@ -187,8 +188,8 @@
   },
   "sortData": {
     "title": "Desenzano",
-    "summary": "A modern rug with a graphic pattern and soft muted tones. Made of cotton and polyester, it has a soft surface and delicate fringes.",
-    "variantCount": 1,
+    "summary": "Desenzano rugs offer a simple, contemporary look in a practical size for living rooms, bedrooms, or other interior spaces.",
+    "variantCount": 2,
     "categoryLabel": "Rugs",
     "collectionLabel": "Home Details",
     "productFamilyLabel": "Desenzano"

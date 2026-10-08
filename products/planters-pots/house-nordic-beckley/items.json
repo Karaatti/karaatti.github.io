@@ -3,14 +3,22 @@
     "sku": "201120",
     "name": "201120",
     "title": "House Nordic Beckley Planter",
-    "variantSummary": "54 x 54 cm / Brown",
+    "variantSummary": "54 × 54 cm / Beige",
     "shortDescription": "Brown terracotta planter set with three sizes, suitable for indoor and outdoor use.",
     "selectionAttributes": {
-      "dimensions": "54 x 54 cm",
+      "dimensions": "54 × 54 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Brown",
-      "material": "Terracotta"
+      "color": "Beige",
+      "material": "Terracotta",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Planter",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/planters-pots/house-nordic-beckley/201120_1.avif",
     "imageUrl": "/products/planters-pots/house-nordic-beckley/201120_1.avif",
@@ -20,7 +28,7 @@
     "href": "/products/planters-pots/house-nordic-beckley/201120",
     "type": "file",
     "filterData": {
-      "searchText": "House Nordic Beckley Planter Brown terracotta planter set with three sizes, suitable for indoor and outdoor use. Planters & Pots Outdoor House Nordic Beckley Outdoor Planters & Pots House Nordic Beckley Brown Terracotta Dimensions Depth 54 cm cm Dimensions Depth 2 42 cm cm Dimensions Height 54 cm cm Dimensions Height 2 42 cm cm Dimensions Width 54 cm cm Dimensions Width 2 42 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.16 m³ m³ Logistics Weight 20 kg kg Logistics Weight 20.5 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "House Nordic Beckley Planter Brown terracotta planter set with three sizes, suitable for indoor and outdoor use. Planters & Pots Outdoor House Nordic Beckley Outdoor Planters & Pots House Nordic Beckley Beige Terracotta Dimensions Depth 54 cm cm Dimensions Depth 2 42 cm cm Dimensions Height 54 cm cm Dimensions Height 2 42 cm cm Dimensions Width 54 cm cm Dimensions Width 2 42 cm cm Logistics Package count 1 package package Logistics Package weight 20.5 kg kg Logistics Product count 1 product product Logistics Volume 0.16 m³ m³ Logistics Weight 20 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -44,9 +52,9 @@
       ],
       "colors": [
         {
-          "key": "brown",
-          "label": "Brown",
-          "href": "/colors/brown/"
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
         }
       ],
       "materials": [
@@ -145,6 +153,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-5-kg",
+          "valueLabel": "20.5 kg",
+          "href": "/attributes/logistics/package-weight/20-5-kg/",
+          "valueType": "enum",
+          "numericValue": 20.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -176,18 +196,6 @@
           "href": "/attributes/logistics/weight/20-kg/",
           "valueType": "enum",
           "numericValue": 20,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "20-5-kg",
-          "valueLabel": "20.5 kg",
-          "href": "/attributes/logistics/weight/20-5-kg/",
-          "valueType": "enum",
-          "numericValue": 20.5,
           "unit": "kg"
         },
         {

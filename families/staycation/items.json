@@ -1,13 +1,74 @@
 [
   {
     "name": "staycation",
+    "title": "Staycation Duvet",
+    "href": "/products/duvets/staycation/",
+    "type": "dir",
+    "summary": "White Staycation duvets in Cotton, Polyester, offered in two sizes for everyday bedding needs.",
+    "primaryImageUrl": "/products/duvets/staycation/220236_2.avif",
+    "filterData": {
+      "searchText": "Staycation White Staycation duvets in Cotton, Polyester, offered in two sizes for everyday bedding needs. Duvets Bedroom Staycation Bedroom Duvets Staycation White Cotton Polyester",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "duvets",
+          "label": "Duvets",
+          "href": "/products/duvets/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "staycation",
+          "label": "Staycation",
+          "href": "/families/staycation/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Staycation",
+      "summary": "White Staycation duvets in Cotton, Polyester, offered in two sizes for everyday bedding needs.",
+      "variantCount": 2,
+      "categoryLabel": "Duvets",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Staycation"
+    }
+  },
+  {
+    "name": "staycation",
     "title": "Staycation Pillow",
     "href": "/products/pillows/staycation/",
     "type": "dir",
-    "summary": "Bedroom pillows from the Staycation series.",
-    "primaryImageUrl": "/products/pillows/staycation/214016_1.jpg",
+    "summary": "Staycation pillows bring a simple white look to the bedroom, sized for everyday sleeping comfort and easy pairing with different bedding styles.",
+    "primaryImageUrl": "/products/pillows/staycation/214016_1.avif",
     "filterData": {
-      "searchText": "Staycation Pillow Bedroom pillows from the Staycation series. Pillows Bedroom Staycation Bedroom Pillows Staycation Cotton Feather Mikrofiber Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Depth 60 cm cm Dimensions Height 18 cm cm Dimensions Height 20 cm cm Dimensions Width 60 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 5 product product Logistics Product count 8 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1 kg kg Logistics Weight 7.3 kg kg Logistics Weight 8.3 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Staycation Pillow Staycation pillows bring a simple white look to the bedroom, sized for everyday sleeping comfort and easy pairing with different bedding styles. Pillows Bedroom Staycation Bedroom Pillows Staycation White Cotton Feather Mikrofiber Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Depth 60 cm cm Dimensions Height 18 cm cm Dimensions Height 20 cm cm Dimensions Width 60 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Package weight 7.3 kg kg Logistics Package weight 8.3 kg kg Logistics Product count 5 product product Logistics Product count 8 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -29,7 +90,13 @@
           "href": "/families/staycation/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -153,6 +220,30 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "7-3-kg",
+          "valueLabel": "7.3 kg",
+          "href": "/attributes/logistics/package-weight/7-3-kg/",
+          "valueType": "enum",
+          "numericValue": 7.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "8-3-kg",
+          "valueLabel": "8.3 kg",
+          "href": "/attributes/logistics/package-weight/8-3-kg/",
+          "valueType": "enum",
+          "numericValue": 8.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "5-product",
@@ -199,30 +290,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "7-3-kg",
-          "valueLabel": "7.3 kg",
-          "href": "/attributes/logistics/weight/7-3-kg/",
-          "valueType": "enum",
-          "numericValue": 7.3,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "8-3-kg",
-          "valueLabel": "8.3 kg",
-          "href": "/attributes/logistics/weight/8-3-kg/",
-          "valueType": "enum",
-          "numericValue": 8.3,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -250,8 +317,8 @@
     },
     "sortData": {
       "title": "Staycation Pillow",
-      "summary": "Bedroom pillows from the Staycation series.",
-      "variantCount": 2,
+      "summary": "Staycation pillows bring a simple white look to the bedroom, sized for everyday sleeping comfort and easy pairing with different bedding styles.",
+      "variantCount": 3,
       "categoryLabel": "Pillows",
       "collectionLabel": "Bedroom",
       "productFamilyLabel": "Staycation"

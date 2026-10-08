@@ -4,9 +4,9 @@
     "label": "30 days",
     "href": "/attributes/warranty/price-guarantee/30-days/",
     "type": "dir",
-    "description": "30 days is a published price guarantee used across selected Nest & Living products. Common on 4-Seater Sofa, Adjustable Bed, Armchair, Bar Stool, Bed Frame and Cabinets Display and 19 more.",
+    "description": "30 days is the published price guarantee for the products listed here. The value appears on 270 Nest & Living product options across 35 product families. Examples include 4-Seater Sofa, Adjustable Bed and Armchair, among others.",
     "familyCount": 35,
-    "variantCount": 269,
+    "variantCount": 270,
     "valueType": "measurement",
     "numericValue": 30,
     "unit": "days"

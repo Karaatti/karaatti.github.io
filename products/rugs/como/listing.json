@@ -1,0 +1,64 @@
+{
+  "familyTitle": "Como",
+  "familySummary": "Como rugs bring a simple, tailored look to living spaces, with a green finish and a practical rectangular format suited to everyday rooms.",
+  "familyDescription": "The Como rug family offers a calm, versatile look for interiors that need a defined floor area and a touch of colour. The green tone works well in living rooms, bedrooms, and other everyday spaces, while the rectangular shape makes it easy to place beneath furniture or in open areas. This rug is made from Cotton and Polyester and measures 160 × 230 × 2 cm, giving it a substantial presence without overwhelming the room. Its proportions suit a range of layouts, from seating zones to larger open-plan settings.",
+  "primaryImageUrl": "/products/rugs/como/202740_4.avif",
+  "schemaCategory": "Rugs",
+  "variantCount": 1,
+  "productFamilyName": "Como",
+  "productFamilyKey": "como",
+  "productFamilyRelativeDir": "families/como",
+  "filterData": {
+    "searchText": "Como Como rugs bring a simple, tailored look to living spaces, with a green finish and a practical rectangular format suited to everyday rooms. Rugs Home Details Como Home Details Rugs Como Green Cotton Polyester",
+    "collections": [
+      {
+        "key": "home-details",
+        "label": "Home Details",
+        "href": "/collections/storage-shelving"
+      }
+    ],
+    "categories": [
+      {
+        "key": "rugs",
+        "label": "Rugs",
+        "href": "/products/rugs/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "como",
+        "label": "Como",
+        "href": "/families/como/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "green",
+        "label": "Green",
+        "href": "/colors/green/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "cotton",
+        "label": "Cotton",
+        "href": "/materials/cotton/"
+      },
+      {
+        "key": "polyester",
+        "label": "Polyester",
+        "href": "/materials/polyester/"
+      }
+    ],
+    "specifications": [],
+    "attributes": []
+  },
+  "sortData": {
+    "title": "Como",
+    "summary": "Como rugs bring a simple, tailored look to living spaces, with a green finish and a practical rectangular format suited to everyday rooms.",
+    "variantCount": 1,
+    "categoryLabel": "Rugs",
+    "collectionLabel": "Home Details",
+    "productFamilyLabel": "Como"
+  }
+}

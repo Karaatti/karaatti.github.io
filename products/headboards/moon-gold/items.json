@@ -10,19 +10,26 @@
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
-    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2-mood.avif",
+    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2-mood.avif",
     "imageUrls": [
-      "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
-      "/products/headboards/moon-gold/moon_gold_headboard_beige_2.jpg",
-      "/products/headboards/moon-gold/197810_1.avif"
+      "/products/headboards/moon-gold/moon_gold_headboard_beige_2-mood.avif",
+      "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif"
     ],
     "href": "/products/headboards/moon-gold/197810",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Headboard, Beige, 120 cm Beige fabric, 120 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Beige Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 120 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.24 m³ m³ Logistics Weight 15 kg kg Logistics Weight 17 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Headboard, Beige, 120 cm Beige fabric, 120 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Beige Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 120 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 17 kg kg Logistics Product count 1 product product Logistics Volume 0.24 m³ m³ Logistics Weight 15 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -123,6 +130,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -154,18 +173,6 @@
           "href": "/attributes/logistics/weight/15-kg/",
           "valueType": "enum",
           "numericValue": 15,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "17-kg",
-          "valueLabel": "17 kg",
-          "href": "/attributes/logistics/weight/17-kg/",
-          "valueType": "enum",
-          "numericValue": 17,
           "unit": "kg"
         },
         {
@@ -226,19 +233,26 @@
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
-    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2-mood.avif",
+    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2-mood.avif",
     "imageUrls": [
-      "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
-      "/products/headboards/moon-gold/moon_gold_headboard_beige_2.jpg",
-      "/products/headboards/moon-gold/197811_1.avif"
+      "/products/headboards/moon-gold/moon_gold_headboard_beige_2-mood.avif",
+      "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif"
     ],
     "href": "/products/headboards/moon-gold/197811",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Headboard, Beige, 140 cm Beige fabric, 140 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Beige Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 140 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.28 m³ m³ Logistics Weight 16 kg kg Logistics Weight 18 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Headboard, Beige, 140 cm Beige fabric, 140 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Beige Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 140 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 18 kg kg Logistics Product count 1 product product Logistics Volume 0.28 m³ m³ Logistics Weight 16 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -339,6 +353,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "18-kg",
+          "valueLabel": "18 kg",
+          "href": "/attributes/logistics/package-weight/18-kg/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -370,18 +396,6 @@
           "href": "/attributes/logistics/weight/16-kg/",
           "valueType": "enum",
           "numericValue": 16,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "18-kg",
-          "valueLabel": "18 kg",
-          "href": "/attributes/logistics/weight/18-kg/",
-          "valueType": "enum",
-          "numericValue": 18,
           "unit": "kg"
         },
         {
@@ -442,19 +456,26 @@
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
-    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2-mood.avif",
+    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2-mood.avif",
     "imageUrls": [
-      "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
-      "/products/headboards/moon-gold/moon_gold_headboard_beige_2.jpg",
-      "/products/headboards/moon-gold/197812_1.avif"
+      "/products/headboards/moon-gold/moon_gold_headboard_beige_2-mood.avif",
+      "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif"
     ],
     "href": "/products/headboards/moon-gold/197812",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Headboard, Beige, 160 cm Beige fabric, 160 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Beige Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 160 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.32 m³ m³ Logistics Weight 17 kg kg Logistics Weight 20 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Headboard, Beige, 160 cm Beige fabric, 160 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Beige Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 160 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 20 kg kg Logistics Product count 1 product product Logistics Volume 0.32 m³ m³ Logistics Weight 17 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -555,6 +576,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -586,18 +619,6 @@
           "href": "/attributes/logistics/weight/17-kg/",
           "valueType": "enum",
           "numericValue": 17,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "20-kg",
-          "valueLabel": "20 kg",
-          "href": "/attributes/logistics/weight/20-kg/",
-          "valueType": "enum",
-          "numericValue": 20,
           "unit": "kg"
         },
         {
@@ -658,19 +679,26 @@
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
-    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2-mood.avif",
+    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2-mood.avif",
     "imageUrls": [
-      "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
-      "/products/headboards/moon-gold/moon_gold_headboard_beige_2.jpg",
-      "/products/headboards/moon-gold/197813_1.avif"
+      "/products/headboards/moon-gold/moon_gold_headboard_beige_2-mood.avif",
+      "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif"
     ],
     "href": "/products/headboards/moon-gold/197813",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Headboard, Beige, 180 cm Beige fabric, 180 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Beige Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 180 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.41 m³ m³ Logistics Weight 18 kg kg Logistics Weight 25 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Headboard, Beige, 180 cm Beige fabric, 180 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Beige Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 180 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 25 kg kg Logistics Product count 1 product product Logistics Volume 0.41 m³ m³ Logistics Weight 18 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -771,6 +799,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -802,18 +842,6 @@
           "href": "/attributes/logistics/weight/18-kg/",
           "valueType": "enum",
           "numericValue": 18,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
           "unit": "kg"
         },
         {
@@ -874,19 +902,26 @@
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
-    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
+    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2-mood.avif",
+    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_beige_2-mood.avif",
     "imageUrls": [
-      "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif",
-      "/products/headboards/moon-gold/moon_gold_headboard_beige_2.jpg",
-      "/products/headboards/moon-gold/197814_1.avif"
+      "/products/headboards/moon-gold/moon_gold_headboard_beige_2-mood.avif",
+      "/products/headboards/moon-gold/moon_gold_headboard_beige_2.avif"
     ],
     "href": "/products/headboards/moon-gold/197814",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Headboard, Beige, 200 cm Beige fabric, 200 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Beige Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 22 kg kg Logistics Weight 25 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Headboard, Beige, 200 cm Beige fabric, 200 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Beige Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 25 kg kg Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 22 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -987,6 +1022,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1018,18 +1065,6 @@
           "href": "/attributes/logistics/weight/22-kg/",
           "valueType": "enum",
           "numericValue": 22,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
           "unit": "kg"
         },
         {
@@ -1082,7 +1117,7 @@
   {
     "sku": "197815",
     "name": "197815",
-    "title": "Moon Gold Headboard, Grey, 120 cm",
+    "title": "Moon Gold Headboard, Light grey, 120 cm",
     "variantSummary": "120 cm / Grey",
     "shortDescription": "Grey fabric, 120 cm width with five rows of buttons.",
     "selectionAttributes": {
@@ -1090,19 +1125,26 @@
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Light grey",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
-    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
+    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2-mood.avif",
+    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2-mood.avif",
     "imageUrls": [
-      "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
-      "/products/headboards/moon-gold/moon_gold_headboard_grey_2.jpg",
-      "/products/headboards/moon-gold/197815_1.avif"
+      "/products/headboards/moon-gold/moon_gold_headboard_grey_2-mood.avif",
+      "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif"
     ],
     "href": "/products/headboards/moon-gold/197815",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Headboard, Grey, 120 cm Grey fabric, 120 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Grey Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 120 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.24 m³ m³ Logistics Weight 15 kg kg Logistics Weight 17 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Headboard, Light grey, 120 cm Grey fabric, 120 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Grey Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 120 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 17 kg kg Logistics Product count 1 product product Logistics Volume 0.24 m³ m³ Logistics Weight 15 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1203,6 +1245,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1234,18 +1288,6 @@
           "href": "/attributes/logistics/weight/15-kg/",
           "valueType": "enum",
           "numericValue": 15,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "17-kg",
-          "valueLabel": "17 kg",
-          "href": "/attributes/logistics/weight/17-kg/",
-          "valueType": "enum",
-          "numericValue": 17,
           "unit": "kg"
         },
         {
@@ -1287,7 +1329,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Headboard, Grey, 120 cm",
+      "title": "Moon Gold Headboard, Light grey, 120 cm",
       "summary": "Grey fabric, 120 cm width with five rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -1298,7 +1340,7 @@
   {
     "sku": "197816",
     "name": "197816",
-    "title": "Moon Gold Headboard, Grey, 140 cm",
+    "title": "Moon Gold Headboard, Light grey, 140 cm",
     "variantSummary": "140 cm / Grey",
     "shortDescription": "Grey fabric, 140 cm width with five rows of buttons.",
     "selectionAttributes": {
@@ -1306,19 +1348,26 @@
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Light grey",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
-    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
+    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2-mood.avif",
+    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2-mood.avif",
     "imageUrls": [
-      "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
-      "/products/headboards/moon-gold/moon_gold_headboard_grey_2.jpg",
-      "/products/headboards/moon-gold/197816_1.avif"
+      "/products/headboards/moon-gold/moon_gold_headboard_grey_2-mood.avif",
+      "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif"
     ],
     "href": "/products/headboards/moon-gold/197816",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Headboard, Grey, 140 cm Grey fabric, 140 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Grey Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 140 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.28 m³ m³ Logistics Weight 18 kg kg Logistics Weight 18.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Headboard, Light grey, 140 cm Grey fabric, 140 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Grey Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 140 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 18 kg kg Logistics Product count 1 product product Logistics Volume 0.28 m³ m³ Logistics Weight 18.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1419,6 +1468,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "18-kg",
+          "valueLabel": "18 kg",
+          "href": "/attributes/logistics/package-weight/18-kg/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1439,18 +1500,6 @@
           "valueType": "enum",
           "numericValue": 0.28,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "18-kg",
-          "valueLabel": "18 kg",
-          "href": "/attributes/logistics/weight/18-kg/",
-          "valueType": "enum",
-          "numericValue": 18,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1503,7 +1552,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Headboard, Grey, 140 cm",
+      "title": "Moon Gold Headboard, Light grey, 140 cm",
       "summary": "Grey fabric, 140 cm width with five rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -1514,7 +1563,7 @@
   {
     "sku": "197817",
     "name": "197817",
-    "title": "Moon Gold Headboard, Grey, 160 cm",
+    "title": "Moon Gold Headboard, Light grey, 160 cm",
     "variantSummary": "160 cm / Grey",
     "shortDescription": "Grey fabric, 160 cm width with five rows of buttons.",
     "selectionAttributes": {
@@ -1522,19 +1571,26 @@
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Light grey",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
-    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
+    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2-mood.avif",
+    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2-mood.avif",
     "imageUrls": [
-      "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
-      "/products/headboards/moon-gold/moon_gold_headboard_grey_2.jpg",
-      "/products/headboards/moon-gold/197817_1.avif"
+      "/products/headboards/moon-gold/moon_gold_headboard_grey_2-mood.avif",
+      "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif"
     ],
     "href": "/products/headboards/moon-gold/197817",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Headboard, Grey, 160 cm Grey fabric, 160 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Grey Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 160 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.32 m³ m³ Logistics Weight 10 kg kg Logistics Weight 20 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Headboard, Light grey, 160 cm Grey fabric, 160 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Grey Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 160 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 10 kg kg Logistics Product count 1 product product Logistics Volume 0.32 m³ m³ Logistics Weight 20 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1635,6 +1691,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "10-kg",
+          "valueLabel": "10 kg",
+          "href": "/attributes/logistics/package-weight/10-kg/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1655,18 +1723,6 @@
           "valueType": "enum",
           "numericValue": 0.32,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "10-kg",
-          "valueLabel": "10 kg",
-          "href": "/attributes/logistics/weight/10-kg/",
-          "valueType": "enum",
-          "numericValue": 10,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1719,7 +1775,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Headboard, Grey, 160 cm",
+      "title": "Moon Gold Headboard, Light grey, 160 cm",
       "summary": "Grey fabric, 160 cm width with five rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -1730,7 +1786,7 @@
   {
     "sku": "197818",
     "name": "197818",
-    "title": "Moon Gold Headboard, Grey, 180 cm",
+    "title": "Moon Gold Headboard, Light grey, 180 cm",
     "variantSummary": "180 cm / Grey",
     "shortDescription": "Grey fabric, 180 cm width with five rows of buttons.",
     "selectionAttributes": {
@@ -1738,19 +1794,26 @@
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Light grey",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
-    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
+    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2-mood.avif",
+    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2-mood.avif",
     "imageUrls": [
-      "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
-      "/products/headboards/moon-gold/moon_gold_headboard_grey_2.jpg",
-      "/products/headboards/moon-gold/197818_1.avif"
+      "/products/headboards/moon-gold/moon_gold_headboard_grey_2-mood.avif",
+      "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif"
     ],
     "href": "/products/headboards/moon-gold/197818",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Headboard, Grey, 180 cm Grey fabric, 180 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Grey Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 180 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 21 kg kg Logistics Weight 21.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Headboard, Light grey, 180 cm Grey fabric, 180 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Grey Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 180 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 21 kg kg Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 21.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1851,6 +1914,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "21-kg",
+          "valueLabel": "21 kg",
+          "href": "/attributes/logistics/package-weight/21-kg/",
+          "valueType": "enum",
+          "numericValue": 21,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1871,18 +1946,6 @@
           "valueType": "enum",
           "numericValue": 0.35,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "21-kg",
-          "valueLabel": "21 kg",
-          "href": "/attributes/logistics/weight/21-kg/",
-          "valueType": "enum",
-          "numericValue": 21,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1935,7 +1998,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Headboard, Grey, 180 cm",
+      "title": "Moon Gold Headboard, Light grey, 180 cm",
       "summary": "Grey fabric, 180 cm width with five rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -1946,7 +2009,7 @@
   {
     "sku": "197819",
     "name": "197819",
-    "title": "Moon Gold Headboard, Grey, 200 cm",
+    "title": "Moon Gold Headboard, Light grey, 200 cm",
     "variantSummary": "200 cm / Grey",
     "shortDescription": "Grey fabric, 200 cm width with five rows of buttons.",
     "selectionAttributes": {
@@ -1954,19 +2017,26 @@
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Light grey",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
-    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
+    "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2-mood.avif",
+    "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_grey_2-mood.avif",
     "imageUrls": [
-      "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif",
-      "/products/headboards/moon-gold/moon_gold_headboard_grey_2.jpg",
-      "/products/headboards/moon-gold/197819_1.avif"
+      "/products/headboards/moon-gold/moon_gold_headboard_grey_2-mood.avif",
+      "/products/headboards/moon-gold/moon_gold_headboard_grey_2.avif"
     ],
     "href": "/products/headboards/moon-gold/197819",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Headboard, Grey, 200 cm Grey fabric, 200 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Grey Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.4 m³ m³ Logistics Weight 10 kg kg Logistics Weight 23 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Headboard, Light grey, 200 cm Grey fabric, 200 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Grey Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 10 kg kg Logistics Product count 1 product product Logistics Volume 0.4 m³ m³ Logistics Weight 23 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2067,6 +2137,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "10-kg",
+          "valueLabel": "10 kg",
+          "href": "/attributes/logistics/package-weight/10-kg/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2087,18 +2169,6 @@
           "valueType": "enum",
           "numericValue": 0.4,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "10-kg",
-          "valueLabel": "10 kg",
-          "href": "/attributes/logistics/weight/10-kg/",
-          "valueType": "enum",
-          "numericValue": 10,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2151,7 +2221,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Headboard, Grey, 200 cm",
+      "title": "Moon Gold Headboard, Light grey, 200 cm",
       "summary": "Grey fabric, 200 cm width with five rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -2162,27 +2232,33 @@
   {
     "sku": "197820",
     "name": "197820",
-    "title": "Moon Gold Headboard, Black, 120 cm",
-    "variantSummary": "120 cm / Black",
+    "title": "Moon Gold Headboard, Anthracite, 120 cm",
+    "variantSummary": "120 cm / Grey",
     "shortDescription": "Anthracite fabric, 120 cm width with five rows of buttons.",
     "selectionAttributes": {
       "dimensions": "120 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Black",
-      "material": "Fabric"
+      "color": "Grey",
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Anthracite",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
     "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
     "imageUrls": [
-      "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
-      "/products/headboards/moon-gold/moon_gold_headboard_black_2.jpg",
-      "/products/headboards/moon-gold/197820_1.avif"
+      "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif"
     ],
     "href": "/products/headboards/moon-gold/197820",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Headboard, Black, 120 cm Anthracite fabric, 120 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Black Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 120 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.24 m³ m³ Logistics Weight 15 kg kg Logistics Weight 17 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Headboard, Anthracite, 120 cm Anthracite fabric, 120 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Grey Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 120 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 17 kg kg Logistics Product count 1 product product Logistics Volume 0.24 m³ m³ Logistics Weight 15 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2206,9 +2282,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -2283,6 +2359,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2314,18 +2402,6 @@
           "href": "/attributes/logistics/weight/15-kg/",
           "valueType": "enum",
           "numericValue": 15,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "17-kg",
-          "valueLabel": "17 kg",
-          "href": "/attributes/logistics/weight/17-kg/",
-          "valueType": "enum",
-          "numericValue": 17,
           "unit": "kg"
         },
         {
@@ -2367,7 +2443,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Headboard, Black, 120 cm",
+      "title": "Moon Gold Headboard, Anthracite, 120 cm",
       "summary": "Anthracite fabric, 120 cm width with five rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -2378,27 +2454,33 @@
   {
     "sku": "197821",
     "name": "197821",
-    "title": "Moon Gold Headboard, Black, 140 cm",
-    "variantSummary": "140 cm / Black",
+    "title": "Moon Gold Headboard, Anthracite, 140 cm",
+    "variantSummary": "140 cm / Grey",
     "shortDescription": "Anthracite fabric, 140 cm width with five rows of buttons.",
     "selectionAttributes": {
       "dimensions": "140 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Black",
-      "material": "Fabric"
+      "color": "Grey",
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Anthracite",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
     "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
     "imageUrls": [
-      "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
-      "/products/headboards/moon-gold/moon_gold_headboard_black_2.jpg",
-      "/products/headboards/moon-gold/197821_1.avif"
+      "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif"
     ],
     "href": "/products/headboards/moon-gold/197821",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Headboard, Black, 140 cm Anthracite fabric, 140 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Black Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 140 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.27 m³ m³ Logistics Weight 18.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Headboard, Anthracite, 140 cm Anthracite fabric, 140 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Grey Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 140 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.27 m³ m³ Logistics Weight 18.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2422,9 +2504,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -2571,7 +2653,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Headboard, Black, 140 cm",
+      "title": "Moon Gold Headboard, Anthracite, 140 cm",
       "summary": "Anthracite fabric, 140 cm width with five rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -2582,27 +2664,33 @@
   {
     "sku": "197822",
     "name": "197822",
-    "title": "Moon Gold Headboard, Black, 160 cm",
-    "variantSummary": "160 cm / Black",
+    "title": "Moon Gold Headboard, Anthracite, 160 cm",
+    "variantSummary": "160 cm / Grey",
     "shortDescription": "Anthracite fabric, 160 cm width with five rows of buttons.",
     "selectionAttributes": {
       "dimensions": "160 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Black",
-      "material": "Fabric"
+      "color": "Grey",
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Anthracite",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
     "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
     "imageUrls": [
-      "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
-      "/products/headboards/moon-gold/moon_gold_headboard_black_2.jpg",
-      "/products/headboards/moon-gold/197822_1.avif"
+      "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif"
     ],
     "href": "/products/headboards/moon-gold/197822",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Headboard, Black, 160 cm Anthracite fabric, 160 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Black Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 160 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.34 m³ m³ Logistics Weight 20 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Headboard, Anthracite, 160 cm Anthracite fabric, 160 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Grey Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 160 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.34 m³ m³ Logistics Weight 20 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2626,9 +2714,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -2775,7 +2863,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Headboard, Black, 160 cm",
+      "title": "Moon Gold Headboard, Anthracite, 160 cm",
       "summary": "Anthracite fabric, 160 cm width with five rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -2786,27 +2874,33 @@
   {
     "sku": "197823",
     "name": "197823",
-    "title": "Moon Gold Headboard, Black, 180 cm",
-    "variantSummary": "180 cm / Black",
+    "title": "Moon Gold Headboard, Anthracite, 180 cm",
+    "variantSummary": "180 cm / Grey",
     "shortDescription": "Anthracite fabric, 180 cm width with five rows of buttons.",
     "selectionAttributes": {
       "dimensions": "180 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Black",
-      "material": "Fabric"
+      "color": "Grey",
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Anthracite",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
     "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
     "imageUrls": [
-      "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
-      "/products/headboards/moon-gold/moon_gold_headboard_black_2.jpg",
-      "/products/headboards/moon-gold/197823_1.avif"
+      "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif"
     ],
     "href": "/products/headboards/moon-gold/197823",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Headboard, Black, 180 cm Anthracite fabric, 180 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Black Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 180 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 21 kg kg Logistics Weight 21.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Headboard, Anthracite, 180 cm Anthracite fabric, 180 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Grey Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 180 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 21 kg kg Logistics Product count 1 product product Logistics Volume 0.35 m³ m³ Logistics Weight 21.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2830,9 +2924,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -2907,6 +3001,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "21-kg",
+          "valueLabel": "21 kg",
+          "href": "/attributes/logistics/package-weight/21-kg/",
+          "valueType": "enum",
+          "numericValue": 21,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2927,18 +3033,6 @@
           "valueType": "enum",
           "numericValue": 0.35,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "21-kg",
-          "valueLabel": "21 kg",
-          "href": "/attributes/logistics/weight/21-kg/",
-          "valueType": "enum",
-          "numericValue": 21,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2991,7 +3085,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Headboard, Black, 180 cm",
+      "title": "Moon Gold Headboard, Anthracite, 180 cm",
       "summary": "Anthracite fabric, 180 cm width with five rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -3002,27 +3096,33 @@
   {
     "sku": "197824",
     "name": "197824",
-    "title": "Moon Gold Headboard, Black, 200 cm",
-    "variantSummary": "200 cm / Black",
+    "title": "Moon Gold Headboard, Anthracite, 200 cm",
+    "variantSummary": "200 cm / Grey",
     "shortDescription": "Anthracite fabric, 200 cm width with five rows of buttons.",
     "selectionAttributes": {
       "dimensions": "200 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Black",
-      "material": "Fabric"
+      "color": "Grey",
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Anthracite",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
     "imageUrl": "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
     "imageUrls": [
-      "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif",
-      "/products/headboards/moon-gold/moon_gold_headboard_black_2.jpg",
-      "/products/headboards/moon-gold/197824_1.avif"
+      "/products/headboards/moon-gold/moon_gold_headboard_black_2.avif"
     ],
     "href": "/products/headboards/moon-gold/197824",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Headboard, Black, 200 cm Anthracite fabric, 200 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Black Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 23 kg kg Logistics Weight 25.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Headboard, Anthracite, 200 cm Anthracite fabric, 200 cm width with five rows of buttons. Headboards Bedroom Moon Gold Bedroom Headboards Moon Gold Grey Fabric Dimensions Depth 11 cm cm Dimensions Height 120 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 25.5 kg kg Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 23 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -3046,9 +3146,9 @@
       ],
       "colors": [
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -3123,6 +3223,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-5-kg",
+          "valueLabel": "25.5 kg",
+          "href": "/attributes/logistics/package-weight/25-5-kg/",
+          "valueType": "enum",
+          "numericValue": 25.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -3154,18 +3266,6 @@
           "href": "/attributes/logistics/weight/23-kg/",
           "valueType": "enum",
           "numericValue": 23,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "25-5-kg",
-          "valueLabel": "25.5 kg",
-          "href": "/attributes/logistics/weight/25-5-kg/",
-          "valueType": "enum",
-          "numericValue": 25.5,
           "unit": "kg"
         },
         {
@@ -3207,7 +3307,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Headboard, Black, 200 cm",
+      "title": "Moon Gold Headboard, Anthracite, 200 cm",
       "summary": "Anthracite fabric, 200 cm width with five rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",

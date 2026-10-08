@@ -1,0 +1,79 @@
+{
+  "familyTitle": "Bacoli",
+  "familySummary": "Bacoli offers a natural oak TV stand with a wide 200 cm format and a clean, low-profile presence for the living room.",
+  "familyDescription": "The Bacoli family is designed for TV storage in a natural oak look, combining a broad surface with a low, streamlined profile. It suits living room setups that call for a practical media base with a calm, understated appearance. This TV stand measures 200 × 45 × 55 cm and is made from Particle board, MDF, Melamine, Plywood, Wood veneer.",
+  "primaryImageUrl": "/products/tv-stands/bacoli/209392_1.avif",
+  "schemaCategory": "TV Stands",
+  "variantCount": 1,
+  "productFamilyName": "Bacoli",
+  "productFamilyKey": "bacoli",
+  "productFamilyRelativeDir": "families/bacoli",
+  "filterData": {
+    "searchText": "Bacoli Bacoli offers a natural oak TV stand with a wide 200 cm format and a clean, low-profile presence for the living room. TV Stands Home Details Bacoli Home Details TV Stands Bacoli Beige MDF Melamine Particle board Plywood Wood veneer",
+    "collections": [
+      {
+        "key": "home-details",
+        "label": "Home Details",
+        "href": "/collections/storage-shelving"
+      }
+    ],
+    "categories": [
+      {
+        "key": "tv-stands",
+        "label": "TV Stands",
+        "href": "/products/tv-stands/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "bacoli",
+        "label": "Bacoli",
+        "href": "/families/bacoli/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "beige",
+        "label": "Beige",
+        "href": "/colors/beige/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "mdf",
+        "label": "MDF",
+        "href": "/materials/mdf/"
+      },
+      {
+        "key": "melamine",
+        "label": "Melamine",
+        "href": "/materials/melamine/"
+      },
+      {
+        "key": "particle-board",
+        "label": "Particle board",
+        "href": "/materials/particle-board/"
+      },
+      {
+        "key": "plywood",
+        "label": "Plywood",
+        "href": "/materials/plywood/"
+      },
+      {
+        "key": "wood-veneer",
+        "label": "Wood veneer",
+        "href": "/materials/wood-veneer/"
+      }
+    ],
+    "specifications": [],
+    "attributes": []
+  },
+  "sortData": {
+    "title": "Bacoli",
+    "summary": "Bacoli offers a natural oak TV stand with a wide 200 cm format and a clean, low-profile presence for the living room.",
+    "variantCount": 1,
+    "categoryLabel": "TV Stands",
+    "collectionLabel": "Home Details",
+    "productFamilyLabel": "Bacoli"
+  }
+}

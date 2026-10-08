@@ -2,35 +2,43 @@
   {
     "sku": "198063",
     "name": "198063",
-    "title": "Mystery Cabinets Display, 150 x 40 cm",
-    "variantSummary": "150 x 40 cm / Black",
+    "title": "Mystery Shelf, 150 cm",
+    "variantSummary": "150 cm / Black",
     "shortDescription": "Black, 150 cm wide with metal frame and oak veneer shelves.",
     "selectionAttributes": {
-      "dimensions": "150 x 40 cm",
+      "dimensions": "150 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Black",
-      "material": "Metal, Wood veneer, Oak"
+      "material": "Metal, Wood veneer, Oak",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Shelf",
+      "colorLabel": "Black",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
-    "imageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+    "primaryImageUrl": "/products/shelves/mystery/198063_9.avif",
+    "imageUrl": "/products/shelves/mystery/198063_9.avif",
     "imageUrls": [
+      "/products/shelves/mystery/198063_9.avif",
+      "/products/shelves/mystery/198063_2.avif",
+      "/products/shelves/mystery/198063_11.avif",
+      "/products/shelves/mystery/198063_10.avif",
       "/products/shelves/mystery/mystery_shelf_black_4.avif",
       "/products/shelves/mystery/mystery_shelf_black_5.avif",
       "/products/shelves/mystery/198063_1.avif",
-      "/products/shelves/mystery/198063_2.avif",
       "/products/shelves/mystery/198063_3.avif",
       "/products/shelves/mystery/198063_4.avif",
       "/products/shelves/mystery/198063_7.avif",
-      "/products/shelves/mystery/198063_8.avif",
-      "/products/shelves/mystery/198063_9.avif",
-      "/products/shelves/mystery/198063_10.jpg",
-      "/products/shelves/mystery/198063_11.avif"
+      "/products/shelves/mystery/198063_8.avif"
     ],
     "href": "/products/shelves/mystery/198063",
     "type": "file",
     "filterData": {
-      "searchText": "Mystery Cabinets Display, 150 x 40 cm Black, 150 cm wide with metal frame and oak veneer shelves. Shelves Home Details Mystery Home Details Shelves Mystery Black Metal Oak Wood veneer Dimensions Depth 40 cm cm Dimensions Height 154 cm cm Dimensions Width 150 cm cm Load Maximum load 100 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Weight 8 kg kg Logistics Weight 40 kg kg Setup Assembly time 45 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Mystery Shelf, 150 cm Black, 150 cm wide with metal frame and oak veneer shelves. Shelves Home Details Mystery Home Details Shelves Mystery Black Metal Oak Wood veneer Dimensions Depth 40 cm cm Dimensions Height 154 cm cm Dimensions Width 150 cm cm Load Maximum load 100 kg kg Logistics Package count 1 package package Logistics Package weight 8 kg kg Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Weight 40 kg kg Setup Assembly time 45 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -141,6 +149,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "8-kg",
+          "valueLabel": "8 kg",
+          "href": "/attributes/logistics/package-weight/8-kg/",
+          "valueType": "enum",
+          "numericValue": 8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -161,18 +181,6 @@
           "valueType": "enum",
           "numericValue": 0.04,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "8-kg",
-          "valueLabel": "8 kg",
-          "href": "/attributes/logistics/weight/8-kg/",
-          "valueType": "enum",
-          "numericValue": 8,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -225,7 +233,7 @@
       ]
     },
     "sortData": {
-      "title": "Mystery Cabinets Display, 150 x 40 cm",
+      "title": "Mystery Shelf, 150 cm",
       "summary": "Black, 150 cm wide with metal frame and oak veneer shelves.",
       "variantCount": 1,
       "categoryLabel": "Shelves",
@@ -236,32 +244,40 @@
   {
     "sku": "198064",
     "name": "198064",
-    "title": "Mystery Cabinets Display, 120 x 40 cm",
-    "variantSummary": "120 x 40 cm / Black",
+    "title": "Mystery Shelf, 120 cm",
+    "variantSummary": "120 cm / Black",
     "shortDescription": "Black, 120 cm wide with metal frame and oak veneer shelves.",
     "selectionAttributes": {
-      "dimensions": "120 x 40 cm",
+      "dimensions": "120 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Black",
-      "material": "Metal, Wood veneer, Oak"
+      "material": "Metal, Wood veneer, Oak",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Shelf",
+      "colorLabel": "Black",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
-    "imageUrl": "/products/shelves/mystery/mystery_shelf_black_4.avif",
+    "primaryImageUrl": "/products/shelves/mystery/198064_6.avif",
+    "imageUrl": "/products/shelves/mystery/198064_6.avif",
     "imageUrls": [
-      "/products/shelves/mystery/mystery_shelf_black_4.avif",
-      "/products/shelves/mystery/mystery_shelf_black_5.avif",
-      "/products/shelves/mystery/198064_1.avif",
-      "/products/shelves/mystery/198064_2.avif",
-      "/products/shelves/mystery/198064_3.avif",
       "/products/shelves/mystery/198064_6.avif",
       "/products/shelves/mystery/198064_7.avif",
-      "/products/shelves/mystery/198064_8.jpg"
+      "/products/shelves/mystery/198064_2.avif",
+      "/products/shelves/mystery/mystery_shelf_black_4.avif",
+      "/products/shelves/mystery/mystery_shelf_black_5.avif",
+      "/products/shelves/mystery/198064_8.avif",
+      "/products/shelves/mystery/198064_1.avif",
+      "/products/shelves/mystery/198064_3.avif"
     ],
     "href": "/products/shelves/mystery/198064",
     "type": "file",
     "filterData": {
-      "searchText": "Mystery Cabinets Display, 120 x 40 cm Black, 120 cm wide with metal frame and oak veneer shelves. Shelves Home Details Mystery Home Details Shelves Mystery Black Metal Oak Wood veneer Dimensions Depth 40 cm cm Dimensions Height 154 cm cm Dimensions Width 120 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.17 m³ m³ Logistics Weight 31 kg kg Logistics Weight 36 kg kg Setup Assembly time 45 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Mystery Shelf, 120 cm Black, 120 cm wide with metal frame and oak veneer shelves. Shelves Home Details Mystery Home Details Shelves Mystery Black Metal Oak Wood veneer Dimensions Depth 40 cm cm Dimensions Height 154 cm cm Dimensions Width 120 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Package weight 36 kg kg Logistics Product count 1 product product Logistics Volume 0.17 m³ m³ Logistics Weight 31 kg kg Setup Assembly time 45 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -372,6 +388,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "36-kg",
+          "valueLabel": "36 kg",
+          "href": "/attributes/logistics/package-weight/36-kg/",
+          "valueType": "enum",
+          "numericValue": 36,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -403,18 +431,6 @@
           "href": "/attributes/logistics/weight/31-kg/",
           "valueType": "enum",
           "numericValue": 31,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "36-kg",
-          "valueLabel": "36 kg",
-          "href": "/attributes/logistics/weight/36-kg/",
-          "valueType": "enum",
-          "numericValue": 36,
           "unit": "kg"
         },
         {
@@ -456,7 +472,7 @@
       ]
     },
     "sortData": {
-      "title": "Mystery Cabinets Display, 120 x 40 cm",
+      "title": "Mystery Shelf, 120 cm",
       "summary": "Black, 120 cm wide with metal frame and oak veneer shelves.",
       "variantCount": 1,
       "categoryLabel": "Shelves",

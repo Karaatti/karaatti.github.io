@@ -2,25 +2,33 @@
   {
     "sku": "209199",
     "name": "209199",
-    "title": "Westcoast Modular Sofa, Beige",
-    "variantSummary": "21 x 62 cm / Beige",
+    "title": "Westcoast Neck Support, Beige",
+    "variantSummary": "21 × 62 cm / Beige",
     "shortDescription": "Beige colour polyester neck support cushion with easy attachment.",
     "selectionAttributes": {
-      "dimensions": "21 x 62 cm",
+      "dimensions": "21 × 62 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Neck support",
+      "colorLabel": "Beige",
+      "colorNote": "Sand",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/sofa-accessories/westcoast/209199_1.jpg",
-    "imageUrl": "/products/sofa-accessories/westcoast/209199_1.jpg",
+    "primaryImageUrl": "/products/sofa-accessories/westcoast/209199_1.avif",
+    "imageUrl": "/products/sofa-accessories/westcoast/209199_1.avif",
     "imageUrls": [
-      "/products/sofa-accessories/westcoast/209199_1.jpg"
+      "/products/sofa-accessories/westcoast/209199_1.avif"
     ],
     "href": "/products/sofa-accessories/westcoast/209199",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Modular Sofa, Beige Beige colour polyester neck support cushion with easy attachment. Sofa Accessories Living room Westcoast Living room Sofa Accessories Westcoast Beige Polyester Dimensions Depth 62 cm cm Dimensions Height 21 cm cm Dimensions Width 21 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Weight 2 kg kg Setup Assembly time 10 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Neck Support, Beige Beige colour polyester neck support cushion with easy attachment. Sofa Accessories Living room Westcoast Living room Sofa Accessories Westcoast Beige Polyester Dimensions Depth 62 cm cm Dimensions Height 21 cm cm Dimensions Width 21 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Weight 2 kg kg Setup Assembly time 10 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -205,7 +213,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Modular Sofa, Beige",
+      "title": "Westcoast Neck Support, Beige",
       "summary": "Beige colour polyester neck support cushion with easy attachment.",
       "variantCount": 1,
       "categoryLabel": "Sofa Accessories",
@@ -216,15 +224,23 @@
   {
     "sku": "209200",
     "name": "209200",
-    "title": "Westcoast Modular Sofa, Brown",
-    "variantSummary": "21 x 62 cm / Brown",
+    "title": "Westcoast Neck Support, Brown",
+    "variantSummary": "21 × 62 cm / Brown",
     "shortDescription": "Brown colour polyester neck support cushion with easy attachment.",
     "selectionAttributes": {
-      "dimensions": "21 x 62 cm",
+      "dimensions": "21 × 62 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Brown",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Neck support",
+      "colorLabel": "Brown",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/sofa-accessories/westcoast/209200_1.avif",
     "imageUrl": "/products/sofa-accessories/westcoast/209200_1.avif",
@@ -234,7 +250,7 @@
     "href": "/products/sofa-accessories/westcoast/209200",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Modular Sofa, Brown Brown colour polyester neck support cushion with easy attachment. Sofa Accessories Living room Westcoast Living room Sofa Accessories Westcoast Brown Polyester Dimensions Depth 62 cm cm Dimensions Height 21 cm cm Dimensions Width 21 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Weight 2 kg kg Setup Assembly time 10 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Neck Support, Brown Brown colour polyester neck support cushion with easy attachment. Sofa Accessories Living room Westcoast Living room Sofa Accessories Westcoast Brown Polyester Dimensions Depth 62 cm cm Dimensions Height 21 cm cm Dimensions Width 21 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Weight 2 kg kg Setup Assembly time 10 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -419,7 +435,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Modular Sofa, Brown",
+      "title": "Westcoast Neck Support, Brown",
       "summary": "Brown colour polyester neck support cushion with easy attachment.",
       "variantCount": 1,
       "categoryLabel": "Sofa Accessories",
@@ -430,15 +446,23 @@
   {
     "sku": "209201",
     "name": "209201",
-    "title": "Westcoast Modular Sofa, Grey",
-    "variantSummary": "21 x 62 cm / Grey",
+    "title": "Westcoast Neck Support, Grey",
+    "variantSummary": "21 × 62 cm / Grey",
     "shortDescription": "Grey colour polyester neck support cushion with easy attachment.",
     "selectionAttributes": {
-      "dimensions": "21 x 62 cm",
+      "dimensions": "21 × 62 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Neck support",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/sofa-accessories/westcoast/209201_1.avif",
     "imageUrl": "/products/sofa-accessories/westcoast/209201_1.avif",
@@ -448,7 +472,7 @@
     "href": "/products/sofa-accessories/westcoast/209201",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Modular Sofa, Grey Grey colour polyester neck support cushion with easy attachment. Sofa Accessories Living room Westcoast Living room Sofa Accessories Westcoast Grey Polyester Dimensions Depth 62 cm cm Dimensions Height 21 cm cm Dimensions Width 21 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Weight 2 kg kg Setup Assembly time 10 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Neck Support, Grey Grey colour polyester neck support cushion with easy attachment. Sofa Accessories Living room Westcoast Living room Sofa Accessories Westcoast Grey Polyester Dimensions Depth 62 cm cm Dimensions Height 21 cm cm Dimensions Width 21 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.04 m³ m³ Logistics Weight 2 kg kg Setup Assembly time 10 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -633,7 +657,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Modular Sofa, Grey",
+      "title": "Westcoast Neck Support, Grey",
       "summary": "Grey colour polyester neck support cushion with easy attachment.",
       "variantCount": 1,
       "categoryLabel": "Sofa Accessories",

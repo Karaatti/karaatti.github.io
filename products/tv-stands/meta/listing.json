@@ -1,0 +1,69 @@
+{
+  "familyTitle": "Meta",
+  "familySummary": "Meta TV stands offer a wide 180 cm profile for media setups, with a lowboard format and a clean wood-veneer look.",
+  "familyDescription": "The Meta TV Stand family is designed as a lowboard for living room media storage and display. Both pieces measure 180 × 40 × 55.6 cm and are made from MDF, Wood veneer, giving the range a pared-back, natural material character. One version highlights a natural oak look, while the other brings a darker brown tone inspired by dark espresso oak. The shared proportions suit larger televisions and help create a balanced, horizontal presence in the room.",
+  "primaryImageUrl": "/products/tv-stands/meta/209403_1.avif",
+  "schemaCategory": "TV Stands",
+  "variantCount": 2,
+  "productFamilyName": "Meta",
+  "productFamilyKey": "meta",
+  "productFamilyRelativeDir": "families/meta",
+  "filterData": {
+    "searchText": "Meta Meta TV stands offer a wide 180 cm profile for media setups, with a lowboard format and a clean wood-veneer look. TV Stands Home Details Meta Home Details TV Stands Meta Beige Brown MDF Wood veneer",
+    "collections": [
+      {
+        "key": "home-details",
+        "label": "Home Details",
+        "href": "/collections/storage-shelving"
+      }
+    ],
+    "categories": [
+      {
+        "key": "tv-stands",
+        "label": "TV Stands",
+        "href": "/products/tv-stands/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "meta",
+        "label": "Meta",
+        "href": "/families/meta/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "beige",
+        "label": "Beige",
+        "href": "/colors/beige/"
+      },
+      {
+        "key": "brown",
+        "label": "Brown",
+        "href": "/colors/brown/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "mdf",
+        "label": "MDF",
+        "href": "/materials/mdf/"
+      },
+      {
+        "key": "wood-veneer",
+        "label": "Wood veneer",
+        "href": "/materials/wood-veneer/"
+      }
+    ],
+    "specifications": [],
+    "attributes": []
+  },
+  "sortData": {
+    "title": "Meta",
+    "summary": "Meta TV stands offer a wide 180 cm profile for media setups, with a lowboard format and a clean wood-veneer look.",
+    "variantCount": 2,
+    "categoryLabel": "TV Stands",
+    "collectionLabel": "Home Details",
+    "productFamilyLabel": "Meta"
+  }
+}

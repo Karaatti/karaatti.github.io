@@ -1,6 +1,7 @@
 {
   "familyTitle": "Eagle Fixed Armchair",
   "familySummary": "A modern armchair with a natural wood frame and soft upholstery, designed for comfort and understated style.",
+  "familyDescription": "The Eagle armchair features a natural wood frame combined with fabric or faux leather upholstery. Its minimalist design suits various interiors, offering a comfortable and practical seating option for everyday use.",
   "primaryImageUrl": "/products/armchairs/eagle/198077_1.avif",
   "schemaCategory": "Fixed Armchairs",
   "variantCount": 3,
@@ -8,7 +9,7 @@
   "productFamilyKey": "eagle",
   "productFamilyRelativeDir": "families/eagle",
   "filterData": {
-    "searchText": "Eagle Fixed Armchair A modern armchair with a natural wood frame and soft upholstery, designed for comfort and understated style. Armchairs Living room Eagle Living room Armchairs Eagle Beige Black Brown Fabric Faux leather Oak Plywood Dimensions Depth 72 cm cm Dimensions Height 71 cm cm Dimensions Width 75 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.41 m³ m³ Logistics Weight 11 kg kg Logistics Weight 16.5 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+    "searchText": "Eagle Fixed Armchair A modern armchair with a natural wood frame and soft upholstery, designed for comfort and understated style. Armchairs Living room Eagle Living room Armchairs Eagle Beige Black Brown Fabric Faux leather Oak Plywood Dimensions Depth 72 cm cm Dimensions Height 71 cm cm Dimensions Width 75 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Package weight 16.5 kg kg Logistics Product count 1 product product Logistics Volume 0.41 m³ m³ Logistics Weight 11 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "living-room",
@@ -134,6 +135,18 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "16-5-kg",
+        "valueLabel": "16.5 kg",
+        "href": "/attributes/logistics/package-weight/16-5-kg/",
+        "valueType": "enum",
+        "numericValue": 16.5,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "1-product",
@@ -165,18 +178,6 @@
         "href": "/attributes/logistics/weight/11-kg/",
         "valueType": "enum",
         "numericValue": 11,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "16-5-kg",
-        "valueLabel": "16.5 kg",
-        "href": "/attributes/logistics/weight/16-5-kg/",
-        "valueType": "enum",
-        "numericValue": 16.5,
         "unit": "kg"
       },
       {

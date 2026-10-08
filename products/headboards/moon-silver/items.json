@@ -10,20 +10,26 @@
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
     "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
     "imageUrls": [
       "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.jpg",
-      "/products/headboards/moon-silver/197795_1.avif"
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.avif"
     ],
     "href": "/products/headboards/moon-silver/197795",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver Headboard, Beige, 120 cm 120 cm wide headboard in beige fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 120 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Weight 17 kg kg Logistics Weight 21 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Headboard, Beige, 120 cm 120 cm wide headboard in beige fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 120 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 17 kg kg Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Weight 21 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -124,6 +130,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -144,18 +162,6 @@
           "valueType": "enum",
           "numericValue": 0.15,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "17-kg",
-          "valueLabel": "17 kg",
-          "href": "/attributes/logistics/weight/17-kg/",
-          "valueType": "enum",
-          "numericValue": 17,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -227,20 +233,26 @@
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
     "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
     "imageUrls": [
       "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.jpg",
-      "/products/headboards/moon-silver/197796_1.avif"
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.avif"
     ],
     "href": "/products/headboards/moon-silver/197796",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver Headboard, Beige, 140 cm 140 cm wide headboard in beige fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 140 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.17 m³ m³ Logistics Weight 18 kg kg Logistics Weight 24.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Headboard, Beige, 140 cm 140 cm wide headboard in beige fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 140 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 18 kg kg Logistics Product count 1 product product Logistics Volume 0.17 m³ m³ Logistics Weight 24.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -341,6 +353,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "18-kg",
+          "valueLabel": "18 kg",
+          "href": "/attributes/logistics/package-weight/18-kg/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -361,18 +385,6 @@
           "valueType": "enum",
           "numericValue": 0.17,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "18-kg",
-          "valueLabel": "18 kg",
-          "href": "/attributes/logistics/weight/18-kg/",
-          "valueType": "enum",
-          "numericValue": 18,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -444,20 +456,26 @@
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
     "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
     "imageUrls": [
       "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.jpg",
-      "/products/headboards/moon-silver/197797_1.avif"
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.avif"
     ],
     "href": "/products/headboards/moon-silver/197797",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver Headboard, Beige, 160 cm 160 cm wide headboard in beige fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 160 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.19 m³ m³ Logistics Weight 20 kg kg Logistics Weight 28 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Headboard, Beige, 160 cm 160 cm wide headboard in beige fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 160 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 20 kg kg Logistics Product count 1 product product Logistics Volume 0.19 m³ m³ Logistics Weight 28 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -558,6 +576,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -578,18 +608,6 @@
           "valueType": "enum",
           "numericValue": 0.19,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "20-kg",
-          "valueLabel": "20 kg",
-          "href": "/attributes/logistics/weight/20-kg/",
-          "valueType": "enum",
-          "numericValue": 20,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -661,20 +679,26 @@
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
     "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
     "imageUrls": [
       "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.jpg",
-      "/products/headboards/moon-silver/197798_1.avif"
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.avif"
     ],
     "href": "/products/headboards/moon-silver/197798",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver Headboard, Beige, 180 cm 180 cm wide headboard in beige fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 180 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Weight 15 kg kg Logistics Weight 31.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Headboard, Beige, 180 cm 180 cm wide headboard in beige fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 180 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 15 kg kg Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Weight 31.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -775,6 +799,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "15-kg",
+          "valueLabel": "15 kg",
+          "href": "/attributes/logistics/package-weight/15-kg/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -795,18 +831,6 @@
           "valueType": "enum",
           "numericValue": 0.2,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "15-kg",
-          "valueLabel": "15 kg",
-          "href": "/attributes/logistics/weight/15-kg/",
-          "valueType": "enum",
-          "numericValue": 15,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -878,20 +902,26 @@
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
     "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
     "imageUrls": [
       "/products/headboards/moon-silver/moon_silver_headboard_beige_1.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.jpg",
-      "/products/headboards/moon-silver/197799_1.avif"
+      "/products/headboards/moon-silver/moon_silver_headboard_beige_2.avif"
     ],
     "href": "/products/headboards/moon-silver/197799",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver Headboard, Beige, 200 cm 200 cm wide headboard in beige fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 30 kg kg Logistics Weight 35.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Headboard, Beige, 200 cm 200 cm wide headboard in beige fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Beige Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 30 kg kg Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 35.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -992,6 +1022,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/package-weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1012,18 +1054,6 @@
           "valueType": "enum",
           "numericValue": 0.21,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "30-kg",
-          "valueLabel": "30 kg",
-          "href": "/attributes/logistics/weight/30-kg/",
-          "valueType": "enum",
-          "numericValue": 30,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1087,7 +1117,7 @@
   {
     "sku": "197800",
     "name": "197800",
-    "title": "Moon Silver Headboard, Grey, 120 cm",
+    "title": "Moon Silver Headboard, Light grey, 120 cm",
     "variantSummary": "120 cm / Grey",
     "shortDescription": "120 cm wide headboard in grey fabric with three rows of buttons.",
     "selectionAttributes": {
@@ -1095,20 +1125,27 @@
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Light grey",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
     "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
     "imageUrls": [
       "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.jpg",
-      "/products/headboards/moon-silver/197800_1.avif"
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2-mood.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.avif"
     ],
     "href": "/products/headboards/moon-silver/197800",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver Headboard, Grey, 120 cm 120 cm wide headboard in grey fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 120 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Weight 17 kg kg Logistics Weight 21 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Headboard, Light grey, 120 cm 120 cm wide headboard in grey fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 120 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 17 kg kg Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Weight 21 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1209,6 +1246,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1229,18 +1278,6 @@
           "valueType": "enum",
           "numericValue": 0.15,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "17-kg",
-          "valueLabel": "17 kg",
-          "href": "/attributes/logistics/weight/17-kg/",
-          "valueType": "enum",
-          "numericValue": 17,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1293,7 +1330,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver Headboard, Grey, 120 cm",
+      "title": "Moon Silver Headboard, Light grey, 120 cm",
       "summary": "120 cm wide headboard in grey fabric with three rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -1304,7 +1341,7 @@
   {
     "sku": "197801",
     "name": "197801",
-    "title": "Moon Silver Headboard, Grey, 140 cm",
+    "title": "Moon Silver Headboard, Light grey, 140 cm",
     "variantSummary": "140 cm / Grey",
     "shortDescription": "140 cm wide headboard in grey fabric with three rows of buttons.",
     "selectionAttributes": {
@@ -1312,20 +1349,27 @@
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Light grey",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
     "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
     "imageUrls": [
       "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.jpg",
-      "/products/headboards/moon-silver/197801_1.avif"
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2-mood.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.avif"
     ],
     "href": "/products/headboards/moon-silver/197801",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver Headboard, Grey, 140 cm 140 cm wide headboard in grey fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 140 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.17 m³ m³ Logistics Weight 18 kg kg Logistics Weight 24.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Headboard, Light grey, 140 cm 140 cm wide headboard in grey fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 140 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 18 kg kg Logistics Product count 1 product product Logistics Volume 0.17 m³ m³ Logistics Weight 24.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1426,6 +1470,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "18-kg",
+          "valueLabel": "18 kg",
+          "href": "/attributes/logistics/package-weight/18-kg/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1446,18 +1502,6 @@
           "valueType": "enum",
           "numericValue": 0.17,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "18-kg",
-          "valueLabel": "18 kg",
-          "href": "/attributes/logistics/weight/18-kg/",
-          "valueType": "enum",
-          "numericValue": 18,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1510,7 +1554,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver Headboard, Grey, 140 cm",
+      "title": "Moon Silver Headboard, Light grey, 140 cm",
       "summary": "140 cm wide headboard in grey fabric with three rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -1521,7 +1565,7 @@
   {
     "sku": "197802",
     "name": "197802",
-    "title": "Moon Silver Headboard, Grey, 160 cm",
+    "title": "Moon Silver Headboard, Light grey, 160 cm",
     "variantSummary": "160 cm / Grey",
     "shortDescription": "160 cm wide headboard in grey fabric with three rows of buttons.",
     "selectionAttributes": {
@@ -1529,20 +1573,27 @@
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Light grey",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
     "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
     "imageUrls": [
       "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.jpg",
-      "/products/headboards/moon-silver/197802_1.avif"
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2-mood.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.avif"
     ],
     "href": "/products/headboards/moon-silver/197802",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver Headboard, Grey, 160 cm 160 cm wide headboard in grey fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 160 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Weight 19.8 kg kg Logistics Weight 28 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Headboard, Light grey, 160 cm 160 cm wide headboard in grey fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 160 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 19.8 kg kg Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Weight 28 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1639,6 +1690,18 @@
           "valueType": "enum",
           "numericValue": 1,
           "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "19-8-kg",
+          "valueLabel": "19.8 kg",
+          "href": "/attributes/logistics/package-weight/19-8-kg/",
+          "valueType": "enum",
+          "numericValue": 19.8,
+          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1669,18 +1732,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "19-8-kg",
-          "valueLabel": "19.8 kg",
-          "href": "/attributes/logistics/weight/19-8-kg/",
-          "valueType": "enum",
-          "numericValue": 19.8,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "28-kg",
           "valueLabel": "28 kg",
           "href": "/attributes/logistics/weight/28-kg/",
@@ -1727,7 +1778,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver Headboard, Grey, 160 cm",
+      "title": "Moon Silver Headboard, Light grey, 160 cm",
       "summary": "160 cm wide headboard in grey fabric with three rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -1738,7 +1789,7 @@
   {
     "sku": "197803",
     "name": "197803",
-    "title": "Moon Silver Headboard, Grey, 180 cm",
+    "title": "Moon Silver Headboard, Light grey, 180 cm",
     "variantSummary": "180 cm / Grey",
     "shortDescription": "180 cm wide headboard in grey fabric with three rows of buttons.",
     "selectionAttributes": {
@@ -1746,20 +1797,27 @@
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Light grey",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
     "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
     "imageUrls": [
       "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.jpg",
-      "/products/headboards/moon-silver/197803_1.avif"
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2-mood.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.avif"
     ],
     "href": "/products/headboards/moon-silver/197803",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver Headboard, Grey, 180 cm 180 cm wide headboard in grey fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 180 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 21 kg kg Logistics Weight 31.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Headboard, Light grey, 180 cm 180 cm wide headboard in grey fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 180 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 21 kg kg Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 31.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1860,6 +1918,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "21-kg",
+          "valueLabel": "21 kg",
+          "href": "/attributes/logistics/package-weight/21-kg/",
+          "valueType": "enum",
+          "numericValue": 21,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1880,18 +1950,6 @@
           "valueType": "enum",
           "numericValue": 0.21,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "21-kg",
-          "valueLabel": "21 kg",
-          "href": "/attributes/logistics/weight/21-kg/",
-          "valueType": "enum",
-          "numericValue": 21,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1944,7 +2002,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver Headboard, Grey, 180 cm",
+      "title": "Moon Silver Headboard, Light grey, 180 cm",
       "summary": "180 cm wide headboard in grey fabric with three rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -1955,7 +2013,7 @@
   {
     "sku": "197804",
     "name": "197804",
-    "title": "Moon Silver Headboard, Grey, 200 cm",
+    "title": "Moon Silver Headboard, Light grey, 200 cm",
     "variantSummary": "200 cm / Grey",
     "shortDescription": "200 cm wide headboard in grey fabric with three rows of buttons.",
     "selectionAttributes": {
@@ -1963,20 +2021,27 @@
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Fabric"
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Light grey",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
     "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
     "imageUrls": [
       "/products/headboards/moon-silver/moon_silver_headboard_grey_1.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.jpg",
-      "/products/headboards/moon-silver/197804_1.avif"
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2-mood.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_grey_2.avif"
     ],
     "href": "/products/headboards/moon-silver/197804",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver Headboard, Grey, 200 cm 200 cm wide headboard in grey fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.26 m³ m³ Logistics Weight 30 kg kg Logistics Weight 35.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Headboard, Light grey, 200 cm 200 cm wide headboard in grey fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 30 kg kg Logistics Product count 1 product product Logistics Volume 0.26 m³ m³ Logistics Weight 35.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2077,6 +2142,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/package-weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2097,18 +2174,6 @@
           "valueType": "enum",
           "numericValue": 0.26,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "30-kg",
-          "valueLabel": "30 kg",
-          "href": "/attributes/logistics/weight/30-kg/",
-          "valueType": "enum",
-          "numericValue": 30,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2161,7 +2226,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver Headboard, Grey, 200 cm",
+      "title": "Moon Silver Headboard, Light grey, 200 cm",
       "summary": "200 cm wide headboard in grey fabric with three rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -2172,28 +2237,35 @@
   {
     "sku": "197805",
     "name": "197805",
-    "title": "Moon Silver Headboard, Black, Grey, 120 cm",
-    "variantSummary": "120 cm / Black, Grey",
+    "title": "Moon Silver Headboard, Anthracite, 120 cm",
+    "variantSummary": "120 cm / Grey",
     "shortDescription": "120 cm wide headboard in anthracite fabric with three rows of buttons.",
     "selectionAttributes": {
       "dimensions": "120 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Black, Grey",
-      "material": "Fabric"
+      "color": "Grey",
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Anthracite",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
     "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
     "imageUrls": [
       "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.jpg",
-      "/products/headboards/moon-silver/197805_1.avif"
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2-mood.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.avif"
     ],
     "href": "/products/headboards/moon-silver/197805",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver Headboard, Black, Grey, 120 cm 120 cm wide headboard in anthracite fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Black Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 120 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Weight 17 kg kg Logistics Weight 21 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Headboard, Anthracite, 120 cm 120 cm wide headboard in anthracite fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 120 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 17 kg kg Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Weight 21 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2216,11 +2288,6 @@
         }
       ],
       "colors": [
-        {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
-        },
         {
           "key": "grey",
           "label": "Grey",
@@ -2299,6 +2366,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2319,18 +2398,6 @@
           "valueType": "enum",
           "numericValue": 0.15,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "17-kg",
-          "valueLabel": "17 kg",
-          "href": "/attributes/logistics/weight/17-kg/",
-          "valueType": "enum",
-          "numericValue": 17,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2383,7 +2450,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver Headboard, Black, Grey, 120 cm",
+      "title": "Moon Silver Headboard, Anthracite, 120 cm",
       "summary": "120 cm wide headboard in anthracite fabric with three rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -2394,28 +2461,35 @@
   {
     "sku": "197806",
     "name": "197806",
-    "title": "Moon Silver Headboard, Black, Grey, 140 cm",
-    "variantSummary": "140 cm / Black, Grey",
+    "title": "Moon Silver Headboard, Anthracite, 140 cm",
+    "variantSummary": "140 cm / Grey",
     "shortDescription": "140 cm wide headboard in anthracite fabric with three rows of buttons.",
     "selectionAttributes": {
       "dimensions": "140 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Black, Grey",
-      "material": "Fabric"
+      "color": "Grey",
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Anthracite",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
     "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
     "imageUrls": [
       "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.jpg",
-      "/products/headboards/moon-silver/197806_1.avif"
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2-mood.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.avif"
     ],
     "href": "/products/headboards/moon-silver/197806",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver Headboard, Black, Grey, 140 cm 140 cm wide headboard in anthracite fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Black Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 140 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.17 m³ m³ Logistics Weight 18 kg kg Logistics Weight 24.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Headboard, Anthracite, 140 cm 140 cm wide headboard in anthracite fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 140 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 18 kg kg Logistics Product count 1 product product Logistics Volume 0.17 m³ m³ Logistics Weight 24.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2438,11 +2512,6 @@
         }
       ],
       "colors": [
-        {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
-        },
         {
           "key": "grey",
           "label": "Grey",
@@ -2521,6 +2590,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "18-kg",
+          "valueLabel": "18 kg",
+          "href": "/attributes/logistics/package-weight/18-kg/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2541,18 +2622,6 @@
           "valueType": "enum",
           "numericValue": 0.17,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "18-kg",
-          "valueLabel": "18 kg",
-          "href": "/attributes/logistics/weight/18-kg/",
-          "valueType": "enum",
-          "numericValue": 18,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2605,7 +2674,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver Headboard, Black, Grey, 140 cm",
+      "title": "Moon Silver Headboard, Anthracite, 140 cm",
       "summary": "140 cm wide headboard in anthracite fabric with three rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -2616,28 +2685,35 @@
   {
     "sku": "197807",
     "name": "197807",
-    "title": "Moon Silver Headboard, Black, Grey, 160 cm",
-    "variantSummary": "160 cm / Black, Grey",
+    "title": "Moon Silver Headboard, Anthracite, 160 cm",
+    "variantSummary": "160 cm / Grey",
     "shortDescription": "160 cm wide headboard in anthracite fabric with three rows of buttons.",
     "selectionAttributes": {
       "dimensions": "160 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Black, Grey",
-      "material": "Fabric"
+      "color": "Grey",
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Anthracite",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
     "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
     "imageUrls": [
       "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.jpg",
-      "/products/headboards/moon-silver/197807_1.avif"
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2-mood.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.avif"
     ],
     "href": "/products/headboards/moon-silver/197807",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver Headboard, Black, Grey, 160 cm 160 cm wide headboard in anthracite fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Black Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 160 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.19 m³ m³ Logistics Weight 19.7 kg kg Logistics Weight 28 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Headboard, Anthracite, 160 cm 160 cm wide headboard in anthracite fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 160 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 19.7 kg kg Logistics Product count 1 product product Logistics Volume 0.19 m³ m³ Logistics Weight 28 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2660,11 +2736,6 @@
         }
       ],
       "colors": [
-        {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
-        },
         {
           "key": "grey",
           "label": "Grey",
@@ -2743,6 +2814,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "19-7-kg",
+          "valueLabel": "19.7 kg",
+          "href": "/attributes/logistics/package-weight/19-7-kg/",
+          "valueType": "enum",
+          "numericValue": 19.7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2763,18 +2846,6 @@
           "valueType": "enum",
           "numericValue": 0.19,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "19-7-kg",
-          "valueLabel": "19.7 kg",
-          "href": "/attributes/logistics/weight/19-7-kg/",
-          "valueType": "enum",
-          "numericValue": 19.7,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2827,7 +2898,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver Headboard, Black, Grey, 160 cm",
+      "title": "Moon Silver Headboard, Anthracite, 160 cm",
       "summary": "160 cm wide headboard in anthracite fabric with three rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -2838,28 +2909,35 @@
   {
     "sku": "197808",
     "name": "197808",
-    "title": "Moon Silver Headboard, Black, Grey, 180 cm",
-    "variantSummary": "180 cm / Black, Grey",
+    "title": "Moon Silver Headboard, Anthracite, 180 cm",
+    "variantSummary": "180 cm / Grey",
     "shortDescription": "180 cm wide headboard in anthracite fabric with three rows of buttons.",
     "selectionAttributes": {
       "dimensions": "180 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Black, Grey",
-      "material": "Fabric"
+      "color": "Grey",
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Anthracite",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
     "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
     "imageUrls": [
       "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.jpg",
-      "/products/headboards/moon-silver/197808_1.avif"
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2-mood.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.avif"
     ],
     "href": "/products/headboards/moon-silver/197808",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver Headboard, Black, Grey, 180 cm 180 cm wide headboard in anthracite fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Black Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 180 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 13 kg kg Logistics Weight 31.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Headboard, Anthracite, 180 cm 180 cm wide headboard in anthracite fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 180 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 13 kg kg Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 31.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2882,11 +2960,6 @@
         }
       ],
       "colors": [
-        {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
-        },
         {
           "key": "grey",
           "label": "Grey",
@@ -2965,6 +3038,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "13-kg",
+          "valueLabel": "13 kg",
+          "href": "/attributes/logistics/package-weight/13-kg/",
+          "valueType": "enum",
+          "numericValue": 13,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2985,18 +3070,6 @@
           "valueType": "enum",
           "numericValue": 0.21,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "13-kg",
-          "valueLabel": "13 kg",
-          "href": "/attributes/logistics/weight/13-kg/",
-          "valueType": "enum",
-          "numericValue": 13,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -3049,7 +3122,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver Headboard, Black, Grey, 180 cm",
+      "title": "Moon Silver Headboard, Anthracite, 180 cm",
       "summary": "180 cm wide headboard in anthracite fabric with three rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",
@@ -3060,28 +3133,35 @@
   {
     "sku": "197809",
     "name": "197809",
-    "title": "Moon Silver Headboard, Black, Grey, 200 cm",
-    "variantSummary": "200 cm / Black, Grey",
+    "title": "Moon Silver Headboard, Anthracite, 200 cm",
+    "variantSummary": "200 cm / Grey",
     "shortDescription": "200 cm wide headboard in anthracite fabric with three rows of buttons.",
     "selectionAttributes": {
       "dimensions": "200 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Black, Grey",
-      "material": "Fabric"
+      "color": "Grey",
+      "material": "Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Headboard",
+      "colorLabel": "Anthracite",
+      "colorNote": "",
+      "axisPlan": "dimensions,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
     "imageUrl": "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
     "imageUrls": [
       "/products/headboards/moon-silver/moon_silver_headboard_black_grey_1.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.avif",
-      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.jpg",
-      "/products/headboards/moon-silver/197809_1.avif"
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2-mood.avif",
+      "/products/headboards/moon-silver/moon_silver_headboard_black_grey_2.avif"
     ],
     "href": "/products/headboards/moon-silver/197809",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver Headboard, Black, Grey, 200 cm 200 cm wide headboard in anthracite fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Black Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 30 kg kg Logistics Weight 35.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Silver Headboard, Anthracite, 200 cm 200 cm wide headboard in anthracite fabric with three rows of buttons. Headboards Bedroom Moon Silver Bedroom Headboards Moon Silver Grey Fabric Dimensions Depth 7 cm cm Dimensions Height 130 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 30 kg kg Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 35.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -3104,11 +3184,6 @@
         }
       ],
       "colors": [
-        {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
-        },
         {
           "key": "grey",
           "label": "Grey",
@@ -3187,6 +3262,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/package-weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -3207,18 +3294,6 @@
           "valueType": "enum",
           "numericValue": 0.21,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "30-kg",
-          "valueLabel": "30 kg",
-          "href": "/attributes/logistics/weight/30-kg/",
-          "valueType": "enum",
-          "numericValue": 30,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -3271,7 +3346,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver Headboard, Black, Grey, 200 cm",
+      "title": "Moon Silver Headboard, Anthracite, 200 cm",
       "summary": "200 cm wide headboard in anthracite fabric with three rows of buttons.",
       "variantCount": 1,
       "categoryLabel": "Headboards",

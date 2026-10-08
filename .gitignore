@@ -1,2 +1,17 @@
 tmp/
 .ktools/
+# Source-only product evidence and local review output never enter the public site.
+*.enrichment.json
+*audit*.json
+*audit*.html
+node_modules/
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.log
+*.sqlite
+*.db
+backup/
+evidence/

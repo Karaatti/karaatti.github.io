@@ -5,10 +5,10 @@
     "type": "dir",
     "title": "Nest & Living Gold Pillow",
     "summary": "Pillows designed for a fuller feel, including comfort and quilted options.",
-    "primaryImageUrl": "/products/pillows/nest-living-gold/201094_1.jpg",
+    "primaryImageUrl": "/products/pillows/nest-living-gold/201094_1.avif",
     "sourceHref": "/products/pillows/nest-living-gold/",
     "filterData": {
-      "searchText": "Nest & Living Gold Pillow Pillows designed for a fuller feel, including comfort and quilted options. Pillows Nest & Living Gold Bedroom Pillows Nest & Living Gold Cotton Polyester Care Cleaning method Water wash Dimensions Depth 50 cm cm Dimensions Height 14 cm cm Dimensions Height 16 cm cm Dimensions Width 60 cm cm Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Nest & Living Gold Pillow Pillows designed for a fuller feel, including comfort and quilted options. Pillows Nest & Living Gold Bedroom Pillows Nest & Living Gold White Cotton Polyester Care Cleaning method Water wash Dimensions Depth 50 cm cm Dimensions Height 14 cm cm Dimensions Height 16 cm cm Dimensions Width 60 cm cm Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -30,7 +30,13 @@
           "href": "/families/nest-living-gold/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -158,10 +164,10 @@
     "type": "dir",
     "title": "Nest & Living Silver Pillow",
     "summary": "Pillows for everyday bedroom comfort, including classic and box pillow options.",
-    "primaryImageUrl": "/products/pillows/nest-living-silver/201091_1.jpg",
+    "primaryImageUrl": "/products/pillows/nest-living-silver/201091_1.avif",
     "sourceHref": "/products/pillows/nest-living-silver/",
     "filterData": {
-      "searchText": "Nest & Living Silver Pillow Pillows for everyday bedroom comfort, including classic and box pillow options. Pillows Nest & Living Silver Bedroom Pillows Nest & Living Silver Cotton Polyester Care Cleaning method Water wash Dimensions Depth 50 cm cm Dimensions Depth 52 cm cm Dimensions Height 14 cm cm Dimensions Height 15 cm cm Dimensions Width 60 cm cm Dimensions Width 62 cm cm Logistics Weight 1 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Nest & Living Silver Pillow Pillows for everyday bedroom comfort, including classic and box pillow options. Pillows Nest & Living Silver Bedroom Pillows Nest & Living Silver White Cotton Polyester Care Cleaning method Water wash Dimensions Depth 50 cm cm Dimensions Depth 52 cm cm Dimensions Height 14 cm cm Dimensions Height 15 cm cm Dimensions Width 60 cm cm Dimensions Width 62 cm cm Logistics Weight 1 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -183,7 +189,13 @@
           "href": "/families/nest-living-silver/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -342,15 +354,77 @@
     }
   },
   {
+    "name": "night",
+    "href": "/products/pillows/night/",
+    "type": "dir",
+    "title": "Night",
+    "summary": "Night pillows in white, sized for everyday bedding use and presented in a simple, versatile style.",
+    "primaryImageUrl": "/products/pillows/night/220235_2.avif",
+    "sourceHref": "/products/pillows/night/",
+    "filterData": {
+      "searchText": "Night Night pillows in white, sized for everyday bedding use and presented in a simple, versatile style. Pillows Night Bedroom Pillows Night White Cotton Polyester",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "pillows",
+          "label": "Pillows",
+          "href": "/products/pillows/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "night",
+          "label": "Night",
+          "href": "/families/night/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Night",
+      "summary": "Night pillows in white, sized for everyday bedding use and presented in a simple, versatile style.",
+      "variantCount": 1,
+      "categoryLabel": "Pillows",
+      "collectionLabel": "",
+      "productFamilyLabel": "Night"
+    }
+  },
+  {
     "name": "staycation",
     "href": "/products/pillows/staycation/",
     "type": "dir",
     "title": "Staycation Pillow",
     "summary": "Bedroom pillows from the Staycation series.",
-    "primaryImageUrl": "/products/pillows/staycation/214016_1.jpg",
+    "primaryImageUrl": "/products/pillows/staycation/214016_1.avif",
     "sourceHref": "/products/pillows/staycation/",
     "filterData": {
-      "searchText": "Staycation Pillow Bedroom pillows from the Staycation series. Pillows Staycation Bedroom Pillows Staycation Cotton Feather Mikrofiber Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Depth 60 cm cm Dimensions Height 18 cm cm Dimensions Height 20 cm cm Dimensions Width 60 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 5 product product Logistics Product count 8 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1 kg kg Logistics Weight 7.3 kg kg Logistics Weight 8.3 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Staycation Pillow Staycation pillows bring a simple white look to the bedroom, sized for everyday sleeping comfort and easy pairing with different bedding styles. Pillows Staycation Bedroom Pillows Staycation White Cotton Feather Mikrofiber Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Depth 60 cm cm Dimensions Height 18 cm cm Dimensions Height 20 cm cm Dimensions Width 60 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Package weight 7.3 kg kg Logistics Package weight 8.3 kg kg Logistics Product count 5 product product Logistics Product count 8 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -372,7 +446,13 @@
           "href": "/families/staycation/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -496,6 +576,30 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "7-3-kg",
+          "valueLabel": "7.3 kg",
+          "href": "/attributes/logistics/package-weight/7-3-kg/",
+          "valueType": "enum",
+          "numericValue": 7.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "8-3-kg",
+          "valueLabel": "8.3 kg",
+          "href": "/attributes/logistics/package-weight/8-3-kg/",
+          "valueType": "enum",
+          "numericValue": 8.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "5-product",
@@ -542,30 +646,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "7-3-kg",
-          "valueLabel": "7.3 kg",
-          "href": "/attributes/logistics/weight/7-3-kg/",
-          "valueType": "enum",
-          "numericValue": 7.3,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "8-3-kg",
-          "valueLabel": "8.3 kg",
-          "href": "/attributes/logistics/weight/8-3-kg/",
-          "valueType": "enum",
-          "numericValue": 8.3,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -593,8 +673,8 @@
     },
     "sortData": {
       "title": "Staycation Pillow",
-      "summary": "Bedroom pillows from the Staycation series.",
-      "variantCount": 2,
+      "summary": "Staycation pillows bring a simple white look to the bedroom, sized for everyday sleeping comfort and easy pairing with different bedding styles.",
+      "variantCount": 3,
       "categoryLabel": "Pillows",
       "collectionLabel": "",
       "productFamilyLabel": "Staycation"
@@ -606,10 +686,10 @@
     "type": "dir",
     "title": "Staycomfort Pillow",
     "summary": "Everyday pillows from the Staycomfort series.",
-    "primaryImageUrl": "/products/pillows/staycomfort/214015_1.jpg",
+    "primaryImageUrl": "/products/pillows/staycomfort/214015_2.avif",
     "sourceHref": "/products/pillows/staycomfort/",
     "filterData": {
-      "searchText": "Staycomfort Pillow Everyday pillows from the Staycomfort series. Pillows Staycomfort Bedroom Pillows Staycomfort Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Height 6 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Product count 10 product product Logistics Volume 0.23 m³ m³ Logistics Weight 6.5 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Staycomfort Pillow Everyday pillows from the Staycomfort series. Pillows Staycomfort Bedroom Pillows Staycomfort White Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Height 6 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Package weight 6.5 kg kg Logistics Product count 10 product product Logistics Volume 0.23 m³ m³ Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -631,7 +711,13 @@
           "href": "/families/staycomfort/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -709,6 +795,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "6-5-kg",
+          "valueLabel": "6.5 kg",
+          "href": "/attributes/logistics/package-weight/6-5-kg/",
+          "valueType": "enum",
+          "numericValue": 6.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "10-product",
@@ -729,18 +827,6 @@
           "valueType": "enum",
           "numericValue": 0.23,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "6-5-kg",
-          "valueLabel": "6.5 kg",
-          "href": "/attributes/logistics/weight/6-5-kg/",
-          "valueType": "enum",
-          "numericValue": 6.5,
-          "unit": "kg"
         },
         {
           "groupKey": "setup",
@@ -783,10 +869,10 @@
     "type": "dir",
     "title": "Staycool Pillow",
     "summary": "Cooling pillows and pillow protectors from the Staycool series.",
-    "primaryImageUrl": "/products/pillows/staycool/214012_1.jpg",
+    "primaryImageUrl": "/products/pillows/staycool/214012_2.avif",
     "sourceHref": "/products/pillows/staycool/",
     "filterData": {
-      "searchText": "Staycool Pillow Cooling pillows and pillow protectors from the Staycool series. Pillows Staycool Bedroom Pillows Staycool Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Height 1 cm cm Dimensions Height 15 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Product count 10 product product Logistics Product count 20 product product Logistics Volume 0.04 m³ m³ Logistics Volume 0.22 m³ m³ Logistics Weight 4 kg kg Logistics Weight 9.4 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Staycool Pillow Cooling pillows and pillow protectors from the Staycool series. Pillows Staycool Bedroom Pillows Staycool White Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 50 cm cm Dimensions Height 1 cm cm Dimensions Height 15 cm cm Dimensions Width 60 cm cm Logistics Package count 1 package package Logistics Package weight 4 kg kg Logistics Package weight 9.4 kg kg Logistics Product count 10 product product Logistics Product count 20 product product Logistics Volume 0.04 m³ m³ Logistics Volume 0.22 m³ m³ Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -808,7 +894,13 @@
           "href": "/families/staycool/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -898,6 +990,30 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "4-kg",
+          "valueLabel": "4 kg",
+          "href": "/attributes/logistics/package-weight/4-kg/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "9-4-kg",
+          "valueLabel": "9.4 kg",
+          "href": "/attributes/logistics/package-weight/9-4-kg/",
+          "valueType": "enum",
+          "numericValue": 9.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "10-product",
@@ -944,30 +1060,6 @@
           "unit": "m³"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "4-kg",
-          "valueLabel": "4 kg",
-          "href": "/attributes/logistics/weight/4-kg/",
-          "valueType": "enum",
-          "numericValue": 4,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "9-4-kg",
-          "valueLabel": "9.4 kg",
-          "href": "/attributes/logistics/weight/9-4-kg/",
-          "valueType": "enum",
-          "numericValue": 9.4,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -1000,6 +1092,192 @@
       "categoryLabel": "Pillows",
       "collectionLabel": "",
       "productFamilyLabel": "Staycool"
+    }
+  },
+  {
+    "name": "stayergo-classic",
+    "href": "/products/pillows/stayergo-classic/",
+    "type": "dir",
+    "title": "Stayergo Classic",
+    "summary": "Stayergo Classic pillows offer a simple white option in a compact size for everyday bedding setups, with cotton and polyester materials.",
+    "primaryImageUrl": "/products/pillows/stayergo-classic/221939_2.avif",
+    "sourceHref": "/products/pillows/stayergo-classic/",
+    "filterData": {
+      "searchText": "Stayergo Classic Stayergo Classic pillows offer a simple white option in a compact size for everyday bedding setups, with cotton and polyester materials. Pillows Stayergo Classic Bedroom Pillows Stayergo Classic White Cotton Polyester",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "pillows",
+          "label": "Pillows",
+          "href": "/products/pillows/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "stayergo-classic",
+          "label": "Stayergo Classic",
+          "href": "/families/stayergo-classic/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Stayergo Classic",
+      "summary": "Stayergo Classic pillows offer a simple white option in a compact size for everyday bedding setups, with cotton and polyester materials.",
+      "variantCount": 1,
+      "categoryLabel": "Pillows",
+      "collectionLabel": "",
+      "productFamilyLabel": "Stayergo Classic"
+    }
+  },
+  {
+    "name": "stayergo-shape",
+    "href": "/products/pillows/stayergo-shape/",
+    "type": "dir",
+    "title": "Stayergo Shape",
+    "summary": "Stayergo Shape pillows offer a compact rectangular profile for everyday sleeping comfort in a clean white finish.",
+    "primaryImageUrl": "/products/pillows/stayergo-shape/221940_2.avif",
+    "sourceHref": "/products/pillows/stayergo-shape/",
+    "filterData": {
+      "searchText": "Stayergo Shape Stayergo Shape pillows offer a compact rectangular profile for everyday sleeping comfort in a clean white finish. Pillows Stayergo Shape Bedroom Pillows Stayergo Shape White Cotton Polyester",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "pillows",
+          "label": "Pillows",
+          "href": "/products/pillows/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "stayergo-shape",
+          "label": "Stayergo Shape",
+          "href": "/families/stayergo-shape/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Stayergo Shape",
+      "summary": "Stayergo Shape pillows offer a compact rectangular profile for everyday sleeping comfort in a clean white finish.",
+      "variantCount": 1,
+      "categoryLabel": "Pillows",
+      "collectionLabel": "",
+      "productFamilyLabel": "Stayergo Shape"
+    }
+  },
+  {
+    "name": "wooly",
+    "href": "/products/pillows/wooly/",
+    "type": "dir",
+    "title": "Wooly",
+    "summary": "Wooly pillows offer a simple white look in a practical rectangular shape, suited to everyday bedroom styling and relaxed layering.",
+    "primaryImageUrl": "/products/pillows/wooly/221938_2.avif",
+    "sourceHref": "/products/pillows/wooly/",
+    "filterData": {
+      "searchText": "Wooly Wooly pillows offer a simple white look in a practical rectangular shape, suited to everyday bedroom styling and relaxed layering. Pillows Wooly Bedroom Pillows Wooly White Cotton Wool",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "pillows",
+          "label": "Pillows",
+          "href": "/products/pillows/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "wooly",
+          "label": "Wooly",
+          "href": "/families/wooly/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "wool",
+          "label": "Wool",
+          "href": "/materials/wool/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Wooly",
+      "summary": "Wooly pillows offer a simple white look in a practical rectangular shape, suited to everyday bedroom styling and relaxed layering.",
+      "variantCount": 1,
+      "categoryLabel": "Pillows",
+      "collectionLabel": "",
+      "productFamilyLabel": "Wooly"
     }
   }
 ]

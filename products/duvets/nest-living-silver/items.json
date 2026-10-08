@@ -3,25 +3,33 @@
     "sku": "201093",
     "name": "201093",
     "title": "Nest & Living Silver Duvet",
-    "variantSummary": "150 x 200 x 3 cm",
+    "variantSummary": "150 × 200 cm / White",
     "shortDescription": "Everyday duvet with breathable microfiber filling and easy-care fabric.",
     "selectionAttributes": {
-      "dimensions": "150 x 200 x 3 cm",
+      "dimensions": "150 × 200 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "",
-      "material": "Polyester, Cotton"
+      "color": "White",
+      "material": "Polyester, Cotton",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Duvet",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/duvets/nest-living-silver/201093_1.jpg",
-    "imageUrl": "/products/duvets/nest-living-silver/201093_1.jpg",
+    "primaryImageUrl": "/products/duvets/nest-living-silver/201093_1.avif",
+    "imageUrl": "/products/duvets/nest-living-silver/201093_1.avif",
     "imageUrls": [
-      "/products/duvets/nest-living-silver/201093_1.jpg",
-      "/products/duvets/nest-living-silver/201093_2.jpg"
+      "/products/duvets/nest-living-silver/201093_1.avif",
+      "/products/duvets/nest-living-silver/201093_2.avif"
     ],
     "href": "/products/duvets/nest-living-silver/201093",
     "type": "file",
     "filterData": {
-      "searchText": "Nest & Living Silver Duvet Everyday duvet with breathable microfiber filling and easy-care fabric. Duvets Bedroom Nest & Living Silver Bedroom Duvets Nest & Living Silver Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 3 cm cm Dimensions Width 150 cm cm Logistics Weight 1.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Nest & Living Silver Duvet Everyday duvet with breathable microfiber filling and easy-care fabric. Duvets Bedroom Nest & Living Silver Bedroom Duvets Nest & Living Silver White Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 3 cm cm Dimensions Width 150 cm cm Logistics Weight 1.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -43,7 +51,13 @@
           "href": "/families/nest-living-silver/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",

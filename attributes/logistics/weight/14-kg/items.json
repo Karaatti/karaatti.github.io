@@ -1,34 +1,10 @@
 [
   {
-    "name": "blow",
-    "href": "/families/blow/",
-    "type": "dir",
-    "title": "Blow",
-    "schemaCategory": "Swivel Chairs",
-    "variantCount": 2
-  },
-  {
-    "name": "nordic",
-    "href": "/families/nordic/",
-    "type": "dir",
-    "title": "Nordic",
-    "schemaCategory": "Outdoor Lounge Seating and Outdoor Lounge Sets",
-    "variantCount": 2
-  },
-  {
     "name": "islet",
     "href": "/families/islet/",
     "type": "dir",
     "title": "Islet",
     "schemaCategory": "Coffee Tables",
-    "variantCount": 1
-  },
-  {
-    "name": "merida",
-    "href": "/families/merida/",
-    "type": "dir",
-    "title": "Merida",
-    "schemaCategory": "Bar Stools",
     "variantCount": 1
   },
   {

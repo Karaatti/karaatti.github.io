@@ -40,6 +40,14 @@
     "variantCount": 6
   },
   {
+    "name": "sparkle",
+    "href": "/products/chaise-sofas/sparkle/",
+    "type": "dir",
+    "title": "Sparkle",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 6
+  },
+  {
     "name": "voyage",
     "href": "/products/armchairs/voyage/",
     "type": "dir",
@@ -53,6 +61,14 @@
     "type": "dir",
     "title": "Bow",
     "schemaCategory": "Dining Chairs",
+    "variantCount": 3
+  },
+  {
+    "name": "breeze",
+    "href": "/products/swivel-chairs/breeze/",
+    "type": "dir",
+    "title": "Breeze",
+    "schemaCategory": "Swivel Chairs",
     "variantCount": 3
   },
   {
@@ -80,14 +96,6 @@
     "variantCount": 2
   },
   {
-    "name": "breeze",
-    "href": "/products/swivel-chairs/breeze/",
-    "type": "dir",
-    "title": "Breeze",
-    "schemaCategory": "Swivel Chairs",
-    "variantCount": 2
-  },
-  {
     "name": "cloud",
     "href": "/products/corner-sofas/cloud/",
     "type": "dir",
@@ -96,11 +104,35 @@
     "variantCount": 2
   },
   {
+    "name": "dove",
+    "href": "/products/armchairs/dove/",
+    "type": "dir",
+    "title": "Dove",
+    "schemaCategory": "Armchairs",
+    "variantCount": 2
+  },
+  {
+    "name": "niela",
+    "href": "/products/dining-chairs/niela/",
+    "type": "dir",
+    "title": "Niela",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 2
+  },
+  {
     "name": "palazzo",
     "href": "/products/outdoor-lounge-sets/palazzo/",
     "type": "dir",
     "title": "Palazzo",
     "schemaCategory": "Outdoor Lounge Sets",
+    "variantCount": 2
+  },
+  {
+    "name": "swan",
+    "href": "/products/armchairs/swan/",
+    "type": "dir",
+    "title": "Swan",
+    "schemaCategory": "Armchairs",
     "variantCount": 2
   },
   {
@@ -120,11 +152,11 @@
     "variantCount": 1
   },
   {
-    "name": "dove",
-    "href": "/products/armchairs/dove/",
+    "name": "livo",
+    "href": "/products/dining-chairs/livo/",
     "type": "dir",
-    "title": "Dove",
-    "schemaCategory": "Armchairs",
+    "title": "Livo",
+    "schemaCategory": "Dining Chairs",
     "variantCount": 1
   },
   {

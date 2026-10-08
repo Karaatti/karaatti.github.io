@@ -1,6 +1,7 @@
 {
   "familyTitle": "Moon Bronze topper",
-  "familySummary": "Moon Bronze Basic is a lightweight, breathable mattress topper that adds gentle cushioning and supports a neutral sleeping posture. Its white tone with subtle leaf patterns fits well in the bedroom.",
+  "familySummary": "Moon Bronze mattress toppers add a comfort foam layer to the bed, with white finishes and sizes for single and double mattresses.",
+  "familyDescription": "The Moon Bronze range offers a comfort foam topper in several widths, all with a 200 cm length and 5 cm thickness. Choose the width to match the mattress beneath it. The white finish is consistent across the range; consult the selected product and its care label for the cover and cleaning instructions.",
   "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
   "schemaCategory": "Toppers",
   "variantCount": 7,
@@ -8,7 +9,7 @@
   "productFamilyKey": "moon-bronze",
   "productFamilyRelativeDir": "families/moon-bronze",
   "filterData": {
-    "searchText": "Moon Bronze topper Moon Bronze Basic is a lightweight, breathable mattress topper that adds gentle cushioning and supports a neutral sleeping posture. Its white tone with subtle leaf patterns fits well in the bedroom. Toppers Bedroom Moon Bronze Bedroom Toppers Moon Bronze White Fabric Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 105 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.1 m³ m³ Logistics Volume 0.09 m³ m³ Logistics Volume 0.13 m³ m³ Logistics Volume 0.14 m³ m³ Logistics Volume 0.16 m³ m³ Logistics Volume 0.18 m³ m³ Logistics Volume 0.21 m³ m³ Logistics Weight 3 kg kg Logistics Weight 3.5 kg kg Logistics Weight 3.7 kg kg Logistics Weight 4.3 kg kg Logistics Weight 4.5 kg kg Logistics Weight 5.4 kg kg Logistics Weight 5.5 kg kg Logistics Weight 5.7 kg kg Logistics Weight 6 kg kg Logistics Weight 6.5 kg kg Logistics Weight 7 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+    "searchText": "Moon Bronze topper Moon Bronze mattress toppers add a comfort foam layer to the bed, with white finishes and sizes for single and double mattresses. Toppers Bedroom Moon Bronze Bedroom Toppers Moon Bronze White Fabric Foam Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 105 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Package weight 3 kg kg Logistics Package weight 3.7 kg kg Logistics Package weight 4.3 kg kg Logistics Package weight 5.4 kg kg Logistics Package weight 5.7 kg kg Logistics Package weight 7 kg kg Logistics Product count 1 product product Logistics Volume 0.1 m³ m³ Logistics Volume 0.09 m³ m³ Logistics Volume 0.13 m³ m³ Logistics Volume 0.14 m³ m³ Logistics Volume 0.16 m³ m³ Logistics Volume 0.18 m³ m³ Logistics Volume 0.21 m³ m³ Logistics Weight 3 kg kg Logistics Weight 3.5 kg kg Logistics Weight 4.5 kg kg Logistics Weight 5.5 kg kg Logistics Weight 6 kg kg Logistics Weight 6.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "bedroom",
@@ -186,6 +187,78 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "3-kg",
+        "valueLabel": "3 kg",
+        "href": "/attributes/logistics/package-weight/3-kg/",
+        "valueType": "enum",
+        "numericValue": 3,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "3-7-kg",
+        "valueLabel": "3.7 kg",
+        "href": "/attributes/logistics/package-weight/3-7-kg/",
+        "valueType": "enum",
+        "numericValue": 3.7,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "4-3-kg",
+        "valueLabel": "4.3 kg",
+        "href": "/attributes/logistics/package-weight/4-3-kg/",
+        "valueType": "enum",
+        "numericValue": 4.3,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "5-4-kg",
+        "valueLabel": "5.4 kg",
+        "href": "/attributes/logistics/package-weight/5-4-kg/",
+        "valueType": "enum",
+        "numericValue": 5.4,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "5-7-kg",
+        "valueLabel": "5.7 kg",
+        "href": "/attributes/logistics/package-weight/5-7-kg/",
+        "valueType": "enum",
+        "numericValue": 5.7,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "7-kg",
+        "valueLabel": "7 kg",
+        "href": "/attributes/logistics/package-weight/7-kg/",
+        "valueType": "enum",
+        "numericValue": 7,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "1-product",
@@ -308,30 +381,6 @@
         "groupLabel": "Logistics",
         "key": "weight",
         "label": "Weight",
-        "valueKey": "3-7-kg",
-        "valueLabel": "3.7 kg",
-        "href": "/attributes/logistics/weight/3-7-kg/",
-        "valueType": "enum",
-        "numericValue": 3.7,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "4-3-kg",
-        "valueLabel": "4.3 kg",
-        "href": "/attributes/logistics/weight/4-3-kg/",
-        "valueType": "enum",
-        "numericValue": 4.3,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
         "valueKey": "4-5-kg",
         "valueLabel": "4.5 kg",
         "href": "/attributes/logistics/weight/4-5-kg/",
@@ -344,35 +393,11 @@
         "groupLabel": "Logistics",
         "key": "weight",
         "label": "Weight",
-        "valueKey": "5-4-kg",
-        "valueLabel": "5.4 kg",
-        "href": "/attributes/logistics/weight/5-4-kg/",
-        "valueType": "enum",
-        "numericValue": 5.4,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
         "valueKey": "5-5-kg",
         "valueLabel": "5.5 kg",
         "href": "/attributes/logistics/weight/5-5-kg/",
         "valueType": "enum",
         "numericValue": 5.5,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "5-7-kg",
-        "valueLabel": "5.7 kg",
-        "href": "/attributes/logistics/weight/5-7-kg/",
-        "valueType": "enum",
-        "numericValue": 5.7,
         "unit": "kg"
       },
       {
@@ -397,18 +422,6 @@
         "href": "/attributes/logistics/weight/6-5-kg/",
         "valueType": "enum",
         "numericValue": 6.5,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "7-kg",
-        "valueLabel": "7 kg",
-        "href": "/attributes/logistics/weight/7-kg/",
-        "valueType": "enum",
-        "numericValue": 7,
         "unit": "kg"
       },
       {
@@ -451,7 +464,7 @@
   },
   "sortData": {
     "title": "Moon Bronze topper",
-    "summary": "Moon Bronze Basic is a lightweight, breathable mattress topper that adds gentle cushioning and supports a neutral sleeping posture. Its white tone with subtle leaf patterns fits well in the bedroom.",
+    "summary": "Moon Bronze mattress toppers add a comfort foam layer to the bed, with white finishes and sizes for single and double mattresses.",
     "variantCount": 7,
     "categoryLabel": "Toppers",
     "collectionLabel": "Bedroom",

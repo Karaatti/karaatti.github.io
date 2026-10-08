@@ -1,0 +1,34 @@
+[
+  {
+    "name": "glint",
+    "href": "/products/rugs/glint/",
+    "type": "dir",
+    "title": "Glint",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "grant",
+    "href": "/products/rugs/grant/",
+    "type": "dir",
+    "title": "Grant",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "muse",
+    "href": "/products/rugs/muse/",
+    "type": "dir",
+    "title": "Muse",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "sway",
+    "href": "/products/rugs/sway/",
+    "type": "dir",
+    "title": "Sway",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  }
+]

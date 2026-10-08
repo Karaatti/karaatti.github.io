@@ -5,10 +5,10 @@
     "type": "dir",
     "title": "Nest & Living Gold Duvet",
     "summary": "Warm duvets with a breathable fabric blend and a fuller feel.",
-    "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+    "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.avif",
     "sourceHref": "/products/duvets/nest-living-gold/",
     "filterData": {
-      "searchText": "Nest & Living Gold Duvet Warm duvets with a breathable fabric blend and a fuller feel. Duvets Nest & Living Gold Bedroom Duvets Nest & Living Gold Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 4 cm cm Dimensions Height 5 cm cm Dimensions Width 150 cm cm Dimensions Width 230 cm cm Logistics Weight 1.5 kg kg Logistics Weight 2.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Nest & Living Gold Duvet Warm duvets with a breathable fabric blend and a fuller feel. Duvets Nest & Living Gold Bedroom Duvets Nest & Living Gold White Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 4 cm cm Dimensions Height 5 cm cm Dimensions Width 150 cm cm Dimensions Width 230 cm cm Logistics Weight 1.5 kg kg Logistics Weight 2.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -30,7 +30,13 @@
           "href": "/families/nest-living-gold/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -194,10 +200,10 @@
     "type": "dir",
     "title": "Nest & Living Silver Duvet",
     "summary": "Duvets selected for everyday warmth, breathable fabrics, and practical bedroom use.",
-    "primaryImageUrl": "/products/duvets/nest-living-silver/201093_1.jpg",
+    "primaryImageUrl": "/products/duvets/nest-living-silver/201093_1.avif",
     "sourceHref": "/products/duvets/nest-living-silver/",
     "filterData": {
-      "searchText": "Nest & Living Silver Duvet Duvets selected for everyday warmth, breathable fabrics, and practical bedroom use. Duvets Nest & Living Silver Bedroom Duvets Nest & Living Silver Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 3 cm cm Dimensions Width 150 cm cm Logistics Weight 1.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Nest & Living Silver Duvet Duvets selected for everyday warmth, breathable fabrics, and practical bedroom use. Duvets Nest & Living Silver Bedroom Duvets Nest & Living Silver White Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 3 cm cm Dimensions Width 150 cm cm Logistics Weight 1.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -219,7 +225,13 @@
           "href": "/families/nest-living-silver/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -342,15 +354,77 @@
     }
   },
   {
+    "name": "staycation",
+    "href": "/products/duvets/staycation/",
+    "type": "dir",
+    "title": "Staycation",
+    "summary": "White Staycation duvets in Cotton, Polyester, offered in two sizes for everyday bedding needs.",
+    "primaryImageUrl": "/products/duvets/staycation/220236_2.avif",
+    "sourceHref": "/products/duvets/staycation/",
+    "filterData": {
+      "searchText": "Staycation White Staycation duvets in Cotton, Polyester, offered in two sizes for everyday bedding needs. Duvets Staycation Bedroom Duvets Staycation White Cotton Polyester",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "duvets",
+          "label": "Duvets",
+          "href": "/products/duvets/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "staycation",
+          "label": "Staycation",
+          "href": "/families/staycation/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Staycation",
+      "summary": "White Staycation duvets in Cotton, Polyester, offered in two sizes for everyday bedding needs.",
+      "variantCount": 2,
+      "categoryLabel": "Duvets",
+      "collectionLabel": "",
+      "productFamilyLabel": "Staycation"
+    }
+  },
+  {
     "name": "staycool",
     "href": "/products/duvets/staycool/",
     "type": "dir",
     "title": "Staycool Duvet",
     "summary": "Cooling duvets from the Staycool series.",
-    "primaryImageUrl": "/products/duvets/staycool/214013_1.jpg",
+    "primaryImageUrl": "/products/duvets/staycool/214013_2.avif",
     "sourceHref": "/products/duvets/staycool/",
     "filterData": {
-      "searchText": "Staycool Duvet Cooling duvets from the Staycool series. Duvets Staycool Bedroom Duvets Staycool Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 150 cm cm Dimensions Height 2 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 8 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1.3 kg kg Logistics Weight 13.1 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Staycool Duvet Cooling duvets from the Staycool series. Duvets Staycool Bedroom Duvets Staycool White Cotton Polyester Care Cleaning method Wash 60°C Dimensions Depth 150 cm cm Dimensions Height 2 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 13.1 kg kg Logistics Product count 8 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1.3 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -372,7 +446,13 @@
           "href": "/families/staycool/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -450,6 +530,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "13-1-kg",
+          "valueLabel": "13.1 kg",
+          "href": "/attributes/logistics/package-weight/13-1-kg/",
+          "valueType": "enum",
+          "numericValue": 13.1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "8-product",
@@ -481,18 +573,6 @@
           "href": "/attributes/logistics/weight/1-3-kg/",
           "valueType": "enum",
           "numericValue": 1.3,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "13-1-kg",
-          "valueLabel": "13.1 kg",
-          "href": "/attributes/logistics/weight/13-1-kg/",
-          "valueType": "enum",
-          "numericValue": 13.1,
           "unit": "kg"
         },
         {
@@ -528,6 +608,68 @@
       "categoryLabel": "Duvets",
       "collectionLabel": "",
       "productFamilyLabel": "Staycool"
+    }
+  },
+  {
+    "name": "wooly",
+    "href": "/products/duvets/wooly/",
+    "type": "dir",
+    "title": "Wooly",
+    "summary": "Wooly duvets in White combine Cotton and Wool in a simple, versatile layer for the bed.",
+    "primaryImageUrl": "/products/duvets/wooly/221937_2.avif",
+    "sourceHref": "/products/duvets/wooly/",
+    "filterData": {
+      "searchText": "Wooly Wooly duvets in White combine Cotton and Wool in a simple, versatile layer for the bed. Duvets Wooly Bedroom Duvets Wooly White Cotton Wool",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "duvets",
+          "label": "Duvets",
+          "href": "/products/duvets/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "wooly",
+          "label": "Wooly",
+          "href": "/families/wooly/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "wool",
+          "label": "Wool",
+          "href": "/materials/wool/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Wooly",
+      "summary": "Wooly duvets in White combine Cotton and Wool in a simple, versatile layer for the bed.",
+      "variantCount": 1,
+      "categoryLabel": "Duvets",
+      "collectionLabel": "",
+      "productFamilyLabel": "Wooly"
     }
   }
 ]

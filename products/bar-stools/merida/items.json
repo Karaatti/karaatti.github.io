@@ -2,15 +2,23 @@
   {
     "sku": "198084",
     "name": "198084",
-    "title": "Merida Bar Stool, 40 x 40 cm",
-    "variantSummary": "40 x 40 cm / White, Beige",
+    "title": "Merida Bar Stool",
+    "variantSummary": "40 × 40 cm / White",
     "shortDescription": "Natural oak frame with light beige fabric seat, sold in pairs.",
     "selectionAttributes": {
-      "dimensions": "40 x 40 cm",
+      "dimensions": "40 × 40 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "White, Beige",
-      "material": "Fabric, Oak"
+      "color": "White",
+      "material": "Fabric, Oak",
+      "productType": "Bar stool",
+      "productTypeNote": "40 × 40 cm",
+      "productNoun": "Bar stool",
+      "colorLabel": "White",
+      "colorNote": "Off-white, Natural oak frame",
+      "axisPlan": "productType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/bar-stools/merida/198084_1.avif",
     "imageUrl": "/products/bar-stools/merida/198084_1.avif",
@@ -21,7 +29,7 @@
     "href": "/products/bar-stools/merida/198084",
     "type": "file",
     "filterData": {
-      "searchText": "Merida Bar Stool, 40 x 40 cm Natural oak frame with light beige fabric seat, sold in pairs. Bar Stools Dining room Merida Dining room Bar Stools Merida Beige White Fabric Oak Dimensions Depth 40 cm cm Dimensions Height 69 cm cm Dimensions Width 40 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Product count 2 product product Logistics Volume 0.06 m³ m³ Logistics Weight 10 kg kg Logistics Weight 14 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Merida Bar Stool Natural oak frame with light beige fabric seat, sold in pairs. Bar Stools Dining room Merida Dining room Bar Stools Merida White Fabric Oak Dimensions Depth 40 cm cm Dimensions Height 69 cm cm Dimensions Width 40 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Package weight 14 kg kg Logistics Product count 2 product product Logistics Volume 0.06 m³ m³ Logistics Weight 10 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "dining-room",
@@ -44,11 +52,6 @@
         }
       ],
       "colors": [
-        {
-          "key": "beige",
-          "label": "Beige",
-          "href": "/colors/beige/"
-        },
         {
           "key": "white",
           "label": "White",
@@ -132,6 +135,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "14-kg",
+          "valueLabel": "14 kg",
+          "href": "/attributes/logistics/package-weight/14-kg/",
+          "valueType": "enum",
+          "numericValue": 14,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "2-product",
@@ -163,18 +178,6 @@
           "href": "/attributes/logistics/weight/10-kg/",
           "valueType": "enum",
           "numericValue": 10,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "14-kg",
-          "valueLabel": "14 kg",
-          "href": "/attributes/logistics/weight/14-kg/",
-          "valueType": "enum",
-          "numericValue": 14,
           "unit": "kg"
         },
         {
@@ -216,7 +219,7 @@
       ]
     },
     "sortData": {
-      "title": "Merida Bar Stool, 40 x 40 cm",
+      "title": "Merida Bar Stool",
       "summary": "Natural oak frame with light beige fabric seat, sold in pairs.",
       "variantCount": 1,
       "categoryLabel": "Bar Stools",
@@ -227,28 +230,36 @@
   {
     "sku": "198085",
     "name": "198085",
-    "title": "Merida Bar Stool, 53 x 52 cm",
-    "variantSummary": "53 x 52 cm / White, Beige",
+    "title": "Merida Bar Stool with Backrest",
+    "variantSummary": "53 × 52 cm / White",
     "shortDescription": "Natural oak frame with white fabric seat, sold in pairs.",
     "selectionAttributes": {
-      "dimensions": "53 x 52 cm",
+      "dimensions": "53 × 52 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "White, Beige",
-      "material": "Fabric, Oak"
+      "color": "White",
+      "material": "Fabric, Oak",
+      "productType": "Bar stool with backrest",
+      "productTypeNote": "53 × 52 cm",
+      "productNoun": "Bar stool with backrest",
+      "colorLabel": "White",
+      "colorNote": "Off-white, Natural oak frame",
+      "axisPlan": "productType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/bar-stools/merida/198085_1.avif",
-    "imageUrl": "/products/bar-stools/merida/198085_1.avif",
+    "primaryImageUrl": "/products/bar-stools/merida/198085_4.avif",
+    "imageUrl": "/products/bar-stools/merida/198085_4.avif",
     "imageUrls": [
+      "/products/bar-stools/merida/198085_4.avif",
       "/products/bar-stools/merida/198085_1.avif",
       "/products/bar-stools/merida/198085_2.avif",
-      "/products/bar-stools/merida/198085_3.avif",
-      "/products/bar-stools/merida/198085_4.avif"
+      "/products/bar-stools/merida/198085_3.avif"
     ],
     "href": "/products/bar-stools/merida/198085",
     "type": "file",
     "filterData": {
-      "searchText": "Merida Bar Stool, 53 x 52 cm Natural oak frame with white fabric seat, sold in pairs. Bar Stools Dining room Merida Dining room Bar Stools Merida Beige White Fabric Oak Dimensions Depth 52 cm cm Dimensions Height 90 cm cm Dimensions Width 53 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Product count 2 product product Logistics Volume 0.15 m³ m³ Logistics Weight 12 kg kg Logistics Weight 18.6 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Merida Bar Stool with Backrest Natural oak frame with white fabric seat, sold in pairs. Bar Stools Dining room Merida Dining room Bar Stools Merida White Fabric Oak Dimensions Depth 52 cm cm Dimensions Height 90 cm cm Dimensions Width 53 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Package weight 18.6 kg kg Logistics Product count 2 product product Logistics Volume 0.15 m³ m³ Logistics Weight 12 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "dining-room",
@@ -271,11 +282,6 @@
         }
       ],
       "colors": [
-        {
-          "key": "beige",
-          "label": "Beige",
-          "href": "/colors/beige/"
-        },
         {
           "key": "white",
           "label": "White",
@@ -359,6 +365,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "18-6-kg",
+          "valueLabel": "18.6 kg",
+          "href": "/attributes/logistics/package-weight/18-6-kg/",
+          "valueType": "enum",
+          "numericValue": 18.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "2-product",
@@ -390,18 +408,6 @@
           "href": "/attributes/logistics/weight/12-kg/",
           "valueType": "enum",
           "numericValue": 12,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "18-6-kg",
-          "valueLabel": "18.6 kg",
-          "href": "/attributes/logistics/weight/18-6-kg/",
-          "valueType": "enum",
-          "numericValue": 18.6,
           "unit": "kg"
         },
         {
@@ -443,7 +449,7 @@
       ]
     },
     "sortData": {
-      "title": "Merida Bar Stool, 53 x 52 cm",
+      "title": "Merida Bar Stool with Backrest",
       "summary": "Natural oak frame with white fabric seat, sold in pairs.",
       "variantCount": 1,
       "categoryLabel": "Bar Stools",

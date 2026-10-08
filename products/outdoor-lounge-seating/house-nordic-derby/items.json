@@ -2,33 +2,41 @@
   {
     "sku": "201102",
     "name": "201102",
-    "title": "House Nordic Derby Outdoor Lounge Seating",
-    "variantSummary": "60 x 61 x 73 cm / Beige",
+    "title": "House Nordic Derby Lounge Chair",
+    "variantSummary": "60 × 61 cm / Beige",
     "shortDescription": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
     "selectionAttributes": {
-      "dimensions": "60 x 61 x 73 cm",
+      "dimensions": "60 × 61 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Polyrattan, Teak"
+      "material": "Polyrattan, Teak",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Lounge chair",
+      "colorLabel": "Beige",
+      "colorNote": "Natural",
+      "axisPlan": "",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
-    "imageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+    "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_2.avif",
+    "imageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_2.avif",
     "imageUrls": [
-      "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
       "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_2.avif",
-      "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_3.avif",
       "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_4.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/201102_2.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/201102_4.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/201102_5.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_3.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/201102_3.avif",
       "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_5.avif",
+      "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
       "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_6.avif",
       "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_7.avif",
       "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_8.avif",
       "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_9.avif",
       "/products/outdoor-lounge-seating/house-nordic-derby/201102_1.avif",
-      "/products/outdoor-lounge-seating/house-nordic-derby/201102_2.avif",
-      "/products/outdoor-lounge-seating/house-nordic-derby/201102_3.avif",
-      "/products/outdoor-lounge-seating/house-nordic-derby/201102_4.avif",
-      "/products/outdoor-lounge-seating/house-nordic-derby/201102_5.avif",
       "/products/outdoor-lounge-seating/house-nordic-derby/201102_6.avif",
       "/products/outdoor-lounge-seating/house-nordic-derby/201102_7.avif",
       "/products/outdoor-lounge-seating/house-nordic-derby/201102_8.avif",
@@ -37,7 +45,7 @@
     "href": "/products/outdoor-lounge-seating/house-nordic-derby/201102",
     "type": "file",
     "filterData": {
-      "searchText": "House Nordic Derby Outdoor Lounge Seating Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors. Outdoor Lounge Seating Outdoor House Nordic Derby Outdoor Outdoor Lounge Seating House Nordic Derby Beige Polyrattan Teak Wood Dimensions Depth 61 cm cm Dimensions Height 73 cm cm Dimensions Width 60 cm cm Load Maximum load 125 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 6 kg kg Logistics Weight 9.4 kg kg Seating Seat height 40 cm cm Seating Seat width 47 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "House Nordic Derby Lounge Chair Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors. Outdoor Lounge Seating Outdoor House Nordic Derby Outdoor Outdoor Lounge Seating House Nordic Derby Beige Polyrattan Teak Wood Dimensions Depth 61 cm cm Dimensions Height 73 cm cm Dimensions Width 60 cm cm Load Maximum load 125 kg kg Logistics Package count 1 package package Logistics Package weight 9.4 kg kg Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 6 kg kg Seating Seat height 40 cm cm Seating Seat width 47 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -148,6 +156,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "9-4-kg",
+          "valueLabel": "9.4 kg",
+          "href": "/attributes/logistics/package-weight/9-4-kg/",
+          "valueType": "enum",
+          "numericValue": 9.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -179,18 +199,6 @@
           "href": "/attributes/logistics/weight/6-kg/",
           "valueType": "enum",
           "numericValue": 6,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "9-4-kg",
-          "valueLabel": "9.4 kg",
-          "href": "/attributes/logistics/weight/9-4-kg/",
-          "valueType": "enum",
-          "numericValue": 9.4,
           "unit": "kg"
         },
         {
@@ -244,7 +252,7 @@
       ]
     },
     "sortData": {
-      "title": "House Nordic Derby Outdoor Lounge Seating",
+      "title": "House Nordic Derby Lounge Chair",
       "summary": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
       "variantCount": 1,
       "categoryLabel": "Outdoor Lounge Seating",

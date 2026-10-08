@@ -8,6 +8,14 @@
     "variantCount": 6
   },
   {
+    "name": "staycation",
+    "href": "/products/duvets/staycation/",
+    "type": "dir",
+    "title": "Staycation",
+    "schemaCategory": "Duvets and Pillows",
+    "variantCount": 5
+  },
+  {
     "name": "nest-living-gold",
     "href": "/products/duvets/nest-living-gold/",
     "type": "dir",
@@ -20,6 +28,14 @@
     "href": "/products/rugs/ruutu/",
     "type": "dir",
     "title": "Ruutu",
+    "schemaCategory": "Rugs",
+    "variantCount": 4
+  },
+  {
+    "name": "sirmione",
+    "href": "/products/rugs/sirmione/",
+    "type": "dir",
+    "title": "Sirmione",
     "schemaCategory": "Rugs",
     "variantCount": 4
   },
@@ -48,14 +64,6 @@
     "variantCount": 3
   },
   {
-    "name": "sirmione",
-    "href": "/products/rugs/sirmione/",
-    "type": "dir",
-    "title": "Sirmione",
-    "schemaCategory": "Rugs",
-    "variantCount": 3
-  },
-  {
     "name": "staygentle",
     "href": "/products/mattress-protectors/staygentle/",
     "type": "dir",
@@ -64,11 +72,27 @@
     "variantCount": 3
   },
   {
-    "name": "staycation",
-    "href": "/products/pillows/staycation/",
+    "name": "desenzano",
+    "href": "/products/rugs/desenzano/",
     "type": "dir",
-    "title": "Staycation",
-    "schemaCategory": "Pillows",
+    "title": "Desenzano",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "garda",
+    "href": "/products/rugs/garda/",
+    "type": "dir",
+    "title": "Garda",
+    "schemaCategory": "Rugs",
+    "variantCount": 2
+  },
+  {
+    "name": "wooly",
+    "href": "/products/duvets/wooly/",
+    "type": "dir",
+    "title": "Wooly",
+    "schemaCategory": "Duvets and Pillows",
     "variantCount": 2
   },
   {
@@ -80,18 +104,10 @@
     "variantCount": 2
   },
   {
-    "name": "desenzano",
-    "href": "/products/rugs/desenzano/",
+    "name": "como",
+    "href": "/products/rugs/como/",
     "type": "dir",
-    "title": "Desenzano",
-    "schemaCategory": "Rugs",
-    "variantCount": 1
-  },
-  {
-    "name": "garda",
-    "href": "/products/rugs/garda/",
-    "type": "dir",
-    "title": "Garda",
+    "title": "Como",
     "schemaCategory": "Rugs",
     "variantCount": 1
   },
@@ -104,10 +120,34 @@
     "variantCount": 1
   },
   {
+    "name": "night",
+    "href": "/products/pillows/night/",
+    "type": "dir",
+    "title": "Night",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  },
+  {
     "name": "staycomfort",
     "href": "/products/pillows/staycomfort/",
     "type": "dir",
     "title": "Staycomfort",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  },
+  {
+    "name": "stayergo-classic",
+    "href": "/products/pillows/stayergo-classic/",
+    "type": "dir",
+    "title": "Stayergo Classic",
+    "schemaCategory": "Pillows",
+    "variantCount": 1
+  },
+  {
+    "name": "stayergo-shape",
+    "href": "/products/pillows/stayergo-shape/",
+    "type": "dir",
+    "title": "Stayergo Shape",
     "schemaCategory": "Pillows",
     "variantCount": 1
   }

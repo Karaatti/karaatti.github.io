@@ -1,6 +1,7 @@
 {
   "familyTitle": "Moon",
   "familySummary": "A narrow fabric pocket for keeping phones and small items organised beside the bed or armchair.",
+  "familyDescription": "The Moon fabric phone pocket offers a simple and practical storage solution for small electronics and accessories. Its compact, rectangular shape fits well beside beds or armchairs. Made from densely woven fabric, it is durable and easy to maintain.",
   "primaryImageUrl": "/products/mobile-phone-pockets/moon/202837_1.avif",
   "schemaCategory": "Mobile Phone Pockets",
   "variantCount": 3,
@@ -8,7 +9,7 @@
   "productFamilyKey": "moon",
   "productFamilyRelativeDir": "families/moon",
   "filterData": {
-    "searchText": "Moon A narrow fabric pocket for keeping phones and small items organised beside the bed or armchair. Mobile Phone Pockets Bedroom Moon Bedroom Mobile Phone Pockets Moon Beige Black Grey Fabric Metal Dimensions Depth 60 cm cm Dimensions Height 1 cm cm Dimensions Width 20 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Weight 0.4 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+    "searchText": "Moon A narrow fabric pocket for keeping phones and small items organised beside the bed or armchair. Mobile Phone Pockets Bedroom Moon Bedroom Mobile Phone Pockets Moon Beige Grey Fabric Metal Dimensions Depth 60 cm cm Dimensions Height 1 cm cm Dimensions Width 20 cm cm Logistics Package count 1 package package Logistics Package weight 0.4 kg kg Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "bedroom",
@@ -35,11 +36,6 @@
         "key": "beige",
         "label": "Beige",
         "href": "/colors/beige/"
-      },
-      {
-        "key": "black",
-        "label": "Black",
-        "href": "/colors/black/"
       },
       {
         "key": "grey",
@@ -112,6 +108,18 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "0-4-kg",
+        "valueLabel": "0.4 kg",
+        "href": "/attributes/logistics/package-weight/0-4-kg/",
+        "valueType": "enum",
+        "numericValue": 0.4,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "1-product",
@@ -132,18 +140,6 @@
         "valueType": "enum",
         "numericValue": 0.01,
         "unit": "m³"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "0-4-kg",
-        "valueLabel": "0.4 kg",
-        "href": "/attributes/logistics/weight/0-4-kg/",
-        "valueType": "enum",
-        "numericValue": 0.4,
-        "unit": "kg"
       },
       {
         "groupKey": "setup",

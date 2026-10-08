@@ -1,32 +1,40 @@
 [
   {
-    "sku": "200728",
-    "name": "200728",
-    "title": "Basalt Rug",
-    "variantSummary": "200 x 290 cm",
-    "shortDescription": "Soft viscose rug 200 x 290 cm with a dark blue base and decorative floral pattern.",
+    "sku": "200727",
+    "name": "200727",
+    "title": "Basalt Rug, 160 × 230 cm",
+    "variantSummary": "160 × 230 cm / Multicolour",
+    "shortDescription": "Basalt Rug in multicolour, sized 160 × 230 cm, for adding colour and structure to living rooms, dining areas, or bedrooms.",
     "selectionAttributes": {
-      "dimensions": "200 x 290 cm",
+      "dimensions": "160 × 230 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "",
-      "material": "Viscose"
+      "color": "Multicolour",
+      "material": "",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Rug",
+      "colorLabel": "Multicolour",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/rugs/basalt/200728_1.avif",
-    "imageUrl": "/products/rugs/basalt/200728_1.avif",
+    "primaryImageUrl": "/products/rugs/basalt/200727_2.avif",
+    "imageUrl": "/products/rugs/basalt/200727_2.avif",
     "imageUrls": [
-      "/products/rugs/basalt/200728_1.avif",
-      "/products/rugs/basalt/200728_2.jpg",
-      "/products/rugs/basalt/200728_3.avif",
-      "/products/rugs/basalt/200728_4.jpg",
-      "/products/rugs/basalt/200728_5.avif",
-      "/products/rugs/basalt/200728_6.avif",
-      "/products/rugs/basalt/200728_7.avif"
+      "/products/rugs/basalt/200727_2.avif",
+      "/products/rugs/basalt/200727_1.avif",
+      "/products/rugs/basalt/200727_3.avif",
+      "/products/rugs/basalt/200727_4.avif",
+      "/products/rugs/basalt/200727_5.avif",
+      "/products/rugs/basalt/200727_7.avif",
+      "/products/rugs/basalt/200727_6.avif"
     ],
-    "href": "/products/rugs/basalt/",
+    "href": "/products/rugs/basalt/200727",
     "type": "file",
     "filterData": {
-      "searchText": "Basalt Rug Soft viscose rug 200 x 290 cm with a dark blue base and decorative floral pattern. Rugs Home Details Basalt Home Details Rugs Basalt Viscose Dimensions Depth 290 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 9 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Basalt Rug, 160 × 230 cm Basalt Rug in multicolour, sized 160 × 230 cm, for adding colour and structure to living rooms, dining areas, or bedrooms. Rugs Home Details Basalt Home Details Rugs Basalt Multicolour",
       "collections": [
         {
           "key": "home-details",
@@ -48,7 +56,90 @@
           "href": "/families/basalt/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "multicolour",
+          "label": "Multicolour",
+          "href": "/colors/multicolour/"
+        }
+      ],
+      "materials": [],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Basalt Rug, 160 × 230 cm",
+      "summary": "Basalt Rug in multicolour, sized 160 × 230 cm, for adding colour and structure to living rooms, dining areas, or bedrooms.",
+      "variantCount": 1,
+      "categoryLabel": "Rugs",
+      "collectionLabel": "Home Details",
+      "productFamilyLabel": "Basalt"
+    }
+  },
+  {
+    "sku": "200728",
+    "name": "200728",
+    "title": "Basalt Rug, 200 × 290 cm",
+    "variantSummary": "200 × 290 cm / Multicolour",
+    "shortDescription": "Soft viscose rug 200 x 290 cm with a dark blue base and decorative floral pattern.",
+    "selectionAttributes": {
+      "dimensions": "200 × 290 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "Multicolour",
+      "material": "Viscose",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Rug",
+      "colorLabel": "Multicolour",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
+    },
+    "primaryImageUrl": "/products/rugs/basalt/200728_5.avif",
+    "imageUrl": "/products/rugs/basalt/200728_5.avif",
+    "imageUrls": [
+      "/products/rugs/basalt/200728_5.avif",
+      "/products/rugs/basalt/200728_1.avif",
+      "/products/rugs/basalt/200728_2.avif",
+      "/products/rugs/basalt/200728_3.avif",
+      "/products/rugs/basalt/200728_4.avif",
+      "/products/rugs/basalt/200728_6.avif",
+      "/products/rugs/basalt/200728_7.avif"
+    ],
+    "href": "/products/rugs/basalt/200728",
+    "type": "file",
+    "filterData": {
+      "searchText": "Basalt Rug, 200 × 290 cm Soft viscose rug 200 x 290 cm with a dark blue base and decorative floral pattern. Rugs Home Details Basalt Home Details Rugs Basalt Multicolour Viscose Dimensions Depth 290 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 9 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "collections": [
+        {
+          "key": "home-details",
+          "label": "Home Details",
+          "href": "/collections/storage-shelving"
+        }
+      ],
+      "categories": [
+        {
+          "key": "rugs",
+          "label": "Rugs",
+          "href": "/products/rugs/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "basalt",
+          "label": "Basalt",
+          "href": "/families/basalt/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "multicolour",
+          "label": "Multicolour",
+          "href": "/colors/multicolour/"
+        }
+      ],
       "materials": [
         {
           "key": "viscose",
@@ -157,7 +248,7 @@
       ]
     },
     "sortData": {
-      "title": "Basalt Rug",
+      "title": "Basalt Rug, 200 × 290 cm",
       "summary": "Soft viscose rug 200 x 290 cm with a dark blue base and decorative floral pattern.",
       "variantCount": 1,
       "categoryLabel": "Rugs",

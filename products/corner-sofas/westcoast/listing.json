@@ -1,14 +1,15 @@
 {
   "familyTitle": "Westcoast",
-  "familySummary": "Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
-  "primaryImageUrl": "/products/corner-sofas/westcoast/209113_1.avif",
+  "familySummary": "Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms.",
+  "familyDescription": "Choose a Westcoast corner sofa by size, orientation and colour. The range includes 245 × 200 cm, 295 × 200 cm and 313 × 200 cm layouts in beige, brown and grey. Compare the left- and right-facing product images with your room plan, and check the package dimensions as well as the assembled size before ordering.",
+  "primaryImageUrl": "/products/corner-sofas/westcoast/209113_2.avif",
   "schemaCategory": "Corner Sofas",
   "variantCount": 18,
   "productFamilyName": "Westcoast",
   "productFamilyKey": "westcoast",
   "productFamilyRelativeDir": "families/westcoast",
   "filterData": {
-    "searchText": "Westcoast Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Beige Brown Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 245 cm cm Dimensions Width 295 cm cm Dimensions Width 313 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.68 m³ m³ Logistics Volume 0.73 m³ m³ Logistics Volume 0.79 m³ m³ Logistics Volume 0.97 m³ m³ Logistics Volume 1.05 m³ m³ Logistics Weight 27 kg kg Logistics Weight 33 kg kg Logistics Weight 54 kg kg Logistics Weight 61 kg kg Logistics Weight 97 kg kg Logistics Weight 110 kg kg Logistics Weight 115 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+    "searchText": "Westcoast Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Beige Brown Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 245 cm cm Dimensions Width 295 cm cm Dimensions Width 313 cm cm Logistics Package count 1 package package Logistics Package weight 27 kg kg Logistics Package weight 33 kg kg Logistics Package weight 54 kg kg Logistics Package weight 61 kg kg Logistics Product count 1 product product Logistics Volume 0.68 m³ m³ Logistics Volume 0.73 m³ m³ Logistics Volume 0.79 m³ m³ Logistics Volume 0.97 m³ m³ Logistics Volume 1.05 m³ m³ Logistics Weight 97 kg kg Logistics Weight 110 kg kg Logistics Weight 115 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "living-room",
@@ -148,6 +149,54 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "27-kg",
+        "valueLabel": "27 kg",
+        "href": "/attributes/logistics/package-weight/27-kg/",
+        "valueType": "enum",
+        "numericValue": 27,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "33-kg",
+        "valueLabel": "33 kg",
+        "href": "/attributes/logistics/package-weight/33-kg/",
+        "valueType": "enum",
+        "numericValue": 33,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "54-kg",
+        "valueLabel": "54 kg",
+        "href": "/attributes/logistics/package-weight/54-kg/",
+        "valueType": "enum",
+        "numericValue": 54,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "61-kg",
+        "valueLabel": "61 kg",
+        "href": "/attributes/logistics/package-weight/61-kg/",
+        "valueType": "enum",
+        "numericValue": 61,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "1-product",
@@ -216,54 +265,6 @@
         "valueType": "enum",
         "numericValue": 1.05,
         "unit": "m³"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "27-kg",
-        "valueLabel": "27 kg",
-        "href": "/attributes/logistics/weight/27-kg/",
-        "valueType": "enum",
-        "numericValue": 27,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "33-kg",
-        "valueLabel": "33 kg",
-        "href": "/attributes/logistics/weight/33-kg/",
-        "valueType": "enum",
-        "numericValue": 33,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "54-kg",
-        "valueLabel": "54 kg",
-        "href": "/attributes/logistics/weight/54-kg/",
-        "valueType": "enum",
-        "numericValue": 54,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "61-kg",
-        "valueLabel": "61 kg",
-        "href": "/attributes/logistics/weight/61-kg/",
-        "valueType": "enum",
-        "numericValue": 61,
-        "unit": "kg"
       },
       {
         "groupKey": "logistics",
@@ -365,7 +366,7 @@
   },
   "sortData": {
     "title": "Westcoast",
-    "summary": "Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+    "summary": "Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms.",
     "variantCount": 18,
     "categoryLabel": "Corner Sofas",
     "collectionLabel": "Living room",

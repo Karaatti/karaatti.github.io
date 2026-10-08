@@ -2,31 +2,38 @@
   {
     "sku": "200291",
     "name": "200291",
-    "title": "Moon Silver adjustable bed, 80 x 200 cm",
-    "variantSummary": "80 x 200 cm / Pocket spring / Grey",
+    "title": "Moon Silver Adjustable Bed, 80 × 200 cm",
+    "variantSummary": "80 × 200 cm / Pocket spring / Grey",
     "shortDescription": "Grey, 80 x 200 cm. Adjustable bed with 5-zone pocket spring support and wooden legs.",
     "selectionAttributes": {
-      "dimensions": "80 x 200 cm",
+      "dimensions": "80 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Grey",
-      "material": "Wood, Steel, Fabric"
+      "material": "Wood, Steel, Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Adjustable bed",
+      "colorLabel": "Grey",
+      "colorNote": "Light grey",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
-    "imageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+    "primaryImageUrl": "/products/adjustable-beds/moon-silver/200291_2.avif",
+    "imageUrl": "/products/adjustable-beds/moon-silver/200291_2.avif",
     "imageUrls": [
-      "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
-      "/products/adjustable-beds/moon-silver/200291_1.avif",
       "/products/adjustable-beds/moon-silver/200291_2.avif",
-      "/products/adjustable-beds/moon-silver/200291_3.avif",
-      "/products/adjustable-beds/moon-silver/200291_4.avif",
       "/products/adjustable-beds/moon-silver/200291_5.avif",
-      "/products/adjustable-beds/moon-silver/200291_6.avif"
+      "/products/adjustable-beds/moon-silver/200291_6.avif",
+      "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+      "/products/adjustable-beds/moon-silver/200291_3.avif",
+      "/products/adjustable-beds/moon-silver/200291_4.avif"
     ],
     "href": "/products/adjustable-beds/moon-silver/200291",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver adjustable bed, 80 x 200 cm Grey, 80 x 200 cm. Adjustable bed with 5-zone pocket spring support and wooden legs. Adjustable Beds Bedroom Moon Silver Bedroom Adjustable Beds Moon Silver Grey Fabric Metal Steel Wood Comfort Firmness Medium firm Configuration Leg height 15 cm cm Dimensions Depth 200 cm cm Dimensions Height 47 cm cm Dimensions Inner height 32 cm cm Dimensions Width 80 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.63 m³ m³ Logistics Weight 50 kg kg Logistics Weight 52 kg kg Setup Assembly time 30 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Motor warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Silver Adjustable Bed, 80 × 200 cm Grey, 80 x 200 cm. Adjustable bed with 5-zone pocket spring support and wooden legs. Adjustable Beds Bedroom Moon Silver Bedroom Adjustable Beds Moon Silver Grey Fabric Metal Steel Wood Comfort Firmness Medium firm Configuration Leg height 15 cm cm Dimensions Depth 200 cm cm Dimensions Height 47 cm cm Dimensions Inner height 32 cm cm Dimensions Width 80 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 52 kg kg Logistics Product count 1 product product Logistics Volume 0.63 m³ m³ Logistics Weight 50 kg kg Setup Assembly time 30 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Motor warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -190,6 +197,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "52-kg",
+          "valueLabel": "52 kg",
+          "href": "/attributes/logistics/package-weight/52-kg/",
+          "valueType": "enum",
+          "numericValue": 52,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -221,18 +240,6 @@
           "href": "/attributes/logistics/weight/50-kg/",
           "valueType": "enum",
           "numericValue": 50,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "52-kg",
-          "valueLabel": "52 kg",
-          "href": "/attributes/logistics/weight/52-kg/",
-          "valueType": "enum",
-          "numericValue": 52,
           "unit": "kg"
         },
         {
@@ -310,7 +317,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver adjustable bed, 80 x 200 cm",
+      "title": "Moon Silver Adjustable Bed, 80 × 200 cm",
       "summary": "Grey, 80 x 200 cm. Adjustable bed with 5-zone pocket spring support and wooden legs.",
       "variantCount": 1,
       "categoryLabel": "Adjustable Beds",
@@ -321,26 +328,35 @@
   {
     "sku": "200292",
     "name": "200292",
-    "title": "Moon Silver adjustable bed, 90 x 200 cm",
-    "variantSummary": "90 x 200 cm / Pocket spring / Grey",
+    "title": "Moon Silver Adjustable Bed, 90 × 200 cm",
+    "variantSummary": "90 × 200 cm / Pocket spring / Grey",
     "shortDescription": "Grey, 90 x 200 cm. Adjustable bed with 5-zone pocket spring support and wooden legs.",
     "selectionAttributes": {
-      "dimensions": "90 x 200 cm",
+      "dimensions": "90 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Grey",
-      "material": "Wood, Steel, Fabric"
+      "material": "Wood, Steel, Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Adjustable bed",
+      "colorLabel": "Grey",
+      "colorNote": "Light grey",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
-    "imageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
+    "primaryImageUrl": "/products/adjustable-beds/moon-silver/200291_2.avif",
+    "imageUrl": "/products/adjustable-beds/moon-silver/200291_2.avif",
     "imageUrls": [
+      "/products/adjustable-beds/moon-silver/200291_2.avif",
       "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
       "/products/adjustable-beds/moon-silver/200292_1.avif"
     ],
     "href": "/products/adjustable-beds/moon-silver/200292",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver adjustable bed, 90 x 200 cm Grey, 90 x 200 cm. Adjustable bed with 5-zone pocket spring support and wooden legs. Adjustable Beds Bedroom Moon Silver Bedroom Adjustable Beds Moon Silver Grey Fabric Metal Steel Wood Comfort Firmness Medium firm Configuration Leg height 15 cm cm Dimensions Depth 200 cm cm Dimensions Height 47 cm cm Dimensions Inner height 32 cm cm Dimensions Width 90 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.7 m³ m³ Logistics Weight 54 kg kg Logistics Weight 56 kg kg Setup Assembly time 30 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Motor warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Silver Adjustable Bed, 90 × 200 cm Grey, 90 x 200 cm. Adjustable bed with 5-zone pocket spring support and wooden legs. Adjustable Beds Bedroom Moon Silver Bedroom Adjustable Beds Moon Silver Grey Fabric Metal Steel Wood Comfort Firmness Medium firm Configuration Leg height 15 cm cm Dimensions Depth 200 cm cm Dimensions Height 47 cm cm Dimensions Inner height 32 cm cm Dimensions Width 90 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 56 kg kg Logistics Product count 1 product product Logistics Volume 0.7 m³ m³ Logistics Weight 54 kg kg Setup Assembly time 30 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Motor warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -504,6 +520,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "56-kg",
+          "valueLabel": "56 kg",
+          "href": "/attributes/logistics/package-weight/56-kg/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -535,18 +563,6 @@
           "href": "/attributes/logistics/weight/54-kg/",
           "valueType": "enum",
           "numericValue": 54,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "56-kg",
-          "valueLabel": "56 kg",
-          "href": "/attributes/logistics/weight/56-kg/",
-          "valueType": "enum",
-          "numericValue": 56,
           "unit": "kg"
         },
         {
@@ -624,7 +640,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver adjustable bed, 90 x 200 cm",
+      "title": "Moon Silver Adjustable Bed, 90 × 200 cm",
       "summary": "Grey, 90 x 200 cm. Adjustable bed with 5-zone pocket spring support and wooden legs.",
       "variantCount": 1,
       "categoryLabel": "Adjustable Beds",
@@ -635,26 +651,34 @@
   {
     "sku": "200293",
     "name": "200293",
-    "title": "Moon Silver adjustable bed, 105 x 200 cm",
-    "variantSummary": "105 x 200 cm / Pocket spring / Grey",
+    "title": "Moon Silver Adjustable Bed, 105 × 200 cm",
+    "variantSummary": "105 × 200 cm / Pocket spring / Grey",
     "shortDescription": "Grey, 105 x 200 cm. Adjustable bed with 5-zone pocket spring support and wooden legs.",
     "selectionAttributes": {
-      "dimensions": "105 x 200 cm",
+      "dimensions": "105 × 200 cm",
       "handedness": "",
       "comfortType": "Pocket spring",
       "color": "Grey",
-      "material": "Wood, Steel, Fabric"
+      "material": "Wood, Steel, Fabric",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Adjustable bed",
+      "colorLabel": "Grey",
+      "colorNote": "Light grey",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
     "imageUrl": "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
     "imageUrls": [
       "/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif",
-      "/products/adjustable-beds/moon-silver/200293_1.avif"
+      "/products/adjustable-beds/moon-silver/200292_1.avif"
     ],
     "href": "/products/adjustable-beds/moon-silver/200293",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Silver adjustable bed, 105 x 200 cm Grey, 105 x 200 cm. Adjustable bed with 5-zone pocket spring support and wooden legs. Adjustable Beds Bedroom Moon Silver Bedroom Adjustable Beds Moon Silver Grey Fabric Metal Steel Wood Comfort Firmness Medium firm Configuration Leg height 15 cm cm Dimensions Depth 200 cm cm Dimensions Height 47 cm cm Dimensions Inner height 32 cm cm Dimensions Width 105 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.82 m³ m³ Logistics Weight 60 kg kg Logistics Weight 62 kg kg Setup Assembly time 30 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Motor warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Moon Silver Adjustable Bed, 105 × 200 cm Grey, 105 x 200 cm. Adjustable bed with 5-zone pocket spring support and wooden legs. Adjustable Beds Bedroom Moon Silver Bedroom Adjustable Beds Moon Silver Grey Fabric Metal Steel Wood Comfort Firmness Medium firm Configuration Leg height 15 cm cm Dimensions Depth 200 cm cm Dimensions Height 47 cm cm Dimensions Inner height 32 cm cm Dimensions Width 105 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 62 kg kg Logistics Product count 1 product product Logistics Volume 0.82 m³ m³ Logistics Weight 60 kg kg Setup Assembly time 30 min min Support Zone count 5-zone Warranty Frame warranty 4000 days days Warranty Motor warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -818,6 +842,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "62-kg",
+          "valueLabel": "62 kg",
+          "href": "/attributes/logistics/package-weight/62-kg/",
+          "valueType": "enum",
+          "numericValue": 62,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -849,18 +885,6 @@
           "href": "/attributes/logistics/weight/60-kg/",
           "valueType": "enum",
           "numericValue": 60,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "62-kg",
-          "valueLabel": "62 kg",
-          "href": "/attributes/logistics/weight/62-kg/",
-          "valueType": "enum",
-          "numericValue": 62,
           "unit": "kg"
         },
         {
@@ -938,7 +962,7 @@
       ]
     },
     "sortData": {
-      "title": "Moon Silver adjustable bed, 105 x 200 cm",
+      "title": "Moon Silver Adjustable Bed, 105 × 200 cm",
       "summary": "Grey, 105 x 200 cm. Adjustable bed with 5-zone pocket spring support and wooden legs.",
       "variantCount": 1,
       "categoryLabel": "Adjustable Beds",

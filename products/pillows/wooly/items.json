@@ -1,0 +1,85 @@
+[
+  {
+    "sku": "221938",
+    "name": "221938",
+    "title": "Wooly Pillow",
+    "variantSummary": "50 × 60 cm / White",
+    "shortDescription": "Wooly Pillow in White, measuring 60 × 50 × 12 cm and made from Cotton, Wool. A simple rectangular pillow for bedrooms and casual soft furnishing arrangements.",
+    "selectionAttributes": {
+      "dimensions": "50 × 60 cm",
+      "handedness": "",
+      "comfortType": "",
+      "color": "White",
+      "material": "Cotton, Wool",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Pillow",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
+    },
+    "primaryImageUrl": "/products/pillows/wooly/221938_2.avif",
+    "imageUrl": "/products/pillows/wooly/221938_2.avif",
+    "imageUrls": [
+      "/products/pillows/wooly/221938_2.avif",
+      "/products/pillows/wooly/221938_1.avif"
+    ],
+    "href": "/products/pillows/wooly/221938",
+    "type": "file",
+    "filterData": {
+      "searchText": "Wooly Pillow Wooly Pillow in White, measuring 60 × 50 × 12 cm and made from Cotton, Wool. A simple rectangular pillow for bedrooms and casual soft furnishing arrangements. Pillows Bedroom Wooly Bedroom Pillows Wooly White Cotton Wool",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "pillows",
+          "label": "Pillows",
+          "href": "/products/pillows/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "wooly",
+          "label": "Wooly",
+          "href": "/families/wooly/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "wool",
+          "label": "Wool",
+          "href": "/materials/wool/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Wooly Pillow",
+      "summary": "Wooly Pillow in White, measuring 60 × 50 × 12 cm and made from Cotton, Wool. A simple rectangular pillow for bedrooms and casual soft furnishing arrangements.",
+      "variantCount": 1,
+      "categoryLabel": "Pillows",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Wooly"
+    }
+  }
+]

@@ -6,16 +6,33 @@
   <title>About us - NEST &amp; LIVING</title>
   <meta
     name="description"
-    content="Learn what Nest &amp; Living is, how this site works as a dedicated product catalog, and how the collection is structured across rooms, families, and product details."
+    content="Explore Nest &amp; Living furniture and bedroom essentials. Compare sizes, colours and materials, then find a retailer to help with your purchase."
   />
   <link rel="canonical" href="https://nestliving.dk/about" />
   <link rel="stylesheet" href="/styles.css" />
   <script src="/script.js" defer></script>
+<!-- webtool-brand-head:start -->
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#282421">
+<!-- webtool-brand-head:end -->
+
+
 </head>
 <body>
   <header id="site-header" class="header">
-  <div class="header-container with-texture-2">
-    <a href="/" class="logo"><img src="/images/logo_small.svg" alt="Nest &amp; Living logo"><span class="logo-text">Nest &amp; Living</span></a>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div class="header-container with-texture-2" data-brand-surface="dark">
+    <a href="/" class="logo brand-logo" aria-label="Nest &amp; Living home">
+      <picture class="brand-logo__picture">
+        <source media="(max-width: 767px)" srcset="/images/brand/nest-living-monogram-light.svg">
+        <img class="brand-logo__image" data-brand-variant="light" src="/images/brand/nest-living-wordmark-light.svg" alt="" width="618" height="191">
+      </picture>
+    </a>
 
     <div class="header-search-slot" data-lazy-search-host="true">
       <div class="search-wrapper search-wrapper--header">
@@ -27,8 +44,6 @@
               placeholder="Search products..."
               autocomplete="off"
               aria-label="Search products"
-              aria-controls="site-search-panel"
-              aria-expanded="false"
             />
             <button
               type="button"
@@ -83,7 +98,7 @@
         <div
           id="site-search-panel"
           class="search-panel"
-          aria-hidden="true"
+          inert
         >
           <div class="search-surface with-texture">
             <div class="search-results-toolbar">
@@ -111,8 +126,8 @@
           <ul class="dropdown-menu">
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/bedroom" data-submenu="/collections/bedroom">
-                  <img src="/images/bedroom.svg" alt="Bedroom icon" class="category-icon">
+                <a href="/collections/bedroom">
+                  <img src="/images/bedroom.svg" alt="Bedroom icon" class="category-icon" width="1024" height="1024">
                   Bedroom
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Bedroom product groups">
@@ -133,8 +148,8 @@
             </li>
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/living-room" data-submenu="/collections/living-room">
-                  <img src="/images/living-room.svg" alt="Living room icon" class="category-icon">
+                <a href="/collections/living-room">
+                  <img src="/images/living-room.svg" alt="Living room icon" class="category-icon" width="1024" height="1024">
                   Living room
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Living room product groups">
@@ -152,8 +167,8 @@
             </li>
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/dining-room" data-submenu="/collections/dining-room">
-                  <img src="/images/dining-room.svg" alt="Dining room icon" class="category-icon">
+                <a href="/collections/dining-room">
+                  <img src="/images/dining-room.svg" alt="Dining room icon" class="category-icon" width="1024" height="1024">
                   Dining room
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Dining room product groups">
@@ -165,22 +180,25 @@
             </li>
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/storage-shelving" data-submenu="/collections/storage-shelving">
-                  <img src="/images/storage-shelving.svg" alt="Home Details icon" class="category-icon">
+                <a href="/collections/storage-shelving">
+                  <img src="/images/storage-shelving.svg" alt="Home Details icon" class="category-icon" width="1024" height="1024">
                   Home Details
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Home Details product groups">
                     <a class="dropdown-menu-group-link" href="/products/decorative-cushions/">Decorative Cushions</a>
                     <a class="dropdown-menu-group-link" href="/products/console-tables/">Console Tables</a>
+                    <a class="dropdown-menu-group-link" href="/products/sideboards/">Sideboards</a>
+                    <a class="dropdown-menu-group-link" href="/products/tv-stands/">TV Stands</a>
                     <a class="dropdown-menu-group-link" href="/products/shelves/">Shelves</a>
+                    <a class="dropdown-menu-group-link" href="/products/storage-cabinets/">Storage Cabinets</a>
                     <a class="dropdown-menu-group-link" href="/products/rugs/">Rugs</a>
                 </nav>
               </div>
             </li>
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/outdoor" data-submenu="/collections/outdoor">
-                  <img src="/images/outdoor.svg" alt="Outdoor icon" class="category-icon">
+                <a href="/collections/outdoor">
+                  <img src="/images/outdoor.svg" alt="Outdoor icon" class="category-icon" width="512" height="512">
                   Outdoor
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Outdoor product groups">
@@ -188,6 +206,7 @@
                     <a class="dropdown-menu-group-link" href="/products/outdoor-dining-chairs/">Outdoor Dining Chairs</a>
                     <a class="dropdown-menu-group-link" href="/products/outdoor-lounge-sets/">Outdoor Lounge Sets</a>
                     <a class="dropdown-menu-group-link" href="/products/outdoor-lounge-seating/">Outdoor Lounge Seating</a>
+                    <a class="dropdown-menu-group-link" href="/products/outdoor-coffee-tables/">Outdoor Coffee &amp; Side Tables</a>
                     <a class="dropdown-menu-group-link" href="/products/outdoor-sun-loungers/">Outdoor Sun Loungers</a>
                     <a class="dropdown-menu-group-link" href="/products/outdoor-storage/">Outdoor Storage</a>
                     <a class="dropdown-menu-group-link" href="/products/planters-pots/">Planters &amp; Pots</a>
@@ -220,7 +239,13 @@
     </div>
 
   </div>
+  <span id="main-content" class="skip-target" tabindex="-1"></span>
 </header>
+
+
+
+
+
 
 
 
@@ -232,17 +257,15 @@
     <main class="about-page" role="main">
       <section class="about-page__hero with-texture-2">
         <p class="about-page__eyebrow">About</p>
-        <h1>What Nest &amp; Living is</h1>
+        <h1>Furniture for everyday homes</h1>
         <div class="family-summary">
           <p>
-            Nest &amp; Living is a dedicated product catalog for the Nest &amp; Living collection. The purpose of this
-            site is practical: give the range its own clear structure so products, variants, materials, colors, and
-            specifications are easier to browse than inside a broader store view.
+            Nest &amp; Living brings together furniture and bedroom essentials with practical design and sensible prices.
+            Explore the range, compare sizes and finishes, and find a retailer to help with your purchase.
           </p>
           <p>
             The collection spans bedrooms, living rooms, dining areas, storage, home details, and outdoor products.
-            Instead of presenting everything as a loose stream of campaigns or listings, this site organizes the range
-            into stable families and category pages that are easier to compare and revisit.
+            Browse by room or product type, then open a product to see its available sizes, colours, materials and details.
           </p>
         </div>
       </section>
@@ -251,51 +274,89 @@
         <article class="about-page__panel with-texture">
           <h2>What you can do here</h2>
           <p>
-            The site is built for structured product discovery. You can move from room collections to product groups,
-            from product groups to family pages, and from family pages to individual variants with their own images,
-            dimensions, and structured product details.
+            Start with a room or product type, compare the designs, and choose an exact size and finish.
+            Each product has its own page with images and details you can return to or share.
           </p>
           <ul class="about-page__list">
             <li>Browse the range by room, category, or product family.</li>
-            <li>Compare variants, colors, sizes, and attributes on the same family path.</li>
-            <li>Use registry pages for materials, colors, attributes, and specifications.</li>
+            <li>Compare the colours, sizes and features of related products.</li>
+            <li>Explore materials and product details to narrow your choices.</li>
             <li>Use site search when you already know the family, material, or feature you need.</li>
           </ul>
         </article>
 
         <article class="about-page__panel with-texture-2">
-          <h2>How the collection is described</h2>
+          <h2>Easy to explore and share</h2>
           <p>
-            Masku describes Nest &amp; Living as a collection built around accessible design, everyday usability, and a
-            calm Scandinavian look. That direction is useful here too, but the site itself stays grounded: the goal is
-            not to oversell, but to make the range understandable.
+            Product pages have direct links, so you can save a choice or send it to someone else.
+            Search engines can read the product details too. Even a crawler should be able to establish how wide a bed is.
           </p>
           <p>
-            In practice that means clearer family naming, practical product data, stable image paths, and direct links
-            between what a product is, how it looks, and where it fits in the broader collection.
+            You can browse the catalogue without creating an account. Prices, availability, orders and delivery
+            are handled by the retailer; this site helps you decide what to ask about.
           </p>
         </article>
       </section>
 
-      <section class="about-page__panel with-texture">
-        <h2>Why this site exists</h2>
+      <section class="about-page__panel about-page__panel--olive with-texture">
+        <p class="about-page__eyebrow">The unusually specific part</p>
+        <h2>Yes, even 200 centimetres has a page</h2>
         <p>
-          Nest &amp; Living is maintained as a static site on purpose. That keeps the public experience fast, simple,
-          and crawlable while still supporting richer filtering, structured data, product registries, and family-level
-          navigation.
+          Materials, colors, dimensions, package counts, mechanisms, and other published attributes have their own
+          registry pages. That may sound excessive until you need to find every product with the same measurement.
+          Then it suddenly looks less like excess and more like basic civilisation.
         </p>
         <p>
-          Behind the scenes, the site is maintained with an internal Webtool that keeps navigation, images, registries,
-          search data, product-family artifacts, and public page structure in sync. The public side stays lightweight
-          even when the catalog itself grows.
+          These pages connect the exact value to the product types and families that use it. They are written for
+          comparison, search, and the quiet satisfaction of discovering that &ldquo;1 package&rdquo; is indeed an official fact.
+        </p>
+      </section>
+
+      <section class="about-page__grid">
+        <article class="about-page__panel with-texture-2">
+          <h2>What the catalog can tell you</h2>
+          <ul class="about-page__list">
+            <li>Which variants belong to the same product family.</li>
+            <li>What dimensions, materials, colors, and functions are published.</li>
+            <li>Where a family sits in the wider collection.</li>
+            <li>Which details are genuinely known, rather than decoratively implied.</li>
+          </ul>
+        </article>
+
+        <article class="about-page__panel with-texture">
+          <h2>What it cannot decide for you</h2>
+          <p>
+            The catalog can help narrow the field, but it cannot sit on the sofa, inspect your afternoon light, or
+            negotiate with the stairwell. Measurements are useful; your doorway retains veto power.
+          </p>
+          <p>
+            Colors also vary between screens and rooms. Use the images for orientation and confirm important finish,
+            delivery, and availability details with the retailer before ordering.
+          </p>
+        </article>
+      </section>
+
+      <section class="about-page__panel about-page__panel--taupe with-texture-2">
+        <p class="about-page__eyebrow">Implementation notes</p>
+        <h2>The Cartesian product is our enemy</h2>
+        <p>
+          Give one sofa six fabrics, four widths, two orientations, three leg finishes, and a few functions, and the
+          tidy product family becomes a combinatorial incident. The Cartesian product is not malicious. It simply has
+          no sense of proportion.
+        </p>
+        <p>
+          This site is evidence that the problem can still be defeated with a stubbornly static public solution, as
+          long as enough dynamic machinery works behind it. An internal Webtool resolves families, generates pages,
+          synchronises navigation, prepares search data, and leaves the browser with HTML, CSS, and JavaScript that
+          already know their job. Who needs frameworks? Not the delivered page, apparently.
         </p>
       </section>
 
       <section class="about-page__panel with-texture-2">
         <h2>Need help or more context?</h2>
         <p>
-          For customer support and practical questions, continue to the help and FAQ pages. If you want to browse the
-          full range directly, start from products or collections.
+          For customer support and practical questions, continue to the Help Center and FAQ. For product discovery,
+          start from products or collections. Retailers can confirm prices, availability and delivery details.
         </p>
         <div class="about-page__links" aria-label="About page quick links">
           <a class="about-page__link" href="/products/">Browse products</a>
@@ -307,9 +368,14 @@
       </section>
     </main>
   </div>
-  <footer id="site-footer" class="footer with-texture">
+  <footer id="site-footer" class="footer with-texture" data-brand-surface="dark">
   <button id="scroll-btn" aria-label="Move back to the top" title="Move back to the top">&uarr;</button>
   <div class="footer-inner">
+    <div class="footer-brand">
+      <a href="/" aria-label="Nest &amp; Living home">
+        <img data-brand-variant="light" src="/images/brand/nest-living-wordmark-light.svg" alt="" width="618" height="191" loading="lazy">
+      </a>
+    </div>
     <div class="footer-columns">
       <div class="footer-column">
         <h2>Company</h2>
@@ -327,10 +393,6 @@
         </ul>
       </div>
 
-      <div class="footer-column">
-        <h2>Follow Us</h2>
-        <ul class="social-media-list"></ul>
-      </div>
     </div>
 
     <div class="footer-contact">
@@ -343,6 +405,8 @@
     </div>
   </div>
 </footer>
+
+
 
 
 

@@ -1,0 +1,64 @@
+{
+  "familyTitle": "Stayergo Shape",
+  "familySummary": "Stayergo Shape pillows offer a compact rectangular profile for everyday sleeping comfort in a clean white finish.",
+  "familyDescription": "The Stayergo Shape family brings together pillows designed in a compact rectangular form for everyday use in the bedroom. Their simple white look makes them easy to coordinate with a range of bedding styles. This pillow measures 50.5 × 34 × 10.5 cm and is made from Cotton and Polyester. It suits those looking for a shaped pillow format with a neat, understated appearance.",
+  "primaryImageUrl": "/products/pillows/stayergo-shape/221940_2.avif",
+  "schemaCategory": "Pillows",
+  "variantCount": 1,
+  "productFamilyName": "Stayergo Shape",
+  "productFamilyKey": "stayergo-shape",
+  "productFamilyRelativeDir": "families/stayergo-shape",
+  "filterData": {
+    "searchText": "Stayergo Shape Stayergo Shape pillows offer a compact rectangular profile for everyday sleeping comfort in a clean white finish. Pillows Bedroom Stayergo Shape Bedroom Pillows Stayergo Shape White Cotton Polyester",
+    "collections": [
+      {
+        "key": "bedroom",
+        "label": "Bedroom",
+        "href": "/collections/bedroom"
+      }
+    ],
+    "categories": [
+      {
+        "key": "pillows",
+        "label": "Pillows",
+        "href": "/products/pillows/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "stayergo-shape",
+        "label": "Stayergo Shape",
+        "href": "/families/stayergo-shape/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "white",
+        "label": "White",
+        "href": "/colors/white/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "cotton",
+        "label": "Cotton",
+        "href": "/materials/cotton/"
+      },
+      {
+        "key": "polyester",
+        "label": "Polyester",
+        "href": "/materials/polyester/"
+      }
+    ],
+    "specifications": [],
+    "attributes": []
+  },
+  "sortData": {
+    "title": "Stayergo Shape",
+    "summary": "Stayergo Shape pillows offer a compact rectangular profile for everyday sleeping comfort in a clean white finish.",
+    "variantCount": 1,
+    "categoryLabel": "Pillows",
+    "collectionLabel": "Bedroom",
+    "productFamilyLabel": "Stayergo Shape"
+  }
+}

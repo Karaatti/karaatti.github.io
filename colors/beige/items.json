@@ -16,7 +16,7 @@
     "type": "dir",
     "title": "Moon Gold Continental Bed",
     "schemaCategory": "Continental Beds",
-    "variantCount": 12,
+    "variantCount": 13,
     "displayColors": [
       "Beige"
     ]
@@ -88,6 +88,17 @@
     ]
   },
   {
+    "name": "saarni",
+    "href": "/products/outdoor-dining-tables/saarni/",
+    "type": "dir",
+    "title": "Saarni",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 5,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
     "name": "nordic",
     "href": "/products/outdoor-lounge-sets/nordic/",
     "type": "dir",
@@ -97,17 +108,6 @@
     "displayColors": [
       "Beige",
       "White"
-    ]
-  },
-  {
-    "name": "saarni",
-    "href": "/products/outdoor-dining-tables/saarni/",
-    "type": "dir",
-    "title": "Saarni",
-    "schemaCategory": "Outdoor Dining Tables",
-    "variantCount": 4,
-    "displayColors": [
-      "Beige"
     ]
   },
   {
@@ -130,18 +130,6 @@
     "variantCount": 3,
     "displayColors": [
       "Beige"
-    ]
-  },
-  {
-    "name": "nordic",
-    "href": "/products/outdoor-lounge-seating/nordic/",
-    "type": "dir",
-    "title": "Nordic Outdoor Lounge Seating",
-    "schemaCategory": "Outdoor Lounge Seating",
-    "variantCount": 3,
-    "displayColors": [
-      "Beige",
-      "White"
     ]
   },
   {
@@ -179,6 +167,17 @@
   },
   {
     "name": "haven",
+    "href": "/products/outdoor-lounge-seating/haven/",
+    "type": "dir",
+    "title": "Haven",
+    "schemaCategory": "Outdoor Lounge Seating",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "haven",
     "href": "/products/outdoor-lounge-sets/haven/",
     "type": "dir",
     "title": "Haven",
@@ -195,6 +194,17 @@
     "type": "dir",
     "title": "Heaven",
     "schemaCategory": "4-Seater Sofas",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "hike",
+    "href": "/products/decorative-cushions/hike/",
+    "type": "dir",
+    "title": "Hike Decorative Cushion",
+    "schemaCategory": "Decorative Cushions",
     "variantCount": 2,
     "displayColors": [
       "Beige"
@@ -247,15 +257,14 @@
     ]
   },
   {
-    "name": "merida",
-    "href": "/products/bar-stools/merida/",
+    "name": "meta",
+    "href": "/products/coffee-tables/meta/",
     "type": "dir",
-    "title": "Merida",
-    "schemaCategory": "Bar Stools",
+    "title": "Meta",
+    "schemaCategory": "Coffee Tables",
     "variantCount": 2,
     "displayColors": [
-      "Beige",
-      "White"
+      "Beige"
     ]
   },
   {
@@ -266,8 +275,7 @@
     "schemaCategory": "Dining Tables",
     "variantCount": 2,
     "displayColors": [
-      "Beige",
-      "Brown"
+      "Beige"
     ]
   },
   {
@@ -293,6 +301,17 @@
     ]
   },
   {
+    "name": "niela",
+    "href": "/products/dining-chairs/niela/",
+    "type": "dir",
+    "title": "Niela",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
     "name": "nordic",
     "href": "/products/outdoor-storage/nordic/",
     "type": "dir",
@@ -304,15 +323,14 @@
     ]
   },
   {
-    "name": "palazzo",
-    "href": "/products/outdoor-lounge-sets/palazzo/",
+    "name": "nordic",
+    "href": "/products/gazebos-pergolas/nordic/",
     "type": "dir",
-    "title": "Palazzo",
-    "schemaCategory": "Outdoor Lounge Sets",
+    "title": "Nordic Pergolas",
+    "schemaCategory": "Gazebos & Pergolas",
     "variantCount": 2,
     "displayColors": [
-      "Beige",
-      "Black"
+      "Beige"
     ]
   },
   {
@@ -350,6 +368,17 @@
     ]
   },
   {
+    "name": "sparkle",
+    "href": "/products/chaise-sofas/sparkle/",
+    "type": "dir",
+    "title": "Sparkle",
+    "schemaCategory": "Chaise Sofas",
+    "variantCount": 2,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
     "name": "westcoast",
     "href": "/products/chaise-sofas/westcoast/",
     "type": "dir",
@@ -372,6 +401,61 @@
     ]
   },
   {
+    "name": "bacoli",
+    "href": "/products/dining-tables/bacoli/",
+    "type": "dir",
+    "title": "Bacoli",
+    "schemaCategory": "Dining Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "bacoli",
+    "href": "/products/shelves/bacoli/",
+    "type": "dir",
+    "title": "Bacoli",
+    "schemaCategory": "Shelves",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "bacoli",
+    "href": "/products/sideboards/bacoli/",
+    "type": "dir",
+    "title": "Bacoli",
+    "schemaCategory": "Sideboards",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "bacoli",
+    "href": "/products/storage-cabinets/bacoli/",
+    "type": "dir",
+    "title": "Bacoli",
+    "schemaCategory": "Storage Cabinets",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "bacoli",
+    "href": "/products/tv-stands/bacoli/",
+    "type": "dir",
+    "title": "Bacoli",
+    "schemaCategory": "TV Stands",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
     "name": "bay",
     "href": "/products/swivel-chairs/bay/",
     "type": "dir",
@@ -379,8 +463,7 @@
     "schemaCategory": "Swivel Chairs",
     "variantCount": 1,
     "displayColors": [
-      "Beige",
-      "Black"
+      "Beige"
     ]
   },
   {
@@ -388,6 +471,28 @@
     "href": "/products/swivel-chairs/blow/",
     "type": "dir",
     "title": "Blow",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "bow",
+    "href": "/products/dining-chairs/bow/",
+    "type": "dir",
+    "title": "Bow",
+    "schemaCategory": "Dining Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "breeze",
+    "href": "/products/swivel-chairs/breeze/",
+    "type": "dir",
+    "title": "Breeze",
     "schemaCategory": "Swivel Chairs",
     "variantCount": 1,
     "displayColors": [
@@ -413,8 +518,7 @@
     "schemaCategory": "Armchairs",
     "variantCount": 1,
     "displayColors": [
-      "Beige",
-      "Brown"
+      "Beige"
     ]
   },
   {
@@ -425,8 +529,7 @@
     "schemaCategory": "Armchairs",
     "variantCount": 1,
     "displayColors": [
-      "Beige",
-      "Brown"
+      "Beige"
     ]
   },
   {
@@ -435,6 +538,39 @@
     "type": "dir",
     "title": "Haley Footstool",
     "schemaCategory": "Footstools",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "haven",
+    "href": "/products/outdoor-dining-chairs/haven/",
+    "type": "dir",
+    "title": "Haven",
+    "schemaCategory": "Outdoor Dining Chairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "haven",
+    "href": "/products/outdoor-dining-tables/haven/",
+    "type": "dir",
+    "title": "Haven",
+    "schemaCategory": "Outdoor Dining Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "house-nordic-beckley",
+    "href": "/products/planters-pots/house-nordic-beckley/",
+    "type": "dir",
+    "title": "House Nordic Beckley Planter",
+    "schemaCategory": "Planters & Pots",
     "variantCount": 1,
     "displayColors": [
       "Beige"
@@ -514,8 +650,51 @@
     "schemaCategory": "Outdoor Dining Tables",
     "variantCount": 1,
     "displayColors": [
-      "Beige",
-      "Brown"
+      "Beige"
+    ]
+  },
+  {
+    "name": "meta",
+    "href": "/products/sideboards/meta/",
+    "type": "dir",
+    "title": "Meta",
+    "schemaCategory": "Sideboards",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "meta",
+    "href": "/products/storage-cabinets/meta/",
+    "type": "dir",
+    "title": "Meta",
+    "schemaCategory": "Storage Cabinets",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "meta",
+    "href": "/products/tv-stands/meta/",
+    "type": "dir",
+    "title": "Meta",
+    "schemaCategory": "TV Stands",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "metz",
+    "href": "/products/coffee-tables/metz/",
+    "type": "dir",
+    "title": "Metz",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
     ]
   },
   {
@@ -530,11 +709,22 @@
     ]
   },
   {
-    "name": "nordic",
-    "href": "/products/gazebos-pergolas/nordic/",
+    "name": "oak",
+    "href": "/products/console-tables/oak/",
     "type": "dir",
-    "title": "Nordic Gazebos & Pergolas",
-    "schemaCategory": "Gazebos & Pergolas",
+    "title": "Oak",
+    "schemaCategory": "Console Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "palazzo",
+    "href": "/products/outdoor-lounge-sets/palazzo/",
+    "type": "dir",
+    "title": "Palazzo",
+    "schemaCategory": "Outdoor Lounge Sets",
     "variantCount": 1,
     "displayColors": [
       "Beige"
@@ -545,6 +735,50 @@
     "href": "/products/coffee-tables/reef/",
     "type": "dir",
     "title": "Reef",
+    "schemaCategory": "Coffee Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "stavanger",
+    "href": "/products/outdoor-coffee-tables/stavanger/",
+    "type": "dir",
+    "title": "Stavanger",
+    "schemaCategory": "Outdoor Coffee & Side Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "swallow",
+    "href": "/products/side-tables/swallow/",
+    "type": "dir",
+    "title": "Swallow",
+    "schemaCategory": "Side Tables",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "swan",
+    "href": "/products/armchairs/swan/",
+    "type": "dir",
+    "title": "Swan",
+    "schemaCategory": "Armchairs",
+    "variantCount": 1,
+    "displayColors": [
+      "Beige"
+    ]
+  },
+  {
+    "name": "tilda",
+    "href": "/products/coffee-tables/tilda/",
+    "type": "dir",
+    "title": "Tilda",
     "schemaCategory": "Coffee Tables",
     "variantCount": 1,
     "displayColors": [

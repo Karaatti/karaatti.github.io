@@ -2,33 +2,41 @@
   {
     "sku": "198382",
     "name": "198382",
-    "title": "Heaven 4-Seater Sofa, Beige, 296 x 182 cm",
-    "variantSummary": "296 x 182 cm / Beige",
+    "title": "Heaven Chaise Sofa, Beige",
+    "variantSummary": "296 × 182 cm / Beige",
     "shortDescription": "Beige fabric upholstery with reversible chaise and low armrests.",
     "selectionAttributes": {
-      "dimensions": "296 x 182 cm",
+      "dimensions": "296 × 182 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Metal, Fabric, Plywood, Wood, Foam"
+      "material": "Metal, Fabric, Plywood, Wood, Foam",
+      "productType": "Chaise sofa",
+      "productTypeNote": "296 × 182 cm",
+      "productNoun": "Chaise sofa",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "productType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
-    "imageUrl": "/products/four-seater-sofas/heaven/198382_1.avif",
+    "primaryImageUrl": "/products/four-seater-sofas/heaven/198382_3.avif",
+    "imageUrl": "/products/four-seater-sofas/heaven/198382_3.avif",
     "imageUrls": [
-      "/products/four-seater-sofas/heaven/198382_1.avif",
-      "/products/four-seater-sofas/heaven/198382_2.avif",
       "/products/four-seater-sofas/heaven/198382_3.avif",
       "/products/four-seater-sofas/heaven/198382_4.avif",
-      "/products/four-seater-sofas/heaven/198382_5.avif",
-      "/products/four-seater-sofas/heaven/198382_6.avif",
+      "/products/four-seater-sofas/heaven/198382_2.avif",
       "/products/four-seater-sofas/heaven/198382_7.avif",
       "/products/four-seater-sofas/heaven/198382_8.avif",
-      "/products/four-seater-sofas/heaven/198382_9.avif"
+      "/products/four-seater-sofas/heaven/198382_9.avif",
+      "/products/four-seater-sofas/heaven/198382_1.avif",
+      "/products/four-seater-sofas/heaven/198382_5.avif",
+      "/products/four-seater-sofas/heaven/198382_6.avif"
     ],
     "href": "/products/four-seater-sofas/heaven/198382",
     "type": "file",
     "filterData": {
-      "searchText": "Heaven 4-Seater Sofa, Beige, 296 x 182 cm Beige fabric upholstery with reversible chaise and low armrests. 4-Seater Sofas Living room Heaven Living room 4-Seater Sofas Heaven Beige Fabric Foam Metal Plywood Wood Care Cleaning method Dry clean Configuration Handedness configuration Reversible Dimensions Depth 182 cm cm Dimensions Height 89 cm cm Dimensions Main section depth 106 cm cm Dimensions Width 296 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.58 m³ m³ Logistics Weight 37 kg kg Logistics Weight 118 kg kg Padding Foam density 24 kg/m³ kg/m³ Seating Seat count 3 seat seat Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Heaven Chaise Sofa, Beige Beige fabric upholstery with reversible chaise and low armrests. 4-Seater Sofas Living room Heaven Living room 4-Seater Sofas Heaven Beige Fabric Foam Metal Plywood Wood Care Cleaning method Dry clean Configuration Handedness configuration Reversible Dimensions Depth 182 cm cm Dimensions Height 89 cm cm Dimensions Main section depth 106 cm cm Dimensions Width 296 cm cm Logistics Package count 1 package package Logistics Package weight 37 kg kg Logistics Product count 1 product product Logistics Volume 0.58 m³ m³ Logistics Weight 118 kg kg Padding Foam density 24 kg/m³ kg/m³ Seating Seat count 3 seat seat Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -169,6 +177,18 @@
           "valueType": "enum",
           "numericValue": 1,
           "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "37-kg",
+          "valueLabel": "37 kg",
+          "href": "/attributes/logistics/package-weight/37-kg/",
+          "valueType": "enum",
+          "numericValue": 37,
+          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -199,18 +219,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "37-kg",
-          "valueLabel": "37 kg",
-          "href": "/attributes/logistics/weight/37-kg/",
-          "valueType": "enum",
-          "numericValue": 37,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "118-kg",
           "valueLabel": "118 kg",
           "href": "/attributes/logistics/weight/118-kg/",
@@ -305,7 +313,7 @@
       ]
     },
     "sortData": {
-      "title": "Heaven 4-Seater Sofa, Beige, 296 x 182 cm",
+      "title": "Heaven Chaise Sofa, Beige",
       "summary": "Beige fabric upholstery with reversible chaise and low armrests.",
       "variantCount": 1,
       "categoryLabel": "4-Seater Sofas",
@@ -316,35 +324,43 @@
   {
     "sku": "198383",
     "name": "198383",
-    "title": "Heaven 4-Seater Sofa, Grey, 296 x 182 cm",
-    "variantSummary": "296 x 182 cm / Grey",
+    "title": "Heaven Chaise Sofa, Grey",
+    "variantSummary": "296 × 182 cm / Grey",
     "shortDescription": "Grey fabric upholstery with reversible chaise and low armrests.",
     "selectionAttributes": {
-      "dimensions": "296 x 182 cm",
+      "dimensions": "296 × 182 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Metal, Fabric, Plywood, Wood, Foam"
+      "material": "Metal, Fabric, Plywood, Wood, Foam",
+      "productType": "Chaise sofa",
+      "productTypeNote": "296 × 182 cm",
+      "productNoun": "Chaise sofa",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "productType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/four-seater-sofas/heaven/198383_1.avif",
-    "imageUrl": "/products/four-seater-sofas/heaven/198383_1.avif",
+    "primaryImageUrl": "/products/four-seater-sofas/heaven/198383_2.avif",
+    "imageUrl": "/products/four-seater-sofas/heaven/198383_2.avif",
     "imageUrls": [
-      "/products/four-seater-sofas/heaven/198383_1.avif",
       "/products/four-seater-sofas/heaven/198383_2.avif",
-      "/products/four-seater-sofas/heaven/198383_3.avif",
       "/products/four-seater-sofas/heaven/198383_4.avif",
       "/products/four-seater-sofas/heaven/198383_5.avif",
-      "/products/four-seater-sofas/heaven/198383_6.avif",
-      "/products/four-seater-sofas/heaven/198383_7.avif",
+      "/products/four-seater-sofas/heaven/198383_3.avif",
       "/products/four-seater-sofas/heaven/198383_8.avif",
       "/products/four-seater-sofas/heaven/198383_9.avif",
-      "/products/four-seater-sofas/heaven/198383_10.avif",
-      "/products/four-seater-sofas/heaven/198383_11.avif"
+      "/products/four-seater-sofas/heaven/198383_11.avif",
+      "/products/four-seater-sofas/heaven/198383_1.avif",
+      "/products/four-seater-sofas/heaven/198383_6.avif",
+      "/products/four-seater-sofas/heaven/198383_7.avif",
+      "/products/four-seater-sofas/heaven/198383_10.avif"
     ],
     "href": "/products/four-seater-sofas/heaven/198383",
     "type": "file",
     "filterData": {
-      "searchText": "Heaven 4-Seater Sofa, Grey, 296 x 182 cm Grey fabric upholstery with reversible chaise and low armrests. 4-Seater Sofas Living room Heaven Living room 4-Seater Sofas Heaven Grey Fabric Foam Metal Plywood Wood Care Cleaning method Dry clean Configuration Handedness configuration Reversible Dimensions Depth 182 cm cm Dimensions Height 89 cm cm Dimensions Main section depth 106 cm cm Dimensions Width 296 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.86 m³ m³ Logistics Weight 57 kg kg Logistics Weight 118 kg kg Padding Foam density 24 kg/m³ kg/m³ Seating Seat count 3 seat seat Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Heaven Chaise Sofa, Grey Grey fabric upholstery with reversible chaise and low armrests. 4-Seater Sofas Living room Heaven Living room 4-Seater Sofas Heaven Grey Fabric Foam Metal Plywood Wood Care Cleaning method Dry clean Configuration Handedness configuration Reversible Dimensions Depth 182 cm cm Dimensions Height 89 cm cm Dimensions Main section depth 106 cm cm Dimensions Width 296 cm cm Logistics Package count 1 package package Logistics Package weight 57 kg kg Logistics Product count 1 product product Logistics Volume 0.86 m³ m³ Logistics Weight 118 kg kg Padding Foam density 24 kg/m³ kg/m³ Seating Seat count 3 seat seat Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -489,6 +505,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "57-kg",
+          "valueLabel": "57 kg",
+          "href": "/attributes/logistics/package-weight/57-kg/",
+          "valueType": "enum",
+          "numericValue": 57,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -509,18 +537,6 @@
           "valueType": "enum",
           "numericValue": 0.86,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "57-kg",
-          "valueLabel": "57 kg",
-          "href": "/attributes/logistics/weight/57-kg/",
-          "valueType": "enum",
-          "numericValue": 57,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -621,7 +637,7 @@
       ]
     },
     "sortData": {
-      "title": "Heaven 4-Seater Sofa, Grey, 296 x 182 cm",
+      "title": "Heaven Chaise Sofa, Grey",
       "summary": "Grey fabric upholstery with reversible chaise and low armrests.",
       "variantCount": 1,
       "categoryLabel": "4-Seater Sofas",
@@ -632,27 +648,35 @@
   {
     "sku": "198384",
     "name": "198384",
-    "title": "Heaven 4-Seater Sofa, Beige, 266 x 106 cm",
-    "variantSummary": "266 x 106 cm / Comfort foam / Beige",
+    "title": "Heaven Sofa, Beige",
+    "variantSummary": "266 × 106 cm / Comfort foam / Beige",
     "shortDescription": "Beige fabric with pocket spring seats and foam filling.",
     "selectionAttributes": {
-      "dimensions": "266 x 106 cm",
+      "dimensions": "266 × 106 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
       "color": "Beige",
-      "material": "Metal, Fabric, Plywood, Wood, Foam"
+      "material": "Metal, Fabric, Plywood, Wood, Foam",
+      "productType": "Sofa",
+      "productTypeNote": "266 × 106 cm",
+      "productNoun": "Sofa",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "productType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/four-seater-sofas/heaven/198384_1.avif",
-    "imageUrl": "/products/four-seater-sofas/heaven/198384_1.avif",
+    "primaryImageUrl": "/products/four-seater-sofas/heaven/198384_3.avif",
+    "imageUrl": "/products/four-seater-sofas/heaven/198384_3.avif",
     "imageUrls": [
-      "/products/four-seater-sofas/heaven/198384_1.avif",
-      "/products/four-seater-sofas/heaven/198384_2.avif",
       "/products/four-seater-sofas/heaven/198384_3.avif",
       "/products/four-seater-sofas/heaven/198384_4.avif",
+      "/products/four-seater-sofas/heaven/198384_2.avif",
       "/products/four-seater-sofas/heaven/198384_5.avif",
       "/products/four-seater-sofas/heaven/198384_6.avif",
       "/products/four-seater-sofas/heaven/198384_7.avif",
       "/products/four-seater-sofas/heaven/198384_8.avif",
+      "/products/four-seater-sofas/heaven/198384_1.avif",
       "/products/four-seater-sofas/heaven/198384_9.avif",
       "/products/four-seater-sofas/heaven/198384_10.avif",
       "/products/four-seater-sofas/heaven/198384_11.avif",
@@ -661,7 +685,7 @@
     "href": "/products/four-seater-sofas/heaven/198384",
     "type": "file",
     "filterData": {
-      "searchText": "Heaven 4-Seater Sofa, Beige, 266 x 106 cm Beige fabric with pocket spring seats and foam filling. 4-Seater Sofas Living room Heaven Living room 4-Seater Sofas Heaven Beige Fabric Foam Metal Plywood Wood Care Cleaning method Dry clean Dimensions Depth 106 cm cm Dimensions Height 89 cm cm Dimensions Width 266 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.54 m³ m³ Logistics Weight 44.5 kg kg Logistics Weight 87 kg kg Padding Foam density 24 kg/m³ kg/m³ Seating Seat count 4 seat seat Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Heaven Sofa, Beige Beige fabric with pocket spring seats and foam filling. 4-Seater Sofas Living room Heaven Living room 4-Seater Sofas Heaven Beige Fabric Foam Metal Plywood Wood Care Cleaning method Dry clean Dimensions Depth 106 cm cm Dimensions Height 89 cm cm Dimensions Width 266 cm cm Logistics Package count 1 package package Logistics Package weight 44.5 kg kg Logistics Product count 1 product product Logistics Volume 0.54 m³ m³ Logistics Weight 87 kg kg Padding Foam density 24 kg/m³ kg/m³ Seating Seat count 4 seat seat Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -782,6 +806,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "44-5-kg",
+          "valueLabel": "44.5 kg",
+          "href": "/attributes/logistics/package-weight/44-5-kg/",
+          "valueType": "enum",
+          "numericValue": 44.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -802,18 +838,6 @@
           "valueType": "enum",
           "numericValue": 0.54,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "44-5-kg",
-          "valueLabel": "44.5 kg",
-          "href": "/attributes/logistics/weight/44-5-kg/",
-          "valueType": "enum",
-          "numericValue": 44.5,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -914,7 +938,7 @@
       ]
     },
     "sortData": {
-      "title": "Heaven 4-Seater Sofa, Beige, 266 x 106 cm",
+      "title": "Heaven Sofa, Beige",
       "summary": "Beige fabric with pocket spring seats and foam filling.",
       "variantCount": 1,
       "categoryLabel": "4-Seater Sofas",
@@ -925,33 +949,41 @@
   {
     "sku": "198385",
     "name": "198385",
-    "title": "Heaven 4-Seater Sofa, Grey, 266 x 106 cm",
-    "variantSummary": "266 x 106 cm / Comfort foam / Grey",
+    "title": "Heaven Sofa, Grey",
+    "variantSummary": "266 × 106 cm / Comfort foam / Grey",
     "shortDescription": "Grey fabric with pocket spring seats and foam filling.",
     "selectionAttributes": {
-      "dimensions": "266 x 106 cm",
+      "dimensions": "266 × 106 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
       "color": "Grey",
-      "material": "Metal, Fabric, Plywood, Wood, Foam"
+      "material": "Metal, Fabric, Plywood, Wood, Foam",
+      "productType": "Sofa",
+      "productTypeNote": "266 × 106 cm",
+      "productNoun": "Sofa",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "productType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/four-seater-sofas/heaven/198385_1.avif",
-    "imageUrl": "/products/four-seater-sofas/heaven/198385_1.avif",
+    "primaryImageUrl": "/products/four-seater-sofas/heaven/198385_3.avif",
+    "imageUrl": "/products/four-seater-sofas/heaven/198385_3.avif",
     "imageUrls": [
-      "/products/four-seater-sofas/heaven/198385_1.avif",
-      "/products/four-seater-sofas/heaven/198385_2.avif",
       "/products/four-seater-sofas/heaven/198385_3.avif",
       "/products/four-seater-sofas/heaven/198385_4.avif",
-      "/products/four-seater-sofas/heaven/198385_5.avif",
-      "/products/four-seater-sofas/heaven/198385_6.avif",
+      "/products/four-seater-sofas/heaven/198385_2.avif",
       "/products/four-seater-sofas/heaven/198385_7.avif",
       "/products/four-seater-sofas/heaven/198385_8.avif",
+      "/products/four-seater-sofas/heaven/198385_1.avif",
+      "/products/four-seater-sofas/heaven/198385_5.avif",
+      "/products/four-seater-sofas/heaven/198385_6.avif",
       "/products/four-seater-sofas/heaven/198385_9.avif"
     ],
     "href": "/products/four-seater-sofas/heaven/198385",
     "type": "file",
     "filterData": {
-      "searchText": "Heaven 4-Seater Sofa, Grey, 266 x 106 cm Grey fabric with pocket spring seats and foam filling. 4-Seater Sofas Living room Heaven Living room 4-Seater Sofas Heaven Grey Fabric Foam Metal Plywood Wood Care Cleaning method Dry clean Dimensions Depth 106 cm cm Dimensions Height 89 cm cm Dimensions Width 266 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.54 m³ m³ Logistics Weight 44.5 kg kg Logistics Weight 87 kg kg Padding Foam density 24 kg/m³ kg/m³ Seating Seat count 4 seat seat Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Heaven Sofa, Grey Grey fabric with pocket spring seats and foam filling. 4-Seater Sofas Living room Heaven Living room 4-Seater Sofas Heaven Grey Fabric Foam Metal Plywood Wood Care Cleaning method Dry clean Dimensions Depth 106 cm cm Dimensions Height 89 cm cm Dimensions Width 266 cm cm Logistics Package count 1 package package Logistics Package weight 44.5 kg kg Logistics Product count 1 product product Logistics Volume 0.54 m³ m³ Logistics Weight 87 kg kg Padding Foam density 24 kg/m³ kg/m³ Seating Seat count 4 seat seat Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -1072,6 +1104,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "44-5-kg",
+          "valueLabel": "44.5 kg",
+          "href": "/attributes/logistics/package-weight/44-5-kg/",
+          "valueType": "enum",
+          "numericValue": 44.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1092,18 +1136,6 @@
           "valueType": "enum",
           "numericValue": 0.54,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "44-5-kg",
-          "valueLabel": "44.5 kg",
-          "href": "/attributes/logistics/weight/44-5-kg/",
-          "valueType": "enum",
-          "numericValue": 44.5,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1204,7 +1236,7 @@
       ]
     },
     "sortData": {
-      "title": "Heaven 4-Seater Sofa, Grey, 266 x 106 cm",
+      "title": "Heaven Sofa, Grey",
       "summary": "Grey fabric with pocket spring seats and foam filling.",
       "variantCount": 1,
       "categoryLabel": "4-Seater Sofas",
@@ -1215,35 +1247,43 @@
   {
     "sku": "208780",
     "name": "208780",
-    "title": "Heaven 4-Seater Sofa, Brown, 266 x 106 cm",
-    "variantSummary": "266 x 106 cm / Comfort foam / Brown",
+    "title": "Heaven Sofa, Brown",
+    "variantSummary": "266 × 106 cm / Comfort foam / Brown",
     "shortDescription": "Brown fabric with pocket spring seats and foam filling.",
     "selectionAttributes": {
-      "dimensions": "266 x 106 cm",
+      "dimensions": "266 × 106 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
       "color": "Brown",
-      "material": "Metal, Fabric, Plywood, Wood, Foam"
+      "material": "Metal, Fabric, Plywood, Wood, Foam",
+      "productType": "Sofa",
+      "productTypeNote": "266 × 106 cm",
+      "productNoun": "Sofa",
+      "colorLabel": "Brown",
+      "colorNote": "",
+      "axisPlan": "productType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/four-seater-sofas/heaven/208780_1.avif",
-    "imageUrl": "/products/four-seater-sofas/heaven/208780_1.avif",
+    "primaryImageUrl": "/products/four-seater-sofas/heaven/208780_5.avif",
+    "imageUrl": "/products/four-seater-sofas/heaven/208780_5.avif",
     "imageUrls": [
-      "/products/four-seater-sofas/heaven/208780_1.avif",
-      "/products/four-seater-sofas/heaven/208780_2.avif",
-      "/products/four-seater-sofas/heaven/208780_3.avif",
-      "/products/four-seater-sofas/heaven/208780_4.avif",
       "/products/four-seater-sofas/heaven/208780_5.avif",
+      "/products/four-seater-sofas/heaven/208780_2.avif",
+      "/products/four-seater-sofas/heaven/208780_8.avif",
+      "/products/four-seater-sofas/heaven/208780_11.avif",
+      "/products/four-seater-sofas/heaven/208780_4.avif",
+      "/products/four-seater-sofas/heaven/208780_9.avif",
+      "/products/four-seater-sofas/heaven/208780_1.avif",
+      "/products/four-seater-sofas/heaven/208780_3.avif",
       "/products/four-seater-sofas/heaven/208780_6.avif",
       "/products/four-seater-sofas/heaven/208780_7.avif",
-      "/products/four-seater-sofas/heaven/208780_8.avif",
-      "/products/four-seater-sofas/heaven/208780_9.avif",
-      "/products/four-seater-sofas/heaven/208780_10.avif",
-      "/products/four-seater-sofas/heaven/208780_11.avif"
+      "/products/four-seater-sofas/heaven/208780_10.avif"
     ],
     "href": "/products/four-seater-sofas/heaven/208780",
     "type": "file",
     "filterData": {
-      "searchText": "Heaven 4-Seater Sofa, Brown, 266 x 106 cm Brown fabric with pocket spring seats and foam filling. 4-Seater Sofas Living room Heaven Living room 4-Seater Sofas Heaven Brown Fabric Foam Metal Plywood Wood Care Cleaning method Dry clean Dimensions Depth 106 cm cm Dimensions Height 89 cm cm Dimensions Width 266 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.54 m³ m³ Logistics Weight 44.5 kg kg Logistics Weight 87 kg kg Padding Foam density 24 kg/m³ kg/m³ Seating Seat count 4 seat seat Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Heaven Sofa, Brown Brown fabric with pocket spring seats and foam filling. 4-Seater Sofas Living room Heaven Living room 4-Seater Sofas Heaven Brown Fabric Foam Metal Plywood Wood Care Cleaning method Dry clean Dimensions Depth 106 cm cm Dimensions Height 89 cm cm Dimensions Width 266 cm cm Logistics Package count 1 package package Logistics Package weight 44.5 kg kg Logistics Product count 1 product product Logistics Volume 0.54 m³ m³ Logistics Weight 87 kg kg Padding Foam density 24 kg/m³ kg/m³ Seating Seat count 4 seat seat Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -1364,6 +1404,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "44-5-kg",
+          "valueLabel": "44.5 kg",
+          "href": "/attributes/logistics/package-weight/44-5-kg/",
+          "valueType": "enum",
+          "numericValue": 44.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1384,18 +1436,6 @@
           "valueType": "enum",
           "numericValue": 0.54,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "44-5-kg",
-          "valueLabel": "44.5 kg",
-          "href": "/attributes/logistics/weight/44-5-kg/",
-          "valueType": "enum",
-          "numericValue": 44.5,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1496,7 +1536,7 @@
       ]
     },
     "sortData": {
-      "title": "Heaven 4-Seater Sofa, Brown, 266 x 106 cm",
+      "title": "Heaven Sofa, Brown",
       "summary": "Brown fabric with pocket spring seats and foam filling.",
       "variantCount": 1,
       "categoryLabel": "4-Seater Sofas",
@@ -1507,34 +1547,42 @@
   {
     "sku": "208781",
     "name": "208781",
-    "title": "Heaven 4-Seater Sofa, Brown, 296 x 182 cm",
-    "variantSummary": "296 x 182 cm / Brown",
+    "title": "Heaven Chaise Sofa, Brown",
+    "variantSummary": "296 × 182 cm / Brown",
     "shortDescription": "Brown fabric upholstery with reversible chaise and low armrests.",
     "selectionAttributes": {
-      "dimensions": "296 x 182 cm",
+      "dimensions": "296 × 182 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Brown",
-      "material": "Metal, Fabric, Plywood, Wood, Foam"
+      "material": "Metal, Fabric, Plywood, Wood, Foam",
+      "productType": "Chaise sofa",
+      "productTypeNote": "296 × 182 cm",
+      "productNoun": "Chaise sofa",
+      "colorLabel": "Brown",
+      "colorNote": "",
+      "axisPlan": "productType,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/four-seater-sofas/heaven/208781_1.avif",
-    "imageUrl": "/products/four-seater-sofas/heaven/208781_1.avif",
+    "primaryImageUrl": "/products/four-seater-sofas/heaven/208781_4.avif",
+    "imageUrl": "/products/four-seater-sofas/heaven/208781_4.avif",
     "imageUrls": [
-      "/products/four-seater-sofas/heaven/208781_1.avif",
-      "/products/four-seater-sofas/heaven/208781_2.avif",
-      "/products/four-seater-sofas/heaven/208781_3.avif",
       "/products/four-seater-sofas/heaven/208781_4.avif",
-      "/products/four-seater-sofas/heaven/208781_5.avif",
       "/products/four-seater-sofas/heaven/208781_6.avif",
-      "/products/four-seater-sofas/heaven/208781_7.avif",
       "/products/four-seater-sofas/heaven/208781_8.avif",
+      "/products/four-seater-sofas/heaven/208781_2.avif",
+      "/products/four-seater-sofas/heaven/208781_5.avif",
       "/products/four-seater-sofas/heaven/208781_9.avif",
+      "/products/four-seater-sofas/heaven/208781_1.avif",
+      "/products/four-seater-sofas/heaven/208781_3.avif",
+      "/products/four-seater-sofas/heaven/208781_7.avif",
       "/products/four-seater-sofas/heaven/208781_10.avif"
     ],
     "href": "/products/four-seater-sofas/heaven/208781",
     "type": "file",
     "filterData": {
-      "searchText": "Heaven 4-Seater Sofa, Brown, 296 x 182 cm Brown fabric upholstery with reversible chaise and low armrests. 4-Seater Sofas Living room Heaven Living room 4-Seater Sofas Heaven Brown Fabric Foam Metal Plywood Wood Care Cleaning method Dry clean Configuration Handedness configuration Reversible Dimensions Depth 182 cm cm Dimensions Height 89 cm cm Dimensions Main section depth 106 cm cm Dimensions Width 296 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.45 m³ m³ Logistics Weight 37.5 kg kg Logistics Weight 118 kg kg Padding Foam density 24 kg/m³ kg/m³ Seating Seat count 3 seat seat Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Heaven Chaise Sofa, Brown Brown fabric upholstery with reversible chaise and low armrests. 4-Seater Sofas Living room Heaven Living room 4-Seater Sofas Heaven Brown Fabric Foam Metal Plywood Wood Care Cleaning method Dry clean Configuration Handedness configuration Reversible Dimensions Depth 182 cm cm Dimensions Height 89 cm cm Dimensions Main section depth 106 cm cm Dimensions Width 296 cm cm Logistics Package count 1 package package Logistics Package weight 37.5 kg kg Logistics Product count 1 product product Logistics Volume 0.45 m³ m³ Logistics Weight 118 kg kg Padding Foam density 24 kg/m³ kg/m³ Seating Seat count 3 seat seat Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 4 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -1679,6 +1727,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "37-5-kg",
+          "valueLabel": "37.5 kg",
+          "href": "/attributes/logistics/package-weight/37-5-kg/",
+          "valueType": "enum",
+          "numericValue": 37.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1699,18 +1759,6 @@
           "valueType": "enum",
           "numericValue": 0.45,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "37-5-kg",
-          "valueLabel": "37.5 kg",
-          "href": "/attributes/logistics/weight/37-5-kg/",
-          "valueType": "enum",
-          "numericValue": 37.5,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1811,7 +1859,7 @@
       ]
     },
     "sortData": {
-      "title": "Heaven 4-Seater Sofa, Brown, 296 x 182 cm",
+      "title": "Heaven Chaise Sofa, Brown",
       "summary": "Brown fabric upholstery with reversible chaise and low armrests.",
       "variantCount": 1,
       "categoryLabel": "4-Seater Sofas",

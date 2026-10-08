@@ -3,27 +3,35 @@
     "sku": "198066",
     "name": "198066",
     "title": "Islet Dining Table",
-    "variantSummary": "120 x 120 cm / Brown",
+    "variantSummary": "Ø 120 cm / Brown",
     "shortDescription": "Round dining table, 120 cm diameter, walnut finish with MDF material and sturdy tapered leg.",
     "selectionAttributes": {
-      "dimensions": "120 x 120 cm",
+      "dimensions": "Ø 120 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Brown",
-      "material": "MDF"
+      "material": "MDF",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining table",
+      "colorLabel": "Brown",
+      "colorNote": "Walnut",
+      "axisPlan": "",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/dining-tables/islet/198066_1.avif",
-    "imageUrl": "/products/dining-tables/islet/198066_1.avif",
+    "primaryImageUrl": "/products/dining-tables/islet/198066_4.avif",
+    "imageUrl": "/products/dining-tables/islet/198066_4.avif",
     "imageUrls": [
-      "/products/dining-tables/islet/198066_1.avif",
+      "/products/dining-tables/islet/198066_4.avif",
       "/products/dining-tables/islet/198066_2.avif",
-      "/products/dining-tables/islet/198066_3.avif",
-      "/products/dining-tables/islet/198066_4.avif"
+      "/products/dining-tables/islet/198066_1.avif",
+      "/products/dining-tables/islet/198066_3.avif"
     ],
     "href": "/products/dining-tables/islet/",
     "type": "file",
     "filterData": {
-      "searchText": "Islet Dining Table Round dining table, 120 cm diameter, walnut finish with MDF material and sturdy tapered leg. Dining Tables Dining room Islet Dining room Dining Tables Islet Brown MDF Dimensions Depth 120 cm cm Dimensions Height 75 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.18 m³ m³ Logistics Weight 22 kg kg Logistics Weight 25 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Islet Dining Table Round dining table, 120 cm diameter, walnut finish with MDF material and sturdy tapered leg. Dining Tables Dining room Islet Dining room Dining Tables Islet Brown MDF Dimensions Depth 120 cm cm Dimensions Height 75 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Package weight 22 kg kg Logistics Product count 1 product product Logistics Volume 0.18 m³ m³ Logistics Weight 25 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "dining-room",
@@ -112,6 +120,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "22-kg",
+          "valueLabel": "22 kg",
+          "href": "/attributes/logistics/package-weight/22-kg/",
+          "valueType": "enum",
+          "numericValue": 22,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -132,18 +152,6 @@
           "valueType": "enum",
           "numericValue": 0.18,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "22-kg",
-          "valueLabel": "22 kg",
-          "href": "/attributes/logistics/weight/22-kg/",
-          "valueType": "enum",
-          "numericValue": 22,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",

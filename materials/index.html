@@ -11,12 +11,28 @@
     <meta name="twitter:description" content="Browse the materials used across Nest &amp; Living furniture, beds and home accessories, from wood and metal to textiles, foam and natural fibres.">
     <link rel="canonical" href="https://nestliving.dk/materials/" />
     <link href="../styles.css" rel="stylesheet" />
-    <script src="../script.js"></script>
+    <script src="../script.js" defer></script>
+<!-- webtool-brand-head:start -->
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#282421">
+<!-- webtool-brand-head:end -->
+
 </head>
 <body>
     <header id="site-header" class="header">
-  <div class="header-container with-texture-2">
-    <a href="/" class="logo"><img src="/images/logo_small.svg" alt="Nest &amp; Living logo"><span class="logo-text">Nest &amp; Living</span></a>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div class="header-container with-texture-2" data-brand-surface="dark">
+    <a href="/" class="logo brand-logo" aria-label="Nest &amp; Living home">
+      <picture class="brand-logo__picture">
+        <source media="(max-width: 767px)" srcset="/images/brand/nest-living-monogram-light.svg">
+        <img class="brand-logo__image" data-brand-variant="light" src="/images/brand/nest-living-wordmark-light.svg" alt="" width="618" height="191">
+      </picture>
+    </a>
 
     <div class="header-search-slot" data-lazy-search-host="true">
       <div class="search-wrapper search-wrapper--header">
@@ -28,8 +44,6 @@
               placeholder="Search products..."
               autocomplete="off"
               aria-label="Search products"
-              aria-controls="site-search-panel"
-              aria-expanded="false"
             />
             <button
               type="button"
@@ -84,7 +98,7 @@
         <div
           id="site-search-panel"
           class="search-panel"
-          aria-hidden="true"
+          inert
         >
           <div class="search-surface with-texture">
             <div class="search-results-toolbar">
@@ -112,8 +126,8 @@
           <ul class="dropdown-menu">
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/bedroom" data-submenu="/collections/bedroom">
-                  <img src="/images/bedroom.svg" alt="Bedroom icon" class="category-icon">
+                <a href="/collections/bedroom">
+                  <img src="/images/bedroom.svg" alt="Bedroom icon" class="category-icon" width="1024" height="1024">
                   Bedroom
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Bedroom product groups">
@@ -134,8 +148,8 @@
             </li>
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/living-room" data-submenu="/collections/living-room">
-                  <img src="/images/living-room.svg" alt="Living room icon" class="category-icon">
+                <a href="/collections/living-room">
+                  <img src="/images/living-room.svg" alt="Living room icon" class="category-icon" width="1024" height="1024">
                   Living room
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Living room product groups">
@@ -153,8 +167,8 @@
             </li>
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/dining-room" data-submenu="/collections/dining-room">
-                  <img src="/images/dining-room.svg" alt="Dining room icon" class="category-icon">
+                <a href="/collections/dining-room">
+                  <img src="/images/dining-room.svg" alt="Dining room icon" class="category-icon" width="1024" height="1024">
                   Dining room
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Dining room product groups">
@@ -166,22 +180,25 @@
             </li>
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/storage-shelving" data-submenu="/collections/storage-shelving">
-                  <img src="/images/storage-shelving.svg" alt="Home Details icon" class="category-icon">
+                <a href="/collections/storage-shelving">
+                  <img src="/images/storage-shelving.svg" alt="Home Details icon" class="category-icon" width="1024" height="1024">
                   Home Details
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Home Details product groups">
                     <a class="dropdown-menu-group-link" href="/products/decorative-cushions/">Decorative Cushions</a>
                     <a class="dropdown-menu-group-link" href="/products/console-tables/">Console Tables</a>
+                    <a class="dropdown-menu-group-link" href="/products/sideboards/">Sideboards</a>
+                    <a class="dropdown-menu-group-link" href="/products/tv-stands/">TV Stands</a>
                     <a class="dropdown-menu-group-link" href="/products/shelves/">Shelves</a>
+                    <a class="dropdown-menu-group-link" href="/products/storage-cabinets/">Storage Cabinets</a>
                     <a class="dropdown-menu-group-link" href="/products/rugs/">Rugs</a>
                 </nav>
               </div>
             </li>
             <li>
               <div class="dropdown-menu-group">
-                <a href="/collections/outdoor" data-submenu="/collections/outdoor">
-                  <img src="/images/outdoor.svg" alt="Outdoor icon" class="category-icon">
+                <a href="/collections/outdoor">
+                  <img src="/images/outdoor.svg" alt="Outdoor icon" class="category-icon" width="512" height="512">
                   Outdoor
                 </a>
                 <nav class="dropdown-menu-group-links" aria-label="Outdoor product groups">
@@ -189,6 +206,7 @@
                     <a class="dropdown-menu-group-link" href="/products/outdoor-dining-chairs/">Outdoor Dining Chairs</a>
                     <a class="dropdown-menu-group-link" href="/products/outdoor-lounge-sets/">Outdoor Lounge Sets</a>
                     <a class="dropdown-menu-group-link" href="/products/outdoor-lounge-seating/">Outdoor Lounge Seating</a>
+                    <a class="dropdown-menu-group-link" href="/products/outdoor-coffee-tables/">Outdoor Coffee &amp; Side Tables</a>
                     <a class="dropdown-menu-group-link" href="/products/outdoor-sun-loungers/">Outdoor Sun Loungers</a>
                     <a class="dropdown-menu-group-link" href="/products/outdoor-storage/">Outdoor Storage</a>
                     <a class="dropdown-menu-group-link" href="/products/planters-pots/">Planters &amp; Pots</a>
@@ -221,6 +239,7 @@
     </div>
 
   </div>
+  <span id="main-content" class="skip-target" tabindex="-1"></span>
 </header>
 
     <div id="content">
@@ -233,27 +252,58 @@
             <div class="family-summary">
                 <p>Browse the materials used across Nest &amp; Living furniture, beds and home accessories, from wood and metal to textiles, foam and natural fibres.</p>
             </div>
+            <section class="listing-filters with-texture-2" data-listing-filters-static="true" data-listing-item-count="38" aria-label="Filter and sort results">
+                <div class="listing-filters__toolbar">
+                    <label class="listing-filters__search">
+                        <span>Search</span>
+                        <input type="search" class="listing-filters__search-input" placeholder="Search products, colors, materials, and attributes" />
+                    </label>
+                    <label class="listing-filters__sort">
+                        <span>Sort</span>
+                        <select class="listing-filters__sort-select">
+                            <option value="default">Default order</option>
+                            <option value="title-asc">Name A-Z</option>
+                            <option value="title-desc">Name Z-A</option>
+                            <option value="variants-desc">Most options first</option>
+                            <option value="variants-asc">Fewest options first</option>
+                        </select>
+                    </label>
+                    <button type="button" class="listing-filters__clear">Clear filters</button>
+                </div>
+                <div class="listing-filters__status">
+                    <strong class="listing-filters__summary">38 of 38 items shown</strong>
+                </div>
+            </section>
+
             <div id="items-container">
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/aluminium/">
                         <figure><img alt="Aluminium thumbnail" loading="lazy" src="/products/outdoor-storage/nordic/206769_1.avif" />
-                            <figcaption><span class="variant-name">Aluminium</span><small>Seen across 4 product families and 27 product options.</small></figcaption>
+                            <figcaption><span class="variant-name">Aluminium</span><small>Seen across 5 product families and 30 product options.</small></figcaption>
+                        </figure>
+                    </a>
+                    
+                </article>
+                <article class="variant-card">
+                    <a class="variant-card__link" href="/materials/chenillepolyester/">
+                        <figure><img alt="Chenillepolyester thumbnail" loading="lazy" src="/products/rugs/glint/220981_1.avif" />
+                            <figcaption><span class="variant-name">Chenillepolyester</span><small>Seen across 4 product families and 8 product options.</small></figcaption>
                         </figure>
                     </a>
                     
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/cotton/">
-                        <figure><img alt="Cotton thumbnail" loading="lazy" src="/products/mattress-protectors/nest-living/nest_living_mattress_protector_white_1.avif" />
-                            <figcaption><span class="variant-name">Cotton</span><small>Seen across 14 product families and 38 product options.</small></figcaption>
+                        <figure><img alt="Cotton thumbnail" loading="lazy" src="/products/mattress-protectors/nest-living/nest_living_mattress_protector_white_2.avif" />
+                            <figcaption><span class="variant-name">Cotton</span><small>Seen across 19 product families and 50 product options.</small></figcaption>
                         </figure>
                     </a>
                     
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/fabric/">
-                        <figure><img alt="Fabric thumbnail" loading="lazy" src="/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif" />
-                            <figcaption><span class="variant-name">Fabric</span><small>Seen across 17 product families and 163 product options.</small></figcaption>
+                        <figure><img alt="Fabric thumbnail" loading="lazy" src="/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_3.avif" />
+                            <figcaption><span class="variant-name">Fabric</span><small>Seen across 22 product families and 176 product options.</small></figcaption>
                         </figure>
                     </a>
                     
@@ -268,7 +318,7 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/feather/">
-                        <figure><img alt="Feather thumbnail" loading="lazy" src="/products/armchairs/voyage/208784_1.avif" />
+                        <figure><img alt="Feather thumbnail" loading="lazy" src="/products/armchairs/voyage/208784_2.avif" />
                             <figcaption><span class="variant-name">Feather</span><small>Seen across 3 product families and 6 product options.</small></figcaption>
                         </figure>
                     </a>
@@ -276,15 +326,15 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/foam/">
-                        <figure><img alt="Foam thumbnail" loading="lazy" src="/products/toppers/moon-gold/197764_1.avif" />
-                            <figcaption><span class="variant-name">Foam</span><small>Seen across 17 product families and 109 product options.</small></figcaption>
+                        <figure><img alt="Foam thumbnail" loading="lazy" src="/products/toppers/moon-gold/moon_gold_topper_grey_6.avif" />
+                            <figcaption><span class="variant-name">Foam</span><small>Seen across 21 product families and 122 product options.</small></figcaption>
                         </figure>
                     </a>
                     
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/furniture-board/">
-                        <figure><img alt="Furniture board thumbnail" loading="lazy" src="/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif" />
+                        <figure><img alt="Furniture board thumbnail" loading="lazy" src="/products/corner-sofas/haave/208605_2.avif" />
                             <figcaption><span class="variant-name">Furniture board</span><small>Seen across 1 product family and 2 product options.</small></figcaption>
                         </figure>
                     </a>
@@ -292,7 +342,7 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/glass/">
-                        <figure><img alt="Glass thumbnail" loading="lazy" src="/products/outdoor-lounge-sets/haven/197627_1.avif" />
+                        <figure><img alt="Glass thumbnail" loading="lazy" src="/products/outdoor-lounge-sets/haven/197627_2.avif" />
                             <figcaption><span class="variant-name">Glass</span><small>Seen across 1 product family and 3 product options.</small></figcaption>
                         </figure>
                     </a>
@@ -300,7 +350,7 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/hdf/">
-                        <figure><img alt="HDF thumbnail" loading="lazy" src="/products/corner-sofas/haave/haave_corner_sofa_beige_293_x_241_cm_3.avif" />
+                        <figure><img alt="HDF thumbnail" loading="lazy" src="/products/corner-sofas/haave/208605_2.avif" />
                             <figcaption><span class="variant-name">HDF</span><small>Seen across 1 product family and 2 product options.</small></figcaption>
                         </figure>
                     </a>
@@ -308,7 +358,7 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/latex/">
-                        <figure><img alt="Latex thumbnail" loading="lazy" src="/products/toppers/moon-gold/197741_1.avif" />
+                        <figure><img alt="Latex thumbnail" loading="lazy" src="/products/toppers/moon-gold/moon_gold_topper_grey_6.avif" />
                             <figcaption><span class="variant-name">Latex</span><small>Seen across 1 product family and 8 product options.</small></figcaption>
                         </figure>
                     </a>
@@ -316,15 +366,23 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/mdf/">
-                        <figure><img alt="MDF thumbnail" loading="lazy" src="/products/dining-tables/metz/208710_1.avif" />
-                            <figcaption><span class="variant-name">MDF</span><small>Seen across 4 product families and 10 product options.</small></figcaption>
+                        <figure><img alt="MDF thumbnail" loading="lazy" src="/products/tv-stands/meta/209403_1.avif" />
+                            <figcaption><span class="variant-name">MDF</span><small>Seen across 6 product families and 28 product options.</small></figcaption>
+                        </figure>
+                    </a>
+                    
+                </article>
+                <article class="variant-card">
+                    <a class="variant-card__link" href="/materials/melamine/">
+                        <figure><img alt="Melamine thumbnail" loading="lazy" src="/products/shelves/bacoli/209394_1.avif" />
+                            <figcaption><span class="variant-name">Melamine</span><small>Seen across 1 product family and 5 product options.</small></figcaption>
                         </figure>
                     </a>
                     
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/memory-foam/">
-                        <figure><img alt="Memory foam thumbnail" loading="lazy" src="/products/toppers/moon-gold/197772_1.avif" />
+                        <figure><img alt="Memory foam thumbnail" loading="lazy" src="/products/toppers/moon-gold/moon_gold_topper_grey_6.avif" />
                             <figcaption><span class="variant-name">Memory foam</span><small>Seen across 1 product family and 9 product options.</small></figcaption>
                         </figure>
                     </a>
@@ -332,15 +390,15 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/metal/">
-                        <figure><img alt="Metal thumbnail" loading="lazy" src="/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_3.avif" />
-                            <figcaption><span class="variant-name">Metal</span><small>Seen across 5 product families and 43 product options.</small></figcaption>
+                        <figure><img alt="Metal thumbnail" loading="lazy" src="/products/adjustable-beds/moon-gold/moon_gold_adjustable_bed_black_4.avif" />
+                            <figcaption><span class="variant-name">Metal</span><small>Seen across 9 product families and 52 product options.</small></figcaption>
                         </figure>
                     </a>
                     
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/mikrofiber/">
-                        <figure><img alt="Mikrofiber thumbnail" loading="lazy" src="/products/pillows/staycation/214017_1.jpg" />
+                        <figure><img alt="Mikrofiber thumbnail" loading="lazy" src="/products/pillows/staycation/214017_2.avif" />
                             <figcaption><span class="variant-name">Mikrofiber</span><small>Seen across 1 product family and 1 product option.</small></figcaption>
                         </figure>
                     </a>
@@ -348,7 +406,7 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/nonwood/">
-                        <figure><img alt="Nonwood thumbnail" loading="lazy" src="/products/outdoor-dining-chairs/saarni/206644_1.avif" />
+                        <figure><img alt="Nonwood thumbnail" loading="lazy" src="/products/outdoor-dining-chairs/saarni/206644_2.avif" />
                             <figcaption><span class="variant-name">Nonwood</span><small>Seen across 1 product family and 6 product options.</small></figcaption>
                         </figure>
                     </a>
@@ -356,15 +414,15 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/oak/">
-                        <figure><img alt="Oak thumbnail" loading="lazy" src="/products/dining-tables/metz/208710_1.avif" />
-                            <figcaption><span class="variant-name">Oak</span><small>Seen across 6 product families and 15 product options.</small></figcaption>
+                        <figure><img alt="Oak thumbnail" loading="lazy" src="/products/coffee-tables/metz/209079_8.avif" />
+                            <figcaption><span class="variant-name">Oak</span><small>Seen across 8 product families and 22 product options.</small></figcaption>
                         </figure>
                     </a>
                     
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/paper/">
-                        <figure><img alt="Paper thumbnail" loading="lazy" src="/products/coffee-tables/island/198070_1.avif" />
+                        <figure><img alt="Paper thumbnail" loading="lazy" src="/products/coffee-tables/island/198070_8.avif" />
                             <figcaption><span class="variant-name">Paper</span><small>Seen across 3 product families and 5 product options.</small></figcaption>
                         </figure>
                     </a>
@@ -372,15 +430,15 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/particle-board/">
-                        <figure><img alt="Particle board thumbnail" loading="lazy" src="/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_2.avif" />
-                            <figcaption><span class="variant-name">Particle board</span><small>Seen across 3 product families and 47 product options.</small></figcaption>
+                        <figure><img alt="Particle board thumbnail" loading="lazy" src="/products/continental-beds/moon-gold/moon_gold_continental_bed_beige_12.avif" />
+                            <figcaption><span class="variant-name">Particle board</span><small>Seen across 4 product families and 52 product options.</small></figcaption>
                         </figure>
                     </a>
                     
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/pine/">
-                        <figure><img alt="Pine thumbnail" loading="lazy" src="/products/dining-tables/metz/208710_1.avif" />
+                        <figure><img alt="Pine thumbnail" loading="lazy" src="/products/dining-tables/metz/208710_2.avif" />
                             <figcaption><span class="variant-name">Pine</span><small>Seen across 1 product family and 3 product options.</small></figcaption>
                         </figure>
                     </a>
@@ -388,7 +446,7 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/plastic/">
-                        <figure><img alt="Plastic thumbnail" loading="lazy" src="/products/outdoor-dining-chairs/messina/191080_1.avif" />
+                        <figure><img alt="Plastic thumbnail" loading="lazy" src="/products/outdoor-dining-chairs/messina/191080_2.avif" />
                             <figcaption><span class="variant-name">Plastic</span><small>Seen across 2 product families and 5 product options.</small></figcaption>
                         </figure>
                     </a>
@@ -396,8 +454,8 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/plywood/">
-                        <figure><img alt="Plywood thumbnail" loading="lazy" src="/products/footstools/lugo/210110_1.avif" />
-                            <figcaption><span class="variant-name">Plywood</span><small>Seen across 9 product families and 35 product options.</small></figcaption>
+                        <figure><img alt="Plywood thumbnail" loading="lazy" src="/products/footstools/lugo/210110_2.avif" />
+                            <figcaption><span class="variant-name">Plywood</span><small>Seen across 15 product families and 52 product options.</small></figcaption>
                         </figure>
                     </a>
                     
@@ -405,7 +463,7 @@
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/polyester/">
                         <figure><img alt="Polyester thumbnail" loading="lazy" src="/products/footstools/westcoast/209196_1.avif" />
-                            <figcaption><span class="variant-name">Polyester</span><small>Seen across 26 product families and 105 product options.</small></figcaption>
+                            <figcaption><span class="variant-name">Polyester</span><small>Seen across 32 product families and 119 product options.</small></figcaption>
                         </figure>
                     </a>
                     
@@ -420,15 +478,15 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/polyrattan/">
-                        <figure><img alt="Polyrattan thumbnail" loading="lazy" src="/products/outdoor-lounge-sets/haven/197627_1.avif" />
-                            <figcaption><span class="variant-name">Polyrattan</span><small>Seen across 2 product families and 7 product options.</small></figcaption>
+                        <figure><img alt="Polyrattan thumbnail" loading="lazy" src="/products/outdoor-lounge-sets/haven/197627_2.avif" />
+                            <figcaption><span class="variant-name">Polyrattan</span><small>Seen across 3 product families and 9 product options.</small></figcaption>
                         </figure>
                     </a>
                     
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/silicate/">
-                        <figure><img alt="Silicate thumbnail" loading="lazy" src="/products/outdoor-dining-tables/messina/195643_1.avif" />
+                        <figure><img alt="Silicate thumbnail" loading="lazy" src="/products/outdoor-dining-tables/messina/195643_2.avif" />
                             <figcaption><span class="variant-name">Silicate</span><small>Seen across 1 product family and 1 product option.</small></figcaption>
                         </figure>
                     </a>
@@ -436,7 +494,7 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/solid-wood/">
-                        <figure><img alt="Solid wood thumbnail" loading="lazy" src="/products/footstools/lugo/210110_1.avif" />
+                        <figure><img alt="Solid wood thumbnail" loading="lazy" src="/products/footstools/lugo/210110_2.avif" />
                             <figcaption><span class="variant-name">Solid wood</span><small>Seen across 2 product families and 16 product options.</small></figcaption>
                         </figure>
                     </a>
@@ -444,8 +502,16 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/steel/">
-                        <figure><img alt="Steel thumbnail" loading="lazy" src="/products/adjustable-beds/moon-silver/moon_silver_adjustable_bed_grey_1.avif" />
-                            <figcaption><span class="variant-name">Steel</span><small>Seen across 7 product families and 15 product options.</small></figcaption>
+                        <figure><img alt="Steel thumbnail" loading="lazy" src="/products/gazebos-pergolas/nordic/206775_1.avif" />
+                            <figcaption><span class="variant-name">Steel</span><small>Seen across 7 product families and 17 product options.</small></figcaption>
+                        </figure>
+                    </a>
+                    
+                </article>
+                <article class="variant-card">
+                    <a class="variant-card__link" href="/materials/stone/">
+                        <figure><img alt="Stone thumbnail" loading="lazy" src="/products/coffee-tables/tilda/209001_5.avif" />
+                            <figcaption><span class="variant-name">Stone</span><small>Seen across 1 product family and 1 product option.</small></figcaption>
                         </figure>
                     </a>
                     
@@ -460,7 +526,7 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/tencel/">
-                        <figure><img alt="Tencel thumbnail" loading="lazy" src="/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg" />
+                        <figure><img alt="Tencel thumbnail" loading="lazy" src="/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_200_x_80_x_1_cm_200_x_160_x_1_cm_200_x_180_x_1_cm_2.avif" />
                             <figcaption><span class="variant-name">Tencel</span><small>Seen across 1 product family and 3 product options.</small></figcaption>
                         </figure>
                     </a>
@@ -476,7 +542,7 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/textilene/">
-                        <figure><img alt="Textilene thumbnail" loading="lazy" src="/products/outdoor-lounge-sets/palazzo/208993_1.avif" />
+                        <figure><img alt="Textilene thumbnail" loading="lazy" src="/products/outdoor-lounge-sets/palazzo/208993_5.avif" />
                             <figcaption><span class="variant-name">Textilene</span><small>Seen across 1 product family and 2 product options.</small></figcaption>
                         </figure>
                     </a>
@@ -484,7 +550,7 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/viscose/">
-                        <figure><img alt="Viscose thumbnail" loading="lazy" src="/products/rugs/amaris/amaris_rug_multicolour_1.avif" />
+                        <figure><img alt="Viscose thumbnail" loading="lazy" src="/products/rugs/amaris/amaris_rug_multicolour_2.avif" />
                             <figcaption><span class="variant-name">Viscose</span><small>Seen across 4 product families and 7 product options.</small></figcaption>
                         </figure>
                     </a>
@@ -492,24 +558,24 @@
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/wood/">
-                        <figure><img alt="Wood thumbnail" loading="lazy" src="/products/divan-beds/moon-gold/moon_gold_divan_bed_black_80_x_200_x_33_cm_2.avif" />
-                            <figcaption><span class="variant-name">Wood</span><small>Seen across 11 product families and 89 product options.</small></figcaption>
+                        <figure><img alt="Wood thumbnail" loading="lazy" src="/products/divan-beds/moon-gold/moon_gold_divan_bed_black_grey_3.avif" />
+                            <figcaption><span class="variant-name">Wood</span><small>Seen across 13 product families and 93 product options.</small></figcaption>
                         </figure>
                     </a>
                     
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/wood-veneer/">
-                        <figure><img alt="Wood veneer thumbnail" loading="lazy" src="/products/chaise-sofas/aava/202833_1.avif" />
-                            <figcaption><span class="variant-name">Wood veneer</span><small>Seen across 4 product families and 6 product options.</small></figcaption>
+                        <figure><img alt="Wood veneer thumbnail" loading="lazy" src="/products/tv-stands/meta/209403_1.avif" />
+                            <figcaption><span class="variant-name">Wood veneer</span><small>Seen across 6 product families and 25 product options.</small></figcaption>
                         </figure>
                     </a>
                     
                 </article>
                 <article class="variant-card">
                     <a class="variant-card__link" href="/materials/wool/">
-                        <figure><img alt="Wool thumbnail" loading="lazy" src="/products/rugs/lyra/lyra_rug_brown_orange_beige_1.avif" />
-                            <figcaption><span class="variant-name">Wool</span><small>Seen across 2 product families and 4 product options.</small></figcaption>
+                        <figure><img alt="Wool thumbnail" loading="lazy" src="/products/rugs/lyra/lyra_rug_brown_orange_beige_2.avif" />
+                            <figcaption><span class="variant-name">Wool</span><small>Seen across 3 product families and 6 product options.</small></figcaption>
                         </figure>
                     </a>
                     
@@ -531,9 +597,14 @@
   ]
 }
     </script>
-    <footer id="site-footer" class="footer with-texture">
+    <footer id="site-footer" class="footer with-texture" data-brand-surface="dark">
   <button id="scroll-btn" aria-label="Move back to the top" title="Move back to the top">&uarr;</button>
   <div class="footer-inner">
+    <div class="footer-brand">
+      <a href="/" aria-label="Nest &amp; Living home">
+        <img data-brand-variant="light" src="/images/brand/nest-living-wordmark-light.svg" alt="" width="618" height="191" loading="lazy">
+      </a>
+    </div>
     <div class="footer-columns">
       <div class="footer-column">
         <h2>Company</h2>
@@ -551,10 +622,6 @@
         </ul>
       </div>
 
-      <div class="footer-column">
-        <h2>Follow Us</h2>
-        <ul class="social-media-list"></ul>
-      </div>
     </div>
 
     <div class="footer-contact">

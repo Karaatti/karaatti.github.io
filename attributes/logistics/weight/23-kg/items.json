@@ -12,23 +12,15 @@
     "href": "/families/moon-bronze/",
     "type": "dir",
     "title": "Moon Bronze",
-    "schemaCategory": "Divan Beds and Headboards",
-    "variantCount": 3
+    "schemaCategory": "Divan Beds",
+    "variantCount": 1
   },
   {
     "name": "moon-silver",
     "href": "/families/moon-silver/",
     "type": "dir",
     "title": "Moon Silver",
-    "schemaCategory": "Continental Beds and Divan Beds",
-    "variantCount": 2
-  },
-  {
-    "name": "reef",
-    "href": "/families/reef/",
-    "type": "dir",
-    "title": "Reef",
-    "schemaCategory": "Coffee Tables",
-    "variantCount": 2
+    "schemaCategory": "Divan Beds",
+    "variantCount": 1
   }
 ]

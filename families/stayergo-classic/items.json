@@ -1,0 +1,63 @@
+[
+  {
+    "name": "stayergo-classic",
+    "title": "Stayergo Classic Pillow",
+    "href": "/products/pillows/stayergo-classic/",
+    "type": "dir",
+    "summary": "Stayergo Classic pillows offer a simple white option in a compact size for everyday bedding setups, with cotton and polyester materials.",
+    "primaryImageUrl": "/products/pillows/stayergo-classic/221939_2.avif",
+    "filterData": {
+      "searchText": "Stayergo Classic Stayergo Classic pillows offer a simple white option in a compact size for everyday bedding setups, with cotton and polyester materials. Pillows Bedroom Stayergo Classic Bedroom Pillows Stayergo Classic White Cotton Polyester",
+      "collections": [
+        {
+          "key": "bedroom",
+          "label": "Bedroom",
+          "href": "/collections/bedroom"
+        }
+      ],
+      "categories": [
+        {
+          "key": "pillows",
+          "label": "Pillows",
+          "href": "/products/pillows/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "stayergo-classic",
+          "label": "Stayergo Classic",
+          "href": "/families/stayergo-classic/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "cotton",
+          "label": "Cotton",
+          "href": "/materials/cotton/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Stayergo Classic",
+      "summary": "Stayergo Classic pillows offer a simple white option in a compact size for everyday bedding setups, with cotton and polyester materials.",
+      "variantCount": 1,
+      "categoryLabel": "Pillows",
+      "collectionLabel": "Bedroom",
+      "productFamilyLabel": "Stayergo Classic"
+    }
+  }
+]

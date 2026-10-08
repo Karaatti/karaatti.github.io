@@ -1,6 +1,7 @@
 {
   "familyTitle": "Hike Decorative Cushion",
   "familySummary": "Decorative cushions in Hike upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
+  "familyDescription": "Decorative cushions in Hike upholstery, available in 45 x 45 cm and 60 x 40 cm sizes.",
   "primaryImageUrl": "/products/decorative-cushions/hike/202849_1.avif",
   "schemaCategory": "Decorative Cushions",
   "variantCount": 10,
@@ -8,7 +9,7 @@
   "productFamilyKey": "hike",
   "productFamilyRelativeDir": "families/hike",
   "filterData": {
-    "searchText": "Hike Decorative Cushion Decorative cushions in Hike upholstery, available in 45 x 45 cm and 60 x 40 cm sizes. Decorative Cushions Home Details Hike Home Details Decorative Cushions Hike Brown Green Orange Yellow Dimensions Depth 45 cm cm Dimensions Depth 60 cm cm Dimensions Height 15 cm cm Dimensions Width 40 cm cm Dimensions Width 45 cm cm Logistics Package count 1 package package Logistics Product count 12 product product Logistics Volume 0.15 m³ m³ Logistics Volume 0.22 m³ m³ Logistics Weight 1 kg kg Logistics Weight 9.2 kg kg Logistics Weight 9.8 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+    "searchText": "Hike Decorative Cushion Decorative cushions in Hike upholstery, available in 45 x 45 cm and 60 x 40 cm sizes. Decorative Cushions Home Details Hike Home Details Decorative Cushions Hike Beige Brown Green Orange Dimensions Depth 45 cm cm Dimensions Depth 60 cm cm Dimensions Height 15 cm cm Dimensions Width 40 cm cm Dimensions Width 45 cm cm Logistics Package count 1 package package Logistics Package weight 9.2 kg kg Logistics Package weight 9.8 kg kg Logistics Product count 12 product product Logistics Volume 0.15 m³ m³ Logistics Volume 0.22 m³ m³ Logistics Weight 1 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "home-details",
@@ -32,6 +33,11 @@
     ],
     "colors": [
       {
+        "key": "beige",
+        "label": "Beige",
+        "href": "/colors/beige/"
+      },
+      {
         "key": "brown",
         "label": "Brown",
         "href": "/colors/brown/"
@@ -45,11 +51,6 @@
         "key": "orange",
         "label": "Orange",
         "href": "/colors/orange/"
-      },
-      {
-        "key": "yellow",
-        "label": "Yellow",
-        "href": "/colors/yellow/"
       }
     ],
     "materials": [],
@@ -130,6 +131,30 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "9-2-kg",
+        "valueLabel": "9.2 kg",
+        "href": "/attributes/logistics/package-weight/9-2-kg/",
+        "valueType": "enum",
+        "numericValue": 9.2,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "9-8-kg",
+        "valueLabel": "9.8 kg",
+        "href": "/attributes/logistics/package-weight/9-8-kg/",
+        "valueType": "enum",
+        "numericValue": 9.8,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "12-product",
@@ -173,30 +198,6 @@
         "href": "/attributes/logistics/weight/1-kg/",
         "valueType": "enum",
         "numericValue": 1,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "9-2-kg",
-        "valueLabel": "9.2 kg",
-        "href": "/attributes/logistics/weight/9-2-kg/",
-        "valueType": "enum",
-        "numericValue": 9.2,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "9-8-kg",
-        "valueLabel": "9.8 kg",
-        "href": "/attributes/logistics/weight/9-8-kg/",
-        "valueType": "enum",
-        "numericValue": 9.8,
         "unit": "kg"
       },
       {

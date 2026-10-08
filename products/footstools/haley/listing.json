@@ -1,6 +1,7 @@
 {
   "familyTitle": "Haley Footstool",
   "familySummary": "Compact upholstered footstool in Hevra fabric, available in selected neutral tones.",
+  "familyDescription": "Compact upholstered footstool in Hevra fabric, available in selected neutral tones.",
   "primaryImageUrl": "/products/footstools/haley/202842_1.avif",
   "schemaCategory": "Footstools",
   "variantCount": 4,
@@ -8,7 +9,7 @@
   "productFamilyKey": "haley",
   "productFamilyRelativeDir": "families/haley",
   "filterData": {
-    "searchText": "Haley Footstool Compact upholstered footstool in Hevra fabric, available in selected neutral tones. Footstools Living room Haley Living room Footstools Haley Beige Brown Green Grey Fabric Dimensions Depth 57 cm cm Dimensions Height 38 cm cm Dimensions Width 57 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.14 m³ m³ Logistics Weight 6 kg kg Logistics Weight 6.5 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+    "searchText": "Haley Footstool Compact upholstered footstool in Hevra fabric, available in selected neutral tones. Footstools Living room Haley Living room Footstools Haley Beige Brown Green Grey Fabric Dimensions Depth 57 cm cm Dimensions Height 38 cm cm Dimensions Width 57 cm cm Logistics Package count 1 package package Logistics Package weight 6.5 kg kg Logistics Product count 1 product product Logistics Volume 0.14 m³ m³ Logistics Weight 6 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "living-room",
@@ -112,6 +113,18 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "6-5-kg",
+        "valueLabel": "6.5 kg",
+        "href": "/attributes/logistics/package-weight/6-5-kg/",
+        "valueType": "enum",
+        "numericValue": 6.5,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "1-product",
@@ -143,18 +156,6 @@
         "href": "/attributes/logistics/weight/6-kg/",
         "valueType": "enum",
         "numericValue": 6,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "6-5-kg",
-        "valueLabel": "6.5 kg",
-        "href": "/attributes/logistics/weight/6-5-kg/",
-        "valueType": "enum",
-        "numericValue": 6.5,
         "unit": "kg"
       },
       {

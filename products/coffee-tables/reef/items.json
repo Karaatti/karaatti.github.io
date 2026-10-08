@@ -3,30 +3,38 @@
     "sku": "198072",
     "name": "198072",
     "title": "Reef Coffee Table, Brown",
-    "variantSummary": "80 x 60 cm / Brown",
+    "variantSummary": "80 × 60 cm / Brown",
     "shortDescription": "Brown finish, 80 x 60 cm. Compact coffee table made from MDF and paper.",
     "selectionAttributes": {
-      "dimensions": "80 x 60 cm",
+      "dimensions": "80 × 60 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Brown",
-      "material": "MDF, Paper"
+      "material": "MDF, Paper",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Coffee table",
+      "colorLabel": "Brown",
+      "colorNote": "Walnut",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/coffee-tables/reef/198072_1.avif",
     "imageUrl": "/products/coffee-tables/reef/198072_1.avif",
     "imageUrls": [
       "/products/coffee-tables/reef/198072_1.avif",
       "/products/coffee-tables/reef/198072_2.avif",
+      "/products/coffee-tables/reef/198072_6.avif",
+      "/products/coffee-tables/reef/198072_7.avif",
       "/products/coffee-tables/reef/198072_3.avif",
       "/products/coffee-tables/reef/198072_4.avif",
-      "/products/coffee-tables/reef/198072_5.avif",
-      "/products/coffee-tables/reef/198072_6.avif",
-      "/products/coffee-tables/reef/198072_7.avif"
+      "/products/coffee-tables/reef/198072_5.avif"
     ],
     "href": "/products/coffee-tables/reef/198072",
     "type": "file",
     "filterData": {
-      "searchText": "Reef Coffee Table, Brown Brown finish, 80 x 60 cm. Compact coffee table made from MDF and paper. Coffee Tables Living room Reef Living room Coffee Tables Reef Brown MDF Paper Dimensions Depth 80 cm cm Dimensions Height 40 cm cm Dimensions Width 60 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.24 m³ m³ Logistics Weight 21 kg kg Logistics Weight 23 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Reef Coffee Table, Brown Brown finish, 80 x 60 cm. Compact coffee table made from MDF and paper. Coffee Tables Living room Reef Living room Coffee Tables Reef Brown MDF Paper Dimensions Depth 80 cm cm Dimensions Height 40 cm cm Dimensions Width 60 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Package weight 23 kg kg Logistics Product count 1 product product Logistics Volume 0.24 m³ m³ Logistics Weight 21 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -132,6 +140,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "23-kg",
+          "valueLabel": "23 kg",
+          "href": "/attributes/logistics/package-weight/23-kg/",
+          "valueType": "enum",
+          "numericValue": 23,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -163,18 +183,6 @@
           "href": "/attributes/logistics/weight/21-kg/",
           "valueType": "enum",
           "numericValue": 21,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "23-kg",
-          "valueLabel": "23 kg",
-          "href": "/attributes/logistics/weight/23-kg/",
-          "valueType": "enum",
-          "numericValue": 23,
           "unit": "kg"
         },
         {
@@ -216,31 +224,39 @@
     "sku": "198073",
     "name": "198073",
     "title": "Reef Coffee Table, Beige",
-    "variantSummary": "80 x 60 cm / Beige",
+    "variantSummary": "80 × 60 cm / Beige",
     "shortDescription": "Beige travertin coffee table, 80 x 60 cm, with MDF and paper surface.",
     "selectionAttributes": {
-      "dimensions": "80 x 60 cm",
+      "dimensions": "80 × 60 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "MDF, Paper"
+      "material": "MDF, Paper",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Coffee table",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/coffee-tables/reef/198073_1.avif",
-    "imageUrl": "/products/coffee-tables/reef/198073_1.avif",
+    "primaryImageUrl": "/products/coffee-tables/reef/198073_2.avif",
+    "imageUrl": "/products/coffee-tables/reef/198073_2.avif",
     "imageUrls": [
-      "/products/coffee-tables/reef/198073_1.avif",
       "/products/coffee-tables/reef/198073_2.avif",
+      "/products/coffee-tables/reef/198073_7.avif",
+      "/products/coffee-tables/reef/198073_6.avif",
+      "/products/coffee-tables/reef/198073_8.avif",
+      "/products/coffee-tables/reef/198073_1.avif",
       "/products/coffee-tables/reef/198073_3.avif",
       "/products/coffee-tables/reef/198073_4.avif",
-      "/products/coffee-tables/reef/198073_5.avif",
-      "/products/coffee-tables/reef/198073_6.avif",
-      "/products/coffee-tables/reef/198073_7.avif",
-      "/products/coffee-tables/reef/198073_8.avif"
+      "/products/coffee-tables/reef/198073_5.avif"
     ],
     "href": "/products/coffee-tables/reef/198073",
     "type": "file",
     "filterData": {
-      "searchText": "Reef Coffee Table, Beige Beige travertin coffee table, 80 x 60 cm, with MDF and paper surface. Coffee Tables Living room Reef Living room Coffee Tables Reef Beige MDF Paper Dimensions Depth 80 cm cm Dimensions Height 40 cm cm Dimensions Width 60 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.24 m³ m³ Logistics Weight 21 kg kg Logistics Weight 23 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Reef Coffee Table, Beige Beige travertin coffee table, 80 x 60 cm, with MDF and paper surface. Coffee Tables Living room Reef Living room Coffee Tables Reef Beige MDF Paper Dimensions Depth 80 cm cm Dimensions Height 40 cm cm Dimensions Width 60 cm cm Load Maximum load 10 kg kg Logistics Package count 1 package package Logistics Package weight 23 kg kg Logistics Product count 1 product product Logistics Volume 0.24 m³ m³ Logistics Weight 21 kg kg Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -346,6 +362,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "23-kg",
+          "valueLabel": "23 kg",
+          "href": "/attributes/logistics/package-weight/23-kg/",
+          "valueType": "enum",
+          "numericValue": 23,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -377,18 +405,6 @@
           "href": "/attributes/logistics/weight/21-kg/",
           "valueType": "enum",
           "numericValue": 21,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "23-kg",
-          "valueLabel": "23 kg",
-          "href": "/attributes/logistics/weight/23-kg/",
-          "valueType": "enum",
-          "numericValue": 23,
           "unit": "kg"
         },
         {

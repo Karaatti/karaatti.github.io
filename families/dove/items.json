@@ -4,10 +4,10 @@
     "title": "Dove Armchair",
     "href": "/products/armchairs/dove/",
     "type": "dir",
-    "summary": "Armchair with a walnut rubberwood frame and beige fabric upholstery. Offers comfortable seating with a high back and soft seat.",
-    "primaryImageUrl": "/products/armchairs/dove/198105_1.avif",
+    "summary": "Dove armchairs bring a lounge-style seat to a living room or reading corner, with beige and brown options to compare.",
+    "primaryImageUrl": "/products/armchairs/dove/198104_1.avif",
     "filterData": {
-      "searchText": "Dove Armchair with a walnut rubberwood frame and beige fabric upholstery. Offers comfortable seating with a high back and soft seat. Armchairs Living room Dove Living room Armchairs Dove Beige Brown Fabric Foam Wood Dimensions Depth 97 cm cm Dimensions Height 95 cm cm Dimensions Width 65 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 15.5 kg kg Logistics Weight 17 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Dove Dove armchairs bring a lounge-style seat to a living room or reading corner, with beige and brown options to compare. Armchairs Living room Dove Living room Armchairs Dove Beige Brown Fabric Foam Wood Dimensions Depth 97 cm cm Dimensions Height 95 cm cm Dimensions Width 65 cm cm Load Maximum load 110 kg kg Logistics Package count 1 package package Logistics Package weight 17 kg kg Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 15.5 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -123,6 +123,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -154,18 +166,6 @@
           "href": "/attributes/logistics/weight/15-5-kg/",
           "valueType": "enum",
           "numericValue": 15.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "17-kg",
-          "valueLabel": "17 kg",
-          "href": "/attributes/logistics/weight/17-kg/",
-          "valueType": "enum",
-          "numericValue": 17,
           "unit": "kg"
         },
         {
@@ -208,8 +208,8 @@
     },
     "sortData": {
       "title": "Dove",
-      "summary": "Armchair with a walnut rubberwood frame and beige fabric upholstery. Offers comfortable seating with a high back and soft seat.",
-      "variantCount": 1,
+      "summary": "Dove armchairs bring a lounge-style seat to a living room or reading corner, with beige and brown options to compare.",
+      "variantCount": 2,
       "categoryLabel": "Armchairs",
       "collectionLabel": "Living room",
       "productFamilyLabel": "Dove"

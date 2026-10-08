@@ -2,30 +2,38 @@
   {
     "sku": "209113",
     "name": "209113",
-    "title": "Westcoast Corner Sofa, Beige, 245 x 200 cm, Left",
-    "variantSummary": "245 x 200 cm / Left / Beige",
-    "shortDescription": "245 x 200 cm, Beige, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+    "title": "Westcoast Small Corner Sofa, Beige, Left",
+    "variantSummary": "245 × 200 cm / Left / Beige",
+    "shortDescription": "245 x 200 cm, Beige, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms.",
     "selectionAttributes": {
-      "dimensions": "245 x 200 cm",
+      "dimensions": "245 × 200 cm",
       "handedness": "Left",
       "comfortType": "",
       "color": "Beige",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "Small corner sofa",
+      "productTypeNote": "245 × 200 cm",
+      "productNoun": "Small corner sofa",
+      "colorLabel": "Beige",
+      "colorNote": "Sand",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/209113_1.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/209113_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209113_2.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209113_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/209113_1.avif",
       "/products/corner-sofas/westcoast/209113_2.avif",
-      "/products/corner-sofas/westcoast/209113_3.avif",
-      "/products/corner-sofas/westcoast/209113_4.avif",
       "/products/corner-sofas/westcoast/209113_5.avif",
-      "/products/corner-sofas/westcoast/209113_6.avif"
+      "/products/corner-sofas/westcoast/209113_6.avif",
+      "/products/corner-sofas/westcoast/209113_1.avif",
+      "/products/corner-sofas/westcoast/209113_3.avif",
+      "/products/corner-sofas/westcoast/209113_4.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209113",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Beige, 245 x 200 cm, Left 245 x 200 cm, Beige, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Beige Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 245 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.79 m³ m³ Logistics Weight 54 kg kg Logistics Weight 97 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Small Corner Sofa, Beige, Left 245 x 200 cm, Beige, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Beige Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 245 cm cm Logistics Package count 1 package package Logistics Package weight 54 kg kg Logistics Product count 1 product product Logistics Volume 0.79 m³ m³ Logistics Weight 97 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -131,6 +139,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "54-kg",
+          "valueLabel": "54 kg",
+          "href": "/attributes/logistics/package-weight/54-kg/",
+          "valueType": "enum",
+          "numericValue": 54,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -151,18 +171,6 @@
           "valueType": "enum",
           "numericValue": 0.79,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "54-kg",
-          "valueLabel": "54 kg",
-          "href": "/attributes/logistics/weight/54-kg/",
-          "valueType": "enum",
-          "numericValue": 54,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -239,8 +247,8 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Beige, 245 x 200 cm, Left",
-      "summary": "245 x 200 cm, Beige, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+      "title": "Westcoast Small Corner Sofa, Beige, Left",
+      "summary": "245 x 200 cm, Beige, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
       "collectionLabel": "Living room",
@@ -250,30 +258,38 @@
   {
     "sku": "209114",
     "name": "209114",
-    "title": "Westcoast Corner Sofa, Brown, 245 x 200 cm, Left",
-    "variantSummary": "245 x 200 cm / Left / Brown",
-    "shortDescription": "245 x 200 cm, Brown, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+    "title": "Westcoast Small Corner Sofa, Brown, Left",
+    "variantSummary": "245 × 200 cm / Left / Brown",
+    "shortDescription": "245 x 200 cm, Brown, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms.",
     "selectionAttributes": {
-      "dimensions": "245 x 200 cm",
+      "dimensions": "245 × 200 cm",
       "handedness": "Left",
       "comfortType": "",
       "color": "Brown",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "Small corner sofa",
+      "productTypeNote": "245 × 200 cm",
+      "productNoun": "Small corner sofa",
+      "colorLabel": "Brown",
+      "colorNote": "",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/209114_1.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/209114_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209114_2.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209114_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/209114_1.avif",
       "/products/corner-sofas/westcoast/209114_2.avif",
-      "/products/corner-sofas/westcoast/209114_3.avif",
-      "/products/corner-sofas/westcoast/209114_4.avif",
       "/products/corner-sofas/westcoast/209114_5.avif",
-      "/products/corner-sofas/westcoast/209114_6.avif"
+      "/products/corner-sofas/westcoast/209114_6.avif",
+      "/products/corner-sofas/westcoast/209114_1.avif",
+      "/products/corner-sofas/westcoast/209114_3.avif",
+      "/products/corner-sofas/westcoast/209114_4.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209114",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Brown, 245 x 200 cm, Left 245 x 200 cm, Brown, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Brown Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 245 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.79 m³ m³ Logistics Weight 54 kg kg Logistics Weight 97 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Small Corner Sofa, Brown, Left 245 x 200 cm, Brown, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Brown Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 245 cm cm Logistics Package count 1 package package Logistics Package weight 54 kg kg Logistics Product count 1 product product Logistics Volume 0.79 m³ m³ Logistics Weight 97 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -379,6 +395,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "54-kg",
+          "valueLabel": "54 kg",
+          "href": "/attributes/logistics/package-weight/54-kg/",
+          "valueType": "enum",
+          "numericValue": 54,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -399,18 +427,6 @@
           "valueType": "enum",
           "numericValue": 0.79,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "54-kg",
-          "valueLabel": "54 kg",
-          "href": "/attributes/logistics/weight/54-kg/",
-          "valueType": "enum",
-          "numericValue": 54,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -487,8 +503,8 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Brown, 245 x 200 cm, Left",
-      "summary": "245 x 200 cm, Brown, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+      "title": "Westcoast Small Corner Sofa, Brown, Left",
+      "summary": "245 x 200 cm, Brown, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
       "collectionLabel": "Living room",
@@ -498,29 +514,37 @@
   {
     "sku": "209115",
     "name": "209115",
-    "title": "Westcoast Corner Sofa, Grey, 245 x 200 cm, Left",
-    "variantSummary": "245 x 200 cm / Left / Grey",
-    "shortDescription": "245 x 200 cm, Grey, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+    "title": "Westcoast Small Corner Sofa, Grey, Left",
+    "variantSummary": "245 × 200 cm / Left / Grey",
+    "shortDescription": "245 x 200 cm, Grey, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms.",
     "selectionAttributes": {
-      "dimensions": "245 x 200 cm",
+      "dimensions": "245 × 200 cm",
       "handedness": "Left",
       "comfortType": "",
       "color": "Grey",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "Small corner sofa",
+      "productTypeNote": "245 × 200 cm",
+      "productNoun": "Small corner sofa",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/209115_1.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/209115_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209115_2.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209115_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/209115_1.avif",
       "/products/corner-sofas/westcoast/209115_2.avif",
-      "/products/corner-sofas/westcoast/209115_3.avif",
       "/products/corner-sofas/westcoast/209115_4.avif",
-      "/products/corner-sofas/westcoast/209115_5.avif"
+      "/products/corner-sofas/westcoast/209115_5.avif",
+      "/products/corner-sofas/westcoast/209115_1.avif",
+      "/products/corner-sofas/westcoast/209115_3.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209115",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Grey, 245 x 200 cm, Left 245 x 200 cm, Grey, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 245 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.79 m³ m³ Logistics Weight 54 kg kg Logistics Weight 97 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Small Corner Sofa, Grey, Left 245 x 200 cm, Grey, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 245 cm cm Logistics Package count 1 package package Logistics Package weight 54 kg kg Logistics Product count 1 product product Logistics Volume 0.79 m³ m³ Logistics Weight 97 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -626,6 +650,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "54-kg",
+          "valueLabel": "54 kg",
+          "href": "/attributes/logistics/package-weight/54-kg/",
+          "valueType": "enum",
+          "numericValue": 54,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -646,18 +682,6 @@
           "valueType": "enum",
           "numericValue": 0.79,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "54-kg",
-          "valueLabel": "54 kg",
-          "href": "/attributes/logistics/weight/54-kg/",
-          "valueType": "enum",
-          "numericValue": 54,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -734,8 +758,8 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Grey, 245 x 200 cm, Left",
-      "summary": "245 x 200 cm, Grey, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+      "title": "Westcoast Small Corner Sofa, Grey, Left",
+      "summary": "245 x 200 cm, Grey, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
       "collectionLabel": "Living room",
@@ -745,30 +769,38 @@
   {
     "sku": "209116",
     "name": "209116",
-    "title": "Westcoast Corner Sofa, Beige, 245 x 200 cm, Right",
-    "variantSummary": "245 x 200 cm / Right / Beige",
-    "shortDescription": "245 x 200 cm, Beige, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+    "title": "Westcoast Small Corner Sofa, Beige, Right",
+    "variantSummary": "245 × 200 cm / Right / Beige",
+    "shortDescription": "245 x 200 cm, Beige, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms.",
     "selectionAttributes": {
-      "dimensions": "245 x 200 cm",
+      "dimensions": "245 × 200 cm",
       "handedness": "Right",
       "comfortType": "",
       "color": "Beige",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "Small corner sofa",
+      "productTypeNote": "245 × 200 cm",
+      "productNoun": "Small corner sofa",
+      "colorLabel": "Beige",
+      "colorNote": "Sand",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/209116_1.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/209116_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209116_2.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209116_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/209116_1.avif",
       "/products/corner-sofas/westcoast/209116_2.avif",
-      "/products/corner-sofas/westcoast/209116_3.avif",
-      "/products/corner-sofas/westcoast/209116_4.avif",
       "/products/corner-sofas/westcoast/209116_5.avif",
-      "/products/corner-sofas/westcoast/209116_6.avif"
+      "/products/corner-sofas/westcoast/209116_6.avif",
+      "/products/corner-sofas/westcoast/209116_1.avif",
+      "/products/corner-sofas/westcoast/209116_3.avif",
+      "/products/corner-sofas/westcoast/209116_4.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209116",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Beige, 245 x 200 cm, Right 245 x 200 cm, Beige, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Beige Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 245 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.79 m³ m³ Logistics Weight 54 kg kg Logistics Weight 97 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Small Corner Sofa, Beige, Right 245 x 200 cm, Beige, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Beige Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 245 cm cm Logistics Package count 1 package package Logistics Package weight 54 kg kg Logistics Product count 1 product product Logistics Volume 0.79 m³ m³ Logistics Weight 97 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -874,6 +906,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "54-kg",
+          "valueLabel": "54 kg",
+          "href": "/attributes/logistics/package-weight/54-kg/",
+          "valueType": "enum",
+          "numericValue": 54,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -894,18 +938,6 @@
           "valueType": "enum",
           "numericValue": 0.79,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "54-kg",
-          "valueLabel": "54 kg",
-          "href": "/attributes/logistics/weight/54-kg/",
-          "valueType": "enum",
-          "numericValue": 54,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -982,8 +1014,8 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Beige, 245 x 200 cm, Right",
-      "summary": "245 x 200 cm, Beige, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+      "title": "Westcoast Small Corner Sofa, Beige, Right",
+      "summary": "245 x 200 cm, Beige, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
       "collectionLabel": "Living room",
@@ -993,30 +1025,38 @@
   {
     "sku": "209117",
     "name": "209117",
-    "title": "Westcoast Corner Sofa, Brown, 245 x 200 cm, Right",
-    "variantSummary": "245 x 200 cm / Right / Brown",
-    "shortDescription": "245 x 200 cm, Brown, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+    "title": "Westcoast Small Corner Sofa, Brown, Right",
+    "variantSummary": "245 × 200 cm / Right / Brown",
+    "shortDescription": "245 x 200 cm, Brown, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms.",
     "selectionAttributes": {
-      "dimensions": "245 x 200 cm",
+      "dimensions": "245 × 200 cm",
       "handedness": "Right",
       "comfortType": "",
       "color": "Brown",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "Small corner sofa",
+      "productTypeNote": "245 × 200 cm",
+      "productNoun": "Small corner sofa",
+      "colorLabel": "Brown",
+      "colorNote": "",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/209117_1.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/209117_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209117_2.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209117_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/209117_1.avif",
       "/products/corner-sofas/westcoast/209117_2.avif",
-      "/products/corner-sofas/westcoast/209117_3.avif",
-      "/products/corner-sofas/westcoast/209117_4.avif",
       "/products/corner-sofas/westcoast/209117_5.avif",
-      "/products/corner-sofas/westcoast/209117_6.avif"
+      "/products/corner-sofas/westcoast/209117_6.avif",
+      "/products/corner-sofas/westcoast/209117_1.avif",
+      "/products/corner-sofas/westcoast/209117_3.avif",
+      "/products/corner-sofas/westcoast/209117_4.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209117",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Brown, 245 x 200 cm, Right 245 x 200 cm, Brown, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Brown Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 245 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.79 m³ m³ Logistics Weight 54 kg kg Logistics Weight 97 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Small Corner Sofa, Brown, Right 245 x 200 cm, Brown, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Brown Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 245 cm cm Logistics Package count 1 package package Logistics Package weight 54 kg kg Logistics Product count 1 product product Logistics Volume 0.79 m³ m³ Logistics Weight 97 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -1122,6 +1162,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "54-kg",
+          "valueLabel": "54 kg",
+          "href": "/attributes/logistics/package-weight/54-kg/",
+          "valueType": "enum",
+          "numericValue": 54,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1142,18 +1194,6 @@
           "valueType": "enum",
           "numericValue": 0.79,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "54-kg",
-          "valueLabel": "54 kg",
-          "href": "/attributes/logistics/weight/54-kg/",
-          "valueType": "enum",
-          "numericValue": 54,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1230,8 +1270,8 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Brown, 245 x 200 cm, Right",
-      "summary": "245 x 200 cm, Brown, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+      "title": "Westcoast Small Corner Sofa, Brown, Right",
+      "summary": "245 x 200 cm, Brown, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
       "collectionLabel": "Living room",
@@ -1241,29 +1281,37 @@
   {
     "sku": "209118",
     "name": "209118",
-    "title": "Westcoast Corner Sofa, Grey, 245 x 200 cm, Right",
-    "variantSummary": "245 x 200 cm / Right / Grey",
-    "shortDescription": "245 x 200 cm, Grey, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+    "title": "Westcoast Small Corner Sofa, Grey, Right",
+    "variantSummary": "245 × 200 cm / Right / Grey",
+    "shortDescription": "245 x 200 cm, Grey, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms.",
     "selectionAttributes": {
-      "dimensions": "245 x 200 cm",
+      "dimensions": "245 × 200 cm",
       "handedness": "Right",
       "comfortType": "",
       "color": "Grey",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "Small corner sofa",
+      "productTypeNote": "245 × 200 cm",
+      "productNoun": "Small corner sofa",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/209118_1.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/209118_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209118_2.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209118_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/209118_1.avif",
       "/products/corner-sofas/westcoast/209118_2.avif",
-      "/products/corner-sofas/westcoast/209118_3.avif",
       "/products/corner-sofas/westcoast/209118_4.avif",
-      "/products/corner-sofas/westcoast/209118_5.avif"
+      "/products/corner-sofas/westcoast/209118_5.avif",
+      "/products/corner-sofas/westcoast/209118_1.avif",
+      "/products/corner-sofas/westcoast/209118_3.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209118",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Grey, 245 x 200 cm, Right 245 x 200 cm, Grey, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 245 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.79 m³ m³ Logistics Weight 54 kg kg Logistics Weight 97 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Small Corner Sofa, Grey, Right 245 x 200 cm, Grey, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 245 cm cm Logistics Package count 1 package package Logistics Package weight 54 kg kg Logistics Product count 1 product product Logistics Volume 0.79 m³ m³ Logistics Weight 97 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -1369,6 +1417,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "54-kg",
+          "valueLabel": "54 kg",
+          "href": "/attributes/logistics/package-weight/54-kg/",
+          "valueType": "enum",
+          "numericValue": 54,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1389,18 +1449,6 @@
           "valueType": "enum",
           "numericValue": 0.79,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "54-kg",
-          "valueLabel": "54 kg",
-          "href": "/attributes/logistics/weight/54-kg/",
-          "valueType": "enum",
-          "numericValue": 54,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1477,8 +1525,8 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Grey, 245 x 200 cm, Right",
-      "summary": "245 x 200 cm, Grey, Polyester. Available sizes: 245 x 200 cm, 295 x 200 cm and 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 18 variants available.",
+      "title": "Westcoast Small Corner Sofa, Grey, Right",
+      "summary": "245 x 200 cm, Grey, Polyester. Westcoast corner sofas offer three sizes, left- and right-facing layouts, and beige, brown or grey polyester upholstery for different living rooms.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
       "collectionLabel": "Living room",
@@ -1488,33 +1536,41 @@
   {
     "sku": "209119",
     "name": "209119",
-    "title": "Westcoast Corner Sofa, Beige, 295 x 200 cm, Left",
-    "variantSummary": "295 x 200 cm / Left / Beige",
+    "title": "Westcoast Large Corner Sofa, Beige, Left",
+    "variantSummary": "295 × 200 cm / Left / Beige",
     "shortDescription": "295 x 200 cm, Beige, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
     "selectionAttributes": {
-      "dimensions": "295 x 200 cm",
+      "dimensions": "295 × 200 cm",
       "handedness": "Left",
       "comfortType": "",
       "color": "Beige",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "Large corner sofa",
+      "productTypeNote": "295 × 200 cm",
+      "productNoun": "Large corner sofa",
+      "colorLabel": "Beige",
+      "colorNote": "Sand",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_295_x_200_cm_9.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_295_x_200_cm_9.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209119_2.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209119_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_295_x_200_cm_9.avif",
-      "/products/corner-sofas/westcoast/209119_1.avif",
       "/products/corner-sofas/westcoast/209119_2.avif",
-      "/products/corner-sofas/westcoast/209119_3.avif",
       "/products/corner-sofas/westcoast/209119_4.avif",
       "/products/corner-sofas/westcoast/209119_5.avif",
+      "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_295_x_200_cm_9.avif",
       "/products/corner-sofas/westcoast/209119_6.avif",
       "/products/corner-sofas/westcoast/209119_7.avif",
-      "/products/corner-sofas/westcoast/209119_8.avif"
+      "/products/corner-sofas/westcoast/209119_8.avif",
+      "/products/corner-sofas/westcoast/209119_1.avif",
+      "/products/corner-sofas/westcoast/209119_3.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209119",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Beige, 295 x 200 cm, Left 295 x 200 cm, Beige, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Beige Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 295 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.05 m³ m³ Logistics Weight 54 kg kg Logistics Weight 115 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Large Corner Sofa, Beige, Left 295 x 200 cm, Beige, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Beige Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 295 cm cm Logistics Package count 1 package package Logistics Package weight 54 kg kg Logistics Product count 1 product product Logistics Volume 1.05 m³ m³ Logistics Weight 115 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -1620,6 +1676,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "54-kg",
+          "valueLabel": "54 kg",
+          "href": "/attributes/logistics/package-weight/54-kg/",
+          "valueType": "enum",
+          "numericValue": 54,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1640,18 +1708,6 @@
           "valueType": "enum",
           "numericValue": 1.05,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "54-kg",
-          "valueLabel": "54 kg",
-          "href": "/attributes/logistics/weight/54-kg/",
-          "valueType": "enum",
-          "numericValue": 54,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1728,7 +1784,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Beige, 295 x 200 cm, Left",
+      "title": "Westcoast Large Corner Sofa, Beige, Left",
       "summary": "295 x 200 cm, Beige, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
@@ -1739,29 +1795,37 @@
   {
     "sku": "209120",
     "name": "209120",
-    "title": "Westcoast Corner Sofa, Brown, 295 x 200 cm, Left",
-    "variantSummary": "295 x 200 cm / Left / Brown",
+    "title": "Westcoast Large Corner Sofa, Brown, Left",
+    "variantSummary": "295 × 200 cm / Left / Brown",
     "shortDescription": "295 x 200 cm, Brown, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
     "selectionAttributes": {
-      "dimensions": "295 x 200 cm",
+      "dimensions": "295 × 200 cm",
       "handedness": "Left",
       "comfortType": "",
       "color": "Brown",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "Large corner sofa",
+      "productTypeNote": "295 × 200 cm",
+      "productNoun": "Large corner sofa",
+      "colorLabel": "Brown",
+      "colorNote": "",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/209120_1.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/209120_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209120_2.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209120_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/209120_1.avif",
       "/products/corner-sofas/westcoast/209120_2.avif",
-      "/products/corner-sofas/westcoast/209120_3.avif",
       "/products/corner-sofas/westcoast/209120_4.avif",
-      "/products/corner-sofas/westcoast/209120_5.avif"
+      "/products/corner-sofas/westcoast/209120_5.avif",
+      "/products/corner-sofas/westcoast/209120_1.avif",
+      "/products/corner-sofas/westcoast/209120_3.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209120",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Brown, 295 x 200 cm, Left 295 x 200 cm, Brown, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Brown Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 295 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.05 m³ m³ Logistics Weight 54 kg kg Logistics Weight 115 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Large Corner Sofa, Brown, Left 295 x 200 cm, Brown, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Brown Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 295 cm cm Logistics Package count 1 package package Logistics Package weight 54 kg kg Logistics Product count 1 product product Logistics Volume 1.05 m³ m³ Logistics Weight 115 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -1867,6 +1931,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "54-kg",
+          "valueLabel": "54 kg",
+          "href": "/attributes/logistics/package-weight/54-kg/",
+          "valueType": "enum",
+          "numericValue": 54,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1887,18 +1963,6 @@
           "valueType": "enum",
           "numericValue": 1.05,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "54-kg",
-          "valueLabel": "54 kg",
-          "href": "/attributes/logistics/weight/54-kg/",
-          "valueType": "enum",
-          "numericValue": 54,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1975,7 +2039,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Brown, 295 x 200 cm, Left",
+      "title": "Westcoast Large Corner Sofa, Brown, Left",
       "summary": "295 x 200 cm, Brown, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
@@ -1986,29 +2050,37 @@
   {
     "sku": "209121",
     "name": "209121",
-    "title": "Westcoast Corner Sofa, Grey, 295 x 200 cm, Left",
-    "variantSummary": "295 x 200 cm / Left / Grey",
+    "title": "Westcoast Large Corner Sofa, Grey, Left",
+    "variantSummary": "295 × 200 cm / Left / Grey",
     "shortDescription": "295 x 200 cm, Grey, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
     "selectionAttributes": {
-      "dimensions": "295 x 200 cm",
+      "dimensions": "295 × 200 cm",
       "handedness": "Left",
       "comfortType": "",
       "color": "Grey",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "Large corner sofa",
+      "productTypeNote": "295 × 200 cm",
+      "productNoun": "Large corner sofa",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/209121_1.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/209121_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209121_2.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209121_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/209121_1.avif",
       "/products/corner-sofas/westcoast/209121_2.avif",
-      "/products/corner-sofas/westcoast/209121_3.avif",
       "/products/corner-sofas/westcoast/209121_4.avif",
-      "/products/corner-sofas/westcoast/209121_5.avif"
+      "/products/corner-sofas/westcoast/209121_5.avif",
+      "/products/corner-sofas/westcoast/209121_1.avif",
+      "/products/corner-sofas/westcoast/209121_3.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209121",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Grey, 295 x 200 cm, Left 295 x 200 cm, Grey, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 295 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.97 m³ m³ Logistics Weight 61 kg kg Logistics Weight 115 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Large Corner Sofa, Grey, Left 295 x 200 cm, Grey, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 295 cm cm Logistics Package count 1 package package Logistics Package weight 61 kg kg Logistics Product count 1 product product Logistics Volume 0.97 m³ m³ Logistics Weight 115 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -2114,6 +2186,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "61-kg",
+          "valueLabel": "61 kg",
+          "href": "/attributes/logistics/package-weight/61-kg/",
+          "valueType": "enum",
+          "numericValue": 61,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2134,18 +2218,6 @@
           "valueType": "enum",
           "numericValue": 0.97,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "61-kg",
-          "valueLabel": "61 kg",
-          "href": "/attributes/logistics/weight/61-kg/",
-          "valueType": "enum",
-          "numericValue": 61,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2222,7 +2294,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Grey, 295 x 200 cm, Left",
+      "title": "Westcoast Large Corner Sofa, Grey, Left",
       "summary": "295 x 200 cm, Grey, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
@@ -2233,33 +2305,41 @@
   {
     "sku": "209122",
     "name": "209122",
-    "title": "Westcoast Corner Sofa, Beige, 295 x 200 cm, Right",
-    "variantSummary": "295 x 200 cm / Right / Beige",
+    "title": "Westcoast Large Corner Sofa, Beige, Right",
+    "variantSummary": "295 × 200 cm / Right / Beige",
     "shortDescription": "295 x 200 cm, Beige, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
     "selectionAttributes": {
-      "dimensions": "295 x 200 cm",
+      "dimensions": "295 × 200 cm",
       "handedness": "Right",
       "comfortType": "",
       "color": "Beige",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "Large corner sofa",
+      "productTypeNote": "295 × 200 cm",
+      "productNoun": "Large corner sofa",
+      "colorLabel": "Beige",
+      "colorNote": "Sand",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_295_x_200_cm_9.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_295_x_200_cm_9.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209122_2.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209122_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_295_x_200_cm_9.avif",
-      "/products/corner-sofas/westcoast/209122_1.avif",
       "/products/corner-sofas/westcoast/209122_2.avif",
-      "/products/corner-sofas/westcoast/209122_3.avif",
       "/products/corner-sofas/westcoast/209122_4.avif",
+      "/products/corner-sofas/westcoast/209122_8.avif",
+      "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_295_x_200_cm_9.avif",
       "/products/corner-sofas/westcoast/209122_5.avif",
       "/products/corner-sofas/westcoast/209122_6.avif",
       "/products/corner-sofas/westcoast/209122_7.avif",
-      "/products/corner-sofas/westcoast/209122_8.avif"
+      "/products/corner-sofas/westcoast/209122_1.avif",
+      "/products/corner-sofas/westcoast/209122_3.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209122",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Beige, 295 x 200 cm, Right 295 x 200 cm, Beige, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Beige Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 295 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.05 m³ m³ Logistics Weight 54 kg kg Logistics Weight 115 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Large Corner Sofa, Beige, Right 295 x 200 cm, Beige, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Beige Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 295 cm cm Logistics Package count 1 package package Logistics Package weight 54 kg kg Logistics Product count 1 product product Logistics Volume 1.05 m³ m³ Logistics Weight 115 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -2365,6 +2445,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "54-kg",
+          "valueLabel": "54 kg",
+          "href": "/attributes/logistics/package-weight/54-kg/",
+          "valueType": "enum",
+          "numericValue": 54,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2385,18 +2477,6 @@
           "valueType": "enum",
           "numericValue": 1.05,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "54-kg",
-          "valueLabel": "54 kg",
-          "href": "/attributes/logistics/weight/54-kg/",
-          "valueType": "enum",
-          "numericValue": 54,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2473,7 +2553,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Beige, 295 x 200 cm, Right",
+      "title": "Westcoast Large Corner Sofa, Beige, Right",
       "summary": "295 x 200 cm, Beige, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
@@ -2484,29 +2564,37 @@
   {
     "sku": "209123",
     "name": "209123",
-    "title": "Westcoast Corner Sofa, Brown, 295 x 200 cm, Right",
-    "variantSummary": "295 x 200 cm / Right / Brown",
+    "title": "Westcoast Large Corner Sofa, Brown, Right",
+    "variantSummary": "295 × 200 cm / Right / Brown",
     "shortDescription": "295 x 200 cm, Brown, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
     "selectionAttributes": {
-      "dimensions": "295 x 200 cm",
+      "dimensions": "295 × 200 cm",
       "handedness": "Right",
       "comfortType": "",
       "color": "Brown",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "Large corner sofa",
+      "productTypeNote": "295 × 200 cm",
+      "productNoun": "Large corner sofa",
+      "colorLabel": "Brown",
+      "colorNote": "",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/209123_1.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/209123_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209123_2.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209123_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/209123_1.avif",
       "/products/corner-sofas/westcoast/209123_2.avif",
-      "/products/corner-sofas/westcoast/209123_3.avif",
       "/products/corner-sofas/westcoast/209123_4.avif",
-      "/products/corner-sofas/westcoast/209123_5.avif"
+      "/products/corner-sofas/westcoast/209123_5.avif",
+      "/products/corner-sofas/westcoast/209123_1.avif",
+      "/products/corner-sofas/westcoast/209123_3.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209123",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Brown, 295 x 200 cm, Right 295 x 200 cm, Brown, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Brown Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 295 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.05 m³ m³ Logistics Weight 54 kg kg Logistics Weight 115 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Large Corner Sofa, Brown, Right 295 x 200 cm, Brown, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Brown Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 295 cm cm Logistics Package count 1 package package Logistics Package weight 54 kg kg Logistics Product count 1 product product Logistics Volume 1.05 m³ m³ Logistics Weight 115 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -2612,6 +2700,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "54-kg",
+          "valueLabel": "54 kg",
+          "href": "/attributes/logistics/package-weight/54-kg/",
+          "valueType": "enum",
+          "numericValue": 54,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2632,18 +2732,6 @@
           "valueType": "enum",
           "numericValue": 1.05,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "54-kg",
-          "valueLabel": "54 kg",
-          "href": "/attributes/logistics/weight/54-kg/",
-          "valueType": "enum",
-          "numericValue": 54,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2720,7 +2808,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Brown, 295 x 200 cm, Right",
+      "title": "Westcoast Large Corner Sofa, Brown, Right",
       "summary": "295 x 200 cm, Brown, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
@@ -2731,29 +2819,37 @@
   {
     "sku": "209124",
     "name": "209124",
-    "title": "Westcoast Corner Sofa, Grey, 295 x 200 cm, Right",
-    "variantSummary": "295 x 200 cm / Right / Grey",
+    "title": "Westcoast Large Corner Sofa, Grey, Right",
+    "variantSummary": "295 × 200 cm / Right / Grey",
     "shortDescription": "295 x 200 cm, Grey, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
     "selectionAttributes": {
-      "dimensions": "295 x 200 cm",
+      "dimensions": "295 × 200 cm",
       "handedness": "Right",
       "comfortType": "",
       "color": "Grey",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "Large corner sofa",
+      "productTypeNote": "295 × 200 cm",
+      "productNoun": "Large corner sofa",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/209124_1.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/209124_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209124_2.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209124_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/209124_1.avif",
       "/products/corner-sofas/westcoast/209124_2.avif",
-      "/products/corner-sofas/westcoast/209124_3.avif",
       "/products/corner-sofas/westcoast/209124_4.avif",
-      "/products/corner-sofas/westcoast/209124_5.avif"
+      "/products/corner-sofas/westcoast/209124_5.avif",
+      "/products/corner-sofas/westcoast/209124_1.avif",
+      "/products/corner-sofas/westcoast/209124_3.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209124",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Grey, 295 x 200 cm, Right 295 x 200 cm, Grey, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 295 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.97 m³ m³ Logistics Weight 61 kg kg Logistics Weight 115 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Large Corner Sofa, Grey, Right 295 x 200 cm, Grey, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 295 cm cm Logistics Package count 1 package package Logistics Package weight 61 kg kg Logistics Product count 1 product product Logistics Volume 0.97 m³ m³ Logistics Weight 115 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -2855,6 +2951,18 @@
           "valueType": "enum",
           "numericValue": 1,
           "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "61-kg",
+          "valueLabel": "61 kg",
+          "href": "/attributes/logistics/package-weight/61-kg/",
+          "valueType": "enum",
+          "numericValue": 61,
+          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2885,18 +2993,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "61-kg",
-          "valueLabel": "61 kg",
-          "href": "/attributes/logistics/weight/61-kg/",
-          "valueType": "enum",
-          "numericValue": 61,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "115-kg",
           "valueLabel": "115 kg",
           "href": "/attributes/logistics/weight/115-kg/",
@@ -2967,7 +3063,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Grey, 295 x 200 cm, Right",
+      "title": "Westcoast Large Corner Sofa, Grey, Right",
       "summary": "295 x 200 cm, Grey, Polyester. Available sizes: 295 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
@@ -2978,34 +3074,42 @@
   {
     "sku": "209125",
     "name": "209125",
-    "title": "Westcoast Corner Sofa, Beige, 313 x 200 cm, Left",
-    "variantSummary": "313 x 200 cm / Left / Beige",
+    "title": "Westcoast U-shaped Sofa, Beige, Left",
+    "variantSummary": "313 × 200 cm / Left / Beige",
     "shortDescription": "313 x 200 cm, Beige, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
     "selectionAttributes": {
-      "dimensions": "313 x 200 cm",
+      "dimensions": "313 × 200 cm",
       "handedness": "Left",
       "comfortType": "",
       "color": "Beige",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "U-shaped sofa",
+      "productTypeNote": "313 × 200 cm",
+      "productNoun": "U-shaped sofa",
+      "colorLabel": "Beige",
+      "colorNote": "Sand",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_313_x_200_cm_10.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_313_x_200_cm_10.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209125_2.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209125_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_313_x_200_cm_10.avif",
-      "/products/corner-sofas/westcoast/209125_1.avif",
       "/products/corner-sofas/westcoast/209125_2.avif",
-      "/products/corner-sofas/westcoast/209125_3.avif",
       "/products/corner-sofas/westcoast/209125_4.avif",
+      "/products/corner-sofas/westcoast/209125_8.avif",
+      "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_313_x_200_cm_10.avif",
       "/products/corner-sofas/westcoast/209125_5.avif",
       "/products/corner-sofas/westcoast/209125_6.avif",
       "/products/corner-sofas/westcoast/209125_7.avif",
-      "/products/corner-sofas/westcoast/209125_8.avif",
-      "/products/corner-sofas/westcoast/209125_9.avif"
+      "/products/corner-sofas/westcoast/209125_9.avif",
+      "/products/corner-sofas/westcoast/209125_1.avif",
+      "/products/corner-sofas/westcoast/209125_3.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209125",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Beige, 313 x 200 cm, Left 313 x 200 cm, Beige, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Beige Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 313 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.73 m³ m³ Logistics Weight 33 kg kg Logistics Weight 110 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast U-shaped Sofa, Beige, Left 313 x 200 cm, Beige, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Beige Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 313 cm cm Logistics Package count 1 package package Logistics Package weight 33 kg kg Logistics Product count 1 product product Logistics Volume 0.73 m³ m³ Logistics Weight 110 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -3111,6 +3215,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "33-kg",
+          "valueLabel": "33 kg",
+          "href": "/attributes/logistics/package-weight/33-kg/",
+          "valueType": "enum",
+          "numericValue": 33,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -3131,18 +3247,6 @@
           "valueType": "enum",
           "numericValue": 0.73,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "33-kg",
-          "valueLabel": "33 kg",
-          "href": "/attributes/logistics/weight/33-kg/",
-          "valueType": "enum",
-          "numericValue": 33,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -3219,7 +3323,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Beige, 313 x 200 cm, Left",
+      "title": "Westcoast U-shaped Sofa, Beige, Left",
       "summary": "313 x 200 cm, Beige, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
@@ -3230,29 +3334,37 @@
   {
     "sku": "209126",
     "name": "209126",
-    "title": "Westcoast Corner Sofa, Brown, 313 x 200 cm, Left",
-    "variantSummary": "313 x 200 cm / Left / Brown",
+    "title": "Westcoast U-shaped Sofa, Brown, Left",
+    "variantSummary": "313 × 200 cm / Left / Brown",
     "shortDescription": "313 x 200 cm, Brown, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
     "selectionAttributes": {
-      "dimensions": "313 x 200 cm",
+      "dimensions": "313 × 200 cm",
       "handedness": "Left",
       "comfortType": "",
       "color": "Brown",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "U-shaped sofa",
+      "productTypeNote": "313 × 200 cm",
+      "productNoun": "U-shaped sofa",
+      "colorLabel": "Brown",
+      "colorNote": "",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/209126_1.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/209126_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209126_2.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209126_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/209126_1.avif",
       "/products/corner-sofas/westcoast/209126_2.avif",
-      "/products/corner-sofas/westcoast/209126_3.avif",
       "/products/corner-sofas/westcoast/209126_4.avif",
-      "/products/corner-sofas/westcoast/209126_5.avif"
+      "/products/corner-sofas/westcoast/209126_5.avif",
+      "/products/corner-sofas/westcoast/209126_1.avif",
+      "/products/corner-sofas/westcoast/209126_3.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209126",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Brown, 313 x 200 cm, Left 313 x 200 cm, Brown, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Brown Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 313 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.68 m³ m³ Logistics Weight 27 kg kg Logistics Weight 110 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast U-shaped Sofa, Brown, Left 313 x 200 cm, Brown, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Brown Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 313 cm cm Logistics Package count 1 package package Logistics Package weight 27 kg kg Logistics Product count 1 product product Logistics Volume 0.68 m³ m³ Logistics Weight 110 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -3358,6 +3470,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/package-weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -3378,18 +3502,6 @@
           "valueType": "enum",
           "numericValue": 0.68,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "27-kg",
-          "valueLabel": "27 kg",
-          "href": "/attributes/logistics/weight/27-kg/",
-          "valueType": "enum",
-          "numericValue": 27,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -3466,7 +3578,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Brown, 313 x 200 cm, Left",
+      "title": "Westcoast U-shaped Sofa, Brown, Left",
       "summary": "313 x 200 cm, Brown, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
@@ -3477,29 +3589,37 @@
   {
     "sku": "209127",
     "name": "209127",
-    "title": "Westcoast Corner Sofa, Grey, 313 x 200 cm, Left",
-    "variantSummary": "313 x 200 cm / Left / Grey",
+    "title": "Westcoast U-shaped Sofa, Grey, Left",
+    "variantSummary": "313 × 200 cm / Left / Grey",
     "shortDescription": "313 x 200 cm, Grey, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
     "selectionAttributes": {
-      "dimensions": "313 x 200 cm",
+      "dimensions": "313 × 200 cm",
       "handedness": "Left",
       "comfortType": "",
       "color": "Grey",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "U-shaped sofa",
+      "productTypeNote": "313 × 200 cm",
+      "productNoun": "U-shaped sofa",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/209127_1.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/209127_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209127_4.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209127_4.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/209127_1.avif",
-      "/products/corner-sofas/westcoast/209127_2.avif",
-      "/products/corner-sofas/westcoast/209127_3.avif",
       "/products/corner-sofas/westcoast/209127_4.avif",
-      "/products/corner-sofas/westcoast/209127_5.avif"
+      "/products/corner-sofas/westcoast/209127_2.avif",
+      "/products/corner-sofas/westcoast/209127_5.avif",
+      "/products/corner-sofas/westcoast/209127_1.avif",
+      "/products/corner-sofas/westcoast/209127_3.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209127",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Grey, 313 x 200 cm, Left 313 x 200 cm, Grey, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 313 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.68 m³ m³ Logistics Weight 27 kg kg Logistics Weight 110 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast U-shaped Sofa, Grey, Left 313 x 200 cm, Grey, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 313 cm cm Logistics Package count 1 package package Logistics Package weight 27 kg kg Logistics Product count 1 product product Logistics Volume 0.68 m³ m³ Logistics Weight 110 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -3605,6 +3725,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/package-weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -3625,18 +3757,6 @@
           "valueType": "enum",
           "numericValue": 0.68,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "27-kg",
-          "valueLabel": "27 kg",
-          "href": "/attributes/logistics/weight/27-kg/",
-          "valueType": "enum",
-          "numericValue": 27,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -3713,7 +3833,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Grey, 313 x 200 cm, Left",
+      "title": "Westcoast U-shaped Sofa, Grey, Left",
       "summary": "313 x 200 cm, Grey, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
@@ -3724,34 +3844,42 @@
   {
     "sku": "209128",
     "name": "209128",
-    "title": "Westcoast Corner Sofa, Beige, 313 x 200 cm, Right",
-    "variantSummary": "313 x 200 cm / Right / Beige",
+    "title": "Westcoast U-shaped Sofa, Beige, Right",
+    "variantSummary": "313 × 200 cm / Right / Beige",
     "shortDescription": "313 x 200 cm, Beige, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
     "selectionAttributes": {
-      "dimensions": "313 x 200 cm",
+      "dimensions": "313 × 200 cm",
       "handedness": "Right",
       "comfortType": "",
       "color": "Beige",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "U-shaped sofa",
+      "productTypeNote": "313 × 200 cm",
+      "productNoun": "U-shaped sofa",
+      "colorLabel": "Beige",
+      "colorNote": "Sand",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_313_x_200_cm_10.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_313_x_200_cm_10.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209128_4.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209128_4.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_313_x_200_cm_10.avif",
-      "/products/corner-sofas/westcoast/209128_1.avif",
-      "/products/corner-sofas/westcoast/209128_2.avif",
-      "/products/corner-sofas/westcoast/209128_3.avif",
       "/products/corner-sofas/westcoast/209128_4.avif",
+      "/products/corner-sofas/westcoast/209128_2.avif",
+      "/products/corner-sofas/westcoast/209128_8.avif",
+      "/products/corner-sofas/westcoast/westcoast_corner_sofa_beige_313_x_200_cm_10.avif",
       "/products/corner-sofas/westcoast/209128_5.avif",
       "/products/corner-sofas/westcoast/209128_6.avif",
       "/products/corner-sofas/westcoast/209128_7.avif",
-      "/products/corner-sofas/westcoast/209128_8.avif",
-      "/products/corner-sofas/westcoast/209128_9.avif"
+      "/products/corner-sofas/westcoast/209128_9.avif",
+      "/products/corner-sofas/westcoast/209128_1.avif",
+      "/products/corner-sofas/westcoast/209128_3.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209128",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Beige, 313 x 200 cm, Right 313 x 200 cm, Beige, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Beige Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 313 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.73 m³ m³ Logistics Weight 33 kg kg Logistics Weight 110 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast U-shaped Sofa, Beige, Right 313 x 200 cm, Beige, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Beige Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 313 cm cm Logistics Package count 1 package package Logistics Package weight 33 kg kg Logistics Product count 1 product product Logistics Volume 0.73 m³ m³ Logistics Weight 110 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -3857,6 +3985,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "33-kg",
+          "valueLabel": "33 kg",
+          "href": "/attributes/logistics/package-weight/33-kg/",
+          "valueType": "enum",
+          "numericValue": 33,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -3877,18 +4017,6 @@
           "valueType": "enum",
           "numericValue": 0.73,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "33-kg",
-          "valueLabel": "33 kg",
-          "href": "/attributes/logistics/weight/33-kg/",
-          "valueType": "enum",
-          "numericValue": 33,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -3965,7 +4093,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Beige, 313 x 200 cm, Right",
+      "title": "Westcoast U-shaped Sofa, Beige, Right",
       "summary": "313 x 200 cm, Beige, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
@@ -3976,29 +4104,37 @@
   {
     "sku": "209129",
     "name": "209129",
-    "title": "Westcoast Corner Sofa, Brown, 313 x 200 cm, Right",
-    "variantSummary": "313 x 200 cm / Right / Brown",
+    "title": "Westcoast U-shaped Sofa, Brown, Right",
+    "variantSummary": "313 × 200 cm / Right / Brown",
     "shortDescription": "313 x 200 cm, Brown, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
     "selectionAttributes": {
-      "dimensions": "313 x 200 cm",
+      "dimensions": "313 × 200 cm",
       "handedness": "Right",
       "comfortType": "",
       "color": "Brown",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "U-shaped sofa",
+      "productTypeNote": "313 × 200 cm",
+      "productNoun": "U-shaped sofa",
+      "colorLabel": "Brown",
+      "colorNote": "",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/209129_1.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/209129_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209129_4.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209129_4.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/209129_1.avif",
-      "/products/corner-sofas/westcoast/209129_2.avif",
-      "/products/corner-sofas/westcoast/209129_3.avif",
       "/products/corner-sofas/westcoast/209129_4.avif",
-      "/products/corner-sofas/westcoast/209129_5.avif"
+      "/products/corner-sofas/westcoast/209129_2.avif",
+      "/products/corner-sofas/westcoast/209129_5.avif",
+      "/products/corner-sofas/westcoast/209129_1.avif",
+      "/products/corner-sofas/westcoast/209129_3.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209129",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Brown, 313 x 200 cm, Right 313 x 200 cm, Brown, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Brown Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 313 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.73 m³ m³ Logistics Weight 33 kg kg Logistics Weight 110 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast U-shaped Sofa, Brown, Right 313 x 200 cm, Brown, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Brown Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 313 cm cm Logistics Package count 1 package package Logistics Package weight 33 kg kg Logistics Product count 1 product product Logistics Volume 0.73 m³ m³ Logistics Weight 110 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -4104,6 +4240,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "33-kg",
+          "valueLabel": "33 kg",
+          "href": "/attributes/logistics/package-weight/33-kg/",
+          "valueType": "enum",
+          "numericValue": 33,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -4124,18 +4272,6 @@
           "valueType": "enum",
           "numericValue": 0.73,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "33-kg",
-          "valueLabel": "33 kg",
-          "href": "/attributes/logistics/weight/33-kg/",
-          "valueType": "enum",
-          "numericValue": 33,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -4212,7 +4348,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Brown, 313 x 200 cm, Right",
+      "title": "Westcoast U-shaped Sofa, Brown, Right",
       "summary": "313 x 200 cm, Brown, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
@@ -4223,29 +4359,37 @@
   {
     "sku": "209130",
     "name": "209130",
-    "title": "Westcoast Corner Sofa, Grey, 313 x 200 cm, Right",
-    "variantSummary": "313 x 200 cm / Right / Grey",
+    "title": "Westcoast U-shaped Sofa, Grey, Right",
+    "variantSummary": "313 × 200 cm / Right / Grey",
     "shortDescription": "313 x 200 cm, Grey, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
     "selectionAttributes": {
-      "dimensions": "313 x 200 cm",
+      "dimensions": "313 × 200 cm",
       "handedness": "Right",
       "comfortType": "",
       "color": "Grey",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "U-shaped sofa",
+      "productTypeNote": "313 × 200 cm",
+      "productNoun": "U-shaped sofa",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "productType,handedness,color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/westcoast/209130_1.avif",
-    "imageUrl": "/products/corner-sofas/westcoast/209130_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/westcoast/209130_2.avif",
+    "imageUrl": "/products/corner-sofas/westcoast/209130_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/westcoast/209130_1.avif",
       "/products/corner-sofas/westcoast/209130_2.avif",
-      "/products/corner-sofas/westcoast/209130_3.avif",
       "/products/corner-sofas/westcoast/209130_4.avif",
-      "/products/corner-sofas/westcoast/209130_5.avif"
+      "/products/corner-sofas/westcoast/209130_5.avif",
+      "/products/corner-sofas/westcoast/209130_1.avif",
+      "/products/corner-sofas/westcoast/209130_3.avif"
     ],
     "href": "/products/corner-sofas/westcoast/209130",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast Corner Sofa, Grey, 313 x 200 cm, Right 313 x 200 cm, Grey, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 313 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.68 m³ m³ Logistics Weight 27 kg kg Logistics Weight 110 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast U-shaped Sofa, Grey, Right 313 x 200 cm, Grey, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available. Corner Sofas Living room Westcoast Living room Corner Sofas Westcoast Grey Metal Polyester Configuration Handedness configuration Fixed Dimensions Depth 200 cm cm Dimensions Height 80 cm cm Dimensions Width 313 cm cm Logistics Package count 1 package package Logistics Package weight 27 kg kg Logistics Product count 1 product product Logistics Volume 0.68 m³ m³ Logistics Weight 110 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -4351,6 +4495,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/package-weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -4371,18 +4527,6 @@
           "valueType": "enum",
           "numericValue": 0.68,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "27-kg",
-          "valueLabel": "27 kg",
-          "href": "/attributes/logistics/weight/27-kg/",
-          "valueType": "enum",
-          "numericValue": 27,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -4459,7 +4603,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast Corner Sofa, Grey, 313 x 200 cm, Right",
+      "title": "Westcoast U-shaped Sofa, Grey, Right",
       "summary": "313 x 200 cm, Grey, Polyester. Available sizes: 313 x 200 cm. Colors: Beige, Brown and Grey. Material: Polyester. 6 variants available.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",

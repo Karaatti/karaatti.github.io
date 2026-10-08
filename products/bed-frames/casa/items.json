@@ -3,28 +3,36 @@
     "sku": "209017",
     "name": "209017",
     "title": "Casa Bed Frame",
-    "variantSummary": "160 x 200 cm / Beige",
+    "variantSummary": "160 × 200 cm / Beige",
     "shortDescription": "Beige fabric upholstery with padded high headboard, fits 160 x 200 cm mattresses.",
     "selectionAttributes": {
-      "dimensions": "160 x 200 cm",
+      "dimensions": "160 × 200 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Fabric, Wood"
+      "material": "Fabric, Wood",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Bed frame",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/bed-frames/casa/209017_1.avif",
-    "imageUrl": "/products/bed-frames/casa/209017_1.avif",
+    "primaryImageUrl": "/products/bed-frames/casa/209017_2.avif",
+    "imageUrl": "/products/bed-frames/casa/209017_2.avif",
     "imageUrls": [
-      "/products/bed-frames/casa/209017_1.avif",
       "/products/bed-frames/casa/209017_2.avif",
       "/products/bed-frames/casa/209017_3.avif",
       "/products/bed-frames/casa/209017_4.avif",
-      "/products/bed-frames/casa/209017_5.avif"
+      "/products/bed-frames/casa/209017_5.avif",
+      "/products/bed-frames/casa/209017_1.avif"
     ],
     "href": "/products/bed-frames/casa/",
     "type": "file",
     "filterData": {
-      "searchText": "Casa Bed Frame Beige fabric upholstery with padded high headboard, fits 160 x 200 cm mattresses. Bed Frames Bedroom Casa Bedroom Bed Frames Casa Beige Fabric Wood Dimensions Depth 240 cm cm Dimensions Inner depth 200 cm cm Dimensions Inner width 160 cm cm Dimensions Width 184 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.64 m³ m³ Logistics Weight 30 kg kg Logistics Weight 50 kg kg Setup Assembly time 60 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Casa Bed Frame Beige fabric upholstery with padded high headboard, fits 160 x 200 cm mattresses. Bed Frames Bedroom Casa Bedroom Bed Frames Casa Beige Fabric Wood Dimensions Depth 240 cm cm Dimensions Inner depth 200 cm cm Dimensions Inner width 160 cm cm Dimensions Width 184 cm cm Logistics Package count 1 package package Logistics Package weight 30 kg kg Logistics Product count 1 product product Logistics Volume 0.64 m³ m³ Logistics Weight 50 kg kg Setup Assembly time 60 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -130,6 +138,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/package-weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -150,18 +170,6 @@
           "valueType": "enum",
           "numericValue": 0.64,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "30-kg",
-          "valueLabel": "30 kg",
-          "href": "/attributes/logistics/weight/30-kg/",
-          "valueType": "enum",
-          "numericValue": 30,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",

@@ -8,6 +8,7 @@ When a clean public page exists, prefer it over maintenance files or legacy frag
 
 ## Start Here
 
+- [AI catalog](https://nestliving.dk/ai-catalog.json): Deterministic product-family and exact-SKU facts from the published site snapshot. Prices, stock and live availability are not provided. Family options do not promise every variant combination.
 - [Homepage](https://nestliving.dk/): Brand context and the main sections of the site.
 - [Search](https://nestliving.dk/search/): Direct search page. Use `?q=` for queries such as `https://nestliving.dk/search/?q=sofa+green`.
 - [Products](https://nestliving.dk/products/): Main entry point for product categories.

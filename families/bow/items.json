@@ -5,9 +5,9 @@
     "href": "/products/dining-chairs/bow/",
     "type": "dir",
     "summary": "Upholstered dining chair with metal frame and plywood structure, available in three colours.",
-    "primaryImageUrl": "/products/dining-chairs/bow/198099_1.avif",
+    "primaryImageUrl": "/products/dining-chairs/bow/198099_2.avif",
     "filterData": {
-      "searchText": "Bow Upholstered dining chair with metal frame and plywood structure, available in three colours. Dining Chairs Dining room Bow Dining room Dining Chairs Bow Black Brown Red Fabric Foam Metal Plywood Dimensions Depth 52 cm cm Dimensions Height 80 cm cm Dimensions Width 48 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 2 product product Logistics Volume 0.22 m³ m³ Logistics Weight 5 kg kg Logistics Weight 11.8 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Bow Upholstered dining chair with metal frame and plywood structure, available in three colours. Dining Chairs Dining room Bow Dining room Dining Chairs Bow Beige Black Red Fabric Foam Metal Plywood Dimensions Depth 52 cm cm Dimensions Height 80 cm cm Dimensions Width 48 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Package weight 11.8 kg kg Logistics Product count 2 product product Logistics Volume 0.22 m³ m³ Logistics Weight 5 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "dining-room",
@@ -31,14 +31,14 @@
       ],
       "colors": [
         {
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
+        },
+        {
           "key": "black",
           "label": "Black",
           "href": "/colors/black/"
-        },
-        {
-          "key": "brown",
-          "label": "Brown",
-          "href": "/colors/brown/"
         },
         {
           "key": "red",
@@ -133,6 +133,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "11-8-kg",
+          "valueLabel": "11.8 kg",
+          "href": "/attributes/logistics/package-weight/11-8-kg/",
+          "valueType": "enum",
+          "numericValue": 11.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "2-product",
@@ -164,18 +176,6 @@
           "href": "/attributes/logistics/weight/5-kg/",
           "valueType": "enum",
           "numericValue": 5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "11-8-kg",
-          "valueLabel": "11.8 kg",
-          "href": "/attributes/logistics/weight/11-8-kg/",
-          "valueType": "enum",
-          "numericValue": 11.8,
           "unit": "kg"
         },
         {

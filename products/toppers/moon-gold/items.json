@@ -2,26 +2,36 @@
   {
     "sku": "197741",
     "name": "197741",
-    "title": "Moon Gold Topper, 80 x 200 x 6 cm, Latex",
-    "variantSummary": "80 x 200 x 6 cm / Latex / Grey",
-    "shortDescription": "Grey latex topper, 80 x 200 cm.",
+    "title": "Moon Gold Topper, 80 × 200 cm, Latex",
+    "variantSummary": "80 × 200 cm / Latex / White",
+    "shortDescription": "White latex topper, 80 x 200 cm.",
     "selectionAttributes": {
-      "dimensions": "80 x 200 x 6 cm",
+      "dimensions": "80 × 200 cm",
       "handedness": "",
       "comfortType": "Latex",
-      "color": "Grey",
-      "material": "Latex"
+      "color": "White",
+      "material": "Latex",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197741_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197741_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197741_1.avif",
-      "/products/toppers/moon-gold/197741_2.jpg"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197741",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 80 x 200 x 6 cm, Latex Grey latex topper, 80 x 200 cm. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Latex Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.11 m³ m³ Logistics Weight 6 kg kg Logistics Weight 6.7 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 80 × 200 cm, Latex White latex topper, 80 x 200 cm. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Latex Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Package weight 6.7 kg kg Logistics Product count 1 product product Logistics Volume 0.11 m³ m³ Logistics Weight 6 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -45,9 +55,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -122,6 +132,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "6-7-kg",
+          "valueLabel": "6.7 kg",
+          "href": "/attributes/logistics/package-weight/6-7-kg/",
+          "valueType": "enum",
+          "numericValue": 6.7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -153,18 +175,6 @@
           "href": "/attributes/logistics/weight/6-kg/",
           "valueType": "enum",
           "numericValue": 6,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "6-7-kg",
-          "valueLabel": "6.7 kg",
-          "href": "/attributes/logistics/weight/6-7-kg/",
-          "valueType": "enum",
-          "numericValue": 6.7,
           "unit": "kg"
         },
         {
@@ -206,8 +216,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 80 x 200 x 6 cm, Latex",
-      "summary": "Grey latex topper, 80 x 200 cm.",
+      "title": "Moon Gold Topper, 80 × 200 cm, Latex",
+      "summary": "White latex topper, 80 x 200 cm.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -217,26 +227,36 @@
   {
     "sku": "197742",
     "name": "197742",
-    "title": "Moon Gold Topper, 90 x 200 x 6 cm, Latex",
-    "variantSummary": "90 x 200 x 6 cm / Latex / Grey",
-    "shortDescription": "Grey latex topper, 90 x 200 cm.",
+    "title": "Moon Gold Topper, 90 × 200 cm, Latex",
+    "variantSummary": "90 × 200 cm / Latex / White",
+    "shortDescription": "White latex topper, 90 x 200 cm.",
     "selectionAttributes": {
-      "dimensions": "90 x 200 x 6 cm",
+      "dimensions": "90 × 200 cm",
       "handedness": "",
       "comfortType": "Latex",
-      "color": "Grey",
-      "material": "Latex"
+      "color": "White",
+      "material": "Latex",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197742_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197742_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197742_1.avif",
-      "/products/toppers/moon-gold/197742_2.avif"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197742",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 90 x 200 x 6 cm, Latex Grey latex topper, 90 x 200 cm. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Latex Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.12 m³ m³ Logistics Weight 7 kg kg Logistics Weight 7.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 90 × 200 cm, Latex White latex topper, 90 x 200 cm. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Latex Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Package weight 7.5 kg kg Logistics Product count 1 product product Logistics Volume 0.12 m³ m³ Logistics Weight 7 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -260,9 +280,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -337,6 +357,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "7-5-kg",
+          "valueLabel": "7.5 kg",
+          "href": "/attributes/logistics/package-weight/7-5-kg/",
+          "valueType": "enum",
+          "numericValue": 7.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -368,18 +400,6 @@
           "href": "/attributes/logistics/weight/7-kg/",
           "valueType": "enum",
           "numericValue": 7,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "7-5-kg",
-          "valueLabel": "7.5 kg",
-          "href": "/attributes/logistics/weight/7-5-kg/",
-          "valueType": "enum",
-          "numericValue": 7.5,
           "unit": "kg"
         },
         {
@@ -421,8 +441,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 90 x 200 x 6 cm, Latex",
-      "summary": "Grey latex topper, 90 x 200 cm.",
+      "title": "Moon Gold Topper, 90 × 200 cm, Latex",
+      "summary": "White latex topper, 90 x 200 cm.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -432,26 +452,36 @@
   {
     "sku": "197743",
     "name": "197743",
-    "title": "Moon Gold Topper, 105 x 200 x 6 cm, Latex",
-    "variantSummary": "105 x 200 x 6 cm / Latex / Grey",
-    "shortDescription": "Grey latex topper, 105 x 200 cm.",
+    "title": "Moon Gold Topper, 105 × 200 cm, Latex",
+    "variantSummary": "105 × 200 cm / Latex / White",
+    "shortDescription": "White latex topper, 105 x 200 cm.",
     "selectionAttributes": {
-      "dimensions": "105 x 200 x 6 cm",
+      "dimensions": "105 × 200 cm",
       "handedness": "",
       "comfortType": "Latex",
-      "color": "Grey",
-      "material": "Latex"
+      "color": "White",
+      "material": "Latex",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197743_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197743_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197743_1.avif",
-      "/products/toppers/moon-gold/197743_2.jpg"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197743",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 105 x 200 x 6 cm, Latex Grey latex topper, 105 x 200 cm. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Latex Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 105 cm cm Logistics Weight 8 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 105 × 200 cm, Latex White latex topper, 105 x 200 cm. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Latex Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 105 cm cm Logistics Weight 8 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -475,9 +505,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -588,8 +618,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 105 x 200 x 6 cm, Latex",
-      "summary": "Grey latex topper, 105 x 200 cm.",
+      "title": "Moon Gold Topper, 105 × 200 cm, Latex",
+      "summary": "White latex topper, 105 x 200 cm.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -599,26 +629,36 @@
   {
     "sku": "197744",
     "name": "197744",
-    "title": "Moon Gold Topper, 120 x 200 x 6 cm, Latex",
-    "variantSummary": "120 x 200 x 6 cm / Latex / Grey",
-    "shortDescription": "Grey latex topper, 120 x 200 cm.",
+    "title": "Moon Gold Topper, 120 × 200 cm, Latex",
+    "variantSummary": "120 × 200 cm / Latex / White",
+    "shortDescription": "White latex topper, 120 x 200 cm.",
     "selectionAttributes": {
-      "dimensions": "120 x 200 x 6 cm",
+      "dimensions": "120 × 200 cm",
       "handedness": "",
       "comfortType": "Latex",
-      "color": "Grey",
-      "material": "Latex"
+      "color": "White",
+      "material": "Latex",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197744_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197744_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197744_1.avif",
-      "/products/toppers/moon-gold/197744_2.avif"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197744",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 120 x 200 x 6 cm, Latex Grey latex topper, 120 x 200 cm. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Latex Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.16 m³ m³ Logistics Weight 9 kg kg Logistics Weight 10 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 120 × 200 cm, Latex White latex topper, 120 x 200 cm. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Latex Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Package weight 10 kg kg Logistics Product count 1 product product Logistics Volume 0.16 m³ m³ Logistics Weight 9 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -642,9 +682,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -719,6 +759,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "10-kg",
+          "valueLabel": "10 kg",
+          "href": "/attributes/logistics/package-weight/10-kg/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -750,18 +802,6 @@
           "href": "/attributes/logistics/weight/9-kg/",
           "valueType": "enum",
           "numericValue": 9,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "10-kg",
-          "valueLabel": "10 kg",
-          "href": "/attributes/logistics/weight/10-kg/",
-          "valueType": "enum",
-          "numericValue": 10,
           "unit": "kg"
         },
         {
@@ -803,8 +843,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 120 x 200 x 6 cm, Latex",
-      "summary": "Grey latex topper, 120 x 200 cm.",
+      "title": "Moon Gold Topper, 120 × 200 cm, Latex",
+      "summary": "White latex topper, 120 x 200 cm.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -814,26 +854,36 @@
   {
     "sku": "197745",
     "name": "197745",
-    "title": "Moon Gold Topper, 140 x 200 x 6 cm, Latex",
-    "variantSummary": "140 x 200 x 6 cm / Latex / Grey",
-    "shortDescription": "Grey latex topper, 140 x 200 cm.",
+    "title": "Moon Gold Topper, 140 × 200 cm, Latex",
+    "variantSummary": "140 × 200 cm / Latex / White",
+    "shortDescription": "White latex topper, 140 x 200 cm.",
     "selectionAttributes": {
-      "dimensions": "140 x 200 x 6 cm",
+      "dimensions": "140 × 200 cm",
       "handedness": "",
       "comfortType": "Latex",
-      "color": "Grey",
-      "material": "Latex"
+      "color": "White",
+      "material": "Latex",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197745_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197745_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197745_1.avif",
-      "/products/toppers/moon-gold/197745_2.jpg"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197745",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 140 x 200 x 6 cm, Latex Grey latex topper, 140 x 200 cm. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Latex Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 140 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.19 m³ m³ Logistics Weight 11 kg kg Logistics Weight 11.3 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 140 × 200 cm, Latex White latex topper, 140 x 200 cm. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Latex Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 140 cm cm Logistics Package count 1 package package Logistics Package weight 11.3 kg kg Logistics Product count 1 product product Logistics Volume 0.19 m³ m³ Logistics Weight 11 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -857,9 +907,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -934,6 +984,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "11-3-kg",
+          "valueLabel": "11.3 kg",
+          "href": "/attributes/logistics/package-weight/11-3-kg/",
+          "valueType": "enum",
+          "numericValue": 11.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -965,18 +1027,6 @@
           "href": "/attributes/logistics/weight/11-kg/",
           "valueType": "enum",
           "numericValue": 11,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "11-3-kg",
-          "valueLabel": "11.3 kg",
-          "href": "/attributes/logistics/weight/11-3-kg/",
-          "valueType": "enum",
-          "numericValue": 11.3,
           "unit": "kg"
         },
         {
@@ -1018,8 +1068,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 140 x 200 x 6 cm, Latex",
-      "summary": "Grey latex topper, 140 x 200 cm.",
+      "title": "Moon Gold Topper, 140 × 200 cm, Latex",
+      "summary": "White latex topper, 140 x 200 cm.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -1029,26 +1079,36 @@
   {
     "sku": "197746",
     "name": "197746",
-    "title": "Moon Gold Topper, 160 x 200 x 6 cm, Latex",
-    "variantSummary": "160 x 200 x 6 cm / Latex / Grey",
-    "shortDescription": "Grey latex topper, 160 x 200 cm.",
+    "title": "Moon Gold Topper, 160 × 200 cm, Latex",
+    "variantSummary": "160 × 200 cm / Latex / White",
+    "shortDescription": "White latex topper, 160 x 200 cm.",
     "selectionAttributes": {
-      "dimensions": "160 x 200 x 6 cm",
+      "dimensions": "160 × 200 cm",
       "handedness": "",
       "comfortType": "Latex",
-      "color": "Grey",
-      "material": "Latex"
+      "color": "White",
+      "material": "Latex",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197746_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197746_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197746_1.avif",
-      "/products/toppers/moon-gold/197746_2.avif"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197746",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 160 x 200 x 6 cm, Latex Grey latex topper, 160 x 200 cm. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Latex Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.23 m³ m³ Logistics Weight 10 kg kg Logistics Weight 12 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 160 × 200 cm, Latex White latex topper, 160 x 200 cm. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Latex Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Package weight 10 kg kg Logistics Product count 1 product product Logistics Volume 0.23 m³ m³ Logistics Weight 12 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1072,9 +1132,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -1149,6 +1209,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "10-kg",
+          "valueLabel": "10 kg",
+          "href": "/attributes/logistics/package-weight/10-kg/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1169,18 +1241,6 @@
           "valueType": "enum",
           "numericValue": 0.23,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "10-kg",
-          "valueLabel": "10 kg",
-          "href": "/attributes/logistics/weight/10-kg/",
-          "valueType": "enum",
-          "numericValue": 10,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1233,8 +1293,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 160 x 200 x 6 cm, Latex",
-      "summary": "Grey latex topper, 160 x 200 cm.",
+      "title": "Moon Gold Topper, 160 × 200 cm, Latex",
+      "summary": "White latex topper, 160 x 200 cm.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -1244,26 +1304,36 @@
   {
     "sku": "197747",
     "name": "197747",
-    "title": "Moon Gold Topper, 180 x 200 x 6 cm, Latex",
-    "variantSummary": "180 x 200 x 6 cm / Latex / Grey",
-    "shortDescription": "Grey latex topper, 180 x 200 cm.",
+    "title": "Moon Gold Topper, 180 × 200 cm, Latex",
+    "variantSummary": "180 × 200 cm / Latex / White",
+    "shortDescription": "White latex topper, 180 x 200 cm.",
     "selectionAttributes": {
-      "dimensions": "180 x 200 x 6 cm",
+      "dimensions": "180 × 200 cm",
       "handedness": "",
       "comfortType": "Latex",
-      "color": "Grey",
-      "material": "Latex"
+      "color": "White",
+      "material": "Latex",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197747_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197747_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197747_1.avif",
-      "/products/toppers/moon-gold/197747_2.jpg"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197747",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 180 x 200 x 6 cm, Latex Grey latex topper, 180 x 200 cm. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Latex Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 13 kg kg Logistics Weight 14 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 180 × 200 cm, Latex White latex topper, 180 x 200 cm. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Latex Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Package weight 13 kg kg Logistics Product count 1 product product Logistics Volume 0.21 m³ m³ Logistics Weight 14 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1287,9 +1357,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -1364,6 +1434,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "13-kg",
+          "valueLabel": "13 kg",
+          "href": "/attributes/logistics/package-weight/13-kg/",
+          "valueType": "enum",
+          "numericValue": 13,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1384,18 +1466,6 @@
           "valueType": "enum",
           "numericValue": 0.21,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "13-kg",
-          "valueLabel": "13 kg",
-          "href": "/attributes/logistics/weight/13-kg/",
-          "valueType": "enum",
-          "numericValue": 13,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1448,8 +1518,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 180 x 200 x 6 cm, Latex",
-      "summary": "Grey latex topper, 180 x 200 cm.",
+      "title": "Moon Gold Topper, 180 × 200 cm, Latex",
+      "summary": "White latex topper, 180 x 200 cm.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -1459,26 +1529,36 @@
   {
     "sku": "197748",
     "name": "197748",
-    "title": "Moon Gold Topper, 200 x 200 x 6 cm, Latex",
-    "variantSummary": "200 x 200 x 6 cm / Latex / Grey",
-    "shortDescription": "Grey latex topper, 200 x 200 cm.",
+    "title": "Moon Gold Topper, 200 × 200 cm, Latex",
+    "variantSummary": "200 × 200 cm / Latex / White",
+    "shortDescription": "White latex topper, 200 x 200 cm.",
     "selectionAttributes": {
-      "dimensions": "200 x 200 x 6 cm",
+      "dimensions": "200 × 200 cm",
       "handedness": "",
       "comfortType": "Latex",
-      "color": "Grey",
-      "material": "Latex"
+      "color": "White",
+      "material": "Latex",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197748_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197748_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197748_1.avif",
-      "/products/toppers/moon-gold/197748_2.avif"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197748",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 200 x 200 x 6 cm, Latex Grey latex topper, 200 x 200 cm. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Latex Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.28 m³ m³ Logistics Weight 15.5 kg kg Logistics Weight 20 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 200 × 200 cm, Latex White latex topper, 200 x 200 cm. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Latex Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 20 kg kg Logistics Product count 1 product product Logistics Volume 0.28 m³ m³ Logistics Weight 15.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1502,9 +1582,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -1579,6 +1659,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1610,18 +1702,6 @@
           "href": "/attributes/logistics/weight/15-5-kg/",
           "valueType": "enum",
           "numericValue": 15.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "20-kg",
-          "valueLabel": "20 kg",
-          "href": "/attributes/logistics/weight/20-kg/",
-          "valueType": "enum",
-          "numericValue": 20,
           "unit": "kg"
         },
         {
@@ -1663,8 +1743,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 200 x 200 x 6 cm, Latex",
-      "summary": "Grey latex topper, 200 x 200 cm.",
+      "title": "Moon Gold Topper, 200 × 200 cm, Latex",
+      "summary": "White latex topper, 200 x 200 cm.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -1674,27 +1754,36 @@
   {
     "sku": "197764",
     "name": "197764",
-    "title": "Moon Gold Topper, 80 x 200 x 7 cm, Comfort foam",
-    "variantSummary": "80 x 200 x 7 cm / Comfort foam / Grey",
-    "shortDescription": "Grey, 80 x 200 x 7 cm mattress topper with washable polyester cover.",
+    "title": "Moon Gold Topper, 80 × 200 cm, Comfort foam",
+    "variantSummary": "80 × 200 cm / Comfort foam / White",
+    "shortDescription": "White, 80 x 200 x 7 cm mattress topper with washable polyester cover.",
     "selectionAttributes": {
-      "dimensions": "80 x 200 x 7 cm",
+      "dimensions": "80 × 200 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
-      "color": "Grey",
-      "material": "Polyester, Foam"
+      "color": "White",
+      "material": "Polyester, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197764_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197764_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197764_1.avif",
-      "/products/toppers/moon-gold/197764_2.avif",
-      "/products/toppers/moon-gold/197764_3.jpg"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197764",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 80 x 200 x 7 cm, Comfort foam Grey, 80 x 200 x 7 cm mattress topper with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 7 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.11 m³ m³ Logistics Weight 4.3 kg kg Logistics Weight 4.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 80 × 200 cm, Comfort foam White, 80 x 200 x 7 cm mattress topper with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 7 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Package weight 4.3 kg kg Logistics Product count 1 product product Logistics Volume 0.11 m³ m³ Logistics Weight 4.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1718,9 +1807,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -1800,6 +1889,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "4-3-kg",
+          "valueLabel": "4.3 kg",
+          "href": "/attributes/logistics/package-weight/4-3-kg/",
+          "valueType": "enum",
+          "numericValue": 4.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -1820,18 +1921,6 @@
           "valueType": "enum",
           "numericValue": 0.11,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "4-3-kg",
-          "valueLabel": "4.3 kg",
-          "href": "/attributes/logistics/weight/4-3-kg/",
-          "valueType": "enum",
-          "numericValue": 4.3,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1884,8 +1973,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 80 x 200 x 7 cm, Comfort foam",
-      "summary": "Grey, 80 x 200 x 7 cm mattress topper with washable polyester cover.",
+      "title": "Moon Gold Topper, 80 × 200 cm, Comfort foam",
+      "summary": "White, 80 x 200 x 7 cm mattress topper with washable polyester cover.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -1895,27 +1984,36 @@
   {
     "sku": "197765",
     "name": "197765",
-    "title": "Moon Gold Topper, 90 x 200 x 7 cm, Comfort foam",
-    "variantSummary": "90 x 200 x 7 cm / Comfort foam / Grey",
-    "shortDescription": "Grey, 90 x 200 x 7 cm mattress topper with washable polyester cover.",
+    "title": "Moon Gold Topper, 90 × 200 cm, Comfort foam",
+    "variantSummary": "90 × 200 cm / Comfort foam / White",
+    "shortDescription": "White, 90 x 200 x 7 cm mattress topper with washable polyester cover.",
     "selectionAttributes": {
-      "dimensions": "90 x 200 x 7 cm",
+      "dimensions": "90 × 200 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
-      "color": "Grey",
-      "material": "Polyester, Foam"
+      "color": "White",
+      "material": "Polyester, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197765_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197765_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197765_1.avif",
-      "/products/toppers/moon-gold/197765_2.avif",
-      "/products/toppers/moon-gold/197765_3.avif"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197765",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 90 x 200 x 7 cm, Comfort foam Grey, 90 x 200 x 7 cm mattress topper with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 7 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.13 m³ m³ Logistics Weight 3.6 kg kg Logistics Weight 5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 90 × 200 cm, Comfort foam White, 90 x 200 x 7 cm mattress topper with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 7 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Package weight 3.6 kg kg Logistics Product count 1 product product Logistics Volume 0.13 m³ m³ Logistics Weight 5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1939,9 +2037,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -2021,6 +2119,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-6-kg",
+          "valueLabel": "3.6 kg",
+          "href": "/attributes/logistics/package-weight/3-6-kg/",
+          "valueType": "enum",
+          "numericValue": 3.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2041,18 +2151,6 @@
           "valueType": "enum",
           "numericValue": 0.13,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "3-6-kg",
-          "valueLabel": "3.6 kg",
-          "href": "/attributes/logistics/weight/3-6-kg/",
-          "valueType": "enum",
-          "numericValue": 3.6,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2105,8 +2203,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 90 x 200 x 7 cm, Comfort foam",
-      "summary": "Grey, 90 x 200 x 7 cm mattress topper with washable polyester cover.",
+      "title": "Moon Gold Topper, 90 × 200 cm, Comfort foam",
+      "summary": "White, 90 x 200 x 7 cm mattress topper with washable polyester cover.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -2116,27 +2214,36 @@
   {
     "sku": "197766",
     "name": "197766",
-    "title": "Moon Gold Topper, 105 x 200 x 7 cm, Comfort foam",
-    "variantSummary": "105 x 200 x 7 cm / Comfort foam / Grey",
-    "shortDescription": "Grey, 105 x 200 x 7 cm mattress topper with washable polyester cover.",
+    "title": "Moon Gold Topper, 105 × 200 cm, Comfort foam",
+    "variantSummary": "105 × 200 cm / Comfort foam / White",
+    "shortDescription": "White, 105 x 200 x 7 cm mattress topper with washable polyester cover.",
     "selectionAttributes": {
-      "dimensions": "105 x 200 x 7 cm",
+      "dimensions": "105 × 200 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
-      "color": "Grey",
-      "material": "Polyester, Foam"
+      "color": "White",
+      "material": "Polyester, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197766_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197766_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197766_1.avif",
-      "/products/toppers/moon-gold/197766_2.avif",
-      "/products/toppers/moon-gold/197766_3.jpg"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197766",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 105 x 200 x 7 cm, Comfort foam Grey, 105 x 200 x 7 cm mattress topper with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 7 cm cm Dimensions Width 105 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.14 m³ m³ Logistics Weight 5.3 kg kg Logistics Weight 5.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 105 × 200 cm, Comfort foam White, 105 x 200 x 7 cm mattress topper with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 7 cm cm Dimensions Width 105 cm cm Logistics Package count 1 package package Logistics Package weight 5.3 kg kg Logistics Product count 1 product product Logistics Volume 0.14 m³ m³ Logistics Weight 5.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2160,9 +2267,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -2242,6 +2349,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "5-3-kg",
+          "valueLabel": "5.3 kg",
+          "href": "/attributes/logistics/package-weight/5-3-kg/",
+          "valueType": "enum",
+          "numericValue": 5.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2262,18 +2381,6 @@
           "valueType": "enum",
           "numericValue": 0.14,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "5-3-kg",
-          "valueLabel": "5.3 kg",
-          "href": "/attributes/logistics/weight/5-3-kg/",
-          "valueType": "enum",
-          "numericValue": 5.3,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2326,8 +2433,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 105 x 200 x 7 cm, Comfort foam",
-      "summary": "Grey, 105 x 200 x 7 cm mattress topper with washable polyester cover.",
+      "title": "Moon Gold Topper, 105 × 200 cm, Comfort foam",
+      "summary": "White, 105 x 200 x 7 cm mattress topper with washable polyester cover.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -2337,27 +2444,36 @@
   {
     "sku": "197767",
     "name": "197767",
-    "title": "Moon Gold Topper, 120 x 200 x 7 cm, Comfort foam",
-    "variantSummary": "120 x 200 x 7 cm / Comfort foam / Grey",
-    "shortDescription": "Grey, 120 x 200 x 7 cm mattress topper with washable polyester cover.",
+    "title": "Moon Gold Topper, 120 × 200 cm, Comfort foam",
+    "variantSummary": "120 × 200 cm / Comfort foam / White",
+    "shortDescription": "White, 120 x 200 x 7 cm mattress topper with washable polyester cover.",
     "selectionAttributes": {
-      "dimensions": "120 x 200 x 7 cm",
+      "dimensions": "120 × 200 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
-      "color": "Grey",
-      "material": "Polyester, Foam"
+      "color": "White",
+      "material": "Polyester, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197767_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197767_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197767_1.avif",
-      "/products/toppers/moon-gold/197767_2.avif",
-      "/products/toppers/moon-gold/197767_3.avif"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197767",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 120 x 200 x 7 cm, Comfort foam Grey, 120 x 200 x 7 cm mattress topper with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 7 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.18 m³ m³ Logistics Weight 6 kg kg Logistics Weight 6.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 120 × 200 cm, Comfort foam White, 120 x 200 x 7 cm mattress topper with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 7 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Package weight 6 kg kg Logistics Product count 1 product product Logistics Volume 0.18 m³ m³ Logistics Weight 6.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2381,9 +2497,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -2463,6 +2579,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "6-kg",
+          "valueLabel": "6 kg",
+          "href": "/attributes/logistics/package-weight/6-kg/",
+          "valueType": "enum",
+          "numericValue": 6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2483,18 +2611,6 @@
           "valueType": "enum",
           "numericValue": 0.18,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "6-kg",
-          "valueLabel": "6 kg",
-          "href": "/attributes/logistics/weight/6-kg/",
-          "valueType": "enum",
-          "numericValue": 6,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2547,8 +2663,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 120 x 200 x 7 cm, Comfort foam",
-      "summary": "Grey, 120 x 200 x 7 cm mattress topper with washable polyester cover.",
+      "title": "Moon Gold Topper, 120 × 200 cm, Comfort foam",
+      "summary": "White, 120 x 200 x 7 cm mattress topper with washable polyester cover.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -2558,27 +2674,36 @@
   {
     "sku": "197768",
     "name": "197768",
-    "title": "Moon Gold Topper, 140 x 200 x 7 cm, Comfort foam",
-    "variantSummary": "140 x 200 x 7 cm / Comfort foam / Grey",
-    "shortDescription": "Grey, 140 x 200 x 7 cm mattress topper with washable polyester cover.",
+    "title": "Moon Gold Topper, 140 × 200 cm, Comfort foam",
+    "variantSummary": "140 × 200 cm / Comfort foam / White",
+    "shortDescription": "White, 140 x 200 x 7 cm mattress topper with washable polyester cover.",
     "selectionAttributes": {
-      "dimensions": "140 x 200 x 7 cm",
+      "dimensions": "140 × 200 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
-      "color": "Grey",
-      "material": "Polyester, Foam"
+      "color": "White",
+      "material": "Polyester, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197768_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197768_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197768_1.avif",
-      "/products/toppers/moon-gold/197768_2.jpg",
-      "/products/toppers/moon-gold/197768_3.jpg"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197768",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 140 x 200 x 7 cm, Comfort foam Grey, 140 x 200 x 7 cm mattress topper with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 7 cm cm Dimensions Width 140 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.22 m³ m³ Logistics Weight 7 kg kg Logistics Weight 7.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 140 × 200 cm, Comfort foam White, 140 x 200 x 7 cm mattress topper with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 7 cm cm Dimensions Width 140 cm cm Logistics Package count 1 package package Logistics Package weight 7 kg kg Logistics Product count 1 product product Logistics Volume 0.22 m³ m³ Logistics Weight 7.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2602,9 +2727,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -2684,6 +2809,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "7-kg",
+          "valueLabel": "7 kg",
+          "href": "/attributes/logistics/package-weight/7-kg/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2704,18 +2841,6 @@
           "valueType": "enum",
           "numericValue": 0.22,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "7-kg",
-          "valueLabel": "7 kg",
-          "href": "/attributes/logistics/weight/7-kg/",
-          "valueType": "enum",
-          "numericValue": 7,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2768,8 +2893,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 140 x 200 x 7 cm, Comfort foam",
-      "summary": "Grey, 140 x 200 x 7 cm mattress topper with washable polyester cover.",
+      "title": "Moon Gold Topper, 140 × 200 cm, Comfort foam",
+      "summary": "White, 140 x 200 x 7 cm mattress topper with washable polyester cover.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -2779,27 +2904,36 @@
   {
     "sku": "197769",
     "name": "197769",
-    "title": "Moon Gold Topper, 160 x 200 x 7 cm, Comfort foam",
-    "variantSummary": "160 x 200 x 7 cm / Comfort foam / Grey",
-    "shortDescription": "Grey, 160 x 200 x 7 cm mattress topper with washable polyester cover.",
+    "title": "Moon Gold Topper, 160 × 200 cm, Comfort foam",
+    "variantSummary": "160 × 200 cm / Comfort foam / White",
+    "shortDescription": "White, 160 x 200 x 7 cm mattress topper with washable polyester cover.",
     "selectionAttributes": {
-      "dimensions": "160 x 200 x 7 cm",
+      "dimensions": "160 × 200 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
-      "color": "Grey",
-      "material": "Polyester, Foam"
+      "color": "White",
+      "material": "Polyester, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197769_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197769_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197769_1.avif",
-      "/products/toppers/moon-gold/197769_2.avif",
-      "/products/toppers/moon-gold/197769_3.avif"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197769",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 160 x 200 x 7 cm, Comfort foam Grey, 160 x 200 x 7 cm mattress topper with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 7 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.27 m³ m³ Logistics Weight 5 kg kg Logistics Weight 8.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 160 × 200 cm, Comfort foam White, 160 x 200 x 7 cm mattress topper with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 7 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Package weight 5 kg kg Logistics Product count 1 product product Logistics Volume 0.27 m³ m³ Logistics Weight 8.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2823,9 +2957,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -2905,6 +3039,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "5-kg",
+          "valueLabel": "5 kg",
+          "href": "/attributes/logistics/package-weight/5-kg/",
+          "valueType": "enum",
+          "numericValue": 5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2925,18 +3071,6 @@
           "valueType": "enum",
           "numericValue": 0.27,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "5-kg",
-          "valueLabel": "5 kg",
-          "href": "/attributes/logistics/weight/5-kg/",
-          "valueType": "enum",
-          "numericValue": 5,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2989,8 +3123,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 160 x 200 x 7 cm, Comfort foam",
-      "summary": "Grey, 160 x 200 x 7 cm mattress topper with washable polyester cover.",
+      "title": "Moon Gold Topper, 160 × 200 cm, Comfort foam",
+      "summary": "White, 160 x 200 x 7 cm mattress topper with washable polyester cover.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -3000,27 +3134,36 @@
   {
     "sku": "197770",
     "name": "197770",
-    "title": "Moon Gold Topper, 180 x 200 x 7 cm, Comfort foam",
-    "variantSummary": "180 x 200 x 7 cm / Comfort foam / Grey",
-    "shortDescription": "Grey, 180 x 200 x 7 cm mattress topper with washable polyester cover.",
+    "title": "Moon Gold Topper, 180 × 200 cm, Comfort foam",
+    "variantSummary": "180 × 200 cm / Comfort foam / White",
+    "shortDescription": "White, 180 x 200 x 7 cm mattress topper with washable polyester cover.",
     "selectionAttributes": {
-      "dimensions": "180 x 200 x 7 cm",
+      "dimensions": "180 × 200 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
-      "color": "Grey",
-      "material": "Polyester, Foam"
+      "color": "White",
+      "material": "Polyester, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197770_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197770_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197770_1.avif",
-      "/products/toppers/moon-gold/197770_2.jpg",
-      "/products/toppers/moon-gold/197770_3.jpg"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197770",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 180 x 200 x 7 cm, Comfort foam Grey, 180 x 200 x 7 cm mattress topper with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 7 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.27 m³ m³ Logistics Weight 9.5 kg kg Logistics Weight 10 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 180 × 200 cm, Comfort foam White, 180 x 200 x 7 cm mattress topper with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 7 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Package weight 10 kg kg Logistics Product count 1 product product Logistics Volume 0.27 m³ m³ Logistics Weight 9.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -3044,9 +3187,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -3126,6 +3269,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "10-kg",
+          "valueLabel": "10 kg",
+          "href": "/attributes/logistics/package-weight/10-kg/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -3157,18 +3312,6 @@
           "href": "/attributes/logistics/weight/9-5-kg/",
           "valueType": "enum",
           "numericValue": 9.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "10-kg",
-          "valueLabel": "10 kg",
-          "href": "/attributes/logistics/weight/10-kg/",
-          "valueType": "enum",
-          "numericValue": 10,
           "unit": "kg"
         },
         {
@@ -3210,8 +3353,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 180 x 200 x 7 cm, Comfort foam",
-      "summary": "Grey, 180 x 200 x 7 cm mattress topper with washable polyester cover.",
+      "title": "Moon Gold Topper, 180 × 200 cm, Comfort foam",
+      "summary": "White, 180 x 200 x 7 cm mattress topper with washable polyester cover.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -3221,27 +3364,36 @@
   {
     "sku": "197771",
     "name": "197771",
-    "title": "Moon Gold Topper, 200 x 200 x 7 cm, Comfort foam",
-    "variantSummary": "200 x 200 x 7 cm / Comfort foam / Grey",
-    "shortDescription": "Grey, 200 x 200 x 7 cm mattress topper with washable polyester cover.",
+    "title": "Moon Gold Topper, 200 × 200 cm, Comfort foam",
+    "variantSummary": "200 × 200 cm / Comfort foam / White",
+    "shortDescription": "White, 200 x 200 x 7 cm mattress topper with washable polyester cover.",
     "selectionAttributes": {
-      "dimensions": "200 x 200 x 7 cm",
+      "dimensions": "200 × 200 cm",
       "handedness": "",
       "comfortType": "Comfort foam",
-      "color": "Grey",
-      "material": "Polyester, Foam"
+      "color": "White",
+      "material": "Polyester, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197771_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197771_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197771_1.avif",
-      "/products/toppers/moon-gold/197771_2.avif",
-      "/products/toppers/moon-gold/197771_3.avif"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197771",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 200 x 200 x 7 cm, Comfort foam Grey, 200 x 200 x 7 cm mattress topper with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 7 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.27 m³ m³ Logistics Weight 10.5 kg kg Logistics Weight 10.6 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 200 × 200 cm, Comfort foam White, 200 x 200 x 7 cm mattress topper with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 7 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 10.6 kg kg Logistics Product count 1 product product Logistics Volume 0.27 m³ m³ Logistics Weight 10.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -3265,9 +3417,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -3347,6 +3499,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "10-6-kg",
+          "valueLabel": "10.6 kg",
+          "href": "/attributes/logistics/package-weight/10-6-kg/",
+          "valueType": "enum",
+          "numericValue": 10.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -3378,18 +3542,6 @@
           "href": "/attributes/logistics/weight/10-5-kg/",
           "valueType": "enum",
           "numericValue": 10.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "10-6-kg",
-          "valueLabel": "10.6 kg",
-          "href": "/attributes/logistics/weight/10-6-kg/",
-          "valueType": "enum",
-          "numericValue": 10.6,
           "unit": "kg"
         },
         {
@@ -3431,8 +3583,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 200 x 200 x 7 cm, Comfort foam",
-      "summary": "Grey, 200 x 200 x 7 cm mattress topper with washable polyester cover.",
+      "title": "Moon Gold Topper, 200 × 200 cm, Comfort foam",
+      "summary": "White, 200 x 200 x 7 cm mattress topper with washable polyester cover.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -3442,26 +3594,36 @@
   {
     "sku": "197772",
     "name": "197772",
-    "title": "Moon Gold Topper, 80 x 200 x 5 cm, Memory foam",
-    "variantSummary": "80 x 200 x 5 cm / Memory foam / Grey",
-    "shortDescription": "Grey. Memory foam topper, 80 x 200 cm with washable polyester cover.",
+    "title": "Moon Gold Topper, 80 × 200 cm, Memory foam",
+    "variantSummary": "80 × 200 cm / Memory foam / White",
+    "shortDescription": "White. Memory foam topper, 80 x 200 cm with washable polyester cover.",
     "selectionAttributes": {
-      "dimensions": "80 x 200 x 5 cm",
+      "dimensions": "80 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Grey",
-      "material": "Memory foam, Polyester"
+      "color": "White",
+      "material": "Memory foam, Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197772_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197772_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197772_1.avif",
-      "/products/toppers/moon-gold/197772_2.jpg"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197772",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 80 x 200 x 5 cm, Memory foam Grey. Memory foam topper, 80 x 200 cm with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.11 m³ m³ Logistics Weight 5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 80 × 200 cm, Memory foam White. Memory foam topper, 80 x 200 cm with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.11 m³ m³ Logistics Weight 5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -3485,9 +3647,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -3639,8 +3801,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 80 x 200 x 5 cm, Memory foam",
-      "summary": "Grey. Memory foam topper, 80 x 200 cm with washable polyester cover.",
+      "title": "Moon Gold Topper, 80 × 200 cm, Memory foam",
+      "summary": "White. Memory foam topper, 80 x 200 cm with washable polyester cover.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -3650,26 +3812,36 @@
   {
     "sku": "197773",
     "name": "197773",
-    "title": "Moon Gold Topper, 90 x 200 x 5 cm, Memory foam",
-    "variantSummary": "90 x 200 x 5 cm / Memory foam / Grey",
-    "shortDescription": "Grey. Memory foam topper, 90 x 200 cm with washable polyester cover.",
+    "title": "Moon Gold Topper, 90 × 200 cm, Memory foam",
+    "variantSummary": "90 × 200 cm / Memory foam / White",
+    "shortDescription": "White. Memory foam topper, 90 x 200 cm with washable polyester cover.",
     "selectionAttributes": {
-      "dimensions": "90 x 200 x 5 cm",
+      "dimensions": "90 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Grey",
-      "material": "Memory foam, Polyester"
+      "color": "White",
+      "material": "Memory foam, Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197773_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197773_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197773_1.avif",
-      "/products/toppers/moon-gold/197773_2.avif"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197773",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 90 x 200 x 5 cm, Memory foam Grey. Memory foam topper, 90 x 200 cm with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.13 m³ m³ Logistics Weight 5.5 kg kg Logistics Weight 5.6 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 90 × 200 cm, Memory foam White. Memory foam topper, 90 x 200 cm with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 90 cm cm Logistics Package count 1 package package Logistics Package weight 5.6 kg kg Logistics Product count 1 product product Logistics Volume 0.13 m³ m³ Logistics Weight 5.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -3693,9 +3865,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -3775,6 +3947,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "5-6-kg",
+          "valueLabel": "5.6 kg",
+          "href": "/attributes/logistics/package-weight/5-6-kg/",
+          "valueType": "enum",
+          "numericValue": 5.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -3806,18 +3990,6 @@
           "href": "/attributes/logistics/weight/5-5-kg/",
           "valueType": "enum",
           "numericValue": 5.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "5-6-kg",
-          "valueLabel": "5.6 kg",
-          "href": "/attributes/logistics/weight/5-6-kg/",
-          "valueType": "enum",
-          "numericValue": 5.6,
           "unit": "kg"
         },
         {
@@ -3859,8 +4031,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 90 x 200 x 5 cm, Memory foam",
-      "summary": "Grey. Memory foam topper, 90 x 200 cm with washable polyester cover.",
+      "title": "Moon Gold Topper, 90 × 200 cm, Memory foam",
+      "summary": "White. Memory foam topper, 90 x 200 cm with washable polyester cover.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -3870,26 +4042,36 @@
   {
     "sku": "197774",
     "name": "197774",
-    "title": "Moon Gold Topper, 105 x 200 x 5 cm, Memory foam",
-    "variantSummary": "105 x 200 x 5 cm / Memory foam / Grey",
-    "shortDescription": "Grey. Memory foam topper, 105 x 200 cm with washable polyester cover.",
+    "title": "Moon Gold Topper, 105 × 200 cm, Memory foam",
+    "variantSummary": "105 × 200 cm / Memory foam / White",
+    "shortDescription": "White. Memory foam topper, 105 x 200 cm with washable polyester cover.",
     "selectionAttributes": {
-      "dimensions": "105 x 200 x 5 cm",
+      "dimensions": "105 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Grey",
-      "material": "Memory foam, Polyester"
+      "color": "White",
+      "material": "Memory foam, Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197774_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197774_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197774_1.avif",
-      "/products/toppers/moon-gold/197774_2.jpg"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197774",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 105 x 200 x 5 cm, Memory foam Grey. Memory foam topper, 105 x 200 cm with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 105 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.14 m³ m³ Logistics Weight 6.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 105 × 200 cm, Memory foam White. Memory foam topper, 105 x 200 cm with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 105 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.14 m³ m³ Logistics Weight 6.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -3913,9 +4095,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -4067,8 +4249,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 105 x 200 x 5 cm, Memory foam",
-      "summary": "Grey. Memory foam topper, 105 x 200 cm with washable polyester cover.",
+      "title": "Moon Gold Topper, 105 × 200 cm, Memory foam",
+      "summary": "White. Memory foam topper, 105 x 200 cm with washable polyester cover.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -4078,26 +4260,36 @@
   {
     "sku": "197775",
     "name": "197775",
-    "title": "Moon Gold Topper, 120 x 200 x 5 cm, Memory foam",
-    "variantSummary": "120 x 200 x 5 cm / Memory foam / Grey",
-    "shortDescription": "Grey. Memory foam topper, 120 x 200 cm with washable polyester cover.",
+    "title": "Moon Gold Topper, 120 × 200 cm, Memory foam",
+    "variantSummary": "120 × 200 cm / Memory foam / White",
+    "shortDescription": "White. Memory foam topper, 120 x 200 cm with washable polyester cover.",
     "selectionAttributes": {
-      "dimensions": "120 x 200 x 5 cm",
+      "dimensions": "120 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Grey",
-      "material": "Memory foam, Polyester"
+      "color": "White",
+      "material": "Memory foam, Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197775_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197775_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197775_1.avif",
-      "/products/toppers/moon-gold/197775_2.avif"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197775",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 120 x 200 x 5 cm, Memory foam Grey. Memory foam topper, 120 x 200 cm with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.16 m³ m³ Logistics Weight 7 kg kg Logistics Weight 7.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 120 × 200 cm, Memory foam White. Memory foam topper, 120 x 200 cm with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 120 cm cm Logistics Package count 1 package package Logistics Package weight 7 kg kg Logistics Product count 1 product product Logistics Volume 0.16 m³ m³ Logistics Weight 7.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -4121,9 +4313,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -4203,6 +4395,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "7-kg",
+          "valueLabel": "7 kg",
+          "href": "/attributes/logistics/package-weight/7-kg/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -4223,18 +4427,6 @@
           "valueType": "enum",
           "numericValue": 0.16,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "7-kg",
-          "valueLabel": "7 kg",
-          "href": "/attributes/logistics/weight/7-kg/",
-          "valueType": "enum",
-          "numericValue": 7,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -4287,8 +4479,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 120 x 200 x 5 cm, Memory foam",
-      "summary": "Grey. Memory foam topper, 120 x 200 cm with washable polyester cover.",
+      "title": "Moon Gold Topper, 120 × 200 cm, Memory foam",
+      "summary": "White. Memory foam topper, 120 x 200 cm with washable polyester cover.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -4298,26 +4490,36 @@
   {
     "sku": "197776",
     "name": "197776",
-    "title": "Moon Gold Topper, 140 x 200 x 5 cm, Memory foam",
-    "variantSummary": "140 x 200 x 5 cm / Memory foam / Grey",
-    "shortDescription": "Grey. Memory foam topper, 140 x 200 cm with washable polyester cover.",
+    "title": "Moon Gold Topper, 140 × 200 cm, Memory foam",
+    "variantSummary": "140 × 200 cm / Memory foam / White",
+    "shortDescription": "White. Memory foam topper, 140 x 200 cm with washable polyester cover.",
     "selectionAttributes": {
-      "dimensions": "140 x 200 x 5 cm",
+      "dimensions": "140 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Grey",
-      "material": "Memory foam, Polyester"
+      "color": "White",
+      "material": "Memory foam, Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197776_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197776_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197776_1.avif",
-      "/products/toppers/moon-gold/197776_2.jpg"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197776",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 140 x 200 x 5 cm, Memory foam Grey. Memory foam topper, 140 x 200 cm with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 140 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.19 m³ m³ Logistics Weight 8.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 140 × 200 cm, Memory foam White. Memory foam topper, 140 x 200 cm with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 140 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.19 m³ m³ Logistics Weight 8.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -4341,9 +4543,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -4495,8 +4697,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 140 x 200 x 5 cm, Memory foam",
-      "summary": "Grey. Memory foam topper, 140 x 200 cm with washable polyester cover.",
+      "title": "Moon Gold Topper, 140 × 200 cm, Memory foam",
+      "summary": "White. Memory foam topper, 140 x 200 cm with washable polyester cover.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -4506,26 +4708,36 @@
   {
     "sku": "197777",
     "name": "197777",
-    "title": "Moon Gold Topper, 160 x 200 x 5 cm, Memory foam",
-    "variantSummary": "160 x 200 x 5 cm / Memory foam / Grey",
-    "shortDescription": "Grey. Memory foam topper, 160 x 200 cm with washable polyester cover.",
+    "title": "Moon Gold Topper, 160 × 200 cm, Memory foam",
+    "variantSummary": "160 × 200 cm / Memory foam / White",
+    "shortDescription": "White. Memory foam topper, 160 x 200 cm with washable polyester cover.",
     "selectionAttributes": {
-      "dimensions": "160 x 200 x 5 cm",
+      "dimensions": "160 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Grey",
-      "material": "Memory foam, Polyester"
+      "color": "White",
+      "material": "Memory foam, Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197777_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197777_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197777_1.avif",
-      "/products/toppers/moon-gold/197777_2.avif"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197777",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 160 x 200 x 5 cm, Memory foam Grey. Memory foam topper, 160 x 200 cm with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.22 m³ m³ Logistics Weight 9.8 kg kg Logistics Weight 10 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 160 × 200 cm, Memory foam White. Memory foam topper, 160 x 200 cm with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Package weight 9.8 kg kg Logistics Product count 1 product product Logistics Volume 0.22 m³ m³ Logistics Weight 10 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -4549,9 +4761,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -4631,6 +4843,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "9-8-kg",
+          "valueLabel": "9.8 kg",
+          "href": "/attributes/logistics/package-weight/9-8-kg/",
+          "valueType": "enum",
+          "numericValue": 9.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -4651,18 +4875,6 @@
           "valueType": "enum",
           "numericValue": 0.22,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "9-8-kg",
-          "valueLabel": "9.8 kg",
-          "href": "/attributes/logistics/weight/9-8-kg/",
-          "valueType": "enum",
-          "numericValue": 9.8,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -4715,8 +4927,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 160 x 200 x 5 cm, Memory foam",
-      "summary": "Grey. Memory foam topper, 160 x 200 cm with washable polyester cover.",
+      "title": "Moon Gold Topper, 160 × 200 cm, Memory foam",
+      "summary": "White. Memory foam topper, 160 x 200 cm with washable polyester cover.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -4726,26 +4938,36 @@
   {
     "sku": "197778",
     "name": "197778",
-    "title": "Moon Gold Topper, 180 x 200 x 5 cm, Memory foam",
-    "variantSummary": "180 x 200 x 5 cm / Memory foam / Grey",
-    "shortDescription": "Grey. Memory foam topper, 180 x 200 cm with washable polyester cover.",
+    "title": "Moon Gold Topper, 180 × 200 cm, Memory foam",
+    "variantSummary": "180 × 200 cm / Memory foam / White",
+    "shortDescription": "White. Memory foam topper, 180 x 200 cm with washable polyester cover.",
     "selectionAttributes": {
-      "dimensions": "180 x 200 x 5 cm",
+      "dimensions": "180 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Grey",
-      "material": "Memory foam, Polyester"
+      "color": "White",
+      "material": "Memory foam, Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197778_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197778_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197778_1.avif",
-      "/products/toppers/moon-gold/197778_2.jpg"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197778",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 180 x 200 x 5 cm, Memory foam Grey. Memory foam topper, 180 x 200 cm with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.25 m³ m³ Logistics Weight 10.9 kg kg Logistics Weight 11 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 180 × 200 cm, Memory foam White. Memory foam topper, 180 x 200 cm with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 180 cm cm Logistics Package count 1 package package Logistics Package weight 10.9 kg kg Logistics Product count 1 product product Logistics Volume 0.25 m³ m³ Logistics Weight 11 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -4769,9 +4991,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -4851,6 +5073,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "10-9-kg",
+          "valueLabel": "10.9 kg",
+          "href": "/attributes/logistics/package-weight/10-9-kg/",
+          "valueType": "enum",
+          "numericValue": 10.9,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -4871,18 +5105,6 @@
           "valueType": "enum",
           "numericValue": 0.25,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "10-9-kg",
-          "valueLabel": "10.9 kg",
-          "href": "/attributes/logistics/weight/10-9-kg/",
-          "valueType": "enum",
-          "numericValue": 10.9,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -4935,8 +5157,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 180 x 200 x 5 cm, Memory foam",
-      "summary": "Grey. Memory foam topper, 180 x 200 cm with washable polyester cover.",
+      "title": "Moon Gold Topper, 180 × 200 cm, Memory foam",
+      "summary": "White. Memory foam topper, 180 x 200 cm with washable polyester cover.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -4946,26 +5168,36 @@
   {
     "sku": "197779",
     "name": "197779",
-    "title": "Moon Gold Topper, 200 x 200 x 5 cm, Memory foam",
-    "variantSummary": "200 x 200 x 5 cm / Memory foam / Grey",
-    "shortDescription": "Grey. Memory foam topper, 200 x 200 cm with washable polyester cover.",
+    "title": "Moon Gold Topper, 200 × 200 cm, Memory foam",
+    "variantSummary": "200 × 200 cm / Memory foam / White",
+    "shortDescription": "White. Memory foam topper, 200 x 200 cm with washable polyester cover.",
     "selectionAttributes": {
-      "dimensions": "200 x 200 x 5 cm",
+      "dimensions": "200 × 200 cm",
       "handedness": "",
       "comfortType": "Memory foam",
-      "color": "Grey",
-      "material": "Memory foam, Polyester"
+      "color": "White",
+      "material": "Memory foam, Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Topper",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions,comfortType",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/toppers/moon-gold/197779_1.avif",
-    "imageUrl": "/products/toppers/moon-gold/197779_1.avif",
+    "primaryImageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+    "imageUrl": "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
     "imageUrls": [
-      "/products/toppers/moon-gold/197779_1.avif",
-      "/products/toppers/moon-gold/197779_2.avif"
+      "/products/toppers/moon-gold/moon_gold_topper_grey_6.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_7.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_9.avif",
+      "/products/toppers/moon-gold/moon_gold_topper_grey_10.avif"
     ],
     "href": "/products/toppers/moon-gold/197779",
     "type": "file",
     "filterData": {
-      "searchText": "Moon Gold Topper, 200 x 200 x 5 cm, Memory foam Grey. Memory foam topper, 200 x 200 cm with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold Grey Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.22 m³ m³ Logistics Weight 12 kg kg Logistics Weight 12.2 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Moon Gold Topper, 200 × 200 cm, Memory foam White. Memory foam topper, 200 x 200 cm with washable polyester cover. Toppers Bedroom Moon Gold Bedroom Toppers Moon Gold White Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 6 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 12.2 kg kg Logistics Product count 1 product product Logistics Volume 0.22 m³ m³ Logistics Weight 12 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -4989,9 +5221,9 @@
       ],
       "colors": [
         {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
         }
       ],
       "materials": [
@@ -5071,6 +5303,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "12-2-kg",
+          "valueLabel": "12.2 kg",
+          "href": "/attributes/logistics/package-weight/12-2-kg/",
+          "valueType": "enum",
+          "numericValue": 12.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -5102,18 +5346,6 @@
           "href": "/attributes/logistics/weight/12-kg/",
           "valueType": "enum",
           "numericValue": 12,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "12-2-kg",
-          "valueLabel": "12.2 kg",
-          "href": "/attributes/logistics/weight/12-2-kg/",
-          "valueType": "enum",
-          "numericValue": 12.2,
           "unit": "kg"
         },
         {
@@ -5155,8 +5387,8 @@
       ]
     },
     "sortData": {
-      "title": "Moon Gold Topper, 200 x 200 x 5 cm, Memory foam",
-      "summary": "Grey. Memory foam topper, 200 x 200 cm with washable polyester cover.",
+      "title": "Moon Gold Topper, 200 × 200 cm, Memory foam",
+      "summary": "White. Memory foam topper, 200 x 200 cm with washable polyester cover.",
       "variantCount": 1,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",

@@ -5,10 +5,10 @@
     "type": "dir",
     "title": "Haven",
     "summary": "Haven lounge chair combines natural colored polyrattan with beige cushions and a black frame for a practical and comfortable outdoor seat.",
-    "primaryImageUrl": "/products/outdoor-lounge-seating/haven/197618_1.avif",
+    "primaryImageUrl": "/products/outdoor-lounge-seating/haven/197618_2.avif",
     "sourceHref": "/products/outdoor-lounge-seating/haven/",
     "filterData": {
-      "searchText": "Haven Haven lounge chair combines natural colored polyrattan with beige cushions and a black frame for a practical and comfortable outdoor seat. Outdoor Lounge Seating Haven Outdoor Outdoor Lounge Seating Haven Brown Polyester Polyrattan Steel Dimensions Depth 101 cm cm Dimensions Height 140 cm cm Dimensions Width 96 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.27 m³ m³ Logistics Weight 16.5 kg kg Logistics Weight 19 kg kg Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Haven Haven lounge chair combines natural colored polyrattan with beige cushions and a black frame for a practical and comfortable outdoor seat. Outdoor Lounge Seating Haven Outdoor Outdoor Lounge Seating Haven Beige Aluminium Polyester Polyrattan Steel Dimensions Depth 101 cm cm Dimensions Height 140 cm cm Dimensions Width 96 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Package weight 19 kg kg Logistics Product count 1 product product Logistics Volume 0.27 m³ m³ Logistics Weight 16.5 kg kg Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -32,12 +32,17 @@
       ],
       "colors": [
         {
-          "key": "brown",
-          "label": "Brown",
-          "href": "/colors/brown/"
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
         }
       ],
       "materials": [
+        {
+          "key": "aluminium",
+          "label": "Aluminium",
+          "href": "/materials/aluminium/"
+        },
         {
           "key": "polyester",
           "label": "Polyester",
@@ -119,6 +124,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "19-kg",
+          "valueLabel": "19 kg",
+          "href": "/attributes/logistics/package-weight/19-kg/",
+          "valueType": "enum",
+          "numericValue": 19,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -153,18 +170,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "19-kg",
-          "valueLabel": "19 kg",
-          "href": "/attributes/logistics/weight/19-kg/",
-          "valueType": "enum",
-          "numericValue": 19,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -193,7 +198,7 @@
     "sortData": {
       "title": "Haven",
       "summary": "Haven lounge chair combines natural colored polyrattan with beige cushions and a black frame for a practical and comfortable outdoor seat.",
-      "variantCount": 1,
+      "variantCount": 2,
       "categoryLabel": "Outdoor Lounge Seating",
       "collectionLabel": "",
       "productFamilyLabel": "Haven"
@@ -205,10 +210,10 @@
     "type": "dir",
     "title": "House Nordic Derby Outdoor Lounge Seating",
     "summary": "Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors.",
-    "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_1.avif",
+    "primaryImageUrl": "/products/outdoor-lounge-seating/house-nordic-derby/house_nordic_derby_lounge_tuoli_outdoor_lounge_seating_beige_60_x_61_cm_2.avif",
     "sourceHref": "/products/outdoor-lounge-seating/house-nordic-derby/",
     "filterData": {
-      "searchText": "House Nordic Derby Outdoor Lounge Seating Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors. Outdoor Lounge Seating House Nordic Derby Outdoor Outdoor Lounge Seating House Nordic Derby Beige Polyrattan Teak Wood Dimensions Depth 61 cm cm Dimensions Height 73 cm cm Dimensions Width 60 cm cm Load Maximum load 125 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 6 kg kg Logistics Weight 9.4 kg kg Seating Seat height 40 cm cm Seating Seat width 47 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "House Nordic Derby Outdoor Lounge Seating Lounge chair with a natural teak frame and polyrattan seat and backrest, designed for comfort and versatile use indoors or outdoors. Outdoor Lounge Seating House Nordic Derby Outdoor Outdoor Lounge Seating House Nordic Derby Beige Polyrattan Teak Wood Dimensions Depth 61 cm cm Dimensions Height 73 cm cm Dimensions Width 60 cm cm Load Maximum load 125 kg kg Logistics Package count 1 package package Logistics Package weight 9.4 kg kg Logistics Product count 1 product product Logistics Volume 0.37 m³ m³ Logistics Weight 6 kg kg Seating Seat height 40 cm cm Seating Seat width 47 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -319,6 +324,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "9-4-kg",
+          "valueLabel": "9.4 kg",
+          "href": "/attributes/logistics/package-weight/9-4-kg/",
+          "valueType": "enum",
+          "numericValue": 9.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -350,18 +367,6 @@
           "href": "/attributes/logistics/weight/6-kg/",
           "valueType": "enum",
           "numericValue": 6,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "9-4-kg",
-          "valueLabel": "9.4 kg",
-          "href": "/attributes/logistics/weight/9-4-kg/",
-          "valueType": "enum",
-          "numericValue": 9.4,
           "unit": "kg"
         },
         {
@@ -429,10 +434,10 @@
     "type": "dir",
     "title": "Nordic Outdoor Lounge Seating",
     "summary": "Modular outdoor lounge seating from the Nordic collection, including corner sections, middle sections, ottomans, and larger sofa configurations in white aluminium and beige fabric.",
-    "primaryImageUrl": "/products/outdoor-lounge-seating/nordic/198246_1.avif",
+    "primaryImageUrl": "/products/outdoor-lounge-seating/nordic/198246_2.avif",
     "sourceHref": "/products/outdoor-lounge-seating/nordic/",
     "filterData": {
-      "searchText": "Nordic Outdoor Lounge Seating Modular outdoor lounge seating from the Nordic collection, including corner sections, middle sections, ottomans, and larger sofa configurations in white aluminium and beige fabric. Outdoor Lounge Seating Nordic Outdoor Outdoor Lounge Seating Nordic Beige White Aluminium Fabric Dimensions Depth 82 cm cm Dimensions Height 24 cm cm Dimensions Height 61 cm cm Dimensions Width 82 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Volume 0.31 m³ m³ Logistics Volume 0.33 m³ m³ Logistics Weight 6 kg kg Logistics Weight 8.5 kg kg Logistics Weight 10 kg kg Logistics Weight 11 kg kg Logistics Weight 12 kg kg Logistics Weight 14 kg kg Warranty Quality guarantee 1000 days days",
+      "searchText": "Nordic Outdoor Lounge Seating Modular outdoor lounge seating from the Nordic collection, including corner sections, middle sections, ottomans, and larger sofa configurations in white aluminium and beige fabric. Outdoor Lounge Seating Nordic Outdoor Outdoor Lounge Seating Nordic White Aluminium Fabric Dimensions Depth 82 cm cm Dimensions Height 24 cm cm Dimensions Height 61 cm cm Dimensions Width 82 cm cm Logistics Package count 1 package package Logistics Package weight 11 kg kg Logistics Package weight 12 kg kg Logistics Package weight 14 kg kg Logistics Product count 1 product product Logistics Volume 0.15 m³ m³ Logistics Volume 0.31 m³ m³ Logistics Volume 0.33 m³ m³ Logistics Weight 6 kg kg Logistics Weight 8.5 kg kg Logistics Weight 10 kg kg Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -455,11 +460,6 @@
         }
       ],
       "colors": [
-        {
-          "key": "beige",
-          "label": "Beige",
-          "href": "/colors/beige/"
-        },
         {
           "key": "white",
           "label": "White",
@@ -543,6 +543,42 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "11-kg",
+          "valueLabel": "11 kg",
+          "href": "/attributes/logistics/package-weight/11-kg/",
+          "valueType": "enum",
+          "numericValue": 11,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "12-kg",
+          "valueLabel": "12 kg",
+          "href": "/attributes/logistics/package-weight/12-kg/",
+          "valueType": "enum",
+          "numericValue": 12,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "14-kg",
+          "valueLabel": "14 kg",
+          "href": "/attributes/logistics/package-weight/14-kg/",
+          "valueType": "enum",
+          "numericValue": 14,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -622,42 +658,6 @@
           "href": "/attributes/logistics/weight/10-kg/",
           "valueType": "enum",
           "numericValue": 10,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "11-kg",
-          "valueLabel": "11 kg",
-          "href": "/attributes/logistics/weight/11-kg/",
-          "valueType": "enum",
-          "numericValue": 11,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "12-kg",
-          "valueLabel": "12 kg",
-          "href": "/attributes/logistics/weight/12-kg/",
-          "valueType": "enum",
-          "numericValue": 12,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "14-kg",
-          "valueLabel": "14 kg",
-          "href": "/attributes/logistics/weight/14-kg/",
-          "valueType": "enum",
-          "numericValue": 14,
           "unit": "kg"
         },
         {

@@ -1,14 +1,15 @@
 {
   "familyTitle": "Haven",
   "familySummary": "Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies.",
-  "primaryImageUrl": "/products/outdoor-lounge-sets/haven/197627_1.avif",
+  "familyDescription": "The Haven corner sofa set offers a calm and comfortable seating solution for outdoor spaces. It features a beige polyrattan frame with soft cushions and a high backrest for support. The set includes matching stools and a glass-topped table, creating a harmonious and practical arrangement for terraces or balconies.",
+  "primaryImageUrl": "/products/outdoor-lounge-sets/haven/197627_2.avif",
   "schemaCategory": "Outdoor Lounge Sets",
   "variantCount": 2,
   "productFamilyName": "Haven",
   "productFamilyKey": "haven",
   "productFamilyRelativeDir": "families/haven",
   "filterData": {
-    "searchText": "Haven Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies. Outdoor Lounge Sets Outdoor Haven Outdoor Outdoor Lounge Sets Haven Beige Brown Aluminium Glass Polyrattan Dimensions Depth 236 cm cm Dimensions Height 86 cm cm Dimensions Set piece depth 110 cm cm Dimensions Set piece height 65 cm cm Dimensions Set piece height 86 cm cm Dimensions Set piece width 75 cm cm Dimensions Set piece width 110 cm cm Dimensions Width 185 cm cm Dimensions Width 236 cm cm Load Maximum load 100 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.05 m³ m³ Logistics Volume 1.37 m³ m³ Logistics Weight 25 kg kg Logistics Weight 37 kg kg Logistics Weight 47 kg kg Logistics Weight 68 kg kg Padding Seat cushion thickness 8 cm cm Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+    "searchText": "Haven Beige corner sofa set with a durable polyrattan frame, including stools and a glass-topped table. Suitable for outdoor use on terraces and balconies. Outdoor Lounge Sets Outdoor Haven Outdoor Outdoor Lounge Sets Haven Beige Brown Aluminium Glass Polyrattan Dimensions Depth 236 cm cm Dimensions Height 86 cm cm Dimensions Set piece depth 110 cm cm Dimensions Set piece height 65 cm cm Dimensions Set piece height 86 cm cm Dimensions Set piece width 75 cm cm Dimensions Set piece width 110 cm cm Dimensions Width 185 cm cm Dimensions Width 236 cm cm Load Maximum load 100 kg kg Logistics Package count 1 package package Logistics Package weight 25 kg kg Logistics Package weight 47 kg kg Logistics Product count 1 product product Logistics Volume 1.05 m³ m³ Logistics Volume 1.37 m³ m³ Logistics Weight 37 kg kg Logistics Weight 68 kg kg Padding Seat cushion thickness 8 cm cm Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "outdoor",
@@ -196,6 +197,30 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "25-kg",
+        "valueLabel": "25 kg",
+        "href": "/attributes/logistics/package-weight/25-kg/",
+        "valueType": "enum",
+        "numericValue": 25,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "47-kg",
+        "valueLabel": "47 kg",
+        "href": "/attributes/logistics/package-weight/47-kg/",
+        "valueType": "enum",
+        "numericValue": 47,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "1-product",
@@ -234,35 +259,11 @@
         "groupLabel": "Logistics",
         "key": "weight",
         "label": "Weight",
-        "valueKey": "25-kg",
-        "valueLabel": "25 kg",
-        "href": "/attributes/logistics/weight/25-kg/",
-        "valueType": "enum",
-        "numericValue": 25,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
         "valueKey": "37-kg",
         "valueLabel": "37 kg",
         "href": "/attributes/logistics/weight/37-kg/",
         "valueType": "enum",
         "numericValue": 37,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "47-kg",
-        "valueLabel": "47 kg",
-        "href": "/attributes/logistics/weight/47-kg/",
-        "valueType": "enum",
-        "numericValue": 47,
         "unit": "kg"
       },
       {

@@ -2,28 +2,34 @@
   {
     "sku": "214018",
     "name": "214018",
-    "title": "Staygentle Mattress Protector, 200 x 80 x 1 cm",
-    "variantSummary": "200 x 80 x 1 cm",
+    "title": "Staygentle Mattress Protector, 80 × 200 cm",
+    "variantSummary": "80 × 200 cm / White",
     "shortDescription": "Tencel mattress protectors from the Staygentle series.",
     "selectionAttributes": {
-      "dimensions": "200 x 80 x 1 cm",
+      "dimensions": "80 × 200 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "",
-      "material": "Polyester, Cotton, Tencel"
+      "color": "White",
+      "material": "Polyester, Cotton, Tencel",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress protector",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
-    "imageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
+    "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_200_x_80_x_1_cm_200_x_160_x_1_cm_200_x_180_x_1_cm_2.avif",
+    "imageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_200_x_80_x_1_cm_200_x_160_x_1_cm_200_x_180_x_1_cm_2.avif",
     "imageUrls": [
-      "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
-      "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_2.jpg",
-      "/products/mattress-protectors/staygentle/214018_1.avif",
-      "/products/mattress-protectors/staygentle/214018_2.avif"
+      "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_200_x_80_x_1_cm_200_x_160_x_1_cm_200_x_180_x_1_cm_2.avif",
+      "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_200_x_80_x_1_cm_200_x_160_x_1_cm_200_x_180_x_1_cm_1.avif"
     ],
     "href": "/products/mattress-protectors/staygentle/214018",
     "type": "file",
     "filterData": {
-      "searchText": "Staygentle Mattress Protector, 200 x 80 x 1 cm Tencel mattress protectors from the Staygentle series. Mattress Protectors Bedroom Staygentle Bedroom Mattress Protectors Staygentle Cotton Polyester Tencel Care Cleaning method Wash 60°C Dimensions Depth 80 cm cm Dimensions Height 1 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 10 product product Logistics Volume 0.23 m³ m³ Logistics Weight 8.9 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Staygentle Mattress Protector, 80 × 200 cm Tencel mattress protectors from the Staygentle series. Mattress Protectors Bedroom Staygentle Bedroom Mattress Protectors Staygentle White Cotton Polyester Tencel Care Cleaning method Wash 60°C Dimensions Depth 80 cm cm Dimensions Height 1 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 8.9 kg kg Logistics Product count 10 product product Logistics Volume 0.23 m³ m³ Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -45,7 +51,13 @@
           "href": "/families/staygentle/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -128,6 +140,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "8-9-kg",
+          "valueLabel": "8.9 kg",
+          "href": "/attributes/logistics/package-weight/8-9-kg/",
+          "valueType": "enum",
+          "numericValue": 8.9,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "10-product",
@@ -148,18 +172,6 @@
           "valueType": "enum",
           "numericValue": 0.23,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "8-9-kg",
-          "valueLabel": "8.9 kg",
-          "href": "/attributes/logistics/weight/8-9-kg/",
-          "valueType": "enum",
-          "numericValue": 8.9,
-          "unit": "kg"
         },
         {
           "groupKey": "setup",
@@ -188,7 +200,7 @@
       ]
     },
     "sortData": {
-      "title": "Staygentle Mattress Protector, 200 x 80 x 1 cm",
+      "title": "Staygentle Mattress Protector, 80 × 200 cm",
       "summary": "Tencel mattress protectors from the Staygentle series.",
       "variantCount": 1,
       "categoryLabel": "Mattress Protectors",
@@ -199,28 +211,34 @@
   {
     "sku": "214020",
     "name": "214020",
-    "title": "Staygentle Mattress Protector, 200 x 160 x 1 cm",
-    "variantSummary": "200 x 160 x 1 cm",
+    "title": "Staygentle Mattress Protector, 160 × 200 cm",
+    "variantSummary": "160 × 200 cm / White",
     "shortDescription": "Tencel mattress protectors from the Staygentle series.",
     "selectionAttributes": {
-      "dimensions": "200 x 160 x 1 cm",
+      "dimensions": "160 × 200 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "",
-      "material": "Polyester, Cotton, Tencel"
+      "color": "White",
+      "material": "Polyester, Cotton, Tencel",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress protector",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
-    "imageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
+    "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_200_x_80_x_1_cm_200_x_160_x_1_cm_200_x_180_x_1_cm_2.avif",
+    "imageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_200_x_80_x_1_cm_200_x_160_x_1_cm_200_x_180_x_1_cm_2.avif",
     "imageUrls": [
-      "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
-      "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_2.jpg",
-      "/products/mattress-protectors/staygentle/214020_1.avif",
-      "/products/mattress-protectors/staygentle/214020_2.avif"
+      "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_200_x_80_x_1_cm_200_x_160_x_1_cm_200_x_180_x_1_cm_2.avif",
+      "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_200_x_80_x_1_cm_200_x_160_x_1_cm_200_x_180_x_1_cm_1.avif"
     ],
     "href": "/products/mattress-protectors/staygentle/214020",
     "type": "file",
     "filterData": {
-      "searchText": "Staygentle Mattress Protector, 200 x 160 x 1 cm Tencel mattress protectors from the Staygentle series. Mattress Protectors Bedroom Staygentle Bedroom Mattress Protectors Staygentle Cotton Polyester Tencel Care Cleaning method Wash 60°C Dimensions Depth 160 cm cm Dimensions Height 1 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 7 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1.2 kg kg Logistics Weight 11.1 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Staygentle Mattress Protector, 160 × 200 cm Tencel mattress protectors from the Staygentle series. Mattress Protectors Bedroom Staygentle Bedroom Mattress Protectors Staygentle White Cotton Polyester Tencel Care Cleaning method Wash 60°C Dimensions Depth 160 cm cm Dimensions Height 1 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 11.1 kg kg Logistics Product count 7 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1.2 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -242,7 +260,13 @@
           "href": "/families/staygentle/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -325,6 +349,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "11-1-kg",
+          "valueLabel": "11.1 kg",
+          "href": "/attributes/logistics/package-weight/11-1-kg/",
+          "valueType": "enum",
+          "numericValue": 11.1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "7-product",
@@ -359,18 +395,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "11-1-kg",
-          "valueLabel": "11.1 kg",
-          "href": "/attributes/logistics/weight/11-1-kg/",
-          "valueType": "enum",
-          "numericValue": 11.1,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -397,7 +421,7 @@
       ]
     },
     "sortData": {
-      "title": "Staygentle Mattress Protector, 200 x 160 x 1 cm",
+      "title": "Staygentle Mattress Protector, 160 × 200 cm",
       "summary": "Tencel mattress protectors from the Staygentle series.",
       "variantCount": 1,
       "categoryLabel": "Mattress Protectors",
@@ -408,28 +432,34 @@
   {
     "sku": "214021",
     "name": "214021",
-    "title": "Staygentle Mattress Protector, 200 x 180 x 1 cm",
-    "variantSummary": "200 x 180 x 1 cm",
+    "title": "Staygentle Mattress Protector, 180 × 200 cm",
+    "variantSummary": "180 × 200 cm / White",
     "shortDescription": "Tencel mattress protectors from the Staygentle series.",
     "selectionAttributes": {
-      "dimensions": "200 x 180 x 1 cm",
+      "dimensions": "180 × 200 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "",
-      "material": "Polyester, Cotton, Tencel"
+      "color": "White",
+      "material": "Polyester, Cotton, Tencel",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Mattress protector",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
-    "imageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
+    "primaryImageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_200_x_80_x_1_cm_200_x_160_x_1_cm_200_x_180_x_1_cm_2.avif",
+    "imageUrl": "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_200_x_80_x_1_cm_200_x_160_x_1_cm_200_x_180_x_1_cm_2.avif",
     "imageUrls": [
-      "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_1.jpg",
-      "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_2.jpg",
-      "/products/mattress-protectors/staygentle/214021_1.avif",
-      "/products/mattress-protectors/staygentle/214021_2.avif"
+      "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_200_x_80_x_1_cm_200_x_160_x_1_cm_200_x_180_x_1_cm_2.avif",
+      "/products/mattress-protectors/staygentle/staygentle_tencel_patjansuojus_160x200_180x200_80x200_mattress_protector_200_x_80_x_1_cm_200_x_160_x_1_cm_200_x_180_x_1_cm_1.avif"
     ],
     "href": "/products/mattress-protectors/staygentle/214021",
     "type": "file",
     "filterData": {
-      "searchText": "Staygentle Mattress Protector, 200 x 180 x 1 cm Tencel mattress protectors from the Staygentle series. Mattress Protectors Bedroom Staygentle Bedroom Mattress Protectors Staygentle Cotton Polyester Tencel Care Cleaning method Wash 60°C Dimensions Depth 180 cm cm Dimensions Height 1 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 6 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1.4 kg kg Logistics Weight 10.6 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Staygentle Mattress Protector, 180 × 200 cm Tencel mattress protectors from the Staygentle series. Mattress Protectors Bedroom Staygentle Bedroom Mattress Protectors Staygentle White Cotton Polyester Tencel Care Cleaning method Wash 60°C Dimensions Depth 180 cm cm Dimensions Height 1 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 10.6 kg kg Logistics Product count 6 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1.4 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -451,7 +481,13 @@
           "href": "/families/staygentle/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -534,6 +570,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "10-6-kg",
+          "valueLabel": "10.6 kg",
+          "href": "/attributes/logistics/package-weight/10-6-kg/",
+          "valueType": "enum",
+          "numericValue": 10.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "6-product",
@@ -568,18 +616,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "10-6-kg",
-          "valueLabel": "10.6 kg",
-          "href": "/attributes/logistics/weight/10-6-kg/",
-          "valueType": "enum",
-          "numericValue": 10.6,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -606,7 +642,7 @@
       ]
     },
     "sortData": {
-      "title": "Staygentle Mattress Protector, 200 x 180 x 1 cm",
+      "title": "Staygentle Mattress Protector, 180 × 200 cm",
       "summary": "Tencel mattress protectors from the Staygentle series.",
       "variantCount": 1,
       "categoryLabel": "Mattress Protectors",

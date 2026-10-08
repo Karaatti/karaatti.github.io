@@ -3,32 +3,40 @@
     "sku": "198065",
     "name": "198065",
     "title": "Oak Console Table",
-    "variantSummary": "120 x 33 cm / Brown",
+    "variantSummary": "120 × 33 cm / Beige",
     "shortDescription": "Natural oak veneer with two integrated drawers in a warm brown tone.",
     "selectionAttributes": {
-      "dimensions": "120 x 33 cm",
+      "dimensions": "120 × 33 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Brown",
-      "material": "Wood veneer, Oak"
+      "color": "Beige",
+      "material": "Wood veneer, Oak",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Console table",
+      "colorLabel": "Beige",
+      "colorNote": "Natural oak, Natural oak",
+      "axisPlan": "",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/console-tables/oak/198065_1.avif",
-    "imageUrl": "/products/console-tables/oak/198065_1.avif",
+    "primaryImageUrl": "/products/console-tables/oak/198065_7.avif",
+    "imageUrl": "/products/console-tables/oak/198065_7.avif",
     "imageUrls": [
-      "/products/console-tables/oak/198065_1.avif",
+      "/products/console-tables/oak/198065_7.avif",
+      "/products/console-tables/oak/198065_8.avif",
+      "/products/console-tables/oak/198065_9.avif",
       "/products/console-tables/oak/198065_2.avif",
+      "/products/console-tables/oak/198065_1.avif",
       "/products/console-tables/oak/198065_3.avif",
       "/products/console-tables/oak/198065_4.avif",
       "/products/console-tables/oak/198065_5.avif",
-      "/products/console-tables/oak/198065_6.avif",
-      "/products/console-tables/oak/198065_7.avif",
-      "/products/console-tables/oak/198065_8.avif",
-      "/products/console-tables/oak/198065_9.avif"
+      "/products/console-tables/oak/198065_6.avif"
     ],
     "href": "/products/console-tables/oak/",
     "type": "file",
     "filterData": {
-      "searchText": "Oak Console Table Natural oak veneer with two integrated drawers in a warm brown tone. Console Tables Home Details Oak Home Details Console Tables Oak Brown Oak Wood veneer Dimensions Depth 33 cm cm Dimensions Height 80 cm cm Dimensions Width 120 cm cm Load Maximum load 30 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 16 kg kg Setup Assembly time 45 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Oak Console Table Natural oak veneer with two integrated drawers in a warm brown tone. Console Tables Home Details Oak Home Details Console Tables Oak Beige Oak Wood veneer Dimensions Depth 33 cm cm Dimensions Height 80 cm cm Dimensions Width 120 cm cm Load Maximum load 30 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 16 kg kg Setup Assembly time 45 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -52,9 +60,9 @@
       ],
       "colors": [
         {
-          "key": "brown",
-          "label": "Brown",
-          "href": "/colors/brown/"
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
         }
       ],
       "materials": [

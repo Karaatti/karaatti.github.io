@@ -1,0 +1,59 @@
+{
+  "familyTitle": "Muse",
+  "familySummary": "Muse rugs bring a multicolour look in Chenillepolyester, offered in two sizes for different room layouts.",
+  "familyDescription": "Muse is a multicolour rug family in Chenillepolyester, designed to add a patterned focal point to living areas, bedrooms or other interior spaces. Its low 0.1 cm profile keeps the look close to the floor, while the two size options make it easy to choose the right scale for a room. The smaller format suits more compact areas or layered styling, while the larger format works well in spacious settings.",
+  "primaryImageUrl": "/products/rugs/muse/220985_7.avif",
+  "schemaCategory": "Rugs",
+  "variantCount": 2,
+  "productFamilyName": "Muse",
+  "productFamilyKey": "muse",
+  "productFamilyRelativeDir": "families/muse",
+  "filterData": {
+    "searchText": "Muse Muse rugs bring a multicolour look in Chenillepolyester, offered in two sizes for different room layouts. Rugs Home Details Muse Home Details Rugs Muse Multicolour Chenillepolyester",
+    "collections": [
+      {
+        "key": "home-details",
+        "label": "Home Details",
+        "href": "/collections/storage-shelving"
+      }
+    ],
+    "categories": [
+      {
+        "key": "rugs",
+        "label": "Rugs",
+        "href": "/products/rugs/"
+      }
+    ],
+    "productFamilies": [
+      {
+        "key": "muse",
+        "label": "Muse",
+        "href": "/families/muse/"
+      }
+    ],
+    "colors": [
+      {
+        "key": "multicolour",
+        "label": "Multicolour",
+        "href": "/colors/multicolour/"
+      }
+    ],
+    "materials": [
+      {
+        "key": "chenillepolyester",
+        "label": "Chenillepolyester",
+        "href": "/materials/chenillepolyester/"
+      }
+    ],
+    "specifications": [],
+    "attributes": []
+  },
+  "sortData": {
+    "title": "Muse",
+    "summary": "Muse rugs bring a multicolour look in Chenillepolyester, offered in two sizes for different room layouts.",
+    "variantCount": 2,
+    "categoryLabel": "Rugs",
+    "collectionLabel": "Home Details",
+    "productFamilyLabel": "Muse"
+  }
+}

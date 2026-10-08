@@ -2,30 +2,38 @@
   {
     "sku": "198099",
     "name": "198099",
-    "title": "Bow Dining Chair, Brown",
-    "variantSummary": "48 x 52 cm / Brown",
+    "title": "Bow Dining Chair, Beige",
+    "variantSummary": "48 × 52.5 cm / Beige",
     "shortDescription": "Khaki fabric seat with metal frame and plywood structure.",
     "selectionAttributes": {
-      "dimensions": "48 x 52 cm",
+      "dimensions": "48 × 52.5 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "Brown",
-      "material": "Metal, Fabric, Plywood, Foam"
+      "color": "Beige",
+      "material": "Metal, Fabric, Plywood, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining chair",
+      "colorLabel": "Beige",
+      "colorNote": "Khaki",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/dining-chairs/bow/198099_1.avif",
-    "imageUrl": "/products/dining-chairs/bow/198099_1.avif",
+    "primaryImageUrl": "/products/dining-chairs/bow/198099_2.avif",
+    "imageUrl": "/products/dining-chairs/bow/198099_2.avif",
     "imageUrls": [
-      "/products/dining-chairs/bow/198099_1.avif",
       "/products/dining-chairs/bow/198099_2.avif",
-      "/products/dining-chairs/bow/198099_3.avif",
       "/products/dining-chairs/bow/198099_4.avif",
+      "/products/dining-chairs/bow/198099_1.avif",
+      "/products/dining-chairs/bow/198099_3.avif",
       "/products/dining-chairs/bow/198099_5.avif",
       "/products/dining-chairs/bow/198099_7.avif"
     ],
     "href": "/products/dining-chairs/bow/198099",
     "type": "file",
     "filterData": {
-      "searchText": "Bow Dining Chair, Brown Khaki fabric seat with metal frame and plywood structure. Dining Chairs Dining room Bow Dining room Dining Chairs Bow Brown Fabric Foam Metal Plywood Dimensions Depth 52 cm cm Dimensions Height 80 cm cm Dimensions Width 48 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 2 product product Logistics Volume 0.22 m³ m³ Logistics Weight 5 kg kg Logistics Weight 11.8 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Bow Dining Chair, Beige Khaki fabric seat with metal frame and plywood structure. Dining Chairs Dining room Bow Dining room Dining Chairs Bow Beige Fabric Foam Metal Plywood Dimensions Depth 52 cm cm Dimensions Height 80 cm cm Dimensions Width 48 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Package weight 11.8 kg kg Logistics Product count 2 product product Logistics Volume 0.22 m³ m³ Logistics Weight 5 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "dining-room",
@@ -49,9 +57,9 @@
       ],
       "colors": [
         {
-          "key": "brown",
-          "label": "Brown",
-          "href": "/colors/brown/"
+          "key": "beige",
+          "label": "Beige",
+          "href": "/colors/beige/"
         }
       ],
       "materials": [
@@ -141,6 +149,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "11-8-kg",
+          "valueLabel": "11.8 kg",
+          "href": "/attributes/logistics/package-weight/11-8-kg/",
+          "valueType": "enum",
+          "numericValue": 11.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "2-product",
@@ -172,18 +192,6 @@
           "href": "/attributes/logistics/weight/5-kg/",
           "valueType": "enum",
           "numericValue": 5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "11-8-kg",
-          "valueLabel": "11.8 kg",
-          "href": "/attributes/logistics/weight/11-8-kg/",
-          "valueType": "enum",
-          "numericValue": 11.8,
           "unit": "kg"
         },
         {
@@ -225,7 +233,7 @@
       ]
     },
     "sortData": {
-      "title": "Bow Dining Chair, Brown",
+      "title": "Bow Dining Chair, Beige",
       "summary": "Khaki fabric seat with metal frame and plywood structure.",
       "variantCount": 1,
       "categoryLabel": "Dining Chairs",
@@ -237,29 +245,37 @@
     "sku": "198100",
     "name": "198100",
     "title": "Bow Dining Chair, Black",
-    "variantSummary": "48 x 52 cm / Black",
+    "variantSummary": "48 × 52.5 cm / Black",
     "shortDescription": "Black fabric seat with metal frame and plywood structure.",
     "selectionAttributes": {
-      "dimensions": "48 x 52 cm",
+      "dimensions": "48 × 52.5 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Black",
-      "material": "Metal, Fabric, Plywood, Foam"
+      "material": "Metal, Fabric, Plywood, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining chair",
+      "colorLabel": "Black",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/dining-chairs/bow/198100_1.avif",
-    "imageUrl": "/products/dining-chairs/bow/198100_1.avif",
+    "primaryImageUrl": "/products/dining-chairs/bow/198100_2.avif",
+    "imageUrl": "/products/dining-chairs/bow/198100_2.avif",
     "imageUrls": [
-      "/products/dining-chairs/bow/198100_1.avif",
       "/products/dining-chairs/bow/198100_2.avif",
       "/products/dining-chairs/bow/198100_3.avif",
-      "/products/dining-chairs/bow/198100_5.avif",
       "/products/dining-chairs/bow/198100_6.avif",
+      "/products/dining-chairs/bow/198100_1.avif",
+      "/products/dining-chairs/bow/198100_5.avif",
       "/products/dining-chairs/bow/198100_7.avif"
     ],
     "href": "/products/dining-chairs/bow/198100",
     "type": "file",
     "filterData": {
-      "searchText": "Bow Dining Chair, Black Black fabric seat with metal frame and plywood structure. Dining Chairs Dining room Bow Dining room Dining Chairs Bow Black Fabric Foam Metal Plywood Dimensions Depth 52 cm cm Dimensions Height 80 cm cm Dimensions Width 48 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 2 product product Logistics Volume 0.22 m³ m³ Logistics Weight 5 kg kg Logistics Weight 11.8 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Bow Dining Chair, Black Black fabric seat with metal frame and plywood structure. Dining Chairs Dining room Bow Dining room Dining Chairs Bow Black Fabric Foam Metal Plywood Dimensions Depth 52 cm cm Dimensions Height 80 cm cm Dimensions Width 48 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Package weight 11.8 kg kg Logistics Product count 2 product product Logistics Volume 0.22 m³ m³ Logistics Weight 5 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "dining-room",
@@ -375,6 +391,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "11-8-kg",
+          "valueLabel": "11.8 kg",
+          "href": "/attributes/logistics/package-weight/11-8-kg/",
+          "valueType": "enum",
+          "numericValue": 11.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "2-product",
@@ -406,18 +434,6 @@
           "href": "/attributes/logistics/weight/5-kg/",
           "valueType": "enum",
           "numericValue": 5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "11-8-kg",
-          "valueLabel": "11.8 kg",
-          "href": "/attributes/logistics/weight/11-8-kg/",
-          "valueType": "enum",
-          "numericValue": 11.8,
           "unit": "kg"
         },
         {
@@ -471,29 +487,37 @@
     "sku": "198101",
     "name": "198101",
     "title": "Bow Dining Chair, Red",
-    "variantSummary": "48 x 52 cm / Red",
+    "variantSummary": "48 × 52.5 cm / Red",
     "shortDescription": "Red fabric seat with metal frame and plywood structure.",
     "selectionAttributes": {
-      "dimensions": "48 x 52 cm",
+      "dimensions": "48 × 52.5 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Red",
-      "material": "Metal, Fabric, Plywood, Foam"
+      "material": "Metal, Fabric, Plywood, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Dining chair",
+      "colorLabel": "Red",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/dining-chairs/bow/198101_1.avif",
-    "imageUrl": "/products/dining-chairs/bow/198101_1.avif",
+    "primaryImageUrl": "/products/dining-chairs/bow/198101_2.avif",
+    "imageUrl": "/products/dining-chairs/bow/198101_2.avif",
     "imageUrls": [
-      "/products/dining-chairs/bow/198101_1.avif",
       "/products/dining-chairs/bow/198101_2.avif",
       "/products/dining-chairs/bow/198101_3.avif",
       "/products/dining-chairs/bow/198101_4.avif",
+      "/products/dining-chairs/bow/198101_1.avif",
       "/products/dining-chairs/bow/198101_5.avif",
       "/products/dining-chairs/bow/198101_7.avif"
     ],
     "href": "/products/dining-chairs/bow/198101",
     "type": "file",
     "filterData": {
-      "searchText": "Bow Dining Chair, Red Red fabric seat with metal frame and plywood structure. Dining Chairs Dining room Bow Dining room Dining Chairs Bow Red Fabric Foam Metal Plywood Dimensions Depth 52 cm cm Dimensions Height 80 cm cm Dimensions Width 48 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 2 product product Logistics Volume 0.22 m³ m³ Logistics Weight 5 kg kg Logistics Weight 11.8 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Bow Dining Chair, Red Red fabric seat with metal frame and plywood structure. Dining Chairs Dining room Bow Dining room Dining Chairs Bow Red Fabric Foam Metal Plywood Dimensions Depth 52 cm cm Dimensions Height 80 cm cm Dimensions Width 48 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Package weight 11.8 kg kg Logistics Product count 2 product product Logistics Volume 0.22 m³ m³ Logistics Weight 5 kg kg Setup Assembly time 15 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "dining-room",
@@ -609,6 +633,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "11-8-kg",
+          "valueLabel": "11.8 kg",
+          "href": "/attributes/logistics/package-weight/11-8-kg/",
+          "valueType": "enum",
+          "numericValue": 11.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "2-product",
@@ -640,18 +676,6 @@
           "href": "/attributes/logistics/weight/5-kg/",
           "valueType": "enum",
           "numericValue": 5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "11-8-kg",
-          "valueLabel": "11.8 kg",
-          "href": "/attributes/logistics/weight/11-8-kg/",
-          "valueType": "enum",
-          "numericValue": 11.8,
           "unit": "kg"
         },
         {

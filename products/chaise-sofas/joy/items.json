@@ -1,0 +1,101 @@
+[
+  {
+    "sku": "198421",
+    "name": "198421",
+    "title": "Joy Chaise Sofa",
+    "variantSummary": "246 × 155 cm / Left / White",
+    "shortDescription": "Joy Chaise Sofa in white, 246 × 155 × 75 cm, with a left orientation and a layout combining a chaiselongue with a two-seater section and armrest.",
+    "selectionAttributes": {
+      "dimensions": "246 × 155 cm",
+      "handedness": "Left",
+      "comfortType": "",
+      "color": "White",
+      "material": "Fabric, Metal, Plywood, Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Chaise sofa",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
+    },
+    "primaryImageUrl": "/products/chaise-sofas/joy/198421_1.avif",
+    "imageUrl": "/products/chaise-sofas/joy/198421_1.avif",
+    "imageUrls": [
+      "/products/chaise-sofas/joy/198421_1.avif",
+      "/products/chaise-sofas/joy/198421_2.avif",
+      "/products/chaise-sofas/joy/198421_3.avif",
+      "/products/chaise-sofas/joy/198421_4.avif",
+      "/products/chaise-sofas/joy/198421_5.avif",
+      "/products/chaise-sofas/joy/198421_6.avif",
+      "/products/chaise-sofas/joy/198421_7.avif",
+      "/products/chaise-sofas/joy/198421_8.avif"
+    ],
+    "href": "/products/chaise-sofas/joy/198421",
+    "type": "file",
+    "filterData": {
+      "searchText": "Joy Chaise Sofa Joy Chaise Sofa in white, 246 × 155 × 75 cm, with a left orientation and a layout combining a chaiselongue with a two-seater section and armrest. Chaise Sofas Living room Joy Living room Chaise Sofas Joy White Fabric Metal Plywood Polyester",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "chaise-sofas",
+          "label": "Chaise Sofas",
+          "href": "/products/chaise-sofas/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "joy",
+          "label": "Joy",
+          "href": "/families/joy/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Joy Chaise Sofa",
+      "summary": "Joy Chaise Sofa in white, 246 × 155 × 75 cm, with a left orientation and a layout combining a chaiselongue with a two-seater section and armrest.",
+      "variantCount": 1,
+      "categoryLabel": "Chaise Sofas",
+      "collectionLabel": "Living room",
+      "productFamilyLabel": "Joy"
+    }
+  }
+]

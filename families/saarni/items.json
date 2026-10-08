@@ -5,7 +5,7 @@
     "href": "/products/outdoor-dining-chairs/saarni/",
     "type": "dir",
     "summary": "Light brown stackable dining chair with aluminium frame and nonwood surfaces. Suitable for indoor and outdoor use.",
-    "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_1.avif",
+    "primaryImageUrl": "/products/outdoor-dining-chairs/saarni/206644_2.avif",
     "filterData": {
       "searchText": "Saarni Light brown stackable dining chair with aluminium frame and nonwood surfaces. Suitable for indoor and outdoor use. Outdoor Dining Chairs Outdoor Saarni Outdoor Outdoor Dining Chairs Saarni Brown Aluminium Nonwood Dimensions Depth 57 cm cm Dimensions Height 87 cm cm Dimensions Width 56 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.05 m³ m³ Logistics Weight 4.9 kg kg Seating Seat count 1 seat seat Seating Seat depth 43.5 cm cm Seating Seat height 41 cm cm Seating Seat width 39.5 cm cm Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
@@ -234,10 +234,10 @@
     "title": "Saarni Outdoor Dining Table",
     "href": "/products/outdoor-dining-tables/saarni/",
     "type": "dir",
-    "summary": "Outdoor dining table with aluminium frame and nonwood surface in a light Beige tone. Practical and easy to maintain.",
+    "summary": "Saarni outdoor dining tables combine aluminium frames with nonwood surfaces, with sizes and beige or brown tones to compare.",
     "primaryImageUrl": "/products/outdoor-dining-tables/saarni/206639_1.avif",
     "filterData": {
-      "searchText": "Saarni Outdoor dining table with aluminium frame and nonwood surface in a light Beige tone. Practical and easy to maintain. Outdoor Dining Tables Outdoor Saarni Outdoor Outdoor Dining Tables Saarni Beige Brown Aluminium Nonwood Dimensions Depth 70 cm cm Dimensions Depth 130 cm cm Dimensions Depth 150 cm cm Dimensions Depth 205 cm cm Dimensions Height 72 cm cm Dimensions Height 74 cm cm Dimensions Width 70 cm cm Dimensions Width 90 cm cm Dimensions Width 95 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.1 m³ m³ Logistics Volume 0.06 m³ m³ Logistics Volume 0.11 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Volume 0.31 m³ m³ Logistics Weight 8.2 kg kg Logistics Weight 9.3 kg kg Logistics Weight 14.2 kg kg Logistics Weight 14.8 kg kg Logistics Weight 15.5 kg kg Logistics Weight 18.5 kg kg Logistics Weight 20.5 kg kg Logistics Weight 24.9 kg kg Logistics Weight 50 kg kg Logistics Weight 52.8 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Saarni Saarni outdoor dining tables combine aluminium frames with nonwood surfaces, with sizes and beige or brown tones to compare. Outdoor Dining Tables Outdoor Saarni Outdoor Outdoor Dining Tables Saarni Beige Aluminium Nonwood Dimensions Depth 70 cm cm Dimensions Depth 130 cm cm Dimensions Depth 150 cm cm Dimensions Depth 205 cm cm Dimensions Height 72 cm cm Dimensions Height 74 cm cm Dimensions Width 70 cm cm Dimensions Width 90 cm cm Dimensions Width 95 cm cm Load Maximum load 120 kg kg Logistics Package count 1 package package Logistics Package weight 9.3 kg kg Logistics Package weight 15.5 kg kg Logistics Package weight 18.5 kg kg Logistics Package weight 24.9 kg kg Logistics Package weight 52.8 kg kg Logistics Product count 1 product product Logistics Volume 0.1 m³ m³ Logistics Volume 0.06 m³ m³ Logistics Volume 0.11 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Volume 0.31 m³ m³ Logistics Weight 8.2 kg kg Logistics Weight 14.2 kg kg Logistics Weight 14.8 kg kg Logistics Weight 20.5 kg kg Logistics Weight 50 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -264,11 +264,6 @@
           "key": "beige",
           "label": "Beige",
           "href": "/colors/beige/"
-        },
-        {
-          "key": "brown",
-          "label": "Brown",
-          "href": "/colors/brown/"
         }
       ],
       "materials": [
@@ -420,6 +415,66 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "9-3-kg",
+          "valueLabel": "9.3 kg",
+          "href": "/attributes/logistics/package-weight/9-3-kg/",
+          "valueType": "enum",
+          "numericValue": 9.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "15-5-kg",
+          "valueLabel": "15.5 kg",
+          "href": "/attributes/logistics/package-weight/15-5-kg/",
+          "valueType": "enum",
+          "numericValue": 15.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "18-5-kg",
+          "valueLabel": "18.5 kg",
+          "href": "/attributes/logistics/package-weight/18-5-kg/",
+          "valueType": "enum",
+          "numericValue": 18.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "24-9-kg",
+          "valueLabel": "24.9 kg",
+          "href": "/attributes/logistics/package-weight/24-9-kg/",
+          "valueType": "enum",
+          "numericValue": 24.9,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "52-8-kg",
+          "valueLabel": "52.8 kg",
+          "href": "/attributes/logistics/package-weight/52-8-kg/",
+          "valueType": "enum",
+          "numericValue": 52.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -506,18 +561,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "9-3-kg",
-          "valueLabel": "9.3 kg",
-          "href": "/attributes/logistics/weight/9-3-kg/",
-          "valueType": "enum",
-          "numericValue": 9.3,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "14-2-kg",
           "valueLabel": "14.2 kg",
           "href": "/attributes/logistics/weight/14-2-kg/",
@@ -542,30 +585,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "15-5-kg",
-          "valueLabel": "15.5 kg",
-          "href": "/attributes/logistics/weight/15-5-kg/",
-          "valueType": "enum",
-          "numericValue": 15.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "18-5-kg",
-          "valueLabel": "18.5 kg",
-          "href": "/attributes/logistics/weight/18-5-kg/",
-          "valueType": "enum",
-          "numericValue": 18.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "20-5-kg",
           "valueLabel": "20.5 kg",
           "href": "/attributes/logistics/weight/20-5-kg/",
@@ -578,35 +597,11 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "24-9-kg",
-          "valueLabel": "24.9 kg",
-          "href": "/attributes/logistics/weight/24-9-kg/",
-          "valueType": "enum",
-          "numericValue": 24.9,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "50-kg",
           "valueLabel": "50 kg",
           "href": "/attributes/logistics/weight/50-kg/",
           "valueType": "enum",
           "numericValue": 50,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "52-8-kg",
-          "valueLabel": "52.8 kg",
-          "href": "/attributes/logistics/weight/52-8-kg/",
-          "valueType": "enum",
-          "numericValue": 52.8,
           "unit": "kg"
         },
         {
@@ -637,7 +632,7 @@
     },
     "sortData": {
       "title": "Saarni",
-      "summary": "Outdoor dining table with aluminium frame and nonwood surface in a light Beige tone. Practical and easy to maintain.",
+      "summary": "Saarni outdoor dining tables combine aluminium frames with nonwood surfaces, with sizes and beige or brown tones to compare.",
       "variantCount": 5,
       "categoryLabel": "Outdoor Dining Tables",
       "collectionLabel": "Outdoor",

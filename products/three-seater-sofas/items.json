@@ -1,14 +1,86 @@
 [
   {
+    "name": "freedom",
+    "href": "/products/three-seater-sofas/freedom/",
+    "type": "dir",
+    "title": "Freedom",
+    "summary": "Freedom three-seater sofas offer a clean, contemporary look for living spaces, with a spacious profile and a white finish that suits many interiors.",
+    "primaryImageUrl": "/products/three-seater-sofas/freedom/198420_1.avif",
+    "sourceHref": "/products/three-seater-sofas/freedom/",
+    "filterData": {
+      "searchText": "Freedom Freedom three-seater sofas offer a clean, contemporary look for living spaces, with a spacious profile and a white finish that suits many interiors. Three-seater Sofas Freedom Living room 3-Seater Sofas Freedom White Fabric Metal Plywood Polyester",
+      "collections": [
+        {
+          "key": "living-room",
+          "label": "Living room",
+          "href": "/collections/living-room"
+        }
+      ],
+      "categories": [
+        {
+          "key": "three-seater-sofas",
+          "label": "3-Seater Sofas",
+          "href": "/products/three-seater-sofas/"
+        }
+      ],
+      "productFamilies": [
+        {
+          "key": "freedom",
+          "label": "Freedom",
+          "href": "/families/freedom/"
+        }
+      ],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
+      "materials": [
+        {
+          "key": "fabric",
+          "label": "Fabric",
+          "href": "/materials/fabric/"
+        },
+        {
+          "key": "metal",
+          "label": "Metal",
+          "href": "/materials/metal/"
+        },
+        {
+          "key": "plywood",
+          "label": "Plywood",
+          "href": "/materials/plywood/"
+        },
+        {
+          "key": "polyester",
+          "label": "Polyester",
+          "href": "/materials/polyester/"
+        }
+      ],
+      "specifications": [],
+      "attributes": []
+    },
+    "sortData": {
+      "title": "Freedom",
+      "summary": "Freedom three-seater sofas offer a clean, contemporary look for living spaces, with a spacious profile and a white finish that suits many interiors.",
+      "variantCount": 1,
+      "categoryLabel": "Three-seater Sofas",
+      "collectionLabel": "",
+      "productFamilyLabel": "Freedom"
+    }
+  },
+  {
     "name": "lugo",
     "href": "/products/three-seater-sofas/lugo/",
     "type": "dir",
     "title": "Lugo",
     "summary": "A modern 3-seater sofa with a durable wooden frame and easy-care fabric upholstery. Available in beige and green.",
-    "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_1.avif",
+    "primaryImageUrl": "/products/three-seater-sofas/lugo/210108_4.avif",
     "sourceHref": "/products/three-seater-sofas/lugo/",
     "filterData": {
-      "searchText": "Lugo A modern 3-seater sofa with a durable wooden frame and easy-care fabric upholstery. Available in beige and green. 3-Seater Sofas Lugo Living room 3-Seater Sofas Lugo Beige Green Foam Particle board Plastic Plywood Solid wood Configuration Leg height 0.6 cm cm Dimensions Depth 97 cm cm Dimensions Height 70 cm cm Dimensions Width 222 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.5 m³ m³ Logistics Weight 66 kg kg Logistics Weight 69.3 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 85 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Lugo A modern 3-seater sofa with a durable wooden frame and easy-care fabric upholstery. Available in beige and green. 3-Seater Sofas Lugo Living room 3-Seater Sofas Lugo Beige Green Foam Particle board Plastic Plywood Solid wood Configuration Leg height 0.6 cm cm Dimensions Depth 97 cm cm Dimensions Height 70 cm cm Dimensions Width 222 cm cm Logistics Package count 1 package package Logistics Package weight 69.3 kg kg Logistics Product count 1 product product Logistics Volume 1.5 m³ m³ Logistics Weight 66 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Armrest width 26 cm cm Seating Backrest height 27 cm cm Seating Seat depth 63 cm cm Seating Seat height 44 cm cm Seating Seat width 85 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -134,6 +206,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "69-3-kg",
+          "valueLabel": "69.3 kg",
+          "href": "/attributes/logistics/package-weight/69-3-kg/",
+          "valueType": "enum",
+          "numericValue": 69.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -165,18 +249,6 @@
           "href": "/attributes/logistics/weight/66-kg/",
           "valueType": "enum",
           "numericValue": 66,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "69-3-kg",
-          "valueLabel": "69.3 kg",
-          "href": "/attributes/logistics/weight/69-3-kg/",
-          "valueType": "enum",
-          "numericValue": 69.3,
           "unit": "kg"
         },
         {
@@ -328,10 +400,10 @@
     "type": "dir",
     "title": "Sulo",
     "summary": "A modern three-seater sofa in white corduroy with rounded armrests and a low backrest for relaxed seating.",
-    "primaryImageUrl": "/products/three-seater-sofas/sulo/202841_1.avif",
+    "primaryImageUrl": "/products/three-seater-sofas/sulo/202841_10.avif",
     "sourceHref": "/products/three-seater-sofas/sulo/",
     "filterData": {
-      "searchText": "Sulo A modern three-seater sofa in white corduroy with rounded armrests and a low backrest for relaxed seating. 3-Seater Sofas Sulo Living room 3-Seater Sofas Sulo White Fabric Feather Foam Dimensions Depth 90 cm cm Dimensions Height 75 cm cm Dimensions Width 230 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.32 m³ m³ Logistics Weight 50 kg kg Logistics Weight 60 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Sulo A modern three-seater sofa in white corduroy with rounded armrests and a low backrest for relaxed seating. 3-Seater Sofas Sulo Living room 3-Seater Sofas Sulo White Fabric Feather Foam Dimensions Depth 90 cm cm Dimensions Height 75 cm cm Dimensions Width 230 cm cm Logistics Package count 1 package package Logistics Package weight 60 kg kg Logistics Product count 1 product product Logistics Volume 1.32 m³ m³ Logistics Weight 50 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -430,6 +502,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "60-kg",
+          "valueLabel": "60 kg",
+          "href": "/attributes/logistics/package-weight/60-kg/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -461,18 +545,6 @@
           "href": "/attributes/logistics/weight/50-kg/",
           "valueType": "enum",
           "numericValue": 50,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "60-kg",
-          "valueLabel": "60 kg",
-          "href": "/attributes/logistics/weight/60-kg/",
-          "valueType": "enum",
-          "numericValue": 60,
           "unit": "kg"
         },
         {
@@ -516,10 +588,10 @@
     "type": "dir",
     "title": "Voyage",
     "summary": "A spacious and comfortable 3-seater sofa with a solid wood frame and soft foam and feather cushioning. Available in white and green fabric upholstery.",
-    "primaryImageUrl": "/products/three-seater-sofas/voyage/208782_1.avif",
+    "primaryImageUrl": "/products/three-seater-sofas/voyage/208782_10.avif",
     "sourceHref": "/products/three-seater-sofas/voyage/",
     "filterData": {
-      "searchText": "Voyage A spacious and comfortable 3-seater sofa with a solid wood frame and soft foam and feather cushioning. Available in white and green fabric upholstery. 3-Seater Sofas Voyage Living room 3-Seater Sofas Voyage Green White Feather Foam Plastic Plywood Solid wood Care Cleaning method Water wash Care Removable covers Yes Dimensions Depth 88 cm cm Dimensions Height 88 cm cm Dimensions Width 220 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Weight 50 kg kg Logistics Weight 60 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Voyage A spacious and comfortable 3-seater sofa with a solid wood frame and soft foam and feather cushioning. Available in white and green fabric upholstery. 3-Seater Sofas Voyage Living room 3-Seater Sofas Voyage Green White Feather Foam Plastic Plywood Solid wood Care Cleaning method Water wash Care Removable covers Yes Dimensions Depth 88 cm cm Dimensions Height 88 cm cm Dimensions Width 220 cm cm Logistics Package count 1 package package Logistics Package weight 60 kg kg Logistics Product count 1 product product Logistics Volume 0.59 m³ m³ Logistics Weight 50 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -657,6 +729,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "60-kg",
+          "valueLabel": "60 kg",
+          "href": "/attributes/logistics/package-weight/60-kg/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -688,18 +772,6 @@
           "href": "/attributes/logistics/weight/50-kg/",
           "valueType": "enum",
           "numericValue": 50,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "60-kg",
-          "valueLabel": "60 kg",
-          "href": "/attributes/logistics/weight/60-kg/",
-          "valueType": "enum",
-          "numericValue": 60,
           "unit": "kg"
         },
         {
@@ -755,7 +827,7 @@
     "type": "dir",
     "title": "Westcoast",
     "summary": "A modern and practical 3-seater sofa with soft polyester upholstery in Beige, brown, or grey. Designed for everyday comfort and easy maintenance.",
-    "primaryImageUrl": "/products/three-seater-sofas/westcoast/209110_1.avif",
+    "primaryImageUrl": "/products/three-seater-sofas/westcoast/209110_5.avif",
     "sourceHref": "/products/three-seater-sofas/westcoast/",
     "filterData": {
       "searchText": "Westcoast A modern and practical 3-seater sofa with soft polyester upholstery in Beige, brown, or grey. Designed for everyday comfort and easy maintenance. 3-Seater Sofas Westcoast Living room 3-Seater Sofas Westcoast Beige Brown Grey Metal Polyester Dimensions Depth 90 cm cm Dimensions Height 80 cm cm Dimensions Width 230 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.15 m³ m³ Logistics Weight 50 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",

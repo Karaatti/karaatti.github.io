@@ -1,5 +1,29 @@
 [
   {
+    "name": "meta",
+    "href": "/products/tv-stands/meta/",
+    "type": "dir",
+    "title": "Meta",
+    "schemaCategory": "Coffee Tables, Sideboards, Storage Cabinets and TV Stands",
+    "variantCount": 10
+  },
+  {
+    "name": "bacoli",
+    "href": "/products/shelves/bacoli/",
+    "type": "dir",
+    "title": "Bacoli",
+    "schemaCategory": "Dining Tables, Shelves, Sideboards and Storage Cabinets and 1 more",
+    "variantCount": 5
+  },
+  {
+    "name": "metz",
+    "href": "/products/coffee-tables/metz/",
+    "type": "dir",
+    "title": "Metz",
+    "schemaCategory": "Coffee Tables and Dining Tables",
+    "variantCount": 5
+  },
+  {
     "name": "aava",
     "href": "/products/chaise-sofas/aava/",
     "type": "dir",
@@ -14,14 +38,6 @@
     "title": "Mystery",
     "schemaCategory": "Shelves",
     "variantCount": 2
-  },
-  {
-    "name": "metz",
-    "href": "/products/dining-tables/metz/",
-    "type": "dir",
-    "title": "Metz",
-    "schemaCategory": "Dining Tables",
-    "variantCount": 1
   },
   {
     "name": "oak",

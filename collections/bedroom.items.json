@@ -4,10 +4,10 @@
     "href": "/products/adjustable-beds/",
     "type": "dir",
     "title": "Adjustable Beds",
-    "summary": "Adjustable beds for the bedroom collection.",
-    "primaryImageUrl": "/products/adjustable-beds/moon-bronze/moon_bronze_adjustable_bed_grey_1.avif",
+    "summary": "Adjustable beds that let you fine-tune support for reading, resting, and sleep.",
+    "primaryImageUrl": "/images/listing-thumbnails/8a8314a40b94ebd25862.avif",
     "filterData": {
-      "searchText": "Adjustable Beds Adjustable beds for the bedroom collection. Adjustable Beds Bedroom Bedroom Adjustable Beds Moon Bronze Moon Gold Moon Silver Beige Black Grey Fabric Metal Steel Wood Comfort Firmness Firm Comfort Firmness Medium firm Configuration Leg height 15 cm cm Dimensions Depth 200 cm cm Dimensions Height 43 cm cm Dimensions Height 47 cm cm Dimensions Height 58 cm cm Dimensions Inner height 32 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 105 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.6 m³ m³ Logistics Volume 0.7 m³ m³ Logistics Volume 0.8 m³ m³ Logistics Volume 0.52 m³ m³ Logistics Volume 0.63 m³ m³ Logistics Volume 0.73 m³ m³ Logistics Volume 0.82 m³ m³ Logistics Volume 0.84 m³ m³ Logistics Volume 0.88 m³ m³ Logistics Volume 0.92 m³ m³ Logistics Weight 30 kg kg Logistics Weight 48 kg kg Logistics Weight 50 kg kg Logistics Weight 52 kg kg Logistics Weight 54 kg kg Logistics Weight 56 kg kg Logistics Weight 57 kg kg Logistics Weight 60 kg kg Logistics Weight 62 kg kg Logistics Weight 63 kg kg Logistics Weight 64 kg kg Logistics Weight 68 kg kg Logistics Weight 75 kg kg Logistics Weight 80 kg kg Setup Assembly time 30 min min Support Zone count 1-zone Support Zone count 5-zone Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Motor warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Adjustable Beds Adjustable beds that let you fine-tune support for reading, resting, and sleep. Adjustable Beds Bedroom Bedroom Adjustable Beds Moon Bronze Moon Gold Moon Silver Beige Grey Fabric Metal Steel Wood Comfort Firmness Firm Comfort Firmness Medium firm Configuration Leg height 15 cm cm Dimensions Depth 200 cm cm Dimensions Height 43 cm cm Dimensions Height 47 cm cm Dimensions Height 58 cm cm Dimensions Inner height 32 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 105 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 30 kg kg Logistics Package weight 52 kg kg Logistics Package weight 56 kg kg Logistics Package weight 62 kg kg Logistics Package weight 64 kg kg Logistics Package weight 68 kg kg Logistics Package weight 80 kg kg Logistics Product count 1 product product Logistics Volume 0.6 m³ m³ Logistics Volume 0.7 m³ m³ Logistics Volume 0.8 m³ m³ Logistics Volume 0.52 m³ m³ Logistics Volume 0.63 m³ m³ Logistics Volume 0.73 m³ m³ Logistics Volume 0.82 m³ m³ Logistics Volume 0.84 m³ m³ Logistics Volume 0.88 m³ m³ Logistics Volume 0.92 m³ m³ Logistics Weight 48 kg kg Logistics Weight 50 kg kg Logistics Weight 54 kg kg Logistics Weight 57 kg kg Logistics Weight 60 kg kg Logistics Weight 62 kg kg Logistics Weight 63 kg kg Logistics Weight 75 kg kg Setup Assembly time 30 min min Support Zone count 1-zone Support Zone count 5-zone Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Motor warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -44,11 +44,6 @@
           "key": "beige",
           "label": "Beige",
           "href": "/colors/beige/"
-        },
-        {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
         },
         {
           "key": "grey",
@@ -251,6 +246,90 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/package-weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "52-kg",
+          "valueLabel": "52 kg",
+          "href": "/attributes/logistics/package-weight/52-kg/",
+          "valueType": "enum",
+          "numericValue": 52,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "56-kg",
+          "valueLabel": "56 kg",
+          "href": "/attributes/logistics/package-weight/56-kg/",
+          "valueType": "enum",
+          "numericValue": 56,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "62-kg",
+          "valueLabel": "62 kg",
+          "href": "/attributes/logistics/package-weight/62-kg/",
+          "valueType": "enum",
+          "numericValue": 62,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "64-kg",
+          "valueLabel": "64 kg",
+          "href": "/attributes/logistics/package-weight/64-kg/",
+          "valueType": "enum",
+          "numericValue": 64,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "68-kg",
+          "valueLabel": "68 kg",
+          "href": "/attributes/logistics/package-weight/68-kg/",
+          "valueType": "enum",
+          "numericValue": 68,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "80-kg",
+          "valueLabel": "80 kg",
+          "href": "/attributes/logistics/package-weight/80-kg/",
+          "valueType": "enum",
+          "numericValue": 80,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -385,18 +464,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "30-kg",
-          "valueLabel": "30 kg",
-          "href": "/attributes/logistics/weight/30-kg/",
-          "valueType": "enum",
-          "numericValue": 30,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "48-kg",
           "valueLabel": "48 kg",
           "href": "/attributes/logistics/weight/48-kg/",
@@ -421,35 +488,11 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "52-kg",
-          "valueLabel": "52 kg",
-          "href": "/attributes/logistics/weight/52-kg/",
-          "valueType": "enum",
-          "numericValue": 52,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "54-kg",
           "valueLabel": "54 kg",
           "href": "/attributes/logistics/weight/54-kg/",
           "valueType": "enum",
           "numericValue": 54,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "56-kg",
-          "valueLabel": "56 kg",
-          "href": "/attributes/logistics/weight/56-kg/",
-          "valueType": "enum",
-          "numericValue": 56,
           "unit": "kg"
         },
         {
@@ -505,47 +548,11 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "64-kg",
-          "valueLabel": "64 kg",
-          "href": "/attributes/logistics/weight/64-kg/",
-          "valueType": "enum",
-          "numericValue": 64,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "68-kg",
-          "valueLabel": "68 kg",
-          "href": "/attributes/logistics/weight/68-kg/",
-          "valueType": "enum",
-          "numericValue": 68,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "75-kg",
           "valueLabel": "75 kg",
           "href": "/attributes/logistics/weight/75-kg/",
           "valueType": "enum",
           "numericValue": 75,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "80-kg",
-          "valueLabel": "80 kg",
-          "href": "/attributes/logistics/weight/80-kg/",
-          "valueType": "enum",
-          "numericValue": 80,
           "unit": "kg"
         },
         {
@@ -672,7 +679,7 @@
     },
     "sortData": {
       "title": "Adjustable Beds",
-      "summary": "Adjustable beds for the bedroom collection.",
+      "summary": "Adjustable beds that let you fine-tune support for reading, resting, and sleep.",
       "variantCount": 12,
       "categoryLabel": "Adjustable Beds",
       "collectionLabel": "Bedroom",
@@ -684,10 +691,10 @@
     "href": "/products/continental-beds/",
     "type": "dir",
     "title": "Continental Beds",
-    "summary": "Continental beds for the bedroom collection.",
-    "primaryImageUrl": "/products/continental-beds/moon_bronze_silver_continental_bed_grey_1.avif",
+    "summary": "Layered continental beds designed for supportive comfort and an inviting bedroom.",
+    "primaryImageUrl": "/images/listing-thumbnails/a450018932b75aea8f90.avif",
     "filterData": {
-      "searchText": "Continental Beds Continental beds for the bedroom collection. Continental Beds Bedroom Bedroom Continental Beds Moon Bronze Moon Gold Moon Silver Beige Black Grey Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Comfort Firmness Medium firm Configuration Leg height 15 cm cm Dimensions Depth 200 cm cm Dimensions Depth 210 cm cm Dimensions Height 53 cm cm Dimensions Height 54 cm cm Dimensions Height 57 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package count 2 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Volume 0.1 m³ m³ Logistics Volume 0.02 m³ m³ Logistics Volume 0.04 m³ m³ Logistics Volume 0.06 m³ m³ Logistics Volume 0.8 m³ m³ Logistics Volume 0.16 m³ m³ Logistics Volume 0.18 m³ m³ Logistics Volume 0.36 m³ m³ Logistics Volume 0.37 m³ m³ Logistics Volume 0.38 m³ m³ Logistics Volume 0.42 m³ m³ Logistics Volume 0.43 m³ m³ Logistics Volume 0.45 m³ m³ Logistics Volume 0.49 m³ m³ Logistics Volume 0.51 m³ m³ Logistics Volume 0.54 m³ m³ Logistics Volume 0.59 m³ m³ Logistics Volume 0.62 m³ m³ Logistics Volume 0.63 m³ m³ Logistics Volume 0.81 m³ m³ Logistics Weight 1 kg kg Logistics Weight 1.8 kg kg Logistics Weight 3.2 kg kg Logistics Weight 3.4 kg kg Logistics Weight 17 kg kg Logistics Weight 20 kg kg Logistics Weight 22 kg kg Logistics Weight 23 kg kg Logistics Weight 24 kg kg Logistics Weight 25 kg kg Logistics Weight 27 kg kg Logistics Weight 29 kg kg Logistics Weight 32 kg kg Logistics Weight 36.5 kg kg Logistics Weight 38 kg kg Logistics Weight 50 kg kg Logistics Weight 52 kg kg Logistics Weight 53 kg kg Logistics Weight 54.5 kg kg Logistics Weight 57 kg kg Logistics Weight 59 kg kg Logistics Weight 63 kg kg Logistics Weight 63.2 kg kg Logistics Weight 65 kg kg Logistics Weight 69 kg kg Logistics Weight 71 kg kg Logistics Weight 73 kg kg Logistics Weight 79 kg kg Logistics Weight 80 kg kg Logistics Weight 87 kg kg Logistics Weight 89 kg kg Logistics Weight 91.2 kg kg Setup Assembly time 30 min min Setup Assembly time 90 min min Support Zone count 1-zone Support Zone count 5-zone Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Continental Beds Layered continental beds designed for supportive comfort and an inviting bedroom. Continental Beds Bedroom Bedroom Continental Beds Moon Bronze Moon Gold Moon Silver Beige Grey Fabric Foam Memory foam Metal Particle board Wood Comfort Firmness Firm Comfort Firmness Medium firm Configuration Leg height 15 cm cm Dimensions Depth 200 cm cm Dimensions Depth 210 cm cm Dimensions Height 53 cm cm Dimensions Height 54 cm cm Dimensions Height 57 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package count 2 package package Logistics Package weight 1 kg kg Logistics Package weight 1.8 kg kg Logistics Package weight 3.2 kg kg Logistics Package weight 3.4 kg kg Logistics Package weight 17 kg kg Logistics Package weight 20 kg kg Logistics Package weight 22 kg kg Logistics Package weight 23 kg kg Logistics Package weight 24 kg kg Logistics Package weight 25 kg kg Logistics Package weight 27 kg kg Logistics Package weight 29 kg kg Logistics Package weight 32 kg kg Logistics Package weight 36.5 kg kg Logistics Package weight 38 kg kg Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Volume 0.1 m³ m³ Logistics Volume 0.02 m³ m³ Logistics Volume 0.04 m³ m³ Logistics Volume 0.06 m³ m³ Logistics Volume 0.8 m³ m³ Logistics Volume 0.16 m³ m³ Logistics Volume 0.18 m³ m³ Logistics Volume 0.36 m³ m³ Logistics Volume 0.37 m³ m³ Logistics Volume 0.38 m³ m³ Logistics Volume 0.42 m³ m³ Logistics Volume 0.43 m³ m³ Logistics Volume 0.45 m³ m³ Logistics Volume 0.49 m³ m³ Logistics Volume 0.51 m³ m³ Logistics Volume 0.54 m³ m³ Logistics Volume 0.59 m³ m³ Logistics Volume 0.62 m³ m³ Logistics Volume 0.63 m³ m³ Logistics Volume 0.81 m³ m³ Logistics Weight 50 kg kg Logistics Weight 52 kg kg Logistics Weight 53 kg kg Logistics Weight 54.5 kg kg Logistics Weight 57 kg kg Logistics Weight 59 kg kg Logistics Weight 63 kg kg Logistics Weight 63.2 kg kg Logistics Weight 65 kg kg Logistics Weight 69 kg kg Logistics Weight 71 kg kg Logistics Weight 73 kg kg Logistics Weight 79 kg kg Logistics Weight 80 kg kg Logistics Weight 87 kg kg Logistics Weight 89 kg kg Logistics Weight 91.2 kg kg Setup Assembly time 30 min min Setup Assembly time 90 min min Support Zone count 1-zone Support Zone count 5-zone Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -724,11 +731,6 @@
           "key": "beige",
           "label": "Beige",
           "href": "/colors/beige/"
-        },
-        {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
         },
         {
           "key": "grey",
@@ -973,6 +975,186 @@
           "valueType": "enum",
           "numericValue": 2,
           "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "1-kg",
+          "valueLabel": "1 kg",
+          "href": "/attributes/logistics/package-weight/1-kg/",
+          "valueType": "enum",
+          "numericValue": 1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "1-8-kg",
+          "valueLabel": "1.8 kg",
+          "href": "/attributes/logistics/package-weight/1-8-kg/",
+          "valueType": "enum",
+          "numericValue": 1.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-2-kg",
+          "valueLabel": "3.2 kg",
+          "href": "/attributes/logistics/package-weight/3-2-kg/",
+          "valueType": "enum",
+          "numericValue": 3.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-4-kg",
+          "valueLabel": "3.4 kg",
+          "href": "/attributes/logistics/package-weight/3-4-kg/",
+          "valueType": "enum",
+          "numericValue": 3.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "22-kg",
+          "valueLabel": "22 kg",
+          "href": "/attributes/logistics/package-weight/22-kg/",
+          "valueType": "enum",
+          "numericValue": 22,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "23-kg",
+          "valueLabel": "23 kg",
+          "href": "/attributes/logistics/package-weight/23-kg/",
+          "valueType": "enum",
+          "numericValue": 23,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "24-kg",
+          "valueLabel": "24 kg",
+          "href": "/attributes/logistics/package-weight/24-kg/",
+          "valueType": "enum",
+          "numericValue": 24,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/package-weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/package-weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "32-kg",
+          "valueLabel": "32 kg",
+          "href": "/attributes/logistics/package-weight/32-kg/",
+          "valueType": "enum",
+          "numericValue": 32,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "36-5-kg",
+          "valueLabel": "36.5 kg",
+          "href": "/attributes/logistics/package-weight/36-5-kg/",
+          "valueType": "enum",
+          "numericValue": 36.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "38-kg",
+          "valueLabel": "38 kg",
+          "href": "/attributes/logistics/package-weight/38-kg/",
+          "valueType": "enum",
+          "numericValue": 38,
+          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1237,186 +1419,6 @@
           "valueType": "enum",
           "numericValue": 0.81,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "1-kg",
-          "valueLabel": "1 kg",
-          "href": "/attributes/logistics/weight/1-kg/",
-          "valueType": "enum",
-          "numericValue": 1,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "1-8-kg",
-          "valueLabel": "1.8 kg",
-          "href": "/attributes/logistics/weight/1-8-kg/",
-          "valueType": "enum",
-          "numericValue": 1.8,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "3-2-kg",
-          "valueLabel": "3.2 kg",
-          "href": "/attributes/logistics/weight/3-2-kg/",
-          "valueType": "enum",
-          "numericValue": 3.2,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "3-4-kg",
-          "valueLabel": "3.4 kg",
-          "href": "/attributes/logistics/weight/3-4-kg/",
-          "valueType": "enum",
-          "numericValue": 3.4,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "17-kg",
-          "valueLabel": "17 kg",
-          "href": "/attributes/logistics/weight/17-kg/",
-          "valueType": "enum",
-          "numericValue": 17,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "20-kg",
-          "valueLabel": "20 kg",
-          "href": "/attributes/logistics/weight/20-kg/",
-          "valueType": "enum",
-          "numericValue": 20,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "22-kg",
-          "valueLabel": "22 kg",
-          "href": "/attributes/logistics/weight/22-kg/",
-          "valueType": "enum",
-          "numericValue": 22,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "23-kg",
-          "valueLabel": "23 kg",
-          "href": "/attributes/logistics/weight/23-kg/",
-          "valueType": "enum",
-          "numericValue": 23,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "24-kg",
-          "valueLabel": "24 kg",
-          "href": "/attributes/logistics/weight/24-kg/",
-          "valueType": "enum",
-          "numericValue": 24,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "27-kg",
-          "valueLabel": "27 kg",
-          "href": "/attributes/logistics/weight/27-kg/",
-          "valueType": "enum",
-          "numericValue": 27,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "29-kg",
-          "valueLabel": "29 kg",
-          "href": "/attributes/logistics/weight/29-kg/",
-          "valueType": "enum",
-          "numericValue": 29,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "32-kg",
-          "valueLabel": "32 kg",
-          "href": "/attributes/logistics/weight/32-kg/",
-          "valueType": "enum",
-          "numericValue": 32,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "36-5-kg",
-          "valueLabel": "36.5 kg",
-          "href": "/attributes/logistics/weight/36-5-kg/",
-          "valueType": "enum",
-          "numericValue": 36.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "38-kg",
-          "valueLabel": "38 kg",
-          "href": "/attributes/logistics/weight/38-kg/",
-          "valueType": "enum",
-          "numericValue": 38,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -1758,8 +1760,8 @@
     },
     "sortData": {
       "title": "Continental Beds",
-      "summary": "Continental beds for the bedroom collection.",
-      "variantCount": 39,
+      "summary": "Layered continental beds designed for supportive comfort and an inviting bedroom.",
+      "variantCount": 40,
       "categoryLabel": "Continental Beds",
       "collectionLabel": "Bedroom",
       "productFamilyLabel": ""
@@ -1770,10 +1772,10 @@
     "href": "/products/divan-beds/",
     "type": "dir",
     "title": "Divan Beds",
-    "summary": "Divan beds for the bedroom collection.",
-    "primaryImageUrl": "/products/divan-beds/moon_bronze_silver_divan_bed_grey_2.avif",
+    "summary": "Space-conscious divan beds with supportive comfort and a clean, versatile look.",
+    "primaryImageUrl": "/images/listing-thumbnails/0e9a40cf276c957ab045.avif",
     "filterData": {
-      "searchText": "Divan Beds Divan beds for the bedroom collection. Divan Beds Bedroom Bedroom Divan Beds Moon Bronze Moon Gold Moon Silver Beige Black Grey Fabric Foam Memory foam Metal Wood Comfort Firmness Firm Comfort Firmness Medium firm Dimensions Depth 200 cm cm Dimensions Depth 210 cm cm Dimensions Height 46 cm cm Dimensions Height 50 cm cm Dimensions Height 56 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.4 m³ m³ Logistics Volume 0.41 m³ m³ Logistics Volume 0.43 m³ m³ Logistics Volume 0.46 m³ m³ Logistics Volume 0.56 m³ m³ Logistics Volume 0.57 m³ m³ Logistics Volume 0.59 m³ m³ Logistics Volume 0.61 m³ m³ Logistics Volume 0.64 m³ m³ Logistics Volume 0.66 m³ m³ Logistics Volume 0.69 m³ m³ Logistics Volume 0.83 m³ m³ Logistics Volume 0.97 m³ m³ Logistics Volume 0.98 m³ m³ Logistics Volume 1.01 m³ m³ Logistics Volume 1.47 m³ m³ Logistics Weight 20 kg kg Logistics Weight 21 kg kg Logistics Weight 22 kg kg Logistics Weight 23 kg kg Logistics Weight 25 kg kg Logistics Weight 27 kg kg Logistics Weight 28 kg kg Logistics Weight 29 kg kg Logistics Weight 30 kg kg Logistics Weight 31 kg kg Logistics Weight 32 kg kg Logistics Weight 33 kg kg Logistics Weight 35 kg kg Logistics Weight 37 kg kg Setup Assembly time 15 min min Support Zone count 5-zone Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Divan Beds Space-conscious divan beds with supportive comfort and a clean, versatile look. Divan Beds Bedroom Bedroom Divan Beds Moon Bronze Moon Gold Moon Silver Beige Grey Fabric Foam Memory foam Metal Wood Comfort Firmness Firm Comfort Firmness Medium firm Dimensions Depth 200 cm cm Dimensions Depth 210 cm cm Dimensions Height 46 cm cm Dimensions Height 50 cm cm Dimensions Height 56 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Included components Headboard included No Included components Topper included No Logistics Package count 1 package package Logistics Package weight 20 kg kg Logistics Package weight 22 kg kg Logistics Package weight 25 kg kg Logistics Package weight 29 kg kg Logistics Package weight 30 kg kg Logistics Package weight 31 kg kg Logistics Package weight 32 kg kg Logistics Package weight 33 kg kg Logistics Package weight 35 kg kg Logistics Package weight 37 kg kg Logistics Product count 1 product product Logistics Volume 0.4 m³ m³ Logistics Volume 0.41 m³ m³ Logistics Volume 0.43 m³ m³ Logistics Volume 0.46 m³ m³ Logistics Volume 0.56 m³ m³ Logistics Volume 0.57 m³ m³ Logistics Volume 0.59 m³ m³ Logistics Volume 0.61 m³ m³ Logistics Volume 0.64 m³ m³ Logistics Volume 0.66 m³ m³ Logistics Volume 0.69 m³ m³ Logistics Volume 0.83 m³ m³ Logistics Volume 0.97 m³ m³ Logistics Volume 0.98 m³ m³ Logistics Volume 1.01 m³ m³ Logistics Volume 1.47 m³ m³ Logistics Weight 21 kg kg Logistics Weight 23 kg kg Logistics Weight 25 kg kg Logistics Weight 27 kg kg Logistics Weight 28 kg kg Logistics Weight 29 kg kg Logistics Weight 30 kg kg Logistics Weight 31 kg kg Logistics Weight 32 kg kg Logistics Weight 33 kg kg Logistics Weight 35 kg kg Setup Assembly time 15 min min Support Zone count 5-zone Support Zone count 7-zone Warranty Frame warranty 4000 days days Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -1810,11 +1812,6 @@
           "key": "beige",
           "label": "Beige",
           "href": "/colors/beige/"
-        },
-        {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
         },
         {
           "key": "grey",
@@ -2018,6 +2015,126 @@
           "valueType": "enum",
           "numericValue": 1,
           "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "22-kg",
+          "valueLabel": "22 kg",
+          "href": "/attributes/logistics/package-weight/22-kg/",
+          "valueType": "enum",
+          "numericValue": 22,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/package-weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/package-weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "31-kg",
+          "valueLabel": "31 kg",
+          "href": "/attributes/logistics/package-weight/31-kg/",
+          "valueType": "enum",
+          "numericValue": 31,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "32-kg",
+          "valueLabel": "32 kg",
+          "href": "/attributes/logistics/package-weight/32-kg/",
+          "valueType": "enum",
+          "numericValue": 32,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "33-kg",
+          "valueLabel": "33 kg",
+          "href": "/attributes/logistics/package-weight/33-kg/",
+          "valueType": "enum",
+          "numericValue": 33,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "35-kg",
+          "valueLabel": "35 kg",
+          "href": "/attributes/logistics/package-weight/35-kg/",
+          "valueType": "enum",
+          "numericValue": 35,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "37-kg",
+          "valueLabel": "37 kg",
+          "href": "/attributes/logistics/package-weight/37-kg/",
+          "valueType": "enum",
+          "numericValue": 37,
+          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -2228,35 +2345,11 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "20-kg",
-          "valueLabel": "20 kg",
-          "href": "/attributes/logistics/weight/20-kg/",
-          "valueType": "enum",
-          "numericValue": 20,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "21-kg",
           "valueLabel": "21 kg",
           "href": "/attributes/logistics/weight/21-kg/",
           "valueType": "enum",
           "numericValue": 21,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "22-kg",
-          "valueLabel": "22 kg",
-          "href": "/attributes/logistics/weight/22-kg/",
-          "valueType": "enum",
-          "numericValue": 22,
           "unit": "kg"
         },
         {
@@ -2380,18 +2473,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "37-kg",
-          "valueLabel": "37 kg",
-          "href": "/attributes/logistics/weight/37-kg/",
-          "valueType": "enum",
-          "numericValue": 37,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -2503,7 +2584,7 @@
     },
     "sortData": {
       "title": "Divan Beds",
-      "summary": "Divan beds for the bedroom collection.",
+      "summary": "Space-conscious divan beds with supportive comfort and a clean, versatile look.",
       "variantCount": 27,
       "categoryLabel": "Divan Beds",
       "collectionLabel": "Bedroom",
@@ -2515,10 +2596,10 @@
     "href": "/products/bed-frames/",
     "type": "dir",
     "title": "Bed Frames",
-    "summary": "Bed frames for the bedroom collection.",
-    "primaryImageUrl": "/products/bed-frames/casa/209017_1.avif",
+    "summary": "Sturdy bed frames in versatile styles for a comfortable, well-finished bedroom.",
+    "primaryImageUrl": "/images/listing-thumbnails/9ca09fe308e25998e69b.avif",
     "filterData": {
-      "searchText": "Bed Frames Bed frames for the bedroom collection. Bed Frames Bedroom Bedroom Bed Frames Casa Moonlit Beige Fabric Wood Dimensions Depth 240 cm cm Dimensions Height 107 cm cm Dimensions Inner depth 200 cm cm Dimensions Inner height 36 cm cm Dimensions Inner width 160 cm cm Dimensions Inner width 180 cm cm Dimensions Width 184 cm cm Dimensions Width 204 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.32 m³ m³ Logistics Volume 0.38 m³ m³ Logistics Volume 0.64 m³ m³ Logistics Weight 30 kg kg Logistics Weight 35 kg kg Logistics Weight 39 kg kg Logistics Weight 50 kg kg Logistics Weight 53 kg kg Logistics Weight 55 kg kg Setup Assembly time 60 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Bed Frames Sturdy bed frames in versatile styles for a comfortable, well-finished bedroom. Bed Frames Bedroom Bedroom Bed Frames Casa Moonlit Beige Fabric Wood Dimensions Depth 240 cm cm Dimensions Height 107 cm cm Dimensions Inner depth 200 cm cm Dimensions Inner height 36 cm cm Dimensions Inner width 160 cm cm Dimensions Inner width 180 cm cm Dimensions Width 184 cm cm Dimensions Width 204 cm cm Logistics Package count 1 package package Logistics Package weight 30 kg kg Logistics Package weight 53 kg kg Logistics Package weight 55 kg kg Logistics Product count 1 product product Logistics Volume 0.32 m³ m³ Logistics Volume 0.38 m³ m³ Logistics Volume 0.64 m³ m³ Logistics Weight 35 kg kg Logistics Weight 39 kg kg Logistics Weight 50 kg kg Setup Assembly time 60 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2677,6 +2758,42 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/package-weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "53-kg",
+          "valueLabel": "53 kg",
+          "href": "/attributes/logistics/package-weight/53-kg/",
+          "valueType": "enum",
+          "numericValue": 53,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "55-kg",
+          "valueLabel": "55 kg",
+          "href": "/attributes/logistics/package-weight/55-kg/",
+          "valueType": "enum",
+          "numericValue": 55,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -2727,18 +2844,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "30-kg",
-          "valueLabel": "30 kg",
-          "href": "/attributes/logistics/weight/30-kg/",
-          "valueType": "enum",
-          "numericValue": 30,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "35-kg",
           "valueLabel": "35 kg",
           "href": "/attributes/logistics/weight/35-kg/",
@@ -2768,30 +2873,6 @@
           "href": "/attributes/logistics/weight/50-kg/",
           "valueType": "enum",
           "numericValue": 50,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "53-kg",
-          "valueLabel": "53 kg",
-          "href": "/attributes/logistics/weight/53-kg/",
-          "valueType": "enum",
-          "numericValue": 53,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "55-kg",
-          "valueLabel": "55 kg",
-          "href": "/attributes/logistics/weight/55-kg/",
-          "valueType": "enum",
-          "numericValue": 55,
           "unit": "kg"
         },
         {
@@ -2834,7 +2915,7 @@
     },
     "sortData": {
       "title": "Bed Frames",
-      "summary": "Bed frames for the bedroom collection.",
+      "summary": "Sturdy bed frames in versatile styles for a comfortable, well-finished bedroom.",
       "variantCount": 3,
       "categoryLabel": "Bed Frames",
       "collectionLabel": "Bedroom",
@@ -2846,10 +2927,10 @@
     "href": "/products/headboards/",
     "type": "dir",
     "title": "Headboards",
-    "summary": "Headboards for the bedroom collection.",
-    "primaryImageUrl": "/products/headboards/moon-bronze/moon_bronze_headboard_beige_1.avif",
+    "summary": "Headboards that add comfort, character, and a finished look to the bed.",
+    "primaryImageUrl": "/images/listing-thumbnails/532a78d2130b96de0274.avif",
     "filterData": {
-      "searchText": "Headboards Headboards for the bedroom collection. Headboards Bedroom Bedroom Headboards Moon Bronze Moon Gold Moon Silver Beige Black Grey Fabric Dimensions Depth 7 cm cm Dimensions Depth 11 cm cm Dimensions Height 115 cm cm Dimensions Height 120 cm cm Dimensions Height 130 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Volume 0.4 m³ m³ Logistics Volume 0.11 m³ m³ Logistics Volume 0.13 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Volume 0.17 m³ m³ Logistics Volume 0.19 m³ m³ Logistics Volume 0.21 m³ m³ Logistics Volume 0.24 m³ m³ Logistics Volume 0.26 m³ m³ Logistics Volume 0.27 m³ m³ Logistics Volume 0.28 m³ m³ Logistics Volume 0.32 m³ m³ Logistics Volume 0.34 m³ m³ Logistics Volume 0.35 m³ m³ Logistics Volume 0.37 m³ m³ Logistics Volume 0.41 m³ m³ Logistics Weight 9 kg kg Logistics Weight 10 kg kg Logistics Weight 13 kg kg Logistics Weight 13.5 kg kg Logistics Weight 15 kg kg Logistics Weight 16 kg kg Logistics Weight 17 kg kg Logistics Weight 17.5 kg kg Logistics Weight 18 kg kg Logistics Weight 18.5 kg kg Logistics Weight 19 kg kg Logistics Weight 19.7 kg kg Logistics Weight 19.8 kg kg Logistics Weight 20 kg kg Logistics Weight 20.3 kg kg Logistics Weight 21 kg kg Logistics Weight 21.5 kg kg Logistics Weight 22 kg kg Logistics Weight 22.5 kg kg Logistics Weight 23 kg kg Logistics Weight 24.5 kg kg Logistics Weight 25 kg kg Logistics Weight 25.5 kg kg Logistics Weight 28 kg kg Logistics Weight 30 kg kg Logistics Weight 31.5 kg kg Logistics Weight 35.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Headboards Headboards that add comfort, character, and a finished look to the bed. Headboards Bedroom Bedroom Headboards Moon Bronze Moon Gold Moon Silver Beige Grey Fabric Dimensions Depth 7 cm cm Dimensions Depth 11 cm cm Dimensions Height 115 cm cm Dimensions Height 120 cm cm Dimensions Height 130 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Included components Headboard included Yes Logistics Package count 1 package package Logistics Package weight 9 kg kg Logistics Package weight 10 kg kg Logistics Package weight 13 kg kg Logistics Package weight 13.5 kg kg Logistics Package weight 15 kg kg Logistics Package weight 17 kg kg Logistics Package weight 18 kg kg Logistics Package weight 19 kg kg Logistics Package weight 19.7 kg kg Logistics Package weight 19.8 kg kg Logistics Package weight 20 kg kg Logistics Package weight 20.3 kg kg Logistics Package weight 21 kg kg Logistics Package weight 22 kg kg Logistics Package weight 23 kg kg Logistics Package weight 25 kg kg Logistics Package weight 25.5 kg kg Logistics Package weight 30 kg kg Logistics Product count 1 product product Logistics Volume 0.2 m³ m³ Logistics Volume 0.4 m³ m³ Logistics Volume 0.11 m³ m³ Logistics Volume 0.13 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Volume 0.17 m³ m³ Logistics Volume 0.19 m³ m³ Logistics Volume 0.21 m³ m³ Logistics Volume 0.24 m³ m³ Logistics Volume 0.26 m³ m³ Logistics Volume 0.27 m³ m³ Logistics Volume 0.28 m³ m³ Logistics Volume 0.32 m³ m³ Logistics Volume 0.34 m³ m³ Logistics Volume 0.35 m³ m³ Logistics Volume 0.37 m³ m³ Logistics Volume 0.41 m³ m³ Logistics Weight 15 kg kg Logistics Weight 16 kg kg Logistics Weight 17 kg kg Logistics Weight 17.5 kg kg Logistics Weight 18 kg kg Logistics Weight 18.5 kg kg Logistics Weight 19.8 kg kg Logistics Weight 20 kg kg Logistics Weight 21 kg kg Logistics Weight 21.5 kg kg Logistics Weight 22 kg kg Logistics Weight 22.5 kg kg Logistics Weight 23 kg kg Logistics Weight 24.5 kg kg Logistics Weight 28 kg kg Logistics Weight 31.5 kg kg Logistics Weight 35.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -2886,11 +2967,6 @@
           "key": "beige",
           "label": "Beige",
           "href": "/colors/beige/"
-        },
-        {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
         },
         {
           "key": "grey",
@@ -3050,6 +3126,222 @@
           "valueType": "enum",
           "numericValue": 1,
           "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "9-kg",
+          "valueLabel": "9 kg",
+          "href": "/attributes/logistics/package-weight/9-kg/",
+          "valueType": "enum",
+          "numericValue": 9,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "10-kg",
+          "valueLabel": "10 kg",
+          "href": "/attributes/logistics/package-weight/10-kg/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "13-kg",
+          "valueLabel": "13 kg",
+          "href": "/attributes/logistics/package-weight/13-kg/",
+          "valueType": "enum",
+          "numericValue": 13,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "13-5-kg",
+          "valueLabel": "13.5 kg",
+          "href": "/attributes/logistics/package-weight/13-5-kg/",
+          "valueType": "enum",
+          "numericValue": 13.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "15-kg",
+          "valueLabel": "15 kg",
+          "href": "/attributes/logistics/package-weight/15-kg/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "18-kg",
+          "valueLabel": "18 kg",
+          "href": "/attributes/logistics/package-weight/18-kg/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "19-kg",
+          "valueLabel": "19 kg",
+          "href": "/attributes/logistics/package-weight/19-kg/",
+          "valueType": "enum",
+          "numericValue": 19,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "19-7-kg",
+          "valueLabel": "19.7 kg",
+          "href": "/attributes/logistics/package-weight/19-7-kg/",
+          "valueType": "enum",
+          "numericValue": 19.7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "19-8-kg",
+          "valueLabel": "19.8 kg",
+          "href": "/attributes/logistics/package-weight/19-8-kg/",
+          "valueType": "enum",
+          "numericValue": 19.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-3-kg",
+          "valueLabel": "20.3 kg",
+          "href": "/attributes/logistics/package-weight/20-3-kg/",
+          "valueType": "enum",
+          "numericValue": 20.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "21-kg",
+          "valueLabel": "21 kg",
+          "href": "/attributes/logistics/package-weight/21-kg/",
+          "valueType": "enum",
+          "numericValue": 21,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "22-kg",
+          "valueLabel": "22 kg",
+          "href": "/attributes/logistics/package-weight/22-kg/",
+          "valueType": "enum",
+          "numericValue": 22,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "23-kg",
+          "valueLabel": "23 kg",
+          "href": "/attributes/logistics/package-weight/23-kg/",
+          "valueType": "enum",
+          "numericValue": 23,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-5-kg",
+          "valueLabel": "25.5 kg",
+          "href": "/attributes/logistics/package-weight/25-5-kg/",
+          "valueType": "enum",
+          "numericValue": 25.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/package-weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -3272,54 +3564,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "9-kg",
-          "valueLabel": "9 kg",
-          "href": "/attributes/logistics/weight/9-kg/",
-          "valueType": "enum",
-          "numericValue": 9,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "10-kg",
-          "valueLabel": "10 kg",
-          "href": "/attributes/logistics/weight/10-kg/",
-          "valueType": "enum",
-          "numericValue": 10,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "13-kg",
-          "valueLabel": "13 kg",
-          "href": "/attributes/logistics/weight/13-kg/",
-          "valueType": "enum",
-          "numericValue": 13,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "13-5-kg",
-          "valueLabel": "13.5 kg",
-          "href": "/attributes/logistics/weight/13-5-kg/",
-          "valueType": "enum",
-          "numericValue": 13.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "15-kg",
           "valueLabel": "15 kg",
           "href": "/attributes/logistics/weight/15-kg/",
@@ -3392,30 +3636,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "19-kg",
-          "valueLabel": "19 kg",
-          "href": "/attributes/logistics/weight/19-kg/",
-          "valueType": "enum",
-          "numericValue": 19,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "19-7-kg",
-          "valueLabel": "19.7 kg",
-          "href": "/attributes/logistics/weight/19-7-kg/",
-          "valueType": "enum",
-          "numericValue": 19.7,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "19-8-kg",
           "valueLabel": "19.8 kg",
           "href": "/attributes/logistics/weight/19-8-kg/",
@@ -3433,18 +3653,6 @@
           "href": "/attributes/logistics/weight/20-kg/",
           "valueType": "enum",
           "numericValue": 20,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "20-3-kg",
-          "valueLabel": "20.3 kg",
-          "href": "/attributes/logistics/weight/20-3-kg/",
-          "valueType": "enum",
-          "numericValue": 20.3,
           "unit": "kg"
         },
         {
@@ -3524,47 +3732,11 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "25-kg",
-          "valueLabel": "25 kg",
-          "href": "/attributes/logistics/weight/25-kg/",
-          "valueType": "enum",
-          "numericValue": 25,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "25-5-kg",
-          "valueLabel": "25.5 kg",
-          "href": "/attributes/logistics/weight/25-5-kg/",
-          "valueType": "enum",
-          "numericValue": 25.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "28-kg",
           "valueLabel": "28 kg",
           "href": "/attributes/logistics/weight/28-kg/",
           "valueType": "enum",
           "numericValue": 28,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "30-kg",
-          "valueLabel": "30 kg",
-          "href": "/attributes/logistics/weight/30-kg/",
-          "valueType": "enum",
-          "numericValue": 30,
           "unit": "kg"
         },
         {
@@ -3631,7 +3803,7 @@
     },
     "sortData": {
       "title": "Headboards",
-      "summary": "Headboards for the bedroom collection.",
+      "summary": "Headboards that add comfort, character, and a finished look to the bed.",
       "variantCount": 45,
       "categoryLabel": "Headboards",
       "collectionLabel": "Bedroom",
@@ -3643,10 +3815,10 @@
     "href": "/products/mattresses/",
     "type": "dir",
     "title": "Mattresses",
-    "summary": "Mattresses for the bedroom collection.",
-    "primaryImageUrl": "/products/mattresses/moon-gold/moon_gold_mattress_beige_2.avif",
+    "summary": "Mattresses designed to support restful sleep across a range of comfort preferences.",
+    "primaryImageUrl": "/images/listing-thumbnails/2ef7cf1047e799cd8b3c.avif",
     "filterData": {
-      "searchText": "Mattresses Mattresses for the bedroom collection. Mattresses Bedroom Bedroom Mattresses Moon Gold Moon Silver Beige Black Grey Memory foam Metal Dimensions Depth 200 cm cm Dimensions Height 17 cm cm Dimensions Height 21 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Included components Topper included No Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.5 m³ m³ Logistics Volume 0.6 m³ m³ Logistics Volume 0.28 m³ m³ Logistics Volume 0.31 m³ m³ Logistics Volume 0.34 m³ m³ Logistics Volume 0.35 m³ m³ Logistics Volume 0.38 m³ m³ Logistics Volume 0.39 m³ m³ Logistics Volume 0.41 m³ m³ Logistics Volume 0.47 m³ m³ Logistics Volume 0.54 m³ m³ Logistics Volume 0.59 m³ m³ Logistics Volume 0.61 m³ m³ Logistics Volume 0.62 m³ m³ Logistics Volume 0.67 m³ m³ Logistics Volume 0.68 m³ m³ Logistics Volume 0.75 m³ m³ Logistics Volume 0.76 m³ m³ Logistics Volume 0.77 m³ m³ Logistics Volume 0.84 m³ m³ Logistics Volume 0.88 m³ m³ Logistics Weight 5 kg kg Logistics Weight 10 kg kg Logistics Weight 15 kg kg Logistics Weight 16 kg kg Logistics Weight 17 kg kg Logistics Weight 18 kg kg Logistics Weight 19 kg kg Logistics Weight 20 kg kg Logistics Weight 22 kg kg Logistics Weight 23 kg kg Logistics Weight 24 kg kg Logistics Weight 25 kg kg Logistics Weight 26 kg kg Logistics Weight 27 kg kg Logistics Weight 28 kg kg Logistics Weight 29 kg kg Logistics Weight 30 kg kg Logistics Weight 31 kg kg Logistics Weight 32 kg kg Logistics Weight 34.5 kg kg Logistics Weight 38 kg kg Logistics Weight 40.2 kg kg Setup Assembly time 0 min min Support Zone count 5-zone Support Zone count 7-zone Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
+      "searchText": "Mattresses Mattresses designed to support restful sleep across a range of comfort preferences. Mattresses Bedroom Bedroom Mattresses Moon Gold Moon Silver Beige Grey Memory foam Metal Dimensions Depth 200 cm cm Dimensions Height 17 cm cm Dimensions Height 21 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Included components Topper included No Logistics Package count 1 package package Logistics Package weight 5 kg kg Logistics Package weight 10 kg kg Logistics Package weight 15 kg kg Logistics Package weight 17 kg kg Logistics Package weight 18 kg kg Logistics Package weight 19 kg kg Logistics Package weight 20 kg kg Logistics Package weight 22 kg kg Logistics Package weight 24 kg kg Logistics Package weight 25 kg kg Logistics Package weight 26 kg kg Logistics Package weight 27 kg kg Logistics Package weight 28 kg kg Logistics Package weight 29 kg kg Logistics Package weight 30 kg kg Logistics Package weight 31 kg kg Logistics Package weight 32 kg kg Logistics Package weight 40.2 kg kg Logistics Product count 1 product product Logistics Volume 0.5 m³ m³ Logistics Volume 0.6 m³ m³ Logistics Volume 0.28 m³ m³ Logistics Volume 0.31 m³ m³ Logistics Volume 0.34 m³ m³ Logistics Volume 0.35 m³ m³ Logistics Volume 0.38 m³ m³ Logistics Volume 0.39 m³ m³ Logistics Volume 0.41 m³ m³ Logistics Volume 0.47 m³ m³ Logistics Volume 0.54 m³ m³ Logistics Volume 0.59 m³ m³ Logistics Volume 0.61 m³ m³ Logistics Volume 0.62 m³ m³ Logistics Volume 0.67 m³ m³ Logistics Volume 0.68 m³ m³ Logistics Volume 0.75 m³ m³ Logistics Volume 0.76 m³ m³ Logistics Volume 0.77 m³ m³ Logistics Volume 0.84 m³ m³ Logistics Volume 0.88 m³ m³ Logistics Weight 15 kg kg Logistics Weight 16 kg kg Logistics Weight 17 kg kg Logistics Weight 19 kg kg Logistics Weight 20 kg kg Logistics Weight 22 kg kg Logistics Weight 23 kg kg Logistics Weight 24 kg kg Logistics Weight 25 kg kg Logistics Weight 26 kg kg Logistics Weight 27 kg kg Logistics Weight 29 kg kg Logistics Weight 30 kg kg Logistics Weight 34.5 kg kg Logistics Weight 38 kg kg Setup Assembly time 0 min min Support Zone count 5-zone Support Zone count 7-zone Warranty Memory warranty 2000 days days Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days Warranty Spring warranty 4000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -3678,11 +3850,6 @@
           "key": "beige",
           "label": "Beige",
           "href": "/colors/beige/"
-        },
-        {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
         },
         {
           "key": "grey",
@@ -3847,6 +4014,222 @@
           "valueType": "enum",
           "numericValue": 1,
           "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "5-kg",
+          "valueLabel": "5 kg",
+          "href": "/attributes/logistics/package-weight/5-kg/",
+          "valueType": "enum",
+          "numericValue": 5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "10-kg",
+          "valueLabel": "10 kg",
+          "href": "/attributes/logistics/package-weight/10-kg/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "15-kg",
+          "valueLabel": "15 kg",
+          "href": "/attributes/logistics/package-weight/15-kg/",
+          "valueType": "enum",
+          "numericValue": 15,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "17-kg",
+          "valueLabel": "17 kg",
+          "href": "/attributes/logistics/package-weight/17-kg/",
+          "valueType": "enum",
+          "numericValue": 17,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "18-kg",
+          "valueLabel": "18 kg",
+          "href": "/attributes/logistics/package-weight/18-kg/",
+          "valueType": "enum",
+          "numericValue": 18,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "19-kg",
+          "valueLabel": "19 kg",
+          "href": "/attributes/logistics/package-weight/19-kg/",
+          "valueType": "enum",
+          "numericValue": 19,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "22-kg",
+          "valueLabel": "22 kg",
+          "href": "/attributes/logistics/package-weight/22-kg/",
+          "valueType": "enum",
+          "numericValue": 22,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "24-kg",
+          "valueLabel": "24 kg",
+          "href": "/attributes/logistics/package-weight/24-kg/",
+          "valueType": "enum",
+          "numericValue": 24,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "25-kg",
+          "valueLabel": "25 kg",
+          "href": "/attributes/logistics/package-weight/25-kg/",
+          "valueType": "enum",
+          "numericValue": 25,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "26-kg",
+          "valueLabel": "26 kg",
+          "href": "/attributes/logistics/package-weight/26-kg/",
+          "valueType": "enum",
+          "numericValue": 26,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "27-kg",
+          "valueLabel": "27 kg",
+          "href": "/attributes/logistics/package-weight/27-kg/",
+          "valueType": "enum",
+          "numericValue": 27,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "28-kg",
+          "valueLabel": "28 kg",
+          "href": "/attributes/logistics/package-weight/28-kg/",
+          "valueType": "enum",
+          "numericValue": 28,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "29-kg",
+          "valueLabel": "29 kg",
+          "href": "/attributes/logistics/package-weight/29-kg/",
+          "valueType": "enum",
+          "numericValue": 29,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/package-weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "31-kg",
+          "valueLabel": "31 kg",
+          "href": "/attributes/logistics/package-weight/31-kg/",
+          "valueType": "enum",
+          "numericValue": 31,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "32-kg",
+          "valueLabel": "32 kg",
+          "href": "/attributes/logistics/package-weight/32-kg/",
+          "valueType": "enum",
+          "numericValue": 32,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "40-2-kg",
+          "valueLabel": "40.2 kg",
+          "href": "/attributes/logistics/package-weight/40-2-kg/",
+          "valueType": "enum",
+          "numericValue": 40.2,
+          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -4117,30 +4500,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "5-kg",
-          "valueLabel": "5 kg",
-          "href": "/attributes/logistics/weight/5-kg/",
-          "valueType": "enum",
-          "numericValue": 5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "10-kg",
-          "valueLabel": "10 kg",
-          "href": "/attributes/logistics/weight/10-kg/",
-          "valueType": "enum",
-          "numericValue": 10,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "15-kg",
           "valueLabel": "15 kg",
           "href": "/attributes/logistics/weight/15-kg/",
@@ -4170,18 +4529,6 @@
           "href": "/attributes/logistics/weight/17-kg/",
           "valueType": "enum",
           "numericValue": 17,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "18-kg",
-          "valueLabel": "18 kg",
-          "href": "/attributes/logistics/weight/18-kg/",
-          "valueType": "enum",
-          "numericValue": 18,
           "unit": "kg"
         },
         {
@@ -4285,18 +4632,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "28-kg",
-          "valueLabel": "28 kg",
-          "href": "/attributes/logistics/weight/28-kg/",
-          "valueType": "enum",
-          "numericValue": 28,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "29-kg",
           "valueLabel": "29 kg",
           "href": "/attributes/logistics/weight/29-kg/",
@@ -4321,30 +4656,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "31-kg",
-          "valueLabel": "31 kg",
-          "href": "/attributes/logistics/weight/31-kg/",
-          "valueType": "enum",
-          "numericValue": 31,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "32-kg",
-          "valueLabel": "32 kg",
-          "href": "/attributes/logistics/weight/32-kg/",
-          "valueType": "enum",
-          "numericValue": 32,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "34-5-kg",
           "valueLabel": "34.5 kg",
           "href": "/attributes/logistics/weight/34-5-kg/",
@@ -4362,18 +4673,6 @@
           "href": "/attributes/logistics/weight/38-kg/",
           "valueType": "enum",
           "numericValue": 38,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "40-2-kg",
-          "valueLabel": "40.2 kg",
-          "href": "/attributes/logistics/weight/40-2-kg/",
-          "valueType": "enum",
-          "numericValue": 40.2,
           "unit": "kg"
         },
         {
@@ -4464,7 +4763,7 @@
     },
     "sortData": {
       "title": "Mattresses",
-      "summary": "Mattresses for the bedroom collection.",
+      "summary": "Mattresses designed to support restful sleep across a range of comfort preferences.",
       "variantCount": 35,
       "categoryLabel": "Mattresses",
       "collectionLabel": "Bedroom",
@@ -4476,10 +4775,10 @@
     "href": "/products/toppers/",
     "type": "dir",
     "title": "Toppers",
-    "summary": "Mattress toppers for the bedroom collection.",
-    "primaryImageUrl": "/products/toppers/moon-bronze/moon_bronze_topper_white_1.avif",
+    "summary": "Mattress toppers that add softness, support, and a fresh layer of comfort.",
+    "primaryImageUrl": "/images/listing-thumbnails/b98b7d8f06029c75855e.avif",
     "filterData": {
-      "searchText": "Toppers Mattress toppers for the bedroom collection. Toppers Bedroom Bedroom Toppers Moon Bronze Moon Gold Moon Silver Grey White Fabric Foam Latex Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Height 6 cm cm Dimensions Height 7 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 105 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.1 m³ m³ Logistics Volume 0.2 m³ m³ Logistics Volume 0.09 m³ m³ Logistics Volume 0.11 m³ m³ Logistics Volume 0.12 m³ m³ Logistics Volume 0.13 m³ m³ Logistics Volume 0.14 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Volume 0.16 m³ m³ Logistics Volume 0.18 m³ m³ Logistics Volume 0.19 m³ m³ Logistics Volume 0.21 m³ m³ Logistics Volume 0.22 m³ m³ Logistics Volume 0.23 m³ m³ Logistics Volume 0.25 m³ m³ Logistics Volume 0.27 m³ m³ Logistics Volume 0.28 m³ m³ Logistics Weight 3 kg kg Logistics Weight 3.2 kg kg Logistics Weight 3.5 kg kg Logistics Weight 3.6 kg kg Logistics Weight 3.7 kg kg Logistics Weight 3.8 kg kg Logistics Weight 4 kg kg Logistics Weight 4.3 kg kg Logistics Weight 4.5 kg kg Logistics Weight 4.7 kg kg Logistics Weight 5 kg kg Logistics Weight 5.3 kg kg Logistics Weight 5.4 kg kg Logistics Weight 5.5 kg kg Logistics Weight 5.6 kg kg Logistics Weight 5.7 kg kg Logistics Weight 6 kg kg Logistics Weight 6.5 kg kg Logistics Weight 6.7 kg kg Logistics Weight 7 kg kg Logistics Weight 7.5 kg kg Logistics Weight 7.6 kg kg Logistics Weight 8 kg kg Logistics Weight 8.5 kg kg Logistics Weight 9 kg kg Logistics Weight 9.5 kg kg Logistics Weight 9.8 kg kg Logistics Weight 10 kg kg Logistics Weight 10.5 kg kg Logistics Weight 10.6 kg kg Logistics Weight 10.9 kg kg Logistics Weight 11 kg kg Logistics Weight 11.3 kg kg Logistics Weight 12 kg kg Logistics Weight 12.2 kg kg Logistics Weight 13 kg kg Logistics Weight 14 kg kg Logistics Weight 15.5 kg kg Logistics Weight 20 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Toppers Mattress toppers that add softness, support, and a fresh layer of comfort. Toppers Bedroom Bedroom Toppers Moon Bronze Moon Gold Moon Silver White Fabric Foam Latex Memory foam Polyester Care Removable covers Yes Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Height 6 cm cm Dimensions Height 7 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 105 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 3 kg kg Logistics Package weight 3.2 kg kg Logistics Package weight 3.6 kg kg Logistics Package weight 3.7 kg kg Logistics Package weight 3.8 kg kg Logistics Package weight 4 kg kg Logistics Package weight 4.3 kg kg Logistics Package weight 4.7 kg kg Logistics Package weight 5 kg kg Logistics Package weight 5.3 kg kg Logistics Package weight 5.4 kg kg Logistics Package weight 5.6 kg kg Logistics Package weight 5.7 kg kg Logistics Package weight 6 kg kg Logistics Package weight 6.7 kg kg Logistics Package weight 7 kg kg Logistics Package weight 7.5 kg kg Logistics Package weight 7.6 kg kg Logistics Package weight 9.8 kg kg Logistics Package weight 10 kg kg Logistics Package weight 10.6 kg kg Logistics Package weight 10.9 kg kg Logistics Package weight 11.3 kg kg Logistics Package weight 12.2 kg kg Logistics Package weight 13 kg kg Logistics Package weight 20 kg kg Logistics Product count 1 product product Logistics Volume 0.1 m³ m³ Logistics Volume 0.2 m³ m³ Logistics Volume 0.09 m³ m³ Logistics Volume 0.11 m³ m³ Logistics Volume 0.12 m³ m³ Logistics Volume 0.13 m³ m³ Logistics Volume 0.14 m³ m³ Logistics Volume 0.15 m³ m³ Logistics Volume 0.16 m³ m³ Logistics Volume 0.18 m³ m³ Logistics Volume 0.19 m³ m³ Logistics Volume 0.21 m³ m³ Logistics Volume 0.22 m³ m³ Logistics Volume 0.23 m³ m³ Logistics Volume 0.25 m³ m³ Logistics Volume 0.27 m³ m³ Logistics Volume 0.28 m³ m³ Logistics Weight 3 kg kg Logistics Weight 3.5 kg kg Logistics Weight 4 kg kg Logistics Weight 4.5 kg kg Logistics Weight 5 kg kg Logistics Weight 5.5 kg kg Logistics Weight 6 kg kg Logistics Weight 6.5 kg kg Logistics Weight 7 kg kg Logistics Weight 7.5 kg kg Logistics Weight 8 kg kg Logistics Weight 8.5 kg kg Logistics Weight 9 kg kg Logistics Weight 9.5 kg kg Logistics Weight 10 kg kg Logistics Weight 10.5 kg kg Logistics Weight 11 kg kg Logistics Weight 12 kg kg Logistics Weight 14 kg kg Logistics Weight 15.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -4512,11 +4811,6 @@
         }
       ],
       "colors": [
-        {
-          "key": "grey",
-          "label": "Grey",
-          "href": "/colors/grey/"
-        },
         {
           "key": "white",
           "label": "White",
@@ -4719,6 +5013,318 @@
           "valueType": "enum",
           "numericValue": 1,
           "unit": "package"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-kg",
+          "valueLabel": "3 kg",
+          "href": "/attributes/logistics/package-weight/3-kg/",
+          "valueType": "enum",
+          "numericValue": 3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-2-kg",
+          "valueLabel": "3.2 kg",
+          "href": "/attributes/logistics/package-weight/3-2-kg/",
+          "valueType": "enum",
+          "numericValue": 3.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-6-kg",
+          "valueLabel": "3.6 kg",
+          "href": "/attributes/logistics/package-weight/3-6-kg/",
+          "valueType": "enum",
+          "numericValue": 3.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-7-kg",
+          "valueLabel": "3.7 kg",
+          "href": "/attributes/logistics/package-weight/3-7-kg/",
+          "valueType": "enum",
+          "numericValue": 3.7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "3-8-kg",
+          "valueLabel": "3.8 kg",
+          "href": "/attributes/logistics/package-weight/3-8-kg/",
+          "valueType": "enum",
+          "numericValue": 3.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "4-kg",
+          "valueLabel": "4 kg",
+          "href": "/attributes/logistics/package-weight/4-kg/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "4-3-kg",
+          "valueLabel": "4.3 kg",
+          "href": "/attributes/logistics/package-weight/4-3-kg/",
+          "valueType": "enum",
+          "numericValue": 4.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "4-7-kg",
+          "valueLabel": "4.7 kg",
+          "href": "/attributes/logistics/package-weight/4-7-kg/",
+          "valueType": "enum",
+          "numericValue": 4.7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "5-kg",
+          "valueLabel": "5 kg",
+          "href": "/attributes/logistics/package-weight/5-kg/",
+          "valueType": "enum",
+          "numericValue": 5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "5-3-kg",
+          "valueLabel": "5.3 kg",
+          "href": "/attributes/logistics/package-weight/5-3-kg/",
+          "valueType": "enum",
+          "numericValue": 5.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "5-4-kg",
+          "valueLabel": "5.4 kg",
+          "href": "/attributes/logistics/package-weight/5-4-kg/",
+          "valueType": "enum",
+          "numericValue": 5.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "5-6-kg",
+          "valueLabel": "5.6 kg",
+          "href": "/attributes/logistics/package-weight/5-6-kg/",
+          "valueType": "enum",
+          "numericValue": 5.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "5-7-kg",
+          "valueLabel": "5.7 kg",
+          "href": "/attributes/logistics/package-weight/5-7-kg/",
+          "valueType": "enum",
+          "numericValue": 5.7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "6-kg",
+          "valueLabel": "6 kg",
+          "href": "/attributes/logistics/package-weight/6-kg/",
+          "valueType": "enum",
+          "numericValue": 6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "6-7-kg",
+          "valueLabel": "6.7 kg",
+          "href": "/attributes/logistics/package-weight/6-7-kg/",
+          "valueType": "enum",
+          "numericValue": 6.7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "7-kg",
+          "valueLabel": "7 kg",
+          "href": "/attributes/logistics/package-weight/7-kg/",
+          "valueType": "enum",
+          "numericValue": 7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "7-5-kg",
+          "valueLabel": "7.5 kg",
+          "href": "/attributes/logistics/package-weight/7-5-kg/",
+          "valueType": "enum",
+          "numericValue": 7.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "7-6-kg",
+          "valueLabel": "7.6 kg",
+          "href": "/attributes/logistics/package-weight/7-6-kg/",
+          "valueType": "enum",
+          "numericValue": 7.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "9-8-kg",
+          "valueLabel": "9.8 kg",
+          "href": "/attributes/logistics/package-weight/9-8-kg/",
+          "valueType": "enum",
+          "numericValue": 9.8,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "10-kg",
+          "valueLabel": "10 kg",
+          "href": "/attributes/logistics/package-weight/10-kg/",
+          "valueType": "enum",
+          "numericValue": 10,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "10-6-kg",
+          "valueLabel": "10.6 kg",
+          "href": "/attributes/logistics/package-weight/10-6-kg/",
+          "valueType": "enum",
+          "numericValue": 10.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "10-9-kg",
+          "valueLabel": "10.9 kg",
+          "href": "/attributes/logistics/package-weight/10-9-kg/",
+          "valueType": "enum",
+          "numericValue": 10.9,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "11-3-kg",
+          "valueLabel": "11.3 kg",
+          "href": "/attributes/logistics/package-weight/11-3-kg/",
+          "valueType": "enum",
+          "numericValue": 11.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "12-2-kg",
+          "valueLabel": "12.2 kg",
+          "href": "/attributes/logistics/package-weight/12-2-kg/",
+          "valueType": "enum",
+          "numericValue": 12.2,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "13-kg",
+          "valueLabel": "13 kg",
+          "href": "/attributes/logistics/package-weight/13-kg/",
+          "valueType": "enum",
+          "numericValue": 13,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -4953,59 +5559,11 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "3-2-kg",
-          "valueLabel": "3.2 kg",
-          "href": "/attributes/logistics/weight/3-2-kg/",
-          "valueType": "enum",
-          "numericValue": 3.2,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "3-5-kg",
           "valueLabel": "3.5 kg",
           "href": "/attributes/logistics/weight/3-5-kg/",
           "valueType": "enum",
           "numericValue": 3.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "3-6-kg",
-          "valueLabel": "3.6 kg",
-          "href": "/attributes/logistics/weight/3-6-kg/",
-          "valueType": "enum",
-          "numericValue": 3.6,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "3-7-kg",
-          "valueLabel": "3.7 kg",
-          "href": "/attributes/logistics/weight/3-7-kg/",
-          "valueType": "enum",
-          "numericValue": 3.7,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "3-8-kg",
-          "valueLabel": "3.8 kg",
-          "href": "/attributes/logistics/weight/3-8-kg/",
-          "valueType": "enum",
-          "numericValue": 3.8,
           "unit": "kg"
         },
         {
@@ -5025,35 +5583,11 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "4-3-kg",
-          "valueLabel": "4.3 kg",
-          "href": "/attributes/logistics/weight/4-3-kg/",
-          "valueType": "enum",
-          "numericValue": 4.3,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "4-5-kg",
           "valueLabel": "4.5 kg",
           "href": "/attributes/logistics/weight/4-5-kg/",
           "valueType": "enum",
           "numericValue": 4.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "4-7-kg",
-          "valueLabel": "4.7 kg",
-          "href": "/attributes/logistics/weight/4-7-kg/",
-          "valueType": "enum",
-          "numericValue": 4.7,
           "unit": "kg"
         },
         {
@@ -5073,59 +5607,11 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "5-3-kg",
-          "valueLabel": "5.3 kg",
-          "href": "/attributes/logistics/weight/5-3-kg/",
-          "valueType": "enum",
-          "numericValue": 5.3,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "5-4-kg",
-          "valueLabel": "5.4 kg",
-          "href": "/attributes/logistics/weight/5-4-kg/",
-          "valueType": "enum",
-          "numericValue": 5.4,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "5-5-kg",
           "valueLabel": "5.5 kg",
           "href": "/attributes/logistics/weight/5-5-kg/",
           "valueType": "enum",
           "numericValue": 5.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "5-6-kg",
-          "valueLabel": "5.6 kg",
-          "href": "/attributes/logistics/weight/5-6-kg/",
-          "valueType": "enum",
-          "numericValue": 5.6,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "5-7-kg",
-          "valueLabel": "5.7 kg",
-          "href": "/attributes/logistics/weight/5-7-kg/",
-          "valueType": "enum",
-          "numericValue": 5.7,
           "unit": "kg"
         },
         {
@@ -5157,18 +5643,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "6-7-kg",
-          "valueLabel": "6.7 kg",
-          "href": "/attributes/logistics/weight/6-7-kg/",
-          "valueType": "enum",
-          "numericValue": 6.7,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "7-kg",
           "valueLabel": "7 kg",
           "href": "/attributes/logistics/weight/7-kg/",
@@ -5186,18 +5660,6 @@
           "href": "/attributes/logistics/weight/7-5-kg/",
           "valueType": "enum",
           "numericValue": 7.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "7-6-kg",
-          "valueLabel": "7.6 kg",
-          "href": "/attributes/logistics/weight/7-6-kg/",
-          "valueType": "enum",
-          "numericValue": 7.6,
           "unit": "kg"
         },
         {
@@ -5253,18 +5715,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "9-8-kg",
-          "valueLabel": "9.8 kg",
-          "href": "/attributes/logistics/weight/9-8-kg/",
-          "valueType": "enum",
-          "numericValue": 9.8,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "10-kg",
           "valueLabel": "10 kg",
           "href": "/attributes/logistics/weight/10-kg/",
@@ -5289,30 +5739,6 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "10-6-kg",
-          "valueLabel": "10.6 kg",
-          "href": "/attributes/logistics/weight/10-6-kg/",
-          "valueType": "enum",
-          "numericValue": 10.6,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "10-9-kg",
-          "valueLabel": "10.9 kg",
-          "href": "/attributes/logistics/weight/10-9-kg/",
-          "valueType": "enum",
-          "numericValue": 10.9,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "11-kg",
           "valueLabel": "11 kg",
           "href": "/attributes/logistics/weight/11-kg/",
@@ -5325,47 +5751,11 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "11-3-kg",
-          "valueLabel": "11.3 kg",
-          "href": "/attributes/logistics/weight/11-3-kg/",
-          "valueType": "enum",
-          "numericValue": 11.3,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "12-kg",
           "valueLabel": "12 kg",
           "href": "/attributes/logistics/weight/12-kg/",
           "valueType": "enum",
           "numericValue": 12,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "12-2-kg",
-          "valueLabel": "12.2 kg",
-          "href": "/attributes/logistics/weight/12-2-kg/",
-          "valueType": "enum",
-          "numericValue": 12.2,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "13-kg",
-          "valueLabel": "13 kg",
-          "href": "/attributes/logistics/weight/13-kg/",
-          "valueType": "enum",
-          "numericValue": 13,
           "unit": "kg"
         },
         {
@@ -5390,18 +5780,6 @@
           "href": "/attributes/logistics/weight/15-5-kg/",
           "valueType": "enum",
           "numericValue": 15.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "20-kg",
-          "valueLabel": "20 kg",
-          "href": "/attributes/logistics/weight/20-kg/",
-          "valueType": "enum",
-          "numericValue": 20,
           "unit": "kg"
         },
         {
@@ -5444,7 +5822,7 @@
     },
     "sortData": {
       "title": "Toppers",
-      "summary": "Mattress toppers for the bedroom collection.",
+      "summary": "Mattress toppers that add softness, support, and a fresh layer of comfort.",
       "variantCount": 39,
       "categoryLabel": "Toppers",
       "collectionLabel": "Bedroom",
@@ -5456,10 +5834,10 @@
     "href": "/products/pillows/",
     "type": "dir",
     "title": "Pillows",
-    "summary": "Pillows for the bedroom collection.",
-    "primaryImageUrl": "/products/pillows/nest-living-gold/201094_1.jpg",
+    "summary": "Pillows for comfortable support through the night.",
+    "primaryImageUrl": "/images/listing-thumbnails/22dc7aa73fb9a31d5228.avif",
     "filterData": {
-      "searchText": "Pillows Pillows for the bedroom collection. Pillows Bedroom Bedroom Pillows Nest & Living Gold Nest & Living Silver Staycation Staycomfort Staycool Cotton Feather Mikrofiber Polyester Care Cleaning method Wash 60°C Care Cleaning method Water wash Dimensions Depth 50 cm cm Dimensions Depth 52 cm cm Dimensions Depth 60 cm cm Dimensions Height 1 cm cm Dimensions Height 6 cm cm Dimensions Height 14 cm cm Dimensions Height 15 cm cm Dimensions Height 16 cm cm Dimensions Height 18 cm cm Dimensions Height 20 cm cm Dimensions Width 60 cm cm Dimensions Width 62 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Product count 5 product product Logistics Product count 8 product product Logistics Product count 10 product product Logistics Product count 20 product product Logistics Volume 0.04 m³ m³ Logistics Volume 0.22 m³ m³ Logistics Volume 0.23 m³ m³ Logistics Weight 1 kg kg Logistics Weight 4 kg kg Logistics Weight 6.5 kg kg Logistics Weight 7.3 kg kg Logistics Weight 8.3 kg kg Logistics Weight 9.4 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Pillows Pillows for comfortable support through the night. Pillows Bedroom Bedroom Pillows Nest & Living Gold Nest & Living Silver Night Staycation Staycomfort Staycool Stayergo Classic Stayergo Shape Wooly White Cotton Feather Mikrofiber Polyester Wool Care Cleaning method Wash 60°C Care Cleaning method Water wash Dimensions Depth 50 cm cm Dimensions Depth 52 cm cm Dimensions Depth 60 cm cm Dimensions Height 1 cm cm Dimensions Height 6 cm cm Dimensions Height 14 cm cm Dimensions Height 15 cm cm Dimensions Height 16 cm cm Dimensions Height 18 cm cm Dimensions Height 20 cm cm Dimensions Width 60 cm cm Dimensions Width 62 cm cm Dimensions Width 80 cm cm Logistics Package count 1 package package Logistics Package weight 4 kg kg Logistics Package weight 6.5 kg kg Logistics Package weight 7.3 kg kg Logistics Package weight 8.3 kg kg Logistics Package weight 9.4 kg kg Logistics Product count 5 product product Logistics Product count 8 product product Logistics Product count 10 product product Logistics Product count 20 product product Logistics Volume 0.04 m³ m³ Logistics Volume 0.22 m³ m³ Logistics Volume 0.23 m³ m³ Logistics Weight 1 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -5486,6 +5864,11 @@
           "href": "/families/nest-living-silver/"
         },
         {
+          "key": "night",
+          "label": "Night",
+          "href": "/families/night/"
+        },
+        {
           "key": "staycation",
           "label": "Staycation",
           "href": "/families/staycation/"
@@ -5499,9 +5882,30 @@
           "key": "staycool",
           "label": "Staycool",
           "href": "/families/staycool/"
+        },
+        {
+          "key": "stayergo-classic",
+          "label": "Stayergo Classic",
+          "href": "/families/stayergo-classic/"
+        },
+        {
+          "key": "stayergo-shape",
+          "label": "Stayergo Shape",
+          "href": "/families/stayergo-shape/"
+        },
+        {
+          "key": "wooly",
+          "label": "Wooly",
+          "href": "/families/wooly/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -5522,6 +5926,11 @@
           "key": "polyester",
           "label": "Polyester",
           "href": "/materials/polyester/"
+        },
+        {
+          "key": "wool",
+          "label": "Wool",
+          "href": "/materials/wool/"
         }
       ],
       "specifications": [],
@@ -5721,6 +6130,66 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "4-kg",
+          "valueLabel": "4 kg",
+          "href": "/attributes/logistics/package-weight/4-kg/",
+          "valueType": "enum",
+          "numericValue": 4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "6-5-kg",
+          "valueLabel": "6.5 kg",
+          "href": "/attributes/logistics/package-weight/6-5-kg/",
+          "valueType": "enum",
+          "numericValue": 6.5,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "7-3-kg",
+          "valueLabel": "7.3 kg",
+          "href": "/attributes/logistics/package-weight/7-3-kg/",
+          "valueType": "enum",
+          "numericValue": 7.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "8-3-kg",
+          "valueLabel": "8.3 kg",
+          "href": "/attributes/logistics/package-weight/8-3-kg/",
+          "valueType": "enum",
+          "numericValue": 8.3,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "9-4-kg",
+          "valueLabel": "9.4 kg",
+          "href": "/attributes/logistics/package-weight/9-4-kg/",
+          "valueType": "enum",
+          "numericValue": 9.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "5-product",
@@ -5815,66 +6284,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "4-kg",
-          "valueLabel": "4 kg",
-          "href": "/attributes/logistics/weight/4-kg/",
-          "valueType": "enum",
-          "numericValue": 4,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "6-5-kg",
-          "valueLabel": "6.5 kg",
-          "href": "/attributes/logistics/weight/6-5-kg/",
-          "valueType": "enum",
-          "numericValue": 6.5,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "7-3-kg",
-          "valueLabel": "7.3 kg",
-          "href": "/attributes/logistics/weight/7-3-kg/",
-          "valueType": "enum",
-          "numericValue": 7.3,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "8-3-kg",
-          "valueLabel": "8.3 kg",
-          "href": "/attributes/logistics/weight/8-3-kg/",
-          "valueType": "enum",
-          "numericValue": 8.3,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "9-4-kg",
-          "valueLabel": "9.4 kg",
-          "href": "/attributes/logistics/weight/9-4-kg/",
-          "valueType": "enum",
-          "numericValue": 9.4,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -5914,8 +6323,8 @@
     },
     "sortData": {
       "title": "Pillows",
-      "summary": "Pillows for the bedroom collection.",
-      "variantCount": 9,
+      "summary": "Pillows for comfortable support through the night.",
+      "variantCount": 14,
       "categoryLabel": "Pillows",
       "collectionLabel": "Bedroom",
       "productFamilyLabel": ""
@@ -5926,10 +6335,10 @@
     "href": "/products/duvets/",
     "type": "dir",
     "title": "Duvets",
-    "summary": "Duvets for the bedroom collection.",
-    "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+    "summary": "Duvets for cosy, comfortable sleep throughout the seasons.",
+    "primaryImageUrl": "/images/listing-thumbnails/283115bc139f9ab1308a.avif",
     "filterData": {
-      "searchText": "Duvets Duvets for the bedroom collection. Duvets Bedroom Bedroom Duvets Nest & Living Gold Nest & Living Silver Staycool Cotton Polyester Care Cleaning method Wash 60°C Care Cleaning method Water wash Dimensions Depth 150 cm cm Dimensions Depth 200 cm cm Dimensions Height 2 cm cm Dimensions Height 3 cm cm Dimensions Height 4 cm cm Dimensions Height 5 cm cm Dimensions Width 150 cm cm Dimensions Width 200 cm cm Dimensions Width 230 cm cm Logistics Package count 1 package package Logistics Product count 8 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1.3 kg kg Logistics Weight 1.5 kg kg Logistics Weight 2.5 kg kg Logistics Weight 13.1 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Duvets Duvets for cosy, comfortable sleep throughout the seasons. Duvets Bedroom Bedroom Duvets Nest & Living Gold Nest & Living Silver Staycation Staycool Wooly White Cotton Polyester Wool Care Cleaning method Wash 60°C Care Cleaning method Water wash Dimensions Depth 150 cm cm Dimensions Depth 200 cm cm Dimensions Height 2 cm cm Dimensions Height 3 cm cm Dimensions Height 4 cm cm Dimensions Height 5 cm cm Dimensions Width 150 cm cm Dimensions Width 200 cm cm Dimensions Width 230 cm cm Logistics Package count 1 package package Logistics Package weight 13.1 kg kg Logistics Product count 8 product product Logistics Volume 0.23 m³ m³ Logistics Weight 1.3 kg kg Logistics Weight 1.5 kg kg Logistics Weight 2.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -5956,12 +6365,28 @@
           "href": "/families/nest-living-silver/"
         },
         {
+          "key": "staycation",
+          "label": "Staycation",
+          "href": "/families/staycation/"
+        },
+        {
           "key": "staycool",
           "label": "Staycool",
           "href": "/families/staycool/"
+        },
+        {
+          "key": "wooly",
+          "label": "Wooly",
+          "href": "/families/wooly/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -5972,6 +6397,11 @@
           "key": "polyester",
           "label": "Polyester",
           "href": "/materials/polyester/"
+        },
+        {
+          "key": "wool",
+          "label": "Wool",
+          "href": "/materials/wool/"
         }
       ],
       "specifications": [],
@@ -6123,6 +6553,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "13-1-kg",
+          "valueLabel": "13.1 kg",
+          "href": "/attributes/logistics/package-weight/13-1-kg/",
+          "valueType": "enum",
+          "numericValue": 13.1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "8-product",
@@ -6181,18 +6623,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "13-1-kg",
-          "valueLabel": "13.1 kg",
-          "href": "/attributes/logistics/weight/13-1-kg/",
-          "valueType": "enum",
-          "numericValue": 13.1,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -6232,8 +6662,8 @@
     },
     "sortData": {
       "title": "Duvets",
-      "summary": "Duvets for the bedroom collection.",
-      "variantCount": 4,
+      "summary": "Duvets for cosy, comfortable sleep throughout the seasons.",
+      "variantCount": 7,
       "categoryLabel": "Duvets",
       "collectionLabel": "Bedroom",
       "productFamilyLabel": ""
@@ -6244,10 +6674,10 @@
     "href": "/products/duvet-pillow-sets/",
     "type": "dir",
     "title": "Duvet & Pillow Sets",
-    "summary": "Coordinated duvet and pillow sets for the bedroom collection.",
-    "primaryImageUrl": "/products/duvet-pillow-sets/nest-living-basic/201089_1.jpg",
+    "summary": "Coordinated duvet and pillow sets for an easy, inviting bedroom refresh.",
+    "primaryImageUrl": "/images/listing-thumbnails/02a1318960a7121169ec.avif",
     "filterData": {
-      "searchText": "Duvet & Pillow Sets Coordinated duvet and pillow sets for the bedroom collection. Duvet & Pillow Sets Bedroom Bedroom Duvet & Pillow Sets Nest & Living Basic Nest & Living Bronze Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 3 cm cm Dimensions Pillow depth 50 cm cm Dimensions Pillow height 13 cm cm Dimensions Pillow height 15 cm cm Dimensions Pillow width 60 cm cm Dimensions Width 150 cm cm Logistics Weight 1.1 kg kg Logistics Weight 2 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Duvet & Pillow Sets Coordinated duvet and pillow sets for an easy, inviting bedroom refresh. Duvet & Pillow Sets Bedroom Bedroom Duvet & Pillow Sets Nest & Living Basic Nest & Living Bronze White Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 3 cm cm Dimensions Pillow depth 50 cm cm Dimensions Pillow height 13 cm cm Dimensions Pillow height 15 cm cm Dimensions Pillow width 60 cm cm Dimensions Width 150 cm cm Logistics Weight 1.1 kg kg Logistics Weight 2 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -6274,7 +6704,13 @@
           "href": "/families/nest-living-bronze/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -6449,7 +6885,7 @@
     },
     "sortData": {
       "title": "Duvet & Pillow Sets",
-      "summary": "Coordinated duvet and pillow sets for the bedroom collection.",
+      "summary": "Coordinated duvet and pillow sets for an easy, inviting bedroom refresh.",
       "variantCount": 2,
       "categoryLabel": "Duvet & Pillow Sets",
       "collectionLabel": "Bedroom",
@@ -6462,9 +6898,9 @@
     "type": "dir",
     "title": "Mattress Protectors",
     "summary": "Mattress protectors and similar bedroom accessories.",
-    "primaryImageUrl": "/products/mattress-protectors/nest-living/nest_living_mattress_protector_white_1.avif",
+    "primaryImageUrl": "/images/listing-thumbnails/ac7d00d75de8116f1993.avif",
     "filterData": {
-      "searchText": "Mattress Protectors Mattress protectors and similar bedroom accessories. Mattress Protectors Bedroom Bedroom Mattress Protectors Nest & Living Staycool Staygentle White Cotton Polyester Tencel Care Cleaning method Wash 60°C Dimensions Depth 80 cm cm Dimensions Depth 160 cm cm Dimensions Depth 180 cm cm Dimensions Depth 200 cm cm Dimensions Height 1 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 6 product product Logistics Product count 7 product product Logistics Product count 10 product product Logistics Volume 0.19 m³ m³ Logistics Volume 0.23 m³ m³ Logistics Weight 1 kg kg Logistics Weight 1.2 kg kg Logistics Weight 1.4 kg kg Logistics Weight 1.5 kg kg Logistics Weight 2 kg kg Logistics Weight 7.1 kg kg Logistics Weight 8.9 kg kg Logistics Weight 10.6 kg kg Logistics Weight 11.1 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Mattress Protectors Mattress protectors and similar bedroom accessories. Mattress Protectors Bedroom Bedroom Mattress Protectors Nest & Living Staycool Staygentle White Cotton Polyester Tencel Care Cleaning method Wash 60°C Dimensions Depth 80 cm cm Dimensions Depth 160 cm cm Dimensions Depth 180 cm cm Dimensions Depth 200 cm cm Dimensions Height 1 cm cm Dimensions Width 80 cm cm Dimensions Width 90 cm cm Dimensions Width 120 cm cm Dimensions Width 140 cm cm Dimensions Width 160 cm cm Dimensions Width 180 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 7.1 kg kg Logistics Package weight 8.9 kg kg Logistics Package weight 10.6 kg kg Logistics Package weight 11.1 kg kg Logistics Product count 6 product product Logistics Product count 7 product product Logistics Product count 10 product product Logistics Volume 0.19 m³ m³ Logistics Volume 0.23 m³ m³ Logistics Weight 1 kg kg Logistics Weight 1.2 kg kg Logistics Weight 1.4 kg kg Logistics Weight 1.5 kg kg Logistics Weight 2 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -6693,6 +7129,54 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "7-1-kg",
+          "valueLabel": "7.1 kg",
+          "href": "/attributes/logistics/package-weight/7-1-kg/",
+          "valueType": "enum",
+          "numericValue": 7.1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "8-9-kg",
+          "valueLabel": "8.9 kg",
+          "href": "/attributes/logistics/package-weight/8-9-kg/",
+          "valueType": "enum",
+          "numericValue": 8.9,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "10-6-kg",
+          "valueLabel": "10.6 kg",
+          "href": "/attributes/logistics/package-weight/10-6-kg/",
+          "valueType": "enum",
+          "numericValue": 10.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "11-1-kg",
+          "valueLabel": "11.1 kg",
+          "href": "/attributes/logistics/package-weight/11-1-kg/",
+          "valueType": "enum",
+          "numericValue": 11.1,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "6-product",
@@ -6811,54 +7295,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "7-1-kg",
-          "valueLabel": "7.1 kg",
-          "href": "/attributes/logistics/weight/7-1-kg/",
-          "valueType": "enum",
-          "numericValue": 7.1,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "8-9-kg",
-          "valueLabel": "8.9 kg",
-          "href": "/attributes/logistics/weight/8-9-kg/",
-          "valueType": "enum",
-          "numericValue": 8.9,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "10-6-kg",
-          "valueLabel": "10.6 kg",
-          "href": "/attributes/logistics/weight/10-6-kg/",
-          "valueType": "enum",
-          "numericValue": 10.6,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "11-1-kg",
-          "valueLabel": "11.1 kg",
-          "href": "/attributes/logistics/weight/11-1-kg/",
-          "valueType": "enum",
-          "numericValue": 11.1,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -6910,10 +7346,10 @@
     "href": "/products/mobile-phone-pockets/",
     "type": "dir",
     "title": "Mobile Phone Pockets",
-    "summary": "Bedside accessory pockets kept as a separate category.",
-    "primaryImageUrl": "/products/mobile-phone-pockets/moon/202837_1.avif",
+    "summary": "Keep phones, remotes, glasses, and other bedside essentials close at hand without cluttering the nightstand.",
+    "primaryImageUrl": "/images/listing-thumbnails/c8cf18921e0f33b417bd.avif",
     "filterData": {
-      "searchText": "Mobile Phone Pockets Bedside accessory pockets kept as a separate category. Mobile Phone Pockets Bedroom Bedroom Mobile Phone Pockets Moon Beige Black Grey Fabric Metal Dimensions Depth 60 cm cm Dimensions Height 1 cm cm Dimensions Width 20 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Logistics Weight 0.4 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Mobile Phone Pockets Keep phones, remotes, glasses, and other bedside essentials close at hand without cluttering the nightstand. Mobile Phone Pockets Bedroom Bedroom Mobile Phone Pockets Moon Beige Grey Fabric Metal Dimensions Depth 60 cm cm Dimensions Height 1 cm cm Dimensions Width 20 cm cm Logistics Package count 1 package package Logistics Package weight 0.4 kg kg Logistics Product count 1 product product Logistics Volume 0.01 m³ m³ Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -6940,11 +7376,6 @@
           "key": "beige",
           "label": "Beige",
           "href": "/colors/beige/"
-        },
-        {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
         },
         {
           "key": "grey",
@@ -7017,6 +7448,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "0-4-kg",
+          "valueLabel": "0.4 kg",
+          "href": "/attributes/logistics/package-weight/0-4-kg/",
+          "valueType": "enum",
+          "numericValue": 0.4,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -7037,18 +7480,6 @@
           "valueType": "enum",
           "numericValue": 0.01,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "0-4-kg",
-          "valueLabel": "0.4 kg",
-          "href": "/attributes/logistics/weight/0-4-kg/",
-          "valueType": "enum",
-          "numericValue": 0.4,
-          "unit": "kg"
         },
         {
           "groupKey": "setup",
@@ -7090,7 +7521,7 @@
     },
     "sortData": {
       "title": "Mobile Phone Pockets",
-      "summary": "Bedside accessory pockets kept as a separate category.",
+      "summary": "Keep phones, remotes, glasses, and other bedside essentials close at hand without cluttering the nightstand.",
       "variantCount": 3,
       "categoryLabel": "Mobile Phone Pockets",
       "collectionLabel": "Bedroom",

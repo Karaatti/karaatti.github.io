@@ -5,9 +5,9 @@
     "href": "/products/corner-sofas/cloud/",
     "type": "dir",
     "summary": "Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors.",
-    "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/cloud/198183_2.avif",
     "filterData": {
-      "searchText": "Cloud Corner Sofas Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors. Corner Sofas Living room Cloud Living room Corner Sofas Cloud Beige Foam Plywood Polyester Wood Care Cleaning method Wash 30°C Care Removable covers No Configuration Handedness configuration Fixed Dimensions Depth 205 cm cm Dimensions Height 83 cm cm Dimensions Width 258 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.82 m³ m³ Logistics Volume 0.98 m³ m³ Logistics Weight 50 kg kg Logistics Weight 60 kg kg Logistics Weight 110 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 3.5 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Cloud Corner Sofas Minimalist corner sofa with soft rounded lines and a spacious seat in beige polyester fabric. Suitable for modern and Scandinavian interiors. Corner Sofas Living room Cloud Living room Corner Sofas Cloud Beige Foam Plywood Polyester Wood Care Cleaning method Wash 30°C Care Removable covers No Configuration Handedness configuration Fixed Dimensions Depth 205 cm cm Dimensions Height 83 cm cm Dimensions Width 258 cm cm Logistics Package count 1 package package Logistics Package weight 50 kg kg Logistics Package weight 60 kg kg Logistics Product count 1 product product Logistics Volume 0.82 m³ m³ Logistics Volume 0.98 m³ m³ Logistics Weight 110 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 3.5 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -147,6 +147,30 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "50-kg",
+          "valueLabel": "50 kg",
+          "href": "/attributes/logistics/package-weight/50-kg/",
+          "valueType": "enum",
+          "numericValue": 50,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "60-kg",
+          "valueLabel": "60 kg",
+          "href": "/attributes/logistics/package-weight/60-kg/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -179,30 +203,6 @@
           "valueType": "enum",
           "numericValue": 0.98,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "50-kg",
-          "valueLabel": "50 kg",
-          "href": "/attributes/logistics/weight/50-kg/",
-          "valueType": "enum",
-          "numericValue": 50,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "60-kg",
-          "valueLabel": "60 kg",
-          "href": "/attributes/logistics/weight/60-kg/",
-          "valueType": "enum",
-          "numericValue": 60,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",

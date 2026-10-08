@@ -3,27 +3,35 @@
     "sku": "210110",
     "name": "210110",
     "title": "Lugo Footstool, Beige",
-    "variantSummary": "92 x 66 cm / Beige",
+    "variantSummary": "92 × 66 cm / Beige",
     "shortDescription": "Beige upholstery with solid wood and plywood frame, compact and practical footstool.",
     "selectionAttributes": {
-      "dimensions": "92 x 66 cm",
+      "dimensions": "92 × 66 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Solid wood, Plywood, Foam, Particle board"
+      "material": "Solid wood, Plywood, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Footstool",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/footstools/lugo/210110_1.avif",
-    "imageUrl": "/products/footstools/lugo/210110_1.avif",
+    "primaryImageUrl": "/products/footstools/lugo/210110_2.avif",
+    "imageUrl": "/products/footstools/lugo/210110_2.avif",
     "imageUrls": [
-      "/products/footstools/lugo/210110_1.avif",
       "/products/footstools/lugo/210110_2.avif",
+      "/products/footstools/lugo/210110_1.avif",
       "/products/footstools/lugo/210110_3.avif",
       "/products/footstools/lugo/210110_4.avif"
     ],
     "href": "/products/footstools/lugo/210110",
     "type": "file",
     "filterData": {
-      "searchText": "Lugo Footstool, Beige Beige upholstery with solid wood and plywood frame, compact and practical footstool. Footstools Living room Lugo Living room Footstools Lugo Beige Foam Particle board Plastic Plywood Solid wood Configuration Leg height 0.6 cm cm Dimensions Depth 66 cm cm Dimensions Height 44 cm cm Dimensions Width 92 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.28 m³ m³ Logistics Weight 17.6 kg kg Logistics Weight 20 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Seat depth 66 cm cm Seating Seat height 44 cm cm Seating Seat width 92 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Lugo Footstool, Beige Beige upholstery with solid wood and plywood frame, compact and practical footstool. Footstools Living room Lugo Living room Footstools Lugo Beige Foam Particle board Plastic Plywood Solid wood Configuration Leg height 0.6 cm cm Dimensions Depth 66 cm cm Dimensions Height 44 cm cm Dimensions Width 92 cm cm Logistics Package count 1 package package Logistics Package weight 20 kg kg Logistics Product count 1 product product Logistics Volume 0.28 m³ m³ Logistics Weight 17.6 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Seat depth 66 cm cm Seating Seat height 44 cm cm Seating Seat width 92 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -144,6 +152,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -175,18 +195,6 @@
           "href": "/attributes/logistics/weight/17-6-kg/",
           "valueType": "enum",
           "numericValue": 17.6,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "20-kg",
-          "valueLabel": "20 kg",
-          "href": "/attributes/logistics/weight/20-kg/",
-          "valueType": "enum",
-          "numericValue": 20,
           "unit": "kg"
         },
         {
@@ -312,27 +320,35 @@
     "sku": "210111",
     "name": "210111",
     "title": "Lugo Footstool, Green",
-    "variantSummary": "92 x 66 cm / Green",
+    "variantSummary": "92 × 66 cm / Green",
     "shortDescription": "Green upholstery with solid wood and plywood frame, compact and practical footstool.",
     "selectionAttributes": {
-      "dimensions": "92 x 66 cm",
+      "dimensions": "92 × 66 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Green",
-      "material": "Solid wood, Plywood, Foam, Particle board"
+      "material": "Solid wood, Plywood, Foam, Particle board",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Footstool",
+      "colorLabel": "Green",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/footstools/lugo/210111_1.avif",
-    "imageUrl": "/products/footstools/lugo/210111_1.avif",
+    "primaryImageUrl": "/products/footstools/lugo/210111_2.avif",
+    "imageUrl": "/products/footstools/lugo/210111_2.avif",
     "imageUrls": [
-      "/products/footstools/lugo/210111_1.avif",
       "/products/footstools/lugo/210111_2.avif",
       "/products/footstools/lugo/210111_3.avif",
+      "/products/footstools/lugo/210111_1.avif",
       "/products/footstools/lugo/210111_4.avif"
     ],
     "href": "/products/footstools/lugo/210111",
     "type": "file",
     "filterData": {
-      "searchText": "Lugo Footstool, Green Green upholstery with solid wood and plywood frame, compact and practical footstool. Footstools Living room Lugo Living room Footstools Lugo Green Foam Particle board Plastic Plywood Solid wood Configuration Leg height 0.6 cm cm Dimensions Depth 66 cm cm Dimensions Height 44 cm cm Dimensions Width 92 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.28 m³ m³ Logistics Weight 17.6 kg kg Logistics Weight 20 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Seat depth 66 cm cm Seating Seat height 44 cm cm Seating Seat width 92 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Lugo Footstool, Green Green upholstery with solid wood and plywood frame, compact and practical footstool. Footstools Living room Lugo Living room Footstools Lugo Green Foam Particle board Plastic Plywood Solid wood Configuration Leg height 0.6 cm cm Dimensions Depth 66 cm cm Dimensions Height 44 cm cm Dimensions Width 92 cm cm Logistics Package count 1 package package Logistics Package weight 20 kg kg Logistics Product count 1 product product Logistics Volume 0.28 m³ m³ Logistics Weight 17.6 kg kg Padding Foam density 30 kg/m³ kg/m³ Seating Seat depth 66 cm cm Seating Seat height 44 cm cm Seating Seat width 92 cm cm Setup Assembly time 0 min min Upholstery Lightfastness 4 Upholstery Martindale 30,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -453,6 +469,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -484,18 +512,6 @@
           "href": "/attributes/logistics/weight/17-6-kg/",
           "valueType": "enum",
           "numericValue": 17.6,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "20-kg",
-          "valueLabel": "20 kg",
-          "href": "/attributes/logistics/weight/20-kg/",
-          "valueType": "enum",
-          "numericValue": 20,
           "unit": "kg"
         },
         {

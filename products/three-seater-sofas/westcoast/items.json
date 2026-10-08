@@ -2,30 +2,38 @@
   {
     "sku": "209110",
     "name": "209110",
-    "title": "Westcoast 3-Seater Sofa, Beige",
-    "variantSummary": "230 x 90 cm / Beige",
+    "title": "Westcoast Sofa, Beige",
+    "variantSummary": "230 × 90 cm / Beige",
     "shortDescription": "Beige polyester upholstery with soft texture and easy-care fabric.",
     "selectionAttributes": {
-      "dimensions": "230 x 90 cm",
+      "dimensions": "230 × 90 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Beige",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Sofa",
+      "colorLabel": "Beige",
+      "colorNote": "Sand",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/three-seater-sofas/westcoast/209110_1.avif",
-    "imageUrl": "/products/three-seater-sofas/westcoast/209110_1.avif",
+    "primaryImageUrl": "/products/three-seater-sofas/westcoast/209110_5.avif",
+    "imageUrl": "/products/three-seater-sofas/westcoast/209110_5.avif",
     "imageUrls": [
-      "/products/three-seater-sofas/westcoast/209110_1.avif",
-      "/products/three-seater-sofas/westcoast/209110_2.avif",
-      "/products/three-seater-sofas/westcoast/209110_3.avif",
-      "/products/three-seater-sofas/westcoast/209110_4.avif",
       "/products/three-seater-sofas/westcoast/209110_5.avif",
-      "/products/three-seater-sofas/westcoast/209110_6.avif"
+      "/products/three-seater-sofas/westcoast/209110_2.avif",
+      "/products/three-seater-sofas/westcoast/209110_6.avif",
+      "/products/three-seater-sofas/westcoast/209110_1.avif",
+      "/products/three-seater-sofas/westcoast/209110_3.avif",
+      "/products/three-seater-sofas/westcoast/209110_4.avif"
     ],
     "href": "/products/three-seater-sofas/westcoast/209110",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast 3-Seater Sofa, Beige Beige polyester upholstery with soft texture and easy-care fabric. 3-Seater Sofas Living room Westcoast Living room 3-Seater Sofas Westcoast Beige Metal Polyester Dimensions Depth 90 cm cm Dimensions Height 80 cm cm Dimensions Width 230 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.15 m³ m³ Logistics Weight 50 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Sofa, Beige Beige polyester upholstery with soft texture and easy-care fabric. 3-Seater Sofas Living room Westcoast Living room 3-Seater Sofas Westcoast Beige Metal Polyester Dimensions Depth 90 cm cm Dimensions Height 80 cm cm Dimensions Width 230 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.15 m³ m³ Logistics Weight 50 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -215,7 +223,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast 3-Seater Sofa, Beige",
+      "title": "Westcoast Sofa, Beige",
       "summary": "Beige polyester upholstery with soft texture and easy-care fabric.",
       "variantCount": 1,
       "categoryLabel": "3-Seater Sofas",
@@ -226,29 +234,37 @@
   {
     "sku": "209111",
     "name": "209111",
-    "title": "Westcoast 3-Seater Sofa, Brown",
-    "variantSummary": "230 x 90 cm / Brown",
+    "title": "Westcoast Sofa, Brown",
+    "variantSummary": "230 × 90 cm / Brown",
     "shortDescription": "Brown polyester upholstery with soft texture and easy-care fabric.",
     "selectionAttributes": {
-      "dimensions": "230 x 90 cm",
+      "dimensions": "230 × 90 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Brown",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Sofa",
+      "colorLabel": "Brown",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/three-seater-sofas/westcoast/209111_1.avif",
-    "imageUrl": "/products/three-seater-sofas/westcoast/209111_1.avif",
+    "primaryImageUrl": "/products/three-seater-sofas/westcoast/209111_4.avif",
+    "imageUrl": "/products/three-seater-sofas/westcoast/209111_4.avif",
     "imageUrls": [
-      "/products/three-seater-sofas/westcoast/209111_1.avif",
-      "/products/three-seater-sofas/westcoast/209111_2.avif",
-      "/products/three-seater-sofas/westcoast/209111_3.avif",
       "/products/three-seater-sofas/westcoast/209111_4.avif",
-      "/products/three-seater-sofas/westcoast/209111_5.avif"
+      "/products/three-seater-sofas/westcoast/209111_2.avif",
+      "/products/three-seater-sofas/westcoast/209111_5.avif",
+      "/products/three-seater-sofas/westcoast/209111_1.avif",
+      "/products/three-seater-sofas/westcoast/209111_3.avif"
     ],
     "href": "/products/three-seater-sofas/westcoast/209111",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast 3-Seater Sofa, Brown Brown polyester upholstery with soft texture and easy-care fabric. 3-Seater Sofas Living room Westcoast Living room 3-Seater Sofas Westcoast Brown Metal Polyester Dimensions Depth 90 cm cm Dimensions Height 80 cm cm Dimensions Width 230 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.15 m³ m³ Logistics Weight 50 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Sofa, Brown Brown polyester upholstery with soft texture and easy-care fabric. 3-Seater Sofas Living room Westcoast Living room 3-Seater Sofas Westcoast Brown Metal Polyester Dimensions Depth 90 cm cm Dimensions Height 80 cm cm Dimensions Width 230 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.15 m³ m³ Logistics Weight 50 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -438,7 +454,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast 3-Seater Sofa, Brown",
+      "title": "Westcoast Sofa, Brown",
       "summary": "Brown polyester upholstery with soft texture and easy-care fabric.",
       "variantCount": 1,
       "categoryLabel": "3-Seater Sofas",
@@ -449,30 +465,38 @@
   {
     "sku": "209112",
     "name": "209112",
-    "title": "Westcoast 3-Seater Sofa, Grey",
-    "variantSummary": "230 x 90 cm / Grey",
+    "title": "Westcoast Sofa, Grey",
+    "variantSummary": "230 × 90 cm / Grey",
     "shortDescription": "Grey polyester upholstery with soft texture and easy-care fabric.",
     "selectionAttributes": {
-      "dimensions": "230 x 90 cm",
+      "dimensions": "230 × 90 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Grey",
-      "material": "Polyester"
+      "material": "Polyester",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Sofa",
+      "colorLabel": "Grey",
+      "colorNote": "",
+      "axisPlan": "color",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/three-seater-sofas/westcoast/209112_1.avif",
-    "imageUrl": "/products/three-seater-sofas/westcoast/209112_1.avif",
+    "primaryImageUrl": "/products/three-seater-sofas/westcoast/209112_5.avif",
+    "imageUrl": "/products/three-seater-sofas/westcoast/209112_5.avif",
     "imageUrls": [
-      "/products/three-seater-sofas/westcoast/209112_1.avif",
-      "/products/three-seater-sofas/westcoast/209112_2.avif",
-      "/products/three-seater-sofas/westcoast/209112_3.avif",
-      "/products/three-seater-sofas/westcoast/209112_4.avif",
       "/products/three-seater-sofas/westcoast/209112_5.avif",
-      "/products/three-seater-sofas/westcoast/209112_6.avif"
+      "/products/three-seater-sofas/westcoast/209112_2.avif",
+      "/products/three-seater-sofas/westcoast/209112_6.avif",
+      "/products/three-seater-sofas/westcoast/209112_1.avif",
+      "/products/three-seater-sofas/westcoast/209112_3.avif",
+      "/products/three-seater-sofas/westcoast/209112_4.avif"
     ],
     "href": "/products/three-seater-sofas/westcoast/209112",
     "type": "file",
     "filterData": {
-      "searchText": "Westcoast 3-Seater Sofa, Grey Grey polyester upholstery with soft texture and easy-care fabric. 3-Seater Sofas Living room Westcoast Living room 3-Seater Sofas Westcoast Grey Metal Polyester Dimensions Depth 90 cm cm Dimensions Height 80 cm cm Dimensions Width 230 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.15 m³ m³ Logistics Weight 50 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
+      "searchText": "Westcoast Sofa, Grey Grey polyester upholstery with soft texture and easy-care fabric. 3-Seater Sofas Living room Westcoast Living room 3-Seater Sofas Westcoast Grey Metal Polyester Dimensions Depth 90 cm cm Dimensions Height 80 cm cm Dimensions Width 230 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.15 m³ m³ Logistics Weight 50 kg kg Setup Assembly time 15 min min Upholstery Lightfastness 4 Upholstery Martindale 120,000 Martindale Martindale Upholstery Pilling 4 Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -662,7 +686,7 @@
       ]
     },
     "sortData": {
-      "title": "Westcoast 3-Seater Sofa, Grey",
+      "title": "Westcoast Sofa, Grey",
       "summary": "Grey polyester upholstery with soft texture and easy-care fabric.",
       "variantCount": 1,
       "categoryLabel": "3-Seater Sofas",

@@ -2,38 +2,41 @@
   {
     "sku": "202744",
     "name": "202744",
-    "title": "Yanam Rug, 160 x 230 cm",
-    "variantSummary": "160 x 230 cm / Blue",
+    "title": "Yanam Rug, 160 × 230 cm",
+    "variantSummary": "160 × 230 cm / Blue",
     "shortDescription": "Blue rug, 160 x 230 cm. Textured surface with worn look and multicolor nuances.",
     "selectionAttributes": {
-      "dimensions": "160 x 230 cm",
+      "dimensions": "160 × 230 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Blue",
-      "material": "Polyester, Cotton"
+      "material": "Polyester, Cotton",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Rug",
+      "colorLabel": "Blue",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/rugs/yanam/yanam_rug_blue_2.avif",
     "imageUrl": "/products/rugs/yanam/yanam_rug_blue_2.avif",
     "imageUrls": [
       "/products/rugs/yanam/yanam_rug_blue_2.avif",
+      "/products/rugs/yanam/yanam_rug_blue_6.avif",
+      "/products/rugs/yanam/yanam_rug_blue_1.avif",
+      "/products/rugs/yanam/yanam_rug_blue_4.avif",
+      "/products/rugs/yanam/yanam_rug_blue_3.avif",
+      "/products/rugs/yanam/yanam_rug_blue_7.avif",
+      "/products/rugs/yanam/yanam_rug_blue_8.avif",
       "/products/rugs/yanam/yanam_rug_blue_5.avif",
-      "/products/rugs/yanam/yanam_rug_blue_9.avif",
-      "/products/rugs/yanam/yanam_rug_blue_1.jpg",
-      "/products/rugs/yanam/yanam_rug_blue_3.jpg",
-      "/products/rugs/yanam/yanam_rug_blue_4.jpg",
-      "/products/rugs/yanam/yanam_rug_blue_6.jpg",
-      "/products/rugs/yanam/yanam_rug_blue_7.jpg",
-      "/products/rugs/yanam/yanam_rug_blue_8.jpg",
-      "/products/rugs/yanam/202744_1.avif",
-      "/products/rugs/yanam/202744_2.avif",
-      "/products/rugs/yanam/202744_3.avif",
-      "/products/rugs/yanam/202744_4.avif",
-      "/products/rugs/yanam/202744_5.avif"
+      "/products/rugs/yanam/yanam_rug_blue_9.avif"
     ],
     "href": "/products/rugs/yanam/202744",
     "type": "file",
     "filterData": {
-      "searchText": "Yanam Rug, 160 x 230 cm Blue rug, 160 x 230 cm. Textured surface with worn look and multicolor nuances. Rugs Home Details Yanam Home Details Rugs Yanam Blue Cotton Polyester Care Cleaning method Water wash Dimensions Depth 230 cm cm Dimensions Height 2 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.03 m³ m³ Logistics Weight 5.5 kg kg Logistics Weight 5.6 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Yanam Rug, 160 × 230 cm Blue rug, 160 x 230 cm. Textured surface with worn look and multicolor nuances. Rugs Home Details Yanam Home Details Rugs Yanam Blue Cotton Polyester Care Cleaning method Water wash Dimensions Depth 230 cm cm Dimensions Height 2 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Package weight 5.6 kg kg Logistics Product count 1 product product Logistics Volume 0.03 m³ m³ Logistics Weight 5.5 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -139,6 +142,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "5-6-kg",
+          "valueLabel": "5.6 kg",
+          "href": "/attributes/logistics/package-weight/5-6-kg/",
+          "valueType": "enum",
+          "numericValue": 5.6,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -173,18 +188,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "5-6-kg",
-          "valueLabel": "5.6 kg",
-          "href": "/attributes/logistics/weight/5-6-kg/",
-          "valueType": "enum",
-          "numericValue": 5.6,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -211,7 +214,7 @@
       ]
     },
     "sortData": {
-      "title": "Yanam Rug, 160 x 230 cm",
+      "title": "Yanam Rug, 160 × 230 cm",
       "summary": "Blue rug, 160 x 230 cm. Textured surface with worn look and multicolor nuances.",
       "variantCount": 1,
       "categoryLabel": "Rugs",
@@ -222,38 +225,41 @@
   {
     "sku": "202745",
     "name": "202745",
-    "title": "Yanam Rug, 200 x 290 cm",
-    "variantSummary": "200 x 290 cm / Blue",
+    "title": "Yanam Rug, 200 × 290 cm",
+    "variantSummary": "200 × 290 cm / Blue",
     "shortDescription": "Blue rug, 200 x 290 cm. Textured surface with worn look and multicolor nuances.",
     "selectionAttributes": {
-      "dimensions": "200 x 290 cm",
+      "dimensions": "200 × 290 cm",
       "handedness": "",
       "comfortType": "",
       "color": "Blue",
-      "material": "Polyester, Cotton"
+      "material": "Polyester, Cotton",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Rug",
+      "colorLabel": "Blue",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
     "primaryImageUrl": "/products/rugs/yanam/yanam_rug_blue_2.avif",
     "imageUrl": "/products/rugs/yanam/yanam_rug_blue_2.avif",
     "imageUrls": [
       "/products/rugs/yanam/yanam_rug_blue_2.avif",
+      "/products/rugs/yanam/yanam_rug_blue_6.avif",
+      "/products/rugs/yanam/yanam_rug_blue_1.avif",
+      "/products/rugs/yanam/yanam_rug_blue_4.avif",
+      "/products/rugs/yanam/yanam_rug_blue_3.avif",
+      "/products/rugs/yanam/yanam_rug_blue_7.avif",
+      "/products/rugs/yanam/yanam_rug_blue_8.avif",
       "/products/rugs/yanam/yanam_rug_blue_5.avif",
-      "/products/rugs/yanam/yanam_rug_blue_9.avif",
-      "/products/rugs/yanam/yanam_rug_blue_1.jpg",
-      "/products/rugs/yanam/yanam_rug_blue_3.jpg",
-      "/products/rugs/yanam/yanam_rug_blue_4.jpg",
-      "/products/rugs/yanam/yanam_rug_blue_6.jpg",
-      "/products/rugs/yanam/yanam_rug_blue_7.jpg",
-      "/products/rugs/yanam/yanam_rug_blue_8.jpg",
-      "/products/rugs/yanam/202745_1.avif",
-      "/products/rugs/yanam/202745_2.avif",
-      "/products/rugs/yanam/202745_3.avif",
-      "/products/rugs/yanam/202745_4.avif",
-      "/products/rugs/yanam/202745_5.avif"
+      "/products/rugs/yanam/yanam_rug_blue_9.avif"
     ],
     "href": "/products/rugs/yanam/202745",
     "type": "file",
     "filterData": {
-      "searchText": "Yanam Rug, 200 x 290 cm Blue rug, 200 x 290 cm. Textured surface with worn look and multicolor nuances. Rugs Home Details Yanam Home Details Rugs Yanam Blue Cotton Polyester Care Cleaning method Water wash Dimensions Depth 290 cm cm Dimensions Height 2 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.06 m³ m³ Logistics Weight 8.5 kg kg Logistics Weight 8.7 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Yanam Rug, 200 × 290 cm Blue rug, 200 x 290 cm. Textured surface with worn look and multicolor nuances. Rugs Home Details Yanam Home Details Rugs Yanam Blue Cotton Polyester Care Cleaning method Water wash Dimensions Depth 290 cm cm Dimensions Height 2 cm cm Dimensions Width 200 cm cm Logistics Package count 1 package package Logistics Package weight 8.7 kg kg Logistics Product count 1 product product Logistics Volume 0.06 m³ m³ Logistics Weight 8.5 kg kg Setup Assembly time 0 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "home-details",
@@ -359,6 +365,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "8-7-kg",
+          "valueLabel": "8.7 kg",
+          "href": "/attributes/logistics/package-weight/8-7-kg/",
+          "valueType": "enum",
+          "numericValue": 8.7,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -393,18 +411,6 @@
           "unit": "kg"
         },
         {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "8-7-kg",
-          "valueLabel": "8.7 kg",
-          "href": "/attributes/logistics/weight/8-7-kg/",
-          "valueType": "enum",
-          "numericValue": 8.7,
-          "unit": "kg"
-        },
-        {
           "groupKey": "setup",
           "groupLabel": "Setup",
           "key": "assembly-time",
@@ -431,7 +437,7 @@
       ]
     },
     "sortData": {
-      "title": "Yanam Rug, 200 x 290 cm",
+      "title": "Yanam Rug, 200 × 290 cm",
       "summary": "Blue rug, 200 x 290 cm. Textured surface with worn look and multicolor nuances.",
       "variantCount": 1,
       "categoryLabel": "Rugs",

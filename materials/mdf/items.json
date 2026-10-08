@@ -1,11 +1,27 @@
 [
   {
+    "name": "meta",
+    "href": "/products/tv-stands/meta/",
+    "type": "dir",
+    "title": "Meta",
+    "schemaCategory": "Coffee Tables, Sideboards, Storage Cabinets and TV Stands",
+    "variantCount": 10
+  },
+  {
     "name": "metz",
-    "href": "/products/dining-tables/metz/",
+    "href": "/products/coffee-tables/metz/",
     "type": "dir",
     "title": "Metz",
-    "schemaCategory": "Dining Tables",
-    "variantCount": 4
+    "schemaCategory": "Coffee Tables and Dining Tables",
+    "variantCount": 7
+  },
+  {
+    "name": "bacoli",
+    "href": "/products/shelves/bacoli/",
+    "type": "dir",
+    "title": "Bacoli",
+    "schemaCategory": "Dining Tables, Shelves, Sideboards and Storage Cabinets and 1 more",
+    "variantCount": 5
   },
   {
     "name": "island",

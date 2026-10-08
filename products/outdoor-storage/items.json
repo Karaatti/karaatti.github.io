@@ -8,7 +8,7 @@
     "primaryImageUrl": "/products/outdoor-storage/nordic/206769_1.avif",
     "sourceHref": "/products/outdoor-storage/nordic/",
     "filterData": {
-      "searchText": "Nordic Outdoor Storage Outdoor storage boxes from the Nordic collection with aluminium frames and weather-ready fabric-lined lids, available in two sizes and beige or black finishes. Outdoor Storage Nordic Outdoor Outdoor Storage Nordic Beige Black Aluminium Dimensions Depth 60 cm cm Dimensions Depth 82 cm cm Dimensions Height 75 cm cm Dimensions Height 85 cm cm Dimensions Width 130 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.16 m³ m³ Logistics Volume 0.22 m³ m³ Logistics Weight 16.5 kg kg Logistics Weight 20 kg kg Logistics Weight 24.6 kg kg Logistics Weight 30 kg kg Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
+      "searchText": "Nordic Outdoor Storage Outdoor storage boxes from the Nordic collection with aluminium frames and weather-ready fabric-lined lids, available in two sizes and beige or black finishes. Outdoor Storage Nordic Outdoor Outdoor Storage Nordic Beige Grey Aluminium Dimensions Depth 60 cm cm Dimensions Depth 82 cm cm Dimensions Height 75 cm cm Dimensions Height 85 cm cm Dimensions Width 130 cm cm Dimensions Width 160 cm cm Logistics Package count 1 package package Logistics Package weight 20 kg kg Logistics Package weight 30 kg kg Logistics Product count 1 product product Logistics Volume 0.16 m³ m³ Logistics Volume 0.22 m³ m³ Logistics Weight 16.5 kg kg Logistics Weight 24.6 kg kg Setup Assembly time 30 min min Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "outdoor",
@@ -37,9 +37,9 @@
           "href": "/colors/beige/"
         },
         {
-          "key": "black",
-          "label": "Black",
-          "href": "/colors/black/"
+          "key": "grey",
+          "label": "Grey",
+          "href": "/colors/grey/"
         }
       ],
       "materials": [
@@ -138,6 +138,30 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "20-kg",
+          "valueLabel": "20 kg",
+          "href": "/attributes/logistics/package-weight/20-kg/",
+          "valueType": "enum",
+          "numericValue": 20,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "30-kg",
+          "valueLabel": "30 kg",
+          "href": "/attributes/logistics/package-weight/30-kg/",
+          "valueType": "enum",
+          "numericValue": 30,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -188,35 +212,11 @@
           "groupLabel": "Logistics",
           "key": "weight",
           "label": "Weight",
-          "valueKey": "20-kg",
-          "valueLabel": "20 kg",
-          "href": "/attributes/logistics/weight/20-kg/",
-          "valueType": "enum",
-          "numericValue": 20,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
           "valueKey": "24-6-kg",
           "valueLabel": "24.6 kg",
           "href": "/attributes/logistics/weight/24-6-kg/",
           "valueType": "enum",
           "numericValue": 24.6,
-          "unit": "kg"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "30-kg",
-          "valueLabel": "30 kg",
-          "href": "/attributes/logistics/weight/30-kg/",
-          "valueType": "enum",
-          "numericValue": 30,
           "unit": "kg"
         },
         {

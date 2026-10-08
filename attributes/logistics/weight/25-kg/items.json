@@ -4,24 +4,8 @@
     "href": "/families/moon-gold/",
     "type": "dir",
     "title": "Moon Gold",
-    "schemaCategory": "Continental Beds, Divan Beds, Headboards and Mattresses",
-    "variantCount": 14
-  },
-  {
-    "name": "moon-silver",
-    "href": "/families/moon-silver/",
-    "type": "dir",
-    "title": "Moon Silver",
-    "schemaCategory": "Continental Beds and Divan Beds",
-    "variantCount": 3
-  },
-  {
-    "name": "haven",
-    "href": "/families/haven/",
-    "type": "dir",
-    "title": "Haven",
-    "schemaCategory": "Outdoor Lounge Sets",
-    "variantCount": 1
+    "schemaCategory": "Mattresses",
+    "variantCount": 2
   },
   {
     "name": "islet",
@@ -29,6 +13,14 @@
     "type": "dir",
     "title": "Islet",
     "schemaCategory": "Dining Tables",
+    "variantCount": 1
+  },
+  {
+    "name": "moon-silver",
+    "href": "/families/moon-silver/",
+    "type": "dir",
+    "title": "Moon Silver",
+    "schemaCategory": "Divan Beds",
     "variantCount": 1
   }
 ]

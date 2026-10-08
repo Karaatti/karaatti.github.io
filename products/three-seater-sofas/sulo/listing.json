@@ -1,14 +1,15 @@
 {
   "familyTitle": "Sulo",
   "familySummary": "A modern three-seater sofa in white corduroy with rounded armrests and a low backrest for relaxed seating.",
-  "primaryImageUrl": "/products/three-seater-sofas/sulo/202841_1.avif",
+  "familyDescription": "The Sulo sofa combines modern Scandinavian design with practical comfort. It features a low backrest, soft seat cushions, and durable No-Zag springs with feather padding for lasting support. Its white corduroy upholstery adds a subtle texture suited to contemporary living spaces.",
+  "primaryImageUrl": "/products/three-seater-sofas/sulo/202841_10.avif",
   "schemaCategory": "3-Seater Sofas",
   "variantCount": 1,
   "productFamilyName": "Sulo",
   "productFamilyKey": "sulo",
   "productFamilyRelativeDir": "families/sulo",
   "filterData": {
-    "searchText": "Sulo A modern three-seater sofa in white corduroy with rounded armrests and a low backrest for relaxed seating. 3-Seater Sofas Living room Sulo Living room 3-Seater Sofas Sulo White Fabric Feather Foam Dimensions Depth 90 cm cm Dimensions Height 75 cm cm Dimensions Width 230 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 1.32 m³ m³ Logistics Weight 50 kg kg Logistics Weight 60 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
+    "searchText": "Sulo A modern three-seater sofa in white corduroy with rounded armrests and a low backrest for relaxed seating. 3-Seater Sofas Living room Sulo Living room 3-Seater Sofas Sulo White Fabric Feather Foam Dimensions Depth 90 cm cm Dimensions Height 75 cm cm Dimensions Width 230 cm cm Logistics Package count 1 package package Logistics Package weight 60 kg kg Logistics Product count 1 product product Logistics Volume 1.32 m³ m³ Logistics Weight 50 kg kg Setup Assembly time 15 min min Warranty Quality guarantee 1000 days days",
     "collections": [
       {
         "key": "living-room",
@@ -107,6 +108,18 @@
       {
         "groupKey": "logistics",
         "groupLabel": "Logistics",
+        "key": "package-weight",
+        "label": "Package weight",
+        "valueKey": "60-kg",
+        "valueLabel": "60 kg",
+        "href": "/attributes/logistics/package-weight/60-kg/",
+        "valueType": "enum",
+        "numericValue": 60,
+        "unit": "kg"
+      },
+      {
+        "groupKey": "logistics",
+        "groupLabel": "Logistics",
         "key": "product-count",
         "label": "Product count",
         "valueKey": "1-product",
@@ -138,18 +151,6 @@
         "href": "/attributes/logistics/weight/50-kg/",
         "valueType": "enum",
         "numericValue": 50,
-        "unit": "kg"
-      },
-      {
-        "groupKey": "logistics",
-        "groupLabel": "Logistics",
-        "key": "weight",
-        "label": "Weight",
-        "valueKey": "60-kg",
-        "valueLabel": "60 kg",
-        "href": "/attributes/logistics/weight/60-kg/",
-        "valueType": "enum",
-        "numericValue": 60,
         "unit": "kg"
       },
       {

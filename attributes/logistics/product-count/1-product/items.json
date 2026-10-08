@@ -37,7 +37,7 @@
     "type": "dir",
     "title": "Nordic",
     "schemaCategory": "Gazebos & Pergolas, Outdoor Lounge Seating, Outdoor Lounge Sets and Outdoor Storage",
-    "variantCount": 14
+    "variantCount": 15
   },
   {
     "name": "lugo",
@@ -136,6 +136,14 @@
     "variantCount": 4
   },
   {
+    "name": "breeze",
+    "href": "/families/breeze/",
+    "type": "dir",
+    "title": "Breeze",
+    "schemaCategory": "Swivel Chairs",
+    "variantCount": 3
+  },
+  {
     "name": "eagle",
     "href": "/families/eagle/",
     "type": "dir",
@@ -204,14 +212,6 @@
     "href": "/families/blow/",
     "type": "dir",
     "title": "Blow",
-    "schemaCategory": "Swivel Chairs",
-    "variantCount": 2
-  },
-  {
-    "name": "breeze",
-    "href": "/families/breeze/",
-    "type": "dir",
-    "title": "Breeze",
     "schemaCategory": "Swivel Chairs",
     "variantCount": 2
   },

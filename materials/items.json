@@ -5,8 +5,17 @@
     "label": "Aluminium",
     "href": "/materials/aluminium/",
     "type": "dir",
+    "familyCount": 5,
+    "variantCount": 30
+  },
+  {
+    "description": "Chenillepolyester in furniture: Easy to shape, moisture proof and often lighter than metal or wood.",
+    "name": "chenillepolyester",
+    "label": "Chenillepolyester",
+    "href": "/materials/chenillepolyester/",
+    "type": "dir",
     "familyCount": 4,
-    "variantCount": 27
+    "variantCount": 8
   },
   {
     "description": "Cotton in furniture: Soft, breathable and absorbent, with a dry hand feel.",
@@ -14,8 +23,8 @@
     "label": "Cotton",
     "href": "/materials/cotton/",
     "type": "dir",
-    "familyCount": 14,
-    "variantCount": 38
+    "familyCount": 19,
+    "variantCount": 50
   },
   {
     "description": "Fabric in furniture: Comfort-led surface layer whose feel depends on fibre mix, weave density and backing.",
@@ -23,8 +32,8 @@
     "label": "Fabric",
     "href": "/materials/fabric/",
     "type": "dir",
-    "familyCount": 17,
-    "variantCount": 163
+    "familyCount": 22,
+    "variantCount": 176
   },
   {
     "description": "Faux leather in furniture: Smooth, easy to wipe and visually leather-like, but less breathable than real leather or fabric.",
@@ -50,8 +59,8 @@
     "label": "Foam",
     "href": "/materials/foam/",
     "type": "dir",
-    "familyCount": 17,
-    "variantCount": 109
+    "familyCount": 21,
+    "variantCount": 122
   },
   {
     "description": "Furniture board in furniture: Economical, flat and consistent across large surfaces.",
@@ -95,8 +104,17 @@
     "label": "MDF",
     "href": "/materials/mdf/",
     "type": "dir",
-    "familyCount": 4,
-    "variantCount": 10
+    "familyCount": 6,
+    "variantCount": 28
+  },
+  {
+    "description": "Melamine in furniture: Evaluate it through structure, moisture tolerance, maintenance needs and how it supports the furniture's intended use.",
+    "name": "melamine",
+    "label": "Melamine",
+    "href": "/materials/melamine/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 5
   },
   {
     "description": "Memory foam in furniture: Conforms closely to the body and rebounds more slowly than standard foam.",
@@ -113,8 +131,8 @@
     "label": "Metal",
     "href": "/materials/metal/",
     "type": "dir",
-    "familyCount": 5,
-    "variantCount": 43
+    "familyCount": 9,
+    "variantCount": 52
   },
   {
     "description": "Mikrofiber in furniture: Evaluate it through structure, moisture tolerance, maintenance needs and how it supports the furniture's intended use.",
@@ -140,8 +158,8 @@
     "label": "Oak",
     "href": "/materials/oak/",
     "type": "dir",
-    "familyCount": 6,
-    "variantCount": 15
+    "familyCount": 8,
+    "variantCount": 22
   },
   {
     "description": "Paper in furniture: Lightweight and design-flexible, but heavily dependent on coating and substrate support.",
@@ -158,8 +176,8 @@
     "label": "Particle board",
     "href": "/materials/particle-board/",
     "type": "dir",
-    "familyCount": 3,
-    "variantCount": 47
+    "familyCount": 4,
+    "variantCount": 52
   },
   {
     "description": "Pine in furniture: Light, warm-looking and easy to machine, but softer under impact.",
@@ -185,8 +203,8 @@
     "label": "Plywood",
     "href": "/materials/plywood/",
     "type": "dir",
-    "familyCount": 9,
-    "variantCount": 35
+    "familyCount": 15,
+    "variantCount": 52
   },
   {
     "description": "Polyester in furniture: Durable, low-absorbency and comparatively easy to maintain.",
@@ -194,8 +212,8 @@
     "label": "Polyester",
     "href": "/materials/polyester/",
     "type": "dir",
-    "familyCount": 26,
-    "variantCount": 105
+    "familyCount": 32,
+    "variantCount": 119
   },
   {
     "description": "Polypropylene in furniture: Light, stain resistant and highly moisture tolerant.",
@@ -212,8 +230,8 @@
     "label": "Polyrattan",
     "href": "/materials/polyrattan/",
     "type": "dir",
-    "familyCount": 2,
-    "variantCount": 7
+    "familyCount": 3,
+    "variantCount": 9
   },
   {
     "description": "Silicate in furniture: Hard, heat tolerant and visually crisp, with a dense mineral feel.",
@@ -240,7 +258,16 @@
     "href": "/materials/steel/",
     "type": "dir",
     "familyCount": 7,
-    "variantCount": 15
+    "variantCount": 17
+  },
+  {
+    "description": "Stone in furniture: Evaluate it through structure, moisture tolerance, maintenance needs and how it supports the furniture's intended use.",
+    "name": "stone",
+    "label": "Stone",
+    "href": "/materials/stone/",
+    "type": "dir",
+    "familyCount": 1,
+    "variantCount": 1
   },
   {
     "description": "Teak in furniture: Evaluate it through structure, moisture tolerance, maintenance needs and how it supports the furniture's intended use.",
@@ -293,8 +320,8 @@
     "label": "Wood",
     "href": "/materials/wood/",
     "type": "dir",
-    "familyCount": 11,
-    "variantCount": 89
+    "familyCount": 13,
+    "variantCount": 93
   },
   {
     "description": "Wood veneer in furniture: Gives authentic wood grain with more stable panel geometry than solid timber alone.",
@@ -302,8 +329,8 @@
     "label": "Wood veneer",
     "href": "/materials/wood-veneer/",
     "type": "dir",
-    "familyCount": 4,
-    "variantCount": 6
+    "familyCount": 6,
+    "variantCount": 25
   },
   {
     "description": "Wool in furniture: Warm, springy and naturally textured, with good recovery under foot and hand.",
@@ -311,7 +338,7 @@
     "label": "Wool",
     "href": "/materials/wool/",
     "type": "dir",
-    "familyCount": 2,
-    "variantCount": 4
+    "familyCount": 3,
+    "variantCount": 6
   }
 ]

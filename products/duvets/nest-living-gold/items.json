@@ -2,26 +2,34 @@
   {
     "sku": "201096",
     "name": "201096",
-    "title": "Nest & Living Gold Duvet, 150 x 200 x 5 cm",
-    "variantSummary": "150 x 200 x 5 cm",
+    "title": "Nest & Living Gold Duvet, 150 × 200 cm",
+    "variantSummary": "150 × 200 cm / White",
     "shortDescription": "Warm duvet with a breathable fabric blend and a fuller feel.",
     "selectionAttributes": {
-      "dimensions": "150 x 200 x 5 cm",
+      "dimensions": "150 × 200 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "",
-      "material": "Polyester, Cotton"
+      "color": "White",
+      "material": "Polyester, Cotton",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Duvet",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
-    "imageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+    "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.avif",
+    "imageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.avif",
     "imageUrls": [
-      "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
-      "/products/duvets/nest-living-gold/201096_2.jpg"
+      "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.avif",
+      "/products/duvets/nest-living-gold/201096_2.avif"
     ],
     "href": "/products/duvets/nest-living-gold/201096",
     "type": "file",
     "filterData": {
-      "searchText": "Nest & Living Gold Duvet, 150 x 200 x 5 cm Warm duvet with a breathable fabric blend and a fuller feel. Duvets Bedroom Nest & Living Gold Bedroom Duvets Nest & Living Gold Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 150 cm cm Logistics Weight 1.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Nest & Living Gold Duvet, 150 × 200 cm Warm duvet with a breathable fabric blend and a fuller feel. Duvets Bedroom Nest & Living Gold Bedroom Duvets Nest & Living Gold White Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 5 cm cm Dimensions Width 150 cm cm Logistics Weight 1.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -43,7 +51,13 @@
           "href": "/families/nest-living-gold/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -157,7 +171,7 @@
       ]
     },
     "sortData": {
-      "title": "Nest & Living Gold Duvet, 150 x 200 x 5 cm",
+      "title": "Nest & Living Gold Duvet, 150 × 200 cm",
       "summary": "Warm duvet with a breathable fabric blend and a fuller feel.",
       "variantCount": 1,
       "categoryLabel": "Duvets",
@@ -168,26 +182,34 @@
   {
     "sku": "201097",
     "name": "201097",
-    "title": "Nest & Living Gold Duvet, 230 x 200 x 4 cm",
-    "variantSummary": "230 x 200 x 4 cm",
+    "title": "Nest & Living Gold Duvet, 230 × 200 cm",
+    "variantSummary": "230 × 200 cm / White",
     "shortDescription": "Double duvet sized for wider beds and shared use.",
     "selectionAttributes": {
-      "dimensions": "230 x 200 x 4 cm",
+      "dimensions": "230 × 200 cm",
       "handedness": "",
       "comfortType": "",
-      "color": "",
-      "material": "Polyester, Cotton"
+      "color": "White",
+      "material": "Polyester, Cotton",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Duvet",
+      "colorLabel": "White",
+      "colorNote": "",
+      "axisPlan": "dimensions",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
-    "imageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
+    "primaryImageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.avif",
+    "imageUrl": "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.avif",
     "imageUrls": [
-      "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.jpg",
-      "/products/duvets/nest-living-gold/201097_2.jpg"
+      "/products/duvets/nest-living-gold/nest_living_gold_duvet_1.avif",
+      "/products/duvets/nest-living-gold/201097_2.avif"
     ],
     "href": "/products/duvets/nest-living-gold/201097",
     "type": "file",
     "filterData": {
-      "searchText": "Nest & Living Gold Duvet, 230 x 200 x 4 cm Double duvet sized for wider beds and shared use. Duvets Bedroom Nest & Living Gold Bedroom Duvets Nest & Living Gold Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 4 cm cm Dimensions Width 230 cm cm Logistics Weight 2.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Nest & Living Gold Duvet, 230 × 200 cm Double duvet sized for wider beds and shared use. Duvets Bedroom Nest & Living Gold Bedroom Duvets Nest & Living Gold White Cotton Polyester Care Cleaning method Water wash Dimensions Depth 200 cm cm Dimensions Height 4 cm cm Dimensions Width 230 cm cm Logistics Weight 2.5 kg kg Setup Assembly time 0 min min Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "bedroom",
@@ -209,7 +231,13 @@
           "href": "/families/nest-living-gold/"
         }
       ],
-      "colors": [],
+      "colors": [
+        {
+          "key": "white",
+          "label": "White",
+          "href": "/colors/white/"
+        }
+      ],
       "materials": [
         {
           "key": "cotton",
@@ -323,7 +351,7 @@
       ]
     },
     "sortData": {
-      "title": "Nest & Living Gold Duvet, 230 x 200 x 4 cm",
+      "title": "Nest & Living Gold Duvet, 230 × 200 cm",
       "summary": "Double duvet sized for wider beds and shared use.",
       "variantCount": 1,
       "categoryLabel": "Duvets",

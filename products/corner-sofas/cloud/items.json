@@ -2,33 +2,41 @@
   {
     "sku": "198183",
     "name": "198183",
-    "title": "Cloud Corner Sofas, Right",
-    "variantSummary": "258 x 205 cm / Right / Comfort foam / Beige",
+    "title": "Cloud Corner Sofa, Right",
+    "variantSummary": "258 × 205 cm / Right / Comfort foam / Beige",
     "shortDescription": "Right-hand corner sofa in beige polyester fabric with plywood and foam construction.",
     "selectionAttributes": {
-      "dimensions": "258 x 205 cm",
+      "dimensions": "258 × 205 cm",
       "handedness": "Right",
       "comfortType": "Comfort foam",
       "color": "Beige",
-      "material": "Polyester, Plywood, Wood, Foam"
+      "material": "Polyester, Plywood, Wood, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Corner sofa",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "handedness",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/cloud/198183_1.avif",
-    "imageUrl": "/products/corner-sofas/cloud/198183_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/cloud/198183_2.avif",
+    "imageUrl": "/products/corner-sofas/cloud/198183_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/cloud/198183_1.avif",
       "/products/corner-sofas/cloud/198183_2.avif",
-      "/products/corner-sofas/cloud/198183_3.avif",
       "/products/corner-sofas/cloud/198183_4.avif",
+      "/products/corner-sofas/cloud/198183_3.avif",
       "/products/corner-sofas/cloud/198183_5.avif",
       "/products/corner-sofas/cloud/198183_6.avif",
       "/products/corner-sofas/cloud/198183_7.avif",
-      "/products/corner-sofas/cloud/198183_8.avif",
-      "/products/corner-sofas/cloud/198183_9.avif"
+      "/products/corner-sofas/cloud/198183_9.avif",
+      "/products/corner-sofas/cloud/198183_1.avif",
+      "/products/corner-sofas/cloud/198183_8.avif"
     ],
     "href": "/products/corner-sofas/cloud/198183",
     "type": "file",
     "filterData": {
-      "searchText": "Cloud Corner Sofas, Right Right-hand corner sofa in beige polyester fabric with plywood and foam construction. Corner Sofas Living room Cloud Living room Corner Sofas Cloud Beige Foam Plywood Polyester Wood Care Cleaning method Wash 30°C Care Removable covers No Configuration Handedness configuration Fixed Dimensions Depth 205 cm cm Dimensions Height 83 cm cm Dimensions Width 258 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.98 m³ m³ Logistics Weight 60 kg kg Logistics Weight 110 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 3.5 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
+      "searchText": "Cloud Corner Sofa, Right Right-hand corner sofa in beige polyester fabric with plywood and foam construction. Corner Sofas Living room Cloud Living room Corner Sofas Cloud Beige Foam Plywood Polyester Wood Care Cleaning method Wash 30°C Care Removable covers No Configuration Handedness configuration Fixed Dimensions Depth 205 cm cm Dimensions Height 83 cm cm Dimensions Width 258 cm cm Logistics Package count 1 package package Logistics Package weight 60 kg kg Logistics Product count 1 product product Logistics Volume 0.98 m³ m³ Logistics Weight 110 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 3.5 Warranty Price guarantee 30 days days Warranty Quality guarantee 1000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -168,6 +176,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "60-kg",
+          "valueLabel": "60 kg",
+          "href": "/attributes/logistics/package-weight/60-kg/",
+          "valueType": "enum",
+          "numericValue": 60,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -188,18 +208,6 @@
           "valueType": "enum",
           "numericValue": 0.98,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "60-kg",
-          "valueLabel": "60 kg",
-          "href": "/attributes/logistics/weight/60-kg/",
-          "valueType": "enum",
-          "numericValue": 60,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -288,7 +296,7 @@
       ]
     },
     "sortData": {
-      "title": "Cloud Corner Sofas, Right",
+      "title": "Cloud Corner Sofa, Right",
       "summary": "Right-hand corner sofa in beige polyester fabric with plywood and foam construction.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
@@ -299,27 +307,35 @@
   {
     "sku": "207498",
     "name": "207498",
-    "title": "Cloud Corner Sofas, Left",
-    "variantSummary": "258 x 205 cm / Left / Comfort foam / Beige",
+    "title": "Cloud Corner Sofa, Left",
+    "variantSummary": "258 × 205 cm / Left / Comfort foam / Beige",
     "shortDescription": "Left-hand corner sofa in beige polyester fabric with plywood and foam construction.",
     "selectionAttributes": {
-      "dimensions": "258 x 205 cm",
+      "dimensions": "258 × 205 cm",
       "handedness": "Left",
       "comfortType": "Comfort foam",
       "color": "Beige",
-      "material": "Polyester, Plywood, Wood, Foam"
+      "material": "Polyester, Plywood, Wood, Foam",
+      "productType": "",
+      "productTypeNote": "",
+      "productNoun": "Corner sofa",
+      "colorLabel": "Beige",
+      "colorNote": "",
+      "axisPlan": "handedness",
+      "axisVersion": "1.0.0",
+      "duplicateOf": ""
     },
-    "primaryImageUrl": "/products/corner-sofas/cloud/207498_1.avif",
-    "imageUrl": "/products/corner-sofas/cloud/207498_1.avif",
+    "primaryImageUrl": "/products/corner-sofas/cloud/207498_2.avif",
+    "imageUrl": "/products/corner-sofas/cloud/207498_2.avif",
     "imageUrls": [
-      "/products/corner-sofas/cloud/207498_1.avif",
       "/products/corner-sofas/cloud/207498_2.avif",
-      "/products/corner-sofas/cloud/207498_3.avif"
+      "/products/corner-sofas/cloud/207498_3.avif",
+      "/products/corner-sofas/cloud/207498_1.avif"
     ],
     "href": "/products/corner-sofas/cloud/207498",
     "type": "file",
     "filterData": {
-      "searchText": "Cloud Corner Sofas, Left Left-hand corner sofa in beige polyester fabric with plywood and foam construction. Corner Sofas Living room Cloud Living room Corner Sofas Cloud Beige Foam Plywood Polyester Wood Care Cleaning method Wash 30°C Care Removable covers No Configuration Handedness configuration Fixed Dimensions Depth 205 cm cm Dimensions Height 83 cm cm Dimensions Width 258 cm cm Logistics Package count 1 package package Logistics Product count 1 product product Logistics Volume 0.82 m³ m³ Logistics Weight 50 kg kg Logistics Weight 110 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 3.5 Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
+      "searchText": "Cloud Corner Sofa, Left Left-hand corner sofa in beige polyester fabric with plywood and foam construction. Corner Sofas Living room Cloud Living room Corner Sofas Cloud Beige Foam Plywood Polyester Wood Care Cleaning method Wash 30°C Care Removable covers No Configuration Handedness configuration Fixed Dimensions Depth 205 cm cm Dimensions Height 83 cm cm Dimensions Width 258 cm cm Logistics Package count 1 package package Logistics Package weight 50 kg kg Logistics Product count 1 product product Logistics Volume 0.82 m³ m³ Logistics Weight 110 kg kg Padding Foam density 30 kg/m³ kg/m³ Setup Assembly time 30 min min Upholstery Lightfastness 4 Upholstery Pilling 3.5 Warranty Price guarantee 30 days days Warranty Quality guarantee 4000 days days",
       "collections": [
         {
           "key": "living-room",
@@ -459,6 +475,18 @@
         {
           "groupKey": "logistics",
           "groupLabel": "Logistics",
+          "key": "package-weight",
+          "label": "Package weight",
+          "valueKey": "50-kg",
+          "valueLabel": "50 kg",
+          "href": "/attributes/logistics/package-weight/50-kg/",
+          "valueType": "enum",
+          "numericValue": 50,
+          "unit": "kg"
+        },
+        {
+          "groupKey": "logistics",
+          "groupLabel": "Logistics",
           "key": "product-count",
           "label": "Product count",
           "valueKey": "1-product",
@@ -479,18 +507,6 @@
           "valueType": "enum",
           "numericValue": 0.82,
           "unit": "m³"
-        },
-        {
-          "groupKey": "logistics",
-          "groupLabel": "Logistics",
-          "key": "weight",
-          "label": "Weight",
-          "valueKey": "50-kg",
-          "valueLabel": "50 kg",
-          "href": "/attributes/logistics/weight/50-kg/",
-          "valueType": "enum",
-          "numericValue": 50,
-          "unit": "kg"
         },
         {
           "groupKey": "logistics",
@@ -579,7 +595,7 @@
       ]
     },
     "sortData": {
-      "title": "Cloud Corner Sofas, Left",
+      "title": "Cloud Corner Sofa, Left",
       "summary": "Left-hand corner sofa in beige polyester fabric with plywood and foam construction.",
       "variantCount": 1,
       "categoryLabel": "Corner Sofas",
