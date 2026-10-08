@@ -1,10 +1,1 @@
-[
-  {
-    "name": "moon-silver",
-    "href": "/families/moon-silver/",
-    "type": "dir",
-    "title": "Moon Silver",
-    "schemaCategory": "Continental Beds",
-    "variantCount": 10
-  }
-]
+[{"name":"moon","href":"/families/moon/","type":"dir","title":"Moon","schemaCategory":"Continental Beds","variantCount":10}]

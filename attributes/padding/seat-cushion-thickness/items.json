@@ -1,14 +1,1 @@
-[
-  {
-    "name": "8-cm",
-    "label": "8 cm",
-    "href": "/attributes/padding/seat-cushion-thickness/8-cm/",
-    "type": "dir",
-    "description": "8 cm is the published seat cushion thickness for the products listed here. The value appears on 1 Nest & Living product option across 1 product family. Examples include Outdoor Lounge Set.",
-    "familyCount": 1,
-    "variantCount": 1,
-    "valueType": "measurement",
-    "numericValue": 8,
-    "unit": "cm"
-  }
-]
+[{"name":"8-cm","label":"8 cm","href":"/attributes/padding/seat-cushion-thickness/8-cm/","type":"dir","description":"8 cm is the published seat cushion thickness for the products listed here. The value appears on 1 Nest & Living product option across 1 product family. Examples include Outdoor Lounge Set.","familyCount":1,"variantCount":1,"valueType":"measurement","numericValue":8,"unit":"cm"}]

@@ -1,18 +1,1 @@
-[
-  {
-    "name": "moon-gold",
-    "href": "/families/moon-gold/",
-    "type": "dir",
-    "title": "Moon Gold",
-    "schemaCategory": "Adjustable Beds",
-    "variantCount": 6
-  },
-  {
-    "name": "swallow",
-    "href": "/families/swallow/",
-    "type": "dir",
-    "title": "Swallow",
-    "schemaCategory": "Side Tables",
-    "variantCount": 1
-  }
-]
+[{"name":"moon","href":"/families/moon/","type":"dir","title":"Moon","schemaCategory":"Adjustable Beds","variantCount":6},{"name":"swallow","href":"/families/swallow/","type":"dir","title":"Swallow","schemaCategory":"Side Tables","variantCount":1}]

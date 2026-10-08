@@ -1,18 +1,1 @@
-[
-  {
-    "name": "moon-bronze",
-    "href": "/families/moon-bronze/",
-    "type": "dir",
-    "title": "Moon Bronze",
-    "schemaCategory": "Continental Beds",
-    "variantCount": 4
-  },
-  {
-    "name": "house-nordic-beckley",
-    "href": "/families/house-nordic-beckley/",
-    "type": "dir",
-    "title": "House Nordic Beckley",
-    "schemaCategory": "Planters & Pots",
-    "variantCount": 1
-  }
-]
+[{"name":"moon","href":"/families/moon/","type":"dir","title":"Moon","schemaCategory":"Continental Beds","variantCount":4},{"name":"house-nordic-beckley","href":"/families/house-nordic-beckley/","type":"dir","title":"House Nordic Beckley","schemaCategory":"Planters & Pots","variantCount":1}]

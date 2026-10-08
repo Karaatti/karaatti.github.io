@@ -1,10 +1,1 @@
-[
-  {
-    "name": "haave",
-    "href": "/families/haave/",
-    "type": "dir",
-    "title": "Haave",
-    "schemaCategory": "Corner Sofas",
-    "variantCount": 2
-  }
-]
+[{"name":"sparkle","href":"/families/sparkle/","type":"dir","title":"Sparkle","schemaCategory":"Chaise Sofas","variantCount":6},{"name":"haave","href":"/families/haave/","type":"dir","title":"Haave","schemaCategory":"Corner Sofas","variantCount":2}]

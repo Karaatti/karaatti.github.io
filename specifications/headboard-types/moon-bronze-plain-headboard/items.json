@@ -1,10 +1,1 @@
-[
-  {
-    "name": "moon-bronze",
-    "href": "/families/moon-bronze/",
-    "type": "dir",
-    "title": "Moon Bronze",
-    "schemaCategory": "Headboards",
-    "variantCount": 15
-  }
-]
+[{"name":"moon","href":"/families/moon/","type":"dir","title":"Moon","schemaCategory":"Headboards","variantCount":15}]

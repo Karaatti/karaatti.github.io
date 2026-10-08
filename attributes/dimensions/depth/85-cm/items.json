@@ -1,10 +1,1 @@
-[
-  {
-    "name": "breeze",
-    "href": "/families/breeze/",
-    "type": "dir",
-    "title": "Breeze",
-    "schemaCategory": "Swivel Chairs",
-    "variantCount": 3
-  }
-]
+[{"name":"breeze","href":"/families/breeze/","type":"dir","title":"Breeze","schemaCategory":"Swivel Chairs","variantCount":3},{"name":"meta","href":"/families/meta/","type":"dir","title":"Meta","schemaCategory":"Coffee Tables","variantCount":1},{"name":"tilda","href":"/families/tilda/","type":"dir","title":"Tilda","schemaCategory":"Coffee Tables","variantCount":1}]

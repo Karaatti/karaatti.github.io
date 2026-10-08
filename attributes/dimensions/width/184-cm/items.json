@@ -1,18 +1,1 @@
-[
-  {
-    "name": "casa",
-    "href": "/families/casa/",
-    "type": "dir",
-    "title": "Casa",
-    "schemaCategory": "Bed Frames",
-    "variantCount": 1
-  },
-  {
-    "name": "moonlit",
-    "href": "/families/moonlit/",
-    "type": "dir",
-    "title": "Moonlit",
-    "schemaCategory": "Bed Frames",
-    "variantCount": 1
-  }
-]
+[{"name":"casa","href":"/families/casa/","type":"dir","title":"Casa","schemaCategory":"Bed Frames","variantCount":1},{"name":"moonlit","href":"/families/moonlit/","type":"dir","title":"Moonlit","schemaCategory":"Bed Frames","variantCount":1}]

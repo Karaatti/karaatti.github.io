@@ -1,14 +1,1 @@
-[
-  {
-    "name": "2000-days",
-    "label": "2,000 days",
-    "href": "/attributes/warranty/memory-warranty/2000-days/",
-    "type": "dir",
-    "description": "2,000 days is the published memory warranty for the products listed here. The value appears on 31 Nest & Living product options across 1 product family. Examples include Continental Bed, Divan Bed and Mattress.",
-    "familyCount": 1,
-    "variantCount": 31,
-    "valueType": "measurement",
-    "numericValue": 2000,
-    "unit": "days"
-  }
-]
+[{"name":"2000-days","label":"2,000 days","href":"/attributes/warranty/memory-warranty/2000-days/","type":"dir","description":"2,000 days is the published memory warranty for the products listed here. The value appears on 31 Nest & Living product options across 1 product family. Examples include Continental Bed, Divan Bed and Mattress.","familyCount":1,"variantCount":31,"valueType":"measurement","numericValue":2000,"unit":"days"}]

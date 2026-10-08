@@ -1,18 +1,1 @@
-[
-  {
-    "name": "nicola",
-    "href": "/families/nicola/",
-    "type": "dir",
-    "title": "Nicola",
-    "schemaCategory": "Dining Chairs",
-    "variantCount": 3
-  },
-  {
-    "name": "moon-gold",
-    "href": "/families/moon-gold/",
-    "type": "dir",
-    "title": "Moon Gold",
-    "schemaCategory": "Toppers",
-    "variantCount": 1
-  }
-]
+[{"name":"nicola","href":"/families/nicola/","type":"dir","title":"Nicola","schemaCategory":"Dining Chairs","variantCount":3},{"name":"moon","href":"/families/moon/","type":"dir","title":"Moon","schemaCategory":"Toppers","variantCount":1}]

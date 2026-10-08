@@ -1,14 +1,1 @@
-[
-  {
-    "name": "30-days",
-    "label": "30 days",
-    "href": "/attributes/warranty/price-guarantee/30-days/",
-    "type": "dir",
-    "description": "30 days is the published price guarantee for the products listed here. The value appears on 270 Nest & Living product options across 35 product families. Examples include 4-Seater Sofa, Adjustable Bed and Armchair, among others.",
-    "familyCount": 35,
-    "variantCount": 270,
-    "valueType": "measurement",
-    "numericValue": 30,
-    "unit": "days"
-  }
-]
+[{"name":"30-days","label":"30 days","href":"/attributes/warranty/price-guarantee/30-days/","type":"dir","description":"30 days is the published price guarantee for the products listed here. The value appears on 270 Nest & Living product options across 32 product families. Examples include 4-Seater Sofa, Adjustable Bed and Armchair, among others.","familyCount":32,"variantCount":270,"valueType":"measurement","numericValue":30,"unit":"days"}]

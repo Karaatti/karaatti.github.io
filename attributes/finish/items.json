@@ -1,12 +1,1 @@
-[
-  {
-    "name": "surface-finish",
-    "label": "Surface finish",
-    "href": "/attributes/finish/surface-finish/",
-    "type": "dir",
-    "entryCount": 2,
-    "variantCount": 3,
-    "valueType": "enum",
-    "numericFilter": null
-  }
-]
+[{"name":"surface-finish","label":"Surface finish","href":"/attributes/finish/surface-finish/","type":"dir","entryCount":2,"variantCount":3,"valueType":"enum","numericFilter":null}]

@@ -1,14 +1,1 @@
-[
-  {
-    "name": "no",
-    "label": "No",
-    "href": "/attributes/accessories/topper-included/no/",
-    "type": "dir",
-    "description": "No is the published answer to whether a mattress topper is included. The value appears on 85 Nest & Living product options across 3 product families. Examples include Adjustable Bed, Continental Bed and Divan Bed, among others.",
-    "familyCount": 3,
-    "variantCount": 85,
-    "valueType": "enum",
-    "numericValue": null,
-    "unit": ""
-  }
-]
+[{"name":"no","label":"No","href":"/attributes/accessories/topper-included/no/","type":"dir","description":"No is the published answer to whether a mattress topper is included. The value appears on 85 Nest & Living product options across 1 product family. Examples include Adjustable Bed, Continental Bed and Divan Bed, among others.","familyCount":1,"variantCount":85,"valueType":"enum","numericValue":null,"unit":""}]

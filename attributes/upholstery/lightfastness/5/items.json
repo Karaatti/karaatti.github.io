@@ -1,18 +1,1 @@
-[
-  {
-    "name": "breeze",
-    "href": "/families/breeze/",
-    "type": "dir",
-    "title": "Breeze",
-    "schemaCategory": "Swivel Chairs",
-    "variantCount": 3
-  },
-  {
-    "name": "wind",
-    "href": "/families/wind/",
-    "type": "dir",
-    "title": "Wind",
-    "schemaCategory": "Swivel Chairs",
-    "variantCount": 2
-  }
-]
+[{"name":"breeze","href":"/families/breeze/","type":"dir","title":"Breeze","schemaCategory":"Swivel Chairs","variantCount":3},{"name":"wind","href":"/families/wind/","type":"dir","title":"Wind","schemaCategory":"Swivel Chairs","variantCount":2}]

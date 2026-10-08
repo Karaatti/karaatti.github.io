@@ -1,18 +1,1 @@
-[
-  {
-    "name": "nicola",
-    "href": "/families/nicola/",
-    "type": "dir",
-    "title": "Nicola",
-    "schemaCategory": "Dining Chairs",
-    "variantCount": 3
-  },
-  {
-    "name": "house-nordic-beckley",
-    "href": "/families/house-nordic-beckley/",
-    "type": "dir",
-    "title": "House Nordic Beckley",
-    "schemaCategory": "Planters & Pots",
-    "variantCount": 1
-  }
-]
+[{"name":"nicola","href":"/families/nicola/","type":"dir","title":"Nicola","schemaCategory":"Dining Chairs","variantCount":3},{"name":"house-nordic-beckley","href":"/families/house-nordic-beckley/","type":"dir","title":"House Nordic Beckley","schemaCategory":"Planters & Pots","variantCount":1}]

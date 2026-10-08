@@ -1,18 +1,1 @@
-[
-  {
-    "name": "westcoast",
-    "href": "/families/westcoast/",
-    "type": "dir",
-    "title": "Westcoast",
-    "schemaCategory": "Footstools",
-    "variantCount": 3
-  },
-  {
-    "name": "islet",
-    "href": "/families/islet/",
-    "type": "dir",
-    "title": "Islet",
-    "schemaCategory": "Coffee Tables",
-    "variantCount": 1
-  }
-]
+[{"name":"meta","href":"/families/meta/","type":"dir","title":"Meta","schemaCategory":"Coffee Tables","variantCount":3},{"name":"metz","href":"/families/metz/","type":"dir","title":"Metz","schemaCategory":"Coffee Tables","variantCount":3},{"name":"westcoast","href":"/families/westcoast/","type":"dir","title":"Westcoast","schemaCategory":"Footstools","variantCount":3},{"name":"islet","href":"/families/islet/","type":"dir","title":"Islet","schemaCategory":"Coffee Tables","variantCount":1},{"name":"stavanger","href":"/families/stavanger/","type":"dir","title":"Stavanger","schemaCategory":"Outdoor Coffee & Side Tables","variantCount":1}]

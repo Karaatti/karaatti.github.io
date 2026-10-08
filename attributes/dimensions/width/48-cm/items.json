@@ -1,10 +1,1 @@
-[
-  {
-    "name": "bow",
-    "href": "/families/bow/",
-    "type": "dir",
-    "title": "Bow",
-    "schemaCategory": "Dining Chairs",
-    "variantCount": 3
-  }
-]
+[{"name":"bow","href":"/families/bow/","type":"dir","title":"Bow","schemaCategory":"Dining Chairs","variantCount":3},{"name":"stavanger","href":"/families/stavanger/","type":"dir","title":"Stavanger","schemaCategory":"Outdoor Coffee & Side Tables","variantCount":1}]

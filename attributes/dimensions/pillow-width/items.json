@@ -1,14 +1,1 @@
-[
-  {
-    "name": "60-cm",
-    "label": "60 cm",
-    "href": "/attributes/dimensions/pillow-width/60-cm/",
-    "type": "dir",
-    "description": "60 cm is the published pillow width for the products listed here. The value appears on 2 Nest & Living product options across 2 product families. Examples include Duvet & Pillow Set.",
-    "familyCount": 2,
-    "variantCount": 2,
-    "valueType": "measurement",
-    "numericValue": 60,
-    "unit": "cm"
-  }
-]
+[{"name":"60-cm","label":"60 cm","href":"/attributes/dimensions/pillow-width/60-cm/","type":"dir","description":"60 cm is the published pillow width for the products listed here. The value appears on 2 Nest & Living product options across 2 product families. Examples include Duvet & Pillow Set.","familyCount":2,"variantCount":2,"valueType":"measurement","numericValue":60,"unit":"cm"}]

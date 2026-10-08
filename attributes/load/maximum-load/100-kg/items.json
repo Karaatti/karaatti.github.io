@@ -1,18 +1,1 @@
-[
-  {
-    "name": "haven",
-    "href": "/families/haven/",
-    "type": "dir",
-    "title": "Haven",
-    "schemaCategory": "Outdoor Lounge Sets",
-    "variantCount": 1
-  },
-  {
-    "name": "mystery",
-    "href": "/families/mystery/",
-    "type": "dir",
-    "title": "Mystery",
-    "schemaCategory": "Shelves",
-    "variantCount": 1
-  }
-]
+[{"name":"haven","href":"/families/haven/","type":"dir","title":"Haven","schemaCategory":"Outdoor Lounge Sets","variantCount":1},{"name":"mystery","href":"/families/mystery/","type":"dir","title":"Mystery","schemaCategory":"Shelves","variantCount":1}]

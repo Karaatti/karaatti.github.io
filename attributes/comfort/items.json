@@ -1,12 +1,1 @@
-[
-  {
-    "name": "firmness",
-    "label": "Firmness",
-    "href": "/attributes/comfort/firmness/",
-    "type": "dir",
-    "entryCount": 2,
-    "variantCount": 78,
-    "valueType": "enum",
-    "numericFilter": null
-  }
-]
+[{"name":"firmness","label":"Firmness","href":"/attributes/comfort/firmness/","type":"dir","entryCount":2,"variantCount":78,"valueType":"enum","numericFilter":null}]

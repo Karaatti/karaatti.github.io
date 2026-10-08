@@ -1,18 +1,1 @@
-[
-  {
-    "name": "lugo",
-    "href": "/families/lugo/",
-    "type": "dir",
-    "title": "Lugo",
-    "schemaCategory": "3-Seater Sofas",
-    "variantCount": 2
-  },
-  {
-    "name": "dove",
-    "href": "/families/dove/",
-    "type": "dir",
-    "title": "Dove",
-    "schemaCategory": "Armchairs",
-    "variantCount": 1
-  }
-]
+[{"name":"lugo","href":"/families/lugo/","type":"dir","title":"Lugo","schemaCategory":"3-Seater Sofas","variantCount":2},{"name":"dove","href":"/families/dove/","type":"dir","title":"Dove","schemaCategory":"Armchairs","variantCount":1},{"name":"freedom","href":"/families/freedom/","type":"dir","title":"Freedom","schemaCategory":"3-Seater Sofas","variantCount":1}]

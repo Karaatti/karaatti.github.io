@@ -1,18 +1,1 @@
-[
-  {
-    "name": "island",
-    "href": "/families/island/",
-    "type": "dir",
-    "title": "Island",
-    "schemaCategory": "Coffee Tables",
-    "variantCount": 2
-  },
-  {
-    "name": "reef",
-    "href": "/families/reef/",
-    "type": "dir",
-    "title": "Reef",
-    "schemaCategory": "Coffee Tables",
-    "variantCount": 2
-  }
-]
+[{"name":"island","href":"/families/island/","type":"dir","title":"Island","schemaCategory":"Coffee Tables","variantCount":2},{"name":"reef","href":"/families/reef/","type":"dir","title":"Reef","schemaCategory":"Coffee Tables","variantCount":2},{"name":"tilda","href":"/families/tilda/","type":"dir","title":"Tilda","schemaCategory":"Coffee Tables","variantCount":1}]

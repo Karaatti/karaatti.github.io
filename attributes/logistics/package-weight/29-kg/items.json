@@ -1,18 +1,1 @@
-[
-  {
-    "name": "moon-gold",
-    "href": "/families/moon-gold/",
-    "type": "dir",
-    "title": "Moon Gold",
-    "schemaCategory": "Continental Beds, Divan Beds and Mattresses",
-    "variantCount": 9
-  },
-  {
-    "name": "messina",
-    "href": "/families/messina/",
-    "type": "dir",
-    "title": "Messina",
-    "schemaCategory": "Outdoor Dining Tables",
-    "variantCount": 1
-  }
-]
+[{"name":"moon","href":"/families/moon/","type":"dir","title":"Moon","schemaCategory":"Continental Beds, Divan Beds and Mattresses","variantCount":9},{"name":"messina","href":"/families/messina/","type":"dir","title":"Messina","schemaCategory":"Outdoor Dining Tables","variantCount":1}]

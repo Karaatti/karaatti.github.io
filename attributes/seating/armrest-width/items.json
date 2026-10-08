@@ -1,14 +1,1 @@
-[
-  {
-    "name": "26-cm",
-    "label": "26 cm",
-    "href": "/attributes/seating/armrest-width/26-cm/",
-    "type": "dir",
-    "description": "26 cm is the published armrest width for the products listed here. The value appears on 12 Nest & Living product options across 2 product families. Examples include 3-Seater Sofa, Chaise Sofa and Corner Sofa.",
-    "familyCount": 2,
-    "variantCount": 12,
-    "valueType": "measurement",
-    "numericValue": 26,
-    "unit": "cm"
-  }
-]
+[{"name":"26-cm","label":"26 cm","href":"/attributes/seating/armrest-width/26-cm/","type":"dir","description":"26 cm is the published armrest width for the products listed here. The value appears on 12 Nest & Living product options across 2 product families. Examples include 3-Seater Sofa, Chaise Sofa and Corner Sofa.","familyCount":2,"variantCount":12,"valueType":"measurement","numericValue":26,"unit":"cm"},{"name":"32-cm","label":"32 cm","href":"/attributes/seating/armrest-width/32-cm/","type":"dir","description":"32 cm is the published armrest width for the products listed here. The value appears on 6 Nest & Living product options across 1 product family. Examples include Chaise Sofa.","familyCount":1,"variantCount":6,"valueType":"measurement","numericValue":32,"unit":"cm"}]

@@ -1,14 +1,1 @@
-[
-  {
-    "name": "200-cm",
-    "label": "200 cm",
-    "href": "/attributes/dimensions/inner-depth/200-cm/",
-    "type": "dir",
-    "description": "200 cm is the published inner depth for the products listed here. The value appears on 3 Nest & Living product options across 2 product families. Examples include Bed Frame.",
-    "familyCount": 2,
-    "variantCount": 3,
-    "valueType": "measurement",
-    "numericValue": 200,
-    "unit": "cm"
-  }
-]
+[{"name":"200-cm","label":"200 cm","href":"/attributes/dimensions/inner-depth/200-cm/","type":"dir","description":"200 cm is the published inner depth for the products listed here. The value appears on 3 Nest & Living product options across 2 product families. Examples include Bed Frame.","familyCount":2,"variantCount":3,"valueType":"measurement","numericValue":200,"unit":"cm"}]

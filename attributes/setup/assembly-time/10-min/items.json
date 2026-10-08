@@ -1,18 +1,1 @@
-[
-  {
-    "name": "westcoast",
-    "href": "/families/westcoast/",
-    "type": "dir",
-    "title": "Westcoast",
-    "schemaCategory": "Footstools and Sofa Accessories",
-    "variantCount": 6
-  },
-  {
-    "name": "nicola",
-    "href": "/families/nicola/",
-    "type": "dir",
-    "title": "Nicola",
-    "schemaCategory": "Dining Chairs",
-    "variantCount": 2
-  }
-]
+[{"name":"westcoast","href":"/families/westcoast/","type":"dir","title":"Westcoast","schemaCategory":"Footstools and Sofa Accessories","variantCount":6},{"name":"nicola","href":"/families/nicola/","type":"dir","title":"Nicola","schemaCategory":"Dining Chairs","variantCount":2}]
