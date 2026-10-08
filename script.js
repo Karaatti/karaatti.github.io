@@ -4521,8 +4521,13 @@ function render(item, tokens = []) {
 
   const img = document.createElement("img");
   img.className = "item-image";
-  img.crossOrigin = "anonymous";
-  img.loading = "lazy";
+  img.loading = "eager";
+  img.decoding = "async";
+  const imageSource = previewVariant || item;
+  if (imageSource.imageWidth > 0 && imageSource.imageHeight > 0) {
+    img.width = imageSource.imageWidth;
+    img.height = imageSource.imageHeight;
+  }
   img.src = resolveSiteUrl(previewVariant?.image || item.image || "/images/brand/nest-living-stamp-color.svg");
   img.alt = displayTitle.join(" ") || item.title;
   img.addEventListener("error", () => {
